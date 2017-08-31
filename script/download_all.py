@@ -15,7 +15,7 @@ from random import choice
 
 
 #获取当前时间和路径
-now_time = time.strftime("%Y-%m-%d-%H-%M-%S",time.localtime())
+now_time = time.strftime("%Y-%m-%d",time.localtime())
 now_dir = os.getcwd()
 
 #创建新的database文件夹
@@ -64,12 +64,16 @@ class = {dir}/pathwayId_pathwayName_typeII_typeI
 pathway_all_html = {dir}/pathway.html
 
 #用于获取KO的description 手动COPY全网页http://www.kegg.jp/kegg-bin/get_htext?ko00000.keg
-KO_All_Categories =  {dir}/KO-All-Categories.txt
+KO_All_Categories = {dir}/KO-All-Categories.txt
 
 #organism全物种的通路ko信息
 organism2ko = {dir}/organism/
 
-[COG]'''.format(time = now_time,dir = new_dir))
+[COG]
+
+[DOCX]
+docx_dir = {dir}/docx_dir/
+'''.format(time = now_time,dir = new_dir))
 
 #获取新的配置文件信息
 cfg = ConfigParser.ConfigParser()
@@ -77,11 +81,11 @@ cfg.read('%s/config.ini' %(new_dir))
 
 ##下载go.obo
 print('\ngo.obo is downloading')
-#go_obo_url = 'http://purl.obolibrary.org/obo/go.obo'
-#go_obo_downloadname = wget.download(go_obo_url)
-#go_obo_name = cfg.get('GO','go_obo')
-#cmd = 'mv %s %s' %(go_obo_downloadname,go_obo_name)
-#os.system(cmd)
+go_obo_url = 'http://purl.obolibrary.org/obo/go.obo'
+go_obo_downloadname = wget.download(go_obo_url)
+go_obo_name = cfg.get('GO','go_obo')
+cmd = 'mv %s %s' %(go_obo_downloadname,go_obo_name)
+os.system(cmd)
 
 ##获取所有ko的列表
 print('\npathway.list KO.list is downloading')
@@ -89,14 +93,14 @@ pathway_list_url = 'http://rest.kegg.jp/list/pathway'
 pathway_list = re.findall(r'path:map(\d*)',requests.get(pathway_list_url).text)
 
 ##获取所有KO/CID的列表的列表
-#COMPOUND_list_url = 'http://rest.kegg.jp/list/COMPOUND'
-#COMPOUND_data = requests.get(COMPOUND_list_url).text
+COMPOUND_list_url = 'http://rest.kegg.jp/list/COMPOUND'
+COMPOUND_data = requests.get(COMPOUND_list_url).text
 
-#ORTHOLOGY_list_url = 'http://rest.kegg.jp/list/ORTHOLOGY'
-#ORTHOLOGY_data = requests.get(ORTHOLOGY_list_url).text
+ORTHOLOGY_list_url = 'http://rest.kegg.jp/list/ORTHOLOGY'
+ORTHOLOGY_data = requests.get(ORTHOLOGY_list_url).text
 
-#with open(cfg.get("KEGG","KO2name"),'w')as KOname_w:
-#	KOname_w.write('%s\n%s' %(COMPOUND_data,ORTHOLOGY_data))
+with open(cfg.get("KEGG","KO2name"),'w')as KOname_w:
+	KOname_w.write('%s\n%s' %(COMPOUND_data,ORTHOLOGY_data))
 
 print('\npathway`s png and html is downloading')	
 ##下载所有ko的网页和png信息
@@ -123,6 +127,7 @@ download_pathway_list = pathway_list
 while 1:
 	if (len(download_pathway_list))>0:
 		ko = choice(download_pathway_list)
+		print(len(download_pathway_list))
 		if download_png_html(ko):
 			download_pathway_list.remove(ko)
 
@@ -200,9 +205,23 @@ def org_txt2list_(org):
 map(org_txt2list_,org2family)		
 		
 print('\n before docx')
+
+
 ##在结题报告中写入新的版本信息
+with open(go_obo_name,'r')as go_obo_r:
+	'''format-version: 1.2
+	data-version: releases/2017-07-28'''
+	format_version = go_obo_r.readline()
+	data_version = go_obo_r.readline()
+	
+print(u'''此次项目中，公司使用的GO数据更新日期是：%s,对应GO官方网站的数据格式是：%s
+,对应GO官方网站的数据更新日期是：%s。''' %(now_time,format_version,data_version))
 
-
+kegg_release_url = 'http://www.kegg.jp/kegg/docs/relnote.html'
+kegg_release_data = requests.get(kegg_release_url).text
+kegg_release = re.findall(r'<h4>Current release</h4>\n\n(.*?)\n<ul>',kegg_release_data)
+print(u'''此次项目中，公司使用的KEGG数据更新日期是：%s,对应KEGG官方网站的数据格式是：%s'''
+%(now_time,kegg_release))
 
 ##链接config.ini
 cmd = 'rm config.ini && ln -s %s/config.ini config.ini' %(new_dir)
