@@ -79,58 +79,58 @@ docx_dir = {dir}/docx_dir/
 cfg = ConfigParser.ConfigParser()
 cfg.read('%s/config.ini' %(new_dir))
 
-##下载go.obo
-print('\ngo.obo is downloading')
-go_obo_url = 'http://purl.obolibrary.org/obo/go.obo'
-go_obo_downloadname = wget.download(go_obo_url)
-go_obo_name = cfg.get('GO','go_obo')
-cmd = 'mv %s %s' %(go_obo_downloadname,go_obo_name)
-os.system(cmd)
-
-##获取所有ko的列表
-print('\npathway.list KO.list is downloading')
-pathway_list_url = 'http://rest.kegg.jp/list/pathway'
-pathway_list = re.findall(r'path:map(\d*)',requests.get(pathway_list_url).text)
-
-##获取所有KO/CID的列表的列表
-COMPOUND_list_url = 'http://rest.kegg.jp/list/COMPOUND'
-COMPOUND_data = requests.get(COMPOUND_list_url).text
-
-ORTHOLOGY_list_url = 'http://rest.kegg.jp/list/ORTHOLOGY'
-ORTHOLOGY_data = requests.get(ORTHOLOGY_list_url).text
-
-with open(cfg.get("KEGG","KO2name"),'w')as KOname_w:
-	KOname_w.write('%s\n%s' %(COMPOUND_data,ORTHOLOGY_data))
-
-print('\npathway`s png and html is downloading')	
-##下载所有ko的网页和png信息
-pathwayshtml = cfg.get("KEGG","pathwayshtml")
-os.mkdir(pathwayshtml)
-pathwaysimage = cfg.get("KEGG","pathwaysimage")
-os.mkdir(pathwaysimage)
-def download_png_html(ko):
-	try:	
-		kgml_url = 'http://www.kegg.jp/kegg-bin/show_pathway?ko%s' %ko	
-		with open('%s/ko%s.kgml' %(pathwayshtml,ko),'w')as kgml:
-			kgml.write(requests.get(kgml_url,timeout=123).text)	
-		print('ko%s.kgml'%ko)
-		png_url = 'http://rest.kegg.jp/get/ko%s/image' %ko
-		with open('%s/ko%s.png' %(pathwaysimage,ko),'wb')as png:
-			png.write(requests.get(png_url,timeout=123).content)
-		print('ko%s.png'%ko)		
-	except:
-		return 0
-	else:
-		return 1	
-
-download_pathway_list = pathway_list
-while 1:
-	if (len(download_pathway_list))>0:
-		ko = choice(download_pathway_list)
-		print(len(download_pathway_list))
-		if download_png_html(ko):
-			download_pathway_list.remove(ko)
-
+###下载go.obo
+#print('\ngo.obo is downloading')
+#go_obo_url = 'http://purl.obolibrary.org/obo/go.obo'
+#go_obo_downloadname = wget.download(go_obo_url)
+#go_obo_name = cfg.get('GO','go_obo')
+#cmd = 'mv %s %s' %(go_obo_downloadname,go_obo_name)
+#os.system(cmd)
+#
+###获取所有ko的列表
+#print('\npathway.list KO.list is downloading')
+#pathway_list_url = 'http://rest.kegg.jp/list/pathway'
+#pathway_list = re.findall(r'path:map(\d*)',requests.get(pathway_list_url).text)
+#
+###获取所有KO/CID的列表的列表
+#COMPOUND_list_url = 'http://rest.kegg.jp/list/COMPOUND'
+#COMPOUND_data = requests.get(COMPOUND_list_url).text
+#
+#ORTHOLOGY_list_url = 'http://rest.kegg.jp/list/ORTHOLOGY'
+#ORTHOLOGY_data = requests.get(ORTHOLOGY_list_url).text
+#
+#with open(cfg.get("KEGG","KO2name"),'w')as KOname_w:
+#	KOname_w.write('%s\n%s' %(COMPOUND_data,ORTHOLOGY_data))
+#
+#print('\npathway`s png and html is downloading')	
+###下载所有ko的网页和png信息
+#pathwayshtml = cfg.get("KEGG","pathwayshtml")
+#os.mkdir(pathwayshtml)
+#pathwaysimage = cfg.get("KEGG","pathwaysimage")
+#os.mkdir(pathwaysimage)
+#def download_png_html(ko):
+#	try:	
+#		kgml_url = 'http://www.kegg.jp/kegg-bin/show_pathway?ko%s' %ko	
+#		with open('%s/ko%s.kgml' %(pathwayshtml,ko),'w')as kgml:
+#			kgml.write(requests.get(kgml_url,timeout=123).text)	
+#		print('ko%s.kgml'%ko)
+#		png_url = 'http://rest.kegg.jp/get/ko%s/image' %ko
+#		with open('%s/ko%s.png' %(pathwaysimage,ko),'wb')as png:
+#			png.write(requests.get(png_url,timeout=123).content)
+#		print('ko%s.png'%ko)		
+#	except:
+#		return 0
+#	else:
+#		return 1	
+#
+#download_pathway_list = pathway_list
+#while 1:
+#	if (len(download_pathway_list))>0:
+#		ko = choice(download_pathway_list)
+#		print(len(download_pathway_list))
+#		if download_png_html(ko):
+#			download_pathway_list.remove(ko)
+#
 print('\nall pathway`s png and html downloaded correctly')			
 			
 ##获取所有物种信息
@@ -153,10 +153,10 @@ def get_organism_ko_list(organism):
 download_organism_list = organism_list	
 while 1:
 	if (len(download_organism_list))>0:
-		for organism in download_organism_list:
-			print(organism)
-			if get_organism_ko_list(organism):
-				download_organism_list.remove(organism)		
+		organism =choice() download_organism_list)
+		print(organism)
+		if get_organism_ko_list(organism):
+			download_organism_list.remove(organism)		
 
 print('\nall siginal org`s pathway.list downloaded correctly')			
 		
@@ -195,14 +195,14 @@ def merge_org(org):
 			
 map(merge_org,org2family)	
 
-def org_txt2list_(org):
+def org_txt2list(org):
 	'''将txt文件转换成list文件，中间排序和去重复'''
 	with open('%s/%s.list' %(organism2ko,org),'w') as org_file:
 		txt_data = open('%s/%s.list' %(organism2ko,org),'r').read()
 		data = re.findall(r'path:.*?(\d*?)\t',txt_data)
 		org_file.write('\n'.join(set(map(str,data))))
 				
-map(org_txt2list_,org2family)		
+map(org_txt2list,org2family)		
 		
 print('\n before docx')
 
