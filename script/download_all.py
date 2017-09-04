@@ -142,26 +142,7 @@ all_organism_data = requests.get(organism_list_url).text
 organism_list = [x.split('\t')[1] for x in all_organism_data.split('\n') if '\t' in x]
 download_organism_list = organism_list	
 
-
-if u'不能快速工作'== u'想快速工作':
-	def get_organism_ko_list(organism):
-		try:
-			organism_ko_url = 'http://rest.kegg.jp/list/pathway/%s' %organism
-			with open('%s/%s.txt' %(organism2ko,organism),'w')as org_file:
-				org_file.write(requests.get(organism_ko_url).text)
-		except:
-			return 0
-		else:
-			return 1
-
-	while 1:
-		if len(download_organism_list):
-			organism =choice(download_organism_list)
-			print(len(download_organism_list),organism)
-			if get_organism_ko_list(organism):
-				download_organism_list.remove(organism)	
-
-if u'想快速工作' == u'1想快速工作':
+if u'想快速下载物种' == u'想快速下载物种':
 	with open('%s/tmp_del_later.list' %organism2ko,'w')as tmp_w:
 		tmp_w.write('\n'.join(map(str,organism_list)))
 		
@@ -209,15 +190,13 @@ for organism_item in all_organism_data.split('\n'):
 	org2family += split_org_line(organism_item)
 		
 org2family = set(map(str,org2family))
-print(org2family)
 
 def merge_org(org):
-	print org
 	'''对物种水平的物种元素进行数据汇总'''
 	merge_list = []
 	for organism_item in all_organism_data.split('\n'):
-		if org in organism_item:
-			org_list = split_org_line(organism_item)
+		org_list = split_org_line(organism_item)
+			if org in org_list:
 			merge_list.append(org_list[0])
 	with open('%s/%s.merge.txt' %(organism2ko,org),'w') as org_file:
 		for family in merge_list:
