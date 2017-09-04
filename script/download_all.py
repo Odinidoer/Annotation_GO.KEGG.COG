@@ -212,7 +212,9 @@ def org_txt2list(org):
 		data = re.findall(r'path:.*?(\d*?)\t',txt_data)
 		org_file.write('\n'.join(set(map(str,data))))
 				
-map(org_txt2list,org2family)		
+map(org_txt2list,org2family)
+cmd = 'cat %s/*.list |sort -u >%s/ALL.list' %(organism2ko,organism2ko)		
+os.system(cmd)
 
 ###下载go.obo
 print('\ngo.obo is downloading')
