@@ -196,7 +196,7 @@ def merge_org(org):
 	merge_list = []
 	for organism_item in all_organism_data.split('\n'):
 		org_list = split_org_line(organism_item)
-			if org in org_list:
+		if org in org_list:
 			merge_list.append(org_list[0])
 	with open('%s/%s.merge.txt' %(organism2ko,org),'w') as org_file:
 		for family in merge_list:
