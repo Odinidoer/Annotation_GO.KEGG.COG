@@ -110,37 +110,6 @@ os_mkdir(pathwayshtml)
 pathwaysimage = cfg.get("KEGG","pathwaysimage")
 os_mkdir(pathwaysimage)
 
-if u'快速下载KEGG' == u'快速下载KEGG1':
-	with open('%s/tmp_del_later.list' %pathwayshtml,'w')as tmp_w:
-		tmp_w.write('\n'.join(pathway_list))
-		
-	def download_png_html(ko,FIN,rank):
-		try:
-			kgml_url = 'http://www.kegg.jp/kegg-bin/show_pathway?ko%s' %ko	
-			with open('%s/ko%s.kgml' %(pathwayshtml,ko),'w')as kgml:
-				kgml.write(requests.get(kgml_url,timeout=123).text)	
-			png_url = 'http://rest.kegg.jp/get/ko%s/image' %ko
-			with open('%s/ko%s.png' %(pathwaysimage,ko),'wb')as png:
-				png.write(requests.get(png_url,timeout=123).content)	
-			print(rank,ko)
-		except:
-			print('error',rank,ko)
-			FIN.write(ko+'\n')
-			FIN.flush()
-			
-	while os.path.getsize('%s/tmp_del_later.list' %pathwayshtml):
-		download_ko_list = open('%s/tmp_del_later.list' %pathwayshtml,'r').read().split('\n')
-		with open('%s/tmp_del_later.list' %pathwayshtml,'w')as tmp_w:
-			p = Pool(4)
-			for i in range(len(download_ko_list)):
-				ko = download_ko_list[i]
-				rank = len(download_ko_list)-i
-				p.apply_async(download_png_html,args = (ko,tmp_w,rank))
-			p.close()
-			p.join()
-			
-	os.remove('%s/tmp_del_later.list' %pathwayshtml)	
-	
 if u'快速下载KEGG' == u'快速下载KEGG':
 	download_ko_list = pathway_list
 	def download_png_html(ko):
@@ -158,12 +127,11 @@ if u'快速下载KEGG' == u'快速下载KEGG':
 			
 	while len(download_ko_list)>0:
 		print('download_ko_list remain %s' %len(download_ko_list))
-		new_download_ko_list = []
 		p = Pool(4)
-		new_download_ko_list.append(p.map(download_png_html,download_ko_list))
+		new_download_ko_list= p.map(download_png_html,download_ko_list)
 		p.close()
 		p.join()
-		download_ko_list = [x for x in new_download_ko_list[0] if x]
+		download_ko_list = [x for x in new_download_ko_list if x]
 		print(download_ko_list)
 	
 print('\nall pathway`s png and html downloaded correctly')			
@@ -175,34 +143,6 @@ organism_list_url = 'http://rest.kegg.jp/list/organism'
 all_organism_data = requests.get(organism_list_url).text
 organism_list = [x.split('\t')[1] for x in all_organism_data.split('\n') if '\t' in x]
 download_organism_list = organism_list	
-
-if u'想快速下载物种' == u'想快速下载物种1':
-	with open('%s/tmp_del_later.list' %organism2ko,'w')as tmp_w:
-		tmp_w.write('\n'.join(map(str,organism_list)))
-		
-	def get_organism_ko_list(organism,FIN,rank):
-		try:			
-			organism_ko_url = 'http://rest.kegg.jp/list/pathway/%s' %organism
-			with open('%s/%s.txt' %(organism2ko,organism),'w')as org_file:
-				org_file.write(requests.get(organism_ko_url).text)
-			print(rank,organism)
-		except:			
-			print('error:',rank,organism)
-			FIN.write(str(organism).strip()+'\n')
-			FIN.flush()
-	
-	while os.path.getsize('%s/tmp_del_later.list' %organism2ko):		
-		download_organism_list = open('%s/tmp_del_later.list' %organism2ko,'r').read().split('\n')
-		with open('%s/tmp_del_later.list' %organism2ko,'w')as tmp_w:
-			p = Pool(4)
-			for i in range(len(download_organism_list)):
-				organism = download_organism_list[i]
-				rank = len(download_organism_list)-i
-				p.apply_async(get_organism_ko_list,args = (organism,tmp_w,rank))
-			p.close()
-			p.join()
-			
-	os.remove('%s/tmp_del_later.list' %organism2ko)		
 	
 if u'想快速下载物种' == u'想快速下载物种':
 	def get_organism_ko_list(organism):
@@ -217,12 +157,11 @@ if u'想快速下载物种' == u'想快速下载物种':
 	
 	while len(download_organism_list)>0:
 		print('download_organism_list remain %s' %len(download_organism_list))
-		new_download_organism_list = []
 		p = Pool(4)
-		new_download_organism_list.append(p.map(get_organism_ko_list,download_organism_list))
+		new_download_organism_list = p.map(get_organism_ko_list,download_organism_list)
 		p.close()
 		p.join()
-		download_organism_list = [x for x in new_download_organism_list[0] if x]
+		download_organism_list = [x for x in new_download_organism_list if x]
 		print(download_organism_list)
 		
 print('\nall siginal org`s pathway.list downloaded correctly')			
