@@ -91,17 +91,17 @@ cfg.read('%s/config.ini' %(new_dir))
 print('\npathway.list KO.list is downloading')
 pathway_list_url = 'http://rest.kegg.jp/list/pathway'
 pathway_list = re.findall(r'path:map(\d*)',requests.get(pathway_list_url).text)
-class_list_url = 'http://www.kegg.jp/kegg-bin/download_htext?htext=br08901.keg&format=htext&filedir='
+#class_list_url = 'http://www.kegg.jp/kegg-bin/download_htext?htext=br08901.keg&format=htext&filedir='
 
-##获取所有KO/CID的列表的列表
-COMPOUND_list_url = 'http://rest.kegg.jp/list/COMPOUND'
-COMPOUND_data = requests.get(COMPOUND_list_url).text
+###获取所有KO/CID的列表的列表
+#COMPOUND_list_url = 'http://rest.kegg.jp/list/COMPOUND'
+#COMPOUND_data = requests.get(COMPOUND_list_url).text
 
-ORTHOLOGY_list_url = 'http://rest.kegg.jp/list/ORTHOLOGY'
-ORTHOLOGY_data = requests.get(ORTHOLOGY_list_url).text
+#ORTHOLOGY_list_url = 'http://rest.kegg.jp/list/ORTHOLOGY'
+#ORTHOLOGY_data = requests.get(ORTHOLOGY_list_url).text
 
-with open(cfg.get("KEGG","KO2name"),'w')as KOname_w:
-	KOname_w.write('%s\n%s' %(COMPOUND_data,ORTHOLOGY_data))
+#with open(cfg.get("KEGG","KO2name"),'w')as KOname_w:
+#	KOname_w.write('%s\n%s' %(COMPOUND_data,ORTHOLOGY_data))
 
 print('\npathway`s png and html is downloading')	
 ##下载所有ko的网页和png信息
@@ -163,7 +163,7 @@ if u'快速下载KEGG' == u'快速下载KEGG':
 		new_download_ko_list.append(p.map(download_png_html,download_ko_list))
 		p.close()
 		p.join()
-		download_ko_list = [x for x in new_download_ko_list if x]
+		download_ko_list = [x for x in new_download_ko_list[0] if x]
 		print(download_ko_list)
 	
 print('\nall pathway`s png and html downloaded correctly')			
@@ -222,7 +222,7 @@ if u'想快速下载物种' == u'想快速下载物种':
 		new_download_organism_list.append(p.map(get_organism_ko_list,download_organism_list))
 		p.close()
 		p.join()
-		download_organism_list = [x for x in new_download_organism_list if x]
+		download_organism_list = [x for x in new_download_organism_list[0] if x]
 		print(download_organism_list)
 		
 print('\nall siginal org`s pathway.list downloaded correctly')			
