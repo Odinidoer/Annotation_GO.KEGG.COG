@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #coding=utf-8
-#20170830
+#20170906
 #yanjun
 
 import argparse
@@ -78,10 +78,8 @@ organism2ko = {dir}/organism/
 
 [COG]
 
-[DOCX]
-raw_docx_dir = /mnt/ilustre/users/jun.yan/scripts/pm_report_module/20170410/
-new_docx_dir = /mnt/ilustre/users/jun.yan/scripts/pm_report_module/{time}
-'''.format(time = now_time,dir = new_dir))
+[RELEASE]
+release = {dir}/release.txt'''.format(time = now_time,dir = new_dir))
 
 ##获取新的配置文件信息
 cfg = ConfigParser.ConfigParser()
@@ -91,17 +89,26 @@ cfg.read('%s/config.ini' %(new_dir))
 print('\npathway.list KO.list is downloading')
 pathway_list_url = 'http://rest.kegg.jp/list/pathway'
 pathway_list = re.findall(r'path:map(\d*)',requests.get(pathway_list_url).text)
-#class_list_url = 'http://www.kegg.jp/kegg-bin/download_htext?htext=br08901.keg&format=htext&filedir='
 
-###获取所有KO/CID的列表的列表
-#COMPOUND_list_url = 'http://rest.kegg.jp/list/COMPOUND'
-#COMPOUND_data = requests.get(COMPOUND_list_url).text
+##获取KEGG富集层次信息
+pathway_ID_type_url = 'http://www.kegg.jp/kegg/pathway.html'
+with open(cfg.get('KEGG','class'),'w')as class_out:
+	pathway_data = requests.get(pathway_ID_type_url).text
+	class_out.write('pathwayId\t#Term\ttypeII\ttypeI\n')
+	for h4 in re.findall(r'<h4>\d.*? (.*?)</h4>(.*?)<hr class="frame3" />',pathway_data,re.S):
+			for b in re.findall(r'<b>\d.*? (.*?)</b>(.*?)<div class="clear"></div>',h4[1],re.S):
+					for a in re.findall(r'<dt>(\d*?)</dt><dd><.*?>(.*?)</a></dd>',b[1]):
+							class_out.write('%s\t%s\t%s\t%s\n' %(a[0],a[1],b[0],h4[0]))
+														
+##获取所有KO/CID的列表的列表
+COMPOUND_list_url = 'http://rest.kegg.jp/list/COMPOUND'
+COMPOUND_data = requests.get(COMPOUND_list_url).text
 
-#ORTHOLOGY_list_url = 'http://rest.kegg.jp/list/ORTHOLOGY'
-#ORTHOLOGY_data = requests.get(ORTHOLOGY_list_url).text
+ORTHOLOGY_list_url = 'http://rest.kegg.jp/list/ORTHOLOGY'
+ORTHOLOGY_data = requests.get(ORTHOLOGY_list_url).text
 
-#with open(cfg.get("KEGG","KO2name"),'w')as KOname_w:
-#	KOname_w.write('%s\n%s' %(COMPOUND_data,ORTHOLOGY_data))
+with open(cfg.get("KEGG","KO2name"),'w')as KOname_w:
+	KOname_w.write('%s\n%s' %(COMPOUND_data,ORTHOLOGY_data))
 
 print('\npathway`s png and html is downloading')	
 ##下载所有ko的网页和png信息
@@ -117,10 +124,10 @@ if u'快速下载KEGG' == u'快速下载KEGG':
 		try:
 			kgml_url = 'http://www.kegg.jp/kegg-bin/show_pathway?ko%s' %ko	
 			with open('%s/ko%s.kgml' %(pathwayshtml,ko),'w')as kgml:
-				kgml.write(requests.get(kgml_url,timeout=123).text)	
+				kgml.write(requests.get(kgml_url,timeout=120).text)	
 			png_url = 'http://rest.kegg.jp/get/ko%s/image' %ko
 			with open('%s/ko%s.png' %(pathwaysimage,ko),'wb')as png:
-				png.write(requests.get(png_url,timeout=123).content)
+				png.write(requests.get(png_url,timeout=120).content)
 		except:
 			print('error',ko)
 			return ko
@@ -150,7 +157,7 @@ if u'想快速下载物种' == u'想快速下载物种':
 		try:			
 			organism_ko_url = 'http://rest.kegg.jp/list/pathway/%s' %organism
 			with open('%s/%s.txt' %(organism2ko,organism),'w')as org_file:
-				org_file.write(requests.get(organism_ko_url).text)
+				org_file.write(requests.get(organism_ko_url,timeout=120).text)
 		except:			
 			print('error:',organism)
 			return organism
@@ -227,12 +234,15 @@ with open(go_obo_name,'r')as go_obo_r:
 	format_version = go_obo_r.readline().strip()
 	data_version = go_obo_r.readline().strip()
 	
-print(u'此次项目中，公司使用的GO数据更新日期是：%s,对应GO官方网站的数据格式是：%s,对应GO官方网站的数据更新日期是：%s。' %(now_time,format_version,data_version))
+go_version = u'''此次项目中，GO数据更新日期是：%s,对应GO官方网站的数据格式是：%s,对应GO官方网站的数据更新日期是：%s。''' %(now_time,format_version,data_version)
 
 kegg_release_url = 'http://www.kegg.jp/kegg/docs/relnote.html'
 kegg_release_data = requests.get(kegg_release_url).text
 kegg_release = re.findall(r'<h4>Current release</h4>\n\n(.*?)\n<ul>',kegg_release_data)
-print(u'此次项目中，公司使用的KEGG数据更新日期是：%s,对应KEGG官方网站的数据格式是：%s'%(now_time,kegg_release))
+kegg_version = u'''此次项目中，KEGG数据更新日期是：%s,对应KEGG官方网站的数据格式是：%s'''%(now_time,kegg_release)
+
+with open(cfg.get('RELEASE,release'),'w') as release_w:
+	release_w.write(go_version+'\n'+kegg_version)
 
 ##链接config.ini
 cmd = 'rm config.ini && ln -s %s/config.ini config.ini' %(new_dir)
