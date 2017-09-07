@@ -8,7 +8,6 @@ import ConfigParser
 import os
 import re
 import requests
-import shutil
 import time
 import wget
 from docx import Document
@@ -86,7 +85,7 @@ cfg = ConfigParser.ConfigParser()
 cfg.read('%s/config.ini' %(new_dir))
 
 ##获取所有ko的列表
-print('\npathway.list KO.list is downloading')
+print('pathway.list KO.list is downloading')
 pathway_list_url = 'http://rest.kegg.jp/list/pathway'
 pathway_list = re.findall(r'path:map(\d*)',requests.get(pathway_list_url).text)
 
@@ -110,7 +109,7 @@ ORTHOLOGY_data = requests.get(ORTHOLOGY_list_url).text
 with open(cfg.get("KEGG","KO2name"),'w')as KOname_w:
 	KOname_w.write('%s\n%s' %(COMPOUND_data,ORTHOLOGY_data))
 
-print('\npathway`s png and html is downloading')	
+print('pathway`s png and html is downloading')	
 ##下载所有ko的网页和png信息
 pathwayshtml = cfg.get("KEGG","pathwayshtml")
 os_mkdir(pathwayshtml)
@@ -141,7 +140,7 @@ if u'快速下载KEGG' == u'快速下载KEGG':
 		download_ko_list = [x for x in new_download_ko_list if x]
 		print(download_ko_list)
 	
-print('\nall pathway`s png and html downloaded correctly')			
+print('all pathway`s png and html downloaded correctly')			
 			
 ##获取所有物种信息
 organism2ko = cfg.get("KEGG","organism2ko")
@@ -171,7 +170,7 @@ if u'想快速下载物种' == u'想快速下载物种':
 		download_organism_list = [x for x in new_download_organism_list if x]
 		print(download_organism_list)
 		
-print('\nall siginal org`s pathway.list downloaded correctly')			
+print('all siginal org`s pathway.list downloaded correctly')			
 		
 ##处理得到物种信息
 
@@ -217,16 +216,21 @@ map(org_txt2list,org2family)
 cmd = 'cat %s/*.list |sort -u >%s/ALL.list' %(organism2ko,organism2ko)		
 os.system(cmd)
 
-###下载go.obo
-print('\ngo.obo is downloading')
-go_obo_url = 'http://purl.obolibrary.org/obo/go.obo'
-go_obo_downloadname = wget.download(go_obo_url)
+##下载go.obo
+print('go.obo is downloading')
 go_obo_name = cfg.get('GO','go_obo')
-cmd = 'mv %s %s' %(go_obo_downloadname,go_obo_name)
-os.system(cmd)
+try:
+	go_obo_url = 'http://purl.obolibrary.org/obo/go.obo'	
+	go_obo_downloadname = wget.download(go_obo_url)
+	go_obo_name = cfg.get('GO','go_obo')
+	cmd = 'mv %s %s' %(go_obo_downloadname,go_obo_name)
+	os.system(cmd)	
+except:	
+	go_obo_url = 'http://snapshot.geneontology.org/ontology/go.obo'
+	with open(go_obo_name,'w')as go_w:
+		go_w.write(requests.get(go_obo_url).text)
 		
-print('\n before docx')
-
+print('log release')
 ##在结题报告中写入新的版本信息
 with open(go_obo_name,'r')as go_obo_r:
 	'''format-version: 1.2
@@ -234,15 +238,15 @@ with open(go_obo_name,'r')as go_obo_r:
 	format_version = go_obo_r.readline().strip()
 	data_version = go_obo_r.readline().strip()
 	
-go_version = u'''此次项目中，GO数据更新日期是：%s,对应GO官方网站的数据格式是：%s,对应GO官方网站的数据更新日期是：%s。''' %(now_time,format_version,data_version)
+go_version = u'GO:\n%s\n%s\n' %(format_version,data_version)
 
 kegg_release_url = 'http://www.kegg.jp/kegg/docs/relnote.html'
 kegg_release_data = requests.get(kegg_release_url).text
-kegg_release = re.findall(r'<h4>Current release</h4>\n\n(.*?)\n<ul>',kegg_release_data)
-kegg_version = u'''此次项目中，KEGG数据更新日期是：%s,对应KEGG官方网站的数据格式是：%s'''%(now_time,kegg_release)
+kegg_release = re.findall(r'<h4>Current release</h4>\n\n(.*?)\n<ul>',kegg_release_data)[0]
+kegg_version = u'''KGGG:\n%s'''%(kegg_release)
 
-with open(cfg.get('RELEASE,release'),'w') as release_w:
-	release_w.write(go_version+'\n'+kegg_version)
+with open(cfg.get('RELEASE','release'),'w') as release_w:
+	release_w.write(now_time+'\n'+go_version+'\n'+kegg_version)
 
 ##链接config.ini
 cmd = 'rm config.ini && ln -s %s/config.ini config.ini' %(new_dir)
