@@ -73,7 +73,7 @@ class Pathway(object):
 		name = self.name
 		html_dir = self.html_dir 
 		KOs = self.KOs
-		with open('%s/%s.html'%(outdir,name),'w')as html_w:
+		with open('%s/ko%s.html'%(outdir,name),'w')as html_w:
 			html_w.write('''<html>
 <head>
 <title>
