@@ -17,6 +17,7 @@ from random import choice
 
 ##获取当前时间和路径
 now_time = time.strftime("%Y-%m-%d",time.localtime())
+now_time1 = time.strftime("%Y-%m-%d %H:%M:%S",time.localtime())
 now_dir = os.getcwd()
 
 ##创建新的database文件夹
@@ -48,12 +49,6 @@ uniprot2KOG.list = /mnt/ilustre/users/ting.kuang/scripts/proteomics/pipeline/bin
 go_obo = {dir}/go.obo
 
 [KEGG]
-#从 通路 到 蛋白/代谢物
-ko1KO = {dir}/ko2KO.list
-
-#从 蛋白/代谢物 到 通路
-KO2ko = {dir}/KO2ko.list
-
 #蛋白/代谢物的注释信息
 KO2name = {dir}/KO2name.txt
 
@@ -210,7 +205,7 @@ def org_txt2list(org):
 	with open('%s/%s.list' %(organism2ko,org),'w') as org_file:
 		txt_data = open('%s/%s.merge.txt' %(organism2ko,org),'r').read()
 		data = re.findall(r'path:.*?(\d*?)\t',txt_data)
-		org_file.write('\n'.join(set(map(str,data))))
+		org_file.write('\n'.join(set(map(str,data)))+'\n')
 				
 map(org_txt2list,org2family)
 cmd = 'cat %s/*.list |sort -u >%s/ALL.list' %(organism2ko,organism2ko)		
@@ -246,8 +241,11 @@ kegg_release = re.findall(r'<h4>Current release</h4>\n\n(.*?)\n<ul>',kegg_releas
 kegg_version = u'''KGGG:\n%s'''%(kegg_release)
 
 with open(cfg.get('RELEASE','release'),'w') as release_w:
-	release_w.write(now_time+'\n'+go_version+'\n'+kegg_version)
+	release_w.write(now_time+':\n\n'+go_version+'\n'+kegg_version)
 
 ##链接config.ini
 cmd = 'rm config.ini && ln -s %s/config.ini config.ini' %(new_dir)
 os.system(cmd)
+
+now_time2 = time.strftime("%Y-%m-%d %H:%M:%S",time.localtime())
+print('ALL done:\n%s\n%s' %(now_time1,now_time2))
