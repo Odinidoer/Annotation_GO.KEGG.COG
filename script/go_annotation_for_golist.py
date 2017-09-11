@@ -1,12 +1,25 @@
 #!/usr/bin/env python
+#coding:utf-8
+#yanjun
+#20170911
 
+import argparse
+import ConfigParser 
 import sys
 import re
 from goatools.obo_parser import GODag
 
-obo_file = sys.argv[1]
-go_table = sys.argv[2]
-out_file = sys.argv[3]
+parser=argparse.ArgumentParser(description="GO all protein annotation")
+parser.add_argument("-config",type=str,required=True,help="config.ini")
+parser.add_argument("-i",type=str,required=True,help="GO_list")
+parser.add_argument("-out",type=str,required=True,help="outdir GO_out.xls")
+args=parser.parse_args()
+
+cfg = ConfigParser.ConfigParser()
+cfg.read(args.config)
+obo_file = cfg.get("GO","go_obo")
+go_table = args.i[2]
+out_file = args.out[3]
 
 go2parent = {}
 go2name = {}
