@@ -3,21 +3,16 @@
 #20170906
 #yanjun
 
-import argparse
 import ConfigParser 
 import os
 import re
 import requests
 import time
 import wget
-from docx import Document
 from multiprocessing import Pool
-from random import choice
-
 
 ##获取当前时间和路径
 now_time = time.strftime("%Y-%m-%d",time.localtime())
-now_time1 = time.strftime("%Y-%m-%d %H:%M:%S",time.localtime())
 now_dir = os.getcwd()
 
 ##创建新的database文件夹
@@ -80,7 +75,7 @@ cfg = ConfigParser.ConfigParser()
 cfg.read('%s/config.ini' %(new_dir))
 
 ##获取所有ko的列表
-print('pathway.list KO.list is downloading')
+print('%s\npathway.list KO.list is downloading' %time.strftime("%Y-%m-%d %H:%M:%S",time.localtime()))
 pathway_list_url = 'http://rest.kegg.jp/list/pathway'
 pathway_list = re.findall(r'path:map(\d*)',requests.get(pathway_list_url).text)
 
@@ -91,7 +86,8 @@ with open(cfg.get('KEGG','class'),'w')as class_out:
 	class_out.write('pathwayId\t#Term\ttypeII\ttypeI\n')
 	for h4 in re.findall(r'<h4>\d.*? (.*?)</h4>(.*?)<hr class="frame3" />',pathway_data,re.S):
 			for b in re.findall(r'<b>\d.*? (.*?)</b>(.*?)<div class="clear"></div>',h4[1],re.S):
-					for a in re.findall(r'<dt>(\d*?)</dt><dd><.*?>(.*?)</a></dd>',b[1]):
+					#for a in re.findall(r'<dt>(\d*?)</dt><dd><.*?>(.*?)</a></dd>',b[1]):
+					for a in re.findall(r'<dt>(\d*?)</dt><dd><.*?>(.*?)</a>',b[1]):#有的有new标识20170908
 							class_out.write('%s\t%s\t%s\t%s\n' %(a[0],a[1],b[0],h4[0]))
 														
 ##获取所有KO/CID的列表的列表
@@ -104,7 +100,7 @@ ORTHOLOGY_data = requests.get(ORTHOLOGY_list_url).text
 with open(cfg.get("KEGG","KO2name"),'w')as KOname_w:
 	KOname_w.write('%s\n%s' %(COMPOUND_data,ORTHOLOGY_data))
 
-print('pathway`s png and html is downloading')	
+print('%s\npathway`s png and html is downloading'%time.strftime("%Y-%m-%d %H:%M:%S",time.localtime()))
 ##下载所有ko的网页和png信息
 pathwayshtml = cfg.get("KEGG","pathwayshtml")
 os_mkdir(pathwayshtml)
@@ -123,11 +119,11 @@ if u'快速下载KEGG' == u'快速下载KEGG':
 			with open('%s/ko%s.png' %(pathwaysimage,ko),'wb')as png:
 				png.write(requests.get(png_url,timeout=120).content)
 		except:
-			print('error',ko)
+			print('%s\nerror:%s'%(time.strftime("%Y-%m-%d %H:%M:%S",time.localtime()),ko))
 			return ko
 			
 	while len(download_ko_list)>0:
-		print('download_ko_list remain %s' %len(download_ko_list))
+		print('%s\ndownload_ko_list remain %s' %(time.strftime("%Y-%m-%d %H:%M:%S",time.localtime()),len(download_ko_list)))
 		p = Pool(4)
 		new_download_ko_list= p.map(download_png_html,download_ko_list)
 		p.close()
@@ -135,7 +131,7 @@ if u'快速下载KEGG' == u'快速下载KEGG':
 		download_ko_list = [x for x in new_download_ko_list if x]
 		print(download_ko_list)
 	
-print('all pathway`s png and html downloaded correctly')			
+print('%s\nall pathway`s png and html downloaded correctly'%time.strftime("%Y-%m-%d %H:%M:%S",time.localtime()))		
 			
 ##获取所有物种信息
 organism2ko = cfg.get("KEGG","organism2ko")
@@ -153,11 +149,11 @@ if u'想快速下载物种' == u'想快速下载物种':
 			with open('%s/%s.txt' %(organism2ko,organism),'w')as org_file:
 				org_file.write(requests.get(organism_ko_url,timeout=120).text)
 		except:			
-			print('error:',organism)
+			print('%s\nerror:%s'%(time.strftime("%Y-%m-%d %H:%M:%S",time.localtime()),organism))
 			return organism
 	
 	while len(download_organism_list)>0:
-		print('download_organism_list remain %s' %len(download_organism_list))
+		print('%s\ndownload_organism_list remain %s' %(time.strftime("%Y-%m-%d %H:%M:%S",time.localtime()),len(download_organism_list)))
 		p = Pool(4)
 		new_download_organism_list = p.map(get_organism_ko_list,download_organism_list)
 		p.close()
@@ -165,7 +161,7 @@ if u'想快速下载物种' == u'想快速下载物种':
 		download_organism_list = [x for x in new_download_organism_list if x]
 		print(download_organism_list)
 		
-print('all siginal org`s pathway.list downloaded correctly')			
+print('%s\nall siginal org`s pathway.list downloaded correctly'%time.strftime("%Y-%m-%d %H:%M:%S",time.localtime()))
 		
 ##处理得到物种信息
 
@@ -208,24 +204,35 @@ def org_txt2list(org):
 		org_file.write('\n'.join(set(map(str,data)))+'\n')
 				
 map(org_txt2list,org2family)
-cmd = 'cat %s/*.list |sort -u >%s/ALL.list' %(organism2ko,organism2ko)		
-os.system(cmd)
+with open('%s/ALL-org.list'%organism2ko,'w')as all_org_w:
+	all_org_w.write('\n'.join(set(map(str,pathway_list)))+'\n')
 
 ##下载go.obo
-print('go.obo is downloading')
+print('%s\ngo.obo is downloading'%time.strftime("%Y-%m-%d %H:%M:%S",time.localtime()))
 go_obo_name = cfg.get('GO','go_obo')
+go_obo_url1 = 'http://purl.obolibrary.org/obo/go.obo'	
+go_obo_url2 = 'http://snapshot.geneontology.org/ontology/go.obo'
 try:
-	go_obo_url = 'http://purl.obolibrary.org/obo/go.obo'	
-	go_obo_downloadname = wget.download(go_obo_url)
-	go_obo_name = cfg.get('GO','go_obo')
-	cmd = 'mv %s %s' %(go_obo_downloadname,go_obo_name)
-	os.system(cmd)	
-except:	
-	go_obo_url = 'http://snapshot.geneontology.org/ontology/go.obo'
-	with open(go_obo_name,'w')as go_w:
-		go_w.write(requests.get(go_obo_url).text)
+	try:	
+		go_obo_downloadname = wget.download(go_obo_url1)
+		cmd = 'mv %s %s' %(go_obo_downloadname,go_obo_name)
+		os.system(cmd)	
+	except:	
+		go_obo_downloadname = wget.download(go_obo_url2)
+		cmd = 'mv %s %s' %(go_obo_downloadname,go_obo_name)
+		os.system(cmd)
+except:
+	try:
+		with open(go_obo_name,'w')as go_w:
+			go_w.write(requests.get(go_obo_url1).text)
+	except:		
+		with open(go_obo_name,'w')as go_w:
+			go_w.write(requests.get(go_obo_url2).text)
+else:
+	cmd = 'cd %s && wget %s && cd %s' %(new_dir,go_obo_url1,now_dir)
+	os.system(cmd)
 		
-print('log release')
+print('%s\nlog release'%time.strftime("%Y-%m-%d %H:%M:%S",time.localtime()))
 ##在结题报告中写入新的版本信息
 with open(go_obo_name,'r')as go_obo_r:
 	'''format-version: 1.2
@@ -247,5 +254,4 @@ with open(cfg.get('RELEASE','release'),'w') as release_w:
 cmd = 'rm config.ini && ln -s %s/config.ini config.ini' %(new_dir)
 os.system(cmd)
 
-now_time2 = time.strftime("%Y-%m-%d %H:%M:%S",time.localtime())
-print('ALL done:\n%s\n%s' %(now_time1,now_time2))
+print('%s\nALL done!'%time.strftime("%Y-%m-%d %H:%M:%S",time.localtime()))

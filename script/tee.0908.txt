@@ -1,0 +1,18 @@
+pathway.list KO.list is downloading
+pathway`s png and html is downloading
+download_ko_list remain 518
+('error', '07222')
+['07222']
+download_ko_list remain 1
+[]
+all pathway`s png and html downloaded correctly
+download_organism_list remain 5024
+('error:', 'tum')
+('error:', 'csm')
+('error:', 'gea')
+('error:', 'far')
+['csm', 'gea', 'far', 'tum']
+download_organism_list remain 4
+[]
+all siginal org`s pathway.list downloaded correctly
+go.obo is downloading
