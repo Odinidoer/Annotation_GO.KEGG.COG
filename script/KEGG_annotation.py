@@ -12,9 +12,10 @@ from PIL import Image,ImageDraw
 parser=argparse.ArgumentParser(description="KEGG all protein/metabolic annotation")
 parser.add_argument("-config",type=str,required=True,help="config.ini")
 parser.add_argument("-pathwaytxt",type=str,required=True,help="contain acc2KO`s file")
-parser.add_argument("-org",type=str,required=True,help='''hsa|Eukaryotes|Animals|Vertebrates|Mammals
+parser.add_argument("-org",type=str,default='ALL',help='''hsa|Eukaryotes|Animals|Vertebrates|Mammals
 gmx|Eukaryotes|Plants|Eudicots|Pea family
-ecol|Prokaryotes|Bacteria|Gammaproteobacteria - Enterobacteria|Escherichia''')
+ecol|Prokaryotes|Bacteria|Gammaproteobacteria - Enterobacteria|Escherichia
+default:ALL''')
 parser.add_argument("-out",type=str,required=True,help="outdir for png|html|xls")
 
 args=parser.parse_args()
