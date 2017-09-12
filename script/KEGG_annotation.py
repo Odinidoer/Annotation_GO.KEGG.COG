@@ -12,10 +12,10 @@ from PIL import Image,ImageDraw
 parser=argparse.ArgumentParser(description="KEGG all protein/metabolic annotation")
 parser.add_argument("-config",type=str,required=True,help="config.ini")
 parser.add_argument("-pathwaytxt",type=str,required=True,help="contain acc2KO`s file")
-parser.add_argument("-org",type=str,default='ALL',help='''hsa|Eukaryotes|Animals|Vertebrates|Mammals
+parser.add_argument("-org",type=str,default='ALL-org',help='''hsa|Eukaryotes|Animals|Vertebrates|Mammals
 gmx|Eukaryotes|Plants|Eudicots|Pea family
 ecol|Prokaryotes|Bacteria|Gammaproteobacteria - Enterobacteria|Escherichia
-default:ALL''')
+default:ALL-org''')
 parser.add_argument("-out",type=str,required=True,help="outdir for png|html|xls")
 
 args=parser.parse_args()
@@ -128,7 +128,7 @@ ko%s.png
 						y_left = float(items[1])
 						x_right = float(items[2])
 						y_right = float(items[3])
-						draw.line([(x_left,y_left),(x_right,y_left),(x_right,y_right),(x_left,y_right),(x_left,y_left)],fill='red',width=2)
+						draw.line([(x_left,y_left),(x_right,y_left),(x_right,y_right),(x_left,y_right),(x_left,y_left)],fill='red',width=1)
 		png.save('%s/ko%s.png' %(outdir,name))
 			
 	def get_pathway_table(self):
@@ -153,9 +153,6 @@ ko%s.png
 				url = 'http://www.kegg.jp/kegg-bin/show_pathway?ko%s+%s' %(self.name,KO)
 				line_kegg += '%s\t%s\tko%s\t%s\t%s\n' %(acc,KO,self.name,DEFINITION,url)
 		return line_kegg		
-		
-			
-		
 
 pathway_table_w = open('%s/pathway_table.xls'%args.out,'w')
 pathway_table_w.write('pathway\tpathway_name\tnumber_of_accs\taccs_list\tnumber_of_KOs\tKOs_list\tKO2acc\turl\n')
