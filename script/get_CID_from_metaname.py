@@ -52,12 +52,11 @@ def get_stardard(name):
 	for alpha in dict_al2al.keys():
 		if alpha in name:
 			name = name.replace(alpha,dict_al2al[alpha])
-			
 	name_len = len(name)
-	name_head = name[0]
-	name_tail = name[1:name_len+1]
-	name = ''.join([name_head.upper(),name_tail])
-	
+	if name_len>0:
+		name_head = name[0]
+		name_tail = name[1:name_len+1]
+		name = ''.join([name_head.upper(),name_tail])	
 	return name
 	
 dic_name2cid = {}

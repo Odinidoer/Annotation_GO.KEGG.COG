@@ -38,10 +38,10 @@ with open(args.pathwaytxt,'r')as pathwaytxt_r:
 		items = line.strip().split('\t')
 		acc = items[0]
 		KO = items[1]
-		if acc in KO2acc.keys():
-			new_accs = '%s;%s' %(KO2acc[acc],acc)
-		else:
+		if not KO in KO2acc.keys():
 			new_accs = acc
+		else:
+			new_accs = '%s;%s' %(KO2acc[KO],acc)
 		KO2acc[KO] = new_accs 
 
 with open(args.uplist,'r')as uplist_r:
@@ -225,8 +225,9 @@ function showInfo(info) {
 					elif up_num == 0 and down_num > 0:
 						draw.ellipse((x_left_up,y_left_up,x_right_down,y_right_down),fill='green',outline='green')
 					elif up_num > 0 and down_num > 0:
-						draw.chord((x_left_up,y_left_up,x_right_down,y_right_down),0,180,fill='red') 
-						draw.chord((x_left_up,y_left_up,x_right_down,y_right_down),0,180,fill='green') 
+						draw.ellipse((x_left_up,y_left_up,x_right_down,y_right_down),fill='green',outline='blue')
+						#draw.chord((x_left_up,y_left_up,x_right_down,y_right_down),0,180,fill='red') 
+						#draw.chord((x_left_up,y_left_up,x_right_down,y_right_down),0,180,fill='green') 
 				if 'K' in coord2KO[coord]:
 					x_left = float(items[0])
 					y_left = float(items[1])
@@ -250,13 +251,24 @@ function showInfo(info) {
 		acc2color = self.acc2color
 		KO2acc = self.KO2acc
 		url_raw = 'http://www.kegg.jp/kegg-bin/show_pathway?ko%s' %(self.name)
-		KO_new = []
 		accs_new = []
-		for coord in coord2KO.keys():
-			KO_new += coord2KO[coord].split(';')
+		KO_new = []
 		for coord in coord2acc.keys():
 			accs_new += coord2acc[coord].split(';')	
-		KO2acc_str = reduce((lambda x,y:x+';'+y),['%s(%s)' %(KO,KO2acc[KO]) for KO in KO_new])	
+		accs_new = set(accs_new)
+		for KO in KO2acc.keys():
+			for acc in accs_new:
+				if acc in KO2acc[KO]:
+					KO_new.append(KO)
+		KO_new = set(KO_new)
+		KO2acc_str = []
+		for KO in KO_new:
+			KOsacc_diff = []
+			for acc in KO2acc[KO].split(';'):
+				if acc in accs_new:
+					KOsacc_diff.append(acc)
+			KO2acc_str.append('%s(%s)' %(KO,';'.join(KOsacc_diff)))
+		KO2acc_str = ';'.join(KO2acc_str)
 		pathway_url = url_raw
 		for KO in KO_new:
 			for acc in KO2acc[KO].split(';'):
@@ -280,7 +292,6 @@ pathway_table_w = open('%s/pathway_table.xls'%args.out,'w')
 pathway_table_w.write('pathway\tpathway_name\tnumber_of_accs\taccs_list\tnumber_of_KOs\tKOs_list\tKO2acc\turl\n')
 kegg_table_w = open('%s/kegg_table.xls'%args.out,'w')
 kegg_table_w.write('acc\tregulate\tKO\tpathway\tpathway_name\turl\n')
-		
 with open(org_ko_list,'r')as org_r:	
 	for line in org_r.readlines():
 		line = line.strip()
