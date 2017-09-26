@@ -7,7 +7,12 @@ import argparse
 import ConfigParser 
 import os
 import re
-from PIL import Image,ImageDraw
+try:
+	from PIL import Image,ImageDraw
+except:
+	import sys
+	sys.path.append('/mnt/ilustre/users/jun.yan/.local/lib/python2.7/site-packages/Pillow-2.2.1-py2.7-linux-x86_64.egg')
+	from PIL import Image,ImageDraw
 
 parser=argparse.ArgumentParser(description="KEGG all protein/metabolic annotation")
 parser.add_argument("-config",type=str,required=True,help="config.ini")

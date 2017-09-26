@@ -77,12 +77,12 @@ cfg.read('%s/config.ini' %(new_dir))
 ##获取所有ko的列表
 print('%s\npathway.list KO.list is downloading' %time.strftime("%Y-%m-%d %H:%M:%S",time.localtime()))
 pathway_list_url = 'http://rest.kegg.jp/list/pathway'
-pathway_list = re.findall(r'path:map(\d*)',requests.get(pathway_list_url).text)
+pathway_list = re.findall(r'path:map(\d*)',requests.get(pathway_list_url,timeout=None).text)
 
 ##获取KEGG富集层次信息
 pathway_ID_type_url = 'http://www.kegg.jp/kegg/pathway.html'
 with open(cfg.get('KEGG','class'),'w')as class_out:
-	pathway_data = requests.get(pathway_ID_type_url).text
+	pathway_data = requests.get(pathway_ID_type_url,timeout=None).text
 	class_out.write('pathwayId\t#Term\ttypeII\ttypeI\n')
 	for h4 in re.findall(r'<h4>\d.*? (.*?)</h4>(.*?)<hr class="frame3" />',pathway_data,re.S):
 			for b in re.findall(r'<b>\d.*? (.*?)</b>(.*?)<div class="clear"></div>',h4[1],re.S):
@@ -92,10 +92,10 @@ with open(cfg.get('KEGG','class'),'w')as class_out:
 														
 ##获取所有KO/CID的列表的列表
 COMPOUND_list_url = 'http://rest.kegg.jp/list/COMPOUND'
-COMPOUND_data = requests.get(COMPOUND_list_url).text
+COMPOUND_data = requests.get(COMPOUND_list_url,timeout=None).text
 
 ORTHOLOGY_list_url = 'http://rest.kegg.jp/list/ORTHOLOGY'
-ORTHOLOGY_data = requests.get(ORTHOLOGY_list_url).text
+ORTHOLOGY_data = requests.get(ORTHOLOGY_list_url,timeout=None).text
 
 with open(cfg.get("KEGG","KO2name"),'w')as KOname_w:
 	KOname_w.write('%s\n%s' %(COMPOUND_data,ORTHOLOGY_data))
@@ -137,7 +137,7 @@ print('%s\nall pathway`s png and html downloaded correctly'%time.strftime("%Y-%m
 organism2ko = cfg.get("KEGG","organism2ko")
 os_mkdir(organism2ko)
 organism_list_url = 'http://rest.kegg.jp/list/organism'
-all_organism_data = requests.get(organism_list_url).text
+all_organism_data = requests.get(organism_list_url,timeout=None).text
 organism_list = [x.split('\t')[1] for x in all_organism_data.split('\n') if '\t' in x]
 download_organism_list = organism_list	
 	
@@ -224,10 +224,10 @@ try:
 except:
 	try:
 		with open(go_obo_name,'w')as go_w:
-			go_w.write(requests.get(go_obo_url1).text)
+			go_w.write(requests.get(go_obo_url1,timeout=None).text)
 	except:		
 		with open(go_obo_name,'w')as go_w:
-			go_w.write(requests.get(go_obo_url2).text)
+			go_w.write(requests.get(go_obo_url2,timeout=None).text)
 else:
 	cmd = 'cd %s && wget %s && cd %s' %(new_dir,go_obo_url1,now_dir)
 	os.system(cmd)

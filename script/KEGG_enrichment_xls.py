@@ -44,7 +44,7 @@ out_plot_w.write('''##Databases: KEGG PATHWAY
 ##Statistical test method: hypergeometric test / Fisher's exact test								
 ##FDR correction method: Benjamini and Hochberg								
 								
-#Term	Database	ID	Input number	Background number	P-Value	Corrected P-Value	Input	Hyperlink\t''')
+#Term	Database	ID	Input number	Background number	P-Value	Corrected P-Value	Input	Hyperlink\n''')
 
 with open(args.diff,'r')as diff_r:
 	diff_r.readline()
@@ -57,10 +57,10 @@ with open(args.diff,'r')as diff_r:
 		all_KO2acc = ko_all_inf[6]
 		diff_number_of_accs = items[2]
 		diff_KO2acc = items[6]
-		x = int(diff_number_of_accs)
-		m = int(all_number_of_accs)
-		n = len(all_protein_list) - int(all_number_of_accs)
-		k = len(diff_protein_list)
+		x = int(diff_number_of_accs)#GO的差异蛋白
+		m = int(all_number_of_accs)#GO的全部蛋白
+		n = len(all_protein_list) - int(all_number_of_accs)#非GO的全部蛋白
+		k = len(diff_protein_list)#次数
 		p_value = stats.hypergeom.pmf(x,m+n,m,k)
 		url = items[7]
 		out_xls_w.write('%s\t%s\t%s/%s\t%s\t%s/%s\t%s\t%s\t%s\n' %(ko,items[1],all_number_of_accs,len(all_protein_list),all_KO2acc,diff_number_of_accs,len(diff_protein_list),diff_KO2acc,p_value,url))

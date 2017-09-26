@@ -7,7 +7,12 @@ import argparse
 import ConfigParser 
 import os
 import re
-from PIL import Image,ImageDraw
+try:
+	from PIL import Image,ImageDraw
+except:
+	import sys
+	sys.path.append('/mnt/ilustre/users/jun.yan/.local/lib/python2.7/site-packages/Pillow-2.2.1-py2.7-linux-x86_64.egg')
+	from PIL import Image,ImageDraw
 
 parser=argparse.ArgumentParser(description="KEGG all protein/metabolic annotation")
 parser.add_argument("-config",type=str,required=True,help="config.ini")
@@ -56,15 +61,16 @@ with open(args.downlist,'r')as downlist_r:
 		
 with open(args.diffxls,'r')as diffxls_r:
 	head = diffxls_r.readline()
-	items = head.strip().split('\t')
-	for i in range(len(items)):
-		if 'FC' in items[i] and not 'log' in items[i]:
+	head_items = head.strip().split('\t')
+	for i in range(len(head_items)):
+		if u'FC' in head_items[i] and not u'log' in head_items[i]:
 			mark = i
 	for line in diffxls_r.readlines():
 		items = line.strip().split('\t')
-		acc = items[0]
-		FC = items[mark]
-		acc2inf[acc] = FC		
+		if mark < len(items)+1:
+			acc = items[0]
+			FC = items[mark]
+			acc2inf[acc] = FC		
 		
 if not os.path.isdir(args.out):
 	os.mkdir(args.out)

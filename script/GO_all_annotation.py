@@ -18,8 +18,8 @@ args=parser.parse_args()
 cfg = ConfigParser.ConfigParser()
 cfg.read(args.config)
 obo_file = cfg.get("GO","go_obo")
-go_table = args.i[2]
-out_file = args.out[3]
+go_table = args.i
+out_file = args.out
 
 go2parent = {}
 go2name = {}

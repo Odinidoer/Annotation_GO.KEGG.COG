@@ -161,7 +161,8 @@ getMyColor<-function(col1=\"#008B45\",col2=\"white\",cutn=10010,targets){
 }
 
 if(type==\"PATHWAY\"){
-	PATHWAY_type<-read.delim(\"/mnt/ilustre/users/ting.kuang/scripts/proteomics/pipeline/bin/kegg/pathwayId_pathwayName_typeII_typeI\",sep=\"\\t\",header=T,check.names=F)
+	#PATHWAY_type<-read.delim(\"/mnt/ilustre/users/ting.kuang/scripts/proteomics/pipeline/bin/kegg/pathwayId_pathwayName_typeII_typeI\",sep=\"\\t\",header=T,check.names=F)
+	PATHWAY_type<-read.delim(\"/mnt/ilustre/users/jun.yan/develop_python_git/Annotation_GO.KEGG.COG/database/2017-09-11/pathwayId_pathwayName_typeII_typeI\",sep=\"\\t\",header=T,check.names=F)
     PATHWAY_enrichraw<-read.delim(\"$opts{i}.pathway\",header=T,sep=\"\\t\",check.names=F)
 	PATHWAY_enrich_type<-merge(PATHWAY_enrichraw,PATHWAY_type,by=\"#Term\")[,c(\"#Term\",\"ratio\",\"pvalue\",\"Corrected P-Value\",\"typeII\",\"typeI\")]
 	if(nrow(PATHWAY_enrichraw)==0){
