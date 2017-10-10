@@ -133,7 +133,7 @@ ko%s.png
 						y_left = float(items[1])
 						x_right = float(items[2])
 						y_right = float(items[3])
-						draw.line([(x_left,y_left),(x_right,y_left),(x_right,y_right),(x_left,y_right),(x_left,y_left)],fill='red',width=1)
+						draw.line([(x_left,y_left),(x_right,y_left),(x_right,y_right),(x_left,y_right),(x_left,y_left)],fill='red',width=2)
 		png.save('%s/ko%s.png' %(outdir,name))
 			
 	def get_pathway_table(self):

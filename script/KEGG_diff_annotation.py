@@ -232,20 +232,20 @@ function showInfo(info) {
 						draw.ellipse((x_left_up,y_left_up,x_right_down,y_right_down),fill='green',outline='green')
 					elif up_num > 0 and down_num > 0:
 						draw.ellipse((x_left_up,y_left_up,x_right_down,y_right_down),fill='green',outline='blue')
-						#draw.chord((x_left_up,y_left_up,x_right_down,y_right_down),0,180,fill='red') 
-						#draw.chord((x_left_up,y_left_up,x_right_down,y_right_down),0,180,fill='green') 
 				if 'K' in coord2KO[coord]:
 					x_left = float(items[0])
 					y_left = float(items[1])
 					x_right = float(items[2])
 					y_right = float(items[3])
 					if up_num > 0 and down_num == 0:
-						draw.line([(x_left,y_left),(x_right,y_left),(x_right,y_right),(x_left,y_right),(x_left,y_left)],fill='red',width=1)
+						draw.line([(x_left,y_left),(x_right,y_left),(x_right,y_right),(x_left,y_right),(x_left,y_left)],fill='red',width=2)
 					elif up_num == 0 and down_num > 0:
-						draw.line([(x_left,y_left),(x_right,y_left),(x_right,y_right),(x_left,y_right),(x_left,y_left)],fill='green',width=1)
+						draw.line([(x_left,y_left),(x_right,y_left),(x_right,y_right),(x_left,y_right),(x_left,y_left)],fill='green',width=2)
 					elif up_num > 0 and down_num > 0:
-						draw.line([(x_left,y_left),(x_right,y_left),(x_right,y_right)],fill='red',width=1)
-						draw.line([(x_right,y_right),(x_left,y_right),(x_left,y_left)],fill='green',width=1)
+						draw.line([(x_left,(y_left+y_right)/2.0),(x_left,y_left),(x_right,y_left),(x_right,(y_left+y_right)/2.0)],fill='red',width=2)
+						draw.line([(x_left,(y_left+y_right)/2.0),(x_left,y_right),(x_right,y_right),(x_right,(y_left+y_right)/2.0)],fill='red',width=2)
+						#draw.line([(x_left,y_left),(x_right,y_left),(x_right,y_right)],fill='red',width=2)
+						#draw.line([(x_right,y_right),(x_left,y_right),(x_left,y_left)],fill='green',width=2)
 		png.save('%s/ko%s.png' %(self.outdir,self.name))
 		
 	def print_table_line(self):
