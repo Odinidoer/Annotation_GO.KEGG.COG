@@ -33,14 +33,21 @@ acc2go = {}
 go2alt_id = {}
 
 for term in Terms:
-	if re.search(r'\nid: GO',term):
+	if re.search(r'\nis_obsolete: true',term) and not re.search(r'\nreplaced_by: ',term):
+		pass
+	elif re.search(r'\nid: GO',term) :
+	
 		GO_id = re.search(r'\nid: (GO:\d*)',term).groups()[0]
+		
 		name = re.search(r'name: (.*?)\n',term).groups()[0]
 		go2name[GO_id] = name
+		
 		namespace = re.search(r'namespace: (.*?)\n',term).groups()[0]
 		go2namespace[GO_id] = namespace 
+		
 		def_inf = re.search(r'def: (.*?)\n',term).groups()[0]
 		go2def[GO_id] = def_inf
+		
 		if re.search(r'is_a: (.*?) ',term):
 			go_parents = re.findall(r'is_a: (GO.*?) ',term)
 			go2parent[GO_id] = ';'.join(go_parents)

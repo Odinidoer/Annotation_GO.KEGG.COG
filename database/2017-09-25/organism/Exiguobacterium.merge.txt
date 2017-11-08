@@ -1,0 +1,536 @@
+path:esi00010	Glycolysis / Gluconeogenesis - Exiguobacterium sibiricum
+path:esi00020	Citrate cycle (TCA cycle) - Exiguobacterium sibiricum
+path:esi00030	Pentose phosphate pathway - Exiguobacterium sibiricum
+path:esi00040	Pentose and glucuronate interconversions - Exiguobacterium sibiricum
+path:esi00051	Fructose and mannose metabolism - Exiguobacterium sibiricum
+path:esi00052	Galactose metabolism - Exiguobacterium sibiricum
+path:esi00053	Ascorbate and aldarate metabolism - Exiguobacterium sibiricum
+path:esi00061	Fatty acid biosynthesis - Exiguobacterium sibiricum
+path:esi00071	Fatty acid degradation - Exiguobacterium sibiricum
+path:esi00072	Synthesis and degradation of ketone bodies - Exiguobacterium sibiricum
+path:esi00100	Steroid biosynthesis - Exiguobacterium sibiricum
+path:esi00130	Ubiquinone and other terpenoid-quinone biosynthesis - Exiguobacterium sibiricum
+path:esi00190	Oxidative phosphorylation - Exiguobacterium sibiricum
+path:esi00220	Arginine biosynthesis - Exiguobacterium sibiricum
+path:esi00230	Purine metabolism - Exiguobacterium sibiricum
+path:esi00240	Pyrimidine metabolism - Exiguobacterium sibiricum
+path:esi00250	Alanine, aspartate and glutamate metabolism - Exiguobacterium sibiricum
+path:esi00260	Glycine, serine and threonine metabolism - Exiguobacterium sibiricum
+path:esi00261	Monobactam biosynthesis - Exiguobacterium sibiricum
+path:esi00270	Cysteine and methionine metabolism - Exiguobacterium sibiricum
+path:esi00280	Valine, leucine and isoleucine degradation - Exiguobacterium sibiricum
+path:esi00281	Geraniol degradation - Exiguobacterium sibiricum
+path:esi00290	Valine, leucine and isoleucine biosynthesis - Exiguobacterium sibiricum
+path:esi00300	Lysine biosynthesis - Exiguobacterium sibiricum
+path:esi00310	Lysine degradation - Exiguobacterium sibiricum
+path:esi00330	Arginine and proline metabolism - Exiguobacterium sibiricum
+path:esi00340	Histidine metabolism - Exiguobacterium sibiricum
+path:esi00350	Tyrosine metabolism - Exiguobacterium sibiricum
+path:esi00360	Phenylalanine metabolism - Exiguobacterium sibiricum
+path:esi00361	Chlorocyclohexane and chlorobenzene degradation - Exiguobacterium sibiricum
+path:esi00362	Benzoate degradation - Exiguobacterium sibiricum
+path:esi00380	Tryptophan metabolism - Exiguobacterium sibiricum
+path:esi00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Exiguobacterium sibiricum
+path:esi00401	Novobiocin biosynthesis - Exiguobacterium sibiricum
+path:esi00410	beta-Alanine metabolism - Exiguobacterium sibiricum
+path:esi00430	Taurine and hypotaurine metabolism - Exiguobacterium sibiricum
+path:esi00440	Phosphonate and phosphinate metabolism - Exiguobacterium sibiricum
+path:esi00450	Selenocompound metabolism - Exiguobacterium sibiricum
+path:esi00460	Cyanoamino acid metabolism - Exiguobacterium sibiricum
+path:esi00471	D-Glutamine and D-glutamate metabolism - Exiguobacterium sibiricum
+path:esi00473	D-Alanine metabolism - Exiguobacterium sibiricum
+path:esi00480	Glutathione metabolism - Exiguobacterium sibiricum
+path:esi00500	Starch and sucrose metabolism - Exiguobacterium sibiricum
+path:esi00520	Amino sugar and nucleotide sugar metabolism - Exiguobacterium sibiricum
+path:esi00521	Streptomycin biosynthesis - Exiguobacterium sibiricum
+path:esi00550	Peptidoglycan biosynthesis - Exiguobacterium sibiricum
+path:esi00561	Glycerolipid metabolism - Exiguobacterium sibiricum
+path:esi00562	Inositol phosphate metabolism - Exiguobacterium sibiricum
+path:esi00564	Glycerophospholipid metabolism - Exiguobacterium sibiricum
+path:esi00590	Arachidonic acid metabolism - Exiguobacterium sibiricum
+path:esi00592	alpha-Linolenic acid metabolism - Exiguobacterium sibiricum
+path:esi00620	Pyruvate metabolism - Exiguobacterium sibiricum
+path:esi00622	Xylene degradation - Exiguobacterium sibiricum
+path:esi00625	Chloroalkane and chloroalkene degradation - Exiguobacterium sibiricum
+path:esi00626	Naphthalene degradation - Exiguobacterium sibiricum
+path:esi00630	Glyoxylate and dicarboxylate metabolism - Exiguobacterium sibiricum
+path:esi00640	Propanoate metabolism - Exiguobacterium sibiricum
+path:esi00650	Butanoate metabolism - Exiguobacterium sibiricum
+path:esi00660	C5-Branched dibasic acid metabolism - Exiguobacterium sibiricum
+path:esi00670	One carbon pool by folate - Exiguobacterium sibiricum
+path:esi00680	Methane metabolism - Exiguobacterium sibiricum
+path:esi00730	Thiamine metabolism - Exiguobacterium sibiricum
+path:esi00740	Riboflavin metabolism - Exiguobacterium sibiricum
+path:esi00750	Vitamin B6 metabolism - Exiguobacterium sibiricum
+path:esi00760	Nicotinate and nicotinamide metabolism - Exiguobacterium sibiricum
+path:esi00770	Pantothenate and CoA biosynthesis - Exiguobacterium sibiricum
+path:esi00780	Biotin metabolism - Exiguobacterium sibiricum
+path:esi00785	Lipoic acid metabolism - Exiguobacterium sibiricum
+path:esi00790	Folate biosynthesis - Exiguobacterium sibiricum
+path:esi00860	Porphyrin and chlorophyll metabolism - Exiguobacterium sibiricum
+path:esi00900	Terpenoid backbone biosynthesis - Exiguobacterium sibiricum
+path:esi00906	Carotenoid biosynthesis - Exiguobacterium sibiricum
+path:esi00909	Sesquiterpenoid and triterpenoid biosynthesis - Exiguobacterium sibiricum
+path:esi00910	Nitrogen metabolism - Exiguobacterium sibiricum
+path:esi00920	Sulfur metabolism - Exiguobacterium sibiricum
+path:esi00970	Aminoacyl-tRNA biosynthesis - Exiguobacterium sibiricum
+path:esi01040	Biosynthesis of unsaturated fatty acids - Exiguobacterium sibiricum
+path:esi01100	Metabolic pathways - Exiguobacterium sibiricum
+path:esi01110	Biosynthesis of secondary metabolites - Exiguobacterium sibiricum
+path:esi01120	Microbial metabolism in diverse environments - Exiguobacterium sibiricum
+path:esi01130	Biosynthesis of antibiotics - Exiguobacterium sibiricum
+path:esi01200	Carbon metabolism - Exiguobacterium sibiricum
+path:esi01210	2-Oxocarboxylic acid metabolism - Exiguobacterium sibiricum
+path:esi01212	Fatty acid metabolism - Exiguobacterium sibiricum
+path:esi01220	Degradation of aromatic compounds - Exiguobacterium sibiricum
+path:esi01230	Biosynthesis of amino acids - Exiguobacterium sibiricum
+path:esi01501	beta-Lactam resistance - Exiguobacterium sibiricum
+path:esi01502	Vancomycin resistance - Exiguobacterium sibiricum
+path:esi01503	Cationic antimicrobial peptide (CAMP) resistance - Exiguobacterium sibiricum
+path:esi02010	ABC transporters - Exiguobacterium sibiricum
+path:esi02020	Two-component system - Exiguobacterium sibiricum
+path:esi02024	Quorum sensing - Exiguobacterium sibiricum
+path:esi02030	Bacterial chemotaxis - Exiguobacterium sibiricum
+path:esi02040	Flagellar assembly - Exiguobacterium sibiricum
+path:esi02060	Phosphotransferase system (PTS) - Exiguobacterium sibiricum
+path:esi03010	Ribosome - Exiguobacterium sibiricum
+path:esi03018	RNA degradation - Exiguobacterium sibiricum
+path:esi03020	RNA polymerase - Exiguobacterium sibiricum
+path:esi03030	DNA replication - Exiguobacterium sibiricum
+path:esi03060	Protein export - Exiguobacterium sibiricum
+path:esi03070	Bacterial secretion system - Exiguobacterium sibiricum
+path:esi03410	Base excision repair - Exiguobacterium sibiricum
+path:esi03420	Nucleotide excision repair - Exiguobacterium sibiricum
+path:esi03430	Mismatch repair - Exiguobacterium sibiricum
+path:esi03440	Homologous recombination - Exiguobacterium sibiricum
+path:esi04122	Sulfur relay system - Exiguobacterium sibiricum
+path:eat00010	Glycolysis / Gluconeogenesis - Exiguobacterium sp. AT1b
+path:eat00020	Citrate cycle (TCA cycle) - Exiguobacterium sp. AT1b
+path:eat00030	Pentose phosphate pathway - Exiguobacterium sp. AT1b
+path:eat00040	Pentose and glucuronate interconversions - Exiguobacterium sp. AT1b
+path:eat00051	Fructose and mannose metabolism - Exiguobacterium sp. AT1b
+path:eat00052	Galactose metabolism - Exiguobacterium sp. AT1b
+path:eat00053	Ascorbate and aldarate metabolism - Exiguobacterium sp. AT1b
+path:eat00061	Fatty acid biosynthesis - Exiguobacterium sp. AT1b
+path:eat00071	Fatty acid degradation - Exiguobacterium sp. AT1b
+path:eat00130	Ubiquinone and other terpenoid-quinone biosynthesis - Exiguobacterium sp. AT1b
+path:eat00190	Oxidative phosphorylation - Exiguobacterium sp. AT1b
+path:eat00220	Arginine biosynthesis - Exiguobacterium sp. AT1b
+path:eat00230	Purine metabolism - Exiguobacterium sp. AT1b
+path:eat00240	Pyrimidine metabolism - Exiguobacterium sp. AT1b
+path:eat00250	Alanine, aspartate and glutamate metabolism - Exiguobacterium sp. AT1b
+path:eat00260	Glycine, serine and threonine metabolism - Exiguobacterium sp. AT1b
+path:eat00261	Monobactam biosynthesis - Exiguobacterium sp. AT1b
+path:eat00270	Cysteine and methionine metabolism - Exiguobacterium sp. AT1b
+path:eat00280	Valine, leucine and isoleucine degradation - Exiguobacterium sp. AT1b
+path:eat00281	Geraniol degradation - Exiguobacterium sp. AT1b
+path:eat00290	Valine, leucine and isoleucine biosynthesis - Exiguobacterium sp. AT1b
+path:eat00300	Lysine biosynthesis - Exiguobacterium sp. AT1b
+path:eat00310	Lysine degradation - Exiguobacterium sp. AT1b
+path:eat00330	Arginine and proline metabolism - Exiguobacterium sp. AT1b
+path:eat00340	Histidine metabolism - Exiguobacterium sp. AT1b
+path:eat00350	Tyrosine metabolism - Exiguobacterium sp. AT1b
+path:eat00360	Phenylalanine metabolism - Exiguobacterium sp. AT1b
+path:eat00361	Chlorocyclohexane and chlorobenzene degradation - Exiguobacterium sp. AT1b
+path:eat00362	Benzoate degradation - Exiguobacterium sp. AT1b
+path:eat00380	Tryptophan metabolism - Exiguobacterium sp. AT1b
+path:eat00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Exiguobacterium sp. AT1b
+path:eat00401	Novobiocin biosynthesis - Exiguobacterium sp. AT1b
+path:eat00410	beta-Alanine metabolism - Exiguobacterium sp. AT1b
+path:eat00430	Taurine and hypotaurine metabolism - Exiguobacterium sp. AT1b
+path:eat00440	Phosphonate and phosphinate metabolism - Exiguobacterium sp. AT1b
+path:eat00450	Selenocompound metabolism - Exiguobacterium sp. AT1b
+path:eat00460	Cyanoamino acid metabolism - Exiguobacterium sp. AT1b
+path:eat00471	D-Glutamine and D-glutamate metabolism - Exiguobacterium sp. AT1b
+path:eat00473	D-Alanine metabolism - Exiguobacterium sp. AT1b
+path:eat00480	Glutathione metabolism - Exiguobacterium sp. AT1b
+path:eat00500	Starch and sucrose metabolism - Exiguobacterium sp. AT1b
+path:eat00520	Amino sugar and nucleotide sugar metabolism - Exiguobacterium sp. AT1b
+path:eat00521	Streptomycin biosynthesis - Exiguobacterium sp. AT1b
+path:eat00523	Polyketide sugar unit biosynthesis - Exiguobacterium sp. AT1b
+path:eat00525	Acarbose and validamycin biosynthesis - Exiguobacterium sp. AT1b
+path:eat00550	Peptidoglycan biosynthesis - Exiguobacterium sp. AT1b
+path:eat00561	Glycerolipid metabolism - Exiguobacterium sp. AT1b
+path:eat00562	Inositol phosphate metabolism - Exiguobacterium sp. AT1b
+path:eat00564	Glycerophospholipid metabolism - Exiguobacterium sp. AT1b
+path:eat00590	Arachidonic acid metabolism - Exiguobacterium sp. AT1b
+path:eat00592	alpha-Linolenic acid metabolism - Exiguobacterium sp. AT1b
+path:eat00620	Pyruvate metabolism - Exiguobacterium sp. AT1b
+path:eat00622	Xylene degradation - Exiguobacterium sp. AT1b
+path:eat00625	Chloroalkane and chloroalkene degradation - Exiguobacterium sp. AT1b
+path:eat00626	Naphthalene degradation - Exiguobacterium sp. AT1b
+path:eat00627	Aminobenzoate degradation - Exiguobacterium sp. AT1b
+path:eat00630	Glyoxylate and dicarboxylate metabolism - Exiguobacterium sp. AT1b
+path:eat00640	Propanoate metabolism - Exiguobacterium sp. AT1b
+path:eat00643	Styrene degradation - Exiguobacterium sp. AT1b
+path:eat00650	Butanoate metabolism - Exiguobacterium sp. AT1b
+path:eat00670	One carbon pool by folate - Exiguobacterium sp. AT1b
+path:eat00680	Methane metabolism - Exiguobacterium sp. AT1b
+path:eat00730	Thiamine metabolism - Exiguobacterium sp. AT1b
+path:eat00740	Riboflavin metabolism - Exiguobacterium sp. AT1b
+path:eat00750	Vitamin B6 metabolism - Exiguobacterium sp. AT1b
+path:eat00760	Nicotinate and nicotinamide metabolism - Exiguobacterium sp. AT1b
+path:eat00770	Pantothenate and CoA biosynthesis - Exiguobacterium sp. AT1b
+path:eat00780	Biotin metabolism - Exiguobacterium sp. AT1b
+path:eat00785	Lipoic acid metabolism - Exiguobacterium sp. AT1b
+path:eat00790	Folate biosynthesis - Exiguobacterium sp. AT1b
+path:eat00860	Porphyrin and chlorophyll metabolism - Exiguobacterium sp. AT1b
+path:eat00900	Terpenoid backbone biosynthesis - Exiguobacterium sp. AT1b
+path:eat00906	Carotenoid biosynthesis - Exiguobacterium sp. AT1b
+path:eat00910	Nitrogen metabolism - Exiguobacterium sp. AT1b
+path:eat00920	Sulfur metabolism - Exiguobacterium sp. AT1b
+path:eat00970	Aminoacyl-tRNA biosynthesis - Exiguobacterium sp. AT1b
+path:eat01040	Biosynthesis of unsaturated fatty acids - Exiguobacterium sp. AT1b
+path:eat01100	Metabolic pathways - Exiguobacterium sp. AT1b
+path:eat01110	Biosynthesis of secondary metabolites - Exiguobacterium sp. AT1b
+path:eat01120	Microbial metabolism in diverse environments - Exiguobacterium sp. AT1b
+path:eat01130	Biosynthesis of antibiotics - Exiguobacterium sp. AT1b
+path:eat01200	Carbon metabolism - Exiguobacterium sp. AT1b
+path:eat01210	2-Oxocarboxylic acid metabolism - Exiguobacterium sp. AT1b
+path:eat01212	Fatty acid metabolism - Exiguobacterium sp. AT1b
+path:eat01220	Degradation of aromatic compounds - Exiguobacterium sp. AT1b
+path:eat01230	Biosynthesis of amino acids - Exiguobacterium sp. AT1b
+path:eat01501	beta-Lactam resistance - Exiguobacterium sp. AT1b
+path:eat01502	Vancomycin resistance - Exiguobacterium sp. AT1b
+path:eat01503	Cationic antimicrobial peptide (CAMP) resistance - Exiguobacterium sp. AT1b
+path:eat02010	ABC transporters - Exiguobacterium sp. AT1b
+path:eat02020	Two-component system - Exiguobacterium sp. AT1b
+path:eat02024	Quorum sensing - Exiguobacterium sp. AT1b
+path:eat02030	Bacterial chemotaxis - Exiguobacterium sp. AT1b
+path:eat02040	Flagellar assembly - Exiguobacterium sp. AT1b
+path:eat02060	Phosphotransferase system (PTS) - Exiguobacterium sp. AT1b
+path:eat03010	Ribosome - Exiguobacterium sp. AT1b
+path:eat03018	RNA degradation - Exiguobacterium sp. AT1b
+path:eat03020	RNA polymerase - Exiguobacterium sp. AT1b
+path:eat03030	DNA replication - Exiguobacterium sp. AT1b
+path:eat03060	Protein export - Exiguobacterium sp. AT1b
+path:eat03070	Bacterial secretion system - Exiguobacterium sp. AT1b
+path:eat03410	Base excision repair - Exiguobacterium sp. AT1b
+path:eat03420	Nucleotide excision repair - Exiguobacterium sp. AT1b
+path:eat03430	Mismatch repair - Exiguobacterium sp. AT1b
+path:eat03440	Homologous recombination - Exiguobacterium sp. AT1b
+path:eat04122	Sulfur relay system - Exiguobacterium sp. AT1b
+path:ean00010	Glycolysis / Gluconeogenesis - Exiguobacterium antarcticum
+path:ean00020	Citrate cycle (TCA cycle) - Exiguobacterium antarcticum
+path:ean00030	Pentose phosphate pathway - Exiguobacterium antarcticum
+path:ean00040	Pentose and glucuronate interconversions - Exiguobacterium antarcticum
+path:ean00051	Fructose and mannose metabolism - Exiguobacterium antarcticum
+path:ean00052	Galactose metabolism - Exiguobacterium antarcticum
+path:ean00053	Ascorbate and aldarate metabolism - Exiguobacterium antarcticum
+path:ean00061	Fatty acid biosynthesis - Exiguobacterium antarcticum
+path:ean00071	Fatty acid degradation - Exiguobacterium antarcticum
+path:ean00072	Synthesis and degradation of ketone bodies - Exiguobacterium antarcticum
+path:ean00100	Steroid biosynthesis - Exiguobacterium antarcticum
+path:ean00130	Ubiquinone and other terpenoid-quinone biosynthesis - Exiguobacterium antarcticum
+path:ean00190	Oxidative phosphorylation - Exiguobacterium antarcticum
+path:ean00220	Arginine biosynthesis - Exiguobacterium antarcticum
+path:ean00230	Purine metabolism - Exiguobacterium antarcticum
+path:ean00240	Pyrimidine metabolism - Exiguobacterium antarcticum
+path:ean00250	Alanine, aspartate and glutamate metabolism - Exiguobacterium antarcticum
+path:ean00260	Glycine, serine and threonine metabolism - Exiguobacterium antarcticum
+path:ean00261	Monobactam biosynthesis - Exiguobacterium antarcticum
+path:ean00270	Cysteine and methionine metabolism - Exiguobacterium antarcticum
+path:ean00280	Valine, leucine and isoleucine degradation - Exiguobacterium antarcticum
+path:ean00281	Geraniol degradation - Exiguobacterium antarcticum
+path:ean00290	Valine, leucine and isoleucine biosynthesis - Exiguobacterium antarcticum
+path:ean00300	Lysine biosynthesis - Exiguobacterium antarcticum
+path:ean00310	Lysine degradation - Exiguobacterium antarcticum
+path:ean00330	Arginine and proline metabolism - Exiguobacterium antarcticum
+path:ean00340	Histidine metabolism - Exiguobacterium antarcticum
+path:ean00350	Tyrosine metabolism - Exiguobacterium antarcticum
+path:ean00360	Phenylalanine metabolism - Exiguobacterium antarcticum
+path:ean00361	Chlorocyclohexane and chlorobenzene degradation - Exiguobacterium antarcticum
+path:ean00362	Benzoate degradation - Exiguobacterium antarcticum
+path:ean00380	Tryptophan metabolism - Exiguobacterium antarcticum
+path:ean00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Exiguobacterium antarcticum
+path:ean00401	Novobiocin biosynthesis - Exiguobacterium antarcticum
+path:ean00410	beta-Alanine metabolism - Exiguobacterium antarcticum
+path:ean00430	Taurine and hypotaurine metabolism - Exiguobacterium antarcticum
+path:ean00440	Phosphonate and phosphinate metabolism - Exiguobacterium antarcticum
+path:ean00450	Selenocompound metabolism - Exiguobacterium antarcticum
+path:ean00460	Cyanoamino acid metabolism - Exiguobacterium antarcticum
+path:ean00471	D-Glutamine and D-glutamate metabolism - Exiguobacterium antarcticum
+path:ean00473	D-Alanine metabolism - Exiguobacterium antarcticum
+path:ean00480	Glutathione metabolism - Exiguobacterium antarcticum
+path:ean00500	Starch and sucrose metabolism - Exiguobacterium antarcticum
+path:ean00520	Amino sugar and nucleotide sugar metabolism - Exiguobacterium antarcticum
+path:ean00521	Streptomycin biosynthesis - Exiguobacterium antarcticum
+path:ean00550	Peptidoglycan biosynthesis - Exiguobacterium antarcticum
+path:ean00561	Glycerolipid metabolism - Exiguobacterium antarcticum
+path:ean00562	Inositol phosphate metabolism - Exiguobacterium antarcticum
+path:ean00564	Glycerophospholipid metabolism - Exiguobacterium antarcticum
+path:ean00590	Arachidonic acid metabolism - Exiguobacterium antarcticum
+path:ean00592	alpha-Linolenic acid metabolism - Exiguobacterium antarcticum
+path:ean00620	Pyruvate metabolism - Exiguobacterium antarcticum
+path:ean00622	Xylene degradation - Exiguobacterium antarcticum
+path:ean00625	Chloroalkane and chloroalkene degradation - Exiguobacterium antarcticum
+path:ean00626	Naphthalene degradation - Exiguobacterium antarcticum
+path:ean00627	Aminobenzoate degradation - Exiguobacterium antarcticum
+path:ean00630	Glyoxylate and dicarboxylate metabolism - Exiguobacterium antarcticum
+path:ean00640	Propanoate metabolism - Exiguobacterium antarcticum
+path:ean00650	Butanoate metabolism - Exiguobacterium antarcticum
+path:ean00660	C5-Branched dibasic acid metabolism - Exiguobacterium antarcticum
+path:ean00670	One carbon pool by folate - Exiguobacterium antarcticum
+path:ean00680	Methane metabolism - Exiguobacterium antarcticum
+path:ean00730	Thiamine metabolism - Exiguobacterium antarcticum
+path:ean00740	Riboflavin metabolism - Exiguobacterium antarcticum
+path:ean00750	Vitamin B6 metabolism - Exiguobacterium antarcticum
+path:ean00760	Nicotinate and nicotinamide metabolism - Exiguobacterium antarcticum
+path:ean00770	Pantothenate and CoA biosynthesis - Exiguobacterium antarcticum
+path:ean00780	Biotin metabolism - Exiguobacterium antarcticum
+path:ean00785	Lipoic acid metabolism - Exiguobacterium antarcticum
+path:ean00790	Folate biosynthesis - Exiguobacterium antarcticum
+path:ean00860	Porphyrin and chlorophyll metabolism - Exiguobacterium antarcticum
+path:ean00900	Terpenoid backbone biosynthesis - Exiguobacterium antarcticum
+path:ean00903	Limonene and pinene degradation - Exiguobacterium antarcticum
+path:ean00906	Carotenoid biosynthesis - Exiguobacterium antarcticum
+path:ean00909	Sesquiterpenoid and triterpenoid biosynthesis - Exiguobacterium antarcticum
+path:ean00910	Nitrogen metabolism - Exiguobacterium antarcticum
+path:ean00920	Sulfur metabolism - Exiguobacterium antarcticum
+path:ean00970	Aminoacyl-tRNA biosynthesis - Exiguobacterium antarcticum
+path:ean01040	Biosynthesis of unsaturated fatty acids - Exiguobacterium antarcticum
+path:ean01100	Metabolic pathways - Exiguobacterium antarcticum
+path:ean01110	Biosynthesis of secondary metabolites - Exiguobacterium antarcticum
+path:ean01120	Microbial metabolism in diverse environments - Exiguobacterium antarcticum
+path:ean01130	Biosynthesis of antibiotics - Exiguobacterium antarcticum
+path:ean01200	Carbon metabolism - Exiguobacterium antarcticum
+path:ean01210	2-Oxocarboxylic acid metabolism - Exiguobacterium antarcticum
+path:ean01212	Fatty acid metabolism - Exiguobacterium antarcticum
+path:ean01220	Degradation of aromatic compounds - Exiguobacterium antarcticum
+path:ean01230	Biosynthesis of amino acids - Exiguobacterium antarcticum
+path:ean01501	beta-Lactam resistance - Exiguobacterium antarcticum
+path:ean01502	Vancomycin resistance - Exiguobacterium antarcticum
+path:ean01503	Cationic antimicrobial peptide (CAMP) resistance - Exiguobacterium antarcticum
+path:ean02010	ABC transporters - Exiguobacterium antarcticum
+path:ean02020	Two-component system - Exiguobacterium antarcticum
+path:ean02024	Quorum sensing - Exiguobacterium antarcticum
+path:ean02030	Bacterial chemotaxis - Exiguobacterium antarcticum
+path:ean02040	Flagellar assembly - Exiguobacterium antarcticum
+path:ean02060	Phosphotransferase system (PTS) - Exiguobacterium antarcticum
+path:ean03010	Ribosome - Exiguobacterium antarcticum
+path:ean03018	RNA degradation - Exiguobacterium antarcticum
+path:ean03020	RNA polymerase - Exiguobacterium antarcticum
+path:ean03030	DNA replication - Exiguobacterium antarcticum
+path:ean03060	Protein export - Exiguobacterium antarcticum
+path:ean03070	Bacterial secretion system - Exiguobacterium antarcticum
+path:ean03410	Base excision repair - Exiguobacterium antarcticum
+path:ean03420	Nucleotide excision repair - Exiguobacterium antarcticum
+path:ean03430	Mismatch repair - Exiguobacterium antarcticum
+path:ean03440	Homologous recombination - Exiguobacterium antarcticum
+path:ean04122	Sulfur relay system - Exiguobacterium antarcticum
+path:exm00010	Glycolysis / Gluconeogenesis - Exiguobacterium sp. MH3
+path:exm00020	Citrate cycle (TCA cycle) - Exiguobacterium sp. MH3
+path:exm00030	Pentose phosphate pathway - Exiguobacterium sp. MH3
+path:exm00040	Pentose and glucuronate interconversions - Exiguobacterium sp. MH3
+path:exm00051	Fructose and mannose metabolism - Exiguobacterium sp. MH3
+path:exm00052	Galactose metabolism - Exiguobacterium sp. MH3
+path:exm00053	Ascorbate and aldarate metabolism - Exiguobacterium sp. MH3
+path:exm00061	Fatty acid biosynthesis - Exiguobacterium sp. MH3
+path:exm00071	Fatty acid degradation - Exiguobacterium sp. MH3
+path:exm00072	Synthesis and degradation of ketone bodies - Exiguobacterium sp. MH3
+path:exm00100	Steroid biosynthesis - Exiguobacterium sp. MH3
+path:exm00130	Ubiquinone and other terpenoid-quinone biosynthesis - Exiguobacterium sp. MH3
+path:exm00190	Oxidative phosphorylation - Exiguobacterium sp. MH3
+path:exm00220	Arginine biosynthesis - Exiguobacterium sp. MH3
+path:exm00230	Purine metabolism - Exiguobacterium sp. MH3
+path:exm00240	Pyrimidine metabolism - Exiguobacterium sp. MH3
+path:exm00250	Alanine, aspartate and glutamate metabolism - Exiguobacterium sp. MH3
+path:exm00260	Glycine, serine and threonine metabolism - Exiguobacterium sp. MH3
+path:exm00261	Monobactam biosynthesis - Exiguobacterium sp. MH3
+path:exm00270	Cysteine and methionine metabolism - Exiguobacterium sp. MH3
+path:exm00280	Valine, leucine and isoleucine degradation - Exiguobacterium sp. MH3
+path:exm00281	Geraniol degradation - Exiguobacterium sp. MH3
+path:exm00290	Valine, leucine and isoleucine biosynthesis - Exiguobacterium sp. MH3
+path:exm00300	Lysine biosynthesis - Exiguobacterium sp. MH3
+path:exm00310	Lysine degradation - Exiguobacterium sp. MH3
+path:exm00330	Arginine and proline metabolism - Exiguobacterium sp. MH3
+path:exm00340	Histidine metabolism - Exiguobacterium sp. MH3
+path:exm00350	Tyrosine metabolism - Exiguobacterium sp. MH3
+path:exm00360	Phenylalanine metabolism - Exiguobacterium sp. MH3
+path:exm00361	Chlorocyclohexane and chlorobenzene degradation - Exiguobacterium sp. MH3
+path:exm00362	Benzoate degradation - Exiguobacterium sp. MH3
+path:exm00380	Tryptophan metabolism - Exiguobacterium sp. MH3
+path:exm00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Exiguobacterium sp. MH3
+path:exm00401	Novobiocin biosynthesis - Exiguobacterium sp. MH3
+path:exm00410	beta-Alanine metabolism - Exiguobacterium sp. MH3
+path:exm00430	Taurine and hypotaurine metabolism - Exiguobacterium sp. MH3
+path:exm00440	Phosphonate and phosphinate metabolism - Exiguobacterium sp. MH3
+path:exm00450	Selenocompound metabolism - Exiguobacterium sp. MH3
+path:exm00460	Cyanoamino acid metabolism - Exiguobacterium sp. MH3
+path:exm00471	D-Glutamine and D-glutamate metabolism - Exiguobacterium sp. MH3
+path:exm00473	D-Alanine metabolism - Exiguobacterium sp. MH3
+path:exm00480	Glutathione metabolism - Exiguobacterium sp. MH3
+path:exm00500	Starch and sucrose metabolism - Exiguobacterium sp. MH3
+path:exm00520	Amino sugar and nucleotide sugar metabolism - Exiguobacterium sp. MH3
+path:exm00521	Streptomycin biosynthesis - Exiguobacterium sp. MH3
+path:exm00550	Peptidoglycan biosynthesis - Exiguobacterium sp. MH3
+path:exm00561	Glycerolipid metabolism - Exiguobacterium sp. MH3
+path:exm00562	Inositol phosphate metabolism - Exiguobacterium sp. MH3
+path:exm00564	Glycerophospholipid metabolism - Exiguobacterium sp. MH3
+path:exm00590	Arachidonic acid metabolism - Exiguobacterium sp. MH3
+path:exm00592	alpha-Linolenic acid metabolism - Exiguobacterium sp. MH3
+path:exm00620	Pyruvate metabolism - Exiguobacterium sp. MH3
+path:exm00622	Xylene degradation - Exiguobacterium sp. MH3
+path:exm00625	Chloroalkane and chloroalkene degradation - Exiguobacterium sp. MH3
+path:exm00626	Naphthalene degradation - Exiguobacterium sp. MH3
+path:exm00627	Aminobenzoate degradation - Exiguobacterium sp. MH3
+path:exm00630	Glyoxylate and dicarboxylate metabolism - Exiguobacterium sp. MH3
+path:exm00640	Propanoate metabolism - Exiguobacterium sp. MH3
+path:exm00650	Butanoate metabolism - Exiguobacterium sp. MH3
+path:exm00660	C5-Branched dibasic acid metabolism - Exiguobacterium sp. MH3
+path:exm00670	One carbon pool by folate - Exiguobacterium sp. MH3
+path:exm00680	Methane metabolism - Exiguobacterium sp. MH3
+path:exm00730	Thiamine metabolism - Exiguobacterium sp. MH3
+path:exm00740	Riboflavin metabolism - Exiguobacterium sp. MH3
+path:exm00750	Vitamin B6 metabolism - Exiguobacterium sp. MH3
+path:exm00760	Nicotinate and nicotinamide metabolism - Exiguobacterium sp. MH3
+path:exm00770	Pantothenate and CoA biosynthesis - Exiguobacterium sp. MH3
+path:exm00780	Biotin metabolism - Exiguobacterium sp. MH3
+path:exm00785	Lipoic acid metabolism - Exiguobacterium sp. MH3
+path:exm00790	Folate biosynthesis - Exiguobacterium sp. MH3
+path:exm00860	Porphyrin and chlorophyll metabolism - Exiguobacterium sp. MH3
+path:exm00900	Terpenoid backbone biosynthesis - Exiguobacterium sp. MH3
+path:exm00903	Limonene and pinene degradation - Exiguobacterium sp. MH3
+path:exm00906	Carotenoid biosynthesis - Exiguobacterium sp. MH3
+path:exm00909	Sesquiterpenoid and triterpenoid biosynthesis - Exiguobacterium sp. MH3
+path:exm00910	Nitrogen metabolism - Exiguobacterium sp. MH3
+path:exm00920	Sulfur metabolism - Exiguobacterium sp. MH3
+path:exm00970	Aminoacyl-tRNA biosynthesis - Exiguobacterium sp. MH3
+path:exm01040	Biosynthesis of unsaturated fatty acids - Exiguobacterium sp. MH3
+path:exm01100	Metabolic pathways - Exiguobacterium sp. MH3
+path:exm01110	Biosynthesis of secondary metabolites - Exiguobacterium sp. MH3
+path:exm01120	Microbial metabolism in diverse environments - Exiguobacterium sp. MH3
+path:exm01130	Biosynthesis of antibiotics - Exiguobacterium sp. MH3
+path:exm01200	Carbon metabolism - Exiguobacterium sp. MH3
+path:exm01210	2-Oxocarboxylic acid metabolism - Exiguobacterium sp. MH3
+path:exm01212	Fatty acid metabolism - Exiguobacterium sp. MH3
+path:exm01220	Degradation of aromatic compounds - Exiguobacterium sp. MH3
+path:exm01230	Biosynthesis of amino acids - Exiguobacterium sp. MH3
+path:exm01501	beta-Lactam resistance - Exiguobacterium sp. MH3
+path:exm01502	Vancomycin resistance - Exiguobacterium sp. MH3
+path:exm01503	Cationic antimicrobial peptide (CAMP) resistance - Exiguobacterium sp. MH3
+path:exm02010	ABC transporters - Exiguobacterium sp. MH3
+path:exm02020	Two-component system - Exiguobacterium sp. MH3
+path:exm02024	Quorum sensing - Exiguobacterium sp. MH3
+path:exm02030	Bacterial chemotaxis - Exiguobacterium sp. MH3
+path:exm02040	Flagellar assembly - Exiguobacterium sp. MH3
+path:exm02060	Phosphotransferase system (PTS) - Exiguobacterium sp. MH3
+path:exm03010	Ribosome - Exiguobacterium sp. MH3
+path:exm03018	RNA degradation - Exiguobacterium sp. MH3
+path:exm03020	RNA polymerase - Exiguobacterium sp. MH3
+path:exm03030	DNA replication - Exiguobacterium sp. MH3
+path:exm03060	Protein export - Exiguobacterium sp. MH3
+path:exm03070	Bacterial secretion system - Exiguobacterium sp. MH3
+path:exm03410	Base excision repair - Exiguobacterium sp. MH3
+path:exm03420	Nucleotide excision repair - Exiguobacterium sp. MH3
+path:exm03430	Mismatch repair - Exiguobacterium sp. MH3
+path:exm03440	Homologous recombination - Exiguobacterium sp. MH3
+path:exm04122	Sulfur relay system - Exiguobacterium sp. MH3
+path:exu00010	Glycolysis / Gluconeogenesis - Exiguobacterium sp. U13-1
+path:exu00020	Citrate cycle (TCA cycle) - Exiguobacterium sp. U13-1
+path:exu00030	Pentose phosphate pathway - Exiguobacterium sp. U13-1
+path:exu00040	Pentose and glucuronate interconversions - Exiguobacterium sp. U13-1
+path:exu00051	Fructose and mannose metabolism - Exiguobacterium sp. U13-1
+path:exu00052	Galactose metabolism - Exiguobacterium sp. U13-1
+path:exu00053	Ascorbate and aldarate metabolism - Exiguobacterium sp. U13-1
+path:exu00061	Fatty acid biosynthesis - Exiguobacterium sp. U13-1
+path:exu00071	Fatty acid degradation - Exiguobacterium sp. U13-1
+path:exu00072	Synthesis and degradation of ketone bodies - Exiguobacterium sp. U13-1
+path:exu00100	Steroid biosynthesis - Exiguobacterium sp. U13-1
+path:exu00130	Ubiquinone and other terpenoid-quinone biosynthesis - Exiguobacterium sp. U13-1
+path:exu00190	Oxidative phosphorylation - Exiguobacterium sp. U13-1
+path:exu00220	Arginine biosynthesis - Exiguobacterium sp. U13-1
+path:exu00230	Purine metabolism - Exiguobacterium sp. U13-1
+path:exu00240	Pyrimidine metabolism - Exiguobacterium sp. U13-1
+path:exu00250	Alanine, aspartate and glutamate metabolism - Exiguobacterium sp. U13-1
+path:exu00260	Glycine, serine and threonine metabolism - Exiguobacterium sp. U13-1
+path:exu00261	Monobactam biosynthesis - Exiguobacterium sp. U13-1
+path:exu00270	Cysteine and methionine metabolism - Exiguobacterium sp. U13-1
+path:exu00280	Valine, leucine and isoleucine degradation - Exiguobacterium sp. U13-1
+path:exu00281	Geraniol degradation - Exiguobacterium sp. U13-1
+path:exu00290	Valine, leucine and isoleucine biosynthesis - Exiguobacterium sp. U13-1
+path:exu00300	Lysine biosynthesis - Exiguobacterium sp. U13-1
+path:exu00310	Lysine degradation - Exiguobacterium sp. U13-1
+path:exu00330	Arginine and proline metabolism - Exiguobacterium sp. U13-1
+path:exu00340	Histidine metabolism - Exiguobacterium sp. U13-1
+path:exu00350	Tyrosine metabolism - Exiguobacterium sp. U13-1
+path:exu00360	Phenylalanine metabolism - Exiguobacterium sp. U13-1
+path:exu00361	Chlorocyclohexane and chlorobenzene degradation - Exiguobacterium sp. U13-1
+path:exu00362	Benzoate degradation - Exiguobacterium sp. U13-1
+path:exu00380	Tryptophan metabolism - Exiguobacterium sp. U13-1
+path:exu00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Exiguobacterium sp. U13-1
+path:exu00401	Novobiocin biosynthesis - Exiguobacterium sp. U13-1
+path:exu00410	beta-Alanine metabolism - Exiguobacterium sp. U13-1
+path:exu00430	Taurine and hypotaurine metabolism - Exiguobacterium sp. U13-1
+path:exu00440	Phosphonate and phosphinate metabolism - Exiguobacterium sp. U13-1
+path:exu00450	Selenocompound metabolism - Exiguobacterium sp. U13-1
+path:exu00460	Cyanoamino acid metabolism - Exiguobacterium sp. U13-1
+path:exu00471	D-Glutamine and D-glutamate metabolism - Exiguobacterium sp. U13-1
+path:exu00473	D-Alanine metabolism - Exiguobacterium sp. U13-1
+path:exu00480	Glutathione metabolism - Exiguobacterium sp. U13-1
+path:exu00500	Starch and sucrose metabolism - Exiguobacterium sp. U13-1
+path:exu00520	Amino sugar and nucleotide sugar metabolism - Exiguobacterium sp. U13-1
+path:exu00521	Streptomycin biosynthesis - Exiguobacterium sp. U13-1
+path:exu00550	Peptidoglycan biosynthesis - Exiguobacterium sp. U13-1
+path:exu00561	Glycerolipid metabolism - Exiguobacterium sp. U13-1
+path:exu00562	Inositol phosphate metabolism - Exiguobacterium sp. U13-1
+path:exu00564	Glycerophospholipid metabolism - Exiguobacterium sp. U13-1
+path:exu00590	Arachidonic acid metabolism - Exiguobacterium sp. U13-1
+path:exu00592	alpha-Linolenic acid metabolism - Exiguobacterium sp. U13-1
+path:exu00620	Pyruvate metabolism - Exiguobacterium sp. U13-1
+path:exu00622	Xylene degradation - Exiguobacterium sp. U13-1
+path:exu00625	Chloroalkane and chloroalkene degradation - Exiguobacterium sp. U13-1
+path:exu00626	Naphthalene degradation - Exiguobacterium sp. U13-1
+path:exu00627	Aminobenzoate degradation - Exiguobacterium sp. U13-1
+path:exu00630	Glyoxylate and dicarboxylate metabolism - Exiguobacterium sp. U13-1
+path:exu00640	Propanoate metabolism - Exiguobacterium sp. U13-1
+path:exu00650	Butanoate metabolism - Exiguobacterium sp. U13-1
+path:exu00660	C5-Branched dibasic acid metabolism - Exiguobacterium sp. U13-1
+path:exu00670	One carbon pool by folate - Exiguobacterium sp. U13-1
+path:exu00680	Methane metabolism - Exiguobacterium sp. U13-1
+path:exu00730	Thiamine metabolism - Exiguobacterium sp. U13-1
+path:exu00740	Riboflavin metabolism - Exiguobacterium sp. U13-1
+path:exu00750	Vitamin B6 metabolism - Exiguobacterium sp. U13-1
+path:exu00760	Nicotinate and nicotinamide metabolism - Exiguobacterium sp. U13-1
+path:exu00770	Pantothenate and CoA biosynthesis - Exiguobacterium sp. U13-1
+path:exu00780	Biotin metabolism - Exiguobacterium sp. U13-1
+path:exu00785	Lipoic acid metabolism - Exiguobacterium sp. U13-1
+path:exu00790	Folate biosynthesis - Exiguobacterium sp. U13-1
+path:exu00860	Porphyrin and chlorophyll metabolism - Exiguobacterium sp. U13-1
+path:exu00900	Terpenoid backbone biosynthesis - Exiguobacterium sp. U13-1
+path:exu00903	Limonene and pinene degradation - Exiguobacterium sp. U13-1
+path:exu00906	Carotenoid biosynthesis - Exiguobacterium sp. U13-1
+path:exu00909	Sesquiterpenoid and triterpenoid biosynthesis - Exiguobacterium sp. U13-1
+path:exu00910	Nitrogen metabolism - Exiguobacterium sp. U13-1
+path:exu00920	Sulfur metabolism - Exiguobacterium sp. U13-1
+path:exu00970	Aminoacyl-tRNA biosynthesis - Exiguobacterium sp. U13-1
+path:exu01040	Biosynthesis of unsaturated fatty acids - Exiguobacterium sp. U13-1
+path:exu01100	Metabolic pathways - Exiguobacterium sp. U13-1
+path:exu01110	Biosynthesis of secondary metabolites - Exiguobacterium sp. U13-1
+path:exu01120	Microbial metabolism in diverse environments - Exiguobacterium sp. U13-1
+path:exu01130	Biosynthesis of antibiotics - Exiguobacterium sp. U13-1
+path:exu01200	Carbon metabolism - Exiguobacterium sp. U13-1
+path:exu01210	2-Oxocarboxylic acid metabolism - Exiguobacterium sp. U13-1
+path:exu01212	Fatty acid metabolism - Exiguobacterium sp. U13-1
+path:exu01220	Degradation of aromatic compounds - Exiguobacterium sp. U13-1
+path:exu01230	Biosynthesis of amino acids - Exiguobacterium sp. U13-1
+path:exu01501	beta-Lactam resistance - Exiguobacterium sp. U13-1
+path:exu01502	Vancomycin resistance - Exiguobacterium sp. U13-1
+path:exu01503	Cationic antimicrobial peptide (CAMP) resistance - Exiguobacterium sp. U13-1
+path:exu02010	ABC transporters - Exiguobacterium sp. U13-1
+path:exu02020	Two-component system - Exiguobacterium sp. U13-1
+path:exu02024	Quorum sensing - Exiguobacterium sp. U13-1
+path:exu02030	Bacterial chemotaxis - Exiguobacterium sp. U13-1
+path:exu02040	Flagellar assembly - Exiguobacterium sp. U13-1
+path:exu02060	Phosphotransferase system (PTS) - Exiguobacterium sp. U13-1
+path:exu03010	Ribosome - Exiguobacterium sp. U13-1
+path:exu03018	RNA degradation - Exiguobacterium sp. U13-1
+path:exu03020	RNA polymerase - Exiguobacterium sp. U13-1
+path:exu03030	DNA replication - Exiguobacterium sp. U13-1
+path:exu03060	Protein export - Exiguobacterium sp. U13-1
+path:exu03070	Bacterial secretion system - Exiguobacterium sp. U13-1
+path:exu03410	Base excision repair - Exiguobacterium sp. U13-1
+path:exu03420	Nucleotide excision repair - Exiguobacterium sp. U13-1
+path:exu03430	Mismatch repair - Exiguobacterium sp. U13-1
+path:exu03440	Homologous recombination - Exiguobacterium sp. U13-1
+path:exu04122	Sulfur relay system - Exiguobacterium sp. U13-1

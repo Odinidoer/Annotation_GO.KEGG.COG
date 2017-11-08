@@ -1,0 +1,585 @@
+path:mms00010	Glycolysis / Gluconeogenesis - Janthinobacterium sp. Marseille
+path:mms00020	Citrate cycle (TCA cycle) - Janthinobacterium sp. Marseille
+path:mms00030	Pentose phosphate pathway - Janthinobacterium sp. Marseille
+path:mms00040	Pentose and glucuronate interconversions - Janthinobacterium sp. Marseille
+path:mms00051	Fructose and mannose metabolism - Janthinobacterium sp. Marseille
+path:mms00052	Galactose metabolism - Janthinobacterium sp. Marseille
+path:mms00061	Fatty acid biosynthesis - Janthinobacterium sp. Marseille
+path:mms00071	Fatty acid degradation - Janthinobacterium sp. Marseille
+path:mms00072	Synthesis and degradation of ketone bodies - Janthinobacterium sp. Marseille
+path:mms00130	Ubiquinone and other terpenoid-quinone biosynthesis - Janthinobacterium sp. Marseille
+path:mms00190	Oxidative phosphorylation - Janthinobacterium sp. Marseille
+path:mms00220	Arginine biosynthesis - Janthinobacterium sp. Marseille
+path:mms00230	Purine metabolism - Janthinobacterium sp. Marseille
+path:mms00232	Caffeine metabolism - Janthinobacterium sp. Marseille
+path:mms00240	Pyrimidine metabolism - Janthinobacterium sp. Marseille
+path:mms00250	Alanine, aspartate and glutamate metabolism - Janthinobacterium sp. Marseille
+path:mms00260	Glycine, serine and threonine metabolism - Janthinobacterium sp. Marseille
+path:mms00261	Monobactam biosynthesis - Janthinobacterium sp. Marseille
+path:mms00270	Cysteine and methionine metabolism - Janthinobacterium sp. Marseille
+path:mms00280	Valine, leucine and isoleucine degradation - Janthinobacterium sp. Marseille
+path:mms00281	Geraniol degradation - Janthinobacterium sp. Marseille
+path:mms00290	Valine, leucine and isoleucine biosynthesis - Janthinobacterium sp. Marseille
+path:mms00300	Lysine biosynthesis - Janthinobacterium sp. Marseille
+path:mms00310	Lysine degradation - Janthinobacterium sp. Marseille
+path:mms00330	Arginine and proline metabolism - Janthinobacterium sp. Marseille
+path:mms00332	Carbapenem biosynthesis - Janthinobacterium sp. Marseille
+path:mms00340	Histidine metabolism - Janthinobacterium sp. Marseille
+path:mms00350	Tyrosine metabolism - Janthinobacterium sp. Marseille
+path:mms00360	Phenylalanine metabolism - Janthinobacterium sp. Marseille
+path:mms00361	Chlorocyclohexane and chlorobenzene degradation - Janthinobacterium sp. Marseille
+path:mms00362	Benzoate degradation - Janthinobacterium sp. Marseille
+path:mms00364	Fluorobenzoate degradation - Janthinobacterium sp. Marseille
+path:mms00380	Tryptophan metabolism - Janthinobacterium sp. Marseille
+path:mms00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Janthinobacterium sp. Marseille
+path:mms00401	Novobiocin biosynthesis - Janthinobacterium sp. Marseille
+path:mms00410	beta-Alanine metabolism - Janthinobacterium sp. Marseille
+path:mms00430	Taurine and hypotaurine metabolism - Janthinobacterium sp. Marseille
+path:mms00440	Phosphonate and phosphinate metabolism - Janthinobacterium sp. Marseille
+path:mms00450	Selenocompound metabolism - Janthinobacterium sp. Marseille
+path:mms00460	Cyanoamino acid metabolism - Janthinobacterium sp. Marseille
+path:mms00471	D-Glutamine and D-glutamate metabolism - Janthinobacterium sp. Marseille
+path:mms00472	D-Arginine and D-ornithine metabolism - Janthinobacterium sp. Marseille
+path:mms00473	D-Alanine metabolism - Janthinobacterium sp. Marseille
+path:mms00480	Glutathione metabolism - Janthinobacterium sp. Marseille
+path:mms00500	Starch and sucrose metabolism - Janthinobacterium sp. Marseille
+path:mms00520	Amino sugar and nucleotide sugar metabolism - Janthinobacterium sp. Marseille
+path:mms00521	Streptomycin biosynthesis - Janthinobacterium sp. Marseille
+path:mms00523	Polyketide sugar unit biosynthesis - Janthinobacterium sp. Marseille
+path:mms00525	Acarbose and validamycin biosynthesis - Janthinobacterium sp. Marseille
+path:mms00540	Lipopolysaccharide biosynthesis - Janthinobacterium sp. Marseille
+path:mms00550	Peptidoglycan biosynthesis - Janthinobacterium sp. Marseille
+path:mms00561	Glycerolipid metabolism - Janthinobacterium sp. Marseille
+path:mms00562	Inositol phosphate metabolism - Janthinobacterium sp. Marseille
+path:mms00564	Glycerophospholipid metabolism - Janthinobacterium sp. Marseille
+path:mms00590	Arachidonic acid metabolism - Janthinobacterium sp. Marseille
+path:mms00592	alpha-Linolenic acid metabolism - Janthinobacterium sp. Marseille
+path:mms00620	Pyruvate metabolism - Janthinobacterium sp. Marseille
+path:mms00623	Toluene degradation - Janthinobacterium sp. Marseille
+path:mms00625	Chloroalkane and chloroalkene degradation - Janthinobacterium sp. Marseille
+path:mms00626	Naphthalene degradation - Janthinobacterium sp. Marseille
+path:mms00627	Aminobenzoate degradation - Janthinobacterium sp. Marseille
+path:mms00630	Glyoxylate and dicarboxylate metabolism - Janthinobacterium sp. Marseille
+path:mms00633	Nitrotoluene degradation - Janthinobacterium sp. Marseille
+path:mms00640	Propanoate metabolism - Janthinobacterium sp. Marseille
+path:mms00643	Styrene degradation - Janthinobacterium sp. Marseille
+path:mms00650	Butanoate metabolism - Janthinobacterium sp. Marseille
+path:mms00660	C5-Branched dibasic acid metabolism - Janthinobacterium sp. Marseille
+path:mms00670	One carbon pool by folate - Janthinobacterium sp. Marseille
+path:mms00680	Methane metabolism - Janthinobacterium sp. Marseille
+path:mms00730	Thiamine metabolism - Janthinobacterium sp. Marseille
+path:mms00740	Riboflavin metabolism - Janthinobacterium sp. Marseille
+path:mms00750	Vitamin B6 metabolism - Janthinobacterium sp. Marseille
+path:mms00760	Nicotinate and nicotinamide metabolism - Janthinobacterium sp. Marseille
+path:mms00770	Pantothenate and CoA biosynthesis - Janthinobacterium sp. Marseille
+path:mms00780	Biotin metabolism - Janthinobacterium sp. Marseille
+path:mms00785	Lipoic acid metabolism - Janthinobacterium sp. Marseille
+path:mms00790	Folate biosynthesis - Janthinobacterium sp. Marseille
+path:mms00791	Atrazine degradation - Janthinobacterium sp. Marseille
+path:mms00860	Porphyrin and chlorophyll metabolism - Janthinobacterium sp. Marseille
+path:mms00900	Terpenoid backbone biosynthesis - Janthinobacterium sp. Marseille
+path:mms00903	Limonene and pinene degradation - Janthinobacterium sp. Marseille
+path:mms00906	Carotenoid biosynthesis - Janthinobacterium sp. Marseille
+path:mms00910	Nitrogen metabolism - Janthinobacterium sp. Marseille
+path:mms00920	Sulfur metabolism - Janthinobacterium sp. Marseille
+path:mms00970	Aminoacyl-tRNA biosynthesis - Janthinobacterium sp. Marseille
+path:mms01040	Biosynthesis of unsaturated fatty acids - Janthinobacterium sp. Marseille
+path:mms01100	Metabolic pathways - Janthinobacterium sp. Marseille
+path:mms01110	Biosynthesis of secondary metabolites - Janthinobacterium sp. Marseille
+path:mms01120	Microbial metabolism in diverse environments - Janthinobacterium sp. Marseille
+path:mms01130	Biosynthesis of antibiotics - Janthinobacterium sp. Marseille
+path:mms01200	Carbon metabolism - Janthinobacterium sp. Marseille
+path:mms01210	2-Oxocarboxylic acid metabolism - Janthinobacterium sp. Marseille
+path:mms01212	Fatty acid metabolism - Janthinobacterium sp. Marseille
+path:mms01220	Degradation of aromatic compounds - Janthinobacterium sp. Marseille
+path:mms01230	Biosynthesis of amino acids - Janthinobacterium sp. Marseille
+path:mms01501	beta-Lactam resistance - Janthinobacterium sp. Marseille
+path:mms01502	Vancomycin resistance - Janthinobacterium sp. Marseille
+path:mms01503	Cationic antimicrobial peptide (CAMP) resistance - Janthinobacterium sp. Marseille
+path:mms02010	ABC transporters - Janthinobacterium sp. Marseille
+path:mms02020	Two-component system - Janthinobacterium sp. Marseille
+path:mms02024	Quorum sensing - Janthinobacterium sp. Marseille
+path:mms02030	Bacterial chemotaxis - Janthinobacterium sp. Marseille
+path:mms02040	Flagellar assembly - Janthinobacterium sp. Marseille
+path:mms02060	Phosphotransferase system (PTS) - Janthinobacterium sp. Marseille
+path:mms03010	Ribosome - Janthinobacterium sp. Marseille
+path:mms03018	RNA degradation - Janthinobacterium sp. Marseille
+path:mms03020	RNA polymerase - Janthinobacterium sp. Marseille
+path:mms03030	DNA replication - Janthinobacterium sp. Marseille
+path:mms03060	Protein export - Janthinobacterium sp. Marseille
+path:mms03070	Bacterial secretion system - Janthinobacterium sp. Marseille
+path:mms03410	Base excision repair - Janthinobacterium sp. Marseille
+path:mms03420	Nucleotide excision repair - Janthinobacterium sp. Marseille
+path:mms03430	Mismatch repair - Janthinobacterium sp. Marseille
+path:mms03440	Homologous recombination - Janthinobacterium sp. Marseille
+path:mms04122	Sulfur relay system - Janthinobacterium sp. Marseille
+path:jag00010	Glycolysis / Gluconeogenesis - Janthinobacterium agaricidamnosum
+path:jag00020	Citrate cycle (TCA cycle) - Janthinobacterium agaricidamnosum
+path:jag00030	Pentose phosphate pathway - Janthinobacterium agaricidamnosum
+path:jag00040	Pentose and glucuronate interconversions - Janthinobacterium agaricidamnosum
+path:jag00051	Fructose and mannose metabolism - Janthinobacterium agaricidamnosum
+path:jag00052	Galactose metabolism - Janthinobacterium agaricidamnosum
+path:jag00053	Ascorbate and aldarate metabolism - Janthinobacterium agaricidamnosum
+path:jag00061	Fatty acid biosynthesis - Janthinobacterium agaricidamnosum
+path:jag00071	Fatty acid degradation - Janthinobacterium agaricidamnosum
+path:jag00072	Synthesis and degradation of ketone bodies - Janthinobacterium agaricidamnosum
+path:jag00130	Ubiquinone and other terpenoid-quinone biosynthesis - Janthinobacterium agaricidamnosum
+path:jag00190	Oxidative phosphorylation - Janthinobacterium agaricidamnosum
+path:jag00220	Arginine biosynthesis - Janthinobacterium agaricidamnosum
+path:jag00230	Purine metabolism - Janthinobacterium agaricidamnosum
+path:jag00240	Pyrimidine metabolism - Janthinobacterium agaricidamnosum
+path:jag00250	Alanine, aspartate and glutamate metabolism - Janthinobacterium agaricidamnosum
+path:jag00260	Glycine, serine and threonine metabolism - Janthinobacterium agaricidamnosum
+path:jag00261	Monobactam biosynthesis - Janthinobacterium agaricidamnosum
+path:jag00270	Cysteine and methionine metabolism - Janthinobacterium agaricidamnosum
+path:jag00280	Valine, leucine and isoleucine degradation - Janthinobacterium agaricidamnosum
+path:jag00281	Geraniol degradation - Janthinobacterium agaricidamnosum
+path:jag00290	Valine, leucine and isoleucine biosynthesis - Janthinobacterium agaricidamnosum
+path:jag00300	Lysine biosynthesis - Janthinobacterium agaricidamnosum
+path:jag00310	Lysine degradation - Janthinobacterium agaricidamnosum
+path:jag00330	Arginine and proline metabolism - Janthinobacterium agaricidamnosum
+path:jag00332	Carbapenem biosynthesis - Janthinobacterium agaricidamnosum
+path:jag00340	Histidine metabolism - Janthinobacterium agaricidamnosum
+path:jag00350	Tyrosine metabolism - Janthinobacterium agaricidamnosum
+path:jag00360	Phenylalanine metabolism - Janthinobacterium agaricidamnosum
+path:jag00361	Chlorocyclohexane and chlorobenzene degradation - Janthinobacterium agaricidamnosum
+path:jag00362	Benzoate degradation - Janthinobacterium agaricidamnosum
+path:jag00364	Fluorobenzoate degradation - Janthinobacterium agaricidamnosum
+path:jag00380	Tryptophan metabolism - Janthinobacterium agaricidamnosum
+path:jag00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Janthinobacterium agaricidamnosum
+path:jag00401	Novobiocin biosynthesis - Janthinobacterium agaricidamnosum
+path:jag00404	Staurosporine biosynthesis - Janthinobacterium agaricidamnosum
+path:jag00410	beta-Alanine metabolism - Janthinobacterium agaricidamnosum
+path:jag00430	Taurine and hypotaurine metabolism - Janthinobacterium agaricidamnosum
+path:jag00440	Phosphonate and phosphinate metabolism - Janthinobacterium agaricidamnosum
+path:jag00450	Selenocompound metabolism - Janthinobacterium agaricidamnosum
+path:jag00460	Cyanoamino acid metabolism - Janthinobacterium agaricidamnosum
+path:jag00471	D-Glutamine and D-glutamate metabolism - Janthinobacterium agaricidamnosum
+path:jag00473	D-Alanine metabolism - Janthinobacterium agaricidamnosum
+path:jag00480	Glutathione metabolism - Janthinobacterium agaricidamnosum
+path:jag00500	Starch and sucrose metabolism - Janthinobacterium agaricidamnosum
+path:jag00511	Other glycan degradation - Janthinobacterium agaricidamnosum
+path:jag00520	Amino sugar and nucleotide sugar metabolism - Janthinobacterium agaricidamnosum
+path:jag00521	Streptomycin biosynthesis - Janthinobacterium agaricidamnosum
+path:jag00523	Polyketide sugar unit biosynthesis - Janthinobacterium agaricidamnosum
+path:jag00525	Acarbose and validamycin biosynthesis - Janthinobacterium agaricidamnosum
+path:jag00540	Lipopolysaccharide biosynthesis - Janthinobacterium agaricidamnosum
+path:jag00550	Peptidoglycan biosynthesis - Janthinobacterium agaricidamnosum
+path:jag00561	Glycerolipid metabolism - Janthinobacterium agaricidamnosum
+path:jag00562	Inositol phosphate metabolism - Janthinobacterium agaricidamnosum
+path:jag00564	Glycerophospholipid metabolism - Janthinobacterium agaricidamnosum
+path:jag00565	Ether lipid metabolism - Janthinobacterium agaricidamnosum
+path:jag00590	Arachidonic acid metabolism - Janthinobacterium agaricidamnosum
+path:jag00592	alpha-Linolenic acid metabolism - Janthinobacterium agaricidamnosum
+path:jag00620	Pyruvate metabolism - Janthinobacterium agaricidamnosum
+path:jag00621	Dioxin degradation - Janthinobacterium agaricidamnosum
+path:jag00622	Xylene degradation - Janthinobacterium agaricidamnosum
+path:jag00623	Toluene degradation - Janthinobacterium agaricidamnosum
+path:jag00625	Chloroalkane and chloroalkene degradation - Janthinobacterium agaricidamnosum
+path:jag00626	Naphthalene degradation - Janthinobacterium agaricidamnosum
+path:jag00627	Aminobenzoate degradation - Janthinobacterium agaricidamnosum
+path:jag00630	Glyoxylate and dicarboxylate metabolism - Janthinobacterium agaricidamnosum
+path:jag00640	Propanoate metabolism - Janthinobacterium agaricidamnosum
+path:jag00643	Styrene degradation - Janthinobacterium agaricidamnosum
+path:jag00650	Butanoate metabolism - Janthinobacterium agaricidamnosum
+path:jag00660	C5-Branched dibasic acid metabolism - Janthinobacterium agaricidamnosum
+path:jag00670	One carbon pool by folate - Janthinobacterium agaricidamnosum
+path:jag00680	Methane metabolism - Janthinobacterium agaricidamnosum
+path:jag00730	Thiamine metabolism - Janthinobacterium agaricidamnosum
+path:jag00740	Riboflavin metabolism - Janthinobacterium agaricidamnosum
+path:jag00750	Vitamin B6 metabolism - Janthinobacterium agaricidamnosum
+path:jag00760	Nicotinate and nicotinamide metabolism - Janthinobacterium agaricidamnosum
+path:jag00770	Pantothenate and CoA biosynthesis - Janthinobacterium agaricidamnosum
+path:jag00780	Biotin metabolism - Janthinobacterium agaricidamnosum
+path:jag00785	Lipoic acid metabolism - Janthinobacterium agaricidamnosum
+path:jag00790	Folate biosynthesis - Janthinobacterium agaricidamnosum
+path:jag00860	Porphyrin and chlorophyll metabolism - Janthinobacterium agaricidamnosum
+path:jag00900	Terpenoid backbone biosynthesis - Janthinobacterium agaricidamnosum
+path:jag00903	Limonene and pinene degradation - Janthinobacterium agaricidamnosum
+path:jag00906	Carotenoid biosynthesis - Janthinobacterium agaricidamnosum
+path:jag00910	Nitrogen metabolism - Janthinobacterium agaricidamnosum
+path:jag00920	Sulfur metabolism - Janthinobacterium agaricidamnosum
+path:jag00970	Aminoacyl-tRNA biosynthesis - Janthinobacterium agaricidamnosum
+path:jag01040	Biosynthesis of unsaturated fatty acids - Janthinobacterium agaricidamnosum
+path:jag01053	Biosynthesis of siderophore group nonribosomal peptides - Janthinobacterium agaricidamnosum
+path:jag01100	Metabolic pathways - Janthinobacterium agaricidamnosum
+path:jag01110	Biosynthesis of secondary metabolites - Janthinobacterium agaricidamnosum
+path:jag01120	Microbial metabolism in diverse environments - Janthinobacterium agaricidamnosum
+path:jag01130	Biosynthesis of antibiotics - Janthinobacterium agaricidamnosum
+path:jag01200	Carbon metabolism - Janthinobacterium agaricidamnosum
+path:jag01210	2-Oxocarboxylic acid metabolism - Janthinobacterium agaricidamnosum
+path:jag01212	Fatty acid metabolism - Janthinobacterium agaricidamnosum
+path:jag01220	Degradation of aromatic compounds - Janthinobacterium agaricidamnosum
+path:jag01230	Biosynthesis of amino acids - Janthinobacterium agaricidamnosum
+path:jag01501	beta-Lactam resistance - Janthinobacterium agaricidamnosum
+path:jag01502	Vancomycin resistance - Janthinobacterium agaricidamnosum
+path:jag01503	Cationic antimicrobial peptide (CAMP) resistance - Janthinobacterium agaricidamnosum
+path:jag02010	ABC transporters - Janthinobacterium agaricidamnosum
+path:jag02020	Two-component system - Janthinobacterium agaricidamnosum
+path:jag02024	Quorum sensing - Janthinobacterium agaricidamnosum
+path:jag02030	Bacterial chemotaxis - Janthinobacterium agaricidamnosum
+path:jag02040	Flagellar assembly - Janthinobacterium agaricidamnosum
+path:jag02060	Phosphotransferase system (PTS) - Janthinobacterium agaricidamnosum
+path:jag03010	Ribosome - Janthinobacterium agaricidamnosum
+path:jag03018	RNA degradation - Janthinobacterium agaricidamnosum
+path:jag03020	RNA polymerase - Janthinobacterium agaricidamnosum
+path:jag03030	DNA replication - Janthinobacterium agaricidamnosum
+path:jag03060	Protein export - Janthinobacterium agaricidamnosum
+path:jag03070	Bacterial secretion system - Janthinobacterium agaricidamnosum
+path:jag03410	Base excision repair - Janthinobacterium agaricidamnosum
+path:jag03420	Nucleotide excision repair - Janthinobacterium agaricidamnosum
+path:jag03430	Mismatch repair - Janthinobacterium agaricidamnosum
+path:jag03440	Homologous recombination - Janthinobacterium agaricidamnosum
+path:jag04122	Sulfur relay system - Janthinobacterium agaricidamnosum
+path:jab00010	Glycolysis / Gluconeogenesis - Janthinobacterium sp. B9-8
+path:jab00020	Citrate cycle (TCA cycle) - Janthinobacterium sp. B9-8
+path:jab00030	Pentose phosphate pathway - Janthinobacterium sp. B9-8
+path:jab00040	Pentose and glucuronate interconversions - Janthinobacterium sp. B9-8
+path:jab00051	Fructose and mannose metabolism - Janthinobacterium sp. B9-8
+path:jab00052	Galactose metabolism - Janthinobacterium sp. B9-8
+path:jab00053	Ascorbate and aldarate metabolism - Janthinobacterium sp. B9-8
+path:jab00061	Fatty acid biosynthesis - Janthinobacterium sp. B9-8
+path:jab00071	Fatty acid degradation - Janthinobacterium sp. B9-8
+path:jab00072	Synthesis and degradation of ketone bodies - Janthinobacterium sp. B9-8
+path:jab00130	Ubiquinone and other terpenoid-quinone biosynthesis - Janthinobacterium sp. B9-8
+path:jab00190	Oxidative phosphorylation - Janthinobacterium sp. B9-8
+path:jab00220	Arginine biosynthesis - Janthinobacterium sp. B9-8
+path:jab00230	Purine metabolism - Janthinobacterium sp. B9-8
+path:jab00240	Pyrimidine metabolism - Janthinobacterium sp. B9-8
+path:jab00250	Alanine, aspartate and glutamate metabolism - Janthinobacterium sp. B9-8
+path:jab00260	Glycine, serine and threonine metabolism - Janthinobacterium sp. B9-8
+path:jab00261	Monobactam biosynthesis - Janthinobacterium sp. B9-8
+path:jab00270	Cysteine and methionine metabolism - Janthinobacterium sp. B9-8
+path:jab00280	Valine, leucine and isoleucine degradation - Janthinobacterium sp. B9-8
+path:jab00281	Geraniol degradation - Janthinobacterium sp. B9-8
+path:jab00290	Valine, leucine and isoleucine biosynthesis - Janthinobacterium sp. B9-8
+path:jab00300	Lysine biosynthesis - Janthinobacterium sp. B9-8
+path:jab00310	Lysine degradation - Janthinobacterium sp. B9-8
+path:jab00330	Arginine and proline metabolism - Janthinobacterium sp. B9-8
+path:jab00332	Carbapenem biosynthesis - Janthinobacterium sp. B9-8
+path:jab00340	Histidine metabolism - Janthinobacterium sp. B9-8
+path:jab00350	Tyrosine metabolism - Janthinobacterium sp. B9-8
+path:jab00360	Phenylalanine metabolism - Janthinobacterium sp. B9-8
+path:jab00361	Chlorocyclohexane and chlorobenzene degradation - Janthinobacterium sp. B9-8
+path:jab00362	Benzoate degradation - Janthinobacterium sp. B9-8
+path:jab00364	Fluorobenzoate degradation - Janthinobacterium sp. B9-8
+path:jab00380	Tryptophan metabolism - Janthinobacterium sp. B9-8
+path:jab00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Janthinobacterium sp. B9-8
+path:jab00401	Novobiocin biosynthesis - Janthinobacterium sp. B9-8
+path:jab00410	beta-Alanine metabolism - Janthinobacterium sp. B9-8
+path:jab00430	Taurine and hypotaurine metabolism - Janthinobacterium sp. B9-8
+path:jab00440	Phosphonate and phosphinate metabolism - Janthinobacterium sp. B9-8
+path:jab00450	Selenocompound metabolism - Janthinobacterium sp. B9-8
+path:jab00460	Cyanoamino acid metabolism - Janthinobacterium sp. B9-8
+path:jab00471	D-Glutamine and D-glutamate metabolism - Janthinobacterium sp. B9-8
+path:jab00472	D-Arginine and D-ornithine metabolism - Janthinobacterium sp. B9-8
+path:jab00473	D-Alanine metabolism - Janthinobacterium sp. B9-8
+path:jab00480	Glutathione metabolism - Janthinobacterium sp. B9-8
+path:jab00500	Starch and sucrose metabolism - Janthinobacterium sp. B9-8
+path:jab00511	Other glycan degradation - Janthinobacterium sp. B9-8
+path:jab00520	Amino sugar and nucleotide sugar metabolism - Janthinobacterium sp. B9-8
+path:jab00521	Streptomycin biosynthesis - Janthinobacterium sp. B9-8
+path:jab00523	Polyketide sugar unit biosynthesis - Janthinobacterium sp. B9-8
+path:jab00525	Acarbose and validamycin biosynthesis - Janthinobacterium sp. B9-8
+path:jab00540	Lipopolysaccharide biosynthesis - Janthinobacterium sp. B9-8
+path:jab00550	Peptidoglycan biosynthesis - Janthinobacterium sp. B9-8
+path:jab00561	Glycerolipid metabolism - Janthinobacterium sp. B9-8
+path:jab00562	Inositol phosphate metabolism - Janthinobacterium sp. B9-8
+path:jab00564	Glycerophospholipid metabolism - Janthinobacterium sp. B9-8
+path:jab00565	Ether lipid metabolism - Janthinobacterium sp. B9-8
+path:jab00590	Arachidonic acid metabolism - Janthinobacterium sp. B9-8
+path:jab00592	alpha-Linolenic acid metabolism - Janthinobacterium sp. B9-8
+path:jab00620	Pyruvate metabolism - Janthinobacterium sp. B9-8
+path:jab00623	Toluene degradation - Janthinobacterium sp. B9-8
+path:jab00625	Chloroalkane and chloroalkene degradation - Janthinobacterium sp. B9-8
+path:jab00626	Naphthalene degradation - Janthinobacterium sp. B9-8
+path:jab00627	Aminobenzoate degradation - Janthinobacterium sp. B9-8
+path:jab00630	Glyoxylate and dicarboxylate metabolism - Janthinobacterium sp. B9-8
+path:jab00633	Nitrotoluene degradation - Janthinobacterium sp. B9-8
+path:jab00640	Propanoate metabolism - Janthinobacterium sp. B9-8
+path:jab00643	Styrene degradation - Janthinobacterium sp. B9-8
+path:jab00650	Butanoate metabolism - Janthinobacterium sp. B9-8
+path:jab00660	C5-Branched dibasic acid metabolism - Janthinobacterium sp. B9-8
+path:jab00670	One carbon pool by folate - Janthinobacterium sp. B9-8
+path:jab00680	Methane metabolism - Janthinobacterium sp. B9-8
+path:jab00730	Thiamine metabolism - Janthinobacterium sp. B9-8
+path:jab00740	Riboflavin metabolism - Janthinobacterium sp. B9-8
+path:jab00750	Vitamin B6 metabolism - Janthinobacterium sp. B9-8
+path:jab00760	Nicotinate and nicotinamide metabolism - Janthinobacterium sp. B9-8
+path:jab00770	Pantothenate and CoA biosynthesis - Janthinobacterium sp. B9-8
+path:jab00780	Biotin metabolism - Janthinobacterium sp. B9-8
+path:jab00785	Lipoic acid metabolism - Janthinobacterium sp. B9-8
+path:jab00790	Folate biosynthesis - Janthinobacterium sp. B9-8
+path:jab00860	Porphyrin and chlorophyll metabolism - Janthinobacterium sp. B9-8
+path:jab00900	Terpenoid backbone biosynthesis - Janthinobacterium sp. B9-8
+path:jab00903	Limonene and pinene degradation - Janthinobacterium sp. B9-8
+path:jab00906	Carotenoid biosynthesis - Janthinobacterium sp. B9-8
+path:jab00910	Nitrogen metabolism - Janthinobacterium sp. B9-8
+path:jab00920	Sulfur metabolism - Janthinobacterium sp. B9-8
+path:jab00970	Aminoacyl-tRNA biosynthesis - Janthinobacterium sp. B9-8
+path:jab01040	Biosynthesis of unsaturated fatty acids - Janthinobacterium sp. B9-8
+path:jab01053	Biosynthesis of siderophore group nonribosomal peptides - Janthinobacterium sp. B9-8
+path:jab01100	Metabolic pathways - Janthinobacterium sp. B9-8
+path:jab01110	Biosynthesis of secondary metabolites - Janthinobacterium sp. B9-8
+path:jab01120	Microbial metabolism in diverse environments - Janthinobacterium sp. B9-8
+path:jab01130	Biosynthesis of antibiotics - Janthinobacterium sp. B9-8
+path:jab01200	Carbon metabolism - Janthinobacterium sp. B9-8
+path:jab01210	2-Oxocarboxylic acid metabolism - Janthinobacterium sp. B9-8
+path:jab01212	Fatty acid metabolism - Janthinobacterium sp. B9-8
+path:jab01220	Degradation of aromatic compounds - Janthinobacterium sp. B9-8
+path:jab01230	Biosynthesis of amino acids - Janthinobacterium sp. B9-8
+path:jab01501	beta-Lactam resistance - Janthinobacterium sp. B9-8
+path:jab01502	Vancomycin resistance - Janthinobacterium sp. B9-8
+path:jab01503	Cationic antimicrobial peptide (CAMP) resistance - Janthinobacterium sp. B9-8
+path:jab02010	ABC transporters - Janthinobacterium sp. B9-8
+path:jab02020	Two-component system - Janthinobacterium sp. B9-8
+path:jab02024	Quorum sensing - Janthinobacterium sp. B9-8
+path:jab02030	Bacterial chemotaxis - Janthinobacterium sp. B9-8
+path:jab02040	Flagellar assembly - Janthinobacterium sp. B9-8
+path:jab02060	Phosphotransferase system (PTS) - Janthinobacterium sp. B9-8
+path:jab03010	Ribosome - Janthinobacterium sp. B9-8
+path:jab03018	RNA degradation - Janthinobacterium sp. B9-8
+path:jab03020	RNA polymerase - Janthinobacterium sp. B9-8
+path:jab03030	DNA replication - Janthinobacterium sp. B9-8
+path:jab03060	Protein export - Janthinobacterium sp. B9-8
+path:jab03070	Bacterial secretion system - Janthinobacterium sp. B9-8
+path:jab03410	Base excision repair - Janthinobacterium sp. B9-8
+path:jab03420	Nucleotide excision repair - Janthinobacterium sp. B9-8
+path:jab03430	Mismatch repair - Janthinobacterium sp. B9-8
+path:jab03440	Homologous recombination - Janthinobacterium sp. B9-8
+path:jab04122	Sulfur relay system - Janthinobacterium sp. B9-8
+path:jaz00010	Glycolysis / Gluconeogenesis - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00020	Citrate cycle (TCA cycle) - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00030	Pentose phosphate pathway - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00040	Pentose and glucuronate interconversions - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00051	Fructose and mannose metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00052	Galactose metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00053	Ascorbate and aldarate metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00061	Fatty acid biosynthesis - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00071	Fatty acid degradation - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00072	Synthesis and degradation of ketone bodies - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00130	Ubiquinone and other terpenoid-quinone biosynthesis - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00190	Oxidative phosphorylation - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00220	Arginine biosynthesis - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00230	Purine metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00240	Pyrimidine metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00250	Alanine, aspartate and glutamate metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00260	Glycine, serine and threonine metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00261	Monobactam biosynthesis - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00270	Cysteine and methionine metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00280	Valine, leucine and isoleucine degradation - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00281	Geraniol degradation - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00290	Valine, leucine and isoleucine biosynthesis - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00300	Lysine biosynthesis - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00310	Lysine degradation - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00311	Penicillin and cephalosporin biosynthesis - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00330	Arginine and proline metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00332	Carbapenem biosynthesis - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00340	Histidine metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00350	Tyrosine metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00360	Phenylalanine metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00361	Chlorocyclohexane and chlorobenzene degradation - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00362	Benzoate degradation - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00364	Fluorobenzoate degradation - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00380	Tryptophan metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00401	Novobiocin biosynthesis - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00410	beta-Alanine metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00430	Taurine and hypotaurine metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00440	Phosphonate and phosphinate metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00450	Selenocompound metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00460	Cyanoamino acid metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00471	D-Glutamine and D-glutamate metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00473	D-Alanine metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00480	Glutathione metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00500	Starch and sucrose metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00520	Amino sugar and nucleotide sugar metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00521	Streptomycin biosynthesis - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00523	Polyketide sugar unit biosynthesis - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00525	Acarbose and validamycin biosynthesis - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00540	Lipopolysaccharide biosynthesis - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00550	Peptidoglycan biosynthesis - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00561	Glycerolipid metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00562	Inositol phosphate metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00564	Glycerophospholipid metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00565	Ether lipid metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00590	Arachidonic acid metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00591	Linoleic acid metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00592	alpha-Linolenic acid metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00620	Pyruvate metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00623	Toluene degradation - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00625	Chloroalkane and chloroalkene degradation - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00626	Naphthalene degradation - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00627	Aminobenzoate degradation - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00630	Glyoxylate and dicarboxylate metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00640	Propanoate metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00643	Styrene degradation - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00650	Butanoate metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00660	C5-Branched dibasic acid metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00670	One carbon pool by folate - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00680	Methane metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00730	Thiamine metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00740	Riboflavin metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00750	Vitamin B6 metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00760	Nicotinate and nicotinamide metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00770	Pantothenate and CoA biosynthesis - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00780	Biotin metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00785	Lipoic acid metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00790	Folate biosynthesis - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00860	Porphyrin and chlorophyll metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00900	Terpenoid backbone biosynthesis - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00903	Limonene and pinene degradation - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00906	Carotenoid biosynthesis - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00910	Nitrogen metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00920	Sulfur metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00930	Caprolactam degradation - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz00970	Aminoacyl-tRNA biosynthesis - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz01040	Biosynthesis of unsaturated fatty acids - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz01054	Nonribosomal peptide structures - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz01100	Metabolic pathways - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz01110	Biosynthesis of secondary metabolites - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz01120	Microbial metabolism in diverse environments - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz01130	Biosynthesis of antibiotics - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz01200	Carbon metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz01210	2-Oxocarboxylic acid metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz01212	Fatty acid metabolism - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz01220	Degradation of aromatic compounds - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz01230	Biosynthesis of amino acids - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz01501	beta-Lactam resistance - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz01502	Vancomycin resistance - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz01503	Cationic antimicrobial peptide (CAMP) resistance - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz02010	ABC transporters - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz02020	Two-component system - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz02024	Quorum sensing - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz02030	Bacterial chemotaxis - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz02040	Flagellar assembly - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz02060	Phosphotransferase system (PTS) - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz03010	Ribosome - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz03018	RNA degradation - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz03020	RNA polymerase - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz03030	DNA replication - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz03060	Protein export - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz03070	Bacterial secretion system - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz03410	Base excision repair - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz03420	Nucleotide excision repair - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz03430	Mismatch repair - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz03440	Homologous recombination - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz03450	Non-homologous end-joining - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jaz04122	Sulfur relay system - Janthinobacterium sp. 1_2014MBL_MicDiv
+path:jal00010	Glycolysis / Gluconeogenesis - Janthinobacterium sp. LM6
+path:jal00020	Citrate cycle (TCA cycle) - Janthinobacterium sp. LM6
+path:jal00030	Pentose phosphate pathway - Janthinobacterium sp. LM6
+path:jal00040	Pentose and glucuronate interconversions - Janthinobacterium sp. LM6
+path:jal00051	Fructose and mannose metabolism - Janthinobacterium sp. LM6
+path:jal00052	Galactose metabolism - Janthinobacterium sp. LM6
+path:jal00053	Ascorbate and aldarate metabolism - Janthinobacterium sp. LM6
+path:jal00061	Fatty acid biosynthesis - Janthinobacterium sp. LM6
+path:jal00071	Fatty acid degradation - Janthinobacterium sp. LM6
+path:jal00072	Synthesis and degradation of ketone bodies - Janthinobacterium sp. LM6
+path:jal00130	Ubiquinone and other terpenoid-quinone biosynthesis - Janthinobacterium sp. LM6
+path:jal00190	Oxidative phosphorylation - Janthinobacterium sp. LM6
+path:jal00220	Arginine biosynthesis - Janthinobacterium sp. LM6
+path:jal00230	Purine metabolism - Janthinobacterium sp. LM6
+path:jal00240	Pyrimidine metabolism - Janthinobacterium sp. LM6
+path:jal00250	Alanine, aspartate and glutamate metabolism - Janthinobacterium sp. LM6
+path:jal00260	Glycine, serine and threonine metabolism - Janthinobacterium sp. LM6
+path:jal00261	Monobactam biosynthesis - Janthinobacterium sp. LM6
+path:jal00270	Cysteine and methionine metabolism - Janthinobacterium sp. LM6
+path:jal00280	Valine, leucine and isoleucine degradation - Janthinobacterium sp. LM6
+path:jal00281	Geraniol degradation - Janthinobacterium sp. LM6
+path:jal00290	Valine, leucine and isoleucine biosynthesis - Janthinobacterium sp. LM6
+path:jal00300	Lysine biosynthesis - Janthinobacterium sp. LM6
+path:jal00310	Lysine degradation - Janthinobacterium sp. LM6
+path:jal00311	Penicillin and cephalosporin biosynthesis - Janthinobacterium sp. LM6
+path:jal00330	Arginine and proline metabolism - Janthinobacterium sp. LM6
+path:jal00332	Carbapenem biosynthesis - Janthinobacterium sp. LM6
+path:jal00340	Histidine metabolism - Janthinobacterium sp. LM6
+path:jal00350	Tyrosine metabolism - Janthinobacterium sp. LM6
+path:jal00360	Phenylalanine metabolism - Janthinobacterium sp. LM6
+path:jal00361	Chlorocyclohexane and chlorobenzene degradation - Janthinobacterium sp. LM6
+path:jal00362	Benzoate degradation - Janthinobacterium sp. LM6
+path:jal00364	Fluorobenzoate degradation - Janthinobacterium sp. LM6
+path:jal00380	Tryptophan metabolism - Janthinobacterium sp. LM6
+path:jal00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Janthinobacterium sp. LM6
+path:jal00401	Novobiocin biosynthesis - Janthinobacterium sp. LM6
+path:jal00410	beta-Alanine metabolism - Janthinobacterium sp. LM6
+path:jal00430	Taurine and hypotaurine metabolism - Janthinobacterium sp. LM6
+path:jal00440	Phosphonate and phosphinate metabolism - Janthinobacterium sp. LM6
+path:jal00450	Selenocompound metabolism - Janthinobacterium sp. LM6
+path:jal00460	Cyanoamino acid metabolism - Janthinobacterium sp. LM6
+path:jal00471	D-Glutamine and D-glutamate metabolism - Janthinobacterium sp. LM6
+path:jal00473	D-Alanine metabolism - Janthinobacterium sp. LM6
+path:jal00480	Glutathione metabolism - Janthinobacterium sp. LM6
+path:jal00500	Starch and sucrose metabolism - Janthinobacterium sp. LM6
+path:jal00520	Amino sugar and nucleotide sugar metabolism - Janthinobacterium sp. LM6
+path:jal00521	Streptomycin biosynthesis - Janthinobacterium sp. LM6
+path:jal00523	Polyketide sugar unit biosynthesis - Janthinobacterium sp. LM6
+path:jal00525	Acarbose and validamycin biosynthesis - Janthinobacterium sp. LM6
+path:jal00540	Lipopolysaccharide biosynthesis - Janthinobacterium sp. LM6
+path:jal00550	Peptidoglycan biosynthesis - Janthinobacterium sp. LM6
+path:jal00561	Glycerolipid metabolism - Janthinobacterium sp. LM6
+path:jal00562	Inositol phosphate metabolism - Janthinobacterium sp. LM6
+path:jal00564	Glycerophospholipid metabolism - Janthinobacterium sp. LM6
+path:jal00565	Ether lipid metabolism - Janthinobacterium sp. LM6
+path:jal00590	Arachidonic acid metabolism - Janthinobacterium sp. LM6
+path:jal00591	Linoleic acid metabolism - Janthinobacterium sp. LM6
+path:jal00592	alpha-Linolenic acid metabolism - Janthinobacterium sp. LM6
+path:jal00620	Pyruvate metabolism - Janthinobacterium sp. LM6
+path:jal00623	Toluene degradation - Janthinobacterium sp. LM6
+path:jal00625	Chloroalkane and chloroalkene degradation - Janthinobacterium sp. LM6
+path:jal00626	Naphthalene degradation - Janthinobacterium sp. LM6
+path:jal00627	Aminobenzoate degradation - Janthinobacterium sp. LM6
+path:jal00630	Glyoxylate and dicarboxylate metabolism - Janthinobacterium sp. LM6
+path:jal00640	Propanoate metabolism - Janthinobacterium sp. LM6
+path:jal00643	Styrene degradation - Janthinobacterium sp. LM6
+path:jal00650	Butanoate metabolism - Janthinobacterium sp. LM6
+path:jal00660	C5-Branched dibasic acid metabolism - Janthinobacterium sp. LM6
+path:jal00670	One carbon pool by folate - Janthinobacterium sp. LM6
+path:jal00680	Methane metabolism - Janthinobacterium sp. LM6
+path:jal00730	Thiamine metabolism - Janthinobacterium sp. LM6
+path:jal00740	Riboflavin metabolism - Janthinobacterium sp. LM6
+path:jal00750	Vitamin B6 metabolism - Janthinobacterium sp. LM6
+path:jal00760	Nicotinate and nicotinamide metabolism - Janthinobacterium sp. LM6
+path:jal00770	Pantothenate and CoA biosynthesis - Janthinobacterium sp. LM6
+path:jal00780	Biotin metabolism - Janthinobacterium sp. LM6
+path:jal00785	Lipoic acid metabolism - Janthinobacterium sp. LM6
+path:jal00790	Folate biosynthesis - Janthinobacterium sp. LM6
+path:jal00860	Porphyrin and chlorophyll metabolism - Janthinobacterium sp. LM6
+path:jal00900	Terpenoid backbone biosynthesis - Janthinobacterium sp. LM6
+path:jal00903	Limonene and pinene degradation - Janthinobacterium sp. LM6
+path:jal00906	Carotenoid biosynthesis - Janthinobacterium sp. LM6
+path:jal00910	Nitrogen metabolism - Janthinobacterium sp. LM6
+path:jal00920	Sulfur metabolism - Janthinobacterium sp. LM6
+path:jal00930	Caprolactam degradation - Janthinobacterium sp. LM6
+path:jal00970	Aminoacyl-tRNA biosynthesis - Janthinobacterium sp. LM6
+path:jal01040	Biosynthesis of unsaturated fatty acids - Janthinobacterium sp. LM6
+path:jal01054	Nonribosomal peptide structures - Janthinobacterium sp. LM6
+path:jal01100	Metabolic pathways - Janthinobacterium sp. LM6
+path:jal01110	Biosynthesis of secondary metabolites - Janthinobacterium sp. LM6
+path:jal01120	Microbial metabolism in diverse environments - Janthinobacterium sp. LM6
+path:jal01130	Biosynthesis of antibiotics - Janthinobacterium sp. LM6
+path:jal01200	Carbon metabolism - Janthinobacterium sp. LM6
+path:jal01210	2-Oxocarboxylic acid metabolism - Janthinobacterium sp. LM6
+path:jal01212	Fatty acid metabolism - Janthinobacterium sp. LM6
+path:jal01220	Degradation of aromatic compounds - Janthinobacterium sp. LM6
+path:jal01230	Biosynthesis of amino acids - Janthinobacterium sp. LM6
+path:jal01501	beta-Lactam resistance - Janthinobacterium sp. LM6
+path:jal01502	Vancomycin resistance - Janthinobacterium sp. LM6
+path:jal01503	Cationic antimicrobial peptide (CAMP) resistance - Janthinobacterium sp. LM6
+path:jal02010	ABC transporters - Janthinobacterium sp. LM6
+path:jal02020	Two-component system - Janthinobacterium sp. LM6
+path:jal02024	Quorum sensing - Janthinobacterium sp. LM6
+path:jal02030	Bacterial chemotaxis - Janthinobacterium sp. LM6
+path:jal02040	Flagellar assembly - Janthinobacterium sp. LM6
+path:jal02060	Phosphotransferase system (PTS) - Janthinobacterium sp. LM6
+path:jal03010	Ribosome - Janthinobacterium sp. LM6
+path:jal03018	RNA degradation - Janthinobacterium sp. LM6
+path:jal03020	RNA polymerase - Janthinobacterium sp. LM6
+path:jal03030	DNA replication - Janthinobacterium sp. LM6
+path:jal03060	Protein export - Janthinobacterium sp. LM6
+path:jal03070	Bacterial secretion system - Janthinobacterium sp. LM6
+path:jal03410	Base excision repair - Janthinobacterium sp. LM6
+path:jal03420	Nucleotide excision repair - Janthinobacterium sp. LM6
+path:jal03430	Mismatch repair - Janthinobacterium sp. LM6
+path:jal03440	Homologous recombination - Janthinobacterium sp. LM6
+path:jal04122	Sulfur relay system - Janthinobacterium sp. LM6

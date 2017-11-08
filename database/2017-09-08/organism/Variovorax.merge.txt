@@ -1,0 +1,499 @@
+path:vap00010	Glycolysis / Gluconeogenesis - Variovorax paradoxus S110
+path:vap00020	Citrate cycle (TCA cycle) - Variovorax paradoxus S110
+path:vap00030	Pentose phosphate pathway - Variovorax paradoxus S110
+path:vap00040	Pentose and glucuronate interconversions - Variovorax paradoxus S110
+path:vap00051	Fructose and mannose metabolism - Variovorax paradoxus S110
+path:vap00052	Galactose metabolism - Variovorax paradoxus S110
+path:vap00053	Ascorbate and aldarate metabolism - Variovorax paradoxus S110
+path:vap00061	Fatty acid biosynthesis - Variovorax paradoxus S110
+path:vap00071	Fatty acid degradation - Variovorax paradoxus S110
+path:vap00072	Synthesis and degradation of ketone bodies - Variovorax paradoxus S110
+path:vap00130	Ubiquinone and other terpenoid-quinone biosynthesis - Variovorax paradoxus S110
+path:vap00190	Oxidative phosphorylation - Variovorax paradoxus S110
+path:vap00220	Arginine biosynthesis - Variovorax paradoxus S110
+path:vap00230	Purine metabolism - Variovorax paradoxus S110
+path:vap00240	Pyrimidine metabolism - Variovorax paradoxus S110
+path:vap00250	Alanine, aspartate and glutamate metabolism - Variovorax paradoxus S110
+path:vap00260	Glycine, serine and threonine metabolism - Variovorax paradoxus S110
+path:vap00261	Monobactam biosynthesis - Variovorax paradoxus S110
+path:vap00270	Cysteine and methionine metabolism - Variovorax paradoxus S110
+path:vap00280	Valine, leucine and isoleucine degradation - Variovorax paradoxus S110
+path:vap00281	Geraniol degradation - Variovorax paradoxus S110
+path:vap00290	Valine, leucine and isoleucine biosynthesis - Variovorax paradoxus S110
+path:vap00300	Lysine biosynthesis - Variovorax paradoxus S110
+path:vap00310	Lysine degradation - Variovorax paradoxus S110
+path:vap00311	Penicillin and cephalosporin biosynthesis - Variovorax paradoxus S110
+path:vap00330	Arginine and proline metabolism - Variovorax paradoxus S110
+path:vap00332	Carbapenem biosynthesis - Variovorax paradoxus S110
+path:vap00340	Histidine metabolism - Variovorax paradoxus S110
+path:vap00350	Tyrosine metabolism - Variovorax paradoxus S110
+path:vap00360	Phenylalanine metabolism - Variovorax paradoxus S110
+path:vap00361	Chlorocyclohexane and chlorobenzene degradation - Variovorax paradoxus S110
+path:vap00362	Benzoate degradation - Variovorax paradoxus S110
+path:vap00364	Fluorobenzoate degradation - Variovorax paradoxus S110
+path:vap00380	Tryptophan metabolism - Variovorax paradoxus S110
+path:vap00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Variovorax paradoxus S110
+path:vap00401	Novobiocin biosynthesis - Variovorax paradoxus S110
+path:vap00405	Phenazine biosynthesis - Variovorax paradoxus S110
+path:vap00410	beta-Alanine metabolism - Variovorax paradoxus S110
+path:vap00430	Taurine and hypotaurine metabolism - Variovorax paradoxus S110
+path:vap00440	Phosphonate and phosphinate metabolism - Variovorax paradoxus S110
+path:vap00450	Selenocompound metabolism - Variovorax paradoxus S110
+path:vap00460	Cyanoamino acid metabolism - Variovorax paradoxus S110
+path:vap00471	D-Glutamine and D-glutamate metabolism - Variovorax paradoxus S110
+path:vap00472	D-Arginine and D-ornithine metabolism - Variovorax paradoxus S110
+path:vap00473	D-Alanine metabolism - Variovorax paradoxus S110
+path:vap00480	Glutathione metabolism - Variovorax paradoxus S110
+path:vap00500	Starch and sucrose metabolism - Variovorax paradoxus S110
+path:vap00520	Amino sugar and nucleotide sugar metabolism - Variovorax paradoxus S110
+path:vap00521	Streptomycin biosynthesis - Variovorax paradoxus S110
+path:vap00523	Polyketide sugar unit biosynthesis - Variovorax paradoxus S110
+path:vap00525	Acarbose and validamycin biosynthesis - Variovorax paradoxus S110
+path:vap00540	Lipopolysaccharide biosynthesis - Variovorax paradoxus S110
+path:vap00550	Peptidoglycan biosynthesis - Variovorax paradoxus S110
+path:vap00561	Glycerolipid metabolism - Variovorax paradoxus S110
+path:vap00562	Inositol phosphate metabolism - Variovorax paradoxus S110
+path:vap00564	Glycerophospholipid metabolism - Variovorax paradoxus S110
+path:vap00565	Ether lipid metabolism - Variovorax paradoxus S110
+path:vap00590	Arachidonic acid metabolism - Variovorax paradoxus S110
+path:vap00592	alpha-Linolenic acid metabolism - Variovorax paradoxus S110
+path:vap00620	Pyruvate metabolism - Variovorax paradoxus S110
+path:vap00621	Dioxin degradation - Variovorax paradoxus S110
+path:vap00622	Xylene degradation - Variovorax paradoxus S110
+path:vap00623	Toluene degradation - Variovorax paradoxus S110
+path:vap00624	Polycyclic aromatic hydrocarbon degradation - Variovorax paradoxus S110
+path:vap00625	Chloroalkane and chloroalkene degradation - Variovorax paradoxus S110
+path:vap00626	Naphthalene degradation - Variovorax paradoxus S110
+path:vap00627	Aminobenzoate degradation - Variovorax paradoxus S110
+path:vap00630	Glyoxylate and dicarboxylate metabolism - Variovorax paradoxus S110
+path:vap00633	Nitrotoluene degradation - Variovorax paradoxus S110
+path:vap00640	Propanoate metabolism - Variovorax paradoxus S110
+path:vap00642	Ethylbenzene degradation - Variovorax paradoxus S110
+path:vap00643	Styrene degradation - Variovorax paradoxus S110
+path:vap00650	Butanoate metabolism - Variovorax paradoxus S110
+path:vap00660	C5-Branched dibasic acid metabolism - Variovorax paradoxus S110
+path:vap00670	One carbon pool by folate - Variovorax paradoxus S110
+path:vap00680	Methane metabolism - Variovorax paradoxus S110
+path:vap00710	Carbon fixation in photosynthetic organisms - Variovorax paradoxus S110
+path:vap00730	Thiamine metabolism - Variovorax paradoxus S110
+path:vap00740	Riboflavin metabolism - Variovorax paradoxus S110
+path:vap00750	Vitamin B6 metabolism - Variovorax paradoxus S110
+path:vap00760	Nicotinate and nicotinamide metabolism - Variovorax paradoxus S110
+path:vap00770	Pantothenate and CoA biosynthesis - Variovorax paradoxus S110
+path:vap00780	Biotin metabolism - Variovorax paradoxus S110
+path:vap00785	Lipoic acid metabolism - Variovorax paradoxus S110
+path:vap00790	Folate biosynthesis - Variovorax paradoxus S110
+path:vap00791	Atrazine degradation - Variovorax paradoxus S110
+path:vap00860	Porphyrin and chlorophyll metabolism - Variovorax paradoxus S110
+path:vap00900	Terpenoid backbone biosynthesis - Variovorax paradoxus S110
+path:vap00903	Limonene and pinene degradation - Variovorax paradoxus S110
+path:vap00906	Carotenoid biosynthesis - Variovorax paradoxus S110
+path:vap00910	Nitrogen metabolism - Variovorax paradoxus S110
+path:vap00920	Sulfur metabolism - Variovorax paradoxus S110
+path:vap00930	Caprolactam degradation - Variovorax paradoxus S110
+path:vap00970	Aminoacyl-tRNA biosynthesis - Variovorax paradoxus S110
+path:vap01040	Biosynthesis of unsaturated fatty acids - Variovorax paradoxus S110
+path:vap01054	Nonribosomal peptide structures - Variovorax paradoxus S110
+path:vap01100	Metabolic pathways - Variovorax paradoxus S110
+path:vap01110	Biosynthesis of secondary metabolites - Variovorax paradoxus S110
+path:vap01120	Microbial metabolism in diverse environments - Variovorax paradoxus S110
+path:vap01130	Biosynthesis of antibiotics - Variovorax paradoxus S110
+path:vap01200	Carbon metabolism - Variovorax paradoxus S110
+path:vap01210	2-Oxocarboxylic acid metabolism - Variovorax paradoxus S110
+path:vap01212	Fatty acid metabolism - Variovorax paradoxus S110
+path:vap01220	Degradation of aromatic compounds - Variovorax paradoxus S110
+path:vap01230	Biosynthesis of amino acids - Variovorax paradoxus S110
+path:vap01501	beta-Lactam resistance - Variovorax paradoxus S110
+path:vap01502	Vancomycin resistance - Variovorax paradoxus S110
+path:vap01503	Cationic antimicrobial peptide (CAMP) resistance - Variovorax paradoxus S110
+path:vap02010	ABC transporters - Variovorax paradoxus S110
+path:vap02020	Two-component system - Variovorax paradoxus S110
+path:vap02024	Quorum sensing - Variovorax paradoxus S110
+path:vap02030	Bacterial chemotaxis - Variovorax paradoxus S110
+path:vap02040	Flagellar assembly - Variovorax paradoxus S110
+path:vap02060	Phosphotransferase system (PTS) - Variovorax paradoxus S110
+path:vap03010	Ribosome - Variovorax paradoxus S110
+path:vap03018	RNA degradation - Variovorax paradoxus S110
+path:vap03020	RNA polymerase - Variovorax paradoxus S110
+path:vap03030	DNA replication - Variovorax paradoxus S110
+path:vap03060	Protein export - Variovorax paradoxus S110
+path:vap03070	Bacterial secretion system - Variovorax paradoxus S110
+path:vap03410	Base excision repair - Variovorax paradoxus S110
+path:vap03420	Nucleotide excision repair - Variovorax paradoxus S110
+path:vap03430	Mismatch repair - Variovorax paradoxus S110
+path:vap03440	Homologous recombination - Variovorax paradoxus S110
+path:vap03450	Non-homologous end-joining - Variovorax paradoxus S110
+path:vap04122	Sulfur relay system - Variovorax paradoxus S110
+path:vpe00010	Glycolysis / Gluconeogenesis - Variovorax paradoxus EPS
+path:vpe00020	Citrate cycle (TCA cycle) - Variovorax paradoxus EPS
+path:vpe00030	Pentose phosphate pathway - Variovorax paradoxus EPS
+path:vpe00040	Pentose and glucuronate interconversions - Variovorax paradoxus EPS
+path:vpe00051	Fructose and mannose metabolism - Variovorax paradoxus EPS
+path:vpe00052	Galactose metabolism - Variovorax paradoxus EPS
+path:vpe00053	Ascorbate and aldarate metabolism - Variovorax paradoxus EPS
+path:vpe00061	Fatty acid biosynthesis - Variovorax paradoxus EPS
+path:vpe00071	Fatty acid degradation - Variovorax paradoxus EPS
+path:vpe00072	Synthesis and degradation of ketone bodies - Variovorax paradoxus EPS
+path:vpe00130	Ubiquinone and other terpenoid-quinone biosynthesis - Variovorax paradoxus EPS
+path:vpe00190	Oxidative phosphorylation - Variovorax paradoxus EPS
+path:vpe00220	Arginine biosynthesis - Variovorax paradoxus EPS
+path:vpe00230	Purine metabolism - Variovorax paradoxus EPS
+path:vpe00240	Pyrimidine metabolism - Variovorax paradoxus EPS
+path:vpe00250	Alanine, aspartate and glutamate metabolism - Variovorax paradoxus EPS
+path:vpe00260	Glycine, serine and threonine metabolism - Variovorax paradoxus EPS
+path:vpe00261	Monobactam biosynthesis - Variovorax paradoxus EPS
+path:vpe00270	Cysteine and methionine metabolism - Variovorax paradoxus EPS
+path:vpe00280	Valine, leucine and isoleucine degradation - Variovorax paradoxus EPS
+path:vpe00281	Geraniol degradation - Variovorax paradoxus EPS
+path:vpe00290	Valine, leucine and isoleucine biosynthesis - Variovorax paradoxus EPS
+path:vpe00300	Lysine biosynthesis - Variovorax paradoxus EPS
+path:vpe00310	Lysine degradation - Variovorax paradoxus EPS
+path:vpe00311	Penicillin and cephalosporin biosynthesis - Variovorax paradoxus EPS
+path:vpe00330	Arginine and proline metabolism - Variovorax paradoxus EPS
+path:vpe00332	Carbapenem biosynthesis - Variovorax paradoxus EPS
+path:vpe00340	Histidine metabolism - Variovorax paradoxus EPS
+path:vpe00350	Tyrosine metabolism - Variovorax paradoxus EPS
+path:vpe00360	Phenylalanine metabolism - Variovorax paradoxus EPS
+path:vpe00361	Chlorocyclohexane and chlorobenzene degradation - Variovorax paradoxus EPS
+path:vpe00362	Benzoate degradation - Variovorax paradoxus EPS
+path:vpe00364	Fluorobenzoate degradation - Variovorax paradoxus EPS
+path:vpe00380	Tryptophan metabolism - Variovorax paradoxus EPS
+path:vpe00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Variovorax paradoxus EPS
+path:vpe00401	Novobiocin biosynthesis - Variovorax paradoxus EPS
+path:vpe00405	Phenazine biosynthesis - Variovorax paradoxus EPS
+path:vpe00410	beta-Alanine metabolism - Variovorax paradoxus EPS
+path:vpe00430	Taurine and hypotaurine metabolism - Variovorax paradoxus EPS
+path:vpe00440	Phosphonate and phosphinate metabolism - Variovorax paradoxus EPS
+path:vpe00450	Selenocompound metabolism - Variovorax paradoxus EPS
+path:vpe00460	Cyanoamino acid metabolism - Variovorax paradoxus EPS
+path:vpe00471	D-Glutamine and D-glutamate metabolism - Variovorax paradoxus EPS
+path:vpe00472	D-Arginine and D-ornithine metabolism - Variovorax paradoxus EPS
+path:vpe00473	D-Alanine metabolism - Variovorax paradoxus EPS
+path:vpe00480	Glutathione metabolism - Variovorax paradoxus EPS
+path:vpe00500	Starch and sucrose metabolism - Variovorax paradoxus EPS
+path:vpe00520	Amino sugar and nucleotide sugar metabolism - Variovorax paradoxus EPS
+path:vpe00521	Streptomycin biosynthesis - Variovorax paradoxus EPS
+path:vpe00523	Polyketide sugar unit biosynthesis - Variovorax paradoxus EPS
+path:vpe00525	Acarbose and validamycin biosynthesis - Variovorax paradoxus EPS
+path:vpe00540	Lipopolysaccharide biosynthesis - Variovorax paradoxus EPS
+path:vpe00550	Peptidoglycan biosynthesis - Variovorax paradoxus EPS
+path:vpe00561	Glycerolipid metabolism - Variovorax paradoxus EPS
+path:vpe00562	Inositol phosphate metabolism - Variovorax paradoxus EPS
+path:vpe00564	Glycerophospholipid metabolism - Variovorax paradoxus EPS
+path:vpe00565	Ether lipid metabolism - Variovorax paradoxus EPS
+path:vpe00590	Arachidonic acid metabolism - Variovorax paradoxus EPS
+path:vpe00592	alpha-Linolenic acid metabolism - Variovorax paradoxus EPS
+path:vpe00620	Pyruvate metabolism - Variovorax paradoxus EPS
+path:vpe00621	Dioxin degradation - Variovorax paradoxus EPS
+path:vpe00623	Toluene degradation - Variovorax paradoxus EPS
+path:vpe00624	Polycyclic aromatic hydrocarbon degradation - Variovorax paradoxus EPS
+path:vpe00625	Chloroalkane and chloroalkene degradation - Variovorax paradoxus EPS
+path:vpe00626	Naphthalene degradation - Variovorax paradoxus EPS
+path:vpe00627	Aminobenzoate degradation - Variovorax paradoxus EPS
+path:vpe00630	Glyoxylate and dicarboxylate metabolism - Variovorax paradoxus EPS
+path:vpe00633	Nitrotoluene degradation - Variovorax paradoxus EPS
+path:vpe00640	Propanoate metabolism - Variovorax paradoxus EPS
+path:vpe00642	Ethylbenzene degradation - Variovorax paradoxus EPS
+path:vpe00643	Styrene degradation - Variovorax paradoxus EPS
+path:vpe00650	Butanoate metabolism - Variovorax paradoxus EPS
+path:vpe00660	C5-Branched dibasic acid metabolism - Variovorax paradoxus EPS
+path:vpe00670	One carbon pool by folate - Variovorax paradoxus EPS
+path:vpe00680	Methane metabolism - Variovorax paradoxus EPS
+path:vpe00710	Carbon fixation in photosynthetic organisms - Variovorax paradoxus EPS
+path:vpe00730	Thiamine metabolism - Variovorax paradoxus EPS
+path:vpe00740	Riboflavin metabolism - Variovorax paradoxus EPS
+path:vpe00750	Vitamin B6 metabolism - Variovorax paradoxus EPS
+path:vpe00760	Nicotinate and nicotinamide metabolism - Variovorax paradoxus EPS
+path:vpe00770	Pantothenate and CoA biosynthesis - Variovorax paradoxus EPS
+path:vpe00780	Biotin metabolism - Variovorax paradoxus EPS
+path:vpe00785	Lipoic acid metabolism - Variovorax paradoxus EPS
+path:vpe00790	Folate biosynthesis - Variovorax paradoxus EPS
+path:vpe00791	Atrazine degradation - Variovorax paradoxus EPS
+path:vpe00860	Porphyrin and chlorophyll metabolism - Variovorax paradoxus EPS
+path:vpe00900	Terpenoid backbone biosynthesis - Variovorax paradoxus EPS
+path:vpe00903	Limonene and pinene degradation - Variovorax paradoxus EPS
+path:vpe00906	Carotenoid biosynthesis - Variovorax paradoxus EPS
+path:vpe00910	Nitrogen metabolism - Variovorax paradoxus EPS
+path:vpe00920	Sulfur metabolism - Variovorax paradoxus EPS
+path:vpe00930	Caprolactam degradation - Variovorax paradoxus EPS
+path:vpe00970	Aminoacyl-tRNA biosynthesis - Variovorax paradoxus EPS
+path:vpe01040	Biosynthesis of unsaturated fatty acids - Variovorax paradoxus EPS
+path:vpe01053	Biosynthesis of siderophore group nonribosomal peptides - Variovorax paradoxus EPS
+path:vpe01054	Nonribosomal peptide structures - Variovorax paradoxus EPS
+path:vpe01100	Metabolic pathways - Variovorax paradoxus EPS
+path:vpe01110	Biosynthesis of secondary metabolites - Variovorax paradoxus EPS
+path:vpe01120	Microbial metabolism in diverse environments - Variovorax paradoxus EPS
+path:vpe01130	Biosynthesis of antibiotics - Variovorax paradoxus EPS
+path:vpe01200	Carbon metabolism - Variovorax paradoxus EPS
+path:vpe01210	2-Oxocarboxylic acid metabolism - Variovorax paradoxus EPS
+path:vpe01212	Fatty acid metabolism - Variovorax paradoxus EPS
+path:vpe01220	Degradation of aromatic compounds - Variovorax paradoxus EPS
+path:vpe01230	Biosynthesis of amino acids - Variovorax paradoxus EPS
+path:vpe01501	beta-Lactam resistance - Variovorax paradoxus EPS
+path:vpe01502	Vancomycin resistance - Variovorax paradoxus EPS
+path:vpe01503	Cationic antimicrobial peptide (CAMP) resistance - Variovorax paradoxus EPS
+path:vpe02010	ABC transporters - Variovorax paradoxus EPS
+path:vpe02020	Two-component system - Variovorax paradoxus EPS
+path:vpe02024	Quorum sensing - Variovorax paradoxus EPS
+path:vpe02030	Bacterial chemotaxis - Variovorax paradoxus EPS
+path:vpe02060	Phosphotransferase system (PTS) - Variovorax paradoxus EPS
+path:vpe03010	Ribosome - Variovorax paradoxus EPS
+path:vpe03018	RNA degradation - Variovorax paradoxus EPS
+path:vpe03020	RNA polymerase - Variovorax paradoxus EPS
+path:vpe03030	DNA replication - Variovorax paradoxus EPS
+path:vpe03060	Protein export - Variovorax paradoxus EPS
+path:vpe03070	Bacterial secretion system - Variovorax paradoxus EPS
+path:vpe03410	Base excision repair - Variovorax paradoxus EPS
+path:vpe03420	Nucleotide excision repair - Variovorax paradoxus EPS
+path:vpe03430	Mismatch repair - Variovorax paradoxus EPS
+path:vpe03440	Homologous recombination - Variovorax paradoxus EPS
+path:vpe03450	Non-homologous end-joining - Variovorax paradoxus EPS
+path:vpe04122	Sulfur relay system - Variovorax paradoxus EPS
+path:vpd00010	Glycolysis / Gluconeogenesis - Variovorax paradoxus B4
+path:vpd00020	Citrate cycle (TCA cycle) - Variovorax paradoxus B4
+path:vpd00030	Pentose phosphate pathway - Variovorax paradoxus B4
+path:vpd00040	Pentose and glucuronate interconversions - Variovorax paradoxus B4
+path:vpd00051	Fructose and mannose metabolism - Variovorax paradoxus B4
+path:vpd00052	Galactose metabolism - Variovorax paradoxus B4
+path:vpd00053	Ascorbate and aldarate metabolism - Variovorax paradoxus B4
+path:vpd00061	Fatty acid biosynthesis - Variovorax paradoxus B4
+path:vpd00071	Fatty acid degradation - Variovorax paradoxus B4
+path:vpd00072	Synthesis and degradation of ketone bodies - Variovorax paradoxus B4
+path:vpd00130	Ubiquinone and other terpenoid-quinone biosynthesis - Variovorax paradoxus B4
+path:vpd00190	Oxidative phosphorylation - Variovorax paradoxus B4
+path:vpd00220	Arginine biosynthesis - Variovorax paradoxus B4
+path:vpd00230	Purine metabolism - Variovorax paradoxus B4
+path:vpd00240	Pyrimidine metabolism - Variovorax paradoxus B4
+path:vpd00250	Alanine, aspartate and glutamate metabolism - Variovorax paradoxus B4
+path:vpd00260	Glycine, serine and threonine metabolism - Variovorax paradoxus B4
+path:vpd00261	Monobactam biosynthesis - Variovorax paradoxus B4
+path:vpd00270	Cysteine and methionine metabolism - Variovorax paradoxus B4
+path:vpd00280	Valine, leucine and isoleucine degradation - Variovorax paradoxus B4
+path:vpd00281	Geraniol degradation - Variovorax paradoxus B4
+path:vpd00290	Valine, leucine and isoleucine biosynthesis - Variovorax paradoxus B4
+path:vpd00300	Lysine biosynthesis - Variovorax paradoxus B4
+path:vpd00310	Lysine degradation - Variovorax paradoxus B4
+path:vpd00311	Penicillin and cephalosporin biosynthesis - Variovorax paradoxus B4
+path:vpd00330	Arginine and proline metabolism - Variovorax paradoxus B4
+path:vpd00332	Carbapenem biosynthesis - Variovorax paradoxus B4
+path:vpd00340	Histidine metabolism - Variovorax paradoxus B4
+path:vpd00350	Tyrosine metabolism - Variovorax paradoxus B4
+path:vpd00360	Phenylalanine metabolism - Variovorax paradoxus B4
+path:vpd00361	Chlorocyclohexane and chlorobenzene degradation - Variovorax paradoxus B4
+path:vpd00362	Benzoate degradation - Variovorax paradoxus B4
+path:vpd00364	Fluorobenzoate degradation - Variovorax paradoxus B4
+path:vpd00380	Tryptophan metabolism - Variovorax paradoxus B4
+path:vpd00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Variovorax paradoxus B4
+path:vpd00401	Novobiocin biosynthesis - Variovorax paradoxus B4
+path:vpd00405	Phenazine biosynthesis - Variovorax paradoxus B4
+path:vpd00410	beta-Alanine metabolism - Variovorax paradoxus B4
+path:vpd00430	Taurine and hypotaurine metabolism - Variovorax paradoxus B4
+path:vpd00440	Phosphonate and phosphinate metabolism - Variovorax paradoxus B4
+path:vpd00450	Selenocompound metabolism - Variovorax paradoxus B4
+path:vpd00460	Cyanoamino acid metabolism - Variovorax paradoxus B4
+path:vpd00471	D-Glutamine and D-glutamate metabolism - Variovorax paradoxus B4
+path:vpd00472	D-Arginine and D-ornithine metabolism - Variovorax paradoxus B4
+path:vpd00473	D-Alanine metabolism - Variovorax paradoxus B4
+path:vpd00480	Glutathione metabolism - Variovorax paradoxus B4
+path:vpd00500	Starch and sucrose metabolism - Variovorax paradoxus B4
+path:vpd00520	Amino sugar and nucleotide sugar metabolism - Variovorax paradoxus B4
+path:vpd00521	Streptomycin biosynthesis - Variovorax paradoxus B4
+path:vpd00523	Polyketide sugar unit biosynthesis - Variovorax paradoxus B4
+path:vpd00525	Acarbose and validamycin biosynthesis - Variovorax paradoxus B4
+path:vpd00540	Lipopolysaccharide biosynthesis - Variovorax paradoxus B4
+path:vpd00550	Peptidoglycan biosynthesis - Variovorax paradoxus B4
+path:vpd00561	Glycerolipid metabolism - Variovorax paradoxus B4
+path:vpd00562	Inositol phosphate metabolism - Variovorax paradoxus B4
+path:vpd00564	Glycerophospholipid metabolism - Variovorax paradoxus B4
+path:vpd00565	Ether lipid metabolism - Variovorax paradoxus B4
+path:vpd00590	Arachidonic acid metabolism - Variovorax paradoxus B4
+path:vpd00592	alpha-Linolenic acid metabolism - Variovorax paradoxus B4
+path:vpd00600	Sphingolipid metabolism - Variovorax paradoxus B4
+path:vpd00620	Pyruvate metabolism - Variovorax paradoxus B4
+path:vpd00621	Dioxin degradation - Variovorax paradoxus B4
+path:vpd00622	Xylene degradation - Variovorax paradoxus B4
+path:vpd00623	Toluene degradation - Variovorax paradoxus B4
+path:vpd00624	Polycyclic aromatic hydrocarbon degradation - Variovorax paradoxus B4
+path:vpd00625	Chloroalkane and chloroalkene degradation - Variovorax paradoxus B4
+path:vpd00626	Naphthalene degradation - Variovorax paradoxus B4
+path:vpd00627	Aminobenzoate degradation - Variovorax paradoxus B4
+path:vpd00630	Glyoxylate and dicarboxylate metabolism - Variovorax paradoxus B4
+path:vpd00633	Nitrotoluene degradation - Variovorax paradoxus B4
+path:vpd00640	Propanoate metabolism - Variovorax paradoxus B4
+path:vpd00642	Ethylbenzene degradation - Variovorax paradoxus B4
+path:vpd00643	Styrene degradation - Variovorax paradoxus B4
+path:vpd00650	Butanoate metabolism - Variovorax paradoxus B4
+path:vpd00660	C5-Branched dibasic acid metabolism - Variovorax paradoxus B4
+path:vpd00670	One carbon pool by folate - Variovorax paradoxus B4
+path:vpd00680	Methane metabolism - Variovorax paradoxus B4
+path:vpd00710	Carbon fixation in photosynthetic organisms - Variovorax paradoxus B4
+path:vpd00730	Thiamine metabolism - Variovorax paradoxus B4
+path:vpd00740	Riboflavin metabolism - Variovorax paradoxus B4
+path:vpd00750	Vitamin B6 metabolism - Variovorax paradoxus B4
+path:vpd00760	Nicotinate and nicotinamide metabolism - Variovorax paradoxus B4
+path:vpd00770	Pantothenate and CoA biosynthesis - Variovorax paradoxus B4
+path:vpd00780	Biotin metabolism - Variovorax paradoxus B4
+path:vpd00785	Lipoic acid metabolism - Variovorax paradoxus B4
+path:vpd00790	Folate biosynthesis - Variovorax paradoxus B4
+path:vpd00791	Atrazine degradation - Variovorax paradoxus B4
+path:vpd00860	Porphyrin and chlorophyll metabolism - Variovorax paradoxus B4
+path:vpd00900	Terpenoid backbone biosynthesis - Variovorax paradoxus B4
+path:vpd00903	Limonene and pinene degradation - Variovorax paradoxus B4
+path:vpd00906	Carotenoid biosynthesis - Variovorax paradoxus B4
+path:vpd00910	Nitrogen metabolism - Variovorax paradoxus B4
+path:vpd00920	Sulfur metabolism - Variovorax paradoxus B4
+path:vpd00930	Caprolactam degradation - Variovorax paradoxus B4
+path:vpd00970	Aminoacyl-tRNA biosynthesis - Variovorax paradoxus B4
+path:vpd01040	Biosynthesis of unsaturated fatty acids - Variovorax paradoxus B4
+path:vpd01053	Biosynthesis of siderophore group nonribosomal peptides - Variovorax paradoxus B4
+path:vpd01054	Nonribosomal peptide structures - Variovorax paradoxus B4
+path:vpd01100	Metabolic pathways - Variovorax paradoxus B4
+path:vpd01110	Biosynthesis of secondary metabolites - Variovorax paradoxus B4
+path:vpd01120	Microbial metabolism in diverse environments - Variovorax paradoxus B4
+path:vpd01130	Biosynthesis of antibiotics - Variovorax paradoxus B4
+path:vpd01200	Carbon metabolism - Variovorax paradoxus B4
+path:vpd01210	2-Oxocarboxylic acid metabolism - Variovorax paradoxus B4
+path:vpd01212	Fatty acid metabolism - Variovorax paradoxus B4
+path:vpd01220	Degradation of aromatic compounds - Variovorax paradoxus B4
+path:vpd01230	Biosynthesis of amino acids - Variovorax paradoxus B4
+path:vpd01501	beta-Lactam resistance - Variovorax paradoxus B4
+path:vpd01502	Vancomycin resistance - Variovorax paradoxus B4
+path:vpd01503	Cationic antimicrobial peptide (CAMP) resistance - Variovorax paradoxus B4
+path:vpd02010	ABC transporters - Variovorax paradoxus B4
+path:vpd02020	Two-component system - Variovorax paradoxus B4
+path:vpd02024	Quorum sensing - Variovorax paradoxus B4
+path:vpd02030	Bacterial chemotaxis - Variovorax paradoxus B4
+path:vpd02040	Flagellar assembly - Variovorax paradoxus B4
+path:vpd02060	Phosphotransferase system (PTS) - Variovorax paradoxus B4
+path:vpd03010	Ribosome - Variovorax paradoxus B4
+path:vpd03018	RNA degradation - Variovorax paradoxus B4
+path:vpd03020	RNA polymerase - Variovorax paradoxus B4
+path:vpd03030	DNA replication - Variovorax paradoxus B4
+path:vpd03060	Protein export - Variovorax paradoxus B4
+path:vpd03070	Bacterial secretion system - Variovorax paradoxus B4
+path:vpd03410	Base excision repair - Variovorax paradoxus B4
+path:vpd03420	Nucleotide excision repair - Variovorax paradoxus B4
+path:vpd03430	Mismatch repair - Variovorax paradoxus B4
+path:vpd03440	Homologous recombination - Variovorax paradoxus B4
+path:vpd03450	Non-homologous end-joining - Variovorax paradoxus B4
+path:vpd04122	Sulfur relay system - Variovorax paradoxus B4
+path:vaa00010	Glycolysis / Gluconeogenesis - Variovorax sp. PAMC 28711
+path:vaa00020	Citrate cycle (TCA cycle) - Variovorax sp. PAMC 28711
+path:vaa00030	Pentose phosphate pathway - Variovorax sp. PAMC 28711
+path:vaa00040	Pentose and glucuronate interconversions - Variovorax sp. PAMC 28711
+path:vaa00051	Fructose and mannose metabolism - Variovorax sp. PAMC 28711
+path:vaa00052	Galactose metabolism - Variovorax sp. PAMC 28711
+path:vaa00053	Ascorbate and aldarate metabolism - Variovorax sp. PAMC 28711
+path:vaa00061	Fatty acid biosynthesis - Variovorax sp. PAMC 28711
+path:vaa00071	Fatty acid degradation - Variovorax sp. PAMC 28711
+path:vaa00072	Synthesis and degradation of ketone bodies - Variovorax sp. PAMC 28711
+path:vaa00130	Ubiquinone and other terpenoid-quinone biosynthesis - Variovorax sp. PAMC 28711
+path:vaa00190	Oxidative phosphorylation - Variovorax sp. PAMC 28711
+path:vaa00220	Arginine biosynthesis - Variovorax sp. PAMC 28711
+path:vaa00230	Purine metabolism - Variovorax sp. PAMC 28711
+path:vaa00240	Pyrimidine metabolism - Variovorax sp. PAMC 28711
+path:vaa00250	Alanine, aspartate and glutamate metabolism - Variovorax sp. PAMC 28711
+path:vaa00260	Glycine, serine and threonine metabolism - Variovorax sp. PAMC 28711
+path:vaa00261	Monobactam biosynthesis - Variovorax sp. PAMC 28711
+path:vaa00270	Cysteine and methionine metabolism - Variovorax sp. PAMC 28711
+path:vaa00280	Valine, leucine and isoleucine degradation - Variovorax sp. PAMC 28711
+path:vaa00281	Geraniol degradation - Variovorax sp. PAMC 28711
+path:vaa00290	Valine, leucine and isoleucine biosynthesis - Variovorax sp. PAMC 28711
+path:vaa00300	Lysine biosynthesis - Variovorax sp. PAMC 28711
+path:vaa00310	Lysine degradation - Variovorax sp. PAMC 28711
+path:vaa00330	Arginine and proline metabolism - Variovorax sp. PAMC 28711
+path:vaa00332	Carbapenem biosynthesis - Variovorax sp. PAMC 28711
+path:vaa00340	Histidine metabolism - Variovorax sp. PAMC 28711
+path:vaa00350	Tyrosine metabolism - Variovorax sp. PAMC 28711
+path:vaa00360	Phenylalanine metabolism - Variovorax sp. PAMC 28711
+path:vaa00361	Chlorocyclohexane and chlorobenzene degradation - Variovorax sp. PAMC 28711
+path:vaa00362	Benzoate degradation - Variovorax sp. PAMC 28711
+path:vaa00364	Fluorobenzoate degradation - Variovorax sp. PAMC 28711
+path:vaa00380	Tryptophan metabolism - Variovorax sp. PAMC 28711
+path:vaa00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Variovorax sp. PAMC 28711
+path:vaa00401	Novobiocin biosynthesis - Variovorax sp. PAMC 28711
+path:vaa00410	beta-Alanine metabolism - Variovorax sp. PAMC 28711
+path:vaa00430	Taurine and hypotaurine metabolism - Variovorax sp. PAMC 28711
+path:vaa00440	Phosphonate and phosphinate metabolism - Variovorax sp. PAMC 28711
+path:vaa00450	Selenocompound metabolism - Variovorax sp. PAMC 28711
+path:vaa00460	Cyanoamino acid metabolism - Variovorax sp. PAMC 28711
+path:vaa00471	D-Glutamine and D-glutamate metabolism - Variovorax sp. PAMC 28711
+path:vaa00472	D-Arginine and D-ornithine metabolism - Variovorax sp. PAMC 28711
+path:vaa00473	D-Alanine metabolism - Variovorax sp. PAMC 28711
+path:vaa00480	Glutathione metabolism - Variovorax sp. PAMC 28711
+path:vaa00500	Starch and sucrose metabolism - Variovorax sp. PAMC 28711
+path:vaa00520	Amino sugar and nucleotide sugar metabolism - Variovorax sp. PAMC 28711
+path:vaa00521	Streptomycin biosynthesis - Variovorax sp. PAMC 28711
+path:vaa00523	Polyketide sugar unit biosynthesis - Variovorax sp. PAMC 28711
+path:vaa00525	Acarbose and validamycin biosynthesis - Variovorax sp. PAMC 28711
+path:vaa00540	Lipopolysaccharide biosynthesis - Variovorax sp. PAMC 28711
+path:vaa00550	Peptidoglycan biosynthesis - Variovorax sp. PAMC 28711
+path:vaa00561	Glycerolipid metabolism - Variovorax sp. PAMC 28711
+path:vaa00562	Inositol phosphate metabolism - Variovorax sp. PAMC 28711
+path:vaa00564	Glycerophospholipid metabolism - Variovorax sp. PAMC 28711
+path:vaa00565	Ether lipid metabolism - Variovorax sp. PAMC 28711
+path:vaa00590	Arachidonic acid metabolism - Variovorax sp. PAMC 28711
+path:vaa00592	alpha-Linolenic acid metabolism - Variovorax sp. PAMC 28711
+path:vaa00620	Pyruvate metabolism - Variovorax sp. PAMC 28711
+path:vaa00623	Toluene degradation - Variovorax sp. PAMC 28711
+path:vaa00624	Polycyclic aromatic hydrocarbon degradation - Variovorax sp. PAMC 28711
+path:vaa00625	Chloroalkane and chloroalkene degradation - Variovorax sp. PAMC 28711
+path:vaa00626	Naphthalene degradation - Variovorax sp. PAMC 28711
+path:vaa00627	Aminobenzoate degradation - Variovorax sp. PAMC 28711
+path:vaa00630	Glyoxylate and dicarboxylate metabolism - Variovorax sp. PAMC 28711
+path:vaa00633	Nitrotoluene degradation - Variovorax sp. PAMC 28711
+path:vaa00640	Propanoate metabolism - Variovorax sp. PAMC 28711
+path:vaa00643	Styrene degradation - Variovorax sp. PAMC 28711
+path:vaa00650	Butanoate metabolism - Variovorax sp. PAMC 28711
+path:vaa00660	C5-Branched dibasic acid metabolism - Variovorax sp. PAMC 28711
+path:vaa00670	One carbon pool by folate - Variovorax sp. PAMC 28711
+path:vaa00680	Methane metabolism - Variovorax sp. PAMC 28711
+path:vaa00710	Carbon fixation in photosynthetic organisms - Variovorax sp. PAMC 28711
+path:vaa00730	Thiamine metabolism - Variovorax sp. PAMC 28711
+path:vaa00740	Riboflavin metabolism - Variovorax sp. PAMC 28711
+path:vaa00750	Vitamin B6 metabolism - Variovorax sp. PAMC 28711
+path:vaa00760	Nicotinate and nicotinamide metabolism - Variovorax sp. PAMC 28711
+path:vaa00770	Pantothenate and CoA biosynthesis - Variovorax sp. PAMC 28711
+path:vaa00780	Biotin metabolism - Variovorax sp. PAMC 28711
+path:vaa00785	Lipoic acid metabolism - Variovorax sp. PAMC 28711
+path:vaa00790	Folate biosynthesis - Variovorax sp. PAMC 28711
+path:vaa00791	Atrazine degradation - Variovorax sp. PAMC 28711
+path:vaa00860	Porphyrin and chlorophyll metabolism - Variovorax sp. PAMC 28711
+path:vaa00900	Terpenoid backbone biosynthesis - Variovorax sp. PAMC 28711
+path:vaa00903	Limonene and pinene degradation - Variovorax sp. PAMC 28711
+path:vaa00906	Carotenoid biosynthesis - Variovorax sp. PAMC 28711
+path:vaa00910	Nitrogen metabolism - Variovorax sp. PAMC 28711
+path:vaa00920	Sulfur metabolism - Variovorax sp. PAMC 28711
+path:vaa00930	Caprolactam degradation - Variovorax sp. PAMC 28711
+path:vaa00970	Aminoacyl-tRNA biosynthesis - Variovorax sp. PAMC 28711
+path:vaa01040	Biosynthesis of unsaturated fatty acids - Variovorax sp. PAMC 28711
+path:vaa01100	Metabolic pathways - Variovorax sp. PAMC 28711
+path:vaa01110	Biosynthesis of secondary metabolites - Variovorax sp. PAMC 28711
+path:vaa01120	Microbial metabolism in diverse environments - Variovorax sp. PAMC 28711
+path:vaa01130	Biosynthesis of antibiotics - Variovorax sp. PAMC 28711
+path:vaa01200	Carbon metabolism - Variovorax sp. PAMC 28711
+path:vaa01210	2-Oxocarboxylic acid metabolism - Variovorax sp. PAMC 28711
+path:vaa01212	Fatty acid metabolism - Variovorax sp. PAMC 28711
+path:vaa01220	Degradation of aromatic compounds - Variovorax sp. PAMC 28711
+path:vaa01230	Biosynthesis of amino acids - Variovorax sp. PAMC 28711
+path:vaa01501	beta-Lactam resistance - Variovorax sp. PAMC 28711
+path:vaa01502	Vancomycin resistance - Variovorax sp. PAMC 28711
+path:vaa01503	Cationic antimicrobial peptide (CAMP) resistance - Variovorax sp. PAMC 28711
+path:vaa02010	ABC transporters - Variovorax sp. PAMC 28711
+path:vaa02020	Two-component system - Variovorax sp. PAMC 28711
+path:vaa02024	Quorum sensing - Variovorax sp. PAMC 28711
+path:vaa02030	Bacterial chemotaxis - Variovorax sp. PAMC 28711
+path:vaa02040	Flagellar assembly - Variovorax sp. PAMC 28711
+path:vaa02060	Phosphotransferase system (PTS) - Variovorax sp. PAMC 28711
+path:vaa03010	Ribosome - Variovorax sp. PAMC 28711
+path:vaa03018	RNA degradation - Variovorax sp. PAMC 28711
+path:vaa03020	RNA polymerase - Variovorax sp. PAMC 28711
+path:vaa03030	DNA replication - Variovorax sp. PAMC 28711
+path:vaa03060	Protein export - Variovorax sp. PAMC 28711
+path:vaa03070	Bacterial secretion system - Variovorax sp. PAMC 28711
+path:vaa03410	Base excision repair - Variovorax sp. PAMC 28711
+path:vaa03420	Nucleotide excision repair - Variovorax sp. PAMC 28711
+path:vaa03430	Mismatch repair - Variovorax sp. PAMC 28711
+path:vaa03440	Homologous recombination - Variovorax sp. PAMC 28711
+path:vaa03450	Non-homologous end-joining - Variovorax sp. PAMC 28711
+path:vaa04122	Sulfur relay system - Variovorax sp. PAMC 28711

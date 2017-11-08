@@ -1,4 +1,4 @@
-#/usr/bin/env python
+#!/usr/bin/env python
 #coding:utf-8
 #yanjun
 #20170911
@@ -213,39 +213,39 @@ function showInfo(info) {
 		coord2color = self.coord2color
 		png = Image.open(self.png_path)	
 		draw = ImageDraw.Draw(png)
+		html_data = open(self.html_path,'r').read()
+		map_size = float(re.search(r'selected>(\d*?)\%',html_data).group(1))
 		for coord in coord2KO.keys():
 			items = coord.split('_')
 			if coord in coord2color.keys():
 				up_num = re.subn('red','red',coord2color[coord])[1]
 				down_num = re.subn('green','green',coord2color[coord])[1]
 				if 'C' in coord2KO[coord]: 
-					c_x = float(items[0])/1.
-					c_y = float(items[1])/1.
-					diameter = float(items[2])/1.
+					c_x = float(items[0])*100.0/map_size
+					c_y = float(items[1])*100.0/map_size
+					diameter = float(items[2])*100.0/map_size
 					x_left_up = c_x - diameter
-					y_left_up = c_y - diameter
+					y_down_up = c_y - diameter
 					x_right_down = c_x + diameter
-					y_right_down = c_y + diameter
+					y_up_down = c_y + diameter
 					if up_num > 0 and down_num == 0:	
-						draw.ellipse((x_left_up,y_left_up,x_right_down,y_right_down),fill='red',outline='red')
+						draw.ellipse((x_left_up,y_down_up,x_right_down,y_up_down),fill='red',outline='red')
 					elif up_num == 0 and down_num > 0:
-						draw.ellipse((x_left_up,y_left_up,x_right_down,y_right_down),fill='green',outline='green')
+						draw.ellipse((x_left_up,y_down_up,x_right_down,y_up_down),fill='lime',outline='lime')
 					elif up_num > 0 and down_num > 0:
-						draw.ellipse((x_left_up,y_left_up,x_right_down,y_right_down),fill='green',outline='blue')
+						draw.ellipse((x_left_up,y_down_up,x_right_down,y_up_down),fill='lime',outline='blue')
 				if 'K' in coord2KO[coord]:
-					x_left = float(items[0])
-					y_left = float(items[1])
-					x_right = float(items[2])
-					y_right = float(items[3])
+					x_left = float(items[0])*100.0/map_size
+					y_down = float(items[1])*100.0/map_size
+					x_right = float(items[2])*100.0/map_size
+					y_up = float(items[3])*100.0/map_size
 					if up_num > 0 and down_num == 0:
-						draw.line([(x_left,y_left),(x_right,y_left),(x_right,y_right),(x_left,y_right),(x_left,y_left)],fill='red',width=2)
+						draw.line([(x_left,y_down),(x_right,y_down),(x_right,y_up),(x_left,y_up),(x_left,y_down)],fill='red',width=2)
 					elif up_num == 0 and down_num > 0:
-						draw.line([(x_left,y_left),(x_right,y_left),(x_right,y_right),(x_left,y_right),(x_left,y_left)],fill='green',width=2)
+						draw.line([(x_left,y_down),(x_right,y_down),(x_right,y_up),(x_left,y_up),(x_left,y_down)],fill='lime',width=2)
 					elif up_num > 0 and down_num > 0:
-						draw.line([(x_left,(y_left+y_right)/2.0),(x_left,y_left),(x_right,y_left),(x_right,(y_left+y_right)/2.0)],fill='red',width=2)
-						draw.line([(x_left,(y_left+y_right)/2.0),(x_left,y_right),(x_right,y_right),(x_right,(y_left+y_right)/2.0)],fill='red',width=2)
-						#draw.line([(x_left,y_left),(x_right,y_left),(x_right,y_right)],fill='red',width=2)
-						#draw.line([(x_right,y_right),(x_left,y_right),(x_left,y_left)],fill='green',width=2)
+						draw.line([(x_left,(y_down+y_up)/2.0),(x_left,y_up),(x_right,y_up),(x_right,(y_down+y_up)/2.0)],fill='lime',width=2)
+						draw.line([(x_left,(y_down+y_up)/2.0),(x_left,y_down),(x_right,y_down),(x_right,(y_down+y_up)/2.0)],fill='red',width=2)
 		png.save('%s/ko%s.png' %(self.outdir,self.name))
 		
 	def print_table_line(self):

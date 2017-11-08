@@ -1,0 +1,859 @@
+path:rpa00010	Glycolysis / Gluconeogenesis - Rhodopseudomonas palustris CGA009
+path:rpa00020	Citrate cycle (TCA cycle) - Rhodopseudomonas palustris CGA009
+path:rpa00030	Pentose phosphate pathway - Rhodopseudomonas palustris CGA009
+path:rpa00040	Pentose and glucuronate interconversions - Rhodopseudomonas palustris CGA009
+path:rpa00051	Fructose and mannose metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00052	Galactose metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00053	Ascorbate and aldarate metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00061	Fatty acid biosynthesis - Rhodopseudomonas palustris CGA009
+path:rpa00071	Fatty acid degradation - Rhodopseudomonas palustris CGA009
+path:rpa00072	Synthesis and degradation of ketone bodies - Rhodopseudomonas palustris CGA009
+path:rpa00121	Secondary bile acid biosynthesis - Rhodopseudomonas palustris CGA009
+path:rpa00130	Ubiquinone and other terpenoid-quinone biosynthesis - Rhodopseudomonas palustris CGA009
+path:rpa00190	Oxidative phosphorylation - Rhodopseudomonas palustris CGA009
+path:rpa00220	Arginine biosynthesis - Rhodopseudomonas palustris CGA009
+path:rpa00230	Purine metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00240	Pyrimidine metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00250	Alanine, aspartate and glutamate metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00260	Glycine, serine and threonine metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00261	Monobactam biosynthesis - Rhodopseudomonas palustris CGA009
+path:rpa00270	Cysteine and methionine metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00280	Valine, leucine and isoleucine degradation - Rhodopseudomonas palustris CGA009
+path:rpa00281	Geraniol degradation - Rhodopseudomonas palustris CGA009
+path:rpa00290	Valine, leucine and isoleucine biosynthesis - Rhodopseudomonas palustris CGA009
+path:rpa00300	Lysine biosynthesis - Rhodopseudomonas palustris CGA009
+path:rpa00310	Lysine degradation - Rhodopseudomonas palustris CGA009
+path:rpa00330	Arginine and proline metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00332	Carbapenem biosynthesis - Rhodopseudomonas palustris CGA009
+path:rpa00340	Histidine metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00350	Tyrosine metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00360	Phenylalanine metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00361	Chlorocyclohexane and chlorobenzene degradation - Rhodopseudomonas palustris CGA009
+path:rpa00362	Benzoate degradation - Rhodopseudomonas palustris CGA009
+path:rpa00364	Fluorobenzoate degradation - Rhodopseudomonas palustris CGA009
+path:rpa00380	Tryptophan metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Rhodopseudomonas palustris CGA009
+path:rpa00401	Novobiocin biosynthesis - Rhodopseudomonas palustris CGA009
+path:rpa00405	Phenazine biosynthesis - Rhodopseudomonas palustris CGA009
+path:rpa00410	beta-Alanine metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00430	Taurine and hypotaurine metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00440	Phosphonate and phosphinate metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00450	Selenocompound metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00460	Cyanoamino acid metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00471	D-Glutamine and D-glutamate metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00472	D-Arginine and D-ornithine metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00473	D-Alanine metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00480	Glutathione metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00500	Starch and sucrose metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00520	Amino sugar and nucleotide sugar metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00521	Streptomycin biosynthesis - Rhodopseudomonas palustris CGA009
+path:rpa00523	Polyketide sugar unit biosynthesis - Rhodopseudomonas palustris CGA009
+path:rpa00525	Acarbose and validamycin biosynthesis - Rhodopseudomonas palustris CGA009
+path:rpa00540	Lipopolysaccharide biosynthesis - Rhodopseudomonas palustris CGA009
+path:rpa00550	Peptidoglycan biosynthesis - Rhodopseudomonas palustris CGA009
+path:rpa00561	Glycerolipid metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00562	Inositol phosphate metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00564	Glycerophospholipid metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00590	Arachidonic acid metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00620	Pyruvate metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00621	Dioxin degradation - Rhodopseudomonas palustris CGA009
+path:rpa00622	Xylene degradation - Rhodopseudomonas palustris CGA009
+path:rpa00623	Toluene degradation - Rhodopseudomonas palustris CGA009
+path:rpa00624	Polycyclic aromatic hydrocarbon degradation - Rhodopseudomonas palustris CGA009
+path:rpa00625	Chloroalkane and chloroalkene degradation - Rhodopseudomonas palustris CGA009
+path:rpa00626	Naphthalene degradation - Rhodopseudomonas palustris CGA009
+path:rpa00627	Aminobenzoate degradation - Rhodopseudomonas palustris CGA009
+path:rpa00630	Glyoxylate and dicarboxylate metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00633	Nitrotoluene degradation - Rhodopseudomonas palustris CGA009
+path:rpa00640	Propanoate metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00643	Styrene degradation - Rhodopseudomonas palustris CGA009
+path:rpa00650	Butanoate metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00660	C5-Branched dibasic acid metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00670	One carbon pool by folate - Rhodopseudomonas palustris CGA009
+path:rpa00680	Methane metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00710	Carbon fixation in photosynthetic organisms - Rhodopseudomonas palustris CGA009
+path:rpa00730	Thiamine metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00740	Riboflavin metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00750	Vitamin B6 metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00760	Nicotinate and nicotinamide metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00770	Pantothenate and CoA biosynthesis - Rhodopseudomonas palustris CGA009
+path:rpa00780	Biotin metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00785	Lipoic acid metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00790	Folate biosynthesis - Rhodopseudomonas palustris CGA009
+path:rpa00791	Atrazine degradation - Rhodopseudomonas palustris CGA009
+path:rpa00860	Porphyrin and chlorophyll metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00900	Terpenoid backbone biosynthesis - Rhodopseudomonas palustris CGA009
+path:rpa00903	Limonene and pinene degradation - Rhodopseudomonas palustris CGA009
+path:rpa00906	Carotenoid biosynthesis - Rhodopseudomonas palustris CGA009
+path:rpa00909	Sesquiterpenoid and triterpenoid biosynthesis - Rhodopseudomonas palustris CGA009
+path:rpa00910	Nitrogen metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00920	Sulfur metabolism - Rhodopseudomonas palustris CGA009
+path:rpa00930	Caprolactam degradation - Rhodopseudomonas palustris CGA009
+path:rpa00970	Aminoacyl-tRNA biosynthesis - Rhodopseudomonas palustris CGA009
+path:rpa01040	Biosynthesis of unsaturated fatty acids - Rhodopseudomonas palustris CGA009
+path:rpa01100	Metabolic pathways - Rhodopseudomonas palustris CGA009
+path:rpa01110	Biosynthesis of secondary metabolites - Rhodopseudomonas palustris CGA009
+path:rpa01120	Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009
+path:rpa01130	Biosynthesis of antibiotics - Rhodopseudomonas palustris CGA009
+path:rpa01200	Carbon metabolism - Rhodopseudomonas palustris CGA009
+path:rpa01210	2-Oxocarboxylic acid metabolism - Rhodopseudomonas palustris CGA009
+path:rpa01212	Fatty acid metabolism - Rhodopseudomonas palustris CGA009
+path:rpa01220	Degradation of aromatic compounds - Rhodopseudomonas palustris CGA009
+path:rpa01230	Biosynthesis of amino acids - Rhodopseudomonas palustris CGA009
+path:rpa01501	beta-Lactam resistance - Rhodopseudomonas palustris CGA009
+path:rpa01502	Vancomycin resistance - Rhodopseudomonas palustris CGA009
+path:rpa01503	Cationic antimicrobial peptide (CAMP) resistance - Rhodopseudomonas palustris CGA009
+path:rpa02010	ABC transporters - Rhodopseudomonas palustris CGA009
+path:rpa02020	Two-component system - Rhodopseudomonas palustris CGA009
+path:rpa02024	Quorum sensing - Rhodopseudomonas palustris CGA009
+path:rpa02030	Bacterial chemotaxis - Rhodopseudomonas palustris CGA009
+path:rpa02040	Flagellar assembly - Rhodopseudomonas palustris CGA009
+path:rpa02060	Phosphotransferase system (PTS) - Rhodopseudomonas palustris CGA009
+path:rpa03010	Ribosome - Rhodopseudomonas palustris CGA009
+path:rpa03018	RNA degradation - Rhodopseudomonas palustris CGA009
+path:rpa03020	RNA polymerase - Rhodopseudomonas palustris CGA009
+path:rpa03030	DNA replication - Rhodopseudomonas palustris CGA009
+path:rpa03060	Protein export - Rhodopseudomonas palustris CGA009
+path:rpa03070	Bacterial secretion system - Rhodopseudomonas palustris CGA009
+path:rpa03410	Base excision repair - Rhodopseudomonas palustris CGA009
+path:rpa03420	Nucleotide excision repair - Rhodopseudomonas palustris CGA009
+path:rpa03430	Mismatch repair - Rhodopseudomonas palustris CGA009
+path:rpa03440	Homologous recombination - Rhodopseudomonas palustris CGA009
+path:rpa03450	Non-homologous end-joining - Rhodopseudomonas palustris CGA009
+path:rpa04122	Sulfur relay system - Rhodopseudomonas palustris CGA009
+path:rpb00010	Glycolysis / Gluconeogenesis - Rhodopseudomonas palustris HaA2
+path:rpb00020	Citrate cycle (TCA cycle) - Rhodopseudomonas palustris HaA2
+path:rpb00030	Pentose phosphate pathway - Rhodopseudomonas palustris HaA2
+path:rpb00040	Pentose and glucuronate interconversions - Rhodopseudomonas palustris HaA2
+path:rpb00051	Fructose and mannose metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00052	Galactose metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00053	Ascorbate and aldarate metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00061	Fatty acid biosynthesis - Rhodopseudomonas palustris HaA2
+path:rpb00071	Fatty acid degradation - Rhodopseudomonas palustris HaA2
+path:rpb00072	Synthesis and degradation of ketone bodies - Rhodopseudomonas palustris HaA2
+path:rpb00121	Secondary bile acid biosynthesis - Rhodopseudomonas palustris HaA2
+path:rpb00130	Ubiquinone and other terpenoid-quinone biosynthesis - Rhodopseudomonas palustris HaA2
+path:rpb00190	Oxidative phosphorylation - Rhodopseudomonas palustris HaA2
+path:rpb00220	Arginine biosynthesis - Rhodopseudomonas palustris HaA2
+path:rpb00230	Purine metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00240	Pyrimidine metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00250	Alanine, aspartate and glutamate metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00260	Glycine, serine and threonine metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00261	Monobactam biosynthesis - Rhodopseudomonas palustris HaA2
+path:rpb00270	Cysteine and methionine metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00280	Valine, leucine and isoleucine degradation - Rhodopseudomonas palustris HaA2
+path:rpb00281	Geraniol degradation - Rhodopseudomonas palustris HaA2
+path:rpb00290	Valine, leucine and isoleucine biosynthesis - Rhodopseudomonas palustris HaA2
+path:rpb00300	Lysine biosynthesis - Rhodopseudomonas palustris HaA2
+path:rpb00310	Lysine degradation - Rhodopseudomonas palustris HaA2
+path:rpb00330	Arginine and proline metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00332	Carbapenem biosynthesis - Rhodopseudomonas palustris HaA2
+path:rpb00340	Histidine metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00350	Tyrosine metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00360	Phenylalanine metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00361	Chlorocyclohexane and chlorobenzene degradation - Rhodopseudomonas palustris HaA2
+path:rpb00362	Benzoate degradation - Rhodopseudomonas palustris HaA2
+path:rpb00364	Fluorobenzoate degradation - Rhodopseudomonas palustris HaA2
+path:rpb00380	Tryptophan metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Rhodopseudomonas palustris HaA2
+path:rpb00401	Novobiocin biosynthesis - Rhodopseudomonas palustris HaA2
+path:rpb00405	Phenazine biosynthesis - Rhodopseudomonas palustris HaA2
+path:rpb00410	beta-Alanine metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00430	Taurine and hypotaurine metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00440	Phosphonate and phosphinate metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00450	Selenocompound metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00460	Cyanoamino acid metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00471	D-Glutamine and D-glutamate metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00472	D-Arginine and D-ornithine metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00473	D-Alanine metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00480	Glutathione metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00500	Starch and sucrose metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00520	Amino sugar and nucleotide sugar metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00521	Streptomycin biosynthesis - Rhodopseudomonas palustris HaA2
+path:rpb00523	Polyketide sugar unit biosynthesis - Rhodopseudomonas palustris HaA2
+path:rpb00525	Acarbose and validamycin biosynthesis - Rhodopseudomonas palustris HaA2
+path:rpb00540	Lipopolysaccharide biosynthesis - Rhodopseudomonas palustris HaA2
+path:rpb00550	Peptidoglycan biosynthesis - Rhodopseudomonas palustris HaA2
+path:rpb00561	Glycerolipid metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00562	Inositol phosphate metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00564	Glycerophospholipid metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00590	Arachidonic acid metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00620	Pyruvate metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00621	Dioxin degradation - Rhodopseudomonas palustris HaA2
+path:rpb00622	Xylene degradation - Rhodopseudomonas palustris HaA2
+path:rpb00623	Toluene degradation - Rhodopseudomonas palustris HaA2
+path:rpb00624	Polycyclic aromatic hydrocarbon degradation - Rhodopseudomonas palustris HaA2
+path:rpb00625	Chloroalkane and chloroalkene degradation - Rhodopseudomonas palustris HaA2
+path:rpb00626	Naphthalene degradation - Rhodopseudomonas palustris HaA2
+path:rpb00627	Aminobenzoate degradation - Rhodopseudomonas palustris HaA2
+path:rpb00630	Glyoxylate and dicarboxylate metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00633	Nitrotoluene degradation - Rhodopseudomonas palustris HaA2
+path:rpb00640	Propanoate metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00643	Styrene degradation - Rhodopseudomonas palustris HaA2
+path:rpb00650	Butanoate metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00660	C5-Branched dibasic acid metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00670	One carbon pool by folate - Rhodopseudomonas palustris HaA2
+path:rpb00680	Methane metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00710	Carbon fixation in photosynthetic organisms - Rhodopseudomonas palustris HaA2
+path:rpb00730	Thiamine metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00740	Riboflavin metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00750	Vitamin B6 metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00760	Nicotinate and nicotinamide metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00770	Pantothenate and CoA biosynthesis - Rhodopseudomonas palustris HaA2
+path:rpb00780	Biotin metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00785	Lipoic acid metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00790	Folate biosynthesis - Rhodopseudomonas palustris HaA2
+path:rpb00791	Atrazine degradation - Rhodopseudomonas palustris HaA2
+path:rpb00860	Porphyrin and chlorophyll metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00900	Terpenoid backbone biosynthesis - Rhodopseudomonas palustris HaA2
+path:rpb00903	Limonene and pinene degradation - Rhodopseudomonas palustris HaA2
+path:rpb00906	Carotenoid biosynthesis - Rhodopseudomonas palustris HaA2
+path:rpb00909	Sesquiterpenoid and triterpenoid biosynthesis - Rhodopseudomonas palustris HaA2
+path:rpb00910	Nitrogen metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00920	Sulfur metabolism - Rhodopseudomonas palustris HaA2
+path:rpb00930	Caprolactam degradation - Rhodopseudomonas palustris HaA2
+path:rpb00970	Aminoacyl-tRNA biosynthesis - Rhodopseudomonas palustris HaA2
+path:rpb01040	Biosynthesis of unsaturated fatty acids - Rhodopseudomonas palustris HaA2
+path:rpb01054	Nonribosomal peptide structures - Rhodopseudomonas palustris HaA2
+path:rpb01100	Metabolic pathways - Rhodopseudomonas palustris HaA2
+path:rpb01110	Biosynthesis of secondary metabolites - Rhodopseudomonas palustris HaA2
+path:rpb01120	Microbial metabolism in diverse environments - Rhodopseudomonas palustris HaA2
+path:rpb01130	Biosynthesis of antibiotics - Rhodopseudomonas palustris HaA2
+path:rpb01200	Carbon metabolism - Rhodopseudomonas palustris HaA2
+path:rpb01210	2-Oxocarboxylic acid metabolism - Rhodopseudomonas palustris HaA2
+path:rpb01212	Fatty acid metabolism - Rhodopseudomonas palustris HaA2
+path:rpb01220	Degradation of aromatic compounds - Rhodopseudomonas palustris HaA2
+path:rpb01230	Biosynthesis of amino acids - Rhodopseudomonas palustris HaA2
+path:rpb01501	beta-Lactam resistance - Rhodopseudomonas palustris HaA2
+path:rpb01502	Vancomycin resistance - Rhodopseudomonas palustris HaA2
+path:rpb01503	Cationic antimicrobial peptide (CAMP) resistance - Rhodopseudomonas palustris HaA2
+path:rpb02010	ABC transporters - Rhodopseudomonas palustris HaA2
+path:rpb02020	Two-component system - Rhodopseudomonas palustris HaA2
+path:rpb02024	Quorum sensing - Rhodopseudomonas palustris HaA2
+path:rpb02030	Bacterial chemotaxis - Rhodopseudomonas palustris HaA2
+path:rpb02040	Flagellar assembly - Rhodopseudomonas palustris HaA2
+path:rpb02060	Phosphotransferase system (PTS) - Rhodopseudomonas palustris HaA2
+path:rpb03010	Ribosome - Rhodopseudomonas palustris HaA2
+path:rpb03018	RNA degradation - Rhodopseudomonas palustris HaA2
+path:rpb03020	RNA polymerase - Rhodopseudomonas palustris HaA2
+path:rpb03030	DNA replication - Rhodopseudomonas palustris HaA2
+path:rpb03060	Protein export - Rhodopseudomonas palustris HaA2
+path:rpb03070	Bacterial secretion system - Rhodopseudomonas palustris HaA2
+path:rpb03410	Base excision repair - Rhodopseudomonas palustris HaA2
+path:rpb03420	Nucleotide excision repair - Rhodopseudomonas palustris HaA2
+path:rpb03430	Mismatch repair - Rhodopseudomonas palustris HaA2
+path:rpb03440	Homologous recombination - Rhodopseudomonas palustris HaA2
+path:rpb03450	Non-homologous end-joining - Rhodopseudomonas palustris HaA2
+path:rpb04122	Sulfur relay system - Rhodopseudomonas palustris HaA2
+path:rpc00010	Glycolysis / Gluconeogenesis - Rhodopseudomonas palustris BisB18
+path:rpc00020	Citrate cycle (TCA cycle) - Rhodopseudomonas palustris BisB18
+path:rpc00030	Pentose phosphate pathway - Rhodopseudomonas palustris BisB18
+path:rpc00040	Pentose and glucuronate interconversions - Rhodopseudomonas palustris BisB18
+path:rpc00051	Fructose and mannose metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00052	Galactose metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00053	Ascorbate and aldarate metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00061	Fatty acid biosynthesis - Rhodopseudomonas palustris BisB18
+path:rpc00071	Fatty acid degradation - Rhodopseudomonas palustris BisB18
+path:rpc00072	Synthesis and degradation of ketone bodies - Rhodopseudomonas palustris BisB18
+path:rpc00121	Secondary bile acid biosynthesis - Rhodopseudomonas palustris BisB18
+path:rpc00130	Ubiquinone and other terpenoid-quinone biosynthesis - Rhodopseudomonas palustris BisB18
+path:rpc00190	Oxidative phosphorylation - Rhodopseudomonas palustris BisB18
+path:rpc00220	Arginine biosynthesis - Rhodopseudomonas palustris BisB18
+path:rpc00230	Purine metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00240	Pyrimidine metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00250	Alanine, aspartate and glutamate metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00260	Glycine, serine and threonine metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00261	Monobactam biosynthesis - Rhodopseudomonas palustris BisB18
+path:rpc00270	Cysteine and methionine metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00280	Valine, leucine and isoleucine degradation - Rhodopseudomonas palustris BisB18
+path:rpc00281	Geraniol degradation - Rhodopseudomonas palustris BisB18
+path:rpc00290	Valine, leucine and isoleucine biosynthesis - Rhodopseudomonas palustris BisB18
+path:rpc00300	Lysine biosynthesis - Rhodopseudomonas palustris BisB18
+path:rpc00310	Lysine degradation - Rhodopseudomonas palustris BisB18
+path:rpc00330	Arginine and proline metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00332	Carbapenem biosynthesis - Rhodopseudomonas palustris BisB18
+path:rpc00340	Histidine metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00350	Tyrosine metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00360	Phenylalanine metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00361	Chlorocyclohexane and chlorobenzene degradation - Rhodopseudomonas palustris BisB18
+path:rpc00362	Benzoate degradation - Rhodopseudomonas palustris BisB18
+path:rpc00364	Fluorobenzoate degradation - Rhodopseudomonas palustris BisB18
+path:rpc00365	Furfural degradation - Rhodopseudomonas palustris BisB18
+path:rpc00380	Tryptophan metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Rhodopseudomonas palustris BisB18
+path:rpc00401	Novobiocin biosynthesis - Rhodopseudomonas palustris BisB18
+path:rpc00410	beta-Alanine metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00430	Taurine and hypotaurine metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00440	Phosphonate and phosphinate metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00450	Selenocompound metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00460	Cyanoamino acid metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00471	D-Glutamine and D-glutamate metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00472	D-Arginine and D-ornithine metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00473	D-Alanine metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00480	Glutathione metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00500	Starch and sucrose metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00520	Amino sugar and nucleotide sugar metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00521	Streptomycin biosynthesis - Rhodopseudomonas palustris BisB18
+path:rpc00523	Polyketide sugar unit biosynthesis - Rhodopseudomonas palustris BisB18
+path:rpc00525	Acarbose and validamycin biosynthesis - Rhodopseudomonas palustris BisB18
+path:rpc00540	Lipopolysaccharide biosynthesis - Rhodopseudomonas palustris BisB18
+path:rpc00550	Peptidoglycan biosynthesis - Rhodopseudomonas palustris BisB18
+path:rpc00561	Glycerolipid metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00562	Inositol phosphate metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00564	Glycerophospholipid metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00590	Arachidonic acid metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00620	Pyruvate metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00621	Dioxin degradation - Rhodopseudomonas palustris BisB18
+path:rpc00623	Toluene degradation - Rhodopseudomonas palustris BisB18
+path:rpc00624	Polycyclic aromatic hydrocarbon degradation - Rhodopseudomonas palustris BisB18
+path:rpc00625	Chloroalkane and chloroalkene degradation - Rhodopseudomonas palustris BisB18
+path:rpc00626	Naphthalene degradation - Rhodopseudomonas palustris BisB18
+path:rpc00627	Aminobenzoate degradation - Rhodopseudomonas palustris BisB18
+path:rpc00630	Glyoxylate and dicarboxylate metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00633	Nitrotoluene degradation - Rhodopseudomonas palustris BisB18
+path:rpc00640	Propanoate metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00643	Styrene degradation - Rhodopseudomonas palustris BisB18
+path:rpc00650	Butanoate metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00660	C5-Branched dibasic acid metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00670	One carbon pool by folate - Rhodopseudomonas palustris BisB18
+path:rpc00680	Methane metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00710	Carbon fixation in photosynthetic organisms - Rhodopseudomonas palustris BisB18
+path:rpc00730	Thiamine metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00740	Riboflavin metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00750	Vitamin B6 metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00760	Nicotinate and nicotinamide metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00770	Pantothenate and CoA biosynthesis - Rhodopseudomonas palustris BisB18
+path:rpc00780	Biotin metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00785	Lipoic acid metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00790	Folate biosynthesis - Rhodopseudomonas palustris BisB18
+path:rpc00791	Atrazine degradation - Rhodopseudomonas palustris BisB18
+path:rpc00860	Porphyrin and chlorophyll metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00900	Terpenoid backbone biosynthesis - Rhodopseudomonas palustris BisB18
+path:rpc00903	Limonene and pinene degradation - Rhodopseudomonas palustris BisB18
+path:rpc00906	Carotenoid biosynthesis - Rhodopseudomonas palustris BisB18
+path:rpc00909	Sesquiterpenoid and triterpenoid biosynthesis - Rhodopseudomonas palustris BisB18
+path:rpc00910	Nitrogen metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00920	Sulfur metabolism - Rhodopseudomonas palustris BisB18
+path:rpc00930	Caprolactam degradation - Rhodopseudomonas palustris BisB18
+path:rpc00970	Aminoacyl-tRNA biosynthesis - Rhodopseudomonas palustris BisB18
+path:rpc01040	Biosynthesis of unsaturated fatty acids - Rhodopseudomonas palustris BisB18
+path:rpc01054	Nonribosomal peptide structures - Rhodopseudomonas palustris BisB18
+path:rpc01100	Metabolic pathways - Rhodopseudomonas palustris BisB18
+path:rpc01110	Biosynthesis of secondary metabolites - Rhodopseudomonas palustris BisB18
+path:rpc01120	Microbial metabolism in diverse environments - Rhodopseudomonas palustris BisB18
+path:rpc01130	Biosynthesis of antibiotics - Rhodopseudomonas palustris BisB18
+path:rpc01200	Carbon metabolism - Rhodopseudomonas palustris BisB18
+path:rpc01210	2-Oxocarboxylic acid metabolism - Rhodopseudomonas palustris BisB18
+path:rpc01212	Fatty acid metabolism - Rhodopseudomonas palustris BisB18
+path:rpc01220	Degradation of aromatic compounds - Rhodopseudomonas palustris BisB18
+path:rpc01230	Biosynthesis of amino acids - Rhodopseudomonas palustris BisB18
+path:rpc01501	beta-Lactam resistance - Rhodopseudomonas palustris BisB18
+path:rpc01502	Vancomycin resistance - Rhodopseudomonas palustris BisB18
+path:rpc01503	Cationic antimicrobial peptide (CAMP) resistance - Rhodopseudomonas palustris BisB18
+path:rpc02010	ABC transporters - Rhodopseudomonas palustris BisB18
+path:rpc02020	Two-component system - Rhodopseudomonas palustris BisB18
+path:rpc02024	Quorum sensing - Rhodopseudomonas palustris BisB18
+path:rpc02030	Bacterial chemotaxis - Rhodopseudomonas palustris BisB18
+path:rpc02040	Flagellar assembly - Rhodopseudomonas palustris BisB18
+path:rpc02060	Phosphotransferase system (PTS) - Rhodopseudomonas palustris BisB18
+path:rpc03010	Ribosome - Rhodopseudomonas palustris BisB18
+path:rpc03018	RNA degradation - Rhodopseudomonas palustris BisB18
+path:rpc03020	RNA polymerase - Rhodopseudomonas palustris BisB18
+path:rpc03030	DNA replication - Rhodopseudomonas palustris BisB18
+path:rpc03060	Protein export - Rhodopseudomonas palustris BisB18
+path:rpc03070	Bacterial secretion system - Rhodopseudomonas palustris BisB18
+path:rpc03410	Base excision repair - Rhodopseudomonas palustris BisB18
+path:rpc03420	Nucleotide excision repair - Rhodopseudomonas palustris BisB18
+path:rpc03430	Mismatch repair - Rhodopseudomonas palustris BisB18
+path:rpc03440	Homologous recombination - Rhodopseudomonas palustris BisB18
+path:rpc03450	Non-homologous end-joining - Rhodopseudomonas palustris BisB18
+path:rpc04122	Sulfur relay system - Rhodopseudomonas palustris BisB18
+path:rpd00010	Glycolysis / Gluconeogenesis - Rhodopseudomonas palustris BisB5
+path:rpd00020	Citrate cycle (TCA cycle) - Rhodopseudomonas palustris BisB5
+path:rpd00030	Pentose phosphate pathway - Rhodopseudomonas palustris BisB5
+path:rpd00040	Pentose and glucuronate interconversions - Rhodopseudomonas palustris BisB5
+path:rpd00051	Fructose and mannose metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00052	Galactose metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00053	Ascorbate and aldarate metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00061	Fatty acid biosynthesis - Rhodopseudomonas palustris BisB5
+path:rpd00071	Fatty acid degradation - Rhodopseudomonas palustris BisB5
+path:rpd00072	Synthesis and degradation of ketone bodies - Rhodopseudomonas palustris BisB5
+path:rpd00121	Secondary bile acid biosynthesis - Rhodopseudomonas palustris BisB5
+path:rpd00130	Ubiquinone and other terpenoid-quinone biosynthesis - Rhodopseudomonas palustris BisB5
+path:rpd00190	Oxidative phosphorylation - Rhodopseudomonas palustris BisB5
+path:rpd00220	Arginine biosynthesis - Rhodopseudomonas palustris BisB5
+path:rpd00230	Purine metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00240	Pyrimidine metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00250	Alanine, aspartate and glutamate metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00260	Glycine, serine and threonine metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00261	Monobactam biosynthesis - Rhodopseudomonas palustris BisB5
+path:rpd00270	Cysteine and methionine metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00280	Valine, leucine and isoleucine degradation - Rhodopseudomonas palustris BisB5
+path:rpd00281	Geraniol degradation - Rhodopseudomonas palustris BisB5
+path:rpd00290	Valine, leucine and isoleucine biosynthesis - Rhodopseudomonas palustris BisB5
+path:rpd00300	Lysine biosynthesis - Rhodopseudomonas palustris BisB5
+path:rpd00310	Lysine degradation - Rhodopseudomonas palustris BisB5
+path:rpd00330	Arginine and proline metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00332	Carbapenem biosynthesis - Rhodopseudomonas palustris BisB5
+path:rpd00340	Histidine metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00350	Tyrosine metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00360	Phenylalanine metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00361	Chlorocyclohexane and chlorobenzene degradation - Rhodopseudomonas palustris BisB5
+path:rpd00362	Benzoate degradation - Rhodopseudomonas palustris BisB5
+path:rpd00364	Fluorobenzoate degradation - Rhodopseudomonas palustris BisB5
+path:rpd00380	Tryptophan metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Rhodopseudomonas palustris BisB5
+path:rpd00401	Novobiocin biosynthesis - Rhodopseudomonas palustris BisB5
+path:rpd00410	beta-Alanine metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00430	Taurine and hypotaurine metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00440	Phosphonate and phosphinate metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00450	Selenocompound metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00460	Cyanoamino acid metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00471	D-Glutamine and D-glutamate metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00472	D-Arginine and D-ornithine metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00473	D-Alanine metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00480	Glutathione metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00500	Starch and sucrose metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00520	Amino sugar and nucleotide sugar metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00521	Streptomycin biosynthesis - Rhodopseudomonas palustris BisB5
+path:rpd00523	Polyketide sugar unit biosynthesis - Rhodopseudomonas palustris BisB5
+path:rpd00525	Acarbose and validamycin biosynthesis - Rhodopseudomonas palustris BisB5
+path:rpd00540	Lipopolysaccharide biosynthesis - Rhodopseudomonas palustris BisB5
+path:rpd00550	Peptidoglycan biosynthesis - Rhodopseudomonas palustris BisB5
+path:rpd00561	Glycerolipid metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00562	Inositol phosphate metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00564	Glycerophospholipid metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00590	Arachidonic acid metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00620	Pyruvate metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00621	Dioxin degradation - Rhodopseudomonas palustris BisB5
+path:rpd00622	Xylene degradation - Rhodopseudomonas palustris BisB5
+path:rpd00623	Toluene degradation - Rhodopseudomonas palustris BisB5
+path:rpd00624	Polycyclic aromatic hydrocarbon degradation - Rhodopseudomonas palustris BisB5
+path:rpd00625	Chloroalkane and chloroalkene degradation - Rhodopseudomonas palustris BisB5
+path:rpd00626	Naphthalene degradation - Rhodopseudomonas palustris BisB5
+path:rpd00627	Aminobenzoate degradation - Rhodopseudomonas palustris BisB5
+path:rpd00630	Glyoxylate and dicarboxylate metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00633	Nitrotoluene degradation - Rhodopseudomonas palustris BisB5
+path:rpd00640	Propanoate metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00643	Styrene degradation - Rhodopseudomonas palustris BisB5
+path:rpd00650	Butanoate metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00660	C5-Branched dibasic acid metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00670	One carbon pool by folate - Rhodopseudomonas palustris BisB5
+path:rpd00680	Methane metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00710	Carbon fixation in photosynthetic organisms - Rhodopseudomonas palustris BisB5
+path:rpd00730	Thiamine metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00740	Riboflavin metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00750	Vitamin B6 metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00760	Nicotinate and nicotinamide metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00770	Pantothenate and CoA biosynthesis - Rhodopseudomonas palustris BisB5
+path:rpd00780	Biotin metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00785	Lipoic acid metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00790	Folate biosynthesis - Rhodopseudomonas palustris BisB5
+path:rpd00791	Atrazine degradation - Rhodopseudomonas palustris BisB5
+path:rpd00860	Porphyrin and chlorophyll metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00900	Terpenoid backbone biosynthesis - Rhodopseudomonas palustris BisB5
+path:rpd00903	Limonene and pinene degradation - Rhodopseudomonas palustris BisB5
+path:rpd00906	Carotenoid biosynthesis - Rhodopseudomonas palustris BisB5
+path:rpd00909	Sesquiterpenoid and triterpenoid biosynthesis - Rhodopseudomonas palustris BisB5
+path:rpd00910	Nitrogen metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00920	Sulfur metabolism - Rhodopseudomonas palustris BisB5
+path:rpd00930	Caprolactam degradation - Rhodopseudomonas palustris BisB5
+path:rpd00970	Aminoacyl-tRNA biosynthesis - Rhodopseudomonas palustris BisB5
+path:rpd01040	Biosynthesis of unsaturated fatty acids - Rhodopseudomonas palustris BisB5
+path:rpd01054	Nonribosomal peptide structures - Rhodopseudomonas palustris BisB5
+path:rpd01100	Metabolic pathways - Rhodopseudomonas palustris BisB5
+path:rpd01110	Biosynthesis of secondary metabolites - Rhodopseudomonas palustris BisB5
+path:rpd01120	Microbial metabolism in diverse environments - Rhodopseudomonas palustris BisB5
+path:rpd01130	Biosynthesis of antibiotics - Rhodopseudomonas palustris BisB5
+path:rpd01200	Carbon metabolism - Rhodopseudomonas palustris BisB5
+path:rpd01210	2-Oxocarboxylic acid metabolism - Rhodopseudomonas palustris BisB5
+path:rpd01212	Fatty acid metabolism - Rhodopseudomonas palustris BisB5
+path:rpd01220	Degradation of aromatic compounds - Rhodopseudomonas palustris BisB5
+path:rpd01230	Biosynthesis of amino acids - Rhodopseudomonas palustris BisB5
+path:rpd01501	beta-Lactam resistance - Rhodopseudomonas palustris BisB5
+path:rpd01502	Vancomycin resistance - Rhodopseudomonas palustris BisB5
+path:rpd01503	Cationic antimicrobial peptide (CAMP) resistance - Rhodopseudomonas palustris BisB5
+path:rpd02010	ABC transporters - Rhodopseudomonas palustris BisB5
+path:rpd02020	Two-component system - Rhodopseudomonas palustris BisB5
+path:rpd02024	Quorum sensing - Rhodopseudomonas palustris BisB5
+path:rpd02030	Bacterial chemotaxis - Rhodopseudomonas palustris BisB5
+path:rpd02040	Flagellar assembly - Rhodopseudomonas palustris BisB5
+path:rpd02060	Phosphotransferase system (PTS) - Rhodopseudomonas palustris BisB5
+path:rpd03010	Ribosome - Rhodopseudomonas palustris BisB5
+path:rpd03018	RNA degradation - Rhodopseudomonas palustris BisB5
+path:rpd03020	RNA polymerase - Rhodopseudomonas palustris BisB5
+path:rpd03030	DNA replication - Rhodopseudomonas palustris BisB5
+path:rpd03060	Protein export - Rhodopseudomonas palustris BisB5
+path:rpd03070	Bacterial secretion system - Rhodopseudomonas palustris BisB5
+path:rpd03410	Base excision repair - Rhodopseudomonas palustris BisB5
+path:rpd03420	Nucleotide excision repair - Rhodopseudomonas palustris BisB5
+path:rpd03430	Mismatch repair - Rhodopseudomonas palustris BisB5
+path:rpd03440	Homologous recombination - Rhodopseudomonas palustris BisB5
+path:rpd03450	Non-homologous end-joining - Rhodopseudomonas palustris BisB5
+path:rpd04122	Sulfur relay system - Rhodopseudomonas palustris BisB5
+path:rpe00010	Glycolysis / Gluconeogenesis - Rhodopseudomonas palustris BisA53
+path:rpe00020	Citrate cycle (TCA cycle) - Rhodopseudomonas palustris BisA53
+path:rpe00030	Pentose phosphate pathway - Rhodopseudomonas palustris BisA53
+path:rpe00040	Pentose and glucuronate interconversions - Rhodopseudomonas palustris BisA53
+path:rpe00051	Fructose and mannose metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00052	Galactose metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00053	Ascorbate and aldarate metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00061	Fatty acid biosynthesis - Rhodopseudomonas palustris BisA53
+path:rpe00071	Fatty acid degradation - Rhodopseudomonas palustris BisA53
+path:rpe00072	Synthesis and degradation of ketone bodies - Rhodopseudomonas palustris BisA53
+path:rpe00121	Secondary bile acid biosynthesis - Rhodopseudomonas palustris BisA53
+path:rpe00130	Ubiquinone and other terpenoid-quinone biosynthesis - Rhodopseudomonas palustris BisA53
+path:rpe00190	Oxidative phosphorylation - Rhodopseudomonas palustris BisA53
+path:rpe00220	Arginine biosynthesis - Rhodopseudomonas palustris BisA53
+path:rpe00230	Purine metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00240	Pyrimidine metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00250	Alanine, aspartate and glutamate metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00260	Glycine, serine and threonine metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00261	Monobactam biosynthesis - Rhodopseudomonas palustris BisA53
+path:rpe00270	Cysteine and methionine metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00280	Valine, leucine and isoleucine degradation - Rhodopseudomonas palustris BisA53
+path:rpe00281	Geraniol degradation - Rhodopseudomonas palustris BisA53
+path:rpe00290	Valine, leucine and isoleucine biosynthesis - Rhodopseudomonas palustris BisA53
+path:rpe00300	Lysine biosynthesis - Rhodopseudomonas palustris BisA53
+path:rpe00310	Lysine degradation - Rhodopseudomonas palustris BisA53
+path:rpe00330	Arginine and proline metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00332	Carbapenem biosynthesis - Rhodopseudomonas palustris BisA53
+path:rpe00340	Histidine metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00350	Tyrosine metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00360	Phenylalanine metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00361	Chlorocyclohexane and chlorobenzene degradation - Rhodopseudomonas palustris BisA53
+path:rpe00362	Benzoate degradation - Rhodopseudomonas palustris BisA53
+path:rpe00364	Fluorobenzoate degradation - Rhodopseudomonas palustris BisA53
+path:rpe00380	Tryptophan metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Rhodopseudomonas palustris BisA53
+path:rpe00401	Novobiocin biosynthesis - Rhodopseudomonas palustris BisA53
+path:rpe00410	beta-Alanine metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00430	Taurine and hypotaurine metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00440	Phosphonate and phosphinate metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00450	Selenocompound metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00460	Cyanoamino acid metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00471	D-Glutamine and D-glutamate metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00472	D-Arginine and D-ornithine metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00473	D-Alanine metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00480	Glutathione metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00500	Starch and sucrose metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00520	Amino sugar and nucleotide sugar metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00521	Streptomycin biosynthesis - Rhodopseudomonas palustris BisA53
+path:rpe00523	Polyketide sugar unit biosynthesis - Rhodopseudomonas palustris BisA53
+path:rpe00540	Lipopolysaccharide biosynthesis - Rhodopseudomonas palustris BisA53
+path:rpe00550	Peptidoglycan biosynthesis - Rhodopseudomonas palustris BisA53
+path:rpe00561	Glycerolipid metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00562	Inositol phosphate metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00564	Glycerophospholipid metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00590	Arachidonic acid metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00620	Pyruvate metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00621	Dioxin degradation - Rhodopseudomonas palustris BisA53
+path:rpe00623	Toluene degradation - Rhodopseudomonas palustris BisA53
+path:rpe00624	Polycyclic aromatic hydrocarbon degradation - Rhodopseudomonas palustris BisA53
+path:rpe00625	Chloroalkane and chloroalkene degradation - Rhodopseudomonas palustris BisA53
+path:rpe00626	Naphthalene degradation - Rhodopseudomonas palustris BisA53
+path:rpe00627	Aminobenzoate degradation - Rhodopseudomonas palustris BisA53
+path:rpe00630	Glyoxylate and dicarboxylate metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00633	Nitrotoluene degradation - Rhodopseudomonas palustris BisA53
+path:rpe00640	Propanoate metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00643	Styrene degradation - Rhodopseudomonas palustris BisA53
+path:rpe00650	Butanoate metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00660	C5-Branched dibasic acid metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00670	One carbon pool by folate - Rhodopseudomonas palustris BisA53
+path:rpe00680	Methane metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00710	Carbon fixation in photosynthetic organisms - Rhodopseudomonas palustris BisA53
+path:rpe00730	Thiamine metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00740	Riboflavin metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00750	Vitamin B6 metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00760	Nicotinate and nicotinamide metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00770	Pantothenate and CoA biosynthesis - Rhodopseudomonas palustris BisA53
+path:rpe00780	Biotin metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00785	Lipoic acid metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00790	Folate biosynthesis - Rhodopseudomonas palustris BisA53
+path:rpe00791	Atrazine degradation - Rhodopseudomonas palustris BisA53
+path:rpe00860	Porphyrin and chlorophyll metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00900	Terpenoid backbone biosynthesis - Rhodopseudomonas palustris BisA53
+path:rpe00903	Limonene and pinene degradation - Rhodopseudomonas palustris BisA53
+path:rpe00906	Carotenoid biosynthesis - Rhodopseudomonas palustris BisA53
+path:rpe00909	Sesquiterpenoid and triterpenoid biosynthesis - Rhodopseudomonas palustris BisA53
+path:rpe00910	Nitrogen metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00920	Sulfur metabolism - Rhodopseudomonas palustris BisA53
+path:rpe00930	Caprolactam degradation - Rhodopseudomonas palustris BisA53
+path:rpe00970	Aminoacyl-tRNA biosynthesis - Rhodopseudomonas palustris BisA53
+path:rpe01040	Biosynthesis of unsaturated fatty acids - Rhodopseudomonas palustris BisA53
+path:rpe01100	Metabolic pathways - Rhodopseudomonas palustris BisA53
+path:rpe01110	Biosynthesis of secondary metabolites - Rhodopseudomonas palustris BisA53
+path:rpe01120	Microbial metabolism in diverse environments - Rhodopseudomonas palustris BisA53
+path:rpe01130	Biosynthesis of antibiotics - Rhodopseudomonas palustris BisA53
+path:rpe01200	Carbon metabolism - Rhodopseudomonas palustris BisA53
+path:rpe01210	2-Oxocarboxylic acid metabolism - Rhodopseudomonas palustris BisA53
+path:rpe01212	Fatty acid metabolism - Rhodopseudomonas palustris BisA53
+path:rpe01220	Degradation of aromatic compounds - Rhodopseudomonas palustris BisA53
+path:rpe01230	Biosynthesis of amino acids - Rhodopseudomonas palustris BisA53
+path:rpe01501	beta-Lactam resistance - Rhodopseudomonas palustris BisA53
+path:rpe01502	Vancomycin resistance - Rhodopseudomonas palustris BisA53
+path:rpe01503	Cationic antimicrobial peptide (CAMP) resistance - Rhodopseudomonas palustris BisA53
+path:rpe02010	ABC transporters - Rhodopseudomonas palustris BisA53
+path:rpe02020	Two-component system - Rhodopseudomonas palustris BisA53
+path:rpe02024	Quorum sensing - Rhodopseudomonas palustris BisA53
+path:rpe02030	Bacterial chemotaxis - Rhodopseudomonas palustris BisA53
+path:rpe02040	Flagellar assembly - Rhodopseudomonas palustris BisA53
+path:rpe02060	Phosphotransferase system (PTS) - Rhodopseudomonas palustris BisA53
+path:rpe03010	Ribosome - Rhodopseudomonas palustris BisA53
+path:rpe03018	RNA degradation - Rhodopseudomonas palustris BisA53
+path:rpe03020	RNA polymerase - Rhodopseudomonas palustris BisA53
+path:rpe03030	DNA replication - Rhodopseudomonas palustris BisA53
+path:rpe03060	Protein export - Rhodopseudomonas palustris BisA53
+path:rpe03070	Bacterial secretion system - Rhodopseudomonas palustris BisA53
+path:rpe03410	Base excision repair - Rhodopseudomonas palustris BisA53
+path:rpe03420	Nucleotide excision repair - Rhodopseudomonas palustris BisA53
+path:rpe03430	Mismatch repair - Rhodopseudomonas palustris BisA53
+path:rpe03440	Homologous recombination - Rhodopseudomonas palustris BisA53
+path:rpe03450	Non-homologous end-joining - Rhodopseudomonas palustris BisA53
+path:rpe04122	Sulfur relay system - Rhodopseudomonas palustris BisA53
+path:rpt00010	Glycolysis / Gluconeogenesis - Rhodopseudomonas palustris TIE-1
+path:rpt00020	Citrate cycle (TCA cycle) - Rhodopseudomonas palustris TIE-1
+path:rpt00030	Pentose phosphate pathway - Rhodopseudomonas palustris TIE-1
+path:rpt00040	Pentose and glucuronate interconversions - Rhodopseudomonas palustris TIE-1
+path:rpt00051	Fructose and mannose metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00052	Galactose metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00053	Ascorbate and aldarate metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00061	Fatty acid biosynthesis - Rhodopseudomonas palustris TIE-1
+path:rpt00071	Fatty acid degradation - Rhodopseudomonas palustris TIE-1
+path:rpt00072	Synthesis and degradation of ketone bodies - Rhodopseudomonas palustris TIE-1
+path:rpt00121	Secondary bile acid biosynthesis - Rhodopseudomonas palustris TIE-1
+path:rpt00130	Ubiquinone and other terpenoid-quinone biosynthesis - Rhodopseudomonas palustris TIE-1
+path:rpt00190	Oxidative phosphorylation - Rhodopseudomonas palustris TIE-1
+path:rpt00220	Arginine biosynthesis - Rhodopseudomonas palustris TIE-1
+path:rpt00230	Purine metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00240	Pyrimidine metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00250	Alanine, aspartate and glutamate metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00260	Glycine, serine and threonine metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00261	Monobactam biosynthesis - Rhodopseudomonas palustris TIE-1
+path:rpt00270	Cysteine and methionine metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00280	Valine, leucine and isoleucine degradation - Rhodopseudomonas palustris TIE-1
+path:rpt00281	Geraniol degradation - Rhodopseudomonas palustris TIE-1
+path:rpt00290	Valine, leucine and isoleucine biosynthesis - Rhodopseudomonas palustris TIE-1
+path:rpt00300	Lysine biosynthesis - Rhodopseudomonas palustris TIE-1
+path:rpt00310	Lysine degradation - Rhodopseudomonas palustris TIE-1
+path:rpt00330	Arginine and proline metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00332	Carbapenem biosynthesis - Rhodopseudomonas palustris TIE-1
+path:rpt00340	Histidine metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00350	Tyrosine metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00360	Phenylalanine metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00361	Chlorocyclohexane and chlorobenzene degradation - Rhodopseudomonas palustris TIE-1
+path:rpt00362	Benzoate degradation - Rhodopseudomonas palustris TIE-1
+path:rpt00364	Fluorobenzoate degradation - Rhodopseudomonas palustris TIE-1
+path:rpt00380	Tryptophan metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Rhodopseudomonas palustris TIE-1
+path:rpt00401	Novobiocin biosynthesis - Rhodopseudomonas palustris TIE-1
+path:rpt00405	Phenazine biosynthesis - Rhodopseudomonas palustris TIE-1
+path:rpt00410	beta-Alanine metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00430	Taurine and hypotaurine metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00440	Phosphonate and phosphinate metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00450	Selenocompound metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00460	Cyanoamino acid metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00471	D-Glutamine and D-glutamate metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00472	D-Arginine and D-ornithine metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00473	D-Alanine metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00480	Glutathione metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00500	Starch and sucrose metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00520	Amino sugar and nucleotide sugar metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00521	Streptomycin biosynthesis - Rhodopseudomonas palustris TIE-1
+path:rpt00523	Polyketide sugar unit biosynthesis - Rhodopseudomonas palustris TIE-1
+path:rpt00525	Acarbose and validamycin biosynthesis - Rhodopseudomonas palustris TIE-1
+path:rpt00540	Lipopolysaccharide biosynthesis - Rhodopseudomonas palustris TIE-1
+path:rpt00550	Peptidoglycan biosynthesis - Rhodopseudomonas palustris TIE-1
+path:rpt00561	Glycerolipid metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00562	Inositol phosphate metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00564	Glycerophospholipid metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00590	Arachidonic acid metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00620	Pyruvate metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00621	Dioxin degradation - Rhodopseudomonas palustris TIE-1
+path:rpt00622	Xylene degradation - Rhodopseudomonas palustris TIE-1
+path:rpt00623	Toluene degradation - Rhodopseudomonas palustris TIE-1
+path:rpt00624	Polycyclic aromatic hydrocarbon degradation - Rhodopseudomonas palustris TIE-1
+path:rpt00625	Chloroalkane and chloroalkene degradation - Rhodopseudomonas palustris TIE-1
+path:rpt00626	Naphthalene degradation - Rhodopseudomonas palustris TIE-1
+path:rpt00627	Aminobenzoate degradation - Rhodopseudomonas palustris TIE-1
+path:rpt00630	Glyoxylate and dicarboxylate metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00633	Nitrotoluene degradation - Rhodopseudomonas palustris TIE-1
+path:rpt00640	Propanoate metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00643	Styrene degradation - Rhodopseudomonas palustris TIE-1
+path:rpt00650	Butanoate metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00660	C5-Branched dibasic acid metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00670	One carbon pool by folate - Rhodopseudomonas palustris TIE-1
+path:rpt00680	Methane metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00710	Carbon fixation in photosynthetic organisms - Rhodopseudomonas palustris TIE-1
+path:rpt00730	Thiamine metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00740	Riboflavin metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00750	Vitamin B6 metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00760	Nicotinate and nicotinamide metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00770	Pantothenate and CoA biosynthesis - Rhodopseudomonas palustris TIE-1
+path:rpt00780	Biotin metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00785	Lipoic acid metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00790	Folate biosynthesis - Rhodopseudomonas palustris TIE-1
+path:rpt00791	Atrazine degradation - Rhodopseudomonas palustris TIE-1
+path:rpt00860	Porphyrin and chlorophyll metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00900	Terpenoid backbone biosynthesis - Rhodopseudomonas palustris TIE-1
+path:rpt00903	Limonene and pinene degradation - Rhodopseudomonas palustris TIE-1
+path:rpt00906	Carotenoid biosynthesis - Rhodopseudomonas palustris TIE-1
+path:rpt00909	Sesquiterpenoid and triterpenoid biosynthesis - Rhodopseudomonas palustris TIE-1
+path:rpt00910	Nitrogen metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00920	Sulfur metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt00930	Caprolactam degradation - Rhodopseudomonas palustris TIE-1
+path:rpt00970	Aminoacyl-tRNA biosynthesis - Rhodopseudomonas palustris TIE-1
+path:rpt01040	Biosynthesis of unsaturated fatty acids - Rhodopseudomonas palustris TIE-1
+path:rpt01100	Metabolic pathways - Rhodopseudomonas palustris TIE-1
+path:rpt01110	Biosynthesis of secondary metabolites - Rhodopseudomonas palustris TIE-1
+path:rpt01120	Microbial metabolism in diverse environments - Rhodopseudomonas palustris TIE-1
+path:rpt01130	Biosynthesis of antibiotics - Rhodopseudomonas palustris TIE-1
+path:rpt01200	Carbon metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt01210	2-Oxocarboxylic acid metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt01212	Fatty acid metabolism - Rhodopseudomonas palustris TIE-1
+path:rpt01220	Degradation of aromatic compounds - Rhodopseudomonas palustris TIE-1
+path:rpt01230	Biosynthesis of amino acids - Rhodopseudomonas palustris TIE-1
+path:rpt01501	beta-Lactam resistance - Rhodopseudomonas palustris TIE-1
+path:rpt01502	Vancomycin resistance - Rhodopseudomonas palustris TIE-1
+path:rpt01503	Cationic antimicrobial peptide (CAMP) resistance - Rhodopseudomonas palustris TIE-1
+path:rpt02010	ABC transporters - Rhodopseudomonas palustris TIE-1
+path:rpt02020	Two-component system - Rhodopseudomonas palustris TIE-1
+path:rpt02024	Quorum sensing - Rhodopseudomonas palustris TIE-1
+path:rpt02030	Bacterial chemotaxis - Rhodopseudomonas palustris TIE-1
+path:rpt02040	Flagellar assembly - Rhodopseudomonas palustris TIE-1
+path:rpt02060	Phosphotransferase system (PTS) - Rhodopseudomonas palustris TIE-1
+path:rpt03010	Ribosome - Rhodopseudomonas palustris TIE-1
+path:rpt03018	RNA degradation - Rhodopseudomonas palustris TIE-1
+path:rpt03020	RNA polymerase - Rhodopseudomonas palustris TIE-1
+path:rpt03030	DNA replication - Rhodopseudomonas palustris TIE-1
+path:rpt03060	Protein export - Rhodopseudomonas palustris TIE-1
+path:rpt03070	Bacterial secretion system - Rhodopseudomonas palustris TIE-1
+path:rpt03410	Base excision repair - Rhodopseudomonas palustris TIE-1
+path:rpt03420	Nucleotide excision repair - Rhodopseudomonas palustris TIE-1
+path:rpt03430	Mismatch repair - Rhodopseudomonas palustris TIE-1
+path:rpt03440	Homologous recombination - Rhodopseudomonas palustris TIE-1
+path:rpt03450	Non-homologous end-joining - Rhodopseudomonas palustris TIE-1
+path:rpt04122	Sulfur relay system - Rhodopseudomonas palustris TIE-1
+path:rpx00010	Glycolysis / Gluconeogenesis - Rhodopseudomonas palustris DX-1
+path:rpx00020	Citrate cycle (TCA cycle) - Rhodopseudomonas palustris DX-1
+path:rpx00030	Pentose phosphate pathway - Rhodopseudomonas palustris DX-1
+path:rpx00040	Pentose and glucuronate interconversions - Rhodopseudomonas palustris DX-1
+path:rpx00051	Fructose and mannose metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00052	Galactose metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00053	Ascorbate and aldarate metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00061	Fatty acid biosynthesis - Rhodopseudomonas palustris DX-1
+path:rpx00071	Fatty acid degradation - Rhodopseudomonas palustris DX-1
+path:rpx00072	Synthesis and degradation of ketone bodies - Rhodopseudomonas palustris DX-1
+path:rpx00121	Secondary bile acid biosynthesis - Rhodopseudomonas palustris DX-1
+path:rpx00130	Ubiquinone and other terpenoid-quinone biosynthesis - Rhodopseudomonas palustris DX-1
+path:rpx00190	Oxidative phosphorylation - Rhodopseudomonas palustris DX-1
+path:rpx00220	Arginine biosynthesis - Rhodopseudomonas palustris DX-1
+path:rpx00230	Purine metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00240	Pyrimidine metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00250	Alanine, aspartate and glutamate metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00260	Glycine, serine and threonine metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00261	Monobactam biosynthesis - Rhodopseudomonas palustris DX-1
+path:rpx00270	Cysteine and methionine metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00280	Valine, leucine and isoleucine degradation - Rhodopseudomonas palustris DX-1
+path:rpx00281	Geraniol degradation - Rhodopseudomonas palustris DX-1
+path:rpx00290	Valine, leucine and isoleucine biosynthesis - Rhodopseudomonas palustris DX-1
+path:rpx00300	Lysine biosynthesis - Rhodopseudomonas palustris DX-1
+path:rpx00310	Lysine degradation - Rhodopseudomonas palustris DX-1
+path:rpx00330	Arginine and proline metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00332	Carbapenem biosynthesis - Rhodopseudomonas palustris DX-1
+path:rpx00340	Histidine metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00350	Tyrosine metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00360	Phenylalanine metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00361	Chlorocyclohexane and chlorobenzene degradation - Rhodopseudomonas palustris DX-1
+path:rpx00362	Benzoate degradation - Rhodopseudomonas palustris DX-1
+path:rpx00364	Fluorobenzoate degradation - Rhodopseudomonas palustris DX-1
+path:rpx00380	Tryptophan metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Rhodopseudomonas palustris DX-1
+path:rpx00401	Novobiocin biosynthesis - Rhodopseudomonas palustris DX-1
+path:rpx00405	Phenazine biosynthesis - Rhodopseudomonas palustris DX-1
+path:rpx00410	beta-Alanine metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00430	Taurine and hypotaurine metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00440	Phosphonate and phosphinate metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00450	Selenocompound metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00460	Cyanoamino acid metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00471	D-Glutamine and D-glutamate metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00472	D-Arginine and D-ornithine metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00473	D-Alanine metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00480	Glutathione metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00500	Starch and sucrose metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00520	Amino sugar and nucleotide sugar metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00521	Streptomycin biosynthesis - Rhodopseudomonas palustris DX-1
+path:rpx00523	Polyketide sugar unit biosynthesis - Rhodopseudomonas palustris DX-1
+path:rpx00525	Acarbose and validamycin biosynthesis - Rhodopseudomonas palustris DX-1
+path:rpx00540	Lipopolysaccharide biosynthesis - Rhodopseudomonas palustris DX-1
+path:rpx00550	Peptidoglycan biosynthesis - Rhodopseudomonas palustris DX-1
+path:rpx00561	Glycerolipid metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00562	Inositol phosphate metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00564	Glycerophospholipid metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00590	Arachidonic acid metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00620	Pyruvate metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00621	Dioxin degradation - Rhodopseudomonas palustris DX-1
+path:rpx00622	Xylene degradation - Rhodopseudomonas palustris DX-1
+path:rpx00623	Toluene degradation - Rhodopseudomonas palustris DX-1
+path:rpx00624	Polycyclic aromatic hydrocarbon degradation - Rhodopseudomonas palustris DX-1
+path:rpx00625	Chloroalkane and chloroalkene degradation - Rhodopseudomonas palustris DX-1
+path:rpx00626	Naphthalene degradation - Rhodopseudomonas palustris DX-1
+path:rpx00627	Aminobenzoate degradation - Rhodopseudomonas palustris DX-1
+path:rpx00630	Glyoxylate and dicarboxylate metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00633	Nitrotoluene degradation - Rhodopseudomonas palustris DX-1
+path:rpx00640	Propanoate metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00643	Styrene degradation - Rhodopseudomonas palustris DX-1
+path:rpx00650	Butanoate metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00660	C5-Branched dibasic acid metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00670	One carbon pool by folate - Rhodopseudomonas palustris DX-1
+path:rpx00680	Methane metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00710	Carbon fixation in photosynthetic organisms - Rhodopseudomonas palustris DX-1
+path:rpx00730	Thiamine metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00740	Riboflavin metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00750	Vitamin B6 metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00760	Nicotinate and nicotinamide metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00770	Pantothenate and CoA biosynthesis - Rhodopseudomonas palustris DX-1
+path:rpx00780	Biotin metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00785	Lipoic acid metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00790	Folate biosynthesis - Rhodopseudomonas palustris DX-1
+path:rpx00791	Atrazine degradation - Rhodopseudomonas palustris DX-1
+path:rpx00860	Porphyrin and chlorophyll metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00900	Terpenoid backbone biosynthesis - Rhodopseudomonas palustris DX-1
+path:rpx00903	Limonene and pinene degradation - Rhodopseudomonas palustris DX-1
+path:rpx00906	Carotenoid biosynthesis - Rhodopseudomonas palustris DX-1
+path:rpx00909	Sesquiterpenoid and triterpenoid biosynthesis - Rhodopseudomonas palustris DX-1
+path:rpx00910	Nitrogen metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00920	Sulfur metabolism - Rhodopseudomonas palustris DX-1
+path:rpx00930	Caprolactam degradation - Rhodopseudomonas palustris DX-1
+path:rpx00970	Aminoacyl-tRNA biosynthesis - Rhodopseudomonas palustris DX-1
+path:rpx01040	Biosynthesis of unsaturated fatty acids - Rhodopseudomonas palustris DX-1
+path:rpx01100	Metabolic pathways - Rhodopseudomonas palustris DX-1
+path:rpx01110	Biosynthesis of secondary metabolites - Rhodopseudomonas palustris DX-1
+path:rpx01120	Microbial metabolism in diverse environments - Rhodopseudomonas palustris DX-1
+path:rpx01130	Biosynthesis of antibiotics - Rhodopseudomonas palustris DX-1
+path:rpx01200	Carbon metabolism - Rhodopseudomonas palustris DX-1
+path:rpx01210	2-Oxocarboxylic acid metabolism - Rhodopseudomonas palustris DX-1
+path:rpx01212	Fatty acid metabolism - Rhodopseudomonas palustris DX-1
+path:rpx01220	Degradation of aromatic compounds - Rhodopseudomonas palustris DX-1
+path:rpx01230	Biosynthesis of amino acids - Rhodopseudomonas palustris DX-1
+path:rpx01501	beta-Lactam resistance - Rhodopseudomonas palustris DX-1
+path:rpx01502	Vancomycin resistance - Rhodopseudomonas palustris DX-1
+path:rpx01503	Cationic antimicrobial peptide (CAMP) resistance - Rhodopseudomonas palustris DX-1
+path:rpx02010	ABC transporters - Rhodopseudomonas palustris DX-1
+path:rpx02020	Two-component system - Rhodopseudomonas palustris DX-1
+path:rpx02024	Quorum sensing - Rhodopseudomonas palustris DX-1
+path:rpx02030	Bacterial chemotaxis - Rhodopseudomonas palustris DX-1
+path:rpx02040	Flagellar assembly - Rhodopseudomonas palustris DX-1
+path:rpx02060	Phosphotransferase system (PTS) - Rhodopseudomonas palustris DX-1
+path:rpx03010	Ribosome - Rhodopseudomonas palustris DX-1
+path:rpx03018	RNA degradation - Rhodopseudomonas palustris DX-1
+path:rpx03020	RNA polymerase - Rhodopseudomonas palustris DX-1
+path:rpx03030	DNA replication - Rhodopseudomonas palustris DX-1
+path:rpx03060	Protein export - Rhodopseudomonas palustris DX-1
+path:rpx03070	Bacterial secretion system - Rhodopseudomonas palustris DX-1
+path:rpx03410	Base excision repair - Rhodopseudomonas palustris DX-1
+path:rpx03420	Nucleotide excision repair - Rhodopseudomonas palustris DX-1
+path:rpx03430	Mismatch repair - Rhodopseudomonas palustris DX-1
+path:rpx03440	Homologous recombination - Rhodopseudomonas palustris DX-1
+path:rpx03450	Non-homologous end-joining - Rhodopseudomonas palustris DX-1
+path:rpx04122	Sulfur relay system - Rhodopseudomonas palustris DX-1

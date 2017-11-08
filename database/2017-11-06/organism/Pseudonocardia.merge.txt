@@ -1,0 +1,875 @@
+path:pdx00010	Glycolysis / Gluconeogenesis - Pseudonocardia dioxanivorans
+path:pdx00020	Citrate cycle (TCA cycle) - Pseudonocardia dioxanivorans
+path:pdx00030	Pentose phosphate pathway - Pseudonocardia dioxanivorans
+path:pdx00040	Pentose and glucuronate interconversions - Pseudonocardia dioxanivorans
+path:pdx00051	Fructose and mannose metabolism - Pseudonocardia dioxanivorans
+path:pdx00052	Galactose metabolism - Pseudonocardia dioxanivorans
+path:pdx00053	Ascorbate and aldarate metabolism - Pseudonocardia dioxanivorans
+path:pdx00061	Fatty acid biosynthesis - Pseudonocardia dioxanivorans
+path:pdx00071	Fatty acid degradation - Pseudonocardia dioxanivorans
+path:pdx00072	Synthesis and degradation of ketone bodies - Pseudonocardia dioxanivorans
+path:pdx00121	Secondary bile acid biosynthesis - Pseudonocardia dioxanivorans
+path:pdx00130	Ubiquinone and other terpenoid-quinone biosynthesis - Pseudonocardia dioxanivorans
+path:pdx00190	Oxidative phosphorylation - Pseudonocardia dioxanivorans
+path:pdx00220	Arginine biosynthesis - Pseudonocardia dioxanivorans
+path:pdx00230	Purine metabolism - Pseudonocardia dioxanivorans
+path:pdx00240	Pyrimidine metabolism - Pseudonocardia dioxanivorans
+path:pdx00250	Alanine, aspartate and glutamate metabolism - Pseudonocardia dioxanivorans
+path:pdx00260	Glycine, serine and threonine metabolism - Pseudonocardia dioxanivorans
+path:pdx00261	Monobactam biosynthesis - Pseudonocardia dioxanivorans
+path:pdx00270	Cysteine and methionine metabolism - Pseudonocardia dioxanivorans
+path:pdx00280	Valine, leucine and isoleucine degradation - Pseudonocardia dioxanivorans
+path:pdx00281	Geraniol degradation - Pseudonocardia dioxanivorans
+path:pdx00290	Valine, leucine and isoleucine biosynthesis - Pseudonocardia dioxanivorans
+path:pdx00300	Lysine biosynthesis - Pseudonocardia dioxanivorans
+path:pdx00310	Lysine degradation - Pseudonocardia dioxanivorans
+path:pdx00330	Arginine and proline metabolism - Pseudonocardia dioxanivorans
+path:pdx00332	Carbapenem biosynthesis - Pseudonocardia dioxanivorans
+path:pdx00340	Histidine metabolism - Pseudonocardia dioxanivorans
+path:pdx00350	Tyrosine metabolism - Pseudonocardia dioxanivorans
+path:pdx00360	Phenylalanine metabolism - Pseudonocardia dioxanivorans
+path:pdx00361	Chlorocyclohexane and chlorobenzene degradation - Pseudonocardia dioxanivorans
+path:pdx00362	Benzoate degradation - Pseudonocardia dioxanivorans
+path:pdx00364	Fluorobenzoate degradation - Pseudonocardia dioxanivorans
+path:pdx00365	Furfural degradation - Pseudonocardia dioxanivorans
+path:pdx00380	Tryptophan metabolism - Pseudonocardia dioxanivorans
+path:pdx00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Pseudonocardia dioxanivorans
+path:pdx00401	Novobiocin biosynthesis - Pseudonocardia dioxanivorans
+path:pdx00405	Phenazine biosynthesis - Pseudonocardia dioxanivorans
+path:pdx00410	beta-Alanine metabolism - Pseudonocardia dioxanivorans
+path:pdx00430	Taurine and hypotaurine metabolism - Pseudonocardia dioxanivorans
+path:pdx00440	Phosphonate and phosphinate metabolism - Pseudonocardia dioxanivorans
+path:pdx00450	Selenocompound metabolism - Pseudonocardia dioxanivorans
+path:pdx00460	Cyanoamino acid metabolism - Pseudonocardia dioxanivorans
+path:pdx00471	D-Glutamine and D-glutamate metabolism - Pseudonocardia dioxanivorans
+path:pdx00473	D-Alanine metabolism - Pseudonocardia dioxanivorans
+path:pdx00480	Glutathione metabolism - Pseudonocardia dioxanivorans
+path:pdx00500	Starch and sucrose metabolism - Pseudonocardia dioxanivorans
+path:pdx00520	Amino sugar and nucleotide sugar metabolism - Pseudonocardia dioxanivorans
+path:pdx00521	Streptomycin biosynthesis - Pseudonocardia dioxanivorans
+path:pdx00523	Polyketide sugar unit biosynthesis - Pseudonocardia dioxanivorans
+path:pdx00525	Acarbose and validamycin biosynthesis - Pseudonocardia dioxanivorans
+path:pdx00540	Lipopolysaccharide biosynthesis - Pseudonocardia dioxanivorans
+path:pdx00550	Peptidoglycan biosynthesis - Pseudonocardia dioxanivorans
+path:pdx00561	Glycerolipid metabolism - Pseudonocardia dioxanivorans
+path:pdx00562	Inositol phosphate metabolism - Pseudonocardia dioxanivorans
+path:pdx00564	Glycerophospholipid metabolism - Pseudonocardia dioxanivorans
+path:pdx00565	Ether lipid metabolism - Pseudonocardia dioxanivorans
+path:pdx00590	Arachidonic acid metabolism - Pseudonocardia dioxanivorans
+path:pdx00592	alpha-Linolenic acid metabolism - Pseudonocardia dioxanivorans
+path:pdx00620	Pyruvate metabolism - Pseudonocardia dioxanivorans
+path:pdx00621	Dioxin degradation - Pseudonocardia dioxanivorans
+path:pdx00622	Xylene degradation - Pseudonocardia dioxanivorans
+path:pdx00623	Toluene degradation - Pseudonocardia dioxanivorans
+path:pdx00624	Polycyclic aromatic hydrocarbon degradation - Pseudonocardia dioxanivorans
+path:pdx00625	Chloroalkane and chloroalkene degradation - Pseudonocardia dioxanivorans
+path:pdx00626	Naphthalene degradation - Pseudonocardia dioxanivorans
+path:pdx00627	Aminobenzoate degradation - Pseudonocardia dioxanivorans
+path:pdx00630	Glyoxylate and dicarboxylate metabolism - Pseudonocardia dioxanivorans
+path:pdx00633	Nitrotoluene degradation - Pseudonocardia dioxanivorans
+path:pdx00640	Propanoate metabolism - Pseudonocardia dioxanivorans
+path:pdx00643	Styrene degradation - Pseudonocardia dioxanivorans
+path:pdx00650	Butanoate metabolism - Pseudonocardia dioxanivorans
+path:pdx00660	C5-Branched dibasic acid metabolism - Pseudonocardia dioxanivorans
+path:pdx00670	One carbon pool by folate - Pseudonocardia dioxanivorans
+path:pdx00680	Methane metabolism - Pseudonocardia dioxanivorans
+path:pdx00710	Carbon fixation in photosynthetic organisms - Pseudonocardia dioxanivorans
+path:pdx00730	Thiamine metabolism - Pseudonocardia dioxanivorans
+path:pdx00740	Riboflavin metabolism - Pseudonocardia dioxanivorans
+path:pdx00750	Vitamin B6 metabolism - Pseudonocardia dioxanivorans
+path:pdx00760	Nicotinate and nicotinamide metabolism - Pseudonocardia dioxanivorans
+path:pdx00770	Pantothenate and CoA biosynthesis - Pseudonocardia dioxanivorans
+path:pdx00780	Biotin metabolism - Pseudonocardia dioxanivorans
+path:pdx00785	Lipoic acid metabolism - Pseudonocardia dioxanivorans
+path:pdx00790	Folate biosynthesis - Pseudonocardia dioxanivorans
+path:pdx00791	Atrazine degradation - Pseudonocardia dioxanivorans
+path:pdx00860	Porphyrin and chlorophyll metabolism - Pseudonocardia dioxanivorans
+path:pdx00900	Terpenoid backbone biosynthesis - Pseudonocardia dioxanivorans
+path:pdx00903	Limonene and pinene degradation - Pseudonocardia dioxanivorans
+path:pdx00906	Carotenoid biosynthesis - Pseudonocardia dioxanivorans
+path:pdx00909	Sesquiterpenoid and triterpenoid biosynthesis - Pseudonocardia dioxanivorans
+path:pdx00910	Nitrogen metabolism - Pseudonocardia dioxanivorans
+path:pdx00920	Sulfur metabolism - Pseudonocardia dioxanivorans
+path:pdx00930	Caprolactam degradation - Pseudonocardia dioxanivorans
+path:pdx00970	Aminoacyl-tRNA biosynthesis - Pseudonocardia dioxanivorans
+path:pdx01040	Biosynthesis of unsaturated fatty acids - Pseudonocardia dioxanivorans
+path:pdx01053	Biosynthesis of siderophore group nonribosomal peptides - Pseudonocardia dioxanivorans
+path:pdx01059	Biosynthesis of enediyne antibiotics - Pseudonocardia dioxanivorans
+path:pdx01100	Metabolic pathways - Pseudonocardia dioxanivorans
+path:pdx01110	Biosynthesis of secondary metabolites - Pseudonocardia dioxanivorans
+path:pdx01120	Microbial metabolism in diverse environments - Pseudonocardia dioxanivorans
+path:pdx01130	Biosynthesis of antibiotics - Pseudonocardia dioxanivorans
+path:pdx01200	Carbon metabolism - Pseudonocardia dioxanivorans
+path:pdx01210	2-Oxocarboxylic acid metabolism - Pseudonocardia dioxanivorans
+path:pdx01212	Fatty acid metabolism - Pseudonocardia dioxanivorans
+path:pdx01220	Degradation of aromatic compounds - Pseudonocardia dioxanivorans
+path:pdx01230	Biosynthesis of amino acids - Pseudonocardia dioxanivorans
+path:pdx01501	beta-Lactam resistance - Pseudonocardia dioxanivorans
+path:pdx01502	Vancomycin resistance - Pseudonocardia dioxanivorans
+path:pdx01503	Cationic antimicrobial peptide (CAMP) resistance - Pseudonocardia dioxanivorans
+path:pdx02010	ABC transporters - Pseudonocardia dioxanivorans
+path:pdx02020	Two-component system - Pseudonocardia dioxanivorans
+path:pdx02024	Quorum sensing - Pseudonocardia dioxanivorans
+path:pdx02030	Bacterial chemotaxis - Pseudonocardia dioxanivorans
+path:pdx02060	Phosphotransferase system (PTS) - Pseudonocardia dioxanivorans
+path:pdx03010	Ribosome - Pseudonocardia dioxanivorans
+path:pdx03018	RNA degradation - Pseudonocardia dioxanivorans
+path:pdx03020	RNA polymerase - Pseudonocardia dioxanivorans
+path:pdx03030	DNA replication - Pseudonocardia dioxanivorans
+path:pdx03050	Proteasome - Pseudonocardia dioxanivorans
+path:pdx03060	Protein export - Pseudonocardia dioxanivorans
+path:pdx03070	Bacterial secretion system - Pseudonocardia dioxanivorans
+path:pdx03410	Base excision repair - Pseudonocardia dioxanivorans
+path:pdx03420	Nucleotide excision repair - Pseudonocardia dioxanivorans
+path:pdx03430	Mismatch repair - Pseudonocardia dioxanivorans
+path:pdx03440	Homologous recombination - Pseudonocardia dioxanivorans
+path:pdx03450	Non-homologous end-joining - Pseudonocardia dioxanivorans
+path:pdx04122	Sulfur relay system - Pseudonocardia dioxanivorans
+path:psea00010	Glycolysis / Gluconeogenesis - Pseudonocardia sp. AL041005-10
+path:psea00020	Citrate cycle (TCA cycle) - Pseudonocardia sp. AL041005-10
+path:psea00030	Pentose phosphate pathway - Pseudonocardia sp. AL041005-10
+path:psea00040	Pentose and glucuronate interconversions - Pseudonocardia sp. AL041005-10
+path:psea00051	Fructose and mannose metabolism - Pseudonocardia sp. AL041005-10
+path:psea00052	Galactose metabolism - Pseudonocardia sp. AL041005-10
+path:psea00053	Ascorbate and aldarate metabolism - Pseudonocardia sp. AL041005-10
+path:psea00061	Fatty acid biosynthesis - Pseudonocardia sp. AL041005-10
+path:psea00071	Fatty acid degradation - Pseudonocardia sp. AL041005-10
+path:psea00072	Synthesis and degradation of ketone bodies - Pseudonocardia sp. AL041005-10
+path:psea00121	Secondary bile acid biosynthesis - Pseudonocardia sp. AL041005-10
+path:psea00130	Ubiquinone and other terpenoid-quinone biosynthesis - Pseudonocardia sp. AL041005-10
+path:psea00190	Oxidative phosphorylation - Pseudonocardia sp. AL041005-10
+path:psea00220	Arginine biosynthesis - Pseudonocardia sp. AL041005-10
+path:psea00230	Purine metabolism - Pseudonocardia sp. AL041005-10
+path:psea00232	Caffeine metabolism - Pseudonocardia sp. AL041005-10
+path:psea00240	Pyrimidine metabolism - Pseudonocardia sp. AL041005-10
+path:psea00250	Alanine, aspartate and glutamate metabolism - Pseudonocardia sp. AL041005-10
+path:psea00260	Glycine, serine and threonine metabolism - Pseudonocardia sp. AL041005-10
+path:psea00261	Monobactam biosynthesis - Pseudonocardia sp. AL041005-10
+path:psea00270	Cysteine and methionine metabolism - Pseudonocardia sp. AL041005-10
+path:psea00280	Valine, leucine and isoleucine degradation - Pseudonocardia sp. AL041005-10
+path:psea00281	Geraniol degradation - Pseudonocardia sp. AL041005-10
+path:psea00290	Valine, leucine and isoleucine biosynthesis - Pseudonocardia sp. AL041005-10
+path:psea00300	Lysine biosynthesis - Pseudonocardia sp. AL041005-10
+path:psea00310	Lysine degradation - Pseudonocardia sp. AL041005-10
+path:psea00330	Arginine and proline metabolism - Pseudonocardia sp. AL041005-10
+path:psea00332	Carbapenem biosynthesis - Pseudonocardia sp. AL041005-10
+path:psea00340	Histidine metabolism - Pseudonocardia sp. AL041005-10
+path:psea00350	Tyrosine metabolism - Pseudonocardia sp. AL041005-10
+path:psea00360	Phenylalanine metabolism - Pseudonocardia sp. AL041005-10
+path:psea00361	Chlorocyclohexane and chlorobenzene degradation - Pseudonocardia sp. AL041005-10
+path:psea00362	Benzoate degradation - Pseudonocardia sp. AL041005-10
+path:psea00364	Fluorobenzoate degradation - Pseudonocardia sp. AL041005-10
+path:psea00365	Furfural degradation - Pseudonocardia sp. AL041005-10
+path:psea00380	Tryptophan metabolism - Pseudonocardia sp. AL041005-10
+path:psea00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Pseudonocardia sp. AL041005-10
+path:psea00401	Novobiocin biosynthesis - Pseudonocardia sp. AL041005-10
+path:psea00410	beta-Alanine metabolism - Pseudonocardia sp. AL041005-10
+path:psea00430	Taurine and hypotaurine metabolism - Pseudonocardia sp. AL041005-10
+path:psea00440	Phosphonate and phosphinate metabolism - Pseudonocardia sp. AL041005-10
+path:psea00450	Selenocompound metabolism - Pseudonocardia sp. AL041005-10
+path:psea00460	Cyanoamino acid metabolism - Pseudonocardia sp. AL041005-10
+path:psea00471	D-Glutamine and D-glutamate metabolism - Pseudonocardia sp. AL041005-10
+path:psea00473	D-Alanine metabolism - Pseudonocardia sp. AL041005-10
+path:psea00480	Glutathione metabolism - Pseudonocardia sp. AL041005-10
+path:psea00500	Starch and sucrose metabolism - Pseudonocardia sp. AL041005-10
+path:psea00520	Amino sugar and nucleotide sugar metabolism - Pseudonocardia sp. AL041005-10
+path:psea00521	Streptomycin biosynthesis - Pseudonocardia sp. AL041005-10
+path:psea00523	Polyketide sugar unit biosynthesis - Pseudonocardia sp. AL041005-10
+path:psea00550	Peptidoglycan biosynthesis - Pseudonocardia sp. AL041005-10
+path:psea00561	Glycerolipid metabolism - Pseudonocardia sp. AL041005-10
+path:psea00562	Inositol phosphate metabolism - Pseudonocardia sp. AL041005-10
+path:psea00564	Glycerophospholipid metabolism - Pseudonocardia sp. AL041005-10
+path:psea00592	alpha-Linolenic acid metabolism - Pseudonocardia sp. AL041005-10
+path:psea00620	Pyruvate metabolism - Pseudonocardia sp. AL041005-10
+path:psea00621	Dioxin degradation - Pseudonocardia sp. AL041005-10
+path:psea00622	Xylene degradation - Pseudonocardia sp. AL041005-10
+path:psea00623	Toluene degradation - Pseudonocardia sp. AL041005-10
+path:psea00624	Polycyclic aromatic hydrocarbon degradation - Pseudonocardia sp. AL041005-10
+path:psea00625	Chloroalkane and chloroalkene degradation - Pseudonocardia sp. AL041005-10
+path:psea00626	Naphthalene degradation - Pseudonocardia sp. AL041005-10
+path:psea00627	Aminobenzoate degradation - Pseudonocardia sp. AL041005-10
+path:psea00630	Glyoxylate and dicarboxylate metabolism - Pseudonocardia sp. AL041005-10
+path:psea00640	Propanoate metabolism - Pseudonocardia sp. AL041005-10
+path:psea00643	Styrene degradation - Pseudonocardia sp. AL041005-10
+path:psea00650	Butanoate metabolism - Pseudonocardia sp. AL041005-10
+path:psea00660	C5-Branched dibasic acid metabolism - Pseudonocardia sp. AL041005-10
+path:psea00670	One carbon pool by folate - Pseudonocardia sp. AL041005-10
+path:psea00680	Methane metabolism - Pseudonocardia sp. AL041005-10
+path:psea00710	Carbon fixation in photosynthetic organisms - Pseudonocardia sp. AL041005-10
+path:psea00730	Thiamine metabolism - Pseudonocardia sp. AL041005-10
+path:psea00740	Riboflavin metabolism - Pseudonocardia sp. AL041005-10
+path:psea00750	Vitamin B6 metabolism - Pseudonocardia sp. AL041005-10
+path:psea00760	Nicotinate and nicotinamide metabolism - Pseudonocardia sp. AL041005-10
+path:psea00770	Pantothenate and CoA biosynthesis - Pseudonocardia sp. AL041005-10
+path:psea00780	Biotin metabolism - Pseudonocardia sp. AL041005-10
+path:psea00785	Lipoic acid metabolism - Pseudonocardia sp. AL041005-10
+path:psea00790	Folate biosynthesis - Pseudonocardia sp. AL041005-10
+path:psea00791	Atrazine degradation - Pseudonocardia sp. AL041005-10
+path:psea00860	Porphyrin and chlorophyll metabolism - Pseudonocardia sp. AL041005-10
+path:psea00900	Terpenoid backbone biosynthesis - Pseudonocardia sp. AL041005-10
+path:psea00903	Limonene and pinene degradation - Pseudonocardia sp. AL041005-10
+path:psea00906	Carotenoid biosynthesis - Pseudonocardia sp. AL041005-10
+path:psea00910	Nitrogen metabolism - Pseudonocardia sp. AL041005-10
+path:psea00920	Sulfur metabolism - Pseudonocardia sp. AL041005-10
+path:psea00930	Caprolactam degradation - Pseudonocardia sp. AL041005-10
+path:psea00970	Aminoacyl-tRNA biosynthesis - Pseudonocardia sp. AL041005-10
+path:psea00984	Steroid degradation - Pseudonocardia sp. AL041005-10
+path:psea01040	Biosynthesis of unsaturated fatty acids - Pseudonocardia sp. AL041005-10
+path:psea01052	Type I polyketide structures - Pseudonocardia sp. AL041005-10
+path:psea01100	Metabolic pathways - Pseudonocardia sp. AL041005-10
+path:psea01110	Biosynthesis of secondary metabolites - Pseudonocardia sp. AL041005-10
+path:psea01120	Microbial metabolism in diverse environments - Pseudonocardia sp. AL041005-10
+path:psea01130	Biosynthesis of antibiotics - Pseudonocardia sp. AL041005-10
+path:psea01200	Carbon metabolism - Pseudonocardia sp. AL041005-10
+path:psea01210	2-Oxocarboxylic acid metabolism - Pseudonocardia sp. AL041005-10
+path:psea01212	Fatty acid metabolism - Pseudonocardia sp. AL041005-10
+path:psea01220	Degradation of aromatic compounds - Pseudonocardia sp. AL041005-10
+path:psea01230	Biosynthesis of amino acids - Pseudonocardia sp. AL041005-10
+path:psea01501	beta-Lactam resistance - Pseudonocardia sp. AL041005-10
+path:psea01502	Vancomycin resistance - Pseudonocardia sp. AL041005-10
+path:psea01503	Cationic antimicrobial peptide (CAMP) resistance - Pseudonocardia sp. AL041005-10
+path:psea02010	ABC transporters - Pseudonocardia sp. AL041005-10
+path:psea02020	Two-component system - Pseudonocardia sp. AL041005-10
+path:psea02024	Quorum sensing - Pseudonocardia sp. AL041005-10
+path:psea02060	Phosphotransferase system (PTS) - Pseudonocardia sp. AL041005-10
+path:psea03010	Ribosome - Pseudonocardia sp. AL041005-10
+path:psea03018	RNA degradation - Pseudonocardia sp. AL041005-10
+path:psea03020	RNA polymerase - Pseudonocardia sp. AL041005-10
+path:psea03030	DNA replication - Pseudonocardia sp. AL041005-10
+path:psea03050	Proteasome - Pseudonocardia sp. AL041005-10
+path:psea03060	Protein export - Pseudonocardia sp. AL041005-10
+path:psea03070	Bacterial secretion system - Pseudonocardia sp. AL041005-10
+path:psea03410	Base excision repair - Pseudonocardia sp. AL041005-10
+path:psea03420	Nucleotide excision repair - Pseudonocardia sp. AL041005-10
+path:psea03430	Mismatch repair - Pseudonocardia sp. AL041005-10
+path:psea03440	Homologous recombination - Pseudonocardia sp. AL041005-10
+path:psea03450	Non-homologous end-joining - Pseudonocardia sp. AL041005-10
+path:psea04122	Sulfur relay system - Pseudonocardia sp. AL041005-10
+path:psea04933	AGE-RAGE signaling pathway in diabetic complications - Pseudonocardia sp. AL041005-10
+path:psee00010	Glycolysis / Gluconeogenesis - Pseudonocardia sp. EC080625-04
+path:psee00020	Citrate cycle (TCA cycle) - Pseudonocardia sp. EC080625-04
+path:psee00030	Pentose phosphate pathway - Pseudonocardia sp. EC080625-04
+path:psee00040	Pentose and glucuronate interconversions - Pseudonocardia sp. EC080625-04
+path:psee00051	Fructose and mannose metabolism - Pseudonocardia sp. EC080625-04
+path:psee00052	Galactose metabolism - Pseudonocardia sp. EC080625-04
+path:psee00053	Ascorbate and aldarate metabolism - Pseudonocardia sp. EC080625-04
+path:psee00061	Fatty acid biosynthesis - Pseudonocardia sp. EC080625-04
+path:psee00071	Fatty acid degradation - Pseudonocardia sp. EC080625-04
+path:psee00072	Synthesis and degradation of ketone bodies - Pseudonocardia sp. EC080625-04
+path:psee00121	Secondary bile acid biosynthesis - Pseudonocardia sp. EC080625-04
+path:psee00130	Ubiquinone and other terpenoid-quinone biosynthesis - Pseudonocardia sp. EC080625-04
+path:psee00190	Oxidative phosphorylation - Pseudonocardia sp. EC080625-04
+path:psee00220	Arginine biosynthesis - Pseudonocardia sp. EC080625-04
+path:psee00230	Purine metabolism - Pseudonocardia sp. EC080625-04
+path:psee00232	Caffeine metabolism - Pseudonocardia sp. EC080625-04
+path:psee00240	Pyrimidine metabolism - Pseudonocardia sp. EC080625-04
+path:psee00250	Alanine, aspartate and glutamate metabolism - Pseudonocardia sp. EC080625-04
+path:psee00260	Glycine, serine and threonine metabolism - Pseudonocardia sp. EC080625-04
+path:psee00261	Monobactam biosynthesis - Pseudonocardia sp. EC080625-04
+path:psee00270	Cysteine and methionine metabolism - Pseudonocardia sp. EC080625-04
+path:psee00280	Valine, leucine and isoleucine degradation - Pseudonocardia sp. EC080625-04
+path:psee00281	Geraniol degradation - Pseudonocardia sp. EC080625-04
+path:psee00290	Valine, leucine and isoleucine biosynthesis - Pseudonocardia sp. EC080625-04
+path:psee00300	Lysine biosynthesis - Pseudonocardia sp. EC080625-04
+path:psee00310	Lysine degradation - Pseudonocardia sp. EC080625-04
+path:psee00311	Penicillin and cephalosporin biosynthesis - Pseudonocardia sp. EC080625-04
+path:psee00330	Arginine and proline metabolism - Pseudonocardia sp. EC080625-04
+path:psee00332	Carbapenem biosynthesis - Pseudonocardia sp. EC080625-04
+path:psee00340	Histidine metabolism - Pseudonocardia sp. EC080625-04
+path:psee00350	Tyrosine metabolism - Pseudonocardia sp. EC080625-04
+path:psee00360	Phenylalanine metabolism - Pseudonocardia sp. EC080625-04
+path:psee00361	Chlorocyclohexane and chlorobenzene degradation - Pseudonocardia sp. EC080625-04
+path:psee00362	Benzoate degradation - Pseudonocardia sp. EC080625-04
+path:psee00364	Fluorobenzoate degradation - Pseudonocardia sp. EC080625-04
+path:psee00380	Tryptophan metabolism - Pseudonocardia sp. EC080625-04
+path:psee00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Pseudonocardia sp. EC080625-04
+path:psee00401	Novobiocin biosynthesis - Pseudonocardia sp. EC080625-04
+path:psee00405	Phenazine biosynthesis - Pseudonocardia sp. EC080625-04
+path:psee00410	beta-Alanine metabolism - Pseudonocardia sp. EC080625-04
+path:psee00430	Taurine and hypotaurine metabolism - Pseudonocardia sp. EC080625-04
+path:psee00440	Phosphonate and phosphinate metabolism - Pseudonocardia sp. EC080625-04
+path:psee00450	Selenocompound metabolism - Pseudonocardia sp. EC080625-04
+path:psee00460	Cyanoamino acid metabolism - Pseudonocardia sp. EC080625-04
+path:psee00471	D-Glutamine and D-glutamate metabolism - Pseudonocardia sp. EC080625-04
+path:psee00473	D-Alanine metabolism - Pseudonocardia sp. EC080625-04
+path:psee00480	Glutathione metabolism - Pseudonocardia sp. EC080625-04
+path:psee00500	Starch and sucrose metabolism - Pseudonocardia sp. EC080625-04
+path:psee00520	Amino sugar and nucleotide sugar metabolism - Pseudonocardia sp. EC080625-04
+path:psee00521	Streptomycin biosynthesis - Pseudonocardia sp. EC080625-04
+path:psee00523	Polyketide sugar unit biosynthesis - Pseudonocardia sp. EC080625-04
+path:psee00525	Acarbose and validamycin biosynthesis - Pseudonocardia sp. EC080625-04
+path:psee00550	Peptidoglycan biosynthesis - Pseudonocardia sp. EC080625-04
+path:psee00561	Glycerolipid metabolism - Pseudonocardia sp. EC080625-04
+path:psee00562	Inositol phosphate metabolism - Pseudonocardia sp. EC080625-04
+path:psee00564	Glycerophospholipid metabolism - Pseudonocardia sp. EC080625-04
+path:psee00592	alpha-Linolenic acid metabolism - Pseudonocardia sp. EC080625-04
+path:psee00620	Pyruvate metabolism - Pseudonocardia sp. EC080625-04
+path:psee00622	Xylene degradation - Pseudonocardia sp. EC080625-04
+path:psee00623	Toluene degradation - Pseudonocardia sp. EC080625-04
+path:psee00624	Polycyclic aromatic hydrocarbon degradation - Pseudonocardia sp. EC080625-04
+path:psee00625	Chloroalkane and chloroalkene degradation - Pseudonocardia sp. EC080625-04
+path:psee00626	Naphthalene degradation - Pseudonocardia sp. EC080625-04
+path:psee00627	Aminobenzoate degradation - Pseudonocardia sp. EC080625-04
+path:psee00630	Glyoxylate and dicarboxylate metabolism - Pseudonocardia sp. EC080625-04
+path:psee00640	Propanoate metabolism - Pseudonocardia sp. EC080625-04
+path:psee00643	Styrene degradation - Pseudonocardia sp. EC080625-04
+path:psee00650	Butanoate metabolism - Pseudonocardia sp. EC080625-04
+path:psee00660	C5-Branched dibasic acid metabolism - Pseudonocardia sp. EC080625-04
+path:psee00670	One carbon pool by folate - Pseudonocardia sp. EC080625-04
+path:psee00680	Methane metabolism - Pseudonocardia sp. EC080625-04
+path:psee00710	Carbon fixation in photosynthetic organisms - Pseudonocardia sp. EC080625-04
+path:psee00730	Thiamine metabolism - Pseudonocardia sp. EC080625-04
+path:psee00740	Riboflavin metabolism - Pseudonocardia sp. EC080625-04
+path:psee00750	Vitamin B6 metabolism - Pseudonocardia sp. EC080625-04
+path:psee00760	Nicotinate and nicotinamide metabolism - Pseudonocardia sp. EC080625-04
+path:psee00770	Pantothenate and CoA biosynthesis - Pseudonocardia sp. EC080625-04
+path:psee00780	Biotin metabolism - Pseudonocardia sp. EC080625-04
+path:psee00785	Lipoic acid metabolism - Pseudonocardia sp. EC080625-04
+path:psee00790	Folate biosynthesis - Pseudonocardia sp. EC080625-04
+path:psee00791	Atrazine degradation - Pseudonocardia sp. EC080625-04
+path:psee00860	Porphyrin and chlorophyll metabolism - Pseudonocardia sp. EC080625-04
+path:psee00900	Terpenoid backbone biosynthesis - Pseudonocardia sp. EC080625-04
+path:psee00903	Limonene and pinene degradation - Pseudonocardia sp. EC080625-04
+path:psee00906	Carotenoid biosynthesis - Pseudonocardia sp. EC080625-04
+path:psee00910	Nitrogen metabolism - Pseudonocardia sp. EC080625-04
+path:psee00920	Sulfur metabolism - Pseudonocardia sp. EC080625-04
+path:psee00930	Caprolactam degradation - Pseudonocardia sp. EC080625-04
+path:psee00970	Aminoacyl-tRNA biosynthesis - Pseudonocardia sp. EC080625-04
+path:psee00984	Steroid degradation - Pseudonocardia sp. EC080625-04
+path:psee01040	Biosynthesis of unsaturated fatty acids - Pseudonocardia sp. EC080625-04
+path:psee01053	Biosynthesis of siderophore group nonribosomal peptides - Pseudonocardia sp. EC080625-04
+path:psee01100	Metabolic pathways - Pseudonocardia sp. EC080625-04
+path:psee01110	Biosynthesis of secondary metabolites - Pseudonocardia sp. EC080625-04
+path:psee01120	Microbial metabolism in diverse environments - Pseudonocardia sp. EC080625-04
+path:psee01130	Biosynthesis of antibiotics - Pseudonocardia sp. EC080625-04
+path:psee01200	Carbon metabolism - Pseudonocardia sp. EC080625-04
+path:psee01210	2-Oxocarboxylic acid metabolism - Pseudonocardia sp. EC080625-04
+path:psee01212	Fatty acid metabolism - Pseudonocardia sp. EC080625-04
+path:psee01220	Degradation of aromatic compounds - Pseudonocardia sp. EC080625-04
+path:psee01230	Biosynthesis of amino acids - Pseudonocardia sp. EC080625-04
+path:psee01501	beta-Lactam resistance - Pseudonocardia sp. EC080625-04
+path:psee01502	Vancomycin resistance - Pseudonocardia sp. EC080625-04
+path:psee01503	Cationic antimicrobial peptide (CAMP) resistance - Pseudonocardia sp. EC080625-04
+path:psee02010	ABC transporters - Pseudonocardia sp. EC080625-04
+path:psee02020	Two-component system - Pseudonocardia sp. EC080625-04
+path:psee02024	Quorum sensing - Pseudonocardia sp. EC080625-04
+path:psee02030	Bacterial chemotaxis - Pseudonocardia sp. EC080625-04
+path:psee02060	Phosphotransferase system (PTS) - Pseudonocardia sp. EC080625-04
+path:psee03010	Ribosome - Pseudonocardia sp. EC080625-04
+path:psee03018	RNA degradation - Pseudonocardia sp. EC080625-04
+path:psee03020	RNA polymerase - Pseudonocardia sp. EC080625-04
+path:psee03030	DNA replication - Pseudonocardia sp. EC080625-04
+path:psee03050	Proteasome - Pseudonocardia sp. EC080625-04
+path:psee03060	Protein export - Pseudonocardia sp. EC080625-04
+path:psee03070	Bacterial secretion system - Pseudonocardia sp. EC080625-04
+path:psee03410	Base excision repair - Pseudonocardia sp. EC080625-04
+path:psee03420	Nucleotide excision repair - Pseudonocardia sp. EC080625-04
+path:psee03430	Mismatch repair - Pseudonocardia sp. EC080625-04
+path:psee03440	Homologous recombination - Pseudonocardia sp. EC080625-04
+path:psee03450	Non-homologous end-joining - Pseudonocardia sp. EC080625-04
+path:psee04122	Sulfur relay system - Pseudonocardia sp. EC080625-04
+path:psee04933	AGE-RAGE signaling pathway in diabetic complications - Pseudonocardia sp. EC080625-04
+path:pseh00010	Glycolysis / Gluconeogenesis - Pseudonocardia sp. HH130629-09
+path:pseh00020	Citrate cycle (TCA cycle) - Pseudonocardia sp. HH130629-09
+path:pseh00030	Pentose phosphate pathway - Pseudonocardia sp. HH130629-09
+path:pseh00040	Pentose and glucuronate interconversions - Pseudonocardia sp. HH130629-09
+path:pseh00051	Fructose and mannose metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00052	Galactose metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00053	Ascorbate and aldarate metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00061	Fatty acid biosynthesis - Pseudonocardia sp. HH130629-09
+path:pseh00071	Fatty acid degradation - Pseudonocardia sp. HH130629-09
+path:pseh00072	Synthesis and degradation of ketone bodies - Pseudonocardia sp. HH130629-09
+path:pseh00121	Secondary bile acid biosynthesis - Pseudonocardia sp. HH130629-09
+path:pseh00130	Ubiquinone and other terpenoid-quinone biosynthesis - Pseudonocardia sp. HH130629-09
+path:pseh00190	Oxidative phosphorylation - Pseudonocardia sp. HH130629-09
+path:pseh00220	Arginine biosynthesis - Pseudonocardia sp. HH130629-09
+path:pseh00230	Purine metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00240	Pyrimidine metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00250	Alanine, aspartate and glutamate metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00260	Glycine, serine and threonine metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00261	Monobactam biosynthesis - Pseudonocardia sp. HH130629-09
+path:pseh00270	Cysteine and methionine metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00280	Valine, leucine and isoleucine degradation - Pseudonocardia sp. HH130629-09
+path:pseh00281	Geraniol degradation - Pseudonocardia sp. HH130629-09
+path:pseh00290	Valine, leucine and isoleucine biosynthesis - Pseudonocardia sp. HH130629-09
+path:pseh00300	Lysine biosynthesis - Pseudonocardia sp. HH130629-09
+path:pseh00310	Lysine degradation - Pseudonocardia sp. HH130629-09
+path:pseh00330	Arginine and proline metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00340	Histidine metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00350	Tyrosine metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00360	Phenylalanine metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00361	Chlorocyclohexane and chlorobenzene degradation - Pseudonocardia sp. HH130629-09
+path:pseh00362	Benzoate degradation - Pseudonocardia sp. HH130629-09
+path:pseh00364	Fluorobenzoate degradation - Pseudonocardia sp. HH130629-09
+path:pseh00380	Tryptophan metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Pseudonocardia sp. HH130629-09
+path:pseh00401	Novobiocin biosynthesis - Pseudonocardia sp. HH130629-09
+path:pseh00405	Phenazine biosynthesis - Pseudonocardia sp. HH130629-09
+path:pseh00410	beta-Alanine metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00430	Taurine and hypotaurine metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00440	Phosphonate and phosphinate metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00450	Selenocompound metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00460	Cyanoamino acid metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00471	D-Glutamine and D-glutamate metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00473	D-Alanine metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00480	Glutathione metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00500	Starch and sucrose metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00520	Amino sugar and nucleotide sugar metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00521	Streptomycin biosynthesis - Pseudonocardia sp. HH130629-09
+path:pseh00523	Polyketide sugar unit biosynthesis - Pseudonocardia sp. HH130629-09
+path:pseh00525	Acarbose and validamycin biosynthesis - Pseudonocardia sp. HH130629-09
+path:pseh00550	Peptidoglycan biosynthesis - Pseudonocardia sp. HH130629-09
+path:pseh00561	Glycerolipid metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00562	Inositol phosphate metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00564	Glycerophospholipid metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00592	alpha-Linolenic acid metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00620	Pyruvate metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00622	Xylene degradation - Pseudonocardia sp. HH130629-09
+path:pseh00623	Toluene degradation - Pseudonocardia sp. HH130629-09
+path:pseh00624	Polycyclic aromatic hydrocarbon degradation - Pseudonocardia sp. HH130629-09
+path:pseh00625	Chloroalkane and chloroalkene degradation - Pseudonocardia sp. HH130629-09
+path:pseh00626	Naphthalene degradation - Pseudonocardia sp. HH130629-09
+path:pseh00627	Aminobenzoate degradation - Pseudonocardia sp. HH130629-09
+path:pseh00630	Glyoxylate and dicarboxylate metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00640	Propanoate metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00643	Styrene degradation - Pseudonocardia sp. HH130629-09
+path:pseh00650	Butanoate metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00660	C5-Branched dibasic acid metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00670	One carbon pool by folate - Pseudonocardia sp. HH130629-09
+path:pseh00680	Methane metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00710	Carbon fixation in photosynthetic organisms - Pseudonocardia sp. HH130629-09
+path:pseh00730	Thiamine metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00740	Riboflavin metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00750	Vitamin B6 metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00760	Nicotinate and nicotinamide metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00770	Pantothenate and CoA biosynthesis - Pseudonocardia sp. HH130629-09
+path:pseh00780	Biotin metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00785	Lipoic acid metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00790	Folate biosynthesis - Pseudonocardia sp. HH130629-09
+path:pseh00791	Atrazine degradation - Pseudonocardia sp. HH130629-09
+path:pseh00860	Porphyrin and chlorophyll metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00900	Terpenoid backbone biosynthesis - Pseudonocardia sp. HH130629-09
+path:pseh00903	Limonene and pinene degradation - Pseudonocardia sp. HH130629-09
+path:pseh00906	Carotenoid biosynthesis - Pseudonocardia sp. HH130629-09
+path:pseh00909	Sesquiterpenoid and triterpenoid biosynthesis - Pseudonocardia sp. HH130629-09
+path:pseh00910	Nitrogen metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00920	Sulfur metabolism - Pseudonocardia sp. HH130629-09
+path:pseh00930	Caprolactam degradation - Pseudonocardia sp. HH130629-09
+path:pseh00970	Aminoacyl-tRNA biosynthesis - Pseudonocardia sp. HH130629-09
+path:pseh00984	Steroid degradation - Pseudonocardia sp. HH130629-09
+path:pseh01040	Biosynthesis of unsaturated fatty acids - Pseudonocardia sp. HH130629-09
+path:pseh01052	Type I polyketide structures - Pseudonocardia sp. HH130629-09
+path:pseh01053	Biosynthesis of siderophore group nonribosomal peptides - Pseudonocardia sp. HH130629-09
+path:pseh01055	Biosynthesis of vancomycin group antibiotics - Pseudonocardia sp. HH130629-09
+path:pseh01057	Biosynthesis of type II polyketide products - Pseudonocardia sp. HH130629-09
+path:pseh01100	Metabolic pathways - Pseudonocardia sp. HH130629-09
+path:pseh01110	Biosynthesis of secondary metabolites - Pseudonocardia sp. HH130629-09
+path:pseh01120	Microbial metabolism in diverse environments - Pseudonocardia sp. HH130629-09
+path:pseh01130	Biosynthesis of antibiotics - Pseudonocardia sp. HH130629-09
+path:pseh01200	Carbon metabolism - Pseudonocardia sp. HH130629-09
+path:pseh01210	2-Oxocarboxylic acid metabolism - Pseudonocardia sp. HH130629-09
+path:pseh01212	Fatty acid metabolism - Pseudonocardia sp. HH130629-09
+path:pseh01220	Degradation of aromatic compounds - Pseudonocardia sp. HH130629-09
+path:pseh01230	Biosynthesis of amino acids - Pseudonocardia sp. HH130629-09
+path:pseh01501	beta-Lactam resistance - Pseudonocardia sp. HH130629-09
+path:pseh01502	Vancomycin resistance - Pseudonocardia sp. HH130629-09
+path:pseh01503	Cationic antimicrobial peptide (CAMP) resistance - Pseudonocardia sp. HH130629-09
+path:pseh02010	ABC transporters - Pseudonocardia sp. HH130629-09
+path:pseh02020	Two-component system - Pseudonocardia sp. HH130629-09
+path:pseh02024	Quorum sensing - Pseudonocardia sp. HH130629-09
+path:pseh02060	Phosphotransferase system (PTS) - Pseudonocardia sp. HH130629-09
+path:pseh03010	Ribosome - Pseudonocardia sp. HH130629-09
+path:pseh03018	RNA degradation - Pseudonocardia sp. HH130629-09
+path:pseh03020	RNA polymerase - Pseudonocardia sp. HH130629-09
+path:pseh03030	DNA replication - Pseudonocardia sp. HH130629-09
+path:pseh03050	Proteasome - Pseudonocardia sp. HH130629-09
+path:pseh03060	Protein export - Pseudonocardia sp. HH130629-09
+path:pseh03070	Bacterial secretion system - Pseudonocardia sp. HH130629-09
+path:pseh03410	Base excision repair - Pseudonocardia sp. HH130629-09
+path:pseh03420	Nucleotide excision repair - Pseudonocardia sp. HH130629-09
+path:pseh03430	Mismatch repair - Pseudonocardia sp. HH130629-09
+path:pseh03440	Homologous recombination - Pseudonocardia sp. HH130629-09
+path:pseh03450	Non-homologous end-joining - Pseudonocardia sp. HH130629-09
+path:pseh04122	Sulfur relay system - Pseudonocardia sp. HH130629-09
+path:pseq00010	Glycolysis / Gluconeogenesis - Pseudonocardia sp. EC080610-09
+path:pseq00020	Citrate cycle (TCA cycle) - Pseudonocardia sp. EC080610-09
+path:pseq00030	Pentose phosphate pathway - Pseudonocardia sp. EC080610-09
+path:pseq00040	Pentose and glucuronate interconversions - Pseudonocardia sp. EC080610-09
+path:pseq00051	Fructose and mannose metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00052	Galactose metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00053	Ascorbate and aldarate metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00061	Fatty acid biosynthesis - Pseudonocardia sp. EC080610-09
+path:pseq00071	Fatty acid degradation - Pseudonocardia sp. EC080610-09
+path:pseq00072	Synthesis and degradation of ketone bodies - Pseudonocardia sp. EC080610-09
+path:pseq00121	Secondary bile acid biosynthesis - Pseudonocardia sp. EC080610-09
+path:pseq00130	Ubiquinone and other terpenoid-quinone biosynthesis - Pseudonocardia sp. EC080610-09
+path:pseq00190	Oxidative phosphorylation - Pseudonocardia sp. EC080610-09
+path:pseq00220	Arginine biosynthesis - Pseudonocardia sp. EC080610-09
+path:pseq00230	Purine metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00232	Caffeine metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00240	Pyrimidine metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00250	Alanine, aspartate and glutamate metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00253	Tetracycline biosynthesis - Pseudonocardia sp. EC080610-09
+path:pseq00260	Glycine, serine and threonine metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00261	Monobactam biosynthesis - Pseudonocardia sp. EC080610-09
+path:pseq00270	Cysteine and methionine metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00280	Valine, leucine and isoleucine degradation - Pseudonocardia sp. EC080610-09
+path:pseq00281	Geraniol degradation - Pseudonocardia sp. EC080610-09
+path:pseq00290	Valine, leucine and isoleucine biosynthesis - Pseudonocardia sp. EC080610-09
+path:pseq00300	Lysine biosynthesis - Pseudonocardia sp. EC080610-09
+path:pseq00310	Lysine degradation - Pseudonocardia sp. EC080610-09
+path:pseq00311	Penicillin and cephalosporin biosynthesis - Pseudonocardia sp. EC080610-09
+path:pseq00330	Arginine and proline metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00332	Carbapenem biosynthesis - Pseudonocardia sp. EC080610-09
+path:pseq00340	Histidine metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00350	Tyrosine metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00360	Phenylalanine metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00361	Chlorocyclohexane and chlorobenzene degradation - Pseudonocardia sp. EC080610-09
+path:pseq00362	Benzoate degradation - Pseudonocardia sp. EC080610-09
+path:pseq00364	Fluorobenzoate degradation - Pseudonocardia sp. EC080610-09
+path:pseq00380	Tryptophan metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Pseudonocardia sp. EC080610-09
+path:pseq00401	Novobiocin biosynthesis - Pseudonocardia sp. EC080610-09
+path:pseq00404	Staurosporine biosynthesis - Pseudonocardia sp. EC080610-09
+path:pseq00405	Phenazine biosynthesis - Pseudonocardia sp. EC080610-09
+path:pseq00410	beta-Alanine metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00430	Taurine and hypotaurine metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00440	Phosphonate and phosphinate metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00450	Selenocompound metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00460	Cyanoamino acid metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00471	D-Glutamine and D-glutamate metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00473	D-Alanine metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00480	Glutathione metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00500	Starch and sucrose metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00520	Amino sugar and nucleotide sugar metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00521	Streptomycin biosynthesis - Pseudonocardia sp. EC080610-09
+path:pseq00523	Polyketide sugar unit biosynthesis - Pseudonocardia sp. EC080610-09
+path:pseq00525	Acarbose and validamycin biosynthesis - Pseudonocardia sp. EC080610-09
+path:pseq00550	Peptidoglycan biosynthesis - Pseudonocardia sp. EC080610-09
+path:pseq00561	Glycerolipid metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00562	Inositol phosphate metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00564	Glycerophospholipid metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00592	alpha-Linolenic acid metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00620	Pyruvate metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00621	Dioxin degradation - Pseudonocardia sp. EC080610-09
+path:pseq00622	Xylene degradation - Pseudonocardia sp. EC080610-09
+path:pseq00623	Toluene degradation - Pseudonocardia sp. EC080610-09
+path:pseq00624	Polycyclic aromatic hydrocarbon degradation - Pseudonocardia sp. EC080610-09
+path:pseq00625	Chloroalkane and chloroalkene degradation - Pseudonocardia sp. EC080610-09
+path:pseq00626	Naphthalene degradation - Pseudonocardia sp. EC080610-09
+path:pseq00627	Aminobenzoate degradation - Pseudonocardia sp. EC080610-09
+path:pseq00630	Glyoxylate and dicarboxylate metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00640	Propanoate metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00643	Styrene degradation - Pseudonocardia sp. EC080610-09
+path:pseq00650	Butanoate metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00660	C5-Branched dibasic acid metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00670	One carbon pool by folate - Pseudonocardia sp. EC080610-09
+path:pseq00680	Methane metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00710	Carbon fixation in photosynthetic organisms - Pseudonocardia sp. EC080610-09
+path:pseq00730	Thiamine metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00740	Riboflavin metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00750	Vitamin B6 metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00760	Nicotinate and nicotinamide metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00770	Pantothenate and CoA biosynthesis - Pseudonocardia sp. EC080610-09
+path:pseq00780	Biotin metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00785	Lipoic acid metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00790	Folate biosynthesis - Pseudonocardia sp. EC080610-09
+path:pseq00791	Atrazine degradation - Pseudonocardia sp. EC080610-09
+path:pseq00860	Porphyrin and chlorophyll metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00900	Terpenoid backbone biosynthesis - Pseudonocardia sp. EC080610-09
+path:pseq00903	Limonene and pinene degradation - Pseudonocardia sp. EC080610-09
+path:pseq00906	Carotenoid biosynthesis - Pseudonocardia sp. EC080610-09
+path:pseq00910	Nitrogen metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00920	Sulfur metabolism - Pseudonocardia sp. EC080610-09
+path:pseq00930	Caprolactam degradation - Pseudonocardia sp. EC080610-09
+path:pseq00970	Aminoacyl-tRNA biosynthesis - Pseudonocardia sp. EC080610-09
+path:pseq00984	Steroid degradation - Pseudonocardia sp. EC080610-09
+path:pseq01040	Biosynthesis of unsaturated fatty acids - Pseudonocardia sp. EC080610-09
+path:pseq01052	Type I polyketide structures - Pseudonocardia sp. EC080610-09
+path:pseq01053	Biosynthesis of siderophore group nonribosomal peptides - Pseudonocardia sp. EC080610-09
+path:pseq01055	Biosynthesis of vancomycin group antibiotics - Pseudonocardia sp. EC080610-09
+path:pseq01056	Biosynthesis of type II polyketide backbone - Pseudonocardia sp. EC080610-09
+path:pseq01057	Biosynthesis of type II polyketide products - Pseudonocardia sp. EC080610-09
+path:pseq01100	Metabolic pathways - Pseudonocardia sp. EC080610-09
+path:pseq01110	Biosynthesis of secondary metabolites - Pseudonocardia sp. EC080610-09
+path:pseq01120	Microbial metabolism in diverse environments - Pseudonocardia sp. EC080610-09
+path:pseq01130	Biosynthesis of antibiotics - Pseudonocardia sp. EC080610-09
+path:pseq01200	Carbon metabolism - Pseudonocardia sp. EC080610-09
+path:pseq01210	2-Oxocarboxylic acid metabolism - Pseudonocardia sp. EC080610-09
+path:pseq01212	Fatty acid metabolism - Pseudonocardia sp. EC080610-09
+path:pseq01220	Degradation of aromatic compounds - Pseudonocardia sp. EC080610-09
+path:pseq01230	Biosynthesis of amino acids - Pseudonocardia sp. EC080610-09
+path:pseq01501	beta-Lactam resistance - Pseudonocardia sp. EC080610-09
+path:pseq01502	Vancomycin resistance - Pseudonocardia sp. EC080610-09
+path:pseq01503	Cationic antimicrobial peptide (CAMP) resistance - Pseudonocardia sp. EC080610-09
+path:pseq02010	ABC transporters - Pseudonocardia sp. EC080610-09
+path:pseq02020	Two-component system - Pseudonocardia sp. EC080610-09
+path:pseq02024	Quorum sensing - Pseudonocardia sp. EC080610-09
+path:pseq02030	Bacterial chemotaxis - Pseudonocardia sp. EC080610-09
+path:pseq02060	Phosphotransferase system (PTS) - Pseudonocardia sp. EC080610-09
+path:pseq03010	Ribosome - Pseudonocardia sp. EC080610-09
+path:pseq03018	RNA degradation - Pseudonocardia sp. EC080610-09
+path:pseq03020	RNA polymerase - Pseudonocardia sp. EC080610-09
+path:pseq03030	DNA replication - Pseudonocardia sp. EC080610-09
+path:pseq03050	Proteasome - Pseudonocardia sp. EC080610-09
+path:pseq03060	Protein export - Pseudonocardia sp. EC080610-09
+path:pseq03070	Bacterial secretion system - Pseudonocardia sp. EC080610-09
+path:pseq03410	Base excision repair - Pseudonocardia sp. EC080610-09
+path:pseq03420	Nucleotide excision repair - Pseudonocardia sp. EC080610-09
+path:pseq03430	Mismatch repair - Pseudonocardia sp. EC080610-09
+path:pseq03440	Homologous recombination - Pseudonocardia sp. EC080610-09
+path:pseq03450	Non-homologous end-joining - Pseudonocardia sp. EC080610-09
+path:pseq04122	Sulfur relay system - Pseudonocardia sp. EC080610-09
+path:pseq04933	AGE-RAGE signaling pathway in diabetic complications - Pseudonocardia sp. EC080610-09
+path:pecq00010	Glycolysis / Gluconeogenesis - Pseudonocardia sp EC080619-01
+path:pecq00020	Citrate cycle (TCA cycle) - Pseudonocardia sp EC080619-01
+path:pecq00030	Pentose phosphate pathway - Pseudonocardia sp EC080619-01
+path:pecq00040	Pentose and glucuronate interconversions - Pseudonocardia sp EC080619-01
+path:pecq00051	Fructose and mannose metabolism - Pseudonocardia sp EC080619-01
+path:pecq00052	Galactose metabolism - Pseudonocardia sp EC080619-01
+path:pecq00053	Ascorbate and aldarate metabolism - Pseudonocardia sp EC080619-01
+path:pecq00061	Fatty acid biosynthesis - Pseudonocardia sp EC080619-01
+path:pecq00071	Fatty acid degradation - Pseudonocardia sp EC080619-01
+path:pecq00072	Synthesis and degradation of ketone bodies - Pseudonocardia sp EC080619-01
+path:pecq00121	Secondary bile acid biosynthesis - Pseudonocardia sp EC080619-01
+path:pecq00130	Ubiquinone and other terpenoid-quinone biosynthesis - Pseudonocardia sp EC080619-01
+path:pecq00190	Oxidative phosphorylation - Pseudonocardia sp EC080619-01
+path:pecq00220	Arginine biosynthesis - Pseudonocardia sp EC080619-01
+path:pecq00230	Purine metabolism - Pseudonocardia sp EC080619-01
+path:pecq00232	Caffeine metabolism - Pseudonocardia sp EC080619-01
+path:pecq00240	Pyrimidine metabolism - Pseudonocardia sp EC080619-01
+path:pecq00250	Alanine, aspartate and glutamate metabolism - Pseudonocardia sp EC080619-01
+path:pecq00253	Tetracycline biosynthesis - Pseudonocardia sp EC080619-01
+path:pecq00260	Glycine, serine and threonine metabolism - Pseudonocardia sp EC080619-01
+path:pecq00261	Monobactam biosynthesis - Pseudonocardia sp EC080619-01
+path:pecq00270	Cysteine and methionine metabolism - Pseudonocardia sp EC080619-01
+path:pecq00280	Valine, leucine and isoleucine degradation - Pseudonocardia sp EC080619-01
+path:pecq00281	Geraniol degradation - Pseudonocardia sp EC080619-01
+path:pecq00290	Valine, leucine and isoleucine biosynthesis - Pseudonocardia sp EC080619-01
+path:pecq00300	Lysine biosynthesis - Pseudonocardia sp EC080619-01
+path:pecq00310	Lysine degradation - Pseudonocardia sp EC080619-01
+path:pecq00311	Penicillin and cephalosporin biosynthesis - Pseudonocardia sp EC080619-01
+path:pecq00330	Arginine and proline metabolism - Pseudonocardia sp EC080619-01
+path:pecq00332	Carbapenem biosynthesis - Pseudonocardia sp EC080619-01
+path:pecq00340	Histidine metabolism - Pseudonocardia sp EC080619-01
+path:pecq00350	Tyrosine metabolism - Pseudonocardia sp EC080619-01
+path:pecq00360	Phenylalanine metabolism - Pseudonocardia sp EC080619-01
+path:pecq00361	Chlorocyclohexane and chlorobenzene degradation - Pseudonocardia sp EC080619-01
+path:pecq00362	Benzoate degradation - Pseudonocardia sp EC080619-01
+path:pecq00364	Fluorobenzoate degradation - Pseudonocardia sp EC080619-01
+path:pecq00380	Tryptophan metabolism - Pseudonocardia sp EC080619-01
+path:pecq00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Pseudonocardia sp EC080619-01
+path:pecq00401	Novobiocin biosynthesis - Pseudonocardia sp EC080619-01
+path:pecq00405	Phenazine biosynthesis - Pseudonocardia sp EC080619-01
+path:pecq00410	beta-Alanine metabolism - Pseudonocardia sp EC080619-01
+path:pecq00430	Taurine and hypotaurine metabolism - Pseudonocardia sp EC080619-01
+path:pecq00440	Phosphonate and phosphinate metabolism - Pseudonocardia sp EC080619-01
+path:pecq00450	Selenocompound metabolism - Pseudonocardia sp EC080619-01
+path:pecq00460	Cyanoamino acid metabolism - Pseudonocardia sp EC080619-01
+path:pecq00471	D-Glutamine and D-glutamate metabolism - Pseudonocardia sp EC080619-01
+path:pecq00473	D-Alanine metabolism - Pseudonocardia sp EC080619-01
+path:pecq00480	Glutathione metabolism - Pseudonocardia sp EC080619-01
+path:pecq00500	Starch and sucrose metabolism - Pseudonocardia sp EC080619-01
+path:pecq00520	Amino sugar and nucleotide sugar metabolism - Pseudonocardia sp EC080619-01
+path:pecq00521	Streptomycin biosynthesis - Pseudonocardia sp EC080619-01
+path:pecq00523	Polyketide sugar unit biosynthesis - Pseudonocardia sp EC080619-01
+path:pecq00525	Acarbose and validamycin biosynthesis - Pseudonocardia sp EC080619-01
+path:pecq00550	Peptidoglycan biosynthesis - Pseudonocardia sp EC080619-01
+path:pecq00561	Glycerolipid metabolism - Pseudonocardia sp EC080619-01
+path:pecq00562	Inositol phosphate metabolism - Pseudonocardia sp EC080619-01
+path:pecq00564	Glycerophospholipid metabolism - Pseudonocardia sp EC080619-01
+path:pecq00592	alpha-Linolenic acid metabolism - Pseudonocardia sp EC080619-01
+path:pecq00620	Pyruvate metabolism - Pseudonocardia sp EC080619-01
+path:pecq00621	Dioxin degradation - Pseudonocardia sp EC080619-01
+path:pecq00622	Xylene degradation - Pseudonocardia sp EC080619-01
+path:pecq00623	Toluene degradation - Pseudonocardia sp EC080619-01
+path:pecq00624	Polycyclic aromatic hydrocarbon degradation - Pseudonocardia sp EC080619-01
+path:pecq00625	Chloroalkane and chloroalkene degradation - Pseudonocardia sp EC080619-01
+path:pecq00626	Naphthalene degradation - Pseudonocardia sp EC080619-01
+path:pecq00627	Aminobenzoate degradation - Pseudonocardia sp EC080619-01
+path:pecq00630	Glyoxylate and dicarboxylate metabolism - Pseudonocardia sp EC080619-01
+path:pecq00640	Propanoate metabolism - Pseudonocardia sp EC080619-01
+path:pecq00643	Styrene degradation - Pseudonocardia sp EC080619-01
+path:pecq00650	Butanoate metabolism - Pseudonocardia sp EC080619-01
+path:pecq00660	C5-Branched dibasic acid metabolism - Pseudonocardia sp EC080619-01
+path:pecq00670	One carbon pool by folate - Pseudonocardia sp EC080619-01
+path:pecq00680	Methane metabolism - Pseudonocardia sp EC080619-01
+path:pecq00710	Carbon fixation in photosynthetic organisms - Pseudonocardia sp EC080619-01
+path:pecq00730	Thiamine metabolism - Pseudonocardia sp EC080619-01
+path:pecq00740	Riboflavin metabolism - Pseudonocardia sp EC080619-01
+path:pecq00750	Vitamin B6 metabolism - Pseudonocardia sp EC080619-01
+path:pecq00760	Nicotinate and nicotinamide metabolism - Pseudonocardia sp EC080619-01
+path:pecq00770	Pantothenate and CoA biosynthesis - Pseudonocardia sp EC080619-01
+path:pecq00780	Biotin metabolism - Pseudonocardia sp EC080619-01
+path:pecq00785	Lipoic acid metabolism - Pseudonocardia sp EC080619-01
+path:pecq00790	Folate biosynthesis - Pseudonocardia sp EC080619-01
+path:pecq00791	Atrazine degradation - Pseudonocardia sp EC080619-01
+path:pecq00860	Porphyrin and chlorophyll metabolism - Pseudonocardia sp EC080619-01
+path:pecq00900	Terpenoid backbone biosynthesis - Pseudonocardia sp EC080619-01
+path:pecq00903	Limonene and pinene degradation - Pseudonocardia sp EC080619-01
+path:pecq00906	Carotenoid biosynthesis - Pseudonocardia sp EC080619-01
+path:pecq00910	Nitrogen metabolism - Pseudonocardia sp EC080619-01
+path:pecq00920	Sulfur metabolism - Pseudonocardia sp EC080619-01
+path:pecq00930	Caprolactam degradation - Pseudonocardia sp EC080619-01
+path:pecq00970	Aminoacyl-tRNA biosynthesis - Pseudonocardia sp EC080619-01
+path:pecq00984	Steroid degradation - Pseudonocardia sp EC080619-01
+path:pecq01040	Biosynthesis of unsaturated fatty acids - Pseudonocardia sp EC080619-01
+path:pecq01052	Type I polyketide structures - Pseudonocardia sp EC080619-01
+path:pecq01053	Biosynthesis of siderophore group nonribosomal peptides - Pseudonocardia sp EC080619-01
+path:pecq01055	Biosynthesis of vancomycin group antibiotics - Pseudonocardia sp EC080619-01
+path:pecq01056	Biosynthesis of type II polyketide backbone - Pseudonocardia sp EC080619-01
+path:pecq01100	Metabolic pathways - Pseudonocardia sp EC080619-01
+path:pecq01110	Biosynthesis of secondary metabolites - Pseudonocardia sp EC080619-01
+path:pecq01120	Microbial metabolism in diverse environments - Pseudonocardia sp EC080619-01
+path:pecq01130	Biosynthesis of antibiotics - Pseudonocardia sp EC080619-01
+path:pecq01200	Carbon metabolism - Pseudonocardia sp EC080619-01
+path:pecq01210	2-Oxocarboxylic acid metabolism - Pseudonocardia sp EC080619-01
+path:pecq01212	Fatty acid metabolism - Pseudonocardia sp EC080619-01
+path:pecq01220	Degradation of aromatic compounds - Pseudonocardia sp EC080619-01
+path:pecq01230	Biosynthesis of amino acids - Pseudonocardia sp EC080619-01
+path:pecq01501	beta-Lactam resistance - Pseudonocardia sp EC080619-01
+path:pecq01502	Vancomycin resistance - Pseudonocardia sp EC080619-01
+path:pecq01503	Cationic antimicrobial peptide (CAMP) resistance - Pseudonocardia sp EC080619-01
+path:pecq02010	ABC transporters - Pseudonocardia sp EC080619-01
+path:pecq02020	Two-component system - Pseudonocardia sp EC080619-01
+path:pecq02024	Quorum sensing - Pseudonocardia sp EC080619-01
+path:pecq02030	Bacterial chemotaxis - Pseudonocardia sp EC080619-01
+path:pecq02060	Phosphotransferase system (PTS) - Pseudonocardia sp EC080619-01
+path:pecq03010	Ribosome - Pseudonocardia sp EC080619-01
+path:pecq03018	RNA degradation - Pseudonocardia sp EC080619-01
+path:pecq03020	RNA polymerase - Pseudonocardia sp EC080619-01
+path:pecq03030	DNA replication - Pseudonocardia sp EC080619-01
+path:pecq03050	Proteasome - Pseudonocardia sp EC080619-01
+path:pecq03060	Protein export - Pseudonocardia sp EC080619-01
+path:pecq03070	Bacterial secretion system - Pseudonocardia sp EC080619-01
+path:pecq03410	Base excision repair - Pseudonocardia sp EC080619-01
+path:pecq03420	Nucleotide excision repair - Pseudonocardia sp EC080619-01
+path:pecq03430	Mismatch repair - Pseudonocardia sp EC080619-01
+path:pecq03440	Homologous recombination - Pseudonocardia sp EC080619-01
+path:pecq03450	Non-homologous end-joining - Pseudonocardia sp EC080619-01
+path:pecq04122	Sulfur relay system - Pseudonocardia sp EC080619-01
+path:pecq04933	AGE-RAGE signaling pathway in diabetic complications - Pseudonocardia sp EC080619-01
+path:phh00010	Glycolysis / Gluconeogenesis - Pseudonocardia sp. HH130630-07
+path:phh00020	Citrate cycle (TCA cycle) - Pseudonocardia sp. HH130630-07
+path:phh00030	Pentose phosphate pathway - Pseudonocardia sp. HH130630-07
+path:phh00040	Pentose and glucuronate interconversions - Pseudonocardia sp. HH130630-07
+path:phh00051	Fructose and mannose metabolism - Pseudonocardia sp. HH130630-07
+path:phh00052	Galactose metabolism - Pseudonocardia sp. HH130630-07
+path:phh00053	Ascorbate and aldarate metabolism - Pseudonocardia sp. HH130630-07
+path:phh00061	Fatty acid biosynthesis - Pseudonocardia sp. HH130630-07
+path:phh00071	Fatty acid degradation - Pseudonocardia sp. HH130630-07
+path:phh00072	Synthesis and degradation of ketone bodies - Pseudonocardia sp. HH130630-07
+path:phh00130	Ubiquinone and other terpenoid-quinone biosynthesis - Pseudonocardia sp. HH130630-07
+path:phh00190	Oxidative phosphorylation - Pseudonocardia sp. HH130630-07
+path:phh00220	Arginine biosynthesis - Pseudonocardia sp. HH130630-07
+path:phh00230	Purine metabolism - Pseudonocardia sp. HH130630-07
+path:phh00240	Pyrimidine metabolism - Pseudonocardia sp. HH130630-07
+path:phh00250	Alanine, aspartate and glutamate metabolism - Pseudonocardia sp. HH130630-07
+path:phh00253	Tetracycline biosynthesis - Pseudonocardia sp. HH130630-07
+path:phh00260	Glycine, serine and threonine metabolism - Pseudonocardia sp. HH130630-07
+path:phh00261	Monobactam biosynthesis - Pseudonocardia sp. HH130630-07
+path:phh00270	Cysteine and methionine metabolism - Pseudonocardia sp. HH130630-07
+path:phh00280	Valine, leucine and isoleucine degradation - Pseudonocardia sp. HH130630-07
+path:phh00281	Geraniol degradation - Pseudonocardia sp. HH130630-07
+path:phh00290	Valine, leucine and isoleucine biosynthesis - Pseudonocardia sp. HH130630-07
+path:phh00300	Lysine biosynthesis - Pseudonocardia sp. HH130630-07
+path:phh00310	Lysine degradation - Pseudonocardia sp. HH130630-07
+path:phh00311	Penicillin and cephalosporin biosynthesis - Pseudonocardia sp. HH130630-07
+path:phh00330	Arginine and proline metabolism - Pseudonocardia sp. HH130630-07
+path:phh00332	Carbapenem biosynthesis - Pseudonocardia sp. HH130630-07
+path:phh00340	Histidine metabolism - Pseudonocardia sp. HH130630-07
+path:phh00350	Tyrosine metabolism - Pseudonocardia sp. HH130630-07
+path:phh00360	Phenylalanine metabolism - Pseudonocardia sp. HH130630-07
+path:phh00361	Chlorocyclohexane and chlorobenzene degradation - Pseudonocardia sp. HH130630-07
+path:phh00362	Benzoate degradation - Pseudonocardia sp. HH130630-07
+path:phh00364	Fluorobenzoate degradation - Pseudonocardia sp. HH130630-07
+path:phh00380	Tryptophan metabolism - Pseudonocardia sp. HH130630-07
+path:phh00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Pseudonocardia sp. HH130630-07
+path:phh00401	Novobiocin biosynthesis - Pseudonocardia sp. HH130630-07
+path:phh00405	Phenazine biosynthesis - Pseudonocardia sp. HH130630-07
+path:phh00410	beta-Alanine metabolism - Pseudonocardia sp. HH130630-07
+path:phh00430	Taurine and hypotaurine metabolism - Pseudonocardia sp. HH130630-07
+path:phh00440	Phosphonate and phosphinate metabolism - Pseudonocardia sp. HH130630-07
+path:phh00450	Selenocompound metabolism - Pseudonocardia sp. HH130630-07
+path:phh00460	Cyanoamino acid metabolism - Pseudonocardia sp. HH130630-07
+path:phh00471	D-Glutamine and D-glutamate metabolism - Pseudonocardia sp. HH130630-07
+path:phh00473	D-Alanine metabolism - Pseudonocardia sp. HH130630-07
+path:phh00480	Glutathione metabolism - Pseudonocardia sp. HH130630-07
+path:phh00500	Starch and sucrose metabolism - Pseudonocardia sp. HH130630-07
+path:phh00511	Other glycan degradation - Pseudonocardia sp. HH130630-07
+path:phh00520	Amino sugar and nucleotide sugar metabolism - Pseudonocardia sp. HH130630-07
+path:phh00521	Streptomycin biosynthesis - Pseudonocardia sp. HH130630-07
+path:phh00523	Polyketide sugar unit biosynthesis - Pseudonocardia sp. HH130630-07
+path:phh00525	Acarbose and validamycin biosynthesis - Pseudonocardia sp. HH130630-07
+path:phh00550	Peptidoglycan biosynthesis - Pseudonocardia sp. HH130630-07
+path:phh00561	Glycerolipid metabolism - Pseudonocardia sp. HH130630-07
+path:phh00562	Inositol phosphate metabolism - Pseudonocardia sp. HH130630-07
+path:phh00564	Glycerophospholipid metabolism - Pseudonocardia sp. HH130630-07
+path:phh00592	alpha-Linolenic acid metabolism - Pseudonocardia sp. HH130630-07
+path:phh00620	Pyruvate metabolism - Pseudonocardia sp. HH130630-07
+path:phh00621	Dioxin degradation - Pseudonocardia sp. HH130630-07
+path:phh00622	Xylene degradation - Pseudonocardia sp. HH130630-07
+path:phh00623	Toluene degradation - Pseudonocardia sp. HH130630-07
+path:phh00624	Polycyclic aromatic hydrocarbon degradation - Pseudonocardia sp. HH130630-07
+path:phh00625	Chloroalkane and chloroalkene degradation - Pseudonocardia sp. HH130630-07
+path:phh00626	Naphthalene degradation - Pseudonocardia sp. HH130630-07
+path:phh00627	Aminobenzoate degradation - Pseudonocardia sp. HH130630-07
+path:phh00630	Glyoxylate and dicarboxylate metabolism - Pseudonocardia sp. HH130630-07
+path:phh00640	Propanoate metabolism - Pseudonocardia sp. HH130630-07
+path:phh00643	Styrene degradation - Pseudonocardia sp. HH130630-07
+path:phh00650	Butanoate metabolism - Pseudonocardia sp. HH130630-07
+path:phh00660	C5-Branched dibasic acid metabolism - Pseudonocardia sp. HH130630-07
+path:phh00670	One carbon pool by folate - Pseudonocardia sp. HH130630-07
+path:phh00680	Methane metabolism - Pseudonocardia sp. HH130630-07
+path:phh00710	Carbon fixation in photosynthetic organisms - Pseudonocardia sp. HH130630-07
+path:phh00730	Thiamine metabolism - Pseudonocardia sp. HH130630-07
+path:phh00740	Riboflavin metabolism - Pseudonocardia sp. HH130630-07
+path:phh00750	Vitamin B6 metabolism - Pseudonocardia sp. HH130630-07
+path:phh00760	Nicotinate and nicotinamide metabolism - Pseudonocardia sp. HH130630-07
+path:phh00770	Pantothenate and CoA biosynthesis - Pseudonocardia sp. HH130630-07
+path:phh00780	Biotin metabolism - Pseudonocardia sp. HH130630-07
+path:phh00785	Lipoic acid metabolism - Pseudonocardia sp. HH130630-07
+path:phh00790	Folate biosynthesis - Pseudonocardia sp. HH130630-07
+path:phh00860	Porphyrin and chlorophyll metabolism - Pseudonocardia sp. HH130630-07
+path:phh00900	Terpenoid backbone biosynthesis - Pseudonocardia sp. HH130630-07
+path:phh00903	Limonene and pinene degradation - Pseudonocardia sp. HH130630-07
+path:phh00906	Carotenoid biosynthesis - Pseudonocardia sp. HH130630-07
+path:phh00909	Sesquiterpenoid and triterpenoid biosynthesis - Pseudonocardia sp. HH130630-07
+path:phh00910	Nitrogen metabolism - Pseudonocardia sp. HH130630-07
+path:phh00920	Sulfur metabolism - Pseudonocardia sp. HH130630-07
+path:phh00930	Caprolactam degradation - Pseudonocardia sp. HH130630-07
+path:phh00970	Aminoacyl-tRNA biosynthesis - Pseudonocardia sp. HH130630-07
+path:phh01040	Biosynthesis of unsaturated fatty acids - Pseudonocardia sp. HH130630-07
+path:phh01053	Biosynthesis of siderophore group nonribosomal peptides - Pseudonocardia sp. HH130630-07
+path:phh01055	Biosynthesis of vancomycin group antibiotics - Pseudonocardia sp. HH130630-07
+path:phh01056	Biosynthesis of type II polyketide backbone - Pseudonocardia sp. HH130630-07
+path:phh01100	Metabolic pathways - Pseudonocardia sp. HH130630-07
+path:phh01110	Biosynthesis of secondary metabolites - Pseudonocardia sp. HH130630-07
+path:phh01120	Microbial metabolism in diverse environments - Pseudonocardia sp. HH130630-07
+path:phh01130	Biosynthesis of antibiotics - Pseudonocardia sp. HH130630-07
+path:phh01200	Carbon metabolism - Pseudonocardia sp. HH130630-07
+path:phh01210	2-Oxocarboxylic acid metabolism - Pseudonocardia sp. HH130630-07
+path:phh01212	Fatty acid metabolism - Pseudonocardia sp. HH130630-07
+path:phh01220	Degradation of aromatic compounds - Pseudonocardia sp. HH130630-07
+path:phh01230	Biosynthesis of amino acids - Pseudonocardia sp. HH130630-07
+path:phh01501	beta-Lactam resistance - Pseudonocardia sp. HH130630-07
+path:phh01502	Vancomycin resistance - Pseudonocardia sp. HH130630-07
+path:phh01503	Cationic antimicrobial peptide (CAMP) resistance - Pseudonocardia sp. HH130630-07
+path:phh02010	ABC transporters - Pseudonocardia sp. HH130630-07
+path:phh02020	Two-component system - Pseudonocardia sp. HH130630-07
+path:phh02024	Quorum sensing - Pseudonocardia sp. HH130630-07
+path:phh02060	Phosphotransferase system (PTS) - Pseudonocardia sp. HH130630-07
+path:phh03010	Ribosome - Pseudonocardia sp. HH130630-07
+path:phh03018	RNA degradation - Pseudonocardia sp. HH130630-07
+path:phh03020	RNA polymerase - Pseudonocardia sp. HH130630-07
+path:phh03030	DNA replication - Pseudonocardia sp. HH130630-07
+path:phh03050	Proteasome - Pseudonocardia sp. HH130630-07
+path:phh03060	Protein export - Pseudonocardia sp. HH130630-07
+path:phh03070	Bacterial secretion system - Pseudonocardia sp. HH130630-07
+path:phh03410	Base excision repair - Pseudonocardia sp. HH130630-07
+path:phh03420	Nucleotide excision repair - Pseudonocardia sp. HH130630-07
+path:phh03430	Mismatch repair - Pseudonocardia sp. HH130630-07
+path:phh03440	Homologous recombination - Pseudonocardia sp. HH130630-07
+path:phh03450	Non-homologous end-joining - Pseudonocardia sp. HH130630-07
+path:phh04122	Sulfur relay system - Pseudonocardia sp. HH130630-07
+path:phh04933	AGE-RAGE signaling pathway in diabetic complications - Pseudonocardia sp. HH130630-07

@@ -1,0 +1,711 @@
+path:dda00010	Glycolysis / Gluconeogenesis - Dickeya dadantii Ech703
+path:dda00020	Citrate cycle (TCA cycle) - Dickeya dadantii Ech703
+path:dda00030	Pentose phosphate pathway - Dickeya dadantii Ech703
+path:dda00040	Pentose and glucuronate interconversions - Dickeya dadantii Ech703
+path:dda00051	Fructose and mannose metabolism - Dickeya dadantii Ech703
+path:dda00052	Galactose metabolism - Dickeya dadantii Ech703
+path:dda00053	Ascorbate and aldarate metabolism - Dickeya dadantii Ech703
+path:dda00061	Fatty acid biosynthesis - Dickeya dadantii Ech703
+path:dda00071	Fatty acid degradation - Dickeya dadantii Ech703
+path:dda00072	Synthesis and degradation of ketone bodies - Dickeya dadantii Ech703
+path:dda00130	Ubiquinone and other terpenoid-quinone biosynthesis - Dickeya dadantii Ech703
+path:dda00190	Oxidative phosphorylation - Dickeya dadantii Ech703
+path:dda00220	Arginine biosynthesis - Dickeya dadantii Ech703
+path:dda00230	Purine metabolism - Dickeya dadantii Ech703
+path:dda00240	Pyrimidine metabolism - Dickeya dadantii Ech703
+path:dda00250	Alanine, aspartate and glutamate metabolism - Dickeya dadantii Ech703
+path:dda00260	Glycine, serine and threonine metabolism - Dickeya dadantii Ech703
+path:dda00261	Monobactam biosynthesis - Dickeya dadantii Ech703
+path:dda00270	Cysteine and methionine metabolism - Dickeya dadantii Ech703
+path:dda00280	Valine, leucine and isoleucine degradation - Dickeya dadantii Ech703
+path:dda00281	Geraniol degradation - Dickeya dadantii Ech703
+path:dda00290	Valine, leucine and isoleucine biosynthesis - Dickeya dadantii Ech703
+path:dda00300	Lysine biosynthesis - Dickeya dadantii Ech703
+path:dda00310	Lysine degradation - Dickeya dadantii Ech703
+path:dda00330	Arginine and proline metabolism - Dickeya dadantii Ech703
+path:dda00332	Carbapenem biosynthesis - Dickeya dadantii Ech703
+path:dda00340	Histidine metabolism - Dickeya dadantii Ech703
+path:dda00350	Tyrosine metabolism - Dickeya dadantii Ech703
+path:dda00360	Phenylalanine metabolism - Dickeya dadantii Ech703
+path:dda00361	Chlorocyclohexane and chlorobenzene degradation - Dickeya dadantii Ech703
+path:dda00362	Benzoate degradation - Dickeya dadantii Ech703
+path:dda00364	Fluorobenzoate degradation - Dickeya dadantii Ech703
+path:dda00380	Tryptophan metabolism - Dickeya dadantii Ech703
+path:dda00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Dickeya dadantii Ech703
+path:dda00401	Novobiocin biosynthesis - Dickeya dadantii Ech703
+path:dda00410	beta-Alanine metabolism - Dickeya dadantii Ech703
+path:dda00430	Taurine and hypotaurine metabolism - Dickeya dadantii Ech703
+path:dda00440	Phosphonate and phosphinate metabolism - Dickeya dadantii Ech703
+path:dda00450	Selenocompound metabolism - Dickeya dadantii Ech703
+path:dda00460	Cyanoamino acid metabolism - Dickeya dadantii Ech703
+path:dda00471	D-Glutamine and D-glutamate metabolism - Dickeya dadantii Ech703
+path:dda00472	D-Arginine and D-ornithine metabolism - Dickeya dadantii Ech703
+path:dda00473	D-Alanine metabolism - Dickeya dadantii Ech703
+path:dda00480	Glutathione metabolism - Dickeya dadantii Ech703
+path:dda00500	Starch and sucrose metabolism - Dickeya dadantii Ech703
+path:dda00511	Other glycan degradation - Dickeya dadantii Ech703
+path:dda00520	Amino sugar and nucleotide sugar metabolism - Dickeya dadantii Ech703
+path:dda00521	Streptomycin biosynthesis - Dickeya dadantii Ech703
+path:dda00523	Polyketide sugar unit biosynthesis - Dickeya dadantii Ech703
+path:dda00525	Acarbose and validamycin biosynthesis - Dickeya dadantii Ech703
+path:dda00540	Lipopolysaccharide biosynthesis - Dickeya dadantii Ech703
+path:dda00550	Peptidoglycan biosynthesis - Dickeya dadantii Ech703
+path:dda00561	Glycerolipid metabolism - Dickeya dadantii Ech703
+path:dda00562	Inositol phosphate metabolism - Dickeya dadantii Ech703
+path:dda00564	Glycerophospholipid metabolism - Dickeya dadantii Ech703
+path:dda00565	Ether lipid metabolism - Dickeya dadantii Ech703
+path:dda00590	Arachidonic acid metabolism - Dickeya dadantii Ech703
+path:dda00592	alpha-Linolenic acid metabolism - Dickeya dadantii Ech703
+path:dda00600	Sphingolipid metabolism - Dickeya dadantii Ech703
+path:dda00620	Pyruvate metabolism - Dickeya dadantii Ech703
+path:dda00623	Toluene degradation - Dickeya dadantii Ech703
+path:dda00625	Chloroalkane and chloroalkene degradation - Dickeya dadantii Ech703
+path:dda00626	Naphthalene degradation - Dickeya dadantii Ech703
+path:dda00627	Aminobenzoate degradation - Dickeya dadantii Ech703
+path:dda00630	Glyoxylate and dicarboxylate metabolism - Dickeya dadantii Ech703
+path:dda00633	Nitrotoluene degradation - Dickeya dadantii Ech703
+path:dda00640	Propanoate metabolism - Dickeya dadantii Ech703
+path:dda00650	Butanoate metabolism - Dickeya dadantii Ech703
+path:dda00660	C5-Branched dibasic acid metabolism - Dickeya dadantii Ech703
+path:dda00670	One carbon pool by folate - Dickeya dadantii Ech703
+path:dda00680	Methane metabolism - Dickeya dadantii Ech703
+path:dda00730	Thiamine metabolism - Dickeya dadantii Ech703
+path:dda00740	Riboflavin metabolism - Dickeya dadantii Ech703
+path:dda00750	Vitamin B6 metabolism - Dickeya dadantii Ech703
+path:dda00760	Nicotinate and nicotinamide metabolism - Dickeya dadantii Ech703
+path:dda00770	Pantothenate and CoA biosynthesis - Dickeya dadantii Ech703
+path:dda00780	Biotin metabolism - Dickeya dadantii Ech703
+path:dda00785	Lipoic acid metabolism - Dickeya dadantii Ech703
+path:dda00790	Folate biosynthesis - Dickeya dadantii Ech703
+path:dda00860	Porphyrin and chlorophyll metabolism - Dickeya dadantii Ech703
+path:dda00900	Terpenoid backbone biosynthesis - Dickeya dadantii Ech703
+path:dda00903	Limonene and pinene degradation - Dickeya dadantii Ech703
+path:dda00910	Nitrogen metabolism - Dickeya dadantii Ech703
+path:dda00920	Sulfur metabolism - Dickeya dadantii Ech703
+path:dda00930	Caprolactam degradation - Dickeya dadantii Ech703
+path:dda00970	Aminoacyl-tRNA biosynthesis - Dickeya dadantii Ech703
+path:dda01040	Biosynthesis of unsaturated fatty acids - Dickeya dadantii Ech703
+path:dda01053	Biosynthesis of siderophore group nonribosomal peptides - Dickeya dadantii Ech703
+path:dda01054	Nonribosomal peptide structures - Dickeya dadantii Ech703
+path:dda01055	Biosynthesis of vancomycin group antibiotics - Dickeya dadantii Ech703
+path:dda01100	Metabolic pathways - Dickeya dadantii Ech703
+path:dda01110	Biosynthesis of secondary metabolites - Dickeya dadantii Ech703
+path:dda01120	Microbial metabolism in diverse environments - Dickeya dadantii Ech703
+path:dda01130	Biosynthesis of antibiotics - Dickeya dadantii Ech703
+path:dda01200	Carbon metabolism - Dickeya dadantii Ech703
+path:dda01210	2-Oxocarboxylic acid metabolism - Dickeya dadantii Ech703
+path:dda01212	Fatty acid metabolism - Dickeya dadantii Ech703
+path:dda01220	Degradation of aromatic compounds - Dickeya dadantii Ech703
+path:dda01230	Biosynthesis of amino acids - Dickeya dadantii Ech703
+path:dda01501	beta-Lactam resistance - Dickeya dadantii Ech703
+path:dda01502	Vancomycin resistance - Dickeya dadantii Ech703
+path:dda01503	Cationic antimicrobial peptide (CAMP) resistance - Dickeya dadantii Ech703
+path:dda02010	ABC transporters - Dickeya dadantii Ech703
+path:dda02020	Two-component system - Dickeya dadantii Ech703
+path:dda02024	Quorum sensing - Dickeya dadantii Ech703
+path:dda02030	Bacterial chemotaxis - Dickeya dadantii Ech703
+path:dda02040	Flagellar assembly - Dickeya dadantii Ech703
+path:dda02060	Phosphotransferase system (PTS) - Dickeya dadantii Ech703
+path:dda03010	Ribosome - Dickeya dadantii Ech703
+path:dda03018	RNA degradation - Dickeya dadantii Ech703
+path:dda03020	RNA polymerase - Dickeya dadantii Ech703
+path:dda03030	DNA replication - Dickeya dadantii Ech703
+path:dda03060	Protein export - Dickeya dadantii Ech703
+path:dda03070	Bacterial secretion system - Dickeya dadantii Ech703
+path:dda03410	Base excision repair - Dickeya dadantii Ech703
+path:dda03420	Nucleotide excision repair - Dickeya dadantii Ech703
+path:dda03430	Mismatch repair - Dickeya dadantii Ech703
+path:dda03440	Homologous recombination - Dickeya dadantii Ech703
+path:dda04122	Sulfur relay system - Dickeya dadantii Ech703
+path:ddd00010	Glycolysis / Gluconeogenesis - Dickeya dadantii 3937
+path:ddd00020	Citrate cycle (TCA cycle) - Dickeya dadantii 3937
+path:ddd00030	Pentose phosphate pathway - Dickeya dadantii 3937
+path:ddd00040	Pentose and glucuronate interconversions - Dickeya dadantii 3937
+path:ddd00051	Fructose and mannose metabolism - Dickeya dadantii 3937
+path:ddd00052	Galactose metabolism - Dickeya dadantii 3937
+path:ddd00053	Ascorbate and aldarate metabolism - Dickeya dadantii 3937
+path:ddd00061	Fatty acid biosynthesis - Dickeya dadantii 3937
+path:ddd00071	Fatty acid degradation - Dickeya dadantii 3937
+path:ddd00130	Ubiquinone and other terpenoid-quinone biosynthesis - Dickeya dadantii 3937
+path:ddd00190	Oxidative phosphorylation - Dickeya dadantii 3937
+path:ddd00220	Arginine biosynthesis - Dickeya dadantii 3937
+path:ddd00230	Purine metabolism - Dickeya dadantii 3937
+path:ddd00240	Pyrimidine metabolism - Dickeya dadantii 3937
+path:ddd00250	Alanine, aspartate and glutamate metabolism - Dickeya dadantii 3937
+path:ddd00260	Glycine, serine and threonine metabolism - Dickeya dadantii 3937
+path:ddd00261	Monobactam biosynthesis - Dickeya dadantii 3937
+path:ddd00270	Cysteine and methionine metabolism - Dickeya dadantii 3937
+path:ddd00280	Valine, leucine and isoleucine degradation - Dickeya dadantii 3937
+path:ddd00281	Geraniol degradation - Dickeya dadantii 3937
+path:ddd00290	Valine, leucine and isoleucine biosynthesis - Dickeya dadantii 3937
+path:ddd00300	Lysine biosynthesis - Dickeya dadantii 3937
+path:ddd00310	Lysine degradation - Dickeya dadantii 3937
+path:ddd00330	Arginine and proline metabolism - Dickeya dadantii 3937
+path:ddd00332	Carbapenem biosynthesis - Dickeya dadantii 3937
+path:ddd00340	Histidine metabolism - Dickeya dadantii 3937
+path:ddd00350	Tyrosine metabolism - Dickeya dadantii 3937
+path:ddd00360	Phenylalanine metabolism - Dickeya dadantii 3937
+path:ddd00361	Chlorocyclohexane and chlorobenzene degradation - Dickeya dadantii 3937
+path:ddd00362	Benzoate degradation - Dickeya dadantii 3937
+path:ddd00364	Fluorobenzoate degradation - Dickeya dadantii 3937
+path:ddd00380	Tryptophan metabolism - Dickeya dadantii 3937
+path:ddd00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Dickeya dadantii 3937
+path:ddd00401	Novobiocin biosynthesis - Dickeya dadantii 3937
+path:ddd00410	beta-Alanine metabolism - Dickeya dadantii 3937
+path:ddd00430	Taurine and hypotaurine metabolism - Dickeya dadantii 3937
+path:ddd00440	Phosphonate and phosphinate metabolism - Dickeya dadantii 3937
+path:ddd00450	Selenocompound metabolism - Dickeya dadantii 3937
+path:ddd00460	Cyanoamino acid metabolism - Dickeya dadantii 3937
+path:ddd00471	D-Glutamine and D-glutamate metabolism - Dickeya dadantii 3937
+path:ddd00472	D-Arginine and D-ornithine metabolism - Dickeya dadantii 3937
+path:ddd00473	D-Alanine metabolism - Dickeya dadantii 3937
+path:ddd00480	Glutathione metabolism - Dickeya dadantii 3937
+path:ddd00500	Starch and sucrose metabolism - Dickeya dadantii 3937
+path:ddd00511	Other glycan degradation - Dickeya dadantii 3937
+path:ddd00520	Amino sugar and nucleotide sugar metabolism - Dickeya dadantii 3937
+path:ddd00521	Streptomycin biosynthesis - Dickeya dadantii 3937
+path:ddd00523	Polyketide sugar unit biosynthesis - Dickeya dadantii 3937
+path:ddd00525	Acarbose and validamycin biosynthesis - Dickeya dadantii 3937
+path:ddd00540	Lipopolysaccharide biosynthesis - Dickeya dadantii 3937
+path:ddd00550	Peptidoglycan biosynthesis - Dickeya dadantii 3937
+path:ddd00561	Glycerolipid metabolism - Dickeya dadantii 3937
+path:ddd00562	Inositol phosphate metabolism - Dickeya dadantii 3937
+path:ddd00564	Glycerophospholipid metabolism - Dickeya dadantii 3937
+path:ddd00565	Ether lipid metabolism - Dickeya dadantii 3937
+path:ddd00590	Arachidonic acid metabolism - Dickeya dadantii 3937
+path:ddd00592	alpha-Linolenic acid metabolism - Dickeya dadantii 3937
+path:ddd00600	Sphingolipid metabolism - Dickeya dadantii 3937
+path:ddd00620	Pyruvate metabolism - Dickeya dadantii 3937
+path:ddd00623	Toluene degradation - Dickeya dadantii 3937
+path:ddd00625	Chloroalkane and chloroalkene degradation - Dickeya dadantii 3937
+path:ddd00626	Naphthalene degradation - Dickeya dadantii 3937
+path:ddd00627	Aminobenzoate degradation - Dickeya dadantii 3937
+path:ddd00630	Glyoxylate and dicarboxylate metabolism - Dickeya dadantii 3937
+path:ddd00640	Propanoate metabolism - Dickeya dadantii 3937
+path:ddd00643	Styrene degradation - Dickeya dadantii 3937
+path:ddd00650	Butanoate metabolism - Dickeya dadantii 3937
+path:ddd00660	C5-Branched dibasic acid metabolism - Dickeya dadantii 3937
+path:ddd00670	One carbon pool by folate - Dickeya dadantii 3937
+path:ddd00680	Methane metabolism - Dickeya dadantii 3937
+path:ddd00730	Thiamine metabolism - Dickeya dadantii 3937
+path:ddd00740	Riboflavin metabolism - Dickeya dadantii 3937
+path:ddd00750	Vitamin B6 metabolism - Dickeya dadantii 3937
+path:ddd00760	Nicotinate and nicotinamide metabolism - Dickeya dadantii 3937
+path:ddd00770	Pantothenate and CoA biosynthesis - Dickeya dadantii 3937
+path:ddd00780	Biotin metabolism - Dickeya dadantii 3937
+path:ddd00785	Lipoic acid metabolism - Dickeya dadantii 3937
+path:ddd00790	Folate biosynthesis - Dickeya dadantii 3937
+path:ddd00791	Atrazine degradation - Dickeya dadantii 3937
+path:ddd00860	Porphyrin and chlorophyll metabolism - Dickeya dadantii 3937
+path:ddd00900	Terpenoid backbone biosynthesis - Dickeya dadantii 3937
+path:ddd00903	Limonene and pinene degradation - Dickeya dadantii 3937
+path:ddd00910	Nitrogen metabolism - Dickeya dadantii 3937
+path:ddd00920	Sulfur metabolism - Dickeya dadantii 3937
+path:ddd00930	Caprolactam degradation - Dickeya dadantii 3937
+path:ddd00970	Aminoacyl-tRNA biosynthesis - Dickeya dadantii 3937
+path:ddd01040	Biosynthesis of unsaturated fatty acids - Dickeya dadantii 3937
+path:ddd01053	Biosynthesis of siderophore group nonribosomal peptides - Dickeya dadantii 3937
+path:ddd01054	Nonribosomal peptide structures - Dickeya dadantii 3937
+path:ddd01100	Metabolic pathways - Dickeya dadantii 3937
+path:ddd01110	Biosynthesis of secondary metabolites - Dickeya dadantii 3937
+path:ddd01120	Microbial metabolism in diverse environments - Dickeya dadantii 3937
+path:ddd01130	Biosynthesis of antibiotics - Dickeya dadantii 3937
+path:ddd01200	Carbon metabolism - Dickeya dadantii 3937
+path:ddd01210	2-Oxocarboxylic acid metabolism - Dickeya dadantii 3937
+path:ddd01212	Fatty acid metabolism - Dickeya dadantii 3937
+path:ddd01220	Degradation of aromatic compounds - Dickeya dadantii 3937
+path:ddd01230	Biosynthesis of amino acids - Dickeya dadantii 3937
+path:ddd01501	beta-Lactam resistance - Dickeya dadantii 3937
+path:ddd01502	Vancomycin resistance - Dickeya dadantii 3937
+path:ddd01503	Cationic antimicrobial peptide (CAMP) resistance - Dickeya dadantii 3937
+path:ddd02010	ABC transporters - Dickeya dadantii 3937
+path:ddd02020	Two-component system - Dickeya dadantii 3937
+path:ddd02024	Quorum sensing - Dickeya dadantii 3937
+path:ddd02030	Bacterial chemotaxis - Dickeya dadantii 3937
+path:ddd02040	Flagellar assembly - Dickeya dadantii 3937
+path:ddd02060	Phosphotransferase system (PTS) - Dickeya dadantii 3937
+path:ddd03010	Ribosome - Dickeya dadantii 3937
+path:ddd03018	RNA degradation - Dickeya dadantii 3937
+path:ddd03020	RNA polymerase - Dickeya dadantii 3937
+path:ddd03030	DNA replication - Dickeya dadantii 3937
+path:ddd03060	Protein export - Dickeya dadantii 3937
+path:ddd03070	Bacterial secretion system - Dickeya dadantii 3937
+path:ddd03410	Base excision repair - Dickeya dadantii 3937
+path:ddd03420	Nucleotide excision repair - Dickeya dadantii 3937
+path:ddd03430	Mismatch repair - Dickeya dadantii 3937
+path:ddd03440	Homologous recombination - Dickeya dadantii 3937
+path:ddd04122	Sulfur relay system - Dickeya dadantii 3937
+path:dze00010	Glycolysis / Gluconeogenesis - Dickeya zeae Ech1591
+path:dze00020	Citrate cycle (TCA cycle) - Dickeya zeae Ech1591
+path:dze00030	Pentose phosphate pathway - Dickeya zeae Ech1591
+path:dze00040	Pentose and glucuronate interconversions - Dickeya zeae Ech1591
+path:dze00051	Fructose and mannose metabolism - Dickeya zeae Ech1591
+path:dze00052	Galactose metabolism - Dickeya zeae Ech1591
+path:dze00053	Ascorbate and aldarate metabolism - Dickeya zeae Ech1591
+path:dze00061	Fatty acid biosynthesis - Dickeya zeae Ech1591
+path:dze00071	Fatty acid degradation - Dickeya zeae Ech1591
+path:dze00130	Ubiquinone and other terpenoid-quinone biosynthesis - Dickeya zeae Ech1591
+path:dze00190	Oxidative phosphorylation - Dickeya zeae Ech1591
+path:dze00220	Arginine biosynthesis - Dickeya zeae Ech1591
+path:dze00230	Purine metabolism - Dickeya zeae Ech1591
+path:dze00240	Pyrimidine metabolism - Dickeya zeae Ech1591
+path:dze00250	Alanine, aspartate and glutamate metabolism - Dickeya zeae Ech1591
+path:dze00260	Glycine, serine and threonine metabolism - Dickeya zeae Ech1591
+path:dze00261	Monobactam biosynthesis - Dickeya zeae Ech1591
+path:dze00270	Cysteine and methionine metabolism - Dickeya zeae Ech1591
+path:dze00280	Valine, leucine and isoleucine degradation - Dickeya zeae Ech1591
+path:dze00281	Geraniol degradation - Dickeya zeae Ech1591
+path:dze00290	Valine, leucine and isoleucine biosynthesis - Dickeya zeae Ech1591
+path:dze00300	Lysine biosynthesis - Dickeya zeae Ech1591
+path:dze00310	Lysine degradation - Dickeya zeae Ech1591
+path:dze00330	Arginine and proline metabolism - Dickeya zeae Ech1591
+path:dze00332	Carbapenem biosynthesis - Dickeya zeae Ech1591
+path:dze00340	Histidine metabolism - Dickeya zeae Ech1591
+path:dze00350	Tyrosine metabolism - Dickeya zeae Ech1591
+path:dze00360	Phenylalanine metabolism - Dickeya zeae Ech1591
+path:dze00361	Chlorocyclohexane and chlorobenzene degradation - Dickeya zeae Ech1591
+path:dze00362	Benzoate degradation - Dickeya zeae Ech1591
+path:dze00364	Fluorobenzoate degradation - Dickeya zeae Ech1591
+path:dze00380	Tryptophan metabolism - Dickeya zeae Ech1591
+path:dze00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Dickeya zeae Ech1591
+path:dze00401	Novobiocin biosynthesis - Dickeya zeae Ech1591
+path:dze00410	beta-Alanine metabolism - Dickeya zeae Ech1591
+path:dze00430	Taurine and hypotaurine metabolism - Dickeya zeae Ech1591
+path:dze00440	Phosphonate and phosphinate metabolism - Dickeya zeae Ech1591
+path:dze00450	Selenocompound metabolism - Dickeya zeae Ech1591
+path:dze00460	Cyanoamino acid metabolism - Dickeya zeae Ech1591
+path:dze00471	D-Glutamine and D-glutamate metabolism - Dickeya zeae Ech1591
+path:dze00472	D-Arginine and D-ornithine metabolism - Dickeya zeae Ech1591
+path:dze00473	D-Alanine metabolism - Dickeya zeae Ech1591
+path:dze00480	Glutathione metabolism - Dickeya zeae Ech1591
+path:dze00500	Starch and sucrose metabolism - Dickeya zeae Ech1591
+path:dze00511	Other glycan degradation - Dickeya zeae Ech1591
+path:dze00520	Amino sugar and nucleotide sugar metabolism - Dickeya zeae Ech1591
+path:dze00521	Streptomycin biosynthesis - Dickeya zeae Ech1591
+path:dze00523	Polyketide sugar unit biosynthesis - Dickeya zeae Ech1591
+path:dze00525	Acarbose and validamycin biosynthesis - Dickeya zeae Ech1591
+path:dze00540	Lipopolysaccharide biosynthesis - Dickeya zeae Ech1591
+path:dze00550	Peptidoglycan biosynthesis - Dickeya zeae Ech1591
+path:dze00561	Glycerolipid metabolism - Dickeya zeae Ech1591
+path:dze00562	Inositol phosphate metabolism - Dickeya zeae Ech1591
+path:dze00564	Glycerophospholipid metabolism - Dickeya zeae Ech1591
+path:dze00565	Ether lipid metabolism - Dickeya zeae Ech1591
+path:dze00590	Arachidonic acid metabolism - Dickeya zeae Ech1591
+path:dze00592	alpha-Linolenic acid metabolism - Dickeya zeae Ech1591
+path:dze00600	Sphingolipid metabolism - Dickeya zeae Ech1591
+path:dze00620	Pyruvate metabolism - Dickeya zeae Ech1591
+path:dze00623	Toluene degradation - Dickeya zeae Ech1591
+path:dze00625	Chloroalkane and chloroalkene degradation - Dickeya zeae Ech1591
+path:dze00626	Naphthalene degradation - Dickeya zeae Ech1591
+path:dze00627	Aminobenzoate degradation - Dickeya zeae Ech1591
+path:dze00630	Glyoxylate and dicarboxylate metabolism - Dickeya zeae Ech1591
+path:dze00633	Nitrotoluene degradation - Dickeya zeae Ech1591
+path:dze00640	Propanoate metabolism - Dickeya zeae Ech1591
+path:dze00650	Butanoate metabolism - Dickeya zeae Ech1591
+path:dze00660	C5-Branched dibasic acid metabolism - Dickeya zeae Ech1591
+path:dze00670	One carbon pool by folate - Dickeya zeae Ech1591
+path:dze00680	Methane metabolism - Dickeya zeae Ech1591
+path:dze00730	Thiamine metabolism - Dickeya zeae Ech1591
+path:dze00740	Riboflavin metabolism - Dickeya zeae Ech1591
+path:dze00750	Vitamin B6 metabolism - Dickeya zeae Ech1591
+path:dze00760	Nicotinate and nicotinamide metabolism - Dickeya zeae Ech1591
+path:dze00770	Pantothenate and CoA biosynthesis - Dickeya zeae Ech1591
+path:dze00780	Biotin metabolism - Dickeya zeae Ech1591
+path:dze00785	Lipoic acid metabolism - Dickeya zeae Ech1591
+path:dze00790	Folate biosynthesis - Dickeya zeae Ech1591
+path:dze00791	Atrazine degradation - Dickeya zeae Ech1591
+path:dze00860	Porphyrin and chlorophyll metabolism - Dickeya zeae Ech1591
+path:dze00900	Terpenoid backbone biosynthesis - Dickeya zeae Ech1591
+path:dze00903	Limonene and pinene degradation - Dickeya zeae Ech1591
+path:dze00910	Nitrogen metabolism - Dickeya zeae Ech1591
+path:dze00920	Sulfur metabolism - Dickeya zeae Ech1591
+path:dze00930	Caprolactam degradation - Dickeya zeae Ech1591
+path:dze00970	Aminoacyl-tRNA biosynthesis - Dickeya zeae Ech1591
+path:dze01040	Biosynthesis of unsaturated fatty acids - Dickeya zeae Ech1591
+path:dze01053	Biosynthesis of siderophore group nonribosomal peptides - Dickeya zeae Ech1591
+path:dze01054	Nonribosomal peptide structures - Dickeya zeae Ech1591
+path:dze01100	Metabolic pathways - Dickeya zeae Ech1591
+path:dze01110	Biosynthesis of secondary metabolites - Dickeya zeae Ech1591
+path:dze01120	Microbial metabolism in diverse environments - Dickeya zeae Ech1591
+path:dze01130	Biosynthesis of antibiotics - Dickeya zeae Ech1591
+path:dze01200	Carbon metabolism - Dickeya zeae Ech1591
+path:dze01210	2-Oxocarboxylic acid metabolism - Dickeya zeae Ech1591
+path:dze01212	Fatty acid metabolism - Dickeya zeae Ech1591
+path:dze01220	Degradation of aromatic compounds - Dickeya zeae Ech1591
+path:dze01230	Biosynthesis of amino acids - Dickeya zeae Ech1591
+path:dze01501	beta-Lactam resistance - Dickeya zeae Ech1591
+path:dze01502	Vancomycin resistance - Dickeya zeae Ech1591
+path:dze01503	Cationic antimicrobial peptide (CAMP) resistance - Dickeya zeae Ech1591
+path:dze02010	ABC transporters - Dickeya zeae Ech1591
+path:dze02020	Two-component system - Dickeya zeae Ech1591
+path:dze02024	Quorum sensing - Dickeya zeae Ech1591
+path:dze02030	Bacterial chemotaxis - Dickeya zeae Ech1591
+path:dze02040	Flagellar assembly - Dickeya zeae Ech1591
+path:dze02060	Phosphotransferase system (PTS) - Dickeya zeae Ech1591
+path:dze03010	Ribosome - Dickeya zeae Ech1591
+path:dze03018	RNA degradation - Dickeya zeae Ech1591
+path:dze03020	RNA polymerase - Dickeya zeae Ech1591
+path:dze03030	DNA replication - Dickeya zeae Ech1591
+path:dze03060	Protein export - Dickeya zeae Ech1591
+path:dze03070	Bacterial secretion system - Dickeya zeae Ech1591
+path:dze03410	Base excision repair - Dickeya zeae Ech1591
+path:dze03420	Nucleotide excision repair - Dickeya zeae Ech1591
+path:dze03430	Mismatch repair - Dickeya zeae Ech1591
+path:dze03440	Homologous recombination - Dickeya zeae Ech1591
+path:dze04122	Sulfur relay system - Dickeya zeae Ech1591
+path:ddc00010	Glycolysis / Gluconeogenesis - Dickeya zeae Ech586
+path:ddc00020	Citrate cycle (TCA cycle) - Dickeya zeae Ech586
+path:ddc00030	Pentose phosphate pathway - Dickeya zeae Ech586
+path:ddc00040	Pentose and glucuronate interconversions - Dickeya zeae Ech586
+path:ddc00051	Fructose and mannose metabolism - Dickeya zeae Ech586
+path:ddc00052	Galactose metabolism - Dickeya zeae Ech586
+path:ddc00053	Ascorbate and aldarate metabolism - Dickeya zeae Ech586
+path:ddc00061	Fatty acid biosynthesis - Dickeya zeae Ech586
+path:ddc00071	Fatty acid degradation - Dickeya zeae Ech586
+path:ddc00130	Ubiquinone and other terpenoid-quinone biosynthesis - Dickeya zeae Ech586
+path:ddc00190	Oxidative phosphorylation - Dickeya zeae Ech586
+path:ddc00220	Arginine biosynthesis - Dickeya zeae Ech586
+path:ddc00230	Purine metabolism - Dickeya zeae Ech586
+path:ddc00240	Pyrimidine metabolism - Dickeya zeae Ech586
+path:ddc00250	Alanine, aspartate and glutamate metabolism - Dickeya zeae Ech586
+path:ddc00260	Glycine, serine and threonine metabolism - Dickeya zeae Ech586
+path:ddc00261	Monobactam biosynthesis - Dickeya zeae Ech586
+path:ddc00270	Cysteine and methionine metabolism - Dickeya zeae Ech586
+path:ddc00280	Valine, leucine and isoleucine degradation - Dickeya zeae Ech586
+path:ddc00281	Geraniol degradation - Dickeya zeae Ech586
+path:ddc00290	Valine, leucine and isoleucine biosynthesis - Dickeya zeae Ech586
+path:ddc00300	Lysine biosynthesis - Dickeya zeae Ech586
+path:ddc00310	Lysine degradation - Dickeya zeae Ech586
+path:ddc00330	Arginine and proline metabolism - Dickeya zeae Ech586
+path:ddc00332	Carbapenem biosynthesis - Dickeya zeae Ech586
+path:ddc00340	Histidine metabolism - Dickeya zeae Ech586
+path:ddc00350	Tyrosine metabolism - Dickeya zeae Ech586
+path:ddc00360	Phenylalanine metabolism - Dickeya zeae Ech586
+path:ddc00361	Chlorocyclohexane and chlorobenzene degradation - Dickeya zeae Ech586
+path:ddc00362	Benzoate degradation - Dickeya zeae Ech586
+path:ddc00364	Fluorobenzoate degradation - Dickeya zeae Ech586
+path:ddc00380	Tryptophan metabolism - Dickeya zeae Ech586
+path:ddc00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Dickeya zeae Ech586
+path:ddc00401	Novobiocin biosynthesis - Dickeya zeae Ech586
+path:ddc00410	beta-Alanine metabolism - Dickeya zeae Ech586
+path:ddc00430	Taurine and hypotaurine metabolism - Dickeya zeae Ech586
+path:ddc00440	Phosphonate and phosphinate metabolism - Dickeya zeae Ech586
+path:ddc00450	Selenocompound metabolism - Dickeya zeae Ech586
+path:ddc00460	Cyanoamino acid metabolism - Dickeya zeae Ech586
+path:ddc00471	D-Glutamine and D-glutamate metabolism - Dickeya zeae Ech586
+path:ddc00472	D-Arginine and D-ornithine metabolism - Dickeya zeae Ech586
+path:ddc00473	D-Alanine metabolism - Dickeya zeae Ech586
+path:ddc00480	Glutathione metabolism - Dickeya zeae Ech586
+path:ddc00500	Starch and sucrose metabolism - Dickeya zeae Ech586
+path:ddc00511	Other glycan degradation - Dickeya zeae Ech586
+path:ddc00520	Amino sugar and nucleotide sugar metabolism - Dickeya zeae Ech586
+path:ddc00521	Streptomycin biosynthesis - Dickeya zeae Ech586
+path:ddc00523	Polyketide sugar unit biosynthesis - Dickeya zeae Ech586
+path:ddc00525	Acarbose and validamycin biosynthesis - Dickeya zeae Ech586
+path:ddc00540	Lipopolysaccharide biosynthesis - Dickeya zeae Ech586
+path:ddc00550	Peptidoglycan biosynthesis - Dickeya zeae Ech586
+path:ddc00561	Glycerolipid metabolism - Dickeya zeae Ech586
+path:ddc00562	Inositol phosphate metabolism - Dickeya zeae Ech586
+path:ddc00564	Glycerophospholipid metabolism - Dickeya zeae Ech586
+path:ddc00565	Ether lipid metabolism - Dickeya zeae Ech586
+path:ddc00590	Arachidonic acid metabolism - Dickeya zeae Ech586
+path:ddc00592	alpha-Linolenic acid metabolism - Dickeya zeae Ech586
+path:ddc00600	Sphingolipid metabolism - Dickeya zeae Ech586
+path:ddc00620	Pyruvate metabolism - Dickeya zeae Ech586
+path:ddc00623	Toluene degradation - Dickeya zeae Ech586
+path:ddc00625	Chloroalkane and chloroalkene degradation - Dickeya zeae Ech586
+path:ddc00626	Naphthalene degradation - Dickeya zeae Ech586
+path:ddc00627	Aminobenzoate degradation - Dickeya zeae Ech586
+path:ddc00630	Glyoxylate and dicarboxylate metabolism - Dickeya zeae Ech586
+path:ddc00633	Nitrotoluene degradation - Dickeya zeae Ech586
+path:ddc00640	Propanoate metabolism - Dickeya zeae Ech586
+path:ddc00650	Butanoate metabolism - Dickeya zeae Ech586
+path:ddc00660	C5-Branched dibasic acid metabolism - Dickeya zeae Ech586
+path:ddc00670	One carbon pool by folate - Dickeya zeae Ech586
+path:ddc00680	Methane metabolism - Dickeya zeae Ech586
+path:ddc00730	Thiamine metabolism - Dickeya zeae Ech586
+path:ddc00740	Riboflavin metabolism - Dickeya zeae Ech586
+path:ddc00750	Vitamin B6 metabolism - Dickeya zeae Ech586
+path:ddc00760	Nicotinate and nicotinamide metabolism - Dickeya zeae Ech586
+path:ddc00770	Pantothenate and CoA biosynthesis - Dickeya zeae Ech586
+path:ddc00780	Biotin metabolism - Dickeya zeae Ech586
+path:ddc00785	Lipoic acid metabolism - Dickeya zeae Ech586
+path:ddc00790	Folate biosynthesis - Dickeya zeae Ech586
+path:ddc00791	Atrazine degradation - Dickeya zeae Ech586
+path:ddc00860	Porphyrin and chlorophyll metabolism - Dickeya zeae Ech586
+path:ddc00900	Terpenoid backbone biosynthesis - Dickeya zeae Ech586
+path:ddc00903	Limonene and pinene degradation - Dickeya zeae Ech586
+path:ddc00910	Nitrogen metabolism - Dickeya zeae Ech586
+path:ddc00920	Sulfur metabolism - Dickeya zeae Ech586
+path:ddc00930	Caprolactam degradation - Dickeya zeae Ech586
+path:ddc00970	Aminoacyl-tRNA biosynthesis - Dickeya zeae Ech586
+path:ddc01040	Biosynthesis of unsaturated fatty acids - Dickeya zeae Ech586
+path:ddc01053	Biosynthesis of siderophore group nonribosomal peptides - Dickeya zeae Ech586
+path:ddc01054	Nonribosomal peptide structures - Dickeya zeae Ech586
+path:ddc01100	Metabolic pathways - Dickeya zeae Ech586
+path:ddc01110	Biosynthesis of secondary metabolites - Dickeya zeae Ech586
+path:ddc01120	Microbial metabolism in diverse environments - Dickeya zeae Ech586
+path:ddc01130	Biosynthesis of antibiotics - Dickeya zeae Ech586
+path:ddc01200	Carbon metabolism - Dickeya zeae Ech586
+path:ddc01210	2-Oxocarboxylic acid metabolism - Dickeya zeae Ech586
+path:ddc01212	Fatty acid metabolism - Dickeya zeae Ech586
+path:ddc01220	Degradation of aromatic compounds - Dickeya zeae Ech586
+path:ddc01230	Biosynthesis of amino acids - Dickeya zeae Ech586
+path:ddc01501	beta-Lactam resistance - Dickeya zeae Ech586
+path:ddc01502	Vancomycin resistance - Dickeya zeae Ech586
+path:ddc01503	Cationic antimicrobial peptide (CAMP) resistance - Dickeya zeae Ech586
+path:ddc02010	ABC transporters - Dickeya zeae Ech586
+path:ddc02020	Two-component system - Dickeya zeae Ech586
+path:ddc02024	Quorum sensing - Dickeya zeae Ech586
+path:ddc02030	Bacterial chemotaxis - Dickeya zeae Ech586
+path:ddc02040	Flagellar assembly - Dickeya zeae Ech586
+path:ddc02060	Phosphotransferase system (PTS) - Dickeya zeae Ech586
+path:ddc03010	Ribosome - Dickeya zeae Ech586
+path:ddc03018	RNA degradation - Dickeya zeae Ech586
+path:ddc03020	RNA polymerase - Dickeya zeae Ech586
+path:ddc03030	DNA replication - Dickeya zeae Ech586
+path:ddc03060	Protein export - Dickeya zeae Ech586
+path:ddc03070	Bacterial secretion system - Dickeya zeae Ech586
+path:ddc03410	Base excision repair - Dickeya zeae Ech586
+path:ddc03420	Nucleotide excision repair - Dickeya zeae Ech586
+path:ddc03430	Mismatch repair - Dickeya zeae Ech586
+path:ddc03440	Homologous recombination - Dickeya zeae Ech586
+path:ddc04122	Sulfur relay system - Dickeya zeae Ech586
+path:dzc00010	Glycolysis / Gluconeogenesis - Dickeya zeae EC1
+path:dzc00020	Citrate cycle (TCA cycle) - Dickeya zeae EC1
+path:dzc00030	Pentose phosphate pathway - Dickeya zeae EC1
+path:dzc00040	Pentose and glucuronate interconversions - Dickeya zeae EC1
+path:dzc00051	Fructose and mannose metabolism - Dickeya zeae EC1
+path:dzc00052	Galactose metabolism - Dickeya zeae EC1
+path:dzc00053	Ascorbate and aldarate metabolism - Dickeya zeae EC1
+path:dzc00061	Fatty acid biosynthesis - Dickeya zeae EC1
+path:dzc00071	Fatty acid degradation - Dickeya zeae EC1
+path:dzc00130	Ubiquinone and other terpenoid-quinone biosynthesis - Dickeya zeae EC1
+path:dzc00190	Oxidative phosphorylation - Dickeya zeae EC1
+path:dzc00220	Arginine biosynthesis - Dickeya zeae EC1
+path:dzc00230	Purine metabolism - Dickeya zeae EC1
+path:dzc00240	Pyrimidine metabolism - Dickeya zeae EC1
+path:dzc00250	Alanine, aspartate and glutamate metabolism - Dickeya zeae EC1
+path:dzc00260	Glycine, serine and threonine metabolism - Dickeya zeae EC1
+path:dzc00261	Monobactam biosynthesis - Dickeya zeae EC1
+path:dzc00270	Cysteine and methionine metabolism - Dickeya zeae EC1
+path:dzc00280	Valine, leucine and isoleucine degradation - Dickeya zeae EC1
+path:dzc00281	Geraniol degradation - Dickeya zeae EC1
+path:dzc00290	Valine, leucine and isoleucine biosynthesis - Dickeya zeae EC1
+path:dzc00300	Lysine biosynthesis - Dickeya zeae EC1
+path:dzc00310	Lysine degradation - Dickeya zeae EC1
+path:dzc00330	Arginine and proline metabolism - Dickeya zeae EC1
+path:dzc00332	Carbapenem biosynthesis - Dickeya zeae EC1
+path:dzc00340	Histidine metabolism - Dickeya zeae EC1
+path:dzc00350	Tyrosine metabolism - Dickeya zeae EC1
+path:dzc00360	Phenylalanine metabolism - Dickeya zeae EC1
+path:dzc00361	Chlorocyclohexane and chlorobenzene degradation - Dickeya zeae EC1
+path:dzc00362	Benzoate degradation - Dickeya zeae EC1
+path:dzc00364	Fluorobenzoate degradation - Dickeya zeae EC1
+path:dzc00380	Tryptophan metabolism - Dickeya zeae EC1
+path:dzc00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Dickeya zeae EC1
+path:dzc00401	Novobiocin biosynthesis - Dickeya zeae EC1
+path:dzc00410	beta-Alanine metabolism - Dickeya zeae EC1
+path:dzc00430	Taurine and hypotaurine metabolism - Dickeya zeae EC1
+path:dzc00440	Phosphonate and phosphinate metabolism - Dickeya zeae EC1
+path:dzc00450	Selenocompound metabolism - Dickeya zeae EC1
+path:dzc00460	Cyanoamino acid metabolism - Dickeya zeae EC1
+path:dzc00471	D-Glutamine and D-glutamate metabolism - Dickeya zeae EC1
+path:dzc00472	D-Arginine and D-ornithine metabolism - Dickeya zeae EC1
+path:dzc00473	D-Alanine metabolism - Dickeya zeae EC1
+path:dzc00480	Glutathione metabolism - Dickeya zeae EC1
+path:dzc00500	Starch and sucrose metabolism - Dickeya zeae EC1
+path:dzc00511	Other glycan degradation - Dickeya zeae EC1
+path:dzc00520	Amino sugar and nucleotide sugar metabolism - Dickeya zeae EC1
+path:dzc00521	Streptomycin biosynthesis - Dickeya zeae EC1
+path:dzc00523	Polyketide sugar unit biosynthesis - Dickeya zeae EC1
+path:dzc00525	Acarbose and validamycin biosynthesis - Dickeya zeae EC1
+path:dzc00540	Lipopolysaccharide biosynthesis - Dickeya zeae EC1
+path:dzc00550	Peptidoglycan biosynthesis - Dickeya zeae EC1
+path:dzc00561	Glycerolipid metabolism - Dickeya zeae EC1
+path:dzc00562	Inositol phosphate metabolism - Dickeya zeae EC1
+path:dzc00564	Glycerophospholipid metabolism - Dickeya zeae EC1
+path:dzc00565	Ether lipid metabolism - Dickeya zeae EC1
+path:dzc00590	Arachidonic acid metabolism - Dickeya zeae EC1
+path:dzc00592	alpha-Linolenic acid metabolism - Dickeya zeae EC1
+path:dzc00600	Sphingolipid metabolism - Dickeya zeae EC1
+path:dzc00620	Pyruvate metabolism - Dickeya zeae EC1
+path:dzc00621	Dioxin degradation - Dickeya zeae EC1
+path:dzc00622	Xylene degradation - Dickeya zeae EC1
+path:dzc00623	Toluene degradation - Dickeya zeae EC1
+path:dzc00625	Chloroalkane and chloroalkene degradation - Dickeya zeae EC1
+path:dzc00626	Naphthalene degradation - Dickeya zeae EC1
+path:dzc00627	Aminobenzoate degradation - Dickeya zeae EC1
+path:dzc00630	Glyoxylate and dicarboxylate metabolism - Dickeya zeae EC1
+path:dzc00640	Propanoate metabolism - Dickeya zeae EC1
+path:dzc00643	Styrene degradation - Dickeya zeae EC1
+path:dzc00650	Butanoate metabolism - Dickeya zeae EC1
+path:dzc00660	C5-Branched dibasic acid metabolism - Dickeya zeae EC1
+path:dzc00670	One carbon pool by folate - Dickeya zeae EC1
+path:dzc00680	Methane metabolism - Dickeya zeae EC1
+path:dzc00730	Thiamine metabolism - Dickeya zeae EC1
+path:dzc00740	Riboflavin metabolism - Dickeya zeae EC1
+path:dzc00750	Vitamin B6 metabolism - Dickeya zeae EC1
+path:dzc00760	Nicotinate and nicotinamide metabolism - Dickeya zeae EC1
+path:dzc00770	Pantothenate and CoA biosynthesis - Dickeya zeae EC1
+path:dzc00780	Biotin metabolism - Dickeya zeae EC1
+path:dzc00785	Lipoic acid metabolism - Dickeya zeae EC1
+path:dzc00790	Folate biosynthesis - Dickeya zeae EC1
+path:dzc00791	Atrazine degradation - Dickeya zeae EC1
+path:dzc00860	Porphyrin and chlorophyll metabolism - Dickeya zeae EC1
+path:dzc00900	Terpenoid backbone biosynthesis - Dickeya zeae EC1
+path:dzc00903	Limonene and pinene degradation - Dickeya zeae EC1
+path:dzc00910	Nitrogen metabolism - Dickeya zeae EC1
+path:dzc00920	Sulfur metabolism - Dickeya zeae EC1
+path:dzc00930	Caprolactam degradation - Dickeya zeae EC1
+path:dzc00970	Aminoacyl-tRNA biosynthesis - Dickeya zeae EC1
+path:dzc01040	Biosynthesis of unsaturated fatty acids - Dickeya zeae EC1
+path:dzc01053	Biosynthesis of siderophore group nonribosomal peptides - Dickeya zeae EC1
+path:dzc01054	Nonribosomal peptide structures - Dickeya zeae EC1
+path:dzc01100	Metabolic pathways - Dickeya zeae EC1
+path:dzc01110	Biosynthesis of secondary metabolites - Dickeya zeae EC1
+path:dzc01120	Microbial metabolism in diverse environments - Dickeya zeae EC1
+path:dzc01130	Biosynthesis of antibiotics - Dickeya zeae EC1
+path:dzc01200	Carbon metabolism - Dickeya zeae EC1
+path:dzc01210	2-Oxocarboxylic acid metabolism - Dickeya zeae EC1
+path:dzc01212	Fatty acid metabolism - Dickeya zeae EC1
+path:dzc01220	Degradation of aromatic compounds - Dickeya zeae EC1
+path:dzc01230	Biosynthesis of amino acids - Dickeya zeae EC1
+path:dzc01501	beta-Lactam resistance - Dickeya zeae EC1
+path:dzc01502	Vancomycin resistance - Dickeya zeae EC1
+path:dzc01503	Cationic antimicrobial peptide (CAMP) resistance - Dickeya zeae EC1
+path:dzc02010	ABC transporters - Dickeya zeae EC1
+path:dzc02020	Two-component system - Dickeya zeae EC1
+path:dzc02024	Quorum sensing - Dickeya zeae EC1
+path:dzc02030	Bacterial chemotaxis - Dickeya zeae EC1
+path:dzc02040	Flagellar assembly - Dickeya zeae EC1
+path:dzc02060	Phosphotransferase system (PTS) - Dickeya zeae EC1
+path:dzc03010	Ribosome - Dickeya zeae EC1
+path:dzc03018	RNA degradation - Dickeya zeae EC1
+path:dzc03020	RNA polymerase - Dickeya zeae EC1
+path:dzc03030	DNA replication - Dickeya zeae EC1
+path:dzc03060	Protein export - Dickeya zeae EC1
+path:dzc03070	Bacterial secretion system - Dickeya zeae EC1
+path:dzc03410	Base excision repair - Dickeya zeae EC1
+path:dzc03420	Nucleotide excision repair - Dickeya zeae EC1
+path:dzc03430	Mismatch repair - Dickeya zeae EC1
+path:dzc03440	Homologous recombination - Dickeya zeae EC1
+path:dzc04122	Sulfur relay system - Dickeya zeae EC1
+path:dso00010	Glycolysis / Gluconeogenesis - Dickeya solani
+path:dso00020	Citrate cycle (TCA cycle) - Dickeya solani
+path:dso00030	Pentose phosphate pathway - Dickeya solani
+path:dso00040	Pentose and glucuronate interconversions - Dickeya solani
+path:dso00051	Fructose and mannose metabolism - Dickeya solani
+path:dso00052	Galactose metabolism - Dickeya solani
+path:dso00053	Ascorbate and aldarate metabolism - Dickeya solani
+path:dso00061	Fatty acid biosynthesis - Dickeya solani
+path:dso00071	Fatty acid degradation - Dickeya solani
+path:dso00121	Secondary bile acid biosynthesis - Dickeya solani
+path:dso00130	Ubiquinone and other terpenoid-quinone biosynthesis - Dickeya solani
+path:dso00190	Oxidative phosphorylation - Dickeya solani
+path:dso00220	Arginine biosynthesis - Dickeya solani
+path:dso00230	Purine metabolism - Dickeya solani
+path:dso00240	Pyrimidine metabolism - Dickeya solani
+path:dso00250	Alanine, aspartate and glutamate metabolism - Dickeya solani
+path:dso00260	Glycine, serine and threonine metabolism - Dickeya solani
+path:dso00261	Monobactam biosynthesis - Dickeya solani
+path:dso00270	Cysteine and methionine metabolism - Dickeya solani
+path:dso00280	Valine, leucine and isoleucine degradation - Dickeya solani
+path:dso00281	Geraniol degradation - Dickeya solani
+path:dso00290	Valine, leucine and isoleucine biosynthesis - Dickeya solani
+path:dso00300	Lysine biosynthesis - Dickeya solani
+path:dso00310	Lysine degradation - Dickeya solani
+path:dso00330	Arginine and proline metabolism - Dickeya solani
+path:dso00332	Carbapenem biosynthesis - Dickeya solani
+path:dso00340	Histidine metabolism - Dickeya solani
+path:dso00350	Tyrosine metabolism - Dickeya solani
+path:dso00360	Phenylalanine metabolism - Dickeya solani
+path:dso00361	Chlorocyclohexane and chlorobenzene degradation - Dickeya solani
+path:dso00362	Benzoate degradation - Dickeya solani
+path:dso00364	Fluorobenzoate degradation - Dickeya solani
+path:dso00380	Tryptophan metabolism - Dickeya solani
+path:dso00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Dickeya solani
+path:dso00401	Novobiocin biosynthesis - Dickeya solani
+path:dso00410	beta-Alanine metabolism - Dickeya solani
+path:dso00430	Taurine and hypotaurine metabolism - Dickeya solani
+path:dso00440	Phosphonate and phosphinate metabolism - Dickeya solani
+path:dso00450	Selenocompound metabolism - Dickeya solani
+path:dso00460	Cyanoamino acid metabolism - Dickeya solani
+path:dso00471	D-Glutamine and D-glutamate metabolism - Dickeya solani
+path:dso00472	D-Arginine and D-ornithine metabolism - Dickeya solani
+path:dso00473	D-Alanine metabolism - Dickeya solani
+path:dso00480	Glutathione metabolism - Dickeya solani
+path:dso00500	Starch and sucrose metabolism - Dickeya solani
+path:dso00511	Other glycan degradation - Dickeya solani
+path:dso00520	Amino sugar and nucleotide sugar metabolism - Dickeya solani
+path:dso00521	Streptomycin biosynthesis - Dickeya solani
+path:dso00523	Polyketide sugar unit biosynthesis - Dickeya solani
+path:dso00525	Acarbose and validamycin biosynthesis - Dickeya solani
+path:dso00540	Lipopolysaccharide biosynthesis - Dickeya solani
+path:dso00550	Peptidoglycan biosynthesis - Dickeya solani
+path:dso00561	Glycerolipid metabolism - Dickeya solani
+path:dso00562	Inositol phosphate metabolism - Dickeya solani
+path:dso00564	Glycerophospholipid metabolism - Dickeya solani
+path:dso00565	Ether lipid metabolism - Dickeya solani
+path:dso00590	Arachidonic acid metabolism - Dickeya solani
+path:dso00592	alpha-Linolenic acid metabolism - Dickeya solani
+path:dso00600	Sphingolipid metabolism - Dickeya solani
+path:dso00620	Pyruvate metabolism - Dickeya solani
+path:dso00623	Toluene degradation - Dickeya solani
+path:dso00625	Chloroalkane and chloroalkene degradation - Dickeya solani
+path:dso00626	Naphthalene degradation - Dickeya solani
+path:dso00627	Aminobenzoate degradation - Dickeya solani
+path:dso00630	Glyoxylate and dicarboxylate metabolism - Dickeya solani
+path:dso00640	Propanoate metabolism - Dickeya solani
+path:dso00650	Butanoate metabolism - Dickeya solani
+path:dso00660	C5-Branched dibasic acid metabolism - Dickeya solani
+path:dso00670	One carbon pool by folate - Dickeya solani
+path:dso00680	Methane metabolism - Dickeya solani
+path:dso00730	Thiamine metabolism - Dickeya solani
+path:dso00740	Riboflavin metabolism - Dickeya solani
+path:dso00750	Vitamin B6 metabolism - Dickeya solani
+path:dso00760	Nicotinate and nicotinamide metabolism - Dickeya solani
+path:dso00770	Pantothenate and CoA biosynthesis - Dickeya solani
+path:dso00780	Biotin metabolism - Dickeya solani
+path:dso00785	Lipoic acid metabolism - Dickeya solani
+path:dso00790	Folate biosynthesis - Dickeya solani
+path:dso00791	Atrazine degradation - Dickeya solani
+path:dso00860	Porphyrin and chlorophyll metabolism - Dickeya solani
+path:dso00900	Terpenoid backbone biosynthesis - Dickeya solani
+path:dso00903	Limonene and pinene degradation - Dickeya solani
+path:dso00910	Nitrogen metabolism - Dickeya solani
+path:dso00920	Sulfur metabolism - Dickeya solani
+path:dso00930	Caprolactam degradation - Dickeya solani
+path:dso00970	Aminoacyl-tRNA biosynthesis - Dickeya solani
+path:dso01040	Biosynthesis of unsaturated fatty acids - Dickeya solani
+path:dso01053	Biosynthesis of siderophore group nonribosomal peptides - Dickeya solani
+path:dso01054	Nonribosomal peptide structures - Dickeya solani
+path:dso01100	Metabolic pathways - Dickeya solani
+path:dso01110	Biosynthesis of secondary metabolites - Dickeya solani
+path:dso01120	Microbial metabolism in diverse environments - Dickeya solani
+path:dso01130	Biosynthesis of antibiotics - Dickeya solani
+path:dso01200	Carbon metabolism - Dickeya solani
+path:dso01210	2-Oxocarboxylic acid metabolism - Dickeya solani
+path:dso01212	Fatty acid metabolism - Dickeya solani
+path:dso01220	Degradation of aromatic compounds - Dickeya solani
+path:dso01230	Biosynthesis of amino acids - Dickeya solani
+path:dso01501	beta-Lactam resistance - Dickeya solani
+path:dso01502	Vancomycin resistance - Dickeya solani
+path:dso01503	Cationic antimicrobial peptide (CAMP) resistance - Dickeya solani
+path:dso02010	ABC transporters - Dickeya solani
+path:dso02020	Two-component system - Dickeya solani
+path:dso02024	Quorum sensing - Dickeya solani
+path:dso02030	Bacterial chemotaxis - Dickeya solani
+path:dso02040	Flagellar assembly - Dickeya solani
+path:dso02060	Phosphotransferase system (PTS) - Dickeya solani
+path:dso03010	Ribosome - Dickeya solani
+path:dso03018	RNA degradation - Dickeya solani
+path:dso03020	RNA polymerase - Dickeya solani
+path:dso03030	DNA replication - Dickeya solani
+path:dso03060	Protein export - Dickeya solani
+path:dso03070	Bacterial secretion system - Dickeya solani
+path:dso03410	Base excision repair - Dickeya solani
+path:dso03420	Nucleotide excision repair - Dickeya solani
+path:dso03430	Mismatch repair - Dickeya solani
+path:dso03440	Homologous recombination - Dickeya solani
+path:dso04122	Sulfur relay system - Dickeya solani

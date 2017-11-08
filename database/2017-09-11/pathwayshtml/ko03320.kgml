@@ -1,0 +1,396 @@
+<html>
+<!---
+ENTRY       ko03320
+DEFINITION  PPAR signaling pathway
+--->
+<head>
+<title>
+KEGG PATHWAY: PPAR signaling pathway
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>PPAR signaling pathway</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=03320&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map03320.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko03320">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko03320&format=kgml">Download KGML</a>
+| <a id="descLink" href="javascript:switchDescription()">Show description</a>
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+<table id="description" cellpadding="10" width="800" style="display: none;"><tr><td>
+Peroxisome proliferator-activated receptors (PPARs) are nuclear hormone receptors that are activated by fatty acids and their derivatives. PPAR has three subtypes (PPARalpha, beta/delta, and gamma) showing different expression patterns in vertebrates. Each of them is encoded in a separate gene and binds fatty acids and eicosanoids. PPARalpha plays a role in the clearance of circulating or cellular lipids via the regulation of gene expression involved in lipid metabolism in liver and skeletal muscle. PPARbeta/delta is involved in lipid oxidation and cell proliferation. PPARgamma promotes adipocyte differentiation to enhance blood glucose uptake.</td></tr></table>
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="hsa">Homo sapiens (human)</option>
+<option value="hsadd">Homo sapiens (human) + Disease/drug</option>
+<option value="ptr">Pan troglodytes (chimpanzee)</option>
+<option value="pps">Pan paniscus (bonobo)</option>
+<option value="ggo">Gorilla gorilla gorilla (western lowland gorilla)</option>
+<option value="pon">Pongo abelii (Sumatran orangutan)</option>
+<option value="nle">Nomascus leucogenys (northern white-cheeked gibbon)</option>
+<option value="mcc">Macaca mulatta (rhesus monkey)</option>
+<option value="mcf">Macaca fascicularis (crab-eating macaque)</option>
+<option value="csab">Chlorocebus sabaeus (green monkey)</option>
+<option value="rro">Rhinopithecus roxellana (golden snub-nosed monkey)</option>
+<option value="rbb">Rhinopithecus bieti (black snub-nosed monkey)</option>
+<option value="cjc">Callithrix jacchus (white-tufted-ear marmoset)</option>
+<option value="sbq">Saimiri boliviensis boliviensis (Bolivian squirrel monkey)</option>
+<option value="mmu">Mus musculus (mouse)</option>
+<option value="rno">Rattus norvegicus (rat)</option>
+<option value="cge">Cricetulus griseus (Chinese hamster)</option>
+<option value="ngi">Nannospalax galili (Upper Galilee mountains blind mole rat)</option>
+<option value="hgl">Heterocephalus glaber (naked mole rat)</option>
+<option value="ccan">Castor canadensis (American beaver)</option>
+<option value="ocu">Oryctolagus cuniculus (rabbit)</option>
+<option value="tup">Tupaia chinensis (Chinese tree shrew)</option>
+<option value="cfa">Canis familiaris (dog)</option>
+<option value="aml">Ailuropoda melanoleuca (giant panda)</option>
+<option value="umr">Ursus maritimus (polar bear)</option>
+<option value="fca">Felis catus (domestic cat)</option>
+<option value="ptg">Panthera tigris altaica (Amur tiger)</option>
+<option value="aju">Acinonyx jubatus (cheetah)</option>
+<option value="bta">Bos taurus (cow)</option>
+<option value="bom">Bos mutus (wild yak)</option>
+<option value="biu">Bos indicus (zebu cattle)</option>
+<option value="phd">Pantholops hodgsonii (chiru)</option>
+<option value="chx">Capra hircus (goat)</option>
+<option value="oas">Ovis aries (sheep)</option>
+<option value="ssc">Sus scrofa (pig)</option>
+<option value="cfr">Camelus ferus (Wild Bactrian camel)</option>
+<option value="cdk">Camelus dromedarius (Arabian camel)</option>
+<option value="bacu">Balaenoptera acutorostrata scammoni (minke whale)</option>
+<option value="lve">Lipotes vexillifer (Yangtze River dolphin)</option>
+<option value="ecb">Equus caballus (horse)</option>
+<option value="epz">Equus przewalskii (Przewalski's horse)</option>
+<option value="eai">Equus asinus (ass)</option>
+<option value="myb">Myotis brandtii (Brandt's bat)</option>
+<option value="myd">Myotis davidii</option>
+<option value="hai">Hipposideros armiger (great roundleaf bat)</option>
+<option value="rss">Rhinolophus sinicus (Chinese rufous horseshoe bat)</option>
+<option value="pale">Pteropus alecto (black flying fox)</option>
+<option value="lav">Loxodonta africana (African savanna elephant)</option>
+<option value="mdo">Monodelphis domestica (opossum)</option>
+<option value="shr">Sarcophilus harrisii (Tasmanian devil)</option>
+<option value="oaa">Ornithorhynchus anatinus (platypus)</option>
+<option value="gga">Gallus gallus (chicken)</option>
+<option value="mgp">Meleagris gallopavo (turkey)</option>
+<option value="cjo">Coturnix japonica (Japanese quail)</option>
+<option value="apla">Anas platyrhynchos (mallard)</option>
+<option value="acyg">Anser cygnoides domesticus (swan goose)</option>
+<option value="tgu">Taeniopygia guttata (zebra finch)</option>
+<option value="gfr">Geospiza fortis (medium ground-finch)</option>
+<option value="fab">Ficedula albicollis (collared flycatcher)</option>
+<option value="phi">Pseudopodoces humilis (Tibetan ground-tit)</option>
+<option value="ccw">Corvus cornix (hooded crow)</option>
+<option value="fpg">Falco peregrinus (peregrine falcon)</option>
+<option value="fch">Falco cherrug (Saker falcon)</option>
+<option value="clv">Columba livia (rock pigeon)</option>
+<option value="aam">Apteryx australis mantelli (brown kiwi)</option>
+<option value="asn">Alligator sinensis (Chinese alligator)</option>
+<option value="amj">Alligator mississippiensis (American alligator)</option>
+<option value="pss">Pelodiscus sinensis (Chinese soft-shelled turtle)</option>
+<option value="cmy">Chelonia mydas (green sea turtle)</option>
+<option value="cpic">Chrysemys picta (western painted turtle)</option>
+<option value="acs">Anolis carolinensis (green anole)</option>
+<option value="pvt">Pogona vitticeps (central bearded dragon)</option>
+<option value="pbi">Python bivittatus (Burmese python)</option>
+<option value="gja">Gekko japonicus</option>
+<option value="xla">Xenopus laevis (African clawed frog)</option>
+<option value="xtr">Xenopus tropicalis (western clawed frog)</option>
+<option value="npr">Nanorana parkeri</option>
+<option value="dre">Danio rerio (zebrafish)</option>
+<option value="srx">Sinocyclocheilus rhinocerous</option>
+<option value="sanh">Sinocyclocheilus anshuiensis</option>
+<option value="sgh">Sinocyclocheilus grahami</option>
+<option value="ipu">Ictalurus punctatus (channel catfish)</option>
+<option value="tru">Takifugu rubripes (torafugu)</option>
+<option value="tng">Tetraodon nigroviridis (spotted green pufferfish)</option>
+<option value="lco">Larimichthys crocea (large yellow croaker)</option>
+<option value="ncc">Notothenia coriiceps (black rockcod)</option>
+<option value="mze">Maylandia zebra (zebra mbuna)</option>
+<option value="ola">Oryzias latipes (Japanese medaka)</option>
+<option value="xma">Xiphophorus maculatus (southern platyfish)</option>
+<option value="csem">Cynoglossus semilaevis (tongue sole)</option>
+<option value="lcf">Lates calcarifer (barramundi perch)</option>
+<option value="hcq">Hippocampus comes (tiger tail seahorse)</option>
+<option value="sasa">Salmo salar (Atlantic salmon)</option>
+<option value="els">Esox lucius (northern pike)</option>
+<option value="sfm">Scleropages formosus (Asian bonytongue)</option>
+<option value="lcm">Latimeria chalumnae (coelacanth)</option>
+<option value="cmk">Callorhinchus milii (elephant shark)</option>
+</select>
+<input type="hidden" name="mapno" value="03320" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko03320" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko03320.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=435,161,4	href="/dbget-bin/www_bget?C02165+C14776"	title="C02165 (Leukotriene B4), C14776 (8(S)-HETE)" onmouseover="popupTimer(&quot;C02165&quot;, &quot;C02165 (Leukotriene B4), C14776 (8(S)-HETE)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=435,247,4	href="/dbget-bin/www_bget?C15493"	title="C15493 (9-cis-Retinoic acid)" onmouseover="popupTimer(&quot;C15493&quot;, &quot;C15493 (9-cis-Retinoic acid)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=435,697,4	href="/dbget-bin/www_bget?C15493"	title="C15493 (9-cis-Retinoic acid)" onmouseover="popupTimer(&quot;C15493&quot;, &quot;C15493 (9-cis-Retinoic acid)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=435,613,4	href="/dbget-bin/www_bget?C14767+C14762"	title="C14767 (9(S)-HODE), C14762 (13(S)-HODE)" onmouseover="popupTimer(&quot;C14767&quot;, &quot;C14767 (9(S)-HODE), C14762 (13(S)-HODE)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=435,470,4	href="/dbget-bin/www_bget?C15493"	title="C15493 (9-cis-Retinoic acid)" onmouseover="popupTimer(&quot;C15493&quot;, &quot;C15493 (9-cis-Retinoic acid)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=435,184,4	href="/kegg-bin/search_htext?htext=br08303&search_string=%22C10AB%20fibrates%22&option=-n"	title="BR:br08303(C10AB fibrates)" />
+<area shape=circle	coords=435,199,4	href="/kegg-bin/search_htext?htext=br08303&search_string=%22S01BC%20Antiinflammatory%20agents%2c%20non%2dsteroids%22&option=-n"	title="BR:br08303(S01BC Antiinflammatory agents, non-steroids)" />
+<area shape=circle	coords=435,651,4	href="/kegg-bin/search_htext?htext=br08303&search_string=%22S01BC%20Antiinflammatory%20agents%2c%20non%2dsteroids%22&option=-n"	title="BR:br08303(S01BC Antiinflammatory agents, non-steroids)" />
+<area shape=rect	coords=863,812,909,829	href="/dbget-bin/www_bget?K08771"	title="K08771 (AQP7)" />
+<area shape=rect	coords=813,824,859,841	href="/dbget-bin/www_bget?K00864"	title="K00864 (glpK)" />
+<area shape=rect	coords=813,801,859,818	href="/dbget-bin/www_bget?K01596"	title="K01596 (E4.1.1.32)" />
+<area shape=rect	coords=863,617,909,634	href="/dbget-bin/www_bget?K08768+K17284+K20254+K20255"	title="K08768 (PLIN1), K17284 (PLIN2), K20254 (PLIN4), K20255 (PLIN5)" />
+<area shape=rect	coords=120,123,166,140	href="/dbget-bin/www_bget?K06259"	title="K06259 (CD36)" />
+<area shape=rect	coords=120,151,166,168	href="/dbget-bin/www_bget?K08745+K08746+K08748+K08749"	title="K08745 (SLC27A1_4), K08746 (SLC27A2), K08748 (SLC27A5), K08749 (SLC27A6)" />
+<area shape=rect	coords=205,124,251,141	href="/dbget-bin/www_bget?K08750+K08751+K08752+K08753+K08754+K08755+K08756"	title="K08750 (FABP1), K08751 (FABP2), K08752 (FABP3), K08753 (FABP4), K08754 (FABP5), K08755 (FABP6), K08756 (FABP7)" />
+<area shape=rect	coords=547,201,593,218	href="/dbget-bin/www_bget?K07294"	title="K07294 (NR1C1)" />
+<area shape=rect	coords=547,218,593,235	href="/dbget-bin/www_bget?K08524+K08525+K08526"	title="K08524 (RXRA), K08525 (RXRB), K08526 (RXRG)" />
+<area shape=rect	coords=547,426,593,443	href="/dbget-bin/www_bget?K04504"	title="K04504 (NR1C2)" />
+<area shape=rect	coords=547,443,593,460	href="/dbget-bin/www_bget?K08524+K08525+K08526"	title="K08524 (RXRA), K08525 (RXRB), K08526 (RXRG)" />
+<area shape=rect	coords=547,651,593,668	href="/dbget-bin/www_bget?K08530"	title="K08530 (NR1C3)" />
+<area shape=rect	coords=547,668,593,685	href="/dbget-bin/www_bget?K08524+K08525+K08526"	title="K08524 (RXRA), K08525 (RXRB), K08526 (RXRG)" />
+<area shape=rect	coords=813,558,859,575	href="/dbget-bin/www_bget?K08764"	title="K08764 (SCP2)" />
+<area shape=rect	coords=813,535,859,552	href="/dbget-bin/www_bget?K07513"	title="K07513 (ACAA1)" />
+<area shape=rect	coords=863,569,909,586	href="/dbget-bin/www_bget?K00249"	title="K00249 (ACADM)" />
+<area shape=rect	coords=863,546,909,563	href="/dbget-bin/www_bget?K00255"	title="K00255 (ACADL)" />
+<area shape=rect	coords=813,512,859,529	href="/dbget-bin/www_bget?K07425"	title="K07425 (CYP4A)" />
+<area shape=rect	coords=813,489,859,506	href="/dbget-bin/www_bget?K07514"	title="K07514 (EHHADH)" />
+<area shape=rect	coords=863,523,909,540	href="/dbget-bin/www_bget?K08766"	title="K08766 (CPT2)" />
+<area shape=rect	coords=863,500,909,517	href="/dbget-bin/www_bget?K08765+K19523+K19524"	title="K08765 (CPT1A), K19523 (CPT1B), K19524 (CPT1C)" />
+<area shape=rect	coords=813,449,859,466	href="/dbget-bin/www_bget?K01897+K15013"	title="K01897 (ACSL), K15013 (ACSBG)" />
+<area shape=rect	coords=863,437,909,454	href="/dbget-bin/www_bget?K08763"	title="K08763 (OLR1)" />
+<area shape=rect	coords=813,426,859,443	href="/dbget-bin/www_bget?K01059"	title="K01059 (LPL)" />
+<area shape=rect	coords=863,414,909,431	href="/dbget-bin/www_bget?K06259"	title="K06259 (CD36)" />
+<area shape=rect	coords=813,403,859,420	href="/dbget-bin/www_bget?K08752"	title="K08752 (FABP3)" />
+<area shape=rect	coords=813,294,859,311	href="/dbget-bin/www_bget?K00489"	title="K00489 (CYP7A1)" />
+<area shape=rect	coords=863,391,909,408	href="/dbget-bin/www_bget?K08745"	title="K08745 (SLC27A1_4)" />
+<area shape=rect	coords=813,663,859,680	href="/dbget-bin/www_bget?K06086"	title="K06086 (SORBS1)" />
+<area shape=rect	coords=863,663,909,680	href="/dbget-bin/www_bget?K01388"	title="K01388 (MMP1)" />
+<area shape=rect	coords=813,640,859,657	href="/dbget-bin/www_bget?K08753"	title="K08753 (FABP4)" />
+<area shape=rect	coords=813,617,859,634	href="/dbget-bin/www_bget?K08767"	title="K08767 (ANGPTL4)" />
+<area shape=rect	coords=813,581,859,598	href="/dbget-bin/www_bget?K00232+K10214"	title="K00232 (E1.3.3.6), K10214 (ACOX2)" />
+<area shape=rect	coords=813,731,859,748	href="/dbget-bin/www_bget?K06272"	title="K06272 (ILK)" />
+<area shape=rect	coords=813,380,859,397	href="/dbget-bin/www_bget?K08750"	title="K08750 (FABP1)" />
+<area shape=rect	coords=863,731,909,748	href="/dbget-bin/www_bget?K06276"	title="K06276 (PDPK1)" />
+<area shape=rect	coords=813,168,859,185	href="/dbget-bin/www_bget?K08758"	title="K08758 (APOA2)" />
+<area shape=rect	coords=863,180,909,197	href="/dbget-bin/www_bget?K08761"	title="K08761 (PLTP)" />
+<area shape=rect	coords=863,640,909,657	href="/dbget-bin/www_bget?K07296"	title="K07296 (ACDC)" />
+<area shape=circle	coords=435,636,4	href="/kegg-bin/search_htext?htext=br08303&search_string=%22A10BG%20Thiazolidinediones%22&option=-n"	title="BR:br08303(A10BG Thiazolidinediones)" />
+<area shape=rect	coords=813,254,859,271	href="/dbget-bin/www_bget?K00507"	title="K00507 (SCD)" />
+<area shape=rect	coords=863,243,909,260	href="/dbget-bin/www_bget?K10226"	title="K10226 (FADS2)" />
+<area shape=rect	coords=813,191,859,208	href="/dbget-bin/www_bget?K08759"	title="K08759 (APOC3)" />
+<area shape=rect	coords=813,317,859,334	href="/dbget-bin/www_bget?K07431"	title="K07431 (CYP8B1)" />
+<area shape=rect	coords=863,294,909,311	href="/dbget-bin/www_bget?K08536"	title="K08536 (NR1H3)" />
+<area shape=rect	coords=863,317,909,334	href="/dbget-bin/www_bget?K00488"	title="K00488 (CYP27A)" />
+<area shape=rect	coords=813,145,859,162	href="/dbget-bin/www_bget?K08757"	title="K08757 (APOA1)" />
+<area shape=rect	coords=813,765,859,782	href="/dbget-bin/www_bget?K08770"	title="K08770 (UBC)" />
+<area shape=rect	coords=813,357,859,374	href="/dbget-bin/www_bget?K08762"	title="K08762 (DBI)" />
+<area shape=rect	coords=863,157,909,174	href="/dbget-bin/www_bget?K09025"	title="K09025 (APOA5)" />
+<area shape=rect	coords=813,697,859,714	href="/dbget-bin/www_bget?K08769"	title="K08769 (UCP1)" />
+<area shape=rect	coords=504,148,631,182	href="/kegg-bin/show_pathway?ko04920"	title="ko04920: Adipocytokine signaling pathway" onmouseover="popupTimer(&quot;ko04920&quot;, &quot;ko04920: Adipocytokine signaling pathway&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=963,134,1101,159	href="/kegg-bin/show_pathway?ko00071"	title="ko00071: Fatty acid degradation" onmouseover="popupTimer(&quot;ko00071&quot;, &quot;ko00071: Fatty acid degradation&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=958,213,1106,247	href="/kegg-bin/show_pathway?ko00072"	title="ko00072: Synthesis and degradation of ketone bodies" onmouseover="popupTimer(&quot;ko00072&quot;, &quot;ko00072: Synthesis and degradation of ketone bodies&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=963,174,1101,199	href="/kegg-bin/show_pathway?ko00120"	title="ko00120: Primary bile acid biosynthesis" onmouseover="popupTimer(&quot;ko00120&quot;, &quot;ko00120: Primary bile acid biosynthesis&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=963,264,1101,298	href="/kegg-bin/show_pathway?ko00564"	title="ko00564: Glycerophospholipid metabolism" onmouseover="popupTimer(&quot;ko00564&quot;, &quot;ko00564: Glycerophospholipid metabolism&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=48,28,263,53	href="/dbget-bin/www_bget?ko03320"	title="ko03320: PPAR signaling pathway" onmouseover="popupTimer(&quot;ko03320&quot;, &quot;ko03320: PPAR signaling pathway&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

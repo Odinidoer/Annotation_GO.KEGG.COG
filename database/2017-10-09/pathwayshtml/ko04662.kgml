@@ -1,0 +1,341 @@
+<html>
+<!---
+ENTRY       ko04662
+DEFINITION  B cell receptor signaling pathway
+--->
+<head>
+<title>
+KEGG PATHWAY: B cell receptor signaling pathway
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>B cell receptor signaling pathway</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=04662&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map04662.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko04662">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko04662&format=kgml">Download KGML</a>
+| <a id="descLink" href="javascript:switchDescription()">Show description</a>
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+<table id="description" cellpadding="10" width="800" style="display: none;"><tr><td>
+B cells are an important component of adaptive immunity. They produce and secrete millions of different antibody molecules, each of which recognizes a different (foreign) antigen. The B cell receptor (BCR) is an integral membrane protein complex that is composed of two immunoglobulin (Ig) heavy chains, two Ig light chains and two heterodimers of Ig-alpha and Ig-beta. After BCR ligation by antigen, three main protein tyrosine kinases (PTKs) -the SRC-family kinase LYN, SYK and the TEC-family kinase BTK- are activated. Phosphatidylinositol 3-kinase (PI3K) and phospholipase C-gamma 2 (PLC-gamma 2) are important downstream effectors of BCR signalling. This signalling ultimately results in the expression of immediate early genes that further activate the expression of other genes involved in B cell proliferation, differentiation and Ig production as well as other processes.</td></tr></table>
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="hsa">Homo sapiens (human)</option>
+<option value="hsadd">Homo sapiens (human) + Disease/drug</option>
+<option value="ptr">Pan troglodytes (chimpanzee)</option>
+<option value="pps">Pan paniscus (bonobo)</option>
+<option value="ggo">Gorilla gorilla gorilla (western lowland gorilla)</option>
+<option value="pon">Pongo abelii (Sumatran orangutan)</option>
+<option value="nle">Nomascus leucogenys (northern white-cheeked gibbon)</option>
+<option value="mcc">Macaca mulatta (rhesus monkey)</option>
+<option value="mcf">Macaca fascicularis (crab-eating macaque)</option>
+<option value="csab">Chlorocebus sabaeus (green monkey)</option>
+<option value="rro">Rhinopithecus roxellana (golden snub-nosed monkey)</option>
+<option value="rbb">Rhinopithecus bieti (black snub-nosed monkey)</option>
+<option value="cjc">Callithrix jacchus (white-tufted-ear marmoset)</option>
+<option value="sbq">Saimiri boliviensis boliviensis (Bolivian squirrel monkey)</option>
+<option value="mmu">Mus musculus (mouse)</option>
+<option value="rno">Rattus norvegicus (rat)</option>
+<option value="cge">Cricetulus griseus (Chinese hamster)</option>
+<option value="ngi">Nannospalax galili (Upper Galilee mountains blind mole rat)</option>
+<option value="hgl">Heterocephalus glaber (naked mole rat)</option>
+<option value="ccan">Castor canadensis (American beaver)</option>
+<option value="ocu">Oryctolagus cuniculus (rabbit)</option>
+<option value="tup">Tupaia chinensis (Chinese tree shrew)</option>
+<option value="cfa">Canis familiaris (dog)</option>
+<option value="aml">Ailuropoda melanoleuca (giant panda)</option>
+<option value="umr">Ursus maritimus (polar bear)</option>
+<option value="fca">Felis catus (domestic cat)</option>
+<option value="ptg">Panthera tigris altaica (Amur tiger)</option>
+<option value="aju">Acinonyx jubatus (cheetah)</option>
+<option value="bta">Bos taurus (cow)</option>
+<option value="bom">Bos mutus (wild yak)</option>
+<option value="biu">Bos indicus (zebu cattle)</option>
+<option value="phd">Pantholops hodgsonii (chiru)</option>
+<option value="chx">Capra hircus (goat)</option>
+<option value="oas">Ovis aries (sheep)</option>
+<option value="ssc">Sus scrofa (pig)</option>
+<option value="cfr">Camelus ferus (Wild Bactrian camel)</option>
+<option value="cdk">Camelus dromedarius (Arabian camel)</option>
+<option value="bacu">Balaenoptera acutorostrata scammoni (minke whale)</option>
+<option value="lve">Lipotes vexillifer (Yangtze River dolphin)</option>
+<option value="ecb">Equus caballus (horse)</option>
+<option value="epz">Equus przewalskii (Przewalski's horse)</option>
+<option value="eai">Equus asinus (ass)</option>
+<option value="myb">Myotis brandtii (Brandt's bat)</option>
+<option value="myd">Myotis davidii</option>
+<option value="hai">Hipposideros armiger (great roundleaf bat)</option>
+<option value="rss">Rhinolophus sinicus (Chinese rufous horseshoe bat)</option>
+<option value="pale">Pteropus alecto (black flying fox)</option>
+<option value="lav">Loxodonta africana (African savanna elephant)</option>
+<option value="mdo">Monodelphis domestica (opossum)</option>
+<option value="shr">Sarcophilus harrisii (Tasmanian devil)</option>
+<option value="oaa">Ornithorhynchus anatinus (platypus)</option>
+</select>
+<input type="hidden" name="mapno" value="04662" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko04662" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko04662.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=402,619,4	href="/dbget-bin/www_bget?C05981"	title="C05981 (Phosphatidylinositol-3,4,5-trisphosphate)" onmouseover="popupTimer(&quot;C05981&quot;, &quot;C05981 (Phosphatidylinositol-3,4,5-trisphosphate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=432,483,4	href="/dbget-bin/www_bget?C00165"	title="C00165 (Diacylglycerol)" onmouseover="popupTimer(&quot;C00165&quot;, &quot;C00165 (Diacylglycerol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=589,378,4	href="/dbget-bin/www_bget?C00076"	title="C00076 (Calcium cation)" onmouseover="popupTimer(&quot;C00076&quot;, &quot;C00076 (Calcium cation)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=509,378,4	href="/dbget-bin/www_bget?C01245"	title="C01245 (D-myo-Inositol 1,4,5-trisphosphate)" onmouseover="popupTimer(&quot;C01245&quot;, &quot;C01245 (D-myo-Inositol 1,4,5-trisphosphate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=764,590,810,607	href="/dbget-bin/www_bget?K02581+K04734+K05872"	title="K02581 (NFKBIB), K04734 (NFKBIA), K05872 (NFKBIE)" />
+<area shape=rect	coords=764,560,810,577	href="/dbget-bin/www_bget?K02580+K04735"	title="K02580 (NFKB1), K04735 (RELA)" />
+<area shape=rect	coords=627,590,673,607	href="/dbget-bin/www_bget?K07209"	title="K07209 (IKBKB)" />
+<area shape=rect	coords=627,573,673,590	href="/dbget-bin/www_bget?K07210"	title="K07210 (IKBKG)" />
+<area shape=rect	coords=627,556,673,573	href="/dbget-bin/www_bget?K04467"	title="K04467 (IKBKA)" />
+<area shape=rect	coords=543,652,589,668	href="/dbget-bin/www_bget?K03083"	title="K03083 (GSK3B)" />
+<area shape=rect	coords=530,562,576,579	href="/dbget-bin/www_bget?K07369"	title="K07369 (MALT1)" />
+<area shape=rect	coords=530,545,576,562	href="/dbget-bin/www_bget?K07368"	title="K07368 (BCL10)" />
+<area shape=rect	coords=530,528,576,545	href="/dbget-bin/www_bget?K07367"	title="K07367 (CARD11)" />
+<area shape=rect	coords=449,611,495,628	href="/dbget-bin/www_bget?K04456"	title="K04456 (AKT)" />
+<area shape=rect	coords=415,528,461,545	href="/dbget-bin/www_bget?K19662"	title="K19662 (PRKCB)" />
+<area shape=rect	coords=232,639,278,656	href="/dbget-bin/www_bget?K05730"	title="K05730 (VAV)" />
+<area shape=rect	coords=307,610,353,627	href="/dbget-bin/www_bget?K00922+K02649"	title="K00922 (PIK3CA_B_D), K02649 (PIK3R1_2_3)" />
+<area shape=rect	coords=138,628,184,645	href="/dbget-bin/www_bget?K04012"	title="K04012 (CR2)" />
+<area shape=rect	coords=138,608,184,625	href="/dbget-bin/www_bget?K06465"	title="K06465 (CD19)" />
+<area shape=rect	coords=138,588,184,605	href="/dbget-bin/www_bget?K06508"	title="K06508 (CD81)" />
+<area shape=rect	coords=138,568,184,585	href="/dbget-bin/www_bget?K19831"	title="K19831 (IFITM1)" />
+<area shape=rect	coords=254,513,300,530	href="/dbget-bin/www_bget?K03084+K15909"	title="K03084 (SHIP1), K15909 (SHIP2)" />
+<area shape=rect	coords=138,513,184,530	href="/dbget-bin/www_bget?K12560"	title="K12560 (FCGR2B)" />
+<area shape=rect	coords=879,466,925,483	href="/dbget-bin/www_bget?K04379+K04448"	title="K04379 (FOS), K04448 (JUN)" />
+<area shape=rect	coords=542,466,588,483	href="/dbget-bin/www_bget?K02833+K07827+K07828"	title="K02833 (HRAS), K07827 (KRAS), K07828 (NRAS)" />
+<area shape=rect	coords=468,466,514,483	href="/dbget-bin/www_bget?K12362"	title="K12362 (RASGRP3)" />
+<area shape=rect	coords=764,369,810,386	href="/dbget-bin/www_bget?K17332+K04446+K17333"	title="K17332 (NFATC2), K04446 (NFATC1), K17333 (NFATC3)" />
+<area shape=rect	coords=654,370,700,387	href="/dbget-bin/www_bget?K04348+K06268"	title="K04348 (PPP3C), K06268 (PPP3R)" />
+<area shape=rect	coords=568,315,614,332	href="/dbget-bin/www_bget?K04392+K07860+K07861"	title="K04392 (RAC1), K07860 (RAC2), K07861 (RAC3)" />
+<area shape=rect	coords=446,315,492,332	href="/dbget-bin/www_bget?K05730"	title="K05730 (VAV)" />
+<area shape=rect	coords=399,370,445,387	href="/dbget-bin/www_bget?K05859"	title="K05859 (PLCG2)" />
+<area shape=rect	coords=320,316,366,333	href="/dbget-bin/www_bget?K07371"	title="K07371 (BLNK)" />
+<area shape=rect	coords=241,326,287,343	href="/dbget-bin/www_bget?K07370"	title="K07370 (BTK)" />
+<area shape=rect	coords=211,272,257,289	href="/dbget-bin/www_bget?K05854"	title="K05854 (LYN)" />
+<area shape=rect	coords=138,287,184,304	href="/dbget-bin/www_bget?K06507"	title="K06507 (CD79B)" />
+<area shape=rect	coords=138,270,184,287	href="/dbget-bin/www_bget?K06506"	title="K06506 (CD79A)" />
+<area shape=rect	coords=138,250,184,267	href="/dbget-bin/www_bget?K06856"	title="K06856 (IGH)" />
+<area shape=rect	coords=280,207,326,224	href="/dbget-bin/www_bget?K05855"	title="K05855 (SYK)" />
+<area shape=rect	coords=232,137,278,154	href="/dbget-bin/www_bget?K05697"	title="K05697 (PTPN6)" />
+<area shape=rect	coords=139,160,185,177	href="/dbget-bin/www_bget?K06504"	title="K06504 (CD72)" />
+<area shape=rect	coords=139,137,185,154	href="/dbget-bin/www_bget?K06467"	title="K06467 (CD22)" />
+<area shape=rect	coords=690,466,736,483	href="/dbget-bin/www_bget?K04368+K04369"	title="K04368 (MAP2K1), K04369 (MAP2K2)" />
+<area shape=rect	coords=764,466,810,483	href="/dbget-bin/www_bget?K04371"	title="K04371 (MAPK1_3)" />
+<area shape=rect	coords=616,466,662,483	href="/dbget-bin/www_bget?K04366"	title="K04366 (RAF1)" />
+<area shape=rect	coords=360,442,406,459	href="/dbget-bin/www_bget?K03099"	title="K03099 (SOS)" />
+<area shape=rect	coords=340,401,386,418	href="/dbget-bin/www_bget?K04364"	title="K04364 (GRB2)" />
+<area shape=rect	coords=283,430,329,447	href="/dbget-bin/www_bget?K12230"	title="K12230 (PIK3AP1)" />
+<area shape=rect	coords=466,268,512,285	href="/dbget-bin/www_bget?K12229"	title="K12229 (DAPP1)" />
+<area shape=rect	coords=740,656,839,690	href="/kegg-bin/show_pathway?ko04120"	title="ko04120: Ubiquitin mediated proteolysis" onmouseover="popupTimer(&quot;ko04120&quot;, &quot;ko04120: Ubiquitin mediated proteolysis&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=10,669,125,703	href="/kegg-bin/show_pathway?ko04610"	title="ko04610: Complement and coagulation cascades" onmouseover="popupTimer(&quot;ko04610&quot;, &quot;ko04610: Complement and coagulation cascades&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=681,307,782,341	href="/kegg-bin/show_pathway?ko04810"	title="ko04810: Regulation of actin cytoskeleton" onmouseover="popupTimer(&quot;ko04810&quot;, &quot;ko04810: Regulation of actin cytoskeleton&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=40,45,351,70	href="/dbget-bin/www_bget?ko04662"	title="ko04662: B cell receptor signaling pathway" onmouseover="popupTimer(&quot;ko04662&quot;, &quot;ko04662: B cell receptor signaling pathway&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=585,402,686,436	href="/kegg-bin/show_pathway?ko04020"	title="ko04020: Calcium signaling pathway" onmouseover="popupTimer(&quot;ko04020&quot;, &quot;ko04020: Calcium signaling pathway&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=663,496,764,530	href="/kegg-bin/show_pathway?ko04010"	title="ko04010: MAPK signaling pathway" onmouseover="popupTimer(&quot;ko04010&quot;, &quot;ko04010: MAPK signaling pathway&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=622,617,723,651	href="/kegg-bin/show_pathway?ko04064"	title="ko04064: NF-kappa B signaling pathway" onmouseover="popupTimer(&quot;ko04064&quot;, &quot;ko04064: NF-kappa B signaling pathway&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=347,651,448,685	href="/kegg-bin/show_pathway?ko04151"	title="ko04151: PI3K-Akt signaling pathway" onmouseover="popupTimer(&quot;ko04151&quot;, &quot;ko04151: PI3K-Akt signaling pathway&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

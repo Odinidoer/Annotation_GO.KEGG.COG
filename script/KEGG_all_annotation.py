@@ -114,14 +114,15 @@ ko%s.png
 		for KO in KOs:
 			if '%s (' %KO in html_data:
 				KO_data = re.findall(r'<area shape=(.*?)\tcoords=(.*?)\thref=.*?%s.*?" />'%KO,html_data)
+				map_size = float(re.search(r'selected>(\d*?)\%',html_data).group(1))
 				for i in range(len(KO_data)):
 					shape = KO_data[i][0]
 					coords = KO_data[i][1]
 					if shape == 'circle':
 						items = coords.split(',')
-						c_x = float(items[0])/1.
-						c_y = float(items[1])/1.
-						diameter = float(items[2])/1.
+						c_x = float(items[0])*100.0/map_size
+						c_y = float(items[1])*100.0/map_size
+						diameter = float(items[2])*100.0/map_size
 						x_left_up = c_x - diameter
 						y_left_up = c_y - diameter
 						x_right_down = c_x + diameter
@@ -129,10 +130,10 @@ ko%s.png
 						draw.ellipse((x_left_up,y_left_up,x_right_down,y_right_down),fill='red',outline='red')
 					if shape == 'rect':
 						items = coords.split(',')
-						x_left = float(items[0])
-						y_left = float(items[1])
-						x_right = float(items[2])
-						y_right = float(items[3])
+						x_left = float(items[0])*100.0/map_size
+						y_left = float(items[1])*100.0/map_size
+						x_right = float(items[2])*100.0/map_size
+						y_right = float(items[3])*100.0/map_size
 						draw.line([(x_left,y_left),(x_right,y_left),(x_right,y_right),(x_left,y_right),(x_left,y_left)],fill='red',width=2)
 		png.save('%s/ko%s.png' %(outdir,name))
 			

@@ -1,0 +1,974 @@
+path:cth00010	Glycolysis / Gluconeogenesis - Ruminiclostridium thermocellum ATCC 27405
+path:cth00020	Citrate cycle (TCA cycle) - Ruminiclostridium thermocellum ATCC 27405
+path:cth00030	Pentose phosphate pathway - Ruminiclostridium thermocellum ATCC 27405
+path:cth00040	Pentose and glucuronate interconversions - Ruminiclostridium thermocellum ATCC 27405
+path:cth00051	Fructose and mannose metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00052	Galactose metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00053	Ascorbate and aldarate metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00061	Fatty acid biosynthesis - Ruminiclostridium thermocellum ATCC 27405
+path:cth00071	Fatty acid degradation - Ruminiclostridium thermocellum ATCC 27405
+path:cth00190	Oxidative phosphorylation - Ruminiclostridium thermocellum ATCC 27405
+path:cth00220	Arginine biosynthesis - Ruminiclostridium thermocellum ATCC 27405
+path:cth00230	Purine metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00240	Pyrimidine metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00250	Alanine, aspartate and glutamate metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00260	Glycine, serine and threonine metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00261	Monobactam biosynthesis - Ruminiclostridium thermocellum ATCC 27405
+path:cth00270	Cysteine and methionine metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00280	Valine, leucine and isoleucine degradation - Ruminiclostridium thermocellum ATCC 27405
+path:cth00290	Valine, leucine and isoleucine biosynthesis - Ruminiclostridium thermocellum ATCC 27405
+path:cth00300	Lysine biosynthesis - Ruminiclostridium thermocellum ATCC 27405
+path:cth00311	Penicillin and cephalosporin biosynthesis - Ruminiclostridium thermocellum ATCC 27405
+path:cth00330	Arginine and proline metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00332	Carbapenem biosynthesis - Ruminiclostridium thermocellum ATCC 27405
+path:cth00340	Histidine metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00350	Tyrosine metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00360	Phenylalanine metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00380	Tryptophan metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Ruminiclostridium thermocellum ATCC 27405
+path:cth00401	Novobiocin biosynthesis - Ruminiclostridium thermocellum ATCC 27405
+path:cth00410	beta-Alanine metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00430	Taurine and hypotaurine metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00450	Selenocompound metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00460	Cyanoamino acid metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00471	D-Glutamine and D-glutamate metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00473	D-Alanine metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00480	Glutathione metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00500	Starch and sucrose metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00520	Amino sugar and nucleotide sugar metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00521	Streptomycin biosynthesis - Ruminiclostridium thermocellum ATCC 27405
+path:cth00523	Polyketide sugar unit biosynthesis - Ruminiclostridium thermocellum ATCC 27405
+path:cth00550	Peptidoglycan biosynthesis - Ruminiclostridium thermocellum ATCC 27405
+path:cth00561	Glycerolipid metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00562	Inositol phosphate metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00564	Glycerophospholipid metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00620	Pyruvate metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00625	Chloroalkane and chloroalkene degradation - Ruminiclostridium thermocellum ATCC 27405
+path:cth00626	Naphthalene degradation - Ruminiclostridium thermocellum ATCC 27405
+path:cth00630	Glyoxylate and dicarboxylate metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00633	Nitrotoluene degradation - Ruminiclostridium thermocellum ATCC 27405
+path:cth00640	Propanoate metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00650	Butanoate metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00660	C5-Branched dibasic acid metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00670	One carbon pool by folate - Ruminiclostridium thermocellum ATCC 27405
+path:cth00680	Methane metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00730	Thiamine metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00740	Riboflavin metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00750	Vitamin B6 metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00760	Nicotinate and nicotinamide metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00770	Pantothenate and CoA biosynthesis - Ruminiclostridium thermocellum ATCC 27405
+path:cth00780	Biotin metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00790	Folate biosynthesis - Ruminiclostridium thermocellum ATCC 27405
+path:cth00860	Porphyrin and chlorophyll metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00900	Terpenoid backbone biosynthesis - Ruminiclostridium thermocellum ATCC 27405
+path:cth00910	Nitrogen metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00920	Sulfur metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth00970	Aminoacyl-tRNA biosynthesis - Ruminiclostridium thermocellum ATCC 27405
+path:cth01040	Biosynthesis of unsaturated fatty acids - Ruminiclostridium thermocellum ATCC 27405
+path:cth01100	Metabolic pathways - Ruminiclostridium thermocellum ATCC 27405
+path:cth01110	Biosynthesis of secondary metabolites - Ruminiclostridium thermocellum ATCC 27405
+path:cth01120	Microbial metabolism in diverse environments - Ruminiclostridium thermocellum ATCC 27405
+path:cth01130	Biosynthesis of antibiotics - Ruminiclostridium thermocellum ATCC 27405
+path:cth01200	Carbon metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth01210	2-Oxocarboxylic acid metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth01212	Fatty acid metabolism - Ruminiclostridium thermocellum ATCC 27405
+path:cth01220	Degradation of aromatic compounds - Ruminiclostridium thermocellum ATCC 27405
+path:cth01230	Biosynthesis of amino acids - Ruminiclostridium thermocellum ATCC 27405
+path:cth01501	beta-Lactam resistance - Ruminiclostridium thermocellum ATCC 27405
+path:cth01502	Vancomycin resistance - Ruminiclostridium thermocellum ATCC 27405
+path:cth01503	Cationic antimicrobial peptide (CAMP) resistance - Ruminiclostridium thermocellum ATCC 27405
+path:cth02010	ABC transporters - Ruminiclostridium thermocellum ATCC 27405
+path:cth02020	Two-component system - Ruminiclostridium thermocellum ATCC 27405
+path:cth02024	Quorum sensing - Ruminiclostridium thermocellum ATCC 27405
+path:cth02030	Bacterial chemotaxis - Ruminiclostridium thermocellum ATCC 27405
+path:cth02040	Flagellar assembly - Ruminiclostridium thermocellum ATCC 27405
+path:cth02060	Phosphotransferase system (PTS) - Ruminiclostridium thermocellum ATCC 27405
+path:cth03010	Ribosome - Ruminiclostridium thermocellum ATCC 27405
+path:cth03018	RNA degradation - Ruminiclostridium thermocellum ATCC 27405
+path:cth03020	RNA polymerase - Ruminiclostridium thermocellum ATCC 27405
+path:cth03030	DNA replication - Ruminiclostridium thermocellum ATCC 27405
+path:cth03060	Protein export - Ruminiclostridium thermocellum ATCC 27405
+path:cth03070	Bacterial secretion system - Ruminiclostridium thermocellum ATCC 27405
+path:cth03410	Base excision repair - Ruminiclostridium thermocellum ATCC 27405
+path:cth03420	Nucleotide excision repair - Ruminiclostridium thermocellum ATCC 27405
+path:cth03430	Mismatch repair - Ruminiclostridium thermocellum ATCC 27405
+path:cth03440	Homologous recombination - Ruminiclostridium thermocellum ATCC 27405
+path:cth04122	Sulfur relay system - Ruminiclostridium thermocellum ATCC 27405
+path:ctx00010	Glycolysis / Gluconeogenesis - Ruminiclostridium thermocellum DSM 1313
+path:ctx00020	Citrate cycle (TCA cycle) - Ruminiclostridium thermocellum DSM 1313
+path:ctx00030	Pentose phosphate pathway - Ruminiclostridium thermocellum DSM 1313
+path:ctx00040	Pentose and glucuronate interconversions - Ruminiclostridium thermocellum DSM 1313
+path:ctx00051	Fructose and mannose metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00052	Galactose metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00053	Ascorbate and aldarate metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00061	Fatty acid biosynthesis - Ruminiclostridium thermocellum DSM 1313
+path:ctx00071	Fatty acid degradation - Ruminiclostridium thermocellum DSM 1313
+path:ctx00190	Oxidative phosphorylation - Ruminiclostridium thermocellum DSM 1313
+path:ctx00220	Arginine biosynthesis - Ruminiclostridium thermocellum DSM 1313
+path:ctx00230	Purine metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00240	Pyrimidine metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00250	Alanine, aspartate and glutamate metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00260	Glycine, serine and threonine metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00261	Monobactam biosynthesis - Ruminiclostridium thermocellum DSM 1313
+path:ctx00270	Cysteine and methionine metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00280	Valine, leucine and isoleucine degradation - Ruminiclostridium thermocellum DSM 1313
+path:ctx00290	Valine, leucine and isoleucine biosynthesis - Ruminiclostridium thermocellum DSM 1313
+path:ctx00300	Lysine biosynthesis - Ruminiclostridium thermocellum DSM 1313
+path:ctx00311	Penicillin and cephalosporin biosynthesis - Ruminiclostridium thermocellum DSM 1313
+path:ctx00330	Arginine and proline metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00332	Carbapenem biosynthesis - Ruminiclostridium thermocellum DSM 1313
+path:ctx00340	Histidine metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00350	Tyrosine metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00360	Phenylalanine metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00380	Tryptophan metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Ruminiclostridium thermocellum DSM 1313
+path:ctx00401	Novobiocin biosynthesis - Ruminiclostridium thermocellum DSM 1313
+path:ctx00410	beta-Alanine metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00430	Taurine and hypotaurine metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00450	Selenocompound metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00460	Cyanoamino acid metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00471	D-Glutamine and D-glutamate metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00473	D-Alanine metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00480	Glutathione metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00500	Starch and sucrose metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00511	Other glycan degradation - Ruminiclostridium thermocellum DSM 1313
+path:ctx00520	Amino sugar and nucleotide sugar metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00521	Streptomycin biosynthesis - Ruminiclostridium thermocellum DSM 1313
+path:ctx00523	Polyketide sugar unit biosynthesis - Ruminiclostridium thermocellum DSM 1313
+path:ctx00550	Peptidoglycan biosynthesis - Ruminiclostridium thermocellum DSM 1313
+path:ctx00561	Glycerolipid metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00562	Inositol phosphate metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00564	Glycerophospholipid metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00620	Pyruvate metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00625	Chloroalkane and chloroalkene degradation - Ruminiclostridium thermocellum DSM 1313
+path:ctx00626	Naphthalene degradation - Ruminiclostridium thermocellum DSM 1313
+path:ctx00630	Glyoxylate and dicarboxylate metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00633	Nitrotoluene degradation - Ruminiclostridium thermocellum DSM 1313
+path:ctx00640	Propanoate metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00650	Butanoate metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00660	C5-Branched dibasic acid metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00670	One carbon pool by folate - Ruminiclostridium thermocellum DSM 1313
+path:ctx00680	Methane metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00730	Thiamine metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00740	Riboflavin metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00750	Vitamin B6 metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00760	Nicotinate and nicotinamide metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00770	Pantothenate and CoA biosynthesis - Ruminiclostridium thermocellum DSM 1313
+path:ctx00780	Biotin metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00790	Folate biosynthesis - Ruminiclostridium thermocellum DSM 1313
+path:ctx00860	Porphyrin and chlorophyll metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00900	Terpenoid backbone biosynthesis - Ruminiclostridium thermocellum DSM 1313
+path:ctx00910	Nitrogen metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00920	Sulfur metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx00970	Aminoacyl-tRNA biosynthesis - Ruminiclostridium thermocellum DSM 1313
+path:ctx01040	Biosynthesis of unsaturated fatty acids - Ruminiclostridium thermocellum DSM 1313
+path:ctx01100	Metabolic pathways - Ruminiclostridium thermocellum DSM 1313
+path:ctx01110	Biosynthesis of secondary metabolites - Ruminiclostridium thermocellum DSM 1313
+path:ctx01120	Microbial metabolism in diverse environments - Ruminiclostridium thermocellum DSM 1313
+path:ctx01130	Biosynthesis of antibiotics - Ruminiclostridium thermocellum DSM 1313
+path:ctx01200	Carbon metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx01210	2-Oxocarboxylic acid metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx01212	Fatty acid metabolism - Ruminiclostridium thermocellum DSM 1313
+path:ctx01220	Degradation of aromatic compounds - Ruminiclostridium thermocellum DSM 1313
+path:ctx01230	Biosynthesis of amino acids - Ruminiclostridium thermocellum DSM 1313
+path:ctx01501	beta-Lactam resistance - Ruminiclostridium thermocellum DSM 1313
+path:ctx01502	Vancomycin resistance - Ruminiclostridium thermocellum DSM 1313
+path:ctx01503	Cationic antimicrobial peptide (CAMP) resistance - Ruminiclostridium thermocellum DSM 1313
+path:ctx02010	ABC transporters - Ruminiclostridium thermocellum DSM 1313
+path:ctx02020	Two-component system - Ruminiclostridium thermocellum DSM 1313
+path:ctx02024	Quorum sensing - Ruminiclostridium thermocellum DSM 1313
+path:ctx02030	Bacterial chemotaxis - Ruminiclostridium thermocellum DSM 1313
+path:ctx02040	Flagellar assembly - Ruminiclostridium thermocellum DSM 1313
+path:ctx02060	Phosphotransferase system (PTS) - Ruminiclostridium thermocellum DSM 1313
+path:ctx03010	Ribosome - Ruminiclostridium thermocellum DSM 1313
+path:ctx03018	RNA degradation - Ruminiclostridium thermocellum DSM 1313
+path:ctx03020	RNA polymerase - Ruminiclostridium thermocellum DSM 1313
+path:ctx03030	DNA replication - Ruminiclostridium thermocellum DSM 1313
+path:ctx03060	Protein export - Ruminiclostridium thermocellum DSM 1313
+path:ctx03070	Bacterial secretion system - Ruminiclostridium thermocellum DSM 1313
+path:ctx03410	Base excision repair - Ruminiclostridium thermocellum DSM 1313
+path:ctx03420	Nucleotide excision repair - Ruminiclostridium thermocellum DSM 1313
+path:ctx03430	Mismatch repair - Ruminiclostridium thermocellum DSM 1313
+path:ctx03440	Homologous recombination - Ruminiclostridium thermocellum DSM 1313
+path:ctx04122	Sulfur relay system - Ruminiclostridium thermocellum DSM 1313
+path:ruk00010	Glycolysis / Gluconeogenesis - Ruminiclostridium sp. KB18
+path:ruk00020	Citrate cycle (TCA cycle) - Ruminiclostridium sp. KB18
+path:ruk00030	Pentose phosphate pathway - Ruminiclostridium sp. KB18
+path:ruk00040	Pentose and glucuronate interconversions - Ruminiclostridium sp. KB18
+path:ruk00051	Fructose and mannose metabolism - Ruminiclostridium sp. KB18
+path:ruk00052	Galactose metabolism - Ruminiclostridium sp. KB18
+path:ruk00061	Fatty acid biosynthesis - Ruminiclostridium sp. KB18
+path:ruk00121	Secondary bile acid biosynthesis - Ruminiclostridium sp. KB18
+path:ruk00130	Ubiquinone and other terpenoid-quinone biosynthesis - Ruminiclostridium sp. KB18
+path:ruk00190	Oxidative phosphorylation - Ruminiclostridium sp. KB18
+path:ruk00220	Arginine biosynthesis - Ruminiclostridium sp. KB18
+path:ruk00230	Purine metabolism - Ruminiclostridium sp. KB18
+path:ruk00240	Pyrimidine metabolism - Ruminiclostridium sp. KB18
+path:ruk00250	Alanine, aspartate and glutamate metabolism - Ruminiclostridium sp. KB18
+path:ruk00260	Glycine, serine and threonine metabolism - Ruminiclostridium sp. KB18
+path:ruk00261	Monobactam biosynthesis - Ruminiclostridium sp. KB18
+path:ruk00270	Cysteine and methionine metabolism - Ruminiclostridium sp. KB18
+path:ruk00280	Valine, leucine and isoleucine degradation - Ruminiclostridium sp. KB18
+path:ruk00290	Valine, leucine and isoleucine biosynthesis - Ruminiclostridium sp. KB18
+path:ruk00300	Lysine biosynthesis - Ruminiclostridium sp. KB18
+path:ruk00330	Arginine and proline metabolism - Ruminiclostridium sp. KB18
+path:ruk00332	Carbapenem biosynthesis - Ruminiclostridium sp. KB18
+path:ruk00340	Histidine metabolism - Ruminiclostridium sp. KB18
+path:ruk00350	Tyrosine metabolism - Ruminiclostridium sp. KB18
+path:ruk00360	Phenylalanine metabolism - Ruminiclostridium sp. KB18
+path:ruk00361	Chlorocyclohexane and chlorobenzene degradation - Ruminiclostridium sp. KB18
+path:ruk00362	Benzoate degradation - Ruminiclostridium sp. KB18
+path:ruk00364	Fluorobenzoate degradation - Ruminiclostridium sp. KB18
+path:ruk00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Ruminiclostridium sp. KB18
+path:ruk00401	Novobiocin biosynthesis - Ruminiclostridium sp. KB18
+path:ruk00430	Taurine and hypotaurine metabolism - Ruminiclostridium sp. KB18
+path:ruk00440	Phosphonate and phosphinate metabolism - Ruminiclostridium sp. KB18
+path:ruk00450	Selenocompound metabolism - Ruminiclostridium sp. KB18
+path:ruk00460	Cyanoamino acid metabolism - Ruminiclostridium sp. KB18
+path:ruk00471	D-Glutamine and D-glutamate metabolism - Ruminiclostridium sp. KB18
+path:ruk00472	D-Arginine and D-ornithine metabolism - Ruminiclostridium sp. KB18
+path:ruk00473	D-Alanine metabolism - Ruminiclostridium sp. KB18
+path:ruk00500	Starch and sucrose metabolism - Ruminiclostridium sp. KB18
+path:ruk00511	Other glycan degradation - Ruminiclostridium sp. KB18
+path:ruk00520	Amino sugar and nucleotide sugar metabolism - Ruminiclostridium sp. KB18
+path:ruk00521	Streptomycin biosynthesis - Ruminiclostridium sp. KB18
+path:ruk00523	Polyketide sugar unit biosynthesis - Ruminiclostridium sp. KB18
+path:ruk00525	Acarbose and validamycin biosynthesis - Ruminiclostridium sp. KB18
+path:ruk00540	Lipopolysaccharide biosynthesis - Ruminiclostridium sp. KB18
+path:ruk00550	Peptidoglycan biosynthesis - Ruminiclostridium sp. KB18
+path:ruk00561	Glycerolipid metabolism - Ruminiclostridium sp. KB18
+path:ruk00562	Inositol phosphate metabolism - Ruminiclostridium sp. KB18
+path:ruk00564	Glycerophospholipid metabolism - Ruminiclostridium sp. KB18
+path:ruk00600	Sphingolipid metabolism - Ruminiclostridium sp. KB18
+path:ruk00620	Pyruvate metabolism - Ruminiclostridium sp. KB18
+path:ruk00623	Toluene degradation - Ruminiclostridium sp. KB18
+path:ruk00625	Chloroalkane and chloroalkene degradation - Ruminiclostridium sp. KB18
+path:ruk00626	Naphthalene degradation - Ruminiclostridium sp. KB18
+path:ruk00630	Glyoxylate and dicarboxylate metabolism - Ruminiclostridium sp. KB18
+path:ruk00640	Propanoate metabolism - Ruminiclostridium sp. KB18
+path:ruk00650	Butanoate metabolism - Ruminiclostridium sp. KB18
+path:ruk00660	C5-Branched dibasic acid metabolism - Ruminiclostridium sp. KB18
+path:ruk00670	One carbon pool by folate - Ruminiclostridium sp. KB18
+path:ruk00680	Methane metabolism - Ruminiclostridium sp. KB18
+path:ruk00730	Thiamine metabolism - Ruminiclostridium sp. KB18
+path:ruk00740	Riboflavin metabolism - Ruminiclostridium sp. KB18
+path:ruk00750	Vitamin B6 metabolism - Ruminiclostridium sp. KB18
+path:ruk00760	Nicotinate and nicotinamide metabolism - Ruminiclostridium sp. KB18
+path:ruk00770	Pantothenate and CoA biosynthesis - Ruminiclostridium sp. KB18
+path:ruk00780	Biotin metabolism - Ruminiclostridium sp. KB18
+path:ruk00790	Folate biosynthesis - Ruminiclostridium sp. KB18
+path:ruk00860	Porphyrin and chlorophyll metabolism - Ruminiclostridium sp. KB18
+path:ruk00900	Terpenoid backbone biosynthesis - Ruminiclostridium sp. KB18
+path:ruk00910	Nitrogen metabolism - Ruminiclostridium sp. KB18
+path:ruk00920	Sulfur metabolism - Ruminiclostridium sp. KB18
+path:ruk00970	Aminoacyl-tRNA biosynthesis - Ruminiclostridium sp. KB18
+path:ruk01040	Biosynthesis of unsaturated fatty acids - Ruminiclostridium sp. KB18
+path:ruk01100	Metabolic pathways - Ruminiclostridium sp. KB18
+path:ruk01110	Biosynthesis of secondary metabolites - Ruminiclostridium sp. KB18
+path:ruk01120	Microbial metabolism in diverse environments - Ruminiclostridium sp. KB18
+path:ruk01130	Biosynthesis of antibiotics - Ruminiclostridium sp. KB18
+path:ruk01200	Carbon metabolism - Ruminiclostridium sp. KB18
+path:ruk01210	2-Oxocarboxylic acid metabolism - Ruminiclostridium sp. KB18
+path:ruk01212	Fatty acid metabolism - Ruminiclostridium sp. KB18
+path:ruk01220	Degradation of aromatic compounds - Ruminiclostridium sp. KB18
+path:ruk01230	Biosynthesis of amino acids - Ruminiclostridium sp. KB18
+path:ruk01501	beta-Lactam resistance - Ruminiclostridium sp. KB18
+path:ruk01502	Vancomycin resistance - Ruminiclostridium sp. KB18
+path:ruk01503	Cationic antimicrobial peptide (CAMP) resistance - Ruminiclostridium sp. KB18
+path:ruk02010	ABC transporters - Ruminiclostridium sp. KB18
+path:ruk02020	Two-component system - Ruminiclostridium sp. KB18
+path:ruk02024	Quorum sensing - Ruminiclostridium sp. KB18
+path:ruk02030	Bacterial chemotaxis - Ruminiclostridium sp. KB18
+path:ruk02040	Flagellar assembly - Ruminiclostridium sp. KB18
+path:ruk02060	Phosphotransferase system (PTS) - Ruminiclostridium sp. KB18
+path:ruk03010	Ribosome - Ruminiclostridium sp. KB18
+path:ruk03018	RNA degradation - Ruminiclostridium sp. KB18
+path:ruk03020	RNA polymerase - Ruminiclostridium sp. KB18
+path:ruk03030	DNA replication - Ruminiclostridium sp. KB18
+path:ruk03060	Protein export - Ruminiclostridium sp. KB18
+path:ruk03070	Bacterial secretion system - Ruminiclostridium sp. KB18
+path:ruk03410	Base excision repair - Ruminiclostridium sp. KB18
+path:ruk03420	Nucleotide excision repair - Ruminiclostridium sp. KB18
+path:ruk03430	Mismatch repair - Ruminiclostridium sp. KB18
+path:ruk03440	Homologous recombination - Ruminiclostridium sp. KB18
+path:ruk04122	Sulfur relay system - Ruminiclostridium sp. KB18
+path:cce00010	Glycolysis / Gluconeogenesis - Clostridium cellulolyticum
+path:cce00020	Citrate cycle (TCA cycle) - Clostridium cellulolyticum
+path:cce00030	Pentose phosphate pathway - Clostridium cellulolyticum
+path:cce00040	Pentose and glucuronate interconversions - Clostridium cellulolyticum
+path:cce00051	Fructose and mannose metabolism - Clostridium cellulolyticum
+path:cce00052	Galactose metabolism - Clostridium cellulolyticum
+path:cce00061	Fatty acid biosynthesis - Clostridium cellulolyticum
+path:cce00071	Fatty acid degradation - Clostridium cellulolyticum
+path:cce00190	Oxidative phosphorylation - Clostridium cellulolyticum
+path:cce00220	Arginine biosynthesis - Clostridium cellulolyticum
+path:cce00230	Purine metabolism - Clostridium cellulolyticum
+path:cce00240	Pyrimidine metabolism - Clostridium cellulolyticum
+path:cce00250	Alanine, aspartate and glutamate metabolism - Clostridium cellulolyticum
+path:cce00260	Glycine, serine and threonine metabolism - Clostridium cellulolyticum
+path:cce00261	Monobactam biosynthesis - Clostridium cellulolyticum
+path:cce00270	Cysteine and methionine metabolism - Clostridium cellulolyticum
+path:cce00280	Valine, leucine and isoleucine degradation - Clostridium cellulolyticum
+path:cce00290	Valine, leucine and isoleucine biosynthesis - Clostridium cellulolyticum
+path:cce00300	Lysine biosynthesis - Clostridium cellulolyticum
+path:cce00311	Penicillin and cephalosporin biosynthesis - Clostridium cellulolyticum
+path:cce00330	Arginine and proline metabolism - Clostridium cellulolyticum
+path:cce00332	Carbapenem biosynthesis - Clostridium cellulolyticum
+path:cce00340	Histidine metabolism - Clostridium cellulolyticum
+path:cce00350	Tyrosine metabolism - Clostridium cellulolyticum
+path:cce00360	Phenylalanine metabolism - Clostridium cellulolyticum
+path:cce00380	Tryptophan metabolism - Clostridium cellulolyticum
+path:cce00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Clostridium cellulolyticum
+path:cce00401	Novobiocin biosynthesis - Clostridium cellulolyticum
+path:cce00410	beta-Alanine metabolism - Clostridium cellulolyticum
+path:cce00430	Taurine and hypotaurine metabolism - Clostridium cellulolyticum
+path:cce00440	Phosphonate and phosphinate metabolism - Clostridium cellulolyticum
+path:cce00450	Selenocompound metabolism - Clostridium cellulolyticum
+path:cce00460	Cyanoamino acid metabolism - Clostridium cellulolyticum
+path:cce00471	D-Glutamine and D-glutamate metabolism - Clostridium cellulolyticum
+path:cce00473	D-Alanine metabolism - Clostridium cellulolyticum
+path:cce00480	Glutathione metabolism - Clostridium cellulolyticum
+path:cce00500	Starch and sucrose metabolism - Clostridium cellulolyticum
+path:cce00511	Other glycan degradation - Clostridium cellulolyticum
+path:cce00520	Amino sugar and nucleotide sugar metabolism - Clostridium cellulolyticum
+path:cce00521	Streptomycin biosynthesis - Clostridium cellulolyticum
+path:cce00523	Polyketide sugar unit biosynthesis - Clostridium cellulolyticum
+path:cce00524	Neomycin, kanamycin and gentamicin biosynthesis - Clostridium cellulolyticum
+path:cce00525	Acarbose and validamycin biosynthesis - Clostridium cellulolyticum
+path:cce00550	Peptidoglycan biosynthesis - Clostridium cellulolyticum
+path:cce00561	Glycerolipid metabolism - Clostridium cellulolyticum
+path:cce00562	Inositol phosphate metabolism - Clostridium cellulolyticum
+path:cce00564	Glycerophospholipid metabolism - Clostridium cellulolyticum
+path:cce00600	Sphingolipid metabolism - Clostridium cellulolyticum
+path:cce00620	Pyruvate metabolism - Clostridium cellulolyticum
+path:cce00625	Chloroalkane and chloroalkene degradation - Clostridium cellulolyticum
+path:cce00626	Naphthalene degradation - Clostridium cellulolyticum
+path:cce00630	Glyoxylate and dicarboxylate metabolism - Clostridium cellulolyticum
+path:cce00633	Nitrotoluene degradation - Clostridium cellulolyticum
+path:cce00640	Propanoate metabolism - Clostridium cellulolyticum
+path:cce00643	Styrene degradation - Clostridium cellulolyticum
+path:cce00650	Butanoate metabolism - Clostridium cellulolyticum
+path:cce00660	C5-Branched dibasic acid metabolism - Clostridium cellulolyticum
+path:cce00670	One carbon pool by folate - Clostridium cellulolyticum
+path:cce00680	Methane metabolism - Clostridium cellulolyticum
+path:cce00730	Thiamine metabolism - Clostridium cellulolyticum
+path:cce00740	Riboflavin metabolism - Clostridium cellulolyticum
+path:cce00750	Vitamin B6 metabolism - Clostridium cellulolyticum
+path:cce00760	Nicotinate and nicotinamide metabolism - Clostridium cellulolyticum
+path:cce00770	Pantothenate and CoA biosynthesis - Clostridium cellulolyticum
+path:cce00780	Biotin metabolism - Clostridium cellulolyticum
+path:cce00790	Folate biosynthesis - Clostridium cellulolyticum
+path:cce00860	Porphyrin and chlorophyll metabolism - Clostridium cellulolyticum
+path:cce00900	Terpenoid backbone biosynthesis - Clostridium cellulolyticum
+path:cce00910	Nitrogen metabolism - Clostridium cellulolyticum
+path:cce00920	Sulfur metabolism - Clostridium cellulolyticum
+path:cce00970	Aminoacyl-tRNA biosynthesis - Clostridium cellulolyticum
+path:cce01040	Biosynthesis of unsaturated fatty acids - Clostridium cellulolyticum
+path:cce01100	Metabolic pathways - Clostridium cellulolyticum
+path:cce01110	Biosynthesis of secondary metabolites - Clostridium cellulolyticum
+path:cce01120	Microbial metabolism in diverse environments - Clostridium cellulolyticum
+path:cce01130	Biosynthesis of antibiotics - Clostridium cellulolyticum
+path:cce01200	Carbon metabolism - Clostridium cellulolyticum
+path:cce01210	2-Oxocarboxylic acid metabolism - Clostridium cellulolyticum
+path:cce01212	Fatty acid metabolism - Clostridium cellulolyticum
+path:cce01220	Degradation of aromatic compounds - Clostridium cellulolyticum
+path:cce01230	Biosynthesis of amino acids - Clostridium cellulolyticum
+path:cce01501	beta-Lactam resistance - Clostridium cellulolyticum
+path:cce01502	Vancomycin resistance - Clostridium cellulolyticum
+path:cce01503	Cationic antimicrobial peptide (CAMP) resistance - Clostridium cellulolyticum
+path:cce02010	ABC transporters - Clostridium cellulolyticum
+path:cce02020	Two-component system - Clostridium cellulolyticum
+path:cce02024	Quorum sensing - Clostridium cellulolyticum
+path:cce02030	Bacterial chemotaxis - Clostridium cellulolyticum
+path:cce02040	Flagellar assembly - Clostridium cellulolyticum
+path:cce03010	Ribosome - Clostridium cellulolyticum
+path:cce03018	RNA degradation - Clostridium cellulolyticum
+path:cce03020	RNA polymerase - Clostridium cellulolyticum
+path:cce03030	DNA replication - Clostridium cellulolyticum
+path:cce03060	Protein export - Clostridium cellulolyticum
+path:cce03070	Bacterial secretion system - Clostridium cellulolyticum
+path:cce03410	Base excision repair - Clostridium cellulolyticum
+path:cce03420	Nucleotide excision repair - Clostridium cellulolyticum
+path:cce03430	Mismatch repair - Clostridium cellulolyticum
+path:cce03440	Homologous recombination - Clostridium cellulolyticum
+path:cce03450	Non-homologous end-joining - Clostridium cellulolyticum
+path:cce04122	Sulfur relay system - Clostridium cellulolyticum
+path:ccl00010	Glycolysis / Gluconeogenesis - Clostridium clariflavum
+path:ccl00020	Citrate cycle (TCA cycle) - Clostridium clariflavum
+path:ccl00030	Pentose phosphate pathway - Clostridium clariflavum
+path:ccl00040	Pentose and glucuronate interconversions - Clostridium clariflavum
+path:ccl00051	Fructose and mannose metabolism - Clostridium clariflavum
+path:ccl00052	Galactose metabolism - Clostridium clariflavum
+path:ccl00053	Ascorbate and aldarate metabolism - Clostridium clariflavum
+path:ccl00061	Fatty acid biosynthesis - Clostridium clariflavum
+path:ccl00071	Fatty acid degradation - Clostridium clariflavum
+path:ccl00130	Ubiquinone and other terpenoid-quinone biosynthesis - Clostridium clariflavum
+path:ccl00190	Oxidative phosphorylation - Clostridium clariflavum
+path:ccl00220	Arginine biosynthesis - Clostridium clariflavum
+path:ccl00230	Purine metabolism - Clostridium clariflavum
+path:ccl00240	Pyrimidine metabolism - Clostridium clariflavum
+path:ccl00250	Alanine, aspartate and glutamate metabolism - Clostridium clariflavum
+path:ccl00260	Glycine, serine and threonine metabolism - Clostridium clariflavum
+path:ccl00261	Monobactam biosynthesis - Clostridium clariflavum
+path:ccl00270	Cysteine and methionine metabolism - Clostridium clariflavum
+path:ccl00280	Valine, leucine and isoleucine degradation - Clostridium clariflavum
+path:ccl00290	Valine, leucine and isoleucine biosynthesis - Clostridium clariflavum
+path:ccl00300	Lysine biosynthesis - Clostridium clariflavum
+path:ccl00310	Lysine degradation - Clostridium clariflavum
+path:ccl00311	Penicillin and cephalosporin biosynthesis - Clostridium clariflavum
+path:ccl00330	Arginine and proline metabolism - Clostridium clariflavum
+path:ccl00332	Carbapenem biosynthesis - Clostridium clariflavum
+path:ccl00340	Histidine metabolism - Clostridium clariflavum
+path:ccl00350	Tyrosine metabolism - Clostridium clariflavum
+path:ccl00360	Phenylalanine metabolism - Clostridium clariflavum
+path:ccl00362	Benzoate degradation - Clostridium clariflavum
+path:ccl00380	Tryptophan metabolism - Clostridium clariflavum
+path:ccl00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Clostridium clariflavum
+path:ccl00401	Novobiocin biosynthesis - Clostridium clariflavum
+path:ccl00410	beta-Alanine metabolism - Clostridium clariflavum
+path:ccl00430	Taurine and hypotaurine metabolism - Clostridium clariflavum
+path:ccl00440	Phosphonate and phosphinate metabolism - Clostridium clariflavum
+path:ccl00450	Selenocompound metabolism - Clostridium clariflavum
+path:ccl00460	Cyanoamino acid metabolism - Clostridium clariflavum
+path:ccl00471	D-Glutamine and D-glutamate metabolism - Clostridium clariflavum
+path:ccl00473	D-Alanine metabolism - Clostridium clariflavum
+path:ccl00480	Glutathione metabolism - Clostridium clariflavum
+path:ccl00500	Starch and sucrose metabolism - Clostridium clariflavum
+path:ccl00520	Amino sugar and nucleotide sugar metabolism - Clostridium clariflavum
+path:ccl00521	Streptomycin biosynthesis - Clostridium clariflavum
+path:ccl00523	Polyketide sugar unit biosynthesis - Clostridium clariflavum
+path:ccl00525	Acarbose and validamycin biosynthesis - Clostridium clariflavum
+path:ccl00550	Peptidoglycan biosynthesis - Clostridium clariflavum
+path:ccl00561	Glycerolipid metabolism - Clostridium clariflavum
+path:ccl00562	Inositol phosphate metabolism - Clostridium clariflavum
+path:ccl00564	Glycerophospholipid metabolism - Clostridium clariflavum
+path:ccl00620	Pyruvate metabolism - Clostridium clariflavum
+path:ccl00621	Dioxin degradation - Clostridium clariflavum
+path:ccl00622	Xylene degradation - Clostridium clariflavum
+path:ccl00625	Chloroalkane and chloroalkene degradation - Clostridium clariflavum
+path:ccl00626	Naphthalene degradation - Clostridium clariflavum
+path:ccl00630	Glyoxylate and dicarboxylate metabolism - Clostridium clariflavum
+path:ccl00633	Nitrotoluene degradation - Clostridium clariflavum
+path:ccl00640	Propanoate metabolism - Clostridium clariflavum
+path:ccl00650	Butanoate metabolism - Clostridium clariflavum
+path:ccl00660	C5-Branched dibasic acid metabolism - Clostridium clariflavum
+path:ccl00670	One carbon pool by folate - Clostridium clariflavum
+path:ccl00680	Methane metabolism - Clostridium clariflavum
+path:ccl00730	Thiamine metabolism - Clostridium clariflavum
+path:ccl00740	Riboflavin metabolism - Clostridium clariflavum
+path:ccl00750	Vitamin B6 metabolism - Clostridium clariflavum
+path:ccl00760	Nicotinate and nicotinamide metabolism - Clostridium clariflavum
+path:ccl00770	Pantothenate and CoA biosynthesis - Clostridium clariflavum
+path:ccl00780	Biotin metabolism - Clostridium clariflavum
+path:ccl00790	Folate biosynthesis - Clostridium clariflavum
+path:ccl00860	Porphyrin and chlorophyll metabolism - Clostridium clariflavum
+path:ccl00900	Terpenoid backbone biosynthesis - Clostridium clariflavum
+path:ccl00910	Nitrogen metabolism - Clostridium clariflavum
+path:ccl00920	Sulfur metabolism - Clostridium clariflavum
+path:ccl00970	Aminoacyl-tRNA biosynthesis - Clostridium clariflavum
+path:ccl01040	Biosynthesis of unsaturated fatty acids - Clostridium clariflavum
+path:ccl01100	Metabolic pathways - Clostridium clariflavum
+path:ccl01110	Biosynthesis of secondary metabolites - Clostridium clariflavum
+path:ccl01120	Microbial metabolism in diverse environments - Clostridium clariflavum
+path:ccl01130	Biosynthesis of antibiotics - Clostridium clariflavum
+path:ccl01200	Carbon metabolism - Clostridium clariflavum
+path:ccl01210	2-Oxocarboxylic acid metabolism - Clostridium clariflavum
+path:ccl01212	Fatty acid metabolism - Clostridium clariflavum
+path:ccl01220	Degradation of aromatic compounds - Clostridium clariflavum
+path:ccl01230	Biosynthesis of amino acids - Clostridium clariflavum
+path:ccl01501	beta-Lactam resistance - Clostridium clariflavum
+path:ccl01502	Vancomycin resistance - Clostridium clariflavum
+path:ccl01503	Cationic antimicrobial peptide (CAMP) resistance - Clostridium clariflavum
+path:ccl02010	ABC transporters - Clostridium clariflavum
+path:ccl02020	Two-component system - Clostridium clariflavum
+path:ccl02024	Quorum sensing - Clostridium clariflavum
+path:ccl02030	Bacterial chemotaxis - Clostridium clariflavum
+path:ccl02040	Flagellar assembly - Clostridium clariflavum
+path:ccl02060	Phosphotransferase system (PTS) - Clostridium clariflavum
+path:ccl03010	Ribosome - Clostridium clariflavum
+path:ccl03018	RNA degradation - Clostridium clariflavum
+path:ccl03020	RNA polymerase - Clostridium clariflavum
+path:ccl03030	DNA replication - Clostridium clariflavum
+path:ccl03060	Protein export - Clostridium clariflavum
+path:ccl03070	Bacterial secretion system - Clostridium clariflavum
+path:ccl03410	Base excision repair - Clostridium clariflavum
+path:ccl03420	Nucleotide excision repair - Clostridium clariflavum
+path:ccl03430	Mismatch repair - Clostridium clariflavum
+path:ccl03440	Homologous recombination - Clostridium clariflavum
+path:ccl04122	Sulfur relay system - Clostridium clariflavum
+path:esr00010	Glycolysis / Gluconeogenesis - Eubacterium siraeum V10Sc8a
+path:esr00020	Citrate cycle (TCA cycle) - Eubacterium siraeum V10Sc8a
+path:esr00030	Pentose phosphate pathway - Eubacterium siraeum V10Sc8a
+path:esr00040	Pentose and glucuronate interconversions - Eubacterium siraeum V10Sc8a
+path:esr00051	Fructose and mannose metabolism - Eubacterium siraeum V10Sc8a
+path:esr00052	Galactose metabolism - Eubacterium siraeum V10Sc8a
+path:esr00061	Fatty acid biosynthesis - Eubacterium siraeum V10Sc8a
+path:esr00121	Secondary bile acid biosynthesis - Eubacterium siraeum V10Sc8a
+path:esr00190	Oxidative phosphorylation - Eubacterium siraeum V10Sc8a
+path:esr00220	Arginine biosynthesis - Eubacterium siraeum V10Sc8a
+path:esr00230	Purine metabolism - Eubacterium siraeum V10Sc8a
+path:esr00240	Pyrimidine metabolism - Eubacterium siraeum V10Sc8a
+path:esr00250	Alanine, aspartate and glutamate metabolism - Eubacterium siraeum V10Sc8a
+path:esr00260	Glycine, serine and threonine metabolism - Eubacterium siraeum V10Sc8a
+path:esr00261	Monobactam biosynthesis - Eubacterium siraeum V10Sc8a
+path:esr00270	Cysteine and methionine metabolism - Eubacterium siraeum V10Sc8a
+path:esr00280	Valine, leucine and isoleucine degradation - Eubacterium siraeum V10Sc8a
+path:esr00290	Valine, leucine and isoleucine biosynthesis - Eubacterium siraeum V10Sc8a
+path:esr00300	Lysine biosynthesis - Eubacterium siraeum V10Sc8a
+path:esr00330	Arginine and proline metabolism - Eubacterium siraeum V10Sc8a
+path:esr00332	Carbapenem biosynthesis - Eubacterium siraeum V10Sc8a
+path:esr00340	Histidine metabolism - Eubacterium siraeum V10Sc8a
+path:esr00350	Tyrosine metabolism - Eubacterium siraeum V10Sc8a
+path:esr00360	Phenylalanine metabolism - Eubacterium siraeum V10Sc8a
+path:esr00362	Benzoate degradation - Eubacterium siraeum V10Sc8a
+path:esr00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Eubacterium siraeum V10Sc8a
+path:esr00401	Novobiocin biosynthesis - Eubacterium siraeum V10Sc8a
+path:esr00410	beta-Alanine metabolism - Eubacterium siraeum V10Sc8a
+path:esr00430	Taurine and hypotaurine metabolism - Eubacterium siraeum V10Sc8a
+path:esr00440	Phosphonate and phosphinate metabolism - Eubacterium siraeum V10Sc8a
+path:esr00450	Selenocompound metabolism - Eubacterium siraeum V10Sc8a
+path:esr00460	Cyanoamino acid metabolism - Eubacterium siraeum V10Sc8a
+path:esr00471	D-Glutamine and D-glutamate metabolism - Eubacterium siraeum V10Sc8a
+path:esr00473	D-Alanine metabolism - Eubacterium siraeum V10Sc8a
+path:esr00480	Glutathione metabolism - Eubacterium siraeum V10Sc8a
+path:esr00500	Starch and sucrose metabolism - Eubacterium siraeum V10Sc8a
+path:esr00511	Other glycan degradation - Eubacterium siraeum V10Sc8a
+path:esr00520	Amino sugar and nucleotide sugar metabolism - Eubacterium siraeum V10Sc8a
+path:esr00521	Streptomycin biosynthesis - Eubacterium siraeum V10Sc8a
+path:esr00550	Peptidoglycan biosynthesis - Eubacterium siraeum V10Sc8a
+path:esr00561	Glycerolipid metabolism - Eubacterium siraeum V10Sc8a
+path:esr00564	Glycerophospholipid metabolism - Eubacterium siraeum V10Sc8a
+path:esr00600	Sphingolipid metabolism - Eubacterium siraeum V10Sc8a
+path:esr00620	Pyruvate metabolism - Eubacterium siraeum V10Sc8a
+path:esr00625	Chloroalkane and chloroalkene degradation - Eubacterium siraeum V10Sc8a
+path:esr00626	Naphthalene degradation - Eubacterium siraeum V10Sc8a
+path:esr00630	Glyoxylate and dicarboxylate metabolism - Eubacterium siraeum V10Sc8a
+path:esr00640	Propanoate metabolism - Eubacterium siraeum V10Sc8a
+path:esr00650	Butanoate metabolism - Eubacterium siraeum V10Sc8a
+path:esr00660	C5-Branched dibasic acid metabolism - Eubacterium siraeum V10Sc8a
+path:esr00670	One carbon pool by folate - Eubacterium siraeum V10Sc8a
+path:esr00680	Methane metabolism - Eubacterium siraeum V10Sc8a
+path:esr00730	Thiamine metabolism - Eubacterium siraeum V10Sc8a
+path:esr00750	Vitamin B6 metabolism - Eubacterium siraeum V10Sc8a
+path:esr00760	Nicotinate and nicotinamide metabolism - Eubacterium siraeum V10Sc8a
+path:esr00770	Pantothenate and CoA biosynthesis - Eubacterium siraeum V10Sc8a
+path:esr00780	Biotin metabolism - Eubacterium siraeum V10Sc8a
+path:esr00790	Folate biosynthesis - Eubacterium siraeum V10Sc8a
+path:esr00860	Porphyrin and chlorophyll metabolism - Eubacterium siraeum V10Sc8a
+path:esr00900	Terpenoid backbone biosynthesis - Eubacterium siraeum V10Sc8a
+path:esr00910	Nitrogen metabolism - Eubacterium siraeum V10Sc8a
+path:esr00920	Sulfur metabolism - Eubacterium siraeum V10Sc8a
+path:esr00970	Aminoacyl-tRNA biosynthesis - Eubacterium siraeum V10Sc8a
+path:esr01040	Biosynthesis of unsaturated fatty acids - Eubacterium siraeum V10Sc8a
+path:esr01100	Metabolic pathways - Eubacterium siraeum V10Sc8a
+path:esr01110	Biosynthesis of secondary metabolites - Eubacterium siraeum V10Sc8a
+path:esr01120	Microbial metabolism in diverse environments - Eubacterium siraeum V10Sc8a
+path:esr01130	Biosynthesis of antibiotics - Eubacterium siraeum V10Sc8a
+path:esr01200	Carbon metabolism - Eubacterium siraeum V10Sc8a
+path:esr01210	2-Oxocarboxylic acid metabolism - Eubacterium siraeum V10Sc8a
+path:esr01212	Fatty acid metabolism - Eubacterium siraeum V10Sc8a
+path:esr01220	Degradation of aromatic compounds - Eubacterium siraeum V10Sc8a
+path:esr01230	Biosynthesis of amino acids - Eubacterium siraeum V10Sc8a
+path:esr01501	beta-Lactam resistance - Eubacterium siraeum V10Sc8a
+path:esr01502	Vancomycin resistance - Eubacterium siraeum V10Sc8a
+path:esr01503	Cationic antimicrobial peptide (CAMP) resistance - Eubacterium siraeum V10Sc8a
+path:esr02010	ABC transporters - Eubacterium siraeum V10Sc8a
+path:esr02020	Two-component system - Eubacterium siraeum V10Sc8a
+path:esr02024	Quorum sensing - Eubacterium siraeum V10Sc8a
+path:esr02030	Bacterial chemotaxis - Eubacterium siraeum V10Sc8a
+path:esr02040	Flagellar assembly - Eubacterium siraeum V10Sc8a
+path:esr02060	Phosphotransferase system (PTS) - Eubacterium siraeum V10Sc8a
+path:esr03010	Ribosome - Eubacterium siraeum V10Sc8a
+path:esr03018	RNA degradation - Eubacterium siraeum V10Sc8a
+path:esr03020	RNA polymerase - Eubacterium siraeum V10Sc8a
+path:esr03030	DNA replication - Eubacterium siraeum V10Sc8a
+path:esr03060	Protein export - Eubacterium siraeum V10Sc8a
+path:esr03070	Bacterial secretion system - Eubacterium siraeum V10Sc8a
+path:esr03410	Base excision repair - Eubacterium siraeum V10Sc8a
+path:esr03420	Nucleotide excision repair - Eubacterium siraeum V10Sc8a
+path:esr03430	Mismatch repair - Eubacterium siraeum V10Sc8a
+path:esr03440	Homologous recombination - Eubacterium siraeum V10Sc8a
+path:esr04122	Sulfur relay system - Eubacterium siraeum V10Sc8a
+path:esu00010	Glycolysis / Gluconeogenesis - Eubacterium siraeum 70/3
+path:esu00020	Citrate cycle (TCA cycle) - Eubacterium siraeum 70/3
+path:esu00030	Pentose phosphate pathway - Eubacterium siraeum 70/3
+path:esu00040	Pentose and glucuronate interconversions - Eubacterium siraeum 70/3
+path:esu00051	Fructose and mannose metabolism - Eubacterium siraeum 70/3
+path:esu00052	Galactose metabolism - Eubacterium siraeum 70/3
+path:esu00061	Fatty acid biosynthesis - Eubacterium siraeum 70/3
+path:esu00121	Secondary bile acid biosynthesis - Eubacterium siraeum 70/3
+path:esu00190	Oxidative phosphorylation - Eubacterium siraeum 70/3
+path:esu00220	Arginine biosynthesis - Eubacterium siraeum 70/3
+path:esu00230	Purine metabolism - Eubacterium siraeum 70/3
+path:esu00240	Pyrimidine metabolism - Eubacterium siraeum 70/3
+path:esu00250	Alanine, aspartate and glutamate metabolism - Eubacterium siraeum 70/3
+path:esu00260	Glycine, serine and threonine metabolism - Eubacterium siraeum 70/3
+path:esu00261	Monobactam biosynthesis - Eubacterium siraeum 70/3
+path:esu00270	Cysteine and methionine metabolism - Eubacterium siraeum 70/3
+path:esu00280	Valine, leucine and isoleucine degradation - Eubacterium siraeum 70/3
+path:esu00290	Valine, leucine and isoleucine biosynthesis - Eubacterium siraeum 70/3
+path:esu00300	Lysine biosynthesis - Eubacterium siraeum 70/3
+path:esu00330	Arginine and proline metabolism - Eubacterium siraeum 70/3
+path:esu00332	Carbapenem biosynthesis - Eubacterium siraeum 70/3
+path:esu00340	Histidine metabolism - Eubacterium siraeum 70/3
+path:esu00350	Tyrosine metabolism - Eubacterium siraeum 70/3
+path:esu00360	Phenylalanine metabolism - Eubacterium siraeum 70/3
+path:esu00362	Benzoate degradation - Eubacterium siraeum 70/3
+path:esu00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Eubacterium siraeum 70/3
+path:esu00401	Novobiocin biosynthesis - Eubacterium siraeum 70/3
+path:esu00410	beta-Alanine metabolism - Eubacterium siraeum 70/3
+path:esu00430	Taurine and hypotaurine metabolism - Eubacterium siraeum 70/3
+path:esu00440	Phosphonate and phosphinate metabolism - Eubacterium siraeum 70/3
+path:esu00450	Selenocompound metabolism - Eubacterium siraeum 70/3
+path:esu00460	Cyanoamino acid metabolism - Eubacterium siraeum 70/3
+path:esu00471	D-Glutamine and D-glutamate metabolism - Eubacterium siraeum 70/3
+path:esu00473	D-Alanine metabolism - Eubacterium siraeum 70/3
+path:esu00480	Glutathione metabolism - Eubacterium siraeum 70/3
+path:esu00500	Starch and sucrose metabolism - Eubacterium siraeum 70/3
+path:esu00511	Other glycan degradation - Eubacterium siraeum 70/3
+path:esu00520	Amino sugar and nucleotide sugar metabolism - Eubacterium siraeum 70/3
+path:esu00521	Streptomycin biosynthesis - Eubacterium siraeum 70/3
+path:esu00550	Peptidoglycan biosynthesis - Eubacterium siraeum 70/3
+path:esu00561	Glycerolipid metabolism - Eubacterium siraeum 70/3
+path:esu00564	Glycerophospholipid metabolism - Eubacterium siraeum 70/3
+path:esu00600	Sphingolipid metabolism - Eubacterium siraeum 70/3
+path:esu00620	Pyruvate metabolism - Eubacterium siraeum 70/3
+path:esu00625	Chloroalkane and chloroalkene degradation - Eubacterium siraeum 70/3
+path:esu00626	Naphthalene degradation - Eubacterium siraeum 70/3
+path:esu00630	Glyoxylate and dicarboxylate metabolism - Eubacterium siraeum 70/3
+path:esu00640	Propanoate metabolism - Eubacterium siraeum 70/3
+path:esu00650	Butanoate metabolism - Eubacterium siraeum 70/3
+path:esu00660	C5-Branched dibasic acid metabolism - Eubacterium siraeum 70/3
+path:esu00670	One carbon pool by folate - Eubacterium siraeum 70/3
+path:esu00680	Methane metabolism - Eubacterium siraeum 70/3
+path:esu00730	Thiamine metabolism - Eubacterium siraeum 70/3
+path:esu00750	Vitamin B6 metabolism - Eubacterium siraeum 70/3
+path:esu00760	Nicotinate and nicotinamide metabolism - Eubacterium siraeum 70/3
+path:esu00770	Pantothenate and CoA biosynthesis - Eubacterium siraeum 70/3
+path:esu00780	Biotin metabolism - Eubacterium siraeum 70/3
+path:esu00790	Folate biosynthesis - Eubacterium siraeum 70/3
+path:esu00860	Porphyrin and chlorophyll metabolism - Eubacterium siraeum 70/3
+path:esu00900	Terpenoid backbone biosynthesis - Eubacterium siraeum 70/3
+path:esu00910	Nitrogen metabolism - Eubacterium siraeum 70/3
+path:esu00920	Sulfur metabolism - Eubacterium siraeum 70/3
+path:esu00970	Aminoacyl-tRNA biosynthesis - Eubacterium siraeum 70/3
+path:esu01040	Biosynthesis of unsaturated fatty acids - Eubacterium siraeum 70/3
+path:esu01100	Metabolic pathways - Eubacterium siraeum 70/3
+path:esu01110	Biosynthesis of secondary metabolites - Eubacterium siraeum 70/3
+path:esu01120	Microbial metabolism in diverse environments - Eubacterium siraeum 70/3
+path:esu01130	Biosynthesis of antibiotics - Eubacterium siraeum 70/3
+path:esu01200	Carbon metabolism - Eubacterium siraeum 70/3
+path:esu01210	2-Oxocarboxylic acid metabolism - Eubacterium siraeum 70/3
+path:esu01212	Fatty acid metabolism - Eubacterium siraeum 70/3
+path:esu01220	Degradation of aromatic compounds - Eubacterium siraeum 70/3
+path:esu01230	Biosynthesis of amino acids - Eubacterium siraeum 70/3
+path:esu01501	beta-Lactam resistance - Eubacterium siraeum 70/3
+path:esu01502	Vancomycin resistance - Eubacterium siraeum 70/3
+path:esu01503	Cationic antimicrobial peptide (CAMP) resistance - Eubacterium siraeum 70/3
+path:esu02010	ABC transporters - Eubacterium siraeum 70/3
+path:esu02020	Two-component system - Eubacterium siraeum 70/3
+path:esu02024	Quorum sensing - Eubacterium siraeum 70/3
+path:esu02030	Bacterial chemotaxis - Eubacterium siraeum 70/3
+path:esu02040	Flagellar assembly - Eubacterium siraeum 70/3
+path:esu02060	Phosphotransferase system (PTS) - Eubacterium siraeum 70/3
+path:esu03010	Ribosome - Eubacterium siraeum 70/3
+path:esu03018	RNA degradation - Eubacterium siraeum 70/3
+path:esu03020	RNA polymerase - Eubacterium siraeum 70/3
+path:esu03030	DNA replication - Eubacterium siraeum 70/3
+path:esu03060	Protein export - Eubacterium siraeum 70/3
+path:esu03070	Bacterial secretion system - Eubacterium siraeum 70/3
+path:esu03410	Base excision repair - Eubacterium siraeum 70/3
+path:esu03420	Nucleotide excision repair - Eubacterium siraeum 70/3
+path:esu03430	Mismatch repair - Eubacterium siraeum 70/3
+path:esu03440	Homologous recombination - Eubacterium siraeum 70/3
+path:esu04122	Sulfur relay system - Eubacterium siraeum 70/3
+path:css00010	Glycolysis / Gluconeogenesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00020	Citrate cycle (TCA cycle) - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00030	Pentose phosphate pathway - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00040	Pentose and glucuronate interconversions - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00051	Fructose and mannose metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00052	Galactose metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00061	Fatty acid biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00071	Fatty acid degradation - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00190	Oxidative phosphorylation - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00220	Arginine biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00230	Purine metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00240	Pyrimidine metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00250	Alanine, aspartate and glutamate metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00260	Glycine, serine and threonine metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00261	Monobactam biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00270	Cysteine and methionine metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00280	Valine, leucine and isoleucine degradation - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00290	Valine, leucine and isoleucine biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00300	Lysine biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00310	Lysine degradation - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00311	Penicillin and cephalosporin biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00330	Arginine and proline metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00332	Carbapenem biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00340	Histidine metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00350	Tyrosine metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00360	Phenylalanine metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00380	Tryptophan metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00401	Novobiocin biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00410	beta-Alanine metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00430	Taurine and hypotaurine metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00450	Selenocompound metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00460	Cyanoamino acid metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00471	D-Glutamine and D-glutamate metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00473	D-Alanine metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00480	Glutathione metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00500	Starch and sucrose metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00511	Other glycan degradation - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00520	Amino sugar and nucleotide sugar metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00521	Streptomycin biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00550	Peptidoglycan biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00561	Glycerolipid metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00562	Inositol phosphate metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00564	Glycerophospholipid metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00600	Sphingolipid metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00620	Pyruvate metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00625	Chloroalkane and chloroalkene degradation - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00626	Naphthalene degradation - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00630	Glyoxylate and dicarboxylate metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00640	Propanoate metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00650	Butanoate metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00660	C5-Branched dibasic acid metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00670	One carbon pool by folate - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00680	Methane metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00730	Thiamine metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00740	Riboflavin metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00750	Vitamin B6 metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00760	Nicotinate and nicotinamide metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00770	Pantothenate and CoA biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00780	Biotin metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00785	Lipoic acid metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00790	Folate biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00860	Porphyrin and chlorophyll metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00900	Terpenoid backbone biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00910	Nitrogen metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00920	Sulfur metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css00970	Aminoacyl-tRNA biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css01040	Biosynthesis of unsaturated fatty acids - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css01054	Nonribosomal peptide structures - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css01100	Metabolic pathways - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css01110	Biosynthesis of secondary metabolites - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css01120	Microbial metabolism in diverse environments - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css01130	Biosynthesis of antibiotics - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css01200	Carbon metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css01210	2-Oxocarboxylic acid metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css01212	Fatty acid metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css01220	Degradation of aromatic compounds - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css01230	Biosynthesis of amino acids - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css01501	beta-Lactam resistance - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css01502	Vancomycin resistance - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css01503	Cationic antimicrobial peptide (CAMP) resistance - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css02010	ABC transporters - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css02020	Two-component system - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css02024	Quorum sensing - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css02030	Bacterial chemotaxis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css02040	Flagellar assembly - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css03010	Ribosome - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css03018	RNA degradation - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css03020	RNA polymerase - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css03030	DNA replication - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css03060	Protein export - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css03070	Bacterial secretion system - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css03410	Base excision repair - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css03420	Nucleotide excision repair - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css03430	Mismatch repair - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css03440	Homologous recombination - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css03450	Non-homologous end-joining - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:css04122	Sulfur relay system - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00010	Glycolysis / Gluconeogenesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00020	Citrate cycle (TCA cycle) - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00030	Pentose phosphate pathway - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00040	Pentose and glucuronate interconversions - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00051	Fructose and mannose metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00052	Galactose metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00061	Fatty acid biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00071	Fatty acid degradation - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00190	Oxidative phosphorylation - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00220	Arginine biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00230	Purine metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00240	Pyrimidine metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00250	Alanine, aspartate and glutamate metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00260	Glycine, serine and threonine metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00261	Monobactam biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00270	Cysteine and methionine metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00280	Valine, leucine and isoleucine degradation - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00290	Valine, leucine and isoleucine biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00300	Lysine biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00310	Lysine degradation - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00311	Penicillin and cephalosporin biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00330	Arginine and proline metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00332	Carbapenem biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00340	Histidine metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00350	Tyrosine metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00360	Phenylalanine metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00380	Tryptophan metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00401	Novobiocin biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00410	beta-Alanine metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00430	Taurine and hypotaurine metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00450	Selenocompound metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00460	Cyanoamino acid metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00471	D-Glutamine and D-glutamate metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00473	D-Alanine metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00480	Glutathione metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00500	Starch and sucrose metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00511	Other glycan degradation - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00520	Amino sugar and nucleotide sugar metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00521	Streptomycin biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00550	Peptidoglycan biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00561	Glycerolipid metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00562	Inositol phosphate metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00564	Glycerophospholipid metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00600	Sphingolipid metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00620	Pyruvate metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00625	Chloroalkane and chloroalkene degradation - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00626	Naphthalene degradation - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00630	Glyoxylate and dicarboxylate metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00640	Propanoate metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00650	Butanoate metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00660	C5-Branched dibasic acid metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00670	One carbon pool by folate - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00680	Methane metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00730	Thiamine metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00740	Riboflavin metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00750	Vitamin B6 metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00760	Nicotinate and nicotinamide metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00770	Pantothenate and CoA biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00780	Biotin metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00785	Lipoic acid metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00790	Folate biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00860	Porphyrin and chlorophyll metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00900	Terpenoid backbone biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00910	Nitrogen metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00920	Sulfur metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd00970	Aminoacyl-tRNA biosynthesis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd01040	Biosynthesis of unsaturated fatty acids - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd01054	Nonribosomal peptide structures - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd01100	Metabolic pathways - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd01110	Biosynthesis of secondary metabolites - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd01120	Microbial metabolism in diverse environments - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd01130	Biosynthesis of antibiotics - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd01200	Carbon metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd01210	2-Oxocarboxylic acid metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd01212	Fatty acid metabolism - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd01220	Degradation of aromatic compounds - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd01230	Biosynthesis of amino acids - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd01501	beta-Lactam resistance - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd01502	Vancomycin resistance - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd01503	Cationic antimicrobial peptide (CAMP) resistance - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd02010	ABC transporters - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd02020	Two-component system - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd02024	Quorum sensing - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd02030	Bacterial chemotaxis - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd02040	Flagellar assembly - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd03010	Ribosome - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd03018	RNA degradation - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd03020	RNA polymerase - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd03030	DNA replication - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd03060	Protein export - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd03070	Bacterial secretion system - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd03410	Base excision repair - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd03420	Nucleotide excision repair - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd03430	Mismatch repair - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd03440	Homologous recombination - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd03450	Non-homologous end-joining - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:csd04122	Sulfur relay system - Clostridium stercorarium subsp. stercorarium DSM 8532
+path:ccel00010	Glycolysis / Gluconeogenesis - Clostridium cellulosi
+path:ccel00020	Citrate cycle (TCA cycle) - Clostridium cellulosi
+path:ccel00030	Pentose phosphate pathway - Clostridium cellulosi
+path:ccel00040	Pentose and glucuronate interconversions - Clostridium cellulosi
+path:ccel00051	Fructose and mannose metabolism - Clostridium cellulosi
+path:ccel00052	Galactose metabolism - Clostridium cellulosi
+path:ccel00061	Fatty acid biosynthesis - Clostridium cellulosi
+path:ccel00190	Oxidative phosphorylation - Clostridium cellulosi
+path:ccel00220	Arginine biosynthesis - Clostridium cellulosi
+path:ccel00230	Purine metabolism - Clostridium cellulosi
+path:ccel00240	Pyrimidine metabolism - Clostridium cellulosi
+path:ccel00250	Alanine, aspartate and glutamate metabolism - Clostridium cellulosi
+path:ccel00260	Glycine, serine and threonine metabolism - Clostridium cellulosi
+path:ccel00261	Monobactam biosynthesis - Clostridium cellulosi
+path:ccel00270	Cysteine and methionine metabolism - Clostridium cellulosi
+path:ccel00280	Valine, leucine and isoleucine degradation - Clostridium cellulosi
+path:ccel00290	Valine, leucine and isoleucine biosynthesis - Clostridium cellulosi
+path:ccel00300	Lysine biosynthesis - Clostridium cellulosi
+path:ccel00330	Arginine and proline metabolism - Clostridium cellulosi
+path:ccel00332	Carbapenem biosynthesis - Clostridium cellulosi
+path:ccel00340	Histidine metabolism - Clostridium cellulosi
+path:ccel00350	Tyrosine metabolism - Clostridium cellulosi
+path:ccel00360	Phenylalanine metabolism - Clostridium cellulosi
+path:ccel00380	Tryptophan metabolism - Clostridium cellulosi
+path:ccel00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Clostridium cellulosi
+path:ccel00401	Novobiocin biosynthesis - Clostridium cellulosi
+path:ccel00430	Taurine and hypotaurine metabolism - Clostridium cellulosi
+path:ccel00440	Phosphonate and phosphinate metabolism - Clostridium cellulosi
+path:ccel00450	Selenocompound metabolism - Clostridium cellulosi
+path:ccel00460	Cyanoamino acid metabolism - Clostridium cellulosi
+path:ccel00471	D-Glutamine and D-glutamate metabolism - Clostridium cellulosi
+path:ccel00473	D-Alanine metabolism - Clostridium cellulosi
+path:ccel00480	Glutathione metabolism - Clostridium cellulosi
+path:ccel00500	Starch and sucrose metabolism - Clostridium cellulosi
+path:ccel00511	Other glycan degradation - Clostridium cellulosi
+path:ccel00520	Amino sugar and nucleotide sugar metabolism - Clostridium cellulosi
+path:ccel00521	Streptomycin biosynthesis - Clostridium cellulosi
+path:ccel00523	Polyketide sugar unit biosynthesis - Clostridium cellulosi
+path:ccel00525	Acarbose and validamycin biosynthesis - Clostridium cellulosi
+path:ccel00550	Peptidoglycan biosynthesis - Clostridium cellulosi
+path:ccel00561	Glycerolipid metabolism - Clostridium cellulosi
+path:ccel00562	Inositol phosphate metabolism - Clostridium cellulosi
+path:ccel00564	Glycerophospholipid metabolism - Clostridium cellulosi
+path:ccel00620	Pyruvate metabolism - Clostridium cellulosi
+path:ccel00625	Chloroalkane and chloroalkene degradation - Clostridium cellulosi
+path:ccel00626	Naphthalene degradation - Clostridium cellulosi
+path:ccel00630	Glyoxylate and dicarboxylate metabolism - Clostridium cellulosi
+path:ccel00640	Propanoate metabolism - Clostridium cellulosi
+path:ccel00650	Butanoate metabolism - Clostridium cellulosi
+path:ccel00660	C5-Branched dibasic acid metabolism - Clostridium cellulosi
+path:ccel00670	One carbon pool by folate - Clostridium cellulosi
+path:ccel00680	Methane metabolism - Clostridium cellulosi
+path:ccel00730	Thiamine metabolism - Clostridium cellulosi
+path:ccel00740	Riboflavin metabolism - Clostridium cellulosi
+path:ccel00750	Vitamin B6 metabolism - Clostridium cellulosi
+path:ccel00760	Nicotinate and nicotinamide metabolism - Clostridium cellulosi
+path:ccel00770	Pantothenate and CoA biosynthesis - Clostridium cellulosi
+path:ccel00780	Biotin metabolism - Clostridium cellulosi
+path:ccel00790	Folate biosynthesis - Clostridium cellulosi
+path:ccel00860	Porphyrin and chlorophyll metabolism - Clostridium cellulosi
+path:ccel00900	Terpenoid backbone biosynthesis - Clostridium cellulosi
+path:ccel00910	Nitrogen metabolism - Clostridium cellulosi
+path:ccel00920	Sulfur metabolism - Clostridium cellulosi
+path:ccel00970	Aminoacyl-tRNA biosynthesis - Clostridium cellulosi
+path:ccel01040	Biosynthesis of unsaturated fatty acids - Clostridium cellulosi
+path:ccel01100	Metabolic pathways - Clostridium cellulosi
+path:ccel01110	Biosynthesis of secondary metabolites - Clostridium cellulosi
+path:ccel01120	Microbial metabolism in diverse environments - Clostridium cellulosi
+path:ccel01130	Biosynthesis of antibiotics - Clostridium cellulosi
+path:ccel01200	Carbon metabolism - Clostridium cellulosi
+path:ccel01210	2-Oxocarboxylic acid metabolism - Clostridium cellulosi
+path:ccel01212	Fatty acid metabolism - Clostridium cellulosi
+path:ccel01220	Degradation of aromatic compounds - Clostridium cellulosi
+path:ccel01230	Biosynthesis of amino acids - Clostridium cellulosi
+path:ccel01501	beta-Lactam resistance - Clostridium cellulosi
+path:ccel01502	Vancomycin resistance - Clostridium cellulosi
+path:ccel01503	Cationic antimicrobial peptide (CAMP) resistance - Clostridium cellulosi
+path:ccel02010	ABC transporters - Clostridium cellulosi
+path:ccel02020	Two-component system - Clostridium cellulosi
+path:ccel02024	Quorum sensing - Clostridium cellulosi
+path:ccel02030	Bacterial chemotaxis - Clostridium cellulosi
+path:ccel02040	Flagellar assembly - Clostridium cellulosi
+path:ccel03010	Ribosome - Clostridium cellulosi
+path:ccel03018	RNA degradation - Clostridium cellulosi
+path:ccel03020	RNA polymerase - Clostridium cellulosi
+path:ccel03030	DNA replication - Clostridium cellulosi
+path:ccel03060	Protein export - Clostridium cellulosi
+path:ccel03070	Bacterial secretion system - Clostridium cellulosi
+path:ccel03410	Base excision repair - Clostridium cellulosi
+path:ccel03420	Nucleotide excision repair - Clostridium cellulosi
+path:ccel03430	Mismatch repair - Clostridium cellulosi
+path:ccel03440	Homologous recombination - Clostridium cellulosi
+path:ccel03450	Non-homologous end-joining - Clostridium cellulosi
+path:ccel04122	Sulfur relay system - Clostridium cellulosi

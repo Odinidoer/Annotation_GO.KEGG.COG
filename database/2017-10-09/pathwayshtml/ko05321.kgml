@@ -1,0 +1,358 @@
+<html>
+<!---
+ENTRY       ko05321
+DEFINITION  Inflammatory bowel disease (IBD)
+--->
+<head>
+<title>
+KEGG PATHWAY: Inflammatory bowel disease (IBD)
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Inflammatory bowel disease (IBD)</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=05321&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map05321.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko05321">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko05321&format=kgml">Download KGML</a>
+| <a id="descLink" href="javascript:switchDescription()">Show description</a>
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+<table id="description" cellpadding="10" width="800" style="display: none;"><tr><td>
+Inflammatory bowel disease (IBD), which includes Crohn disease (CD) and ulcerative colitis (UC), is characterized by chronic inflammation of the gastrointestinal tract due to environmental and genetic factors, infectious microbes, and the dysregulated immune system. Although many environmental factors (for example, geographic locations, smoking, etc.) affect the development of IBD, the most crucial might be the luminal (external) environment of the epithelial cells. There are pathogens that are found in increasing frequency in IBD. The microbial components such as flagellin, peptidoglycan, and lipopolysaccharide are recognized by receptors such as toll-like receptors (TLRs) and nucleotide-binding oligomerization domain (NOD) proteins, and also by antigen-presenting cells (APCs) in genetically susceptible host. The TLR recognition triggers the activation of NF-kappaB, leading to an inflammatory response. APC-expressed gene NOD2 has been associated with Crohn disease. In case of mutations of NOD2, negative regulation of IL-12 production is reduced with the stimulation of muramyl dipeptide (MDP), leading to CD. In addition, the APC mediates the differentiation of naive T cells into effector T cells (Th1, Th17, Th2) and natural killer T (NKT) cells. Th1 and Th17 cells produce high levels of IFN-gamma and IL-17, -22, respectively, both of which promote CD. In contrast, Th2 cells produce IL-4, -5, -10, which together with IL-13 from NKT induce UC.</td></tr></table>
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="hsa">Homo sapiens (human)</option>
+<option value="hsadd">Homo sapiens (human) + Disease/drug</option>
+<option value="ptr">Pan troglodytes (chimpanzee)</option>
+<option value="pps">Pan paniscus (bonobo)</option>
+<option value="ggo">Gorilla gorilla gorilla (western lowland gorilla)</option>
+<option value="pon">Pongo abelii (Sumatran orangutan)</option>
+<option value="nle">Nomascus leucogenys (northern white-cheeked gibbon)</option>
+<option value="mcc">Macaca mulatta (rhesus monkey)</option>
+<option value="mcf">Macaca fascicularis (crab-eating macaque)</option>
+<option value="csab">Chlorocebus sabaeus (green monkey)</option>
+<option value="rro">Rhinopithecus roxellana (golden snub-nosed monkey)</option>
+<option value="rbb">Rhinopithecus bieti (black snub-nosed monkey)</option>
+<option value="cjc">Callithrix jacchus (white-tufted-ear marmoset)</option>
+<option value="sbq">Saimiri boliviensis boliviensis (Bolivian squirrel monkey)</option>
+<option value="mmu">Mus musculus (mouse)</option>
+<option value="rno">Rattus norvegicus (rat)</option>
+<option value="cge">Cricetulus griseus (Chinese hamster)</option>
+<option value="ngi">Nannospalax galili (Upper Galilee mountains blind mole rat)</option>
+<option value="hgl">Heterocephalus glaber (naked mole rat)</option>
+<option value="ccan">Castor canadensis (American beaver)</option>
+<option value="ocu">Oryctolagus cuniculus (rabbit)</option>
+<option value="tup">Tupaia chinensis (Chinese tree shrew)</option>
+<option value="cfa">Canis familiaris (dog)</option>
+<option value="aml">Ailuropoda melanoleuca (giant panda)</option>
+<option value="umr">Ursus maritimus (polar bear)</option>
+<option value="fca">Felis catus (domestic cat)</option>
+<option value="ptg">Panthera tigris altaica (Amur tiger)</option>
+<option value="aju">Acinonyx jubatus (cheetah)</option>
+<option value="bta">Bos taurus (cow)</option>
+<option value="bom">Bos mutus (wild yak)</option>
+<option value="biu">Bos indicus (zebu cattle)</option>
+<option value="phd">Pantholops hodgsonii (chiru)</option>
+<option value="chx">Capra hircus (goat)</option>
+<option value="oas">Ovis aries (sheep)</option>
+<option value="ssc">Sus scrofa (pig)</option>
+<option value="cfr">Camelus ferus (Wild Bactrian camel)</option>
+<option value="cdk">Camelus dromedarius (Arabian camel)</option>
+<option value="bacu">Balaenoptera acutorostrata scammoni (minke whale)</option>
+<option value="lve">Lipotes vexillifer (Yangtze River dolphin)</option>
+<option value="ecb">Equus caballus (horse)</option>
+<option value="epz">Equus przewalskii (Przewalski's horse)</option>
+<option value="eai">Equus asinus (ass)</option>
+<option value="myb">Myotis brandtii (Brandt's bat)</option>
+<option value="myd">Myotis davidii</option>
+<option value="hai">Hipposideros armiger (great roundleaf bat)</option>
+<option value="rss">Rhinolophus sinicus (Chinese rufous horseshoe bat)</option>
+<option value="pale">Pteropus alecto (black flying fox)</option>
+<option value="lav">Loxodonta africana (African savanna elephant)</option>
+<option value="mdo">Monodelphis domestica (opossum)</option>
+<option value="shr">Sarcophilus harrisii (Tasmanian devil)</option>
+<option value="oaa">Ornithorhynchus anatinus (platypus)</option>
+</select>
+<input type="hidden" name="mapno" value="05321" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko05321" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko05321.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=rect	coords=203,914,249,931	href="/dbget-bin/www_bget?K10159"	title="K10159 (TLR2)" />
+<area shape=rect	coords=203,974,249,991	href="/dbget-bin/www_bget?K02580+K04735"	title="K02580 (NFKB1), K04735 (RELA)" />
+<area shape=rect	coords=245,946,291,963	href="/dbget-bin/www_bget?K10165"	title="K10165 (NOD2)" />
+<area shape=rect	coords=435,252,481,269	href="/dbget-bin/www_bget?K10168"	title="K10168 (TLR5)" />
+<area shape=rect	coords=485,252,531,269	href="/dbget-bin/www_bget?K10159"	title="K10159 (TLR2)" />
+<area shape=rect	coords=485,321,531,338	href="/dbget-bin/www_bget?K02580+K04735"	title="K02580 (NFKB1), K04735 (RELA)" />
+<area shape=rect	coords=550,367,596,384	href="/dbget-bin/www_bget?K03156"	title="K03156 (TNF)" />
+<area shape=rect	coords=523,1072,569,1089	href="/dbget-bin/www_bget?K05426"	title="K05426 (IL23A)" />
+<area shape=rect	coords=523,936,569,953	href="/dbget-bin/www_bget?K13375+K13376+K13377"	title="K13375 (TGFB1), K13376 (TGFB2), K13377 (TGFB3)" />
+<area shape=rect	coords=523,959,569,976	href="/dbget-bin/www_bget?K05405"	title="K05405 (IL6)" />
+<area shape=rect	coords=276,1017,322,1034	href="/dbget-bin/www_bget?K06752"	title="K06752 (MHC2)" />
+<area shape=rect	coords=372,1017,418,1034	href="/dbget-bin/www_bget?K10784+K10785"	title="K10784 (TRAV), K10785 (TRBV)" />
+<area shape=rect	coords=523,659,569,676	href="/dbget-bin/www_bget?K05406+K05425"	title="K05406 (IL12A), K05425 (IL12B)" />
+<area shape=rect	coords=523,576,569,593	href="/dbget-bin/www_bget?K04687"	title="K04687 (IFNG)" />
+<area shape=rect	coords=613,671,659,688	href="/dbget-bin/www_bget?K05063"	title="K05063 (IL12RB1)" />
+<area shape=rect	coords=790,659,836,676	href="/dbget-bin/www_bget?K11222"	title="K11222 (STAT4)" />
+<area shape=rect	coords=613,576,659,593	href="/dbget-bin/www_bget?K05132+K05133"	title="K05132 (IFNGR1), K05133 (IFNGR2)" />
+<area shape=rect	coords=702,576,748,593	href="/dbget-bin/www_bget?K11220"	title="K11220 (STAT1)" />
+<area shape=rect	coords=861,576,907,593	href="/dbget-bin/www_bget?K10166"	title="K10166 (TBX21)" />
+<area shape=rect	coords=967,752,1013,769	href="/dbget-bin/www_bget?K04687"	title="K04687 (IFNG)" />
+<area shape=rect	coords=523,1314,569,1331	href="/dbget-bin/www_bget?K05430"	title="K05430 (IL4)" />
+<area shape=rect	coords=613,1303,659,1320	href="/dbget-bin/www_bget?K05071"	title="K05071 (IL4R)" />
+<area shape=rect	coords=702,1315,748,1332	href="/dbget-bin/www_bget?K11225"	title="K11225 (STAT6)" />
+<area shape=rect	coords=1041,1303,1087,1320	href="/dbget-bin/www_bget?K05430"	title="K05430 (IL4)" />
+<area shape=rect	coords=861,1275,907,1292	href="/dbget-bin/www_bget?K04446"	title="K04446 (NFATC1)" />
+<area shape=rect	coords=861,1250,907,1267	href="/dbget-bin/www_bget?K09035"	title="K09035 (CMAF)" />
+<area shape=rect	coords=1309,732,1355,749	href="/dbget-bin/www_bget?K03156"	title="K03156 (TNF)" />
+<area shape=rect	coords=1309,752,1355,769	href="/dbget-bin/www_bget?K05405"	title="K05405 (IL6)" />
+<area shape=rect	coords=1309,772,1355,789	href="/dbget-bin/www_bget?K04383+K04519"	title="K04383 (IL1A), K04519 (IL1B)" />
+<area shape=rect	coords=861,1488,907,1505	href="/dbget-bin/www_bget?K05435"	title="K05435 (IL13)" />
+<area shape=rect	coords=861,1573,907,1590	href="/dbget-bin/www_bget?K05443"	title="K05443 (IL10)" />
+<area shape=rect	coords=861,1596,907,1613	href="/dbget-bin/www_bget?K13375+K13376+K13377"	title="K13375 (TGFB1), K13376 (TGFB2), K13377 (TGFB3)" />
+<area shape=rect	coords=1041,1327,1087,1344	href="/dbget-bin/www_bget?K05428"	title="K05428 (IL5)" />
+<area shape=rect	coords=1041,1381,1087,1398	href="/dbget-bin/www_bget?K05443"	title="K05443 (IL10)" />
+<area shape=rect	coords=1163,787,1209,804	href="/dbget-bin/www_bget?K10165"	title="K10165 (NOD2)" />
+<area shape=rect	coords=1163,728,1209,745	href="/dbget-bin/www_bget?K10159+K10160+K10168"	title="K10159 (TLR2), K10160 (TLR4), K10168 (TLR5)" />
+<area shape=rect	coords=1041,1352,1087,1369	href="/dbget-bin/www_bget?K05435"	title="K05435 (IL13)" />
+<area shape=rect	coords=967,660,1013,677	href="/dbget-bin/www_bget?K05429"	title="K05429 (IL2)" />
+<area shape=rect	coords=613,1061,659,1078	href="/dbget-bin/www_bget?K05065"	title="K05065 (IL23R)" />
+<area shape=rect	coords=613,1084,659,1101	href="/dbget-bin/www_bget?K05063"	title="K05063 (IL12RB1)" />
+<area shape=rect	coords=1041,1062,1087,1079	href="/dbget-bin/www_bget?K05489+K05494"	title="K05489 (IL17A), K05494 (IL17F)" />
+<area shape=rect	coords=967,949,1013,966	href="/dbget-bin/www_bget?K05434"	title="K05434 (IL21)" />
+<area shape=rect	coords=1041,1085,1087,1102	href="/dbget-bin/www_bget?K05445"	title="K05445 (IL22)" />
+<area shape=rect	coords=790,936,836,953	href="/dbget-bin/www_bget?K04500"	title="K04500 (SMAD2_3)" />
+<area shape=rect	coords=790,960,836,977	href="/dbget-bin/www_bget?K04692"	title="K04692 (STAT3)" />
+<area shape=rect	coords=702,1074,748,1091	href="/dbget-bin/www_bget?K04692"	title="K04692 (STAT3)" />
+<area shape=rect	coords=518,1585,564,1602	href="/dbget-bin/www_bget?K13375+K13376+K13377"	title="K13375 (TGFB1), K13376 (TGFB2), K13377 (TGFB3)" />
+<area shape=rect	coords=523,746,569,763	href="/dbget-bin/www_bget?K05482"	title="K05482 (IL18)" />
+<area shape=rect	coords=790,728,836,745	href="/dbget-bin/www_bget?K04448"	title="K04448 (JUN)" />
+<area shape=rect	coords=790,771,836,788	href="/dbget-bin/www_bget?K02580+K04735"	title="K02580 (NFKB1), K04735 (RELA)" />
+<area shape=rect	coords=613,645,659,662	href="/dbget-bin/www_bget?K05064"	title="K05064 (IL12RB2)" />
+<area shape=rect	coords=967,564,1013,581	href="/dbget-bin/www_bget?K05430"	title="K05430 (IL4)" />
+<area shape=rect	coords=967,588,1013,605	href="/dbget-bin/www_bget?K05428"	title="K05428 (IL5)" />
+<area shape=rect	coords=613,1328,659,1345	href="/dbget-bin/www_bget?K05070"	title="K05070 (IL2RG)" />
+<area shape=rect	coords=613,747,659,764	href="/dbget-bin/www_bget?K05173+K05174"	title="K05173 (IL18R1), K05174 (IL18RAP)" />
+<area shape=rect	coords=861,1060,907,1077	href="/dbget-bin/www_bget?K08534"	title="K08534 (NR1F3)" />
+<area shape=rect	coords=861,1362,907,1379	href="/dbget-bin/www_bget?K04687"	title="K04687 (IFNG)" />
+<area shape=rect	coords=613,1012,659,1029	href="/dbget-bin/www_bget?K05075"	title="K05075 (IL21R)" />
+<area shape=rect	coords=702,1013,748,1030	href="/dbget-bin/www_bget?K04692"	title="K04692 (STAT3)" />
+<area shape=rect	coords=861,1087,907,1104	href="/dbget-bin/www_bget?K08532"	title="K08532 (NR1F1)" />
+<area shape=rect	coords=861,1015,907,1032	href="/dbget-bin/www_bget?K10163"	title="K10163 (FOXP3)" />
+<area shape=rect	coords=725,1585,771,1602	href="/dbget-bin/www_bget?K10163"	title="K10163 (FOXP3)" />
+<area shape=rect	coords=555,251,601,268	href="/dbget-bin/www_bget?K10160"	title="K10160 (TLR4)" />
+<area shape=rect	coords=50,55,350,80	href="/dbget-bin/www_bget?ko05321"	title="ko05321: Inflammatory bowel disease (IBD)" onmouseover="popupTimer(&quot;ko05321&quot;, &quot;ko05321: Inflammatory bowel disease (IBD)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=448,408,559,442	href="/kegg-bin/show_pathway?ko04620"	title="ko04620: Toll-like receptor signaling pathway" onmouseover="popupTimer(&quot;ko04620&quot;, &quot;ko04620: Toll-like receptor signaling pathway&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=272,523,377,557	href="/kegg-bin/show_pathway?ko04621"	title="ko04621: NOD-like receptor signaling pathway" onmouseover="popupTimer(&quot;ko04621&quot;, &quot;ko04621: NOD-like receptor signaling pathway&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=55,1057,171,1091	href="/kegg-bin/show_pathway?ko04612"	title="ko04612: Antigen processing and presentation" onmouseover="popupTimer(&quot;ko04612&quot;, &quot;ko04612: Antigen processing and presentation&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=503,518,607,552	href="/kegg-bin/show_pathway?ko04060"	title="ko04060: Cytokine-cytokine receptor interaction" onmouseover="popupTimer(&quot;ko04060&quot;, &quot;ko04060: Cytokine-cytokine receptor interaction&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=307,1081,405,1115	href="/kegg-bin/show_pathway?ko04660"	title="ko04660: T cell receptor signaling pathway" onmouseover="popupTimer(&quot;ko04660&quot;, &quot;ko04660: T cell receptor signaling pathway&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=675,624,777,658	href="/kegg-bin/show_pathway?ko04630"	title="ko04630: Jak-STAT signaling pathway" onmouseover="popupTimer(&quot;ko04630&quot;, &quot;ko04630: Jak-STAT signaling pathway&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=693,1096,795,1130	href="/kegg-bin/show_pathway?ko04630"	title="ko04630: Jak-STAT signaling pathway" onmouseover="popupTimer(&quot;ko04630&quot;, &quot;ko04630: Jak-STAT signaling pathway&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=686,1264,788,1298	href="/kegg-bin/show_pathway?ko04630"	title="ko04630: Jak-STAT signaling pathway" onmouseover="popupTimer(&quot;ko04630&quot;, &quot;ko04630: Jak-STAT signaling pathway&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=505,1018,607,1052	href="/kegg-bin/show_pathway?ko04659"	title="ko04659: Th17 cell differentiation" onmouseover="popupTimer(&quot;ko04659&quot;, &quot;ko04659: Th17 cell differentiation&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

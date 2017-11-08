@@ -1,0 +1,657 @@
+path:neu00010	Glycolysis / Gluconeogenesis - Nitrosomonas europaea
+path:neu00020	Citrate cycle (TCA cycle) - Nitrosomonas europaea
+path:neu00030	Pentose phosphate pathway - Nitrosomonas europaea
+path:neu00040	Pentose and glucuronate interconversions - Nitrosomonas europaea
+path:neu00051	Fructose and mannose metabolism - Nitrosomonas europaea
+path:neu00052	Galactose metabolism - Nitrosomonas europaea
+path:neu00053	Ascorbate and aldarate metabolism - Nitrosomonas europaea
+path:neu00061	Fatty acid biosynthesis - Nitrosomonas europaea
+path:neu00071	Fatty acid degradation - Nitrosomonas europaea
+path:neu00100	Steroid biosynthesis - Nitrosomonas europaea
+path:neu00130	Ubiquinone and other terpenoid-quinone biosynthesis - Nitrosomonas europaea
+path:neu00190	Oxidative phosphorylation - Nitrosomonas europaea
+path:neu00220	Arginine biosynthesis - Nitrosomonas europaea
+path:neu00230	Purine metabolism - Nitrosomonas europaea
+path:neu00240	Pyrimidine metabolism - Nitrosomonas europaea
+path:neu00250	Alanine, aspartate and glutamate metabolism - Nitrosomonas europaea
+path:neu00260	Glycine, serine and threonine metabolism - Nitrosomonas europaea
+path:neu00261	Monobactam biosynthesis - Nitrosomonas europaea
+path:neu00270	Cysteine and methionine metabolism - Nitrosomonas europaea
+path:neu00280	Valine, leucine and isoleucine degradation - Nitrosomonas europaea
+path:neu00281	Geraniol degradation - Nitrosomonas europaea
+path:neu00290	Valine, leucine and isoleucine biosynthesis - Nitrosomonas europaea
+path:neu00300	Lysine biosynthesis - Nitrosomonas europaea
+path:neu00310	Lysine degradation - Nitrosomonas europaea
+path:neu00330	Arginine and proline metabolism - Nitrosomonas europaea
+path:neu00332	Carbapenem biosynthesis - Nitrosomonas europaea
+path:neu00340	Histidine metabolism - Nitrosomonas europaea
+path:neu00350	Tyrosine metabolism - Nitrosomonas europaea
+path:neu00360	Phenylalanine metabolism - Nitrosomonas europaea
+path:neu00362	Benzoate degradation - Nitrosomonas europaea
+path:neu00380	Tryptophan metabolism - Nitrosomonas europaea
+path:neu00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Nitrosomonas europaea
+path:neu00401	Novobiocin biosynthesis - Nitrosomonas europaea
+path:neu00410	beta-Alanine metabolism - Nitrosomonas europaea
+path:neu00430	Taurine and hypotaurine metabolism - Nitrosomonas europaea
+path:neu00450	Selenocompound metabolism - Nitrosomonas europaea
+path:neu00460	Cyanoamino acid metabolism - Nitrosomonas europaea
+path:neu00471	D-Glutamine and D-glutamate metabolism - Nitrosomonas europaea
+path:neu00472	D-Arginine and D-ornithine metabolism - Nitrosomonas europaea
+path:neu00473	D-Alanine metabolism - Nitrosomonas europaea
+path:neu00480	Glutathione metabolism - Nitrosomonas europaea
+path:neu00500	Starch and sucrose metabolism - Nitrosomonas europaea
+path:neu00520	Amino sugar and nucleotide sugar metabolism - Nitrosomonas europaea
+path:neu00521	Streptomycin biosynthesis - Nitrosomonas europaea
+path:neu00523	Polyketide sugar unit biosynthesis - Nitrosomonas europaea
+path:neu00525	Acarbose and validamycin biosynthesis - Nitrosomonas europaea
+path:neu00540	Lipopolysaccharide biosynthesis - Nitrosomonas europaea
+path:neu00550	Peptidoglycan biosynthesis - Nitrosomonas europaea
+path:neu00561	Glycerolipid metabolism - Nitrosomonas europaea
+path:neu00562	Inositol phosphate metabolism - Nitrosomonas europaea
+path:neu00564	Glycerophospholipid metabolism - Nitrosomonas europaea
+path:neu00590	Arachidonic acid metabolism - Nitrosomonas europaea
+path:neu00592	alpha-Linolenic acid metabolism - Nitrosomonas europaea
+path:neu00620	Pyruvate metabolism - Nitrosomonas europaea
+path:neu00622	Xylene degradation - Nitrosomonas europaea
+path:neu00623	Toluene degradation - Nitrosomonas europaea
+path:neu00625	Chloroalkane and chloroalkene degradation - Nitrosomonas europaea
+path:neu00626	Naphthalene degradation - Nitrosomonas europaea
+path:neu00627	Aminobenzoate degradation - Nitrosomonas europaea
+path:neu00630	Glyoxylate and dicarboxylate metabolism - Nitrosomonas europaea
+path:neu00640	Propanoate metabolism - Nitrosomonas europaea
+path:neu00650	Butanoate metabolism - Nitrosomonas europaea
+path:neu00660	C5-Branched dibasic acid metabolism - Nitrosomonas europaea
+path:neu00670	One carbon pool by folate - Nitrosomonas europaea
+path:neu00680	Methane metabolism - Nitrosomonas europaea
+path:neu00710	Carbon fixation in photosynthetic organisms - Nitrosomonas europaea
+path:neu00730	Thiamine metabolism - Nitrosomonas europaea
+path:neu00740	Riboflavin metabolism - Nitrosomonas europaea
+path:neu00750	Vitamin B6 metabolism - Nitrosomonas europaea
+path:neu00760	Nicotinate and nicotinamide metabolism - Nitrosomonas europaea
+path:neu00770	Pantothenate and CoA biosynthesis - Nitrosomonas europaea
+path:neu00780	Biotin metabolism - Nitrosomonas europaea
+path:neu00785	Lipoic acid metabolism - Nitrosomonas europaea
+path:neu00790	Folate biosynthesis - Nitrosomonas europaea
+path:neu00860	Porphyrin and chlorophyll metabolism - Nitrosomonas europaea
+path:neu00900	Terpenoid backbone biosynthesis - Nitrosomonas europaea
+path:neu00909	Sesquiterpenoid and triterpenoid biosynthesis - Nitrosomonas europaea
+path:neu00910	Nitrogen metabolism - Nitrosomonas europaea
+path:neu00920	Sulfur metabolism - Nitrosomonas europaea
+path:neu00970	Aminoacyl-tRNA biosynthesis - Nitrosomonas europaea
+path:neu01040	Biosynthesis of unsaturated fatty acids - Nitrosomonas europaea
+path:neu01100	Metabolic pathways - Nitrosomonas europaea
+path:neu01110	Biosynthesis of secondary metabolites - Nitrosomonas europaea
+path:neu01120	Microbial metabolism in diverse environments - Nitrosomonas europaea
+path:neu01130	Biosynthesis of antibiotics - Nitrosomonas europaea
+path:neu01200	Carbon metabolism - Nitrosomonas europaea
+path:neu01210	2-Oxocarboxylic acid metabolism - Nitrosomonas europaea
+path:neu01212	Fatty acid metabolism - Nitrosomonas europaea
+path:neu01220	Degradation of aromatic compounds - Nitrosomonas europaea
+path:neu01230	Biosynthesis of amino acids - Nitrosomonas europaea
+path:neu01501	beta-Lactam resistance - Nitrosomonas europaea
+path:neu01502	Vancomycin resistance - Nitrosomonas europaea
+path:neu01503	Cationic antimicrobial peptide (CAMP) resistance - Nitrosomonas europaea
+path:neu02010	ABC transporters - Nitrosomonas europaea
+path:neu02020	Two-component system - Nitrosomonas europaea
+path:neu02024	Quorum sensing - Nitrosomonas europaea
+path:neu02030	Bacterial chemotaxis - Nitrosomonas europaea
+path:neu02040	Flagellar assembly - Nitrosomonas europaea
+path:neu02060	Phosphotransferase system (PTS) - Nitrosomonas europaea
+path:neu03010	Ribosome - Nitrosomonas europaea
+path:neu03018	RNA degradation - Nitrosomonas europaea
+path:neu03020	RNA polymerase - Nitrosomonas europaea
+path:neu03030	DNA replication - Nitrosomonas europaea
+path:neu03060	Protein export - Nitrosomonas europaea
+path:neu03070	Bacterial secretion system - Nitrosomonas europaea
+path:neu03410	Base excision repair - Nitrosomonas europaea
+path:neu03420	Nucleotide excision repair - Nitrosomonas europaea
+path:neu03430	Mismatch repair - Nitrosomonas europaea
+path:neu03440	Homologous recombination - Nitrosomonas europaea
+path:neu04122	Sulfur relay system - Nitrosomonas europaea
+path:net00010	Glycolysis / Gluconeogenesis - Nitrosomonas eutropha
+path:net00020	Citrate cycle (TCA cycle) - Nitrosomonas eutropha
+path:net00030	Pentose phosphate pathway - Nitrosomonas eutropha
+path:net00040	Pentose and glucuronate interconversions - Nitrosomonas eutropha
+path:net00051	Fructose and mannose metabolism - Nitrosomonas eutropha
+path:net00052	Galactose metabolism - Nitrosomonas eutropha
+path:net00053	Ascorbate and aldarate metabolism - Nitrosomonas eutropha
+path:net00061	Fatty acid biosynthesis - Nitrosomonas eutropha
+path:net00071	Fatty acid degradation - Nitrosomonas eutropha
+path:net00100	Steroid biosynthesis - Nitrosomonas eutropha
+path:net00121	Secondary bile acid biosynthesis - Nitrosomonas eutropha
+path:net00130	Ubiquinone and other terpenoid-quinone biosynthesis - Nitrosomonas eutropha
+path:net00190	Oxidative phosphorylation - Nitrosomonas eutropha
+path:net00220	Arginine biosynthesis - Nitrosomonas eutropha
+path:net00230	Purine metabolism - Nitrosomonas eutropha
+path:net00240	Pyrimidine metabolism - Nitrosomonas eutropha
+path:net00250	Alanine, aspartate and glutamate metabolism - Nitrosomonas eutropha
+path:net00260	Glycine, serine and threonine metabolism - Nitrosomonas eutropha
+path:net00261	Monobactam biosynthesis - Nitrosomonas eutropha
+path:net00270	Cysteine and methionine metabolism - Nitrosomonas eutropha
+path:net00280	Valine, leucine and isoleucine degradation - Nitrosomonas eutropha
+path:net00281	Geraniol degradation - Nitrosomonas eutropha
+path:net00290	Valine, leucine and isoleucine biosynthesis - Nitrosomonas eutropha
+path:net00300	Lysine biosynthesis - Nitrosomonas eutropha
+path:net00310	Lysine degradation - Nitrosomonas eutropha
+path:net00311	Penicillin and cephalosporin biosynthesis - Nitrosomonas eutropha
+path:net00330	Arginine and proline metabolism - Nitrosomonas eutropha
+path:net00332	Carbapenem biosynthesis - Nitrosomonas eutropha
+path:net00340	Histidine metabolism - Nitrosomonas eutropha
+path:net00350	Tyrosine metabolism - Nitrosomonas eutropha
+path:net00360	Phenylalanine metabolism - Nitrosomonas eutropha
+path:net00362	Benzoate degradation - Nitrosomonas eutropha
+path:net00380	Tryptophan metabolism - Nitrosomonas eutropha
+path:net00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Nitrosomonas eutropha
+path:net00401	Novobiocin biosynthesis - Nitrosomonas eutropha
+path:net00410	beta-Alanine metabolism - Nitrosomonas eutropha
+path:net00430	Taurine and hypotaurine metabolism - Nitrosomonas eutropha
+path:net00450	Selenocompound metabolism - Nitrosomonas eutropha
+path:net00460	Cyanoamino acid metabolism - Nitrosomonas eutropha
+path:net00471	D-Glutamine and D-glutamate metabolism - Nitrosomonas eutropha
+path:net00472	D-Arginine and D-ornithine metabolism - Nitrosomonas eutropha
+path:net00473	D-Alanine metabolism - Nitrosomonas eutropha
+path:net00480	Glutathione metabolism - Nitrosomonas eutropha
+path:net00500	Starch and sucrose metabolism - Nitrosomonas eutropha
+path:net00520	Amino sugar and nucleotide sugar metabolism - Nitrosomonas eutropha
+path:net00521	Streptomycin biosynthesis - Nitrosomonas eutropha
+path:net00523	Polyketide sugar unit biosynthesis - Nitrosomonas eutropha
+path:net00525	Acarbose and validamycin biosynthesis - Nitrosomonas eutropha
+path:net00540	Lipopolysaccharide biosynthesis - Nitrosomonas eutropha
+path:net00550	Peptidoglycan biosynthesis - Nitrosomonas eutropha
+path:net00561	Glycerolipid metabolism - Nitrosomonas eutropha
+path:net00562	Inositol phosphate metabolism - Nitrosomonas eutropha
+path:net00564	Glycerophospholipid metabolism - Nitrosomonas eutropha
+path:net00590	Arachidonic acid metabolism - Nitrosomonas eutropha
+path:net00592	alpha-Linolenic acid metabolism - Nitrosomonas eutropha
+path:net00620	Pyruvate metabolism - Nitrosomonas eutropha
+path:net00623	Toluene degradation - Nitrosomonas eutropha
+path:net00625	Chloroalkane and chloroalkene degradation - Nitrosomonas eutropha
+path:net00626	Naphthalene degradation - Nitrosomonas eutropha
+path:net00627	Aminobenzoate degradation - Nitrosomonas eutropha
+path:net00630	Glyoxylate and dicarboxylate metabolism - Nitrosomonas eutropha
+path:net00633	Nitrotoluene degradation - Nitrosomonas eutropha
+path:net00640	Propanoate metabolism - Nitrosomonas eutropha
+path:net00650	Butanoate metabolism - Nitrosomonas eutropha
+path:net00660	C5-Branched dibasic acid metabolism - Nitrosomonas eutropha
+path:net00670	One carbon pool by folate - Nitrosomonas eutropha
+path:net00680	Methane metabolism - Nitrosomonas eutropha
+path:net00710	Carbon fixation in photosynthetic organisms - Nitrosomonas eutropha
+path:net00730	Thiamine metabolism - Nitrosomonas eutropha
+path:net00740	Riboflavin metabolism - Nitrosomonas eutropha
+path:net00750	Vitamin B6 metabolism - Nitrosomonas eutropha
+path:net00760	Nicotinate and nicotinamide metabolism - Nitrosomonas eutropha
+path:net00770	Pantothenate and CoA biosynthesis - Nitrosomonas eutropha
+path:net00780	Biotin metabolism - Nitrosomonas eutropha
+path:net00785	Lipoic acid metabolism - Nitrosomonas eutropha
+path:net00790	Folate biosynthesis - Nitrosomonas eutropha
+path:net00860	Porphyrin and chlorophyll metabolism - Nitrosomonas eutropha
+path:net00900	Terpenoid backbone biosynthesis - Nitrosomonas eutropha
+path:net00909	Sesquiterpenoid and triterpenoid biosynthesis - Nitrosomonas eutropha
+path:net00910	Nitrogen metabolism - Nitrosomonas eutropha
+path:net00920	Sulfur metabolism - Nitrosomonas eutropha
+path:net00970	Aminoacyl-tRNA biosynthesis - Nitrosomonas eutropha
+path:net01040	Biosynthesis of unsaturated fatty acids - Nitrosomonas eutropha
+path:net01100	Metabolic pathways - Nitrosomonas eutropha
+path:net01110	Biosynthesis of secondary metabolites - Nitrosomonas eutropha
+path:net01120	Microbial metabolism in diverse environments - Nitrosomonas eutropha
+path:net01130	Biosynthesis of antibiotics - Nitrosomonas eutropha
+path:net01200	Carbon metabolism - Nitrosomonas eutropha
+path:net01210	2-Oxocarboxylic acid metabolism - Nitrosomonas eutropha
+path:net01212	Fatty acid metabolism - Nitrosomonas eutropha
+path:net01220	Degradation of aromatic compounds - Nitrosomonas eutropha
+path:net01230	Biosynthesis of amino acids - Nitrosomonas eutropha
+path:net01501	beta-Lactam resistance - Nitrosomonas eutropha
+path:net01502	Vancomycin resistance - Nitrosomonas eutropha
+path:net01503	Cationic antimicrobial peptide (CAMP) resistance - Nitrosomonas eutropha
+path:net02010	ABC transporters - Nitrosomonas eutropha
+path:net02020	Two-component system - Nitrosomonas eutropha
+path:net02024	Quorum sensing - Nitrosomonas eutropha
+path:net02030	Bacterial chemotaxis - Nitrosomonas eutropha
+path:net02040	Flagellar assembly - Nitrosomonas eutropha
+path:net02060	Phosphotransferase system (PTS) - Nitrosomonas eutropha
+path:net03010	Ribosome - Nitrosomonas eutropha
+path:net03018	RNA degradation - Nitrosomonas eutropha
+path:net03020	RNA polymerase - Nitrosomonas eutropha
+path:net03030	DNA replication - Nitrosomonas eutropha
+path:net03060	Protein export - Nitrosomonas eutropha
+path:net03070	Bacterial secretion system - Nitrosomonas eutropha
+path:net03410	Base excision repair - Nitrosomonas eutropha
+path:net03420	Nucleotide excision repair - Nitrosomonas eutropha
+path:net03430	Mismatch repair - Nitrosomonas eutropha
+path:net03440	Homologous recombination - Nitrosomonas eutropha
+path:net04122	Sulfur relay system - Nitrosomonas eutropha
+path:nit00010	Glycolysis / Gluconeogenesis - Nitrosomonas sp. AL212
+path:nit00020	Citrate cycle (TCA cycle) - Nitrosomonas sp. AL212
+path:nit00030	Pentose phosphate pathway - Nitrosomonas sp. AL212
+path:nit00040	Pentose and glucuronate interconversions - Nitrosomonas sp. AL212
+path:nit00051	Fructose and mannose metabolism - Nitrosomonas sp. AL212
+path:nit00052	Galactose metabolism - Nitrosomonas sp. AL212
+path:nit00053	Ascorbate and aldarate metabolism - Nitrosomonas sp. AL212
+path:nit00061	Fatty acid biosynthesis - Nitrosomonas sp. AL212
+path:nit00071	Fatty acid degradation - Nitrosomonas sp. AL212
+path:nit00100	Steroid biosynthesis - Nitrosomonas sp. AL212
+path:nit00130	Ubiquinone and other terpenoid-quinone biosynthesis - Nitrosomonas sp. AL212
+path:nit00190	Oxidative phosphorylation - Nitrosomonas sp. AL212
+path:nit00220	Arginine biosynthesis - Nitrosomonas sp. AL212
+path:nit00230	Purine metabolism - Nitrosomonas sp. AL212
+path:nit00240	Pyrimidine metabolism - Nitrosomonas sp. AL212
+path:nit00250	Alanine, aspartate and glutamate metabolism - Nitrosomonas sp. AL212
+path:nit00260	Glycine, serine and threonine metabolism - Nitrosomonas sp. AL212
+path:nit00261	Monobactam biosynthesis - Nitrosomonas sp. AL212
+path:nit00270	Cysteine and methionine metabolism - Nitrosomonas sp. AL212
+path:nit00280	Valine, leucine and isoleucine degradation - Nitrosomonas sp. AL212
+path:nit00281	Geraniol degradation - Nitrosomonas sp. AL212
+path:nit00290	Valine, leucine and isoleucine biosynthesis - Nitrosomonas sp. AL212
+path:nit00300	Lysine biosynthesis - Nitrosomonas sp. AL212
+path:nit00310	Lysine degradation - Nitrosomonas sp. AL212
+path:nit00330	Arginine and proline metabolism - Nitrosomonas sp. AL212
+path:nit00332	Carbapenem biosynthesis - Nitrosomonas sp. AL212
+path:nit00340	Histidine metabolism - Nitrosomonas sp. AL212
+path:nit00350	Tyrosine metabolism - Nitrosomonas sp. AL212
+path:nit00360	Phenylalanine metabolism - Nitrosomonas sp. AL212
+path:nit00362	Benzoate degradation - Nitrosomonas sp. AL212
+path:nit00380	Tryptophan metabolism - Nitrosomonas sp. AL212
+path:nit00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Nitrosomonas sp. AL212
+path:nit00401	Novobiocin biosynthesis - Nitrosomonas sp. AL212
+path:nit00410	beta-Alanine metabolism - Nitrosomonas sp. AL212
+path:nit00430	Taurine and hypotaurine metabolism - Nitrosomonas sp. AL212
+path:nit00450	Selenocompound metabolism - Nitrosomonas sp. AL212
+path:nit00460	Cyanoamino acid metabolism - Nitrosomonas sp. AL212
+path:nit00471	D-Glutamine and D-glutamate metabolism - Nitrosomonas sp. AL212
+path:nit00472	D-Arginine and D-ornithine metabolism - Nitrosomonas sp. AL212
+path:nit00473	D-Alanine metabolism - Nitrosomonas sp. AL212
+path:nit00480	Glutathione metabolism - Nitrosomonas sp. AL212
+path:nit00500	Starch and sucrose metabolism - Nitrosomonas sp. AL212
+path:nit00520	Amino sugar and nucleotide sugar metabolism - Nitrosomonas sp. AL212
+path:nit00521	Streptomycin biosynthesis - Nitrosomonas sp. AL212
+path:nit00523	Polyketide sugar unit biosynthesis - Nitrosomonas sp. AL212
+path:nit00525	Acarbose and validamycin biosynthesis - Nitrosomonas sp. AL212
+path:nit00540	Lipopolysaccharide biosynthesis - Nitrosomonas sp. AL212
+path:nit00550	Peptidoglycan biosynthesis - Nitrosomonas sp. AL212
+path:nit00561	Glycerolipid metabolism - Nitrosomonas sp. AL212
+path:nit00562	Inositol phosphate metabolism - Nitrosomonas sp. AL212
+path:nit00564	Glycerophospholipid metabolism - Nitrosomonas sp. AL212
+path:nit00590	Arachidonic acid metabolism - Nitrosomonas sp. AL212
+path:nit00592	alpha-Linolenic acid metabolism - Nitrosomonas sp. AL212
+path:nit00620	Pyruvate metabolism - Nitrosomonas sp. AL212
+path:nit00622	Xylene degradation - Nitrosomonas sp. AL212
+path:nit00623	Toluene degradation - Nitrosomonas sp. AL212
+path:nit00625	Chloroalkane and chloroalkene degradation - Nitrosomonas sp. AL212
+path:nit00626	Naphthalene degradation - Nitrosomonas sp. AL212
+path:nit00630	Glyoxylate and dicarboxylate metabolism - Nitrosomonas sp. AL212
+path:nit00640	Propanoate metabolism - Nitrosomonas sp. AL212
+path:nit00650	Butanoate metabolism - Nitrosomonas sp. AL212
+path:nit00660	C5-Branched dibasic acid metabolism - Nitrosomonas sp. AL212
+path:nit00670	One carbon pool by folate - Nitrosomonas sp. AL212
+path:nit00680	Methane metabolism - Nitrosomonas sp. AL212
+path:nit00710	Carbon fixation in photosynthetic organisms - Nitrosomonas sp. AL212
+path:nit00730	Thiamine metabolism - Nitrosomonas sp. AL212
+path:nit00740	Riboflavin metabolism - Nitrosomonas sp. AL212
+path:nit00750	Vitamin B6 metabolism - Nitrosomonas sp. AL212
+path:nit00760	Nicotinate and nicotinamide metabolism - Nitrosomonas sp. AL212
+path:nit00770	Pantothenate and CoA biosynthesis - Nitrosomonas sp. AL212
+path:nit00780	Biotin metabolism - Nitrosomonas sp. AL212
+path:nit00785	Lipoic acid metabolism - Nitrosomonas sp. AL212
+path:nit00790	Folate biosynthesis - Nitrosomonas sp. AL212
+path:nit00791	Atrazine degradation - Nitrosomonas sp. AL212
+path:nit00860	Porphyrin and chlorophyll metabolism - Nitrosomonas sp. AL212
+path:nit00900	Terpenoid backbone biosynthesis - Nitrosomonas sp. AL212
+path:nit00909	Sesquiterpenoid and triterpenoid biosynthesis - Nitrosomonas sp. AL212
+path:nit00910	Nitrogen metabolism - Nitrosomonas sp. AL212
+path:nit00920	Sulfur metabolism - Nitrosomonas sp. AL212
+path:nit00970	Aminoacyl-tRNA biosynthesis - Nitrosomonas sp. AL212
+path:nit01040	Biosynthesis of unsaturated fatty acids - Nitrosomonas sp. AL212
+path:nit01100	Metabolic pathways - Nitrosomonas sp. AL212
+path:nit01110	Biosynthesis of secondary metabolites - Nitrosomonas sp. AL212
+path:nit01120	Microbial metabolism in diverse environments - Nitrosomonas sp. AL212
+path:nit01130	Biosynthesis of antibiotics - Nitrosomonas sp. AL212
+path:nit01200	Carbon metabolism - Nitrosomonas sp. AL212
+path:nit01210	2-Oxocarboxylic acid metabolism - Nitrosomonas sp. AL212
+path:nit01212	Fatty acid metabolism - Nitrosomonas sp. AL212
+path:nit01220	Degradation of aromatic compounds - Nitrosomonas sp. AL212
+path:nit01230	Biosynthesis of amino acids - Nitrosomonas sp. AL212
+path:nit01501	beta-Lactam resistance - Nitrosomonas sp. AL212
+path:nit01502	Vancomycin resistance - Nitrosomonas sp. AL212
+path:nit01503	Cationic antimicrobial peptide (CAMP) resistance - Nitrosomonas sp. AL212
+path:nit02010	ABC transporters - Nitrosomonas sp. AL212
+path:nit02020	Two-component system - Nitrosomonas sp. AL212
+path:nit02024	Quorum sensing - Nitrosomonas sp. AL212
+path:nit02030	Bacterial chemotaxis - Nitrosomonas sp. AL212
+path:nit02040	Flagellar assembly - Nitrosomonas sp. AL212
+path:nit02060	Phosphotransferase system (PTS) - Nitrosomonas sp. AL212
+path:nit03010	Ribosome - Nitrosomonas sp. AL212
+path:nit03018	RNA degradation - Nitrosomonas sp. AL212
+path:nit03020	RNA polymerase - Nitrosomonas sp. AL212
+path:nit03030	DNA replication - Nitrosomonas sp. AL212
+path:nit03060	Protein export - Nitrosomonas sp. AL212
+path:nit03070	Bacterial secretion system - Nitrosomonas sp. AL212
+path:nit03410	Base excision repair - Nitrosomonas sp. AL212
+path:nit03420	Nucleotide excision repair - Nitrosomonas sp. AL212
+path:nit03430	Mismatch repair - Nitrosomonas sp. AL212
+path:nit03440	Homologous recombination - Nitrosomonas sp. AL212
+path:nit04122	Sulfur relay system - Nitrosomonas sp. AL212
+path:nii00010	Glycolysis / Gluconeogenesis - Nitrosomonas sp. Is79A3
+path:nii00020	Citrate cycle (TCA cycle) - Nitrosomonas sp. Is79A3
+path:nii00030	Pentose phosphate pathway - Nitrosomonas sp. Is79A3
+path:nii00040	Pentose and glucuronate interconversions - Nitrosomonas sp. Is79A3
+path:nii00051	Fructose and mannose metabolism - Nitrosomonas sp. Is79A3
+path:nii00052	Galactose metabolism - Nitrosomonas sp. Is79A3
+path:nii00053	Ascorbate and aldarate metabolism - Nitrosomonas sp. Is79A3
+path:nii00061	Fatty acid biosynthesis - Nitrosomonas sp. Is79A3
+path:nii00071	Fatty acid degradation - Nitrosomonas sp. Is79A3
+path:nii00100	Steroid biosynthesis - Nitrosomonas sp. Is79A3
+path:nii00130	Ubiquinone and other terpenoid-quinone biosynthesis - Nitrosomonas sp. Is79A3
+path:nii00190	Oxidative phosphorylation - Nitrosomonas sp. Is79A3
+path:nii00220	Arginine biosynthesis - Nitrosomonas sp. Is79A3
+path:nii00230	Purine metabolism - Nitrosomonas sp. Is79A3
+path:nii00240	Pyrimidine metabolism - Nitrosomonas sp. Is79A3
+path:nii00250	Alanine, aspartate and glutamate metabolism - Nitrosomonas sp. Is79A3
+path:nii00260	Glycine, serine and threonine metabolism - Nitrosomonas sp. Is79A3
+path:nii00261	Monobactam biosynthesis - Nitrosomonas sp. Is79A3
+path:nii00270	Cysteine and methionine metabolism - Nitrosomonas sp. Is79A3
+path:nii00280	Valine, leucine and isoleucine degradation - Nitrosomonas sp. Is79A3
+path:nii00281	Geraniol degradation - Nitrosomonas sp. Is79A3
+path:nii00290	Valine, leucine and isoleucine biosynthesis - Nitrosomonas sp. Is79A3
+path:nii00300	Lysine biosynthesis - Nitrosomonas sp. Is79A3
+path:nii00310	Lysine degradation - Nitrosomonas sp. Is79A3
+path:nii00330	Arginine and proline metabolism - Nitrosomonas sp. Is79A3
+path:nii00332	Carbapenem biosynthesis - Nitrosomonas sp. Is79A3
+path:nii00340	Histidine metabolism - Nitrosomonas sp. Is79A3
+path:nii00350	Tyrosine metabolism - Nitrosomonas sp. Is79A3
+path:nii00360	Phenylalanine metabolism - Nitrosomonas sp. Is79A3
+path:nii00362	Benzoate degradation - Nitrosomonas sp. Is79A3
+path:nii00380	Tryptophan metabolism - Nitrosomonas sp. Is79A3
+path:nii00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Nitrosomonas sp. Is79A3
+path:nii00401	Novobiocin biosynthesis - Nitrosomonas sp. Is79A3
+path:nii00430	Taurine and hypotaurine metabolism - Nitrosomonas sp. Is79A3
+path:nii00450	Selenocompound metabolism - Nitrosomonas sp. Is79A3
+path:nii00471	D-Glutamine and D-glutamate metabolism - Nitrosomonas sp. Is79A3
+path:nii00472	D-Arginine and D-ornithine metabolism - Nitrosomonas sp. Is79A3
+path:nii00473	D-Alanine metabolism - Nitrosomonas sp. Is79A3
+path:nii00480	Glutathione metabolism - Nitrosomonas sp. Is79A3
+path:nii00500	Starch and sucrose metabolism - Nitrosomonas sp. Is79A3
+path:nii00520	Amino sugar and nucleotide sugar metabolism - Nitrosomonas sp. Is79A3
+path:nii00521	Streptomycin biosynthesis - Nitrosomonas sp. Is79A3
+path:nii00523	Polyketide sugar unit biosynthesis - Nitrosomonas sp. Is79A3
+path:nii00525	Acarbose and validamycin biosynthesis - Nitrosomonas sp. Is79A3
+path:nii00540	Lipopolysaccharide biosynthesis - Nitrosomonas sp. Is79A3
+path:nii00550	Peptidoglycan biosynthesis - Nitrosomonas sp. Is79A3
+path:nii00561	Glycerolipid metabolism - Nitrosomonas sp. Is79A3
+path:nii00562	Inositol phosphate metabolism - Nitrosomonas sp. Is79A3
+path:nii00564	Glycerophospholipid metabolism - Nitrosomonas sp. Is79A3
+path:nii00590	Arachidonic acid metabolism - Nitrosomonas sp. Is79A3
+path:nii00592	alpha-Linolenic acid metabolism - Nitrosomonas sp. Is79A3
+path:nii00620	Pyruvate metabolism - Nitrosomonas sp. Is79A3
+path:nii00625	Chloroalkane and chloroalkene degradation - Nitrosomonas sp. Is79A3
+path:nii00626	Naphthalene degradation - Nitrosomonas sp. Is79A3
+path:nii00630	Glyoxylate and dicarboxylate metabolism - Nitrosomonas sp. Is79A3
+path:nii00640	Propanoate metabolism - Nitrosomonas sp. Is79A3
+path:nii00650	Butanoate metabolism - Nitrosomonas sp. Is79A3
+path:nii00660	C5-Branched dibasic acid metabolism - Nitrosomonas sp. Is79A3
+path:nii00670	One carbon pool by folate - Nitrosomonas sp. Is79A3
+path:nii00680	Methane metabolism - Nitrosomonas sp. Is79A3
+path:nii00710	Carbon fixation in photosynthetic organisms - Nitrosomonas sp. Is79A3
+path:nii00730	Thiamine metabolism - Nitrosomonas sp. Is79A3
+path:nii00740	Riboflavin metabolism - Nitrosomonas sp. Is79A3
+path:nii00750	Vitamin B6 metabolism - Nitrosomonas sp. Is79A3
+path:nii00760	Nicotinate and nicotinamide metabolism - Nitrosomonas sp. Is79A3
+path:nii00770	Pantothenate and CoA biosynthesis - Nitrosomonas sp. Is79A3
+path:nii00780	Biotin metabolism - Nitrosomonas sp. Is79A3
+path:nii00785	Lipoic acid metabolism - Nitrosomonas sp. Is79A3
+path:nii00790	Folate biosynthesis - Nitrosomonas sp. Is79A3
+path:nii00791	Atrazine degradation - Nitrosomonas sp. Is79A3
+path:nii00860	Porphyrin and chlorophyll metabolism - Nitrosomonas sp. Is79A3
+path:nii00900	Terpenoid backbone biosynthesis - Nitrosomonas sp. Is79A3
+path:nii00909	Sesquiterpenoid and triterpenoid biosynthesis - Nitrosomonas sp. Is79A3
+path:nii00910	Nitrogen metabolism - Nitrosomonas sp. Is79A3
+path:nii00920	Sulfur metabolism - Nitrosomonas sp. Is79A3
+path:nii00970	Aminoacyl-tRNA biosynthesis - Nitrosomonas sp. Is79A3
+path:nii01040	Biosynthesis of unsaturated fatty acids - Nitrosomonas sp. Is79A3
+path:nii01100	Metabolic pathways - Nitrosomonas sp. Is79A3
+path:nii01110	Biosynthesis of secondary metabolites - Nitrosomonas sp. Is79A3
+path:nii01120	Microbial metabolism in diverse environments - Nitrosomonas sp. Is79A3
+path:nii01130	Biosynthesis of antibiotics - Nitrosomonas sp. Is79A3
+path:nii01200	Carbon metabolism - Nitrosomonas sp. Is79A3
+path:nii01210	2-Oxocarboxylic acid metabolism - Nitrosomonas sp. Is79A3
+path:nii01212	Fatty acid metabolism - Nitrosomonas sp. Is79A3
+path:nii01220	Degradation of aromatic compounds - Nitrosomonas sp. Is79A3
+path:nii01230	Biosynthesis of amino acids - Nitrosomonas sp. Is79A3
+path:nii01501	beta-Lactam resistance - Nitrosomonas sp. Is79A3
+path:nii01502	Vancomycin resistance - Nitrosomonas sp. Is79A3
+path:nii01503	Cationic antimicrobial peptide (CAMP) resistance - Nitrosomonas sp. Is79A3
+path:nii02010	ABC transporters - Nitrosomonas sp. Is79A3
+path:nii02020	Two-component system - Nitrosomonas sp. Is79A3
+path:nii02024	Quorum sensing - Nitrosomonas sp. Is79A3
+path:nii02030	Bacterial chemotaxis - Nitrosomonas sp. Is79A3
+path:nii02040	Flagellar assembly - Nitrosomonas sp. Is79A3
+path:nii02060	Phosphotransferase system (PTS) - Nitrosomonas sp. Is79A3
+path:nii03010	Ribosome - Nitrosomonas sp. Is79A3
+path:nii03018	RNA degradation - Nitrosomonas sp. Is79A3
+path:nii03020	RNA polymerase - Nitrosomonas sp. Is79A3
+path:nii03030	DNA replication - Nitrosomonas sp. Is79A3
+path:nii03060	Protein export - Nitrosomonas sp. Is79A3
+path:nii03070	Bacterial secretion system - Nitrosomonas sp. Is79A3
+path:nii03410	Base excision repair - Nitrosomonas sp. Is79A3
+path:nii03420	Nucleotide excision repair - Nitrosomonas sp. Is79A3
+path:nii03430	Mismatch repair - Nitrosomonas sp. Is79A3
+path:nii03440	Homologous recombination - Nitrosomonas sp. Is79A3
+path:nii04122	Sulfur relay system - Nitrosomonas sp. Is79A3
+path:nco00010	Glycolysis / Gluconeogenesis - Nitrosomonas communis
+path:nco00020	Citrate cycle (TCA cycle) - Nitrosomonas communis
+path:nco00030	Pentose phosphate pathway - Nitrosomonas communis
+path:nco00040	Pentose and glucuronate interconversions - Nitrosomonas communis
+path:nco00051	Fructose and mannose metabolism - Nitrosomonas communis
+path:nco00052	Galactose metabolism - Nitrosomonas communis
+path:nco00053	Ascorbate and aldarate metabolism - Nitrosomonas communis
+path:nco00061	Fatty acid biosynthesis - Nitrosomonas communis
+path:nco00071	Fatty acid degradation - Nitrosomonas communis
+path:nco00100	Steroid biosynthesis - Nitrosomonas communis
+path:nco00130	Ubiquinone and other terpenoid-quinone biosynthesis - Nitrosomonas communis
+path:nco00190	Oxidative phosphorylation - Nitrosomonas communis
+path:nco00220	Arginine biosynthesis - Nitrosomonas communis
+path:nco00230	Purine metabolism - Nitrosomonas communis
+path:nco00240	Pyrimidine metabolism - Nitrosomonas communis
+path:nco00250	Alanine, aspartate and glutamate metabolism - Nitrosomonas communis
+path:nco00260	Glycine, serine and threonine metabolism - Nitrosomonas communis
+path:nco00261	Monobactam biosynthesis - Nitrosomonas communis
+path:nco00270	Cysteine and methionine metabolism - Nitrosomonas communis
+path:nco00280	Valine, leucine and isoleucine degradation - Nitrosomonas communis
+path:nco00281	Geraniol degradation - Nitrosomonas communis
+path:nco00290	Valine, leucine and isoleucine biosynthesis - Nitrosomonas communis
+path:nco00300	Lysine biosynthesis - Nitrosomonas communis
+path:nco00310	Lysine degradation - Nitrosomonas communis
+path:nco00330	Arginine and proline metabolism - Nitrosomonas communis
+path:nco00332	Carbapenem biosynthesis - Nitrosomonas communis
+path:nco00340	Histidine metabolism - Nitrosomonas communis
+path:nco00350	Tyrosine metabolism - Nitrosomonas communis
+path:nco00360	Phenylalanine metabolism - Nitrosomonas communis
+path:nco00362	Benzoate degradation - Nitrosomonas communis
+path:nco00380	Tryptophan metabolism - Nitrosomonas communis
+path:nco00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Nitrosomonas communis
+path:nco00401	Novobiocin biosynthesis - Nitrosomonas communis
+path:nco00430	Taurine and hypotaurine metabolism - Nitrosomonas communis
+path:nco00450	Selenocompound metabolism - Nitrosomonas communis
+path:nco00471	D-Glutamine and D-glutamate metabolism - Nitrosomonas communis
+path:nco00472	D-Arginine and D-ornithine metabolism - Nitrosomonas communis
+path:nco00473	D-Alanine metabolism - Nitrosomonas communis
+path:nco00480	Glutathione metabolism - Nitrosomonas communis
+path:nco00500	Starch and sucrose metabolism - Nitrosomonas communis
+path:nco00520	Amino sugar and nucleotide sugar metabolism - Nitrosomonas communis
+path:nco00521	Streptomycin biosynthesis - Nitrosomonas communis
+path:nco00523	Polyketide sugar unit biosynthesis - Nitrosomonas communis
+path:nco00525	Acarbose and validamycin biosynthesis - Nitrosomonas communis
+path:nco00540	Lipopolysaccharide biosynthesis - Nitrosomonas communis
+path:nco00550	Peptidoglycan biosynthesis - Nitrosomonas communis
+path:nco00561	Glycerolipid metabolism - Nitrosomonas communis
+path:nco00562	Inositol phosphate metabolism - Nitrosomonas communis
+path:nco00564	Glycerophospholipid metabolism - Nitrosomonas communis
+path:nco00590	Arachidonic acid metabolism - Nitrosomonas communis
+path:nco00592	alpha-Linolenic acid metabolism - Nitrosomonas communis
+path:nco00620	Pyruvate metabolism - Nitrosomonas communis
+path:nco00622	Xylene degradation - Nitrosomonas communis
+path:nco00623	Toluene degradation - Nitrosomonas communis
+path:nco00625	Chloroalkane and chloroalkene degradation - Nitrosomonas communis
+path:nco00626	Naphthalene degradation - Nitrosomonas communis
+path:nco00627	Aminobenzoate degradation - Nitrosomonas communis
+path:nco00630	Glyoxylate and dicarboxylate metabolism - Nitrosomonas communis
+path:nco00640	Propanoate metabolism - Nitrosomonas communis
+path:nco00643	Styrene degradation - Nitrosomonas communis
+path:nco00650	Butanoate metabolism - Nitrosomonas communis
+path:nco00660	C5-Branched dibasic acid metabolism - Nitrosomonas communis
+path:nco00670	One carbon pool by folate - Nitrosomonas communis
+path:nco00680	Methane metabolism - Nitrosomonas communis
+path:nco00710	Carbon fixation in photosynthetic organisms - Nitrosomonas communis
+path:nco00730	Thiamine metabolism - Nitrosomonas communis
+path:nco00740	Riboflavin metabolism - Nitrosomonas communis
+path:nco00750	Vitamin B6 metabolism - Nitrosomonas communis
+path:nco00760	Nicotinate and nicotinamide metabolism - Nitrosomonas communis
+path:nco00770	Pantothenate and CoA biosynthesis - Nitrosomonas communis
+path:nco00780	Biotin metabolism - Nitrosomonas communis
+path:nco00785	Lipoic acid metabolism - Nitrosomonas communis
+path:nco00790	Folate biosynthesis - Nitrosomonas communis
+path:nco00791	Atrazine degradation - Nitrosomonas communis
+path:nco00860	Porphyrin and chlorophyll metabolism - Nitrosomonas communis
+path:nco00900	Terpenoid backbone biosynthesis - Nitrosomonas communis
+path:nco00909	Sesquiterpenoid and triterpenoid biosynthesis - Nitrosomonas communis
+path:nco00910	Nitrogen metabolism - Nitrosomonas communis
+path:nco00920	Sulfur metabolism - Nitrosomonas communis
+path:nco00970	Aminoacyl-tRNA biosynthesis - Nitrosomonas communis
+path:nco01040	Biosynthesis of unsaturated fatty acids - Nitrosomonas communis
+path:nco01100	Metabolic pathways - Nitrosomonas communis
+path:nco01110	Biosynthesis of secondary metabolites - Nitrosomonas communis
+path:nco01120	Microbial metabolism in diverse environments - Nitrosomonas communis
+path:nco01130	Biosynthesis of antibiotics - Nitrosomonas communis
+path:nco01200	Carbon metabolism - Nitrosomonas communis
+path:nco01210	2-Oxocarboxylic acid metabolism - Nitrosomonas communis
+path:nco01212	Fatty acid metabolism - Nitrosomonas communis
+path:nco01220	Degradation of aromatic compounds - Nitrosomonas communis
+path:nco01230	Biosynthesis of amino acids - Nitrosomonas communis
+path:nco01501	beta-Lactam resistance - Nitrosomonas communis
+path:nco01502	Vancomycin resistance - Nitrosomonas communis
+path:nco01503	Cationic antimicrobial peptide (CAMP) resistance - Nitrosomonas communis
+path:nco02010	ABC transporters - Nitrosomonas communis
+path:nco02020	Two-component system - Nitrosomonas communis
+path:nco02024	Quorum sensing - Nitrosomonas communis
+path:nco02040	Flagellar assembly - Nitrosomonas communis
+path:nco02060	Phosphotransferase system (PTS) - Nitrosomonas communis
+path:nco03010	Ribosome - Nitrosomonas communis
+path:nco03018	RNA degradation - Nitrosomonas communis
+path:nco03020	RNA polymerase - Nitrosomonas communis
+path:nco03030	DNA replication - Nitrosomonas communis
+path:nco03060	Protein export - Nitrosomonas communis
+path:nco03070	Bacterial secretion system - Nitrosomonas communis
+path:nco03410	Base excision repair - Nitrosomonas communis
+path:nco03420	Nucleotide excision repair - Nitrosomonas communis
+path:nco03430	Mismatch repair - Nitrosomonas communis
+path:nco03440	Homologous recombination - Nitrosomonas communis
+path:nco04122	Sulfur relay system - Nitrosomonas communis
+path:nur00010	Glycolysis / Gluconeogenesis - Nitrosomonas ureae
+path:nur00020	Citrate cycle (TCA cycle) - Nitrosomonas ureae
+path:nur00030	Pentose phosphate pathway - Nitrosomonas ureae
+path:nur00040	Pentose and glucuronate interconversions - Nitrosomonas ureae
+path:nur00051	Fructose and mannose metabolism - Nitrosomonas ureae
+path:nur00052	Galactose metabolism - Nitrosomonas ureae
+path:nur00053	Ascorbate and aldarate metabolism - Nitrosomonas ureae
+path:nur00061	Fatty acid biosynthesis - Nitrosomonas ureae
+path:nur00071	Fatty acid degradation - Nitrosomonas ureae
+path:nur00100	Steroid biosynthesis - Nitrosomonas ureae
+path:nur00130	Ubiquinone and other terpenoid-quinone biosynthesis - Nitrosomonas ureae
+path:nur00190	Oxidative phosphorylation - Nitrosomonas ureae
+path:nur00220	Arginine biosynthesis - Nitrosomonas ureae
+path:nur00230	Purine metabolism - Nitrosomonas ureae
+path:nur00240	Pyrimidine metabolism - Nitrosomonas ureae
+path:nur00250	Alanine, aspartate and glutamate metabolism - Nitrosomonas ureae
+path:nur00260	Glycine, serine and threonine metabolism - Nitrosomonas ureae
+path:nur00261	Monobactam biosynthesis - Nitrosomonas ureae
+path:nur00270	Cysteine and methionine metabolism - Nitrosomonas ureae
+path:nur00280	Valine, leucine and isoleucine degradation - Nitrosomonas ureae
+path:nur00281	Geraniol degradation - Nitrosomonas ureae
+path:nur00290	Valine, leucine and isoleucine biosynthesis - Nitrosomonas ureae
+path:nur00300	Lysine biosynthesis - Nitrosomonas ureae
+path:nur00310	Lysine degradation - Nitrosomonas ureae
+path:nur00330	Arginine and proline metabolism - Nitrosomonas ureae
+path:nur00332	Carbapenem biosynthesis - Nitrosomonas ureae
+path:nur00340	Histidine metabolism - Nitrosomonas ureae
+path:nur00350	Tyrosine metabolism - Nitrosomonas ureae
+path:nur00360	Phenylalanine metabolism - Nitrosomonas ureae
+path:nur00362	Benzoate degradation - Nitrosomonas ureae
+path:nur00380	Tryptophan metabolism - Nitrosomonas ureae
+path:nur00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Nitrosomonas ureae
+path:nur00401	Novobiocin biosynthesis - Nitrosomonas ureae
+path:nur00410	beta-Alanine metabolism - Nitrosomonas ureae
+path:nur00430	Taurine and hypotaurine metabolism - Nitrosomonas ureae
+path:nur00450	Selenocompound metabolism - Nitrosomonas ureae
+path:nur00460	Cyanoamino acid metabolism - Nitrosomonas ureae
+path:nur00471	D-Glutamine and D-glutamate metabolism - Nitrosomonas ureae
+path:nur00472	D-Arginine and D-ornithine metabolism - Nitrosomonas ureae
+path:nur00473	D-Alanine metabolism - Nitrosomonas ureae
+path:nur00480	Glutathione metabolism - Nitrosomonas ureae
+path:nur00500	Starch and sucrose metabolism - Nitrosomonas ureae
+path:nur00520	Amino sugar and nucleotide sugar metabolism - Nitrosomonas ureae
+path:nur00521	Streptomycin biosynthesis - Nitrosomonas ureae
+path:nur00523	Polyketide sugar unit biosynthesis - Nitrosomonas ureae
+path:nur00525	Acarbose and validamycin biosynthesis - Nitrosomonas ureae
+path:nur00540	Lipopolysaccharide biosynthesis - Nitrosomonas ureae
+path:nur00550	Peptidoglycan biosynthesis - Nitrosomonas ureae
+path:nur00561	Glycerolipid metabolism - Nitrosomonas ureae
+path:nur00562	Inositol phosphate metabolism - Nitrosomonas ureae
+path:nur00564	Glycerophospholipid metabolism - Nitrosomonas ureae
+path:nur00590	Arachidonic acid metabolism - Nitrosomonas ureae
+path:nur00592	alpha-Linolenic acid metabolism - Nitrosomonas ureae
+path:nur00620	Pyruvate metabolism - Nitrosomonas ureae
+path:nur00622	Xylene degradation - Nitrosomonas ureae
+path:nur00623	Toluene degradation - Nitrosomonas ureae
+path:nur00625	Chloroalkane and chloroalkene degradation - Nitrosomonas ureae
+path:nur00626	Naphthalene degradation - Nitrosomonas ureae
+path:nur00630	Glyoxylate and dicarboxylate metabolism - Nitrosomonas ureae
+path:nur00640	Propanoate metabolism - Nitrosomonas ureae
+path:nur00650	Butanoate metabolism - Nitrosomonas ureae
+path:nur00660	C5-Branched dibasic acid metabolism - Nitrosomonas ureae
+path:nur00670	One carbon pool by folate - Nitrosomonas ureae
+path:nur00680	Methane metabolism - Nitrosomonas ureae
+path:nur00710	Carbon fixation in photosynthetic organisms - Nitrosomonas ureae
+path:nur00730	Thiamine metabolism - Nitrosomonas ureae
+path:nur00740	Riboflavin metabolism - Nitrosomonas ureae
+path:nur00750	Vitamin B6 metabolism - Nitrosomonas ureae
+path:nur00760	Nicotinate and nicotinamide metabolism - Nitrosomonas ureae
+path:nur00770	Pantothenate and CoA biosynthesis - Nitrosomonas ureae
+path:nur00780	Biotin metabolism - Nitrosomonas ureae
+path:nur00785	Lipoic acid metabolism - Nitrosomonas ureae
+path:nur00790	Folate biosynthesis - Nitrosomonas ureae
+path:nur00791	Atrazine degradation - Nitrosomonas ureae
+path:nur00860	Porphyrin and chlorophyll metabolism - Nitrosomonas ureae
+path:nur00900	Terpenoid backbone biosynthesis - Nitrosomonas ureae
+path:nur00909	Sesquiterpenoid and triterpenoid biosynthesis - Nitrosomonas ureae
+path:nur00910	Nitrogen metabolism - Nitrosomonas ureae
+path:nur00920	Sulfur metabolism - Nitrosomonas ureae
+path:nur00970	Aminoacyl-tRNA biosynthesis - Nitrosomonas ureae
+path:nur01040	Biosynthesis of unsaturated fatty acids - Nitrosomonas ureae
+path:nur01100	Metabolic pathways - Nitrosomonas ureae
+path:nur01110	Biosynthesis of secondary metabolites - Nitrosomonas ureae
+path:nur01120	Microbial metabolism in diverse environments - Nitrosomonas ureae
+path:nur01130	Biosynthesis of antibiotics - Nitrosomonas ureae
+path:nur01200	Carbon metabolism - Nitrosomonas ureae
+path:nur01210	2-Oxocarboxylic acid metabolism - Nitrosomonas ureae
+path:nur01212	Fatty acid metabolism - Nitrosomonas ureae
+path:nur01220	Degradation of aromatic compounds - Nitrosomonas ureae
+path:nur01230	Biosynthesis of amino acids - Nitrosomonas ureae
+path:nur01501	beta-Lactam resistance - Nitrosomonas ureae
+path:nur01502	Vancomycin resistance - Nitrosomonas ureae
+path:nur01503	Cationic antimicrobial peptide (CAMP) resistance - Nitrosomonas ureae
+path:nur02010	ABC transporters - Nitrosomonas ureae
+path:nur02020	Two-component system - Nitrosomonas ureae
+path:nur02024	Quorum sensing - Nitrosomonas ureae
+path:nur02030	Bacterial chemotaxis - Nitrosomonas ureae
+path:nur02040	Flagellar assembly - Nitrosomonas ureae
+path:nur02060	Phosphotransferase system (PTS) - Nitrosomonas ureae
+path:nur03010	Ribosome - Nitrosomonas ureae
+path:nur03018	RNA degradation - Nitrosomonas ureae
+path:nur03020	RNA polymerase - Nitrosomonas ureae
+path:nur03030	DNA replication - Nitrosomonas ureae
+path:nur03060	Protein export - Nitrosomonas ureae
+path:nur03070	Bacterial secretion system - Nitrosomonas ureae
+path:nur03410	Base excision repair - Nitrosomonas ureae
+path:nur03420	Nucleotide excision repair - Nitrosomonas ureae
+path:nur03430	Mismatch repair - Nitrosomonas ureae
+path:nur03440	Homologous recombination - Nitrosomonas ureae
+path:nur04122	Sulfur relay system - Nitrosomonas ureae

@@ -1,0 +1,485 @@
+<html>
+<!---
+ENTRY       ko04111
+DEFINITION  Cell cycle - yeast
+--->
+<head>
+<title>
+KEGG PATHWAY: Cell cycle - yeast
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Cell cycle - yeast</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=04111&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map04111.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko04111">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko04111&format=kgml">Download KGML</a>
+| <a id="descLink" href="javascript:switchDescription()">Show description</a>
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+<table id="description" cellpadding="10" width="800" style="display: none;"><tr><td>
+Mitotic cell cycle progression is accomplished through a reproducible sequence of events, DNA replication (S phase) and mitosis (M phase) separated temporally by gaps (G1 and G2 phases). G1, S, and G2 phases are collectively known as interphase. In yeast Cdc28 is the catalytic subunit of the cyclin-dependent kinase (CDK). At G1 phase Cdc28 associates with G1-cyclins Cln1 to Cln3, while B-type cyclins Clb1 to Clb6 regulate Cdc28 during S, G2, and M phases. Cln3/Cdc28 activity is required for cells to pass through 'start', the commitment point in G1. When Cln3/Cdc28 accumulates more than a certain threshold, SBF (Swi4/Swi6) and MBF (Mbp1/Swi6) are activated, promoting transcription of Cln1, Cln2, and other genes required for S-phase progression. Cln1 and Cln2 interacting with Cdc28 promote activation of B-type cyclin associated CDK, which drives DNA replication and entry into mitosis. Specifically, Cdc28 association with Clb2 and Clb1 promotes entry into mitosis. Cells suffering from DNA damage, spindle misorientation, or spindle assembly defect do not undergo the metaphase-anaphase transition for chromosome segregation and fail to exit from mitosis. The spindle assembly checkpoint activates Mad2, which in turn prevents chromosome segregation by inhibiting degradation of the securin Pds1. Moreover, Pds1 is phosphorylated and stabilized in response to DNA damage in a Chk1-dependent manner. The spindle checkpoint is also involved in the Cdc14 release from the nucleolus. Cdc14 dephosphorylates Swi5, Sic1, and Cdh1, leading to inhibition of Cdc28 and degradation of cyclin required for mitotic exit.</td></tr></table>
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="sce">Saccharomyces cerevisiae (budding yeast)</option>
+<option value="ago">Ashbya gossypii (Eremothecium gossypii)</option>
+<option value="erc">Eremothecium cymbalariae</option>
+<option value="kla">Kluyveromyces lactis</option>
+<option value="lth">Lachancea thermotolerans</option>
+<option value="vpo">Vanderwaltozyma polyspora</option>
+<option value="zro">Zygosaccharomyces rouxii</option>
+<option value="cgr">Candida glabrata</option>
+<option value="ncs">Naumovozyma castellii</option>
+<option value="ndi">Naumovozyma dairenensis</option>
+<option value="tpf">Tetrapisispora phaffii</option>
+<option value="tbl">Tetrapisispora blattae</option>
+<option value="tdl">Torulaspora delbrueckii</option>
+<option value="kaf">Kazachstania africana</option>
+<option value="ppa">Komagataella phaffii</option>
+<option value="dha">Debaryomyces hansenii</option>
+<option value="pic">Scheffersomyces stipitis</option>
+<option value="pgu">Meyerozyma guilliermondii</option>
+<option value="spaa">Spathaspora passalidarum</option>
+<option value="lel">Lodderomyces elongisporus</option>
+<option value="cal">Candida albicans</option>
+<option value="ctp">Candida tropicalis</option>
+<option value="cot">Candida orthopsilosis</option>
+<option value="cdu">Candida dubliniensis</option>
+<option value="cten">Candida tenuis</option>
+<option value="yli">Yarrowia lipolytica</option>
+<option value="clu">Clavispora lusitaniae</option>
+<option value="caur">Candida auris</option>
+<option value="ncr">Neurospora crassa</option>
+<option value="nte">Neurospora tetrasperma</option>
+<option value="smp">Sordaria macrospora</option>
+<option value="pan">Podospora anserina</option>
+<option value="ttt">Thielavia terrestris</option>
+<option value="mtm">Thermothelomyces thermophila</option>
+<option value="cthr">Chaetomium thermophilum</option>
+<option value="mgr">Magnaporthe oryzae</option>
+<option value="tmn">Phaeoacremonium minimum</option>
+<option value="fgr">Fusarium graminearum</option>
+<option value="fpu">Fusarium pseudograminearum</option>
+<option value="fvr">Fusarium verticillioides</option>
+<option value="fox">Fusarium oxysporum</option>
+<option value="nhe">Nectria haematococca</option>
+<option value="tre">Trichoderma reesei</option>
+<option value="maw">Metarhizium acridum</option>
+<option value="maj">Metarhizium robertsii</option>
+<option value="cmt">Cordyceps militaris</option>
+<option value="plj">Purpureocillium lilacinum</option>
+<option value="val">Verticillium alfalfae</option>
+<option value="vda">Verticillium dahliae</option>
+<option value="cfj">Colletotrichum fioriniae</option>
+<option value="ela">Eutypa lata</option>
+<option value="pfy">Pestalotiopsis fici</option>
+<option value="ssl">Sclerotinia sclerotiorum</option>
+<option value="bfu">Botrytis cinerea</option>
+<option value="mbe">Marssonina brunnea</option>
+<option value="psco">Phialocephala scopiformis</option>
+<option value="glz">Glarea lozoyensis</option>
+<option value="ani">Aspergillus nidulans</option>
+<option value="afm">Aspergillus fumigatus</option>
+<option value="aor">Aspergillus oryzae</option>
+<option value="ang">Aspergillus niger</option>
+<option value="afv">Aspergillus flavus</option>
+<option value="act">Aspergillus clavatus</option>
+<option value="nfi">Aspergillus fischeri</option>
+<option value="pcs">Penicillium rubens</option>
+<option value="pdp">Penicillium digitatum</option>
+<option value="cim">Coccidioides immitis</option>
+<option value="cpw">Coccidioides posadasii</option>
+<option value="pbl">Paracoccidioides lutzii Pb01</option>
+<option value="pbn">Paracoccidioides brasiliensis Pb18</option>
+<option value="ure">Uncinocarpus reesii</option>
+<option value="abe">Trichophyton benhamiae</option>
+<option value="tve">Trichophyton verrucosum</option>
+<option value="aje">Histoplasma capsulatum</option>
+<option value="pno">Parastagonospora nodorum</option>
+<option value="pte">Pyrenophora teres</option>
+<option value="bze">Bipolaris zeicola</option>
+<option value="bsc">Bipolaris sorokiniana</option>
+<option value="bor">Bipolaris oryzae</option>
+<option value="ztr">Zymoseptoria tritici</option>
+<option value="pfj">Pseudocercospora fijiensis</option>
+<option value="bcom">Baudoinia panamericana</option>
+<option value="npa">Neofusicoccum parvum</option>
+<option value="tml">Tuber melanosporum</option>
+<option value="spo">Schizosaccharomyces pombe (fission yeast)</option>
+<option value="cne">Cryptococcus neoformans JEC21</option>
+<option value="cnb">Cryptococcus neoformans var. neoformans B-3501A</option>
+<option value="cgi">Cryptococcus gattii</option>
+<option value="tms">Tremella mesenterica</option>
+<option value="ppl">Postia placenta</option>
+<option value="tvs">Trametes versicolor</option>
+<option value="dsq">Dichomitus squalens</option>
+<option value="pco">Phanerochaete carnosa</option>
+<option value="shs">Stereum hirsutum</option>
+<option value="hir">Heterobasidion irregulare</option>
+<option value="psq">Punctularia strigosozonata</option>
+<option value="adl">Auricularia subglabra</option>
+<option value="fme">Fomitiporia mediterranea</option>
+<option value="gtr">Gloeophyllum trabeum</option>
+<option value="lbc">Laccaria bicolor</option>
+<option value="mpr">Moniliophthora perniciosa</option>
+<option value="mrr">Moniliophthora roreri</option>
+<option value="cci">Coprinopsis cinerea</option>
+<option value="scm">Schizophyllum commune</option>
+<option value="abp">Agaricus bisporus var. burnettii JB137-S8</option>
+<option value="abv">Agaricus bisporus var. bisporus H97</option>
+<option value="cput">Coniophora puteana</option>
+<option value="sla">Serpula lacrymans</option>
+<option value="wse">Wallemia mellicola</option>
+<option value="wic">Wallemia ichthyophaga</option>
+<option value="uma">Ustilago maydis</option>
+<option value="pfp">Anthracocystis flocculosa</option>
+<option value="mgl">Malassezia globosa</option>
+<option value="pgr">Puccinia graminis</option>
+<option value="mlr">Melampsora larici-populina</option>
+<option value="ecu">Encephalitozoon cuniculi</option>
+<option value="ein">Encephalitozoon intestinalis</option>
+<option value="ehe">Encephalitozoon hellem</option>
+<option value="ero">Encephalitozoon romaleae</option>
+<option value="nce">Nosema ceranae</option>
+</select>
+<input type="hidden" name="mapno" value="04111" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko04111" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko04111.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=371,193,4	href="/dbget-bin/www_bget?C00575"	title="C00575 (3',5'-Cyclic AMP)" onmouseover="popupTimer(&quot;C00575&quot;, &quot;C00575 (3',5'-Cyclic AMP)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=97,532,4	href="/dbget-bin/www_bget?C00009"	title="C00009 (Orthophosphate)" onmouseover="popupTimer(&quot;C00009&quot;, &quot;C00009 (Orthophosphate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=533,459,579,476	href="/dbget-bin/www_bget?K02209+K02210+K02212+K02540+K02541+K02542"	title="K02209 (MCM5), K02210 (MCM7), K02212 (MCM4), K02540 (MCM2), K02541 (MCM3), K02542 (MCM6)" />
+<area shape=rect	coords=602,459,648,476	href="/dbget-bin/www_bget?K02603+K02604+K02605+K02606+K02607+K02608"	title="K02603 (ORC1), K02604 (ORC2), K02605 (ORC3), K02606 (ORC4), K02607 (ORC5), K02608 (ORC6)" />
+<area shape=rect	coords=521,302,567,319	href="/dbget-bin/www_bget?K03348+K03349+K03350+K03351+K03352+K03353+K03354+K03355+K03356+K03357+K03358+K03359+K12416"	title="K03348 (APC1), K03349 (APC2), K03350 (APC3), K03351 (APC4), K03352 (APC5), K03353 (APC6), K03354 (APC7), K03355 (APC8), K03356 (APC9), K03357 (APC10), K03358 (APC11), K03359 (APC12), K12416 (SWM1)" />
+<area shape=rect	coords=673,239,719,256	href="/dbget-bin/www_bget?K03094+K03347+K03868"	title="K03094 (SKP1), K03347 (CUL1), K03868 (RBX1)" />
+<area shape=rect	coords=673,153,719,170	href="/dbget-bin/www_bget?K03094+K03347+K03868"	title="K03094 (SKP1), K03347 (CUL1), K03868 (RBX1)" />
+<area shape=rect	coords=360,747,406,764	href="/dbget-bin/www_bget?K02210"	title="K02210 (MCM7)" />
+<area shape=rect	coords=315,747,361,764	href="/dbget-bin/www_bget?K02542"	title="K02542 (MCM6)" />
+<area shape=rect	coords=360,730,406,747	href="/dbget-bin/www_bget?K02209"	title="K02209 (MCM5)" />
+<area shape=rect	coords=315,730,361,747	href="/dbget-bin/www_bget?K02212"	title="K02212 (MCM4)" />
+<area shape=rect	coords=360,713,406,730	href="/dbget-bin/www_bget?K02541"	title="K02541 (MCM3)" />
+<area shape=rect	coords=315,713,361,730	href="/dbget-bin/www_bget?K02540"	title="K02540 (MCM2)" />
+<area shape=rect	coords=208,747,254,764	href="/dbget-bin/www_bget?K02608"	title="K02608 (ORC6)" />
+<area shape=rect	coords=163,747,209,764	href="/dbget-bin/www_bget?K02607"	title="K02607 (ORC5)" />
+<area shape=rect	coords=208,730,254,747	href="/dbget-bin/www_bget?K02606"	title="K02606 (ORC4)" />
+<area shape=rect	coords=163,730,209,747	href="/dbget-bin/www_bget?K02605"	title="K02605 (ORC3)" />
+<area shape=rect	coords=208,713,254,730	href="/dbget-bin/www_bget?K02604"	title="K02604 (ORC2)" />
+<area shape=rect	coords=163,713,209,730	href="/dbget-bin/www_bget?K02603"	title="K02603 (ORC1)" />
+<area shape=rect	coords=534,523,580,540	href="/dbget-bin/www_bget?K02309"	title="K02309 (DBF4)" />
+<area shape=rect	coords=534,506,580,523	href="/dbget-bin/www_bget?K02214"	title="K02214 (CDC7)" />
+<area shape=rect	coords=475,459,521,476	href="/dbget-bin/www_bget?K06628"	title="K06628 (CDC45)" />
+<area shape=rect	coords=684,367,730,384	href="/dbget-bin/www_bget?K04563"	title="K04563 (CDC28)" />
+<area shape=rect	coords=684,350,730,367	href="/dbget-bin/www_bget?K06659"	title="K06659 (CLB3_4)" />
+<area shape=rect	coords=673,256,719,273	href="/dbget-bin/www_bget?K03361"	title="K03361 (CDC4)" />
+<area shape=rect	coords=673,170,719,187	href="/dbget-bin/www_bget?K03360"	title="K03360 (GRR1)" />
+<area shape=rect	coords=602,424,648,441	href="/dbget-bin/www_bget?K02213"	title="K02213 (CDC6)" />
+<area shape=rect	coords=146,637,192,654	href="/dbget-bin/www_bget?K02646"	title="K02646 (PHO2)" />
+<area shape=rect	coords=146,620,192,637	href="/dbget-bin/www_bget?K06658"	title="K06658 (PHO4)" />
+<area shape=rect	coords=203,574,249,591	href="/dbget-bin/www_bget?K06655"	title="K06655 (PHO85)" />
+<area shape=rect	coords=203,557,249,574	href="/dbget-bin/www_bget?K06656+K06657"	title="K06656 (PCL1), K06657 (PCL2)" />
+<area shape=rect	coords=146,574,192,591	href="/dbget-bin/www_bget?K06655"	title="K06655 (PHO85)" />
+<area shape=rect	coords=146,557,192,574	href="/dbget-bin/www_bget?K06654"	title="K06654 (PHO80)" />
+<area shape=rect	coords=146,524,192,541	href="/dbget-bin/www_bget?K06653"	title="K06653 (PHO81)" />
+<area shape=rect	coords=521,319,567,336	href="/dbget-bin/www_bget?K03363"	title="K03363 (CDC20)" />
+<area shape=rect	coords=602,367,648,384	href="/dbget-bin/www_bget?K04563"	title="K04563 (CDC28)" />
+<area shape=rect	coords=602,350,648,367	href="/dbget-bin/www_bget?K06651"	title="K06651 (CLB5_6)" />
+<area shape=rect	coords=507,367,553,384	href="/dbget-bin/www_bget?K03085"	title="K03085 (SIC1)" />
+<area shape=rect	coords=271,443,317,460	href="/dbget-bin/www_bget?K06648"	title="K06648 (SWI6)" />
+<area shape=rect	coords=271,426,317,443	href="/dbget-bin/www_bget?K06647"	title="K06647 (MBP1)" />
+<area shape=rect	coords=420,367,466,384	href="/dbget-bin/www_bget?K04563"	title="K04563 (CDC28)" />
+<area shape=rect	coords=420,350,466,367	href="/dbget-bin/www_bget?K06650+K12760"	title="K06650 (CLN2), K12760 (CLN1)" />
+<area shape=rect	coords=271,299,317,316	href="/dbget-bin/www_bget?K06648"	title="K06648 (SWI6)" />
+<area shape=rect	coords=271,282,317,299	href="/dbget-bin/www_bget?K06649"	title="K06649 (SWI4)" />
+<area shape=rect	coords=135,367,181,384	href="/dbget-bin/www_bget?K04563"	title="K04563 (CDC28)" />
+<area shape=rect	coords=135,350,181,367	href="/dbget-bin/www_bget?K06646"	title="K06646 (CLN3)" />
+<area shape=rect	coords=420,279,466,296	href="/dbget-bin/www_bget?K06652"	title="K06652 (FAR1)" />
+<area shape=rect	coords=533,424,579,441	href="/dbget-bin/www_bget?K12414"	title="K12414 (TAH11)" />
+<area shape=rect	coords=246,369,292,386	href="/dbget-bin/www_bget?K12413"	title="K12413 (WHI5)" />
+<area shape=rect	coords=111,224,157,241	href="/dbget-bin/www_bget?K12412"	title="K12412 (MCM1)" />
+<area shape=rect	coords=1004,329,1050,346	href="/dbget-bin/www_bget?K02365"	title="K02365 (ESP1)" />
+<area shape=rect	coords=1089,463,1135,480	href="/dbget-bin/www_bget?K12577"	title="K12577 (FOB1)" />
+<area shape=rect	coords=1034,446,1080,463	href="/dbget-bin/www_bget?K04354"	title="K04354 (PPP2R2)" />
+<area shape=rect	coords=1089,424,1135,441	href="/dbget-bin/www_bget?K12576"	title="K12576 (SPO12)" />
+<area shape=rect	coords=1034,388,1080,405	href="/dbget-bin/www_bget?K12575"	title="K12575 (SLK19)" />
+<area shape=rect	coords=1089,571,1135,588	href="/dbget-bin/www_bget?K06639"	title="K06639 (CDC14)" />
+<area shape=rect	coords=1089,516,1135,533	href="/dbget-bin/www_bget?K06687"	title="K06687 (NET1)" />
+<area shape=rect	coords=1194,385,1240,402	href="/dbget-bin/www_bget?K06681"	title="K06681 (LTE1)" />
+<area shape=rect	coords=1099,385,1145,402	href="/dbget-bin/www_bget?K02181"	title="K02181 (BFA1)" />
+<area shape=rect	coords=1145,385,1191,402	href="/dbget-bin/www_bget?K02179"	title="K02179 (BUB2)" />
+<area shape=rect	coords=1145,424,1191,441	href="/dbget-bin/www_bget?K06682"	title="K06682 (TEM1)" />
+<area shape=rect	coords=1144,502,1190,519	href="/dbget-bin/www_bget?K06684+K06686"	title="K06684 (DBF2), K06686 (DBF20)" />
+<area shape=rect	coords=1145,463,1191,480	href="/dbget-bin/www_bget?K06683"	title="K06683 (CDC15)" />
+<area shape=rect	coords=1190,502,1236,519	href="/dbget-bin/www_bget?K06685"	title="K06685 (MOB1)" />
+<area shape=rect	coords=1004,291,1050,308	href="/dbget-bin/www_bget?K02627"	title="K02627 (PDS1)" />
+<area shape=rect	coords=1004,191,1050,208	href="/dbget-bin/www_bget?K02216"	title="K02216 (CHK1)" />
+<area shape=rect	coords=1183,190,1229,207	href="/dbget-bin/www_bget?K06661"	title="K06661 (RAD9)" />
+<area shape=rect	coords=1185,119,1231,136	href="/dbget-bin/www_bget?K06663"	title="K06663 (DDC1)" />
+<area shape=rect	coords=1185,102,1231,119	href="/dbget-bin/www_bget?K02544"	title="K02544 (MEC3)" />
+<area shape=rect	coords=1246,111,1292,128	href="/dbget-bin/www_bget?K06662"	title="K06662 (HRAD17)" />
+<area shape=rect	coords=1139,110,1185,127	href="/dbget-bin/www_bget?K02830"	title="K02830 (HRAD1)" />
+<area shape=rect	coords=1259,151,1305,168	href="/dbget-bin/www_bget?K12578"	title="K12578 (LCD1)" />
+<area shape=rect	coords=1245,190,1291,207	href="/dbget-bin/www_bget?K11272"	title="K11272 (MRC1)" />
+<area shape=rect	coords=1213,263,1259,280	href="/dbget-bin/www_bget?K06641"	title="K06641 (CHK2)" />
+<area shape=rect	coords=916,282,962,299	href="/dbget-bin/www_bget?K03348+K03349+K03350+K03351+K03352+K03353+K03354+K03355+K03356+K03357+K03358+K03359+K12416"	title="K03348 (APC1), K03349 (APC2), K03350 (APC3), K03351 (APC4), K03352 (APC5), K03353 (APC6), K03354 (APC7), K03355 (APC8), K03356 (APC9), K03357 (APC10), K03358 (APC11), K03359 (APC12), K12416 (SWM1)" />
+<area shape=rect	coords=916,299,962,316	href="/dbget-bin/www_bget?K03363"	title="K03363 (CDC20)" />
+<area shape=rect	coords=823,197,869,214	href="/dbget-bin/www_bget?K02307"	title="K02307 (DAM1)" />
+<area shape=rect	coords=917,554,963,571	href="/dbget-bin/www_bget?K03348+K03349+K03350+K03351+K03352+K03353+K03354+K03355+K03356+K03357+K03358+K03359+K12416"	title="K03348 (APC1), K03349 (APC2), K03350 (APC3), K03351 (APC4), K03352 (APC5), K03353 (APC6), K03354 (APC7), K03355 (APC8), K03356 (APC9), K03357 (APC10), K03358 (APC11), K03359 (APC12), K12416 (SWM1)" />
+<area shape=rect	coords=917,571,963,588	href="/dbget-bin/www_bget?K03364"	title="K03364 (CDH1)" />
+<area shape=rect	coords=742,523,788,540	href="/dbget-bin/www_bget?K18639"	title="K18639 (KCC4)" />
+<area shape=rect	coords=701,450,747,467	href="/dbget-bin/www_bget?K03094+K03347+K03868"	title="K03094 (SKP1), K03347 (CUL1), K03868 (RBX1)" />
+<area shape=rect	coords=916,515,962,532	href="/dbget-bin/www_bget?K03085"	title="K03085 (SIC1)" />
+<area shape=rect	coords=916,463,962,480	href="/dbget-bin/www_bget?K09202"	title="K09202 (SWI5)" />
+<area shape=rect	coords=793,540,839,557	href="/dbget-bin/www_bget?K02515"	title="K02515 (HSL1)" />
+<area shape=rect	coords=808,458,854,475	href="/dbget-bin/www_bget?K03114"	title="K03114 (SWE1)" />
+<area shape=rect	coords=793,523,839,540	href="/dbget-bin/www_bget?K02516"	title="K02516 (PRMT5)" />
+<area shape=rect	coords=846,523,892,540	href="/dbget-bin/www_bget?K06668"	title="K06668 (GIN4)" />
+<area shape=rect	coords=701,467,747,484	href="/dbget-bin/www_bget?K10259"	title="K10259 (MET30)" />
+<area shape=rect	coords=729,411,775,428	href="/dbget-bin/www_bget?K06667"	title="K06667 (CAK1)" />
+<area shape=rect	coords=808,367,854,384	href="/dbget-bin/www_bget?K04563"	title="K04563 (CDC28)" />
+<area shape=rect	coords=808,350,854,367	href="/dbget-bin/www_bget?K02220"	title="K02220 (CLB1_2)" />
+<area shape=rect	coords=815,563,861,580	href="/dbget-bin/www_bget?K06660"	title="K06660 (CDC5)" />
+<area shape=rect	coords=950,734,996,751	href="/dbget-bin/www_bget?K06678"	title="K06678 (YCG1)" />
+<area shape=rect	coords=971,717,1017,734	href="/dbget-bin/www_bget?K06676"	title="K06676 (BRRN1)" />
+<area shape=rect	coords=926,717,972,734	href="/dbget-bin/www_bget?K06677"	title="K06677 (YCS4)" />
+<area shape=rect	coords=971,700,1017,717	href="/dbget-bin/www_bget?K06675"	title="K06675 (SMC4)" />
+<area shape=rect	coords=926,700,972,717	href="/dbget-bin/www_bget?K06674"	title="K06674 (SMC2)" />
+<area shape=rect	coords=971,621,1017,638	href="/dbget-bin/www_bget?K06669"	title="K06669 (SMC3)" />
+<area shape=rect	coords=926,621,972,638	href="/dbget-bin/www_bget?K06636"	title="K06636 (SMC1)" />
+<area shape=rect	coords=950,638,996,655	href="/dbget-bin/www_bget?K06670"	title="K06670 (SCC1)" />
+<area shape=rect	coords=950,655,996,672	href="/dbget-bin/www_bget?K06671"	title="K06671 (STAG1_2)" />
+<area shape=rect	coords=1034,636,1080,653	href="/dbget-bin/www_bget?K06673"	title="K06673 (SCC4)" />
+<area shape=rect	coords=1034,619,1080,636	href="/dbget-bin/www_bget?K06672"	title="K06672 (SCC2)" />
+<area shape=rect	coords=1213,322,1259,339	href="/dbget-bin/www_bget?K06665"	title="K06665 (SSN6)" />
+<area shape=rect	coords=1213,303,1259,320	href="/dbget-bin/www_bget?K09175"	title="K09175 (RFXX)" />
+<area shape=rect	coords=1213,341,1259,358	href="/dbget-bin/www_bget?K06666"	title="K06666 (TUP1)" />
+<area shape=rect	coords=764,432,810,449	href="/dbget-bin/www_bget?K02219"	title="K02219 (CKS1)" />
+<area shape=rect	coords=729,388,775,405	href="/dbget-bin/www_bget?K02555"	title="K02555 (MIH1)" />
+<area shape=rect	coords=1213,151,1259,168	href="/dbget-bin/www_bget?K02543"	title="K02543 (MEC1)" />
+<area shape=rect	coords=1213,226,1259,243	href="/dbget-bin/www_bget?K02831"	title="K02831 (RAD53)" />
+<area shape=rect	coords=1122,339,1168,356	href="/dbget-bin/www_bget?K06660"	title="K06660 (CDC5)" />
+<area shape=rect	coords=1034,463,1080,480	href="/dbget-bin/www_bget?K03456+K04382"	title="K03456 (PPP2R1), K04382 (PPP2C)" />
+<area shape=rect	coords=882,168,928,185	href="/dbget-bin/www_bget?K02537"	title="K02537 (MAD2)" />
+<area shape=rect	coords=882,185,928,202	href="/dbget-bin/www_bget?K03363"	title="K03363 (CDC20)" />
+<area shape=rect	coords=950,185,996,202	href="/dbget-bin/www_bget?K06680"	title="K06680 (MAD3)" />
+<area shape=rect	coords=950,168,996,185	href="/dbget-bin/www_bget?K02180"	title="K02180 (BUB3)" />
+<area shape=rect	coords=893,221,939,238	href="/dbget-bin/www_bget?K02537"	title="K02537 (MAD2)" />
+<area shape=rect	coords=893,238,939,255	href="/dbget-bin/www_bget?K03363"	title="K03363 (CDC20)" />
+<area shape=rect	coords=939,238,985,255	href="/dbget-bin/www_bget?K06680"	title="K06680 (MAD3)" />
+<area shape=rect	coords=939,221,985,238	href="/dbget-bin/www_bget?K02180"	title="K02180 (BUB3)" />
+<area shape=rect	coords=882,134,928,151	href="/dbget-bin/www_bget?K06679"	title="K06679 (MAD1)" />
+<area shape=rect	coords=882,95,928,112	href="/dbget-bin/www_bget?K08866"	title="K08866 (TTK)" />
+<area shape=rect	coords=823,238,869,255	href="/dbget-bin/www_bget?K02178"	title="K02178 (BUB1)" />
+<area shape=rect	coords=823,221,869,238	href="/dbget-bin/www_bget?K02180"	title="K02180 (BUB3)" />
+<area shape=rect	coords=690,523,736,540	href="/dbget-bin/www_bget?K18679"	title="K18679 (CDR2)" />
+<area shape=rect	coords=641,523,687,540	href="/dbget-bin/www_bget?K18680"	title="K18680 (CDR1)" />
+<area shape=rect	coords=690,565,736,582	href="/dbget-bin/www_bget?K18669"	title="K18669 (DYRK2_3_4)" />
+<area shape=rect	coords=640,88,750,125	href="/kegg-bin/show_pathway?ko04120"	title="ko04120: Ubiquitin mediated proteolysis" onmouseover="popupTimer(&quot;ko04120&quot;, &quot;ko04120: Ubiquitin mediated proteolysis&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=314,113,423,148	href="/kegg-bin/show_pathway?ko04020"	title="ko04020: Calcium signaling pathway" onmouseover="popupTimer(&quot;ko04020&quot;, &quot;ko04020: Calcium signaling pathway&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=395,156,504,191	href="/kegg-bin/show_pathway?ko04010"	title="ko04010: MAPK signaling pathway" onmouseover="popupTimer(&quot;ko04010&quot;, &quot;ko04010: MAPK signaling pathway&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=40,45,215,70	href="/dbget-bin/www_bget?ko04111"	title="ko04111: Cell cycle - yeast" onmouseover="popupTimer(&quot;ko04111&quot;, &quot;ko04111: Cell cycle - yeast&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

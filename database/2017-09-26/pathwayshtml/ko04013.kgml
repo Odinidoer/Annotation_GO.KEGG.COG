@@ -1,0 +1,362 @@
+<html>
+<!---
+ENTRY       ko04013
+DEFINITION  MAPK signaling pathway - fly
+--->
+<head>
+<title>
+KEGG PATHWAY: MAPK signaling pathway - fly
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>MAPK signaling pathway - fly</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=04013&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map04013.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko04013">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko04013&format=kgml">Download KGML</a>
+| <a id="descLink" href="javascript:switchDescription()">Show description</a>
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+<table id="description" cellpadding="10" width="800" style="display: none;"><tr><td>
+The mitogen-activated protein kinase (MAPK) signaling cascades that are highly conserved from yeast to mammals use protein phosphorylation to convey signals intracellularly, and play a crucial role in mitosis, apoptosis, motility and metabolism. In fruit fly, three major classes of MAPK pathways have been distinguished with little or no redundancy, including extracellular signal-regulated kinase (ERK) / Rolled, c-Jun N-terminal kinase (JNK) / Bsk, and p38 kinase. Signals from growth factors or mitogens are dominantly transduced by the ERK pathway, whereas the JNK and p38 pathways are activated mostly by environmental stresses. The MAPK signaling cascades are typically linked to regulation of gene expression, because transcription factors are often the targets of regulatory phosphorylation events.</td></tr></table>
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="dme">Drosophila melanogaster (fruit fly)</option>
+<option value="dpo">Drosophila pseudoobscura pseudoobscura</option>
+<option value="dan">Drosophila ananassae</option>
+<option value="der">Drosophila erecta</option>
+<option value="dpe">Drosophila persimilis</option>
+<option value="dse">Drosophila sechellia</option>
+<option value="dsi">Drosophila simulans</option>
+<option value="dwi">Drosophila willistoni</option>
+<option value="dya">Drosophila yakuba</option>
+<option value="dgr">Drosophila grimshawi</option>
+<option value="dmo">Drosophila mojavensis</option>
+<option value="dvi">Drosophila virilis</option>
+<option value="mde">Musca domestica (house fly)</option>
+<option value="aga">Anopheles gambiae (mosquito)</option>
+<option value="aag">Aedes aegypti (yellow fever mosquito)</option>
+<option value="cqu">Culex quinquefasciatus (southern house mosquito)</option>
+<option value="ame">Apis mellifera (honey bee)</option>
+<option value="bim">Bombus impatiens (common eastern bumble bee)</option>
+<option value="bter">Bombus terrestris (buff-tailed bumblebee)</option>
+<option value="soc">Solenopsis invicta (red fire ant)</option>
+<option value="aec">Acromyrmex echinatior (Panamanian leafcutter ant)</option>
+<option value="acep">Atta cephalotes (leaf cutting ant)</option>
+<option value="pbar">Pogonomyrmex barbatus (red harvester ant)</option>
+<option value="hst">Harpegnathos saltator (Jerdon's jumping ant)</option>
+<option value="cfo">Camponotus floridanus (Florida carpenter ant)</option>
+<option value="lhu">Linepithema humile (Argentine ant)</option>
+<option value="pgc">Pseudomyrmex gracilis</option>
+<option value="nvi">Nasonia vitripennis (jewel wasp)</option>
+<option value="tca">Tribolium castaneum (red flour beetle)</option>
+<option value="dpa">Dendroctonus ponderosae (mountain pine beetle)</option>
+<option value="nvl">Nicrophorus vespilloides</option>
+<option value="bmor">Bombyx mori (domestic silkworm)</option>
+<option value="dpl">Danaus plexippus (monarch butterfly)</option>
+<option value="pxy">Plutella xylostella (diamondback moth)</option>
+<option value="api">Acyrthosiphon pisum (pea aphid)</option>
+<option value="dnx">Diuraphis noxia (Russian wheat aphid)</option>
+<option value="phu">Pediculus humanus corporis (human body louse)</option>
+</select>
+<input type="hidden" name="mapno" value="04013" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko04013" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko04013.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=rect	coords=879,210,925,227	href="/dbget-bin/www_bget?K12379"	title="K12379 (HKB)" />
+<area shape=rect	coords=879,165,925,182	href="/dbget-bin/www_bget?K08545"	title="K08545 (NR2E1)" />
+<area shape=rect	coords=302,279,348,296	href="/dbget-bin/www_bget?K04364"	title="K04364 (GRB2)" />
+<area shape=rect	coords=377,279,423,296	href="/dbget-bin/www_bget?K03099"	title="K03099 (SOS)" />
+<area shape=rect	coords=452,279,498,296	href="/dbget-bin/www_bget?K07827"	title="K07827 (KRAS)" />
+<area shape=rect	coords=527,279,573,296	href="/dbget-bin/www_bget?K04365"	title="K04365 (BRAF)" />
+<area shape=rect	coords=600,279,646,296	href="/dbget-bin/www_bget?K04368"	title="K04368 (MAP2K1)" />
+<area shape=rect	coords=674,279,720,296	href="/dbget-bin/www_bget?K04371"	title="K04371 (MAPK1_3)" />
+<area shape=rect	coords=302,356,348,373	href="/dbget-bin/www_bget?K07293"	title="K07293 (PTPN11)" />
+<area shape=rect	coords=302,314,348,331	href="/dbget-bin/www_bget?K20231"	title="K20231 (DOS)" />
+<area shape=rect	coords=559,253,605,270	href="/dbget-bin/www_bget?K18529"	title="K18529 (KSR2)" />
+<area shape=rect	coords=767,165,813,182	href="/dbget-bin/www_bget?K20225"	title="K20225 (CIC)" />
+<area shape=rect	coords=767,210,813,227	href="/dbget-bin/www_bget?K04497"	title="K04497 (GROUCHO)" />
+<area shape=rect	coords=526,201,572,218	href="/dbget-bin/www_bget?K16197"	title="K16197 (YWHAB_Q_Z)" />
+<area shape=rect	coords=453,335,497,352	href="/dbget-bin/www_bget?K12380"	title="K12380 (RASA3)" />
+<area shape=rect	coords=377,335,423,352	href="/dbget-bin/www_bget?K17383"	title="K17383 (SPRY2)" />
+<area shape=rect	coords=563,335,609,352	href="/dbget-bin/www_bget?K17536"	title="K17536 (CNKSR2)" />
+<area shape=rect	coords=195,279,241,296	href="/dbget-bin/www_bget?K04361"	title="K04361 (EGFR)" />
+<area shape=rect	coords=113,254,159,271	href="/dbget-bin/www_bget?K20229"	title="K20229 (SPI)" />
+<area shape=rect	coords=113,229,159,246	href="/dbget-bin/www_bget?K16690"	title="K16690 (VN)" />
+<area shape=rect	coords=50,254,96,271	href="/dbget-bin/www_bget?K02104"	title="K02104 (AOS)" />
+<area shape=rect	coords=113,304,159,321	href="/dbget-bin/www_bget?K16691"	title="K16691 (KRN)" />
+<area shape=rect	coords=195,236,241,253	href="/dbget-bin/www_bget?K20230"	title="K20230 (KEK1)" />
+<area shape=rect	coords=113,389,159,406	href="/dbget-bin/www_bget?K04623"	title="K04623 (BOSS)" />
+<area shape=rect	coords=195,389,241,406	href="/dbget-bin/www_bget?K05088"	title="K05088 (ROS1)" />
+<area shape=rect	coords=767,279,813,296	href="/dbget-bin/www_bget?K02678"	title="K02678 (ETS1)" />
+<area shape=rect	coords=879,421,925,438	href="/dbget-bin/www_bget?K20233"	title="K20233 (PHYL)" />
+<area shape=rect	coords=879,382,925,399	href="/dbget-bin/www_bget?K09237"	title="K09237 (TTK)" />
+<area shape=rect	coords=879,438,925,455	href="/dbget-bin/www_bget?K04506"	title="K04506 (SIAH1)" />
+<area shape=rect	coords=944,438,990,455	href="/dbget-bin/www_bget?K06689"	title="K06689 (UBE2D)" />
+<area shape=rect	coords=879,455,925,472	href="/dbget-bin/www_bget?K04508"	title="K04508 (TBL1)" />
+<area shape=rect	coords=1094,349,1140,366	href="/dbget-bin/www_bget?K20211"	title="K20211 (PROX1)" />
+<area shape=rect	coords=767,349,813,366	href="/dbget-bin/www_bget?K03211"	title="K03211 (ETV6_7)" />
+<area shape=rect	coords=753,314,799,331	href="/dbget-bin/www_bget?K20232"	title="K20232 (EDL)" />
+<area shape=rect	coords=753,384,799,401	href="/dbget-bin/www_bget?K14290"	title="K14290 (XPO1)" />
+<area shape=rect	coords=634,335,680,352	href="/dbget-bin/www_bget?K20220"	title="K20220 (PTP-ER)" />
+<area shape=rect	coords=302,244,348,261	href="/dbget-bin/www_bget?K06279"	title="K06279 (SHC1)" />
+<area shape=rect	coords=50,154,96,171	href="/dbget-bin/www_bget?K12377"	title="K12377 (TSL)" />
+<area shape=rect	coords=195,154,241,171	href="/dbget-bin/www_bget?K12378"	title="K12378 (TOR)" />
+<area shape=rect	coords=113,154,159,171	href="/dbget-bin/www_bget?K20226"	title="K20226 (TRK)" />
+<area shape=rect	coords=113,100,159,117	href="/dbget-bin/www_bget?K20228"	title="K20228 (FS1N)" />
+<area shape=rect	coords=60,118,106,135	href="/dbget-bin/www_bget?K20227"	title="K20227 (FS1M3)" />
+<area shape=rect	coords=509,335,555,352	href="/dbget-bin/www_bget?K04382"	title="K04382 (PPP2C)" />
+<area shape=rect	coords=684,335,730,352	href="/dbget-bin/www_bget?K20223"	title="K20223 (IPO7)" />
+<area shape=rect	coords=600,629,646,646	href="/dbget-bin/www_bget?K04431"	title="K04431 (MAP2K7)" />
+<area shape=rect	coords=527,629,573,646	href="/dbget-bin/www_bget?K04417"	title="K04417 (MAP3K9)" />
+<area shape=rect	coords=674,629,720,646	href="/dbget-bin/www_bget?K04440"	title="K04440 (JNK)" />
+<area shape=rect	coords=674,603,720,620	href="/dbget-bin/www_bget?K17608"	title="K17608 (STRN1_3_4)" />
+<area shape=rect	coords=767,629,813,646	href="/dbget-bin/www_bget?K04448"	title="K04448 (JUN)" />
+<area shape=rect	coords=767,646,813,663	href="/dbget-bin/www_bget?K09031"	title="K09031 (FOSLN)" />
+<area shape=rect	coords=879,615,925,632	href="/dbget-bin/www_bget?K05759"	title="K05759 (PFN)" />
+<area shape=rect	coords=879,582,925,599	href="/dbget-bin/www_bget?K04662"	title="K04662 (BMP4)" />
+<area shape=rect	coords=879,667,925,684	href="/dbget-bin/www_bget?K20216"	title="K20216 (DUSP10)" />
+<area shape=rect	coords=336,540,382,557	href="/dbget-bin/www_bget?K07364"	title="K07364 (TEC)" />
+<area shape=rect	coords=262,589,308,606	href="/dbget-bin/www_bget?K20234"	title="K20234 (DOK2)" />
+<area shape=rect	coords=262,629,308,646	href="/dbget-bin/www_bget?K17512"	title="K17512 (SHARK)" />
+<area shape=rect	coords=377,594,423,611	href="/dbget-bin/www_bget?K04392"	title="K04392 (RAC1)" />
+<area shape=rect	coords=377,629,423,646	href="/dbget-bin/www_bget?K08840"	title="K08840 (TNIK)" />
+<area shape=rect	coords=113,709,159,726	href="/dbget-bin/www_bget?K16678"	title="K16678 (EGR)" />
+<area shape=rect	coords=195,709,241,726	href="/dbget-bin/www_bget?K16679"	title="K16679 (WGN)" />
+<area shape=rect	coords=377,709,423,726	href="/dbget-bin/www_bget?K03175"	title="K03175 (TRAF6)" />
+<area shape=rect	coords=439,755,485,772	href="/dbget-bin/www_bget?K04404"	title="K04404 (MAP3K7IP2)" />
+<area shape=rect	coords=600,709,646,726	href="/dbget-bin/www_bget?K04430"	title="K04430 (MAP2K4)" />
+<area shape=rect	coords=377,755,423,772	href="/dbget-bin/www_bget?K08601"	title="K08601 (CYLD)" />
+<area shape=rect	coords=767,687,813,704	href="/dbget-bin/www_bget?K03211"	title="K03211 (ETV6_7)" />
+<area shape=rect	coords=527,669,573,686	href="/dbget-bin/www_bget?K04461"	title="K04461 (PPM1B)" />
+<area shape=rect	coords=749,582,795,599	href="/dbget-bin/www_bget?K20210"	title="K20210 (RREB1)" />
+<area shape=rect	coords=800,582,846,599	href="/dbget-bin/www_bget?K20235"	title="K20235 (RAW)" />
+<area shape=rect	coords=452,223,498,240	href="/dbget-bin/www_bget?K04352"	title="K04352 (RASA1)" />
+<area shape=rect	coords=879,729,925,746	href="/dbget-bin/www_bget?K20016"	title="K20016 (HID)" />
+<area shape=rect	coords=600,943,646,960	href="/dbget-bin/www_bget?K04432"	title="K04432 (MAP2K3)" />
+<area shape=rect	coords=674,943,720,960	href="/dbget-bin/www_bget?K04441"	title="K04441 (P38)" />
+<area shape=rect	coords=767,885,813,902	href="/dbget-bin/www_bget?K04450"	title="K04450 (ATF2)" />
+<area shape=rect	coords=527,883,573,900	href="/dbget-bin/www_bget?K04428"	title="K04428 (MAP3K4)" />
+<area shape=rect	coords=527,963,573,980	href="/dbget-bin/www_bget?K04427"	title="K04427 (MAP3K7)" />
+<area shape=rect	coords=527,923,573,940	href="/dbget-bin/www_bget?K04426"	title="K04426 (MAP3K5)" />
+<area shape=rect	coords=527,1003,573,1020	href="/dbget-bin/www_bget?K04417"	title="K04417 (MAP3K9)" />
+<area shape=rect	coords=879,943,925,960	href="/dbget-bin/www_bget?K10176"	title="K10176 (TBX2)" />
+<area shape=rect	coords=113,279,159,296	href="/dbget-bin/www_bget?K02447"	title="K02447 (GRK)" />
+<area shape=rect	coords=195,1043,241,1060	href="/dbget-bin/www_bget?K13578"	title="K13578 (BMPR1B)" />
+<area shape=rect	coords=113,1043,159,1060	href="/dbget-bin/www_bget?K04662"	title="K04662 (BMP4)" />
+<area shape=rect	coords=767,1003,813,1020	href="/dbget-bin/www_bget?K09260"	title="K09260 (MEF2A)" />
+<area shape=rect	coords=879,1003,925,1020	href="/dbget-bin/www_bget?K04564"	title="K04564 (SOD2)" />
+<area shape=rect	coords=879,885,925,902	href="/dbget-bin/www_bget?K13411"	title="K13411 (DUOX)" />
+<area shape=rect	coords=674,846,720,863	href="/dbget-bin/www_bget?K02447"	title="K02447 (GRK)" />
+<area shape=rect	coords=988,382,1034,399	href="/dbget-bin/www_bget?K20214"	title="K20214 (LZ)" />
+<area shape=rect	coords=527,709,573,726	href="/dbget-bin/www_bget?K04427"	title="K04427 (MAP3K7)" />
+<area shape=rect	coords=286,540,332,557	href="/dbget-bin/www_bget?K05704"	title="K05704 (SRC)" />
+<area shape=rect	coords=236,540,282,557	href="/dbget-bin/www_bget?K08892"	title="K08892 (FRK)" />
+<area shape=rect	coords=40,45,315,70	href="/dbget-bin/www_bget?ko04013"	title="ko04013: MAPK signaling pathway - fly" onmouseover="popupTimer(&quot;ko04013&quot;, &quot;ko04013: MAPK signaling pathway - fly&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=982,726,1059,751	href="/kegg-bin/show_pathway?ko04214"	title="ko04214: Apoptosis - fly" onmouseover="popupTimer(&quot;ko04214&quot;, &quot;ko04214: Apoptosis - fly&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

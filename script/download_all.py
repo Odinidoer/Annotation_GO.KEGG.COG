@@ -59,9 +59,6 @@ class = {dir}/pathwayId_pathwayName_typeII_typeI
 #pathway.txt 网页源代码，用于获取全部通路ID
 pathway_all_html = {dir}/pathway.html
 
-#用于获取KO的description 手动COPY全网页http://www.kegg.jp/kegg-bin/get_htext?ko00000.keg
-KO_All_Categories = {dir}/KO-All-Categories.txt
-
 #organism全物种的通路ko信息
 organism2ko = {dir}/organism/
 

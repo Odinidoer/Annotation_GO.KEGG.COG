@@ -1,0 +1,257 @@
+<html>
+<!---
+ENTRY       ko00231
+DEFINITION  Puromycin biosynthesis
+--->
+<head>
+<title>
+KEGG PATHWAY: Puromycin biosynthesis
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Puromycin biosynthesis</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=00231&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map00231.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko00231">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko00231&format=kgml">Download KGML</a>
+
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="ec">Reference pathway (EC)</option>
+<option value="rn">Reference pathway (Reaction)</option>
+</select>
+<input type="hidden" name="mapno" value="00231" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko00231" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko00231.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=109,343,4	href="/dbget-bin/www_bget?C01610"	title="C01610 (Puromycin)" onmouseover="popupTimer(&quot;C01610&quot;, &quot;C01610 (Puromycin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=203,343,4	href="/dbget-bin/www_bget?C07032"	title="C07032 (N-Acetylpuromycin)" onmouseover="popupTimer(&quot;C07032&quot;, &quot;C07032 (N-Acetylpuromycin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=297,343,4	href="/dbget-bin/www_bget?C07031"	title="C07031 (N-Acetyl-O-demethylpuromycin)" onmouseover="popupTimer(&quot;C07031&quot;, &quot;C07031 (N-Acetyl-O-demethylpuromycin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=391,343,4	href="/dbget-bin/www_bget?C07030"	title="C07030 (N-Acetyl-O-demethylpuromycin-5'-phosphate)" onmouseover="popupTimer(&quot;C07030&quot;, &quot;C07030 (N-Acetyl-O-demethylpuromycin-5'-phosphate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=485,343,4	href="/dbget-bin/www_bget?C07029"	title="C07029 (N-Acetyl-N6,O-didemethylpuromycin-5'-phosphate)" onmouseover="popupTimer(&quot;C07029&quot;, &quot;C07029 (N-Acetyl-N6,O-didemethylpuromycin-5'-phosphate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=362,195,4	href="/dbget-bin/www_bget?C00082"	title="C00082 (L-Tyrosine)" onmouseover="popupTimer(&quot;C00082&quot;, &quot;C00082 (L-Tyrosine)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=485,240,4	href="/dbget-bin/www_bget?C07028"	title="C07028 (N-Acetyl-N6,N6,O-tridemethylpuromycin-5'-phosphate)" onmouseover="popupTimer(&quot;C07028&quot;, &quot;C07028 (N-Acetyl-N6,N6,O-tridemethylpuromycin-5'-phosphate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=485,143,4	href="/dbget-bin/www_bget?C07027"	title="C07027 (N6,N6,O-Tridemethylpuromycin-5'-phosphate)" onmouseover="popupTimer(&quot;C07027&quot;, &quot;C07027 (N6,N6,O-Tridemethylpuromycin-5'-phosphate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=391,143,4	href="/dbget-bin/www_bget?C07026"	title="C07026 (3'-Amino-3'-deoxy-AMP)" onmouseover="popupTimer(&quot;C07026&quot;, &quot;C07026 (3'-Amino-3'-deoxy-AMP)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=297,143,4	href="/dbget-bin/www_bget?C07025"	title="C07025 (3'-Keto-3'-deoxy-AMP)" onmouseover="popupTimer(&quot;C07025&quot;, &quot;C07025 (3'-Keto-3'-deoxy-AMP)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=203,143,4	href="/dbget-bin/www_bget?C07024"	title="C07024 (3'-Keto-3'-deoxy-ATP)" onmouseover="popupTimer(&quot;C07024&quot;, &quot;C07024 (3'-Keto-3'-deoxy-ATP)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=109,143,4	href="/dbget-bin/www_bget?C00002"	title="C00002 (ATP)" onmouseover="popupTimer(&quot;C00002&quot;, &quot;C00002 (ATP)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=138,335,184,352	href="/dbget-bin/www_bget?K12636"	title="K12636 (napH)" />
+<area shape=rect	coords=232,335,278,352	href="/dbget-bin/www_bget?K12635"	title="K12635 (dmpM)" />
+<area shape=rect	coords=326,335,372,352	href="/dbget-bin/www_bget?K12634"	title="K12634 (pur3)" />
+<area shape=rect	coords=419,335,465,352	href="/dbget-bin/www_bget?K12633"	title="K12633 (pur5)" />
+<area shape=rect	coords=464,278,510,295	href="/dbget-bin/www_bget?K12633"	title="K12633 (pur5)" />
+<area shape=rect	coords=464,176,510,193	href="/dbget-bin/www_bget?K12632"	title="K12632 (pac)" />
+<area shape=rect	coords=419,135,465,152	href="/dbget-bin/www_bget?K12631"	title="K12631 (pur6)" />
+<area shape=rect	coords=316,135,362,152	href="/dbget-bin/www_bget?K12630"	title="K12630 (pur4)" />
+<area shape=rect	coords=224,135,270,152	href="/dbget-bin/www_bget?K12629"	title="K12629 (pur7)" />
+<area shape=rect	coords=130,135,176,152	href="/dbget-bin/www_bget?K12628"	title="K12628 (pur10)" />
+<area shape=rect	coords=284,234,441,268	href="/kegg-bin/show_pathway?ko00400"	title="ko00400: Phenylalanine, tyrosine and tryptophan biosynthesis" onmouseover="popupTimer(&quot;ko00400&quot;, &quot;ko00400: Phenylalanine, tyrosine and tryptophan biosynthesis&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=40,45,255,70	href="/dbget-bin/www_bget?ko00231"	title="ko00231: Puromycin biosynthesis" onmouseover="popupTimer(&quot;ko00231&quot;, &quot;ko00231: Puromycin biosynthesis&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

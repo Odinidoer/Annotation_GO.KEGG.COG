@@ -1,0 +1,2825 @@
+path:dra00010	Glycolysis / Gluconeogenesis - Deinococcus radiodurans
+path:dra00020	Citrate cycle (TCA cycle) - Deinococcus radiodurans
+path:dra00030	Pentose phosphate pathway - Deinococcus radiodurans
+path:dra00051	Fructose and mannose metabolism - Deinococcus radiodurans
+path:dra00052	Galactose metabolism - Deinococcus radiodurans
+path:dra00053	Ascorbate and aldarate metabolism - Deinococcus radiodurans
+path:dra00061	Fatty acid biosynthesis - Deinococcus radiodurans
+path:dra00071	Fatty acid degradation - Deinococcus radiodurans
+path:dra00072	Synthesis and degradation of ketone bodies - Deinococcus radiodurans
+path:dra00130	Ubiquinone and other terpenoid-quinone biosynthesis - Deinococcus radiodurans
+path:dra00190	Oxidative phosphorylation - Deinococcus radiodurans
+path:dra00220	Arginine biosynthesis - Deinococcus radiodurans
+path:dra00230	Purine metabolism - Deinococcus radiodurans
+path:dra00240	Pyrimidine metabolism - Deinococcus radiodurans
+path:dra00250	Alanine, aspartate and glutamate metabolism - Deinococcus radiodurans
+path:dra00260	Glycine, serine and threonine metabolism - Deinococcus radiodurans
+path:dra00261	Monobactam biosynthesis - Deinococcus radiodurans
+path:dra00270	Cysteine and methionine metabolism - Deinococcus radiodurans
+path:dra00280	Valine, leucine and isoleucine degradation - Deinococcus radiodurans
+path:dra00281	Geraniol degradation - Deinococcus radiodurans
+path:dra00290	Valine, leucine and isoleucine biosynthesis - Deinococcus radiodurans
+path:dra00300	Lysine biosynthesis - Deinococcus radiodurans
+path:dra00310	Lysine degradation - Deinococcus radiodurans
+path:dra00330	Arginine and proline metabolism - Deinococcus radiodurans
+path:dra00332	Carbapenem biosynthesis - Deinococcus radiodurans
+path:dra00340	Histidine metabolism - Deinococcus radiodurans
+path:dra00350	Tyrosine metabolism - Deinococcus radiodurans
+path:dra00360	Phenylalanine metabolism - Deinococcus radiodurans
+path:dra00362	Benzoate degradation - Deinococcus radiodurans
+path:dra00380	Tryptophan metabolism - Deinococcus radiodurans
+path:dra00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Deinococcus radiodurans
+path:dra00401	Novobiocin biosynthesis - Deinococcus radiodurans
+path:dra00410	beta-Alanine metabolism - Deinococcus radiodurans
+path:dra00430	Taurine and hypotaurine metabolism - Deinococcus radiodurans
+path:dra00440	Phosphonate and phosphinate metabolism - Deinococcus radiodurans
+path:dra00450	Selenocompound metabolism - Deinococcus radiodurans
+path:dra00460	Cyanoamino acid metabolism - Deinococcus radiodurans
+path:dra00471	D-Glutamine and D-glutamate metabolism - Deinococcus radiodurans
+path:dra00473	D-Alanine metabolism - Deinococcus radiodurans
+path:dra00480	Glutathione metabolism - Deinococcus radiodurans
+path:dra00500	Starch and sucrose metabolism - Deinococcus radiodurans
+path:dra00520	Amino sugar and nucleotide sugar metabolism - Deinococcus radiodurans
+path:dra00521	Streptomycin biosynthesis - Deinococcus radiodurans
+path:dra00523	Polyketide sugar unit biosynthesis - Deinococcus radiodurans
+path:dra00525	Acarbose and validamycin biosynthesis - Deinococcus radiodurans
+path:dra00550	Peptidoglycan biosynthesis - Deinococcus radiodurans
+path:dra00561	Glycerolipid metabolism - Deinococcus radiodurans
+path:dra00562	Inositol phosphate metabolism - Deinococcus radiodurans
+path:dra00564	Glycerophospholipid metabolism - Deinococcus radiodurans
+path:dra00592	alpha-Linolenic acid metabolism - Deinococcus radiodurans
+path:dra00620	Pyruvate metabolism - Deinococcus radiodurans
+path:dra00622	Xylene degradation - Deinococcus radiodurans
+path:dra00625	Chloroalkane and chloroalkene degradation - Deinococcus radiodurans
+path:dra00627	Aminobenzoate degradation - Deinococcus radiodurans
+path:dra00630	Glyoxylate and dicarboxylate metabolism - Deinococcus radiodurans
+path:dra00640	Propanoate metabolism - Deinococcus radiodurans
+path:dra00643	Styrene degradation - Deinococcus radiodurans
+path:dra00650	Butanoate metabolism - Deinococcus radiodurans
+path:dra00660	C5-Branched dibasic acid metabolism - Deinococcus radiodurans
+path:dra00670	One carbon pool by folate - Deinococcus radiodurans
+path:dra00680	Methane metabolism - Deinococcus radiodurans
+path:dra00730	Thiamine metabolism - Deinococcus radiodurans
+path:dra00740	Riboflavin metabolism - Deinococcus radiodurans
+path:dra00750	Vitamin B6 metabolism - Deinococcus radiodurans
+path:dra00760	Nicotinate and nicotinamide metabolism - Deinococcus radiodurans
+path:dra00770	Pantothenate and CoA biosynthesis - Deinococcus radiodurans
+path:dra00780	Biotin metabolism - Deinococcus radiodurans
+path:dra00785	Lipoic acid metabolism - Deinococcus radiodurans
+path:dra00790	Folate biosynthesis - Deinococcus radiodurans
+path:dra00860	Porphyrin and chlorophyll metabolism - Deinococcus radiodurans
+path:dra00900	Terpenoid backbone biosynthesis - Deinococcus radiodurans
+path:dra00903	Limonene and pinene degradation - Deinococcus radiodurans
+path:dra00906	Carotenoid biosynthesis - Deinococcus radiodurans
+path:dra00910	Nitrogen metabolism - Deinococcus radiodurans
+path:dra00920	Sulfur metabolism - Deinococcus radiodurans
+path:dra00930	Caprolactam degradation - Deinococcus radiodurans
+path:dra00970	Aminoacyl-tRNA biosynthesis - Deinococcus radiodurans
+path:dra01040	Biosynthesis of unsaturated fatty acids - Deinococcus radiodurans
+path:dra01100	Metabolic pathways - Deinococcus radiodurans
+path:dra01110	Biosynthesis of secondary metabolites - Deinococcus radiodurans
+path:dra01120	Microbial metabolism in diverse environments - Deinococcus radiodurans
+path:dra01130	Biosynthesis of antibiotics - Deinococcus radiodurans
+path:dra01200	Carbon metabolism - Deinococcus radiodurans
+path:dra01210	2-Oxocarboxylic acid metabolism - Deinococcus radiodurans
+path:dra01212	Fatty acid metabolism - Deinococcus radiodurans
+path:dra01220	Degradation of aromatic compounds - Deinococcus radiodurans
+path:dra01230	Biosynthesis of amino acids - Deinococcus radiodurans
+path:dra01501	beta-Lactam resistance - Deinococcus radiodurans
+path:dra01502	Vancomycin resistance - Deinococcus radiodurans
+path:dra01503	Cationic antimicrobial peptide (CAMP) resistance - Deinococcus radiodurans
+path:dra02010	ABC transporters - Deinococcus radiodurans
+path:dra02020	Two-component system - Deinococcus radiodurans
+path:dra02024	Quorum sensing - Deinococcus radiodurans
+path:dra03010	Ribosome - Deinococcus radiodurans
+path:dra03018	RNA degradation - Deinococcus radiodurans
+path:dra03020	RNA polymerase - Deinococcus radiodurans
+path:dra03030	DNA replication - Deinococcus radiodurans
+path:dra03060	Protein export - Deinococcus radiodurans
+path:dra03070	Bacterial secretion system - Deinococcus radiodurans
+path:dra03410	Base excision repair - Deinococcus radiodurans
+path:dra03420	Nucleotide excision repair - Deinococcus radiodurans
+path:dra03430	Mismatch repair - Deinococcus radiodurans
+path:dra03440	Homologous recombination - Deinococcus radiodurans
+path:dra04122	Sulfur relay system - Deinococcus radiodurans
+path:dge00010	Glycolysis / Gluconeogenesis - Deinococcus geothermalis
+path:dge00020	Citrate cycle (TCA cycle) - Deinococcus geothermalis
+path:dge00030	Pentose phosphate pathway - Deinococcus geothermalis
+path:dge00040	Pentose and glucuronate interconversions - Deinococcus geothermalis
+path:dge00051	Fructose and mannose metabolism - Deinococcus geothermalis
+path:dge00052	Galactose metabolism - Deinococcus geothermalis
+path:dge00053	Ascorbate and aldarate metabolism - Deinococcus geothermalis
+path:dge00061	Fatty acid biosynthesis - Deinococcus geothermalis
+path:dge00071	Fatty acid degradation - Deinococcus geothermalis
+path:dge00072	Synthesis and degradation of ketone bodies - Deinococcus geothermalis
+path:dge00130	Ubiquinone and other terpenoid-quinone biosynthesis - Deinococcus geothermalis
+path:dge00190	Oxidative phosphorylation - Deinococcus geothermalis
+path:dge00220	Arginine biosynthesis - Deinococcus geothermalis
+path:dge00230	Purine metabolism - Deinococcus geothermalis
+path:dge00240	Pyrimidine metabolism - Deinococcus geothermalis
+path:dge00250	Alanine, aspartate and glutamate metabolism - Deinococcus geothermalis
+path:dge00260	Glycine, serine and threonine metabolism - Deinococcus geothermalis
+path:dge00261	Monobactam biosynthesis - Deinococcus geothermalis
+path:dge00270	Cysteine and methionine metabolism - Deinococcus geothermalis
+path:dge00280	Valine, leucine and isoleucine degradation - Deinococcus geothermalis
+path:dge00281	Geraniol degradation - Deinococcus geothermalis
+path:dge00290	Valine, leucine and isoleucine biosynthesis - Deinococcus geothermalis
+path:dge00300	Lysine biosynthesis - Deinococcus geothermalis
+path:dge00310	Lysine degradation - Deinococcus geothermalis
+path:dge00311	Penicillin and cephalosporin biosynthesis - Deinococcus geothermalis
+path:dge00330	Arginine and proline metabolism - Deinococcus geothermalis
+path:dge00332	Carbapenem biosynthesis - Deinococcus geothermalis
+path:dge00340	Histidine metabolism - Deinococcus geothermalis
+path:dge00350	Tyrosine metabolism - Deinococcus geothermalis
+path:dge00360	Phenylalanine metabolism - Deinococcus geothermalis
+path:dge00362	Benzoate degradation - Deinococcus geothermalis
+path:dge00380	Tryptophan metabolism - Deinococcus geothermalis
+path:dge00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Deinococcus geothermalis
+path:dge00401	Novobiocin biosynthesis - Deinococcus geothermalis
+path:dge00410	beta-Alanine metabolism - Deinococcus geothermalis
+path:dge00430	Taurine and hypotaurine metabolism - Deinococcus geothermalis
+path:dge00450	Selenocompound metabolism - Deinococcus geothermalis
+path:dge00460	Cyanoamino acid metabolism - Deinococcus geothermalis
+path:dge00471	D-Glutamine and D-glutamate metabolism - Deinococcus geothermalis
+path:dge00473	D-Alanine metabolism - Deinococcus geothermalis
+path:dge00480	Glutathione metabolism - Deinococcus geothermalis
+path:dge00500	Starch and sucrose metabolism - Deinococcus geothermalis
+path:dge00520	Amino sugar and nucleotide sugar metabolism - Deinococcus geothermalis
+path:dge00521	Streptomycin biosynthesis - Deinococcus geothermalis
+path:dge00523	Polyketide sugar unit biosynthesis - Deinococcus geothermalis
+path:dge00525	Acarbose and validamycin biosynthesis - Deinococcus geothermalis
+path:dge00550	Peptidoglycan biosynthesis - Deinococcus geothermalis
+path:dge00561	Glycerolipid metabolism - Deinococcus geothermalis
+path:dge00562	Inositol phosphate metabolism - Deinococcus geothermalis
+path:dge00564	Glycerophospholipid metabolism - Deinococcus geothermalis
+path:dge00592	alpha-Linolenic acid metabolism - Deinococcus geothermalis
+path:dge00620	Pyruvate metabolism - Deinococcus geothermalis
+path:dge00622	Xylene degradation - Deinococcus geothermalis
+path:dge00627	Aminobenzoate degradation - Deinococcus geothermalis
+path:dge00630	Glyoxylate and dicarboxylate metabolism - Deinococcus geothermalis
+path:dge00640	Propanoate metabolism - Deinococcus geothermalis
+path:dge00643	Styrene degradation - Deinococcus geothermalis
+path:dge00650	Butanoate metabolism - Deinococcus geothermalis
+path:dge00660	C5-Branched dibasic acid metabolism - Deinococcus geothermalis
+path:dge00670	One carbon pool by folate - Deinococcus geothermalis
+path:dge00680	Methane metabolism - Deinococcus geothermalis
+path:dge00730	Thiamine metabolism - Deinococcus geothermalis
+path:dge00740	Riboflavin metabolism - Deinococcus geothermalis
+path:dge00750	Vitamin B6 metabolism - Deinococcus geothermalis
+path:dge00760	Nicotinate and nicotinamide metabolism - Deinococcus geothermalis
+path:dge00770	Pantothenate and CoA biosynthesis - Deinococcus geothermalis
+path:dge00780	Biotin metabolism - Deinococcus geothermalis
+path:dge00785	Lipoic acid metabolism - Deinococcus geothermalis
+path:dge00790	Folate biosynthesis - Deinococcus geothermalis
+path:dge00860	Porphyrin and chlorophyll metabolism - Deinococcus geothermalis
+path:dge00900	Terpenoid backbone biosynthesis - Deinococcus geothermalis
+path:dge00903	Limonene and pinene degradation - Deinococcus geothermalis
+path:dge00906	Carotenoid biosynthesis - Deinococcus geothermalis
+path:dge00910	Nitrogen metabolism - Deinococcus geothermalis
+path:dge00920	Sulfur metabolism - Deinococcus geothermalis
+path:dge00930	Caprolactam degradation - Deinococcus geothermalis
+path:dge00970	Aminoacyl-tRNA biosynthesis - Deinococcus geothermalis
+path:dge01040	Biosynthesis of unsaturated fatty acids - Deinococcus geothermalis
+path:dge01055	Biosynthesis of vancomycin group antibiotics - Deinococcus geothermalis
+path:dge01100	Metabolic pathways - Deinococcus geothermalis
+path:dge01110	Biosynthesis of secondary metabolites - Deinococcus geothermalis
+path:dge01120	Microbial metabolism in diverse environments - Deinococcus geothermalis
+path:dge01130	Biosynthesis of antibiotics - Deinococcus geothermalis
+path:dge01200	Carbon metabolism - Deinococcus geothermalis
+path:dge01210	2-Oxocarboxylic acid metabolism - Deinococcus geothermalis
+path:dge01212	Fatty acid metabolism - Deinococcus geothermalis
+path:dge01220	Degradation of aromatic compounds - Deinococcus geothermalis
+path:dge01230	Biosynthesis of amino acids - Deinococcus geothermalis
+path:dge01501	beta-Lactam resistance - Deinococcus geothermalis
+path:dge01502	Vancomycin resistance - Deinococcus geothermalis
+path:dge01503	Cationic antimicrobial peptide (CAMP) resistance - Deinococcus geothermalis
+path:dge02010	ABC transporters - Deinococcus geothermalis
+path:dge02020	Two-component system - Deinococcus geothermalis
+path:dge02024	Quorum sensing - Deinococcus geothermalis
+path:dge02060	Phosphotransferase system (PTS) - Deinococcus geothermalis
+path:dge03010	Ribosome - Deinococcus geothermalis
+path:dge03018	RNA degradation - Deinococcus geothermalis
+path:dge03020	RNA polymerase - Deinococcus geothermalis
+path:dge03030	DNA replication - Deinococcus geothermalis
+path:dge03060	Protein export - Deinococcus geothermalis
+path:dge03070	Bacterial secretion system - Deinococcus geothermalis
+path:dge03410	Base excision repair - Deinococcus geothermalis
+path:dge03420	Nucleotide excision repair - Deinococcus geothermalis
+path:dge03430	Mismatch repair - Deinococcus geothermalis
+path:dge03440	Homologous recombination - Deinococcus geothermalis
+path:dge04122	Sulfur relay system - Deinococcus geothermalis
+path:ddr00010	Glycolysis / Gluconeogenesis - Deinococcus deserti
+path:ddr00020	Citrate cycle (TCA cycle) - Deinococcus deserti
+path:ddr00030	Pentose phosphate pathway - Deinococcus deserti
+path:ddr00040	Pentose and glucuronate interconversions - Deinococcus deserti
+path:ddr00051	Fructose and mannose metabolism - Deinococcus deserti
+path:ddr00052	Galactose metabolism - Deinococcus deserti
+path:ddr00053	Ascorbate and aldarate metabolism - Deinococcus deserti
+path:ddr00061	Fatty acid biosynthesis - Deinococcus deserti
+path:ddr00071	Fatty acid degradation - Deinococcus deserti
+path:ddr00072	Synthesis and degradation of ketone bodies - Deinococcus deserti
+path:ddr00130	Ubiquinone and other terpenoid-quinone biosynthesis - Deinococcus deserti
+path:ddr00190	Oxidative phosphorylation - Deinococcus deserti
+path:ddr00220	Arginine biosynthesis - Deinococcus deserti
+path:ddr00230	Purine metabolism - Deinococcus deserti
+path:ddr00240	Pyrimidine metabolism - Deinococcus deserti
+path:ddr00250	Alanine, aspartate and glutamate metabolism - Deinococcus deserti
+path:ddr00260	Glycine, serine and threonine metabolism - Deinococcus deserti
+path:ddr00261	Monobactam biosynthesis - Deinococcus deserti
+path:ddr00270	Cysteine and methionine metabolism - Deinococcus deserti
+path:ddr00280	Valine, leucine and isoleucine degradation - Deinococcus deserti
+path:ddr00281	Geraniol degradation - Deinococcus deserti
+path:ddr00290	Valine, leucine and isoleucine biosynthesis - Deinococcus deserti
+path:ddr00300	Lysine biosynthesis - Deinococcus deserti
+path:ddr00310	Lysine degradation - Deinococcus deserti
+path:ddr00311	Penicillin and cephalosporin biosynthesis - Deinococcus deserti
+path:ddr00330	Arginine and proline metabolism - Deinococcus deserti
+path:ddr00332	Carbapenem biosynthesis - Deinococcus deserti
+path:ddr00340	Histidine metabolism - Deinococcus deserti
+path:ddr00350	Tyrosine metabolism - Deinococcus deserti
+path:ddr00360	Phenylalanine metabolism - Deinococcus deserti
+path:ddr00361	Chlorocyclohexane and chlorobenzene degradation - Deinococcus deserti
+path:ddr00362	Benzoate degradation - Deinococcus deserti
+path:ddr00380	Tryptophan metabolism - Deinococcus deserti
+path:ddr00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Deinococcus deserti
+path:ddr00401	Novobiocin biosynthesis - Deinococcus deserti
+path:ddr00410	beta-Alanine metabolism - Deinococcus deserti
+path:ddr00430	Taurine and hypotaurine metabolism - Deinococcus deserti
+path:ddr00440	Phosphonate and phosphinate metabolism - Deinococcus deserti
+path:ddr00450	Selenocompound metabolism - Deinococcus deserti
+path:ddr00460	Cyanoamino acid metabolism - Deinococcus deserti
+path:ddr00471	D-Glutamine and D-glutamate metabolism - Deinococcus deserti
+path:ddr00473	D-Alanine metabolism - Deinococcus deserti
+path:ddr00480	Glutathione metabolism - Deinococcus deserti
+path:ddr00500	Starch and sucrose metabolism - Deinococcus deserti
+path:ddr00511	Other glycan degradation - Deinococcus deserti
+path:ddr00520	Amino sugar and nucleotide sugar metabolism - Deinococcus deserti
+path:ddr00521	Streptomycin biosynthesis - Deinococcus deserti
+path:ddr00523	Polyketide sugar unit biosynthesis - Deinococcus deserti
+path:ddr00525	Acarbose and validamycin biosynthesis - Deinococcus deserti
+path:ddr00550	Peptidoglycan biosynthesis - Deinococcus deserti
+path:ddr00561	Glycerolipid metabolism - Deinococcus deserti
+path:ddr00562	Inositol phosphate metabolism - Deinococcus deserti
+path:ddr00564	Glycerophospholipid metabolism - Deinococcus deserti
+path:ddr00592	alpha-Linolenic acid metabolism - Deinococcus deserti
+path:ddr00620	Pyruvate metabolism - Deinococcus deserti
+path:ddr00622	Xylene degradation - Deinococcus deserti
+path:ddr00625	Chloroalkane and chloroalkene degradation - Deinococcus deserti
+path:ddr00626	Naphthalene degradation - Deinococcus deserti
+path:ddr00627	Aminobenzoate degradation - Deinococcus deserti
+path:ddr00630	Glyoxylate and dicarboxylate metabolism - Deinococcus deserti
+path:ddr00633	Nitrotoluene degradation - Deinococcus deserti
+path:ddr00640	Propanoate metabolism - Deinococcus deserti
+path:ddr00643	Styrene degradation - Deinococcus deserti
+path:ddr00650	Butanoate metabolism - Deinococcus deserti
+path:ddr00660	C5-Branched dibasic acid metabolism - Deinococcus deserti
+path:ddr00670	One carbon pool by folate - Deinococcus deserti
+path:ddr00680	Methane metabolism - Deinococcus deserti
+path:ddr00730	Thiamine metabolism - Deinococcus deserti
+path:ddr00740	Riboflavin metabolism - Deinococcus deserti
+path:ddr00750	Vitamin B6 metabolism - Deinococcus deserti
+path:ddr00760	Nicotinate and nicotinamide metabolism - Deinococcus deserti
+path:ddr00770	Pantothenate and CoA biosynthesis - Deinococcus deserti
+path:ddr00780	Biotin metabolism - Deinococcus deserti
+path:ddr00785	Lipoic acid metabolism - Deinococcus deserti
+path:ddr00790	Folate biosynthesis - Deinococcus deserti
+path:ddr00860	Porphyrin and chlorophyll metabolism - Deinococcus deserti
+path:ddr00900	Terpenoid backbone biosynthesis - Deinococcus deserti
+path:ddr00903	Limonene and pinene degradation - Deinococcus deserti
+path:ddr00906	Carotenoid biosynthesis - Deinococcus deserti
+path:ddr00910	Nitrogen metabolism - Deinococcus deserti
+path:ddr00920	Sulfur metabolism - Deinococcus deserti
+path:ddr00930	Caprolactam degradation - Deinococcus deserti
+path:ddr00970	Aminoacyl-tRNA biosynthesis - Deinococcus deserti
+path:ddr01040	Biosynthesis of unsaturated fatty acids - Deinococcus deserti
+path:ddr01054	Nonribosomal peptide structures - Deinococcus deserti
+path:ddr01055	Biosynthesis of vancomycin group antibiotics - Deinococcus deserti
+path:ddr01100	Metabolic pathways - Deinococcus deserti
+path:ddr01110	Biosynthesis of secondary metabolites - Deinococcus deserti
+path:ddr01120	Microbial metabolism in diverse environments - Deinococcus deserti
+path:ddr01130	Biosynthesis of antibiotics - Deinococcus deserti
+path:ddr01200	Carbon metabolism - Deinococcus deserti
+path:ddr01210	2-Oxocarboxylic acid metabolism - Deinococcus deserti
+path:ddr01212	Fatty acid metabolism - Deinococcus deserti
+path:ddr01220	Degradation of aromatic compounds - Deinococcus deserti
+path:ddr01230	Biosynthesis of amino acids - Deinococcus deserti
+path:ddr01501	beta-Lactam resistance - Deinococcus deserti
+path:ddr01502	Vancomycin resistance - Deinococcus deserti
+path:ddr01503	Cationic antimicrobial peptide (CAMP) resistance - Deinococcus deserti
+path:ddr02010	ABC transporters - Deinococcus deserti
+path:ddr02020	Two-component system - Deinococcus deserti
+path:ddr02024	Quorum sensing - Deinococcus deserti
+path:ddr02030	Bacterial chemotaxis - Deinococcus deserti
+path:ddr02060	Phosphotransferase system (PTS) - Deinococcus deserti
+path:ddr03010	Ribosome - Deinococcus deserti
+path:ddr03018	RNA degradation - Deinococcus deserti
+path:ddr03020	RNA polymerase - Deinococcus deserti
+path:ddr03030	DNA replication - Deinococcus deserti
+path:ddr03060	Protein export - Deinococcus deserti
+path:ddr03070	Bacterial secretion system - Deinococcus deserti
+path:ddr03410	Base excision repair - Deinococcus deserti
+path:ddr03420	Nucleotide excision repair - Deinococcus deserti
+path:ddr03430	Mismatch repair - Deinococcus deserti
+path:ddr03440	Homologous recombination - Deinococcus deserti
+path:ddr04122	Sulfur relay system - Deinococcus deserti
+path:dmr00010	Glycolysis / Gluconeogenesis - Deinococcus maricopensis
+path:dmr00020	Citrate cycle (TCA cycle) - Deinococcus maricopensis
+path:dmr00030	Pentose phosphate pathway - Deinococcus maricopensis
+path:dmr00040	Pentose and glucuronate interconversions - Deinococcus maricopensis
+path:dmr00051	Fructose and mannose metabolism - Deinococcus maricopensis
+path:dmr00052	Galactose metabolism - Deinococcus maricopensis
+path:dmr00053	Ascorbate and aldarate metabolism - Deinococcus maricopensis
+path:dmr00061	Fatty acid biosynthesis - Deinococcus maricopensis
+path:dmr00071	Fatty acid degradation - Deinococcus maricopensis
+path:dmr00072	Synthesis and degradation of ketone bodies - Deinococcus maricopensis
+path:dmr00130	Ubiquinone and other terpenoid-quinone biosynthesis - Deinococcus maricopensis
+path:dmr00190	Oxidative phosphorylation - Deinococcus maricopensis
+path:dmr00220	Arginine biosynthesis - Deinococcus maricopensis
+path:dmr00230	Purine metabolism - Deinococcus maricopensis
+path:dmr00240	Pyrimidine metabolism - Deinococcus maricopensis
+path:dmr00250	Alanine, aspartate and glutamate metabolism - Deinococcus maricopensis
+path:dmr00260	Glycine, serine and threonine metabolism - Deinococcus maricopensis
+path:dmr00261	Monobactam biosynthesis - Deinococcus maricopensis
+path:dmr00270	Cysteine and methionine metabolism - Deinococcus maricopensis
+path:dmr00280	Valine, leucine and isoleucine degradation - Deinococcus maricopensis
+path:dmr00281	Geraniol degradation - Deinococcus maricopensis
+path:dmr00290	Valine, leucine and isoleucine biosynthesis - Deinococcus maricopensis
+path:dmr00300	Lysine biosynthesis - Deinococcus maricopensis
+path:dmr00310	Lysine degradation - Deinococcus maricopensis
+path:dmr00311	Penicillin and cephalosporin biosynthesis - Deinococcus maricopensis
+path:dmr00330	Arginine and proline metabolism - Deinococcus maricopensis
+path:dmr00332	Carbapenem biosynthesis - Deinococcus maricopensis
+path:dmr00340	Histidine metabolism - Deinococcus maricopensis
+path:dmr00350	Tyrosine metabolism - Deinococcus maricopensis
+path:dmr00360	Phenylalanine metabolism - Deinococcus maricopensis
+path:dmr00361	Chlorocyclohexane and chlorobenzene degradation - Deinococcus maricopensis
+path:dmr00362	Benzoate degradation - Deinococcus maricopensis
+path:dmr00380	Tryptophan metabolism - Deinococcus maricopensis
+path:dmr00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Deinococcus maricopensis
+path:dmr00401	Novobiocin biosynthesis - Deinococcus maricopensis
+path:dmr00405	Phenazine biosynthesis - Deinococcus maricopensis
+path:dmr00410	beta-Alanine metabolism - Deinococcus maricopensis
+path:dmr00430	Taurine and hypotaurine metabolism - Deinococcus maricopensis
+path:dmr00450	Selenocompound metabolism - Deinococcus maricopensis
+path:dmr00460	Cyanoamino acid metabolism - Deinococcus maricopensis
+path:dmr00471	D-Glutamine and D-glutamate metabolism - Deinococcus maricopensis
+path:dmr00473	D-Alanine metabolism - Deinococcus maricopensis
+path:dmr00480	Glutathione metabolism - Deinococcus maricopensis
+path:dmr00500	Starch and sucrose metabolism - Deinococcus maricopensis
+path:dmr00520	Amino sugar and nucleotide sugar metabolism - Deinococcus maricopensis
+path:dmr00521	Streptomycin biosynthesis - Deinococcus maricopensis
+path:dmr00523	Polyketide sugar unit biosynthesis - Deinococcus maricopensis
+path:dmr00525	Acarbose and validamycin biosynthesis - Deinococcus maricopensis
+path:dmr00550	Peptidoglycan biosynthesis - Deinococcus maricopensis
+path:dmr00561	Glycerolipid metabolism - Deinococcus maricopensis
+path:dmr00562	Inositol phosphate metabolism - Deinococcus maricopensis
+path:dmr00564	Glycerophospholipid metabolism - Deinococcus maricopensis
+path:dmr00592	alpha-Linolenic acid metabolism - Deinococcus maricopensis
+path:dmr00620	Pyruvate metabolism - Deinococcus maricopensis
+path:dmr00622	Xylene degradation - Deinococcus maricopensis
+path:dmr00625	Chloroalkane and chloroalkene degradation - Deinococcus maricopensis
+path:dmr00627	Aminobenzoate degradation - Deinococcus maricopensis
+path:dmr00630	Glyoxylate and dicarboxylate metabolism - Deinococcus maricopensis
+path:dmr00640	Propanoate metabolism - Deinococcus maricopensis
+path:dmr00643	Styrene degradation - Deinococcus maricopensis
+path:dmr00650	Butanoate metabolism - Deinococcus maricopensis
+path:dmr00660	C5-Branched dibasic acid metabolism - Deinococcus maricopensis
+path:dmr00670	One carbon pool by folate - Deinococcus maricopensis
+path:dmr00680	Methane metabolism - Deinococcus maricopensis
+path:dmr00730	Thiamine metabolism - Deinococcus maricopensis
+path:dmr00740	Riboflavin metabolism - Deinococcus maricopensis
+path:dmr00750	Vitamin B6 metabolism - Deinococcus maricopensis
+path:dmr00760	Nicotinate and nicotinamide metabolism - Deinococcus maricopensis
+path:dmr00770	Pantothenate and CoA biosynthesis - Deinococcus maricopensis
+path:dmr00780	Biotin metabolism - Deinococcus maricopensis
+path:dmr00785	Lipoic acid metabolism - Deinococcus maricopensis
+path:dmr00790	Folate biosynthesis - Deinococcus maricopensis
+path:dmr00860	Porphyrin and chlorophyll metabolism - Deinococcus maricopensis
+path:dmr00900	Terpenoid backbone biosynthesis - Deinococcus maricopensis
+path:dmr00903	Limonene and pinene degradation - Deinococcus maricopensis
+path:dmr00906	Carotenoid biosynthesis - Deinococcus maricopensis
+path:dmr00910	Nitrogen metabolism - Deinococcus maricopensis
+path:dmr00920	Sulfur metabolism - Deinococcus maricopensis
+path:dmr00930	Caprolactam degradation - Deinococcus maricopensis
+path:dmr00970	Aminoacyl-tRNA biosynthesis - Deinococcus maricopensis
+path:dmr01040	Biosynthesis of unsaturated fatty acids - Deinococcus maricopensis
+path:dmr01053	Biosynthesis of siderophore group nonribosomal peptides - Deinococcus maricopensis
+path:dmr01054	Nonribosomal peptide structures - Deinococcus maricopensis
+path:dmr01100	Metabolic pathways - Deinococcus maricopensis
+path:dmr01110	Biosynthesis of secondary metabolites - Deinococcus maricopensis
+path:dmr01120	Microbial metabolism in diverse environments - Deinococcus maricopensis
+path:dmr01130	Biosynthesis of antibiotics - Deinococcus maricopensis
+path:dmr01200	Carbon metabolism - Deinococcus maricopensis
+path:dmr01210	2-Oxocarboxylic acid metabolism - Deinococcus maricopensis
+path:dmr01212	Fatty acid metabolism - Deinococcus maricopensis
+path:dmr01220	Degradation of aromatic compounds - Deinococcus maricopensis
+path:dmr01230	Biosynthesis of amino acids - Deinococcus maricopensis
+path:dmr01501	beta-Lactam resistance - Deinococcus maricopensis
+path:dmr01502	Vancomycin resistance - Deinococcus maricopensis
+path:dmr01503	Cationic antimicrobial peptide (CAMP) resistance - Deinococcus maricopensis
+path:dmr02010	ABC transporters - Deinococcus maricopensis
+path:dmr02020	Two-component system - Deinococcus maricopensis
+path:dmr02024	Quorum sensing - Deinococcus maricopensis
+path:dmr02030	Bacterial chemotaxis - Deinococcus maricopensis
+path:dmr02060	Phosphotransferase system (PTS) - Deinococcus maricopensis
+path:dmr03010	Ribosome - Deinococcus maricopensis
+path:dmr03018	RNA degradation - Deinococcus maricopensis
+path:dmr03020	RNA polymerase - Deinococcus maricopensis
+path:dmr03030	DNA replication - Deinococcus maricopensis
+path:dmr03060	Protein export - Deinococcus maricopensis
+path:dmr03070	Bacterial secretion system - Deinococcus maricopensis
+path:dmr03410	Base excision repair - Deinococcus maricopensis
+path:dmr03420	Nucleotide excision repair - Deinococcus maricopensis
+path:dmr03430	Mismatch repair - Deinococcus maricopensis
+path:dmr03440	Homologous recombination - Deinococcus maricopensis
+path:dmr04122	Sulfur relay system - Deinococcus maricopensis
+path:dpt00010	Glycolysis / Gluconeogenesis - Deinococcus proteolyticus
+path:dpt00020	Citrate cycle (TCA cycle) - Deinococcus proteolyticus
+path:dpt00030	Pentose phosphate pathway - Deinococcus proteolyticus
+path:dpt00040	Pentose and glucuronate interconversions - Deinococcus proteolyticus
+path:dpt00051	Fructose and mannose metabolism - Deinococcus proteolyticus
+path:dpt00052	Galactose metabolism - Deinococcus proteolyticus
+path:dpt00053	Ascorbate and aldarate metabolism - Deinococcus proteolyticus
+path:dpt00061	Fatty acid biosynthesis - Deinococcus proteolyticus
+path:dpt00071	Fatty acid degradation - Deinococcus proteolyticus
+path:dpt00072	Synthesis and degradation of ketone bodies - Deinococcus proteolyticus
+path:dpt00130	Ubiquinone and other terpenoid-quinone biosynthesis - Deinococcus proteolyticus
+path:dpt00190	Oxidative phosphorylation - Deinococcus proteolyticus
+path:dpt00220	Arginine biosynthesis - Deinococcus proteolyticus
+path:dpt00230	Purine metabolism - Deinococcus proteolyticus
+path:dpt00240	Pyrimidine metabolism - Deinococcus proteolyticus
+path:dpt00250	Alanine, aspartate and glutamate metabolism - Deinococcus proteolyticus
+path:dpt00260	Glycine, serine and threonine metabolism - Deinococcus proteolyticus
+path:dpt00261	Monobactam biosynthesis - Deinococcus proteolyticus
+path:dpt00270	Cysteine and methionine metabolism - Deinococcus proteolyticus
+path:dpt00280	Valine, leucine and isoleucine degradation - Deinococcus proteolyticus
+path:dpt00281	Geraniol degradation - Deinococcus proteolyticus
+path:dpt00290	Valine, leucine and isoleucine biosynthesis - Deinococcus proteolyticus
+path:dpt00300	Lysine biosynthesis - Deinococcus proteolyticus
+path:dpt00310	Lysine degradation - Deinococcus proteolyticus
+path:dpt00311	Penicillin and cephalosporin biosynthesis - Deinococcus proteolyticus
+path:dpt00330	Arginine and proline metabolism - Deinococcus proteolyticus
+path:dpt00332	Carbapenem biosynthesis - Deinococcus proteolyticus
+path:dpt00340	Histidine metabolism - Deinococcus proteolyticus
+path:dpt00350	Tyrosine metabolism - Deinococcus proteolyticus
+path:dpt00360	Phenylalanine metabolism - Deinococcus proteolyticus
+path:dpt00362	Benzoate degradation - Deinococcus proteolyticus
+path:dpt00380	Tryptophan metabolism - Deinococcus proteolyticus
+path:dpt00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Deinococcus proteolyticus
+path:dpt00401	Novobiocin biosynthesis - Deinococcus proteolyticus
+path:dpt00410	beta-Alanine metabolism - Deinococcus proteolyticus
+path:dpt00430	Taurine and hypotaurine metabolism - Deinococcus proteolyticus
+path:dpt00440	Phosphonate and phosphinate metabolism - Deinococcus proteolyticus
+path:dpt00450	Selenocompound metabolism - Deinococcus proteolyticus
+path:dpt00460	Cyanoamino acid metabolism - Deinococcus proteolyticus
+path:dpt00471	D-Glutamine and D-glutamate metabolism - Deinococcus proteolyticus
+path:dpt00473	D-Alanine metabolism - Deinococcus proteolyticus
+path:dpt00480	Glutathione metabolism - Deinococcus proteolyticus
+path:dpt00500	Starch and sucrose metabolism - Deinococcus proteolyticus
+path:dpt00520	Amino sugar and nucleotide sugar metabolism - Deinococcus proteolyticus
+path:dpt00521	Streptomycin biosynthesis - Deinococcus proteolyticus
+path:dpt00550	Peptidoglycan biosynthesis - Deinococcus proteolyticus
+path:dpt00561	Glycerolipid metabolism - Deinococcus proteolyticus
+path:dpt00562	Inositol phosphate metabolism - Deinococcus proteolyticus
+path:dpt00564	Glycerophospholipid metabolism - Deinococcus proteolyticus
+path:dpt00592	alpha-Linolenic acid metabolism - Deinococcus proteolyticus
+path:dpt00620	Pyruvate metabolism - Deinococcus proteolyticus
+path:dpt00622	Xylene degradation - Deinococcus proteolyticus
+path:dpt00627	Aminobenzoate degradation - Deinococcus proteolyticus
+path:dpt00630	Glyoxylate and dicarboxylate metabolism - Deinococcus proteolyticus
+path:dpt00640	Propanoate metabolism - Deinococcus proteolyticus
+path:dpt00643	Styrene degradation - Deinococcus proteolyticus
+path:dpt00650	Butanoate metabolism - Deinococcus proteolyticus
+path:dpt00660	C5-Branched dibasic acid metabolism - Deinococcus proteolyticus
+path:dpt00670	One carbon pool by folate - Deinococcus proteolyticus
+path:dpt00680	Methane metabolism - Deinococcus proteolyticus
+path:dpt00730	Thiamine metabolism - Deinococcus proteolyticus
+path:dpt00740	Riboflavin metabolism - Deinococcus proteolyticus
+path:dpt00750	Vitamin B6 metabolism - Deinococcus proteolyticus
+path:dpt00760	Nicotinate and nicotinamide metabolism - Deinococcus proteolyticus
+path:dpt00770	Pantothenate and CoA biosynthesis - Deinococcus proteolyticus
+path:dpt00780	Biotin metabolism - Deinococcus proteolyticus
+path:dpt00785	Lipoic acid metabolism - Deinococcus proteolyticus
+path:dpt00790	Folate biosynthesis - Deinococcus proteolyticus
+path:dpt00860	Porphyrin and chlorophyll metabolism - Deinococcus proteolyticus
+path:dpt00900	Terpenoid backbone biosynthesis - Deinococcus proteolyticus
+path:dpt00903	Limonene and pinene degradation - Deinococcus proteolyticus
+path:dpt00906	Carotenoid biosynthesis - Deinococcus proteolyticus
+path:dpt00910	Nitrogen metabolism - Deinococcus proteolyticus
+path:dpt00920	Sulfur metabolism - Deinococcus proteolyticus
+path:dpt00930	Caprolactam degradation - Deinococcus proteolyticus
+path:dpt00970	Aminoacyl-tRNA biosynthesis - Deinococcus proteolyticus
+path:dpt01040	Biosynthesis of unsaturated fatty acids - Deinococcus proteolyticus
+path:dpt01100	Metabolic pathways - Deinococcus proteolyticus
+path:dpt01110	Biosynthesis of secondary metabolites - Deinococcus proteolyticus
+path:dpt01120	Microbial metabolism in diverse environments - Deinococcus proteolyticus
+path:dpt01130	Biosynthesis of antibiotics - Deinococcus proteolyticus
+path:dpt01200	Carbon metabolism - Deinococcus proteolyticus
+path:dpt01210	2-Oxocarboxylic acid metabolism - Deinococcus proteolyticus
+path:dpt01212	Fatty acid metabolism - Deinococcus proteolyticus
+path:dpt01220	Degradation of aromatic compounds - Deinococcus proteolyticus
+path:dpt01230	Biosynthesis of amino acids - Deinococcus proteolyticus
+path:dpt01501	beta-Lactam resistance - Deinococcus proteolyticus
+path:dpt01502	Vancomycin resistance - Deinococcus proteolyticus
+path:dpt01503	Cationic antimicrobial peptide (CAMP) resistance - Deinococcus proteolyticus
+path:dpt02010	ABC transporters - Deinococcus proteolyticus
+path:dpt02020	Two-component system - Deinococcus proteolyticus
+path:dpt02024	Quorum sensing - Deinococcus proteolyticus
+path:dpt02030	Bacterial chemotaxis - Deinococcus proteolyticus
+path:dpt02060	Phosphotransferase system (PTS) - Deinococcus proteolyticus
+path:dpt03010	Ribosome - Deinococcus proteolyticus
+path:dpt03018	RNA degradation - Deinococcus proteolyticus
+path:dpt03020	RNA polymerase - Deinococcus proteolyticus
+path:dpt03030	DNA replication - Deinococcus proteolyticus
+path:dpt03060	Protein export - Deinococcus proteolyticus
+path:dpt03070	Bacterial secretion system - Deinococcus proteolyticus
+path:dpt03410	Base excision repair - Deinococcus proteolyticus
+path:dpt03420	Nucleotide excision repair - Deinococcus proteolyticus
+path:dpt03430	Mismatch repair - Deinococcus proteolyticus
+path:dpt03440	Homologous recombination - Deinococcus proteolyticus
+path:dpt04122	Sulfur relay system - Deinococcus proteolyticus
+path:dgo00010	Glycolysis / Gluconeogenesis - Deinococcus gobiensis
+path:dgo00020	Citrate cycle (TCA cycle) - Deinococcus gobiensis
+path:dgo00030	Pentose phosphate pathway - Deinococcus gobiensis
+path:dgo00040	Pentose and glucuronate interconversions - Deinococcus gobiensis
+path:dgo00051	Fructose and mannose metabolism - Deinococcus gobiensis
+path:dgo00052	Galactose metabolism - Deinococcus gobiensis
+path:dgo00061	Fatty acid biosynthesis - Deinococcus gobiensis
+path:dgo00071	Fatty acid degradation - Deinococcus gobiensis
+path:dgo00072	Synthesis and degradation of ketone bodies - Deinococcus gobiensis
+path:dgo00130	Ubiquinone and other terpenoid-quinone biosynthesis - Deinococcus gobiensis
+path:dgo00190	Oxidative phosphorylation - Deinococcus gobiensis
+path:dgo00220	Arginine biosynthesis - Deinococcus gobiensis
+path:dgo00230	Purine metabolism - Deinococcus gobiensis
+path:dgo00240	Pyrimidine metabolism - Deinococcus gobiensis
+path:dgo00250	Alanine, aspartate and glutamate metabolism - Deinococcus gobiensis
+path:dgo00260	Glycine, serine and threonine metabolism - Deinococcus gobiensis
+path:dgo00261	Monobactam biosynthesis - Deinococcus gobiensis
+path:dgo00270	Cysteine and methionine metabolism - Deinococcus gobiensis
+path:dgo00280	Valine, leucine and isoleucine degradation - Deinococcus gobiensis
+path:dgo00281	Geraniol degradation - Deinococcus gobiensis
+path:dgo00290	Valine, leucine and isoleucine biosynthesis - Deinococcus gobiensis
+path:dgo00300	Lysine biosynthesis - Deinococcus gobiensis
+path:dgo00310	Lysine degradation - Deinococcus gobiensis
+path:dgo00330	Arginine and proline metabolism - Deinococcus gobiensis
+path:dgo00332	Carbapenem biosynthesis - Deinococcus gobiensis
+path:dgo00340	Histidine metabolism - Deinococcus gobiensis
+path:dgo00350	Tyrosine metabolism - Deinococcus gobiensis
+path:dgo00360	Phenylalanine metabolism - Deinococcus gobiensis
+path:dgo00361	Chlorocyclohexane and chlorobenzene degradation - Deinococcus gobiensis
+path:dgo00362	Benzoate degradation - Deinococcus gobiensis
+path:dgo00380	Tryptophan metabolism - Deinococcus gobiensis
+path:dgo00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Deinococcus gobiensis
+path:dgo00401	Novobiocin biosynthesis - Deinococcus gobiensis
+path:dgo00410	beta-Alanine metabolism - Deinococcus gobiensis
+path:dgo00430	Taurine and hypotaurine metabolism - Deinococcus gobiensis
+path:dgo00440	Phosphonate and phosphinate metabolism - Deinococcus gobiensis
+path:dgo00450	Selenocompound metabolism - Deinococcus gobiensis
+path:dgo00460	Cyanoamino acid metabolism - Deinococcus gobiensis
+path:dgo00471	D-Glutamine and D-glutamate metabolism - Deinococcus gobiensis
+path:dgo00473	D-Alanine metabolism - Deinococcus gobiensis
+path:dgo00480	Glutathione metabolism - Deinococcus gobiensis
+path:dgo00500	Starch and sucrose metabolism - Deinococcus gobiensis
+path:dgo00511	Other glycan degradation - Deinococcus gobiensis
+path:dgo00520	Amino sugar and nucleotide sugar metabolism - Deinococcus gobiensis
+path:dgo00521	Streptomycin biosynthesis - Deinococcus gobiensis
+path:dgo00523	Polyketide sugar unit biosynthesis - Deinococcus gobiensis
+path:dgo00550	Peptidoglycan biosynthesis - Deinococcus gobiensis
+path:dgo00561	Glycerolipid metabolism - Deinococcus gobiensis
+path:dgo00562	Inositol phosphate metabolism - Deinococcus gobiensis
+path:dgo00564	Glycerophospholipid metabolism - Deinococcus gobiensis
+path:dgo00592	alpha-Linolenic acid metabolism - Deinococcus gobiensis
+path:dgo00620	Pyruvate metabolism - Deinococcus gobiensis
+path:dgo00622	Xylene degradation - Deinococcus gobiensis
+path:dgo00627	Aminobenzoate degradation - Deinococcus gobiensis
+path:dgo00630	Glyoxylate and dicarboxylate metabolism - Deinococcus gobiensis
+path:dgo00640	Propanoate metabolism - Deinococcus gobiensis
+path:dgo00643	Styrene degradation - Deinococcus gobiensis
+path:dgo00650	Butanoate metabolism - Deinococcus gobiensis
+path:dgo00660	C5-Branched dibasic acid metabolism - Deinococcus gobiensis
+path:dgo00670	One carbon pool by folate - Deinococcus gobiensis
+path:dgo00680	Methane metabolism - Deinococcus gobiensis
+path:dgo00730	Thiamine metabolism - Deinococcus gobiensis
+path:dgo00740	Riboflavin metabolism - Deinococcus gobiensis
+path:dgo00750	Vitamin B6 metabolism - Deinococcus gobiensis
+path:dgo00760	Nicotinate and nicotinamide metabolism - Deinococcus gobiensis
+path:dgo00770	Pantothenate and CoA biosynthesis - Deinococcus gobiensis
+path:dgo00780	Biotin metabolism - Deinococcus gobiensis
+path:dgo00785	Lipoic acid metabolism - Deinococcus gobiensis
+path:dgo00790	Folate biosynthesis - Deinococcus gobiensis
+path:dgo00860	Porphyrin and chlorophyll metabolism - Deinococcus gobiensis
+path:dgo00900	Terpenoid backbone biosynthesis - Deinococcus gobiensis
+path:dgo00903	Limonene and pinene degradation - Deinococcus gobiensis
+path:dgo00906	Carotenoid biosynthesis - Deinococcus gobiensis
+path:dgo00910	Nitrogen metabolism - Deinococcus gobiensis
+path:dgo00920	Sulfur metabolism - Deinococcus gobiensis
+path:dgo00930	Caprolactam degradation - Deinococcus gobiensis
+path:dgo00970	Aminoacyl-tRNA biosynthesis - Deinococcus gobiensis
+path:dgo01040	Biosynthesis of unsaturated fatty acids - Deinococcus gobiensis
+path:dgo01054	Nonribosomal peptide structures - Deinococcus gobiensis
+path:dgo01100	Metabolic pathways - Deinococcus gobiensis
+path:dgo01110	Biosynthesis of secondary metabolites - Deinococcus gobiensis
+path:dgo01120	Microbial metabolism in diverse environments - Deinococcus gobiensis
+path:dgo01130	Biosynthesis of antibiotics - Deinococcus gobiensis
+path:dgo01200	Carbon metabolism - Deinococcus gobiensis
+path:dgo01210	2-Oxocarboxylic acid metabolism - Deinococcus gobiensis
+path:dgo01212	Fatty acid metabolism - Deinococcus gobiensis
+path:dgo01220	Degradation of aromatic compounds - Deinococcus gobiensis
+path:dgo01230	Biosynthesis of amino acids - Deinococcus gobiensis
+path:dgo01501	beta-Lactam resistance - Deinococcus gobiensis
+path:dgo01502	Vancomycin resistance - Deinococcus gobiensis
+path:dgo01503	Cationic antimicrobial peptide (CAMP) resistance - Deinococcus gobiensis
+path:dgo02010	ABC transporters - Deinococcus gobiensis
+path:dgo02020	Two-component system - Deinococcus gobiensis
+path:dgo02024	Quorum sensing - Deinococcus gobiensis
+path:dgo02030	Bacterial chemotaxis - Deinococcus gobiensis
+path:dgo02060	Phosphotransferase system (PTS) - Deinococcus gobiensis
+path:dgo03010	Ribosome - Deinococcus gobiensis
+path:dgo03018	RNA degradation - Deinococcus gobiensis
+path:dgo03020	RNA polymerase - Deinococcus gobiensis
+path:dgo03030	DNA replication - Deinococcus gobiensis
+path:dgo03060	Protein export - Deinococcus gobiensis
+path:dgo03070	Bacterial secretion system - Deinococcus gobiensis
+path:dgo03410	Base excision repair - Deinococcus gobiensis
+path:dgo03420	Nucleotide excision repair - Deinococcus gobiensis
+path:dgo03430	Mismatch repair - Deinococcus gobiensis
+path:dgo03440	Homologous recombination - Deinococcus gobiensis
+path:dgo04122	Sulfur relay system - Deinococcus gobiensis
+path:dpd00010	Glycolysis / Gluconeogenesis - Deinococcus peraridilitoris
+path:dpd00020	Citrate cycle (TCA cycle) - Deinococcus peraridilitoris
+path:dpd00030	Pentose phosphate pathway - Deinococcus peraridilitoris
+path:dpd00040	Pentose and glucuronate interconversions - Deinococcus peraridilitoris
+path:dpd00051	Fructose and mannose metabolism - Deinococcus peraridilitoris
+path:dpd00052	Galactose metabolism - Deinococcus peraridilitoris
+path:dpd00053	Ascorbate and aldarate metabolism - Deinococcus peraridilitoris
+path:dpd00061	Fatty acid biosynthesis - Deinococcus peraridilitoris
+path:dpd00071	Fatty acid degradation - Deinococcus peraridilitoris
+path:dpd00072	Synthesis and degradation of ketone bodies - Deinococcus peraridilitoris
+path:dpd00130	Ubiquinone and other terpenoid-quinone biosynthesis - Deinococcus peraridilitoris
+path:dpd00190	Oxidative phosphorylation - Deinococcus peraridilitoris
+path:dpd00220	Arginine biosynthesis - Deinococcus peraridilitoris
+path:dpd00230	Purine metabolism - Deinococcus peraridilitoris
+path:dpd00240	Pyrimidine metabolism - Deinococcus peraridilitoris
+path:dpd00250	Alanine, aspartate and glutamate metabolism - Deinococcus peraridilitoris
+path:dpd00260	Glycine, serine and threonine metabolism - Deinococcus peraridilitoris
+path:dpd00261	Monobactam biosynthesis - Deinococcus peraridilitoris
+path:dpd00270	Cysteine and methionine metabolism - Deinococcus peraridilitoris
+path:dpd00280	Valine, leucine and isoleucine degradation - Deinococcus peraridilitoris
+path:dpd00281	Geraniol degradation - Deinococcus peraridilitoris
+path:dpd00290	Valine, leucine and isoleucine biosynthesis - Deinococcus peraridilitoris
+path:dpd00300	Lysine biosynthesis - Deinococcus peraridilitoris
+path:dpd00310	Lysine degradation - Deinococcus peraridilitoris
+path:dpd00311	Penicillin and cephalosporin biosynthesis - Deinococcus peraridilitoris
+path:dpd00330	Arginine and proline metabolism - Deinococcus peraridilitoris
+path:dpd00332	Carbapenem biosynthesis - Deinococcus peraridilitoris
+path:dpd00340	Histidine metabolism - Deinococcus peraridilitoris
+path:dpd00350	Tyrosine metabolism - Deinococcus peraridilitoris
+path:dpd00360	Phenylalanine metabolism - Deinococcus peraridilitoris
+path:dpd00361	Chlorocyclohexane and chlorobenzene degradation - Deinococcus peraridilitoris
+path:dpd00362	Benzoate degradation - Deinococcus peraridilitoris
+path:dpd00380	Tryptophan metabolism - Deinococcus peraridilitoris
+path:dpd00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Deinococcus peraridilitoris
+path:dpd00401	Novobiocin biosynthesis - Deinococcus peraridilitoris
+path:dpd00410	beta-Alanine metabolism - Deinococcus peraridilitoris
+path:dpd00430	Taurine and hypotaurine metabolism - Deinococcus peraridilitoris
+path:dpd00440	Phosphonate and phosphinate metabolism - Deinococcus peraridilitoris
+path:dpd00450	Selenocompound metabolism - Deinococcus peraridilitoris
+path:dpd00460	Cyanoamino acid metabolism - Deinococcus peraridilitoris
+path:dpd00471	D-Glutamine and D-glutamate metabolism - Deinococcus peraridilitoris
+path:dpd00473	D-Alanine metabolism - Deinococcus peraridilitoris
+path:dpd00480	Glutathione metabolism - Deinococcus peraridilitoris
+path:dpd00500	Starch and sucrose metabolism - Deinococcus peraridilitoris
+path:dpd00511	Other glycan degradation - Deinococcus peraridilitoris
+path:dpd00520	Amino sugar and nucleotide sugar metabolism - Deinococcus peraridilitoris
+path:dpd00521	Streptomycin biosynthesis - Deinococcus peraridilitoris
+path:dpd00523	Polyketide sugar unit biosynthesis - Deinococcus peraridilitoris
+path:dpd00525	Acarbose and validamycin biosynthesis - Deinococcus peraridilitoris
+path:dpd00540	Lipopolysaccharide biosynthesis - Deinococcus peraridilitoris
+path:dpd00550	Peptidoglycan biosynthesis - Deinococcus peraridilitoris
+path:dpd00561	Glycerolipid metabolism - Deinococcus peraridilitoris
+path:dpd00562	Inositol phosphate metabolism - Deinococcus peraridilitoris
+path:dpd00564	Glycerophospholipid metabolism - Deinococcus peraridilitoris
+path:dpd00592	alpha-Linolenic acid metabolism - Deinococcus peraridilitoris
+path:dpd00620	Pyruvate metabolism - Deinococcus peraridilitoris
+path:dpd00622	Xylene degradation - Deinococcus peraridilitoris
+path:dpd00627	Aminobenzoate degradation - Deinococcus peraridilitoris
+path:dpd00630	Glyoxylate and dicarboxylate metabolism - Deinococcus peraridilitoris
+path:dpd00633	Nitrotoluene degradation - Deinococcus peraridilitoris
+path:dpd00640	Propanoate metabolism - Deinococcus peraridilitoris
+path:dpd00643	Styrene degradation - Deinococcus peraridilitoris
+path:dpd00650	Butanoate metabolism - Deinococcus peraridilitoris
+path:dpd00660	C5-Branched dibasic acid metabolism - Deinococcus peraridilitoris
+path:dpd00670	One carbon pool by folate - Deinococcus peraridilitoris
+path:dpd00680	Methane metabolism - Deinococcus peraridilitoris
+path:dpd00730	Thiamine metabolism - Deinococcus peraridilitoris
+path:dpd00740	Riboflavin metabolism - Deinococcus peraridilitoris
+path:dpd00750	Vitamin B6 metabolism - Deinococcus peraridilitoris
+path:dpd00760	Nicotinate and nicotinamide metabolism - Deinococcus peraridilitoris
+path:dpd00770	Pantothenate and CoA biosynthesis - Deinococcus peraridilitoris
+path:dpd00780	Biotin metabolism - Deinococcus peraridilitoris
+path:dpd00785	Lipoic acid metabolism - Deinococcus peraridilitoris
+path:dpd00790	Folate biosynthesis - Deinococcus peraridilitoris
+path:dpd00860	Porphyrin and chlorophyll metabolism - Deinococcus peraridilitoris
+path:dpd00900	Terpenoid backbone biosynthesis - Deinococcus peraridilitoris
+path:dpd00903	Limonene and pinene degradation - Deinococcus peraridilitoris
+path:dpd00906	Carotenoid biosynthesis - Deinococcus peraridilitoris
+path:dpd00910	Nitrogen metabolism - Deinococcus peraridilitoris
+path:dpd00920	Sulfur metabolism - Deinococcus peraridilitoris
+path:dpd00930	Caprolactam degradation - Deinococcus peraridilitoris
+path:dpd00970	Aminoacyl-tRNA biosynthesis - Deinococcus peraridilitoris
+path:dpd01040	Biosynthesis of unsaturated fatty acids - Deinococcus peraridilitoris
+path:dpd01054	Nonribosomal peptide structures - Deinococcus peraridilitoris
+path:dpd01100	Metabolic pathways - Deinococcus peraridilitoris
+path:dpd01110	Biosynthesis of secondary metabolites - Deinococcus peraridilitoris
+path:dpd01120	Microbial metabolism in diverse environments - Deinococcus peraridilitoris
+path:dpd01130	Biosynthesis of antibiotics - Deinococcus peraridilitoris
+path:dpd01200	Carbon metabolism - Deinococcus peraridilitoris
+path:dpd01210	2-Oxocarboxylic acid metabolism - Deinococcus peraridilitoris
+path:dpd01212	Fatty acid metabolism - Deinococcus peraridilitoris
+path:dpd01220	Degradation of aromatic compounds - Deinococcus peraridilitoris
+path:dpd01230	Biosynthesis of amino acids - Deinococcus peraridilitoris
+path:dpd01501	beta-Lactam resistance - Deinococcus peraridilitoris
+path:dpd01502	Vancomycin resistance - Deinococcus peraridilitoris
+path:dpd01503	Cationic antimicrobial peptide (CAMP) resistance - Deinococcus peraridilitoris
+path:dpd02010	ABC transporters - Deinococcus peraridilitoris
+path:dpd02020	Two-component system - Deinococcus peraridilitoris
+path:dpd02024	Quorum sensing - Deinococcus peraridilitoris
+path:dpd02030	Bacterial chemotaxis - Deinococcus peraridilitoris
+path:dpd03010	Ribosome - Deinococcus peraridilitoris
+path:dpd03018	RNA degradation - Deinococcus peraridilitoris
+path:dpd03020	RNA polymerase - Deinococcus peraridilitoris
+path:dpd03030	DNA replication - Deinococcus peraridilitoris
+path:dpd03060	Protein export - Deinococcus peraridilitoris
+path:dpd03070	Bacterial secretion system - Deinococcus peraridilitoris
+path:dpd03410	Base excision repair - Deinococcus peraridilitoris
+path:dpd03420	Nucleotide excision repair - Deinococcus peraridilitoris
+path:dpd03430	Mismatch repair - Deinococcus peraridilitoris
+path:dpd03440	Homologous recombination - Deinococcus peraridilitoris
+path:dpd04122	Sulfur relay system - Deinococcus peraridilitoris
+path:dsw00010	Glycolysis / Gluconeogenesis - Deinococcus swuensis
+path:dsw00020	Citrate cycle (TCA cycle) - Deinococcus swuensis
+path:dsw00030	Pentose phosphate pathway - Deinococcus swuensis
+path:dsw00040	Pentose and glucuronate interconversions - Deinococcus swuensis
+path:dsw00051	Fructose and mannose metabolism - Deinococcus swuensis
+path:dsw00052	Galactose metabolism - Deinococcus swuensis
+path:dsw00053	Ascorbate and aldarate metabolism - Deinococcus swuensis
+path:dsw00061	Fatty acid biosynthesis - Deinococcus swuensis
+path:dsw00071	Fatty acid degradation - Deinococcus swuensis
+path:dsw00072	Synthesis and degradation of ketone bodies - Deinococcus swuensis
+path:dsw00121	Secondary bile acid biosynthesis - Deinococcus swuensis
+path:dsw00130	Ubiquinone and other terpenoid-quinone biosynthesis - Deinococcus swuensis
+path:dsw00190	Oxidative phosphorylation - Deinococcus swuensis
+path:dsw00220	Arginine biosynthesis - Deinococcus swuensis
+path:dsw00230	Purine metabolism - Deinococcus swuensis
+path:dsw00240	Pyrimidine metabolism - Deinococcus swuensis
+path:dsw00250	Alanine, aspartate and glutamate metabolism - Deinococcus swuensis
+path:dsw00260	Glycine, serine and threonine metabolism - Deinococcus swuensis
+path:dsw00261	Monobactam biosynthesis - Deinococcus swuensis
+path:dsw00270	Cysteine and methionine metabolism - Deinococcus swuensis
+path:dsw00280	Valine, leucine and isoleucine degradation - Deinococcus swuensis
+path:dsw00281	Geraniol degradation - Deinococcus swuensis
+path:dsw00290	Valine, leucine and isoleucine biosynthesis - Deinococcus swuensis
+path:dsw00300	Lysine biosynthesis - Deinococcus swuensis
+path:dsw00310	Lysine degradation - Deinococcus swuensis
+path:dsw00311	Penicillin and cephalosporin biosynthesis - Deinococcus swuensis
+path:dsw00330	Arginine and proline metabolism - Deinococcus swuensis
+path:dsw00332	Carbapenem biosynthesis - Deinococcus swuensis
+path:dsw00340	Histidine metabolism - Deinococcus swuensis
+path:dsw00350	Tyrosine metabolism - Deinococcus swuensis
+path:dsw00360	Phenylalanine metabolism - Deinococcus swuensis
+path:dsw00362	Benzoate degradation - Deinococcus swuensis
+path:dsw00380	Tryptophan metabolism - Deinococcus swuensis
+path:dsw00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Deinococcus swuensis
+path:dsw00401	Novobiocin biosynthesis - Deinococcus swuensis
+path:dsw00410	beta-Alanine metabolism - Deinococcus swuensis
+path:dsw00430	Taurine and hypotaurine metabolism - Deinococcus swuensis
+path:dsw00440	Phosphonate and phosphinate metabolism - Deinococcus swuensis
+path:dsw00450	Selenocompound metabolism - Deinococcus swuensis
+path:dsw00460	Cyanoamino acid metabolism - Deinococcus swuensis
+path:dsw00471	D-Glutamine and D-glutamate metabolism - Deinococcus swuensis
+path:dsw00473	D-Alanine metabolism - Deinococcus swuensis
+path:dsw00480	Glutathione metabolism - Deinococcus swuensis
+path:dsw00500	Starch and sucrose metabolism - Deinococcus swuensis
+path:dsw00511	Other glycan degradation - Deinococcus swuensis
+path:dsw00520	Amino sugar and nucleotide sugar metabolism - Deinococcus swuensis
+path:dsw00521	Streptomycin biosynthesis - Deinococcus swuensis
+path:dsw00523	Polyketide sugar unit biosynthesis - Deinococcus swuensis
+path:dsw00525	Acarbose and validamycin biosynthesis - Deinococcus swuensis
+path:dsw00550	Peptidoglycan biosynthesis - Deinococcus swuensis
+path:dsw00561	Glycerolipid metabolism - Deinococcus swuensis
+path:dsw00562	Inositol phosphate metabolism - Deinococcus swuensis
+path:dsw00564	Glycerophospholipid metabolism - Deinococcus swuensis
+path:dsw00592	alpha-Linolenic acid metabolism - Deinococcus swuensis
+path:dsw00620	Pyruvate metabolism - Deinococcus swuensis
+path:dsw00625	Chloroalkane and chloroalkene degradation - Deinococcus swuensis
+path:dsw00627	Aminobenzoate degradation - Deinococcus swuensis
+path:dsw00630	Glyoxylate and dicarboxylate metabolism - Deinococcus swuensis
+path:dsw00640	Propanoate metabolism - Deinococcus swuensis
+path:dsw00643	Styrene degradation - Deinococcus swuensis
+path:dsw00650	Butanoate metabolism - Deinococcus swuensis
+path:dsw00660	C5-Branched dibasic acid metabolism - Deinococcus swuensis
+path:dsw00670	One carbon pool by folate - Deinococcus swuensis
+path:dsw00680	Methane metabolism - Deinococcus swuensis
+path:dsw00730	Thiamine metabolism - Deinococcus swuensis
+path:dsw00740	Riboflavin metabolism - Deinococcus swuensis
+path:dsw00750	Vitamin B6 metabolism - Deinococcus swuensis
+path:dsw00760	Nicotinate and nicotinamide metabolism - Deinococcus swuensis
+path:dsw00770	Pantothenate and CoA biosynthesis - Deinococcus swuensis
+path:dsw00780	Biotin metabolism - Deinococcus swuensis
+path:dsw00785	Lipoic acid metabolism - Deinococcus swuensis
+path:dsw00790	Folate biosynthesis - Deinococcus swuensis
+path:dsw00860	Porphyrin and chlorophyll metabolism - Deinococcus swuensis
+path:dsw00900	Terpenoid backbone biosynthesis - Deinococcus swuensis
+path:dsw00903	Limonene and pinene degradation - Deinococcus swuensis
+path:dsw00906	Carotenoid biosynthesis - Deinococcus swuensis
+path:dsw00910	Nitrogen metabolism - Deinococcus swuensis
+path:dsw00920	Sulfur metabolism - Deinococcus swuensis
+path:dsw00930	Caprolactam degradation - Deinococcus swuensis
+path:dsw00970	Aminoacyl-tRNA biosynthesis - Deinococcus swuensis
+path:dsw01040	Biosynthesis of unsaturated fatty acids - Deinococcus swuensis
+path:dsw01100	Metabolic pathways - Deinococcus swuensis
+path:dsw01110	Biosynthesis of secondary metabolites - Deinococcus swuensis
+path:dsw01120	Microbial metabolism in diverse environments - Deinococcus swuensis
+path:dsw01130	Biosynthesis of antibiotics - Deinococcus swuensis
+path:dsw01200	Carbon metabolism - Deinococcus swuensis
+path:dsw01210	2-Oxocarboxylic acid metabolism - Deinococcus swuensis
+path:dsw01212	Fatty acid metabolism - Deinococcus swuensis
+path:dsw01220	Degradation of aromatic compounds - Deinococcus swuensis
+path:dsw01230	Biosynthesis of amino acids - Deinococcus swuensis
+path:dsw01501	beta-Lactam resistance - Deinococcus swuensis
+path:dsw01502	Vancomycin resistance - Deinococcus swuensis
+path:dsw01503	Cationic antimicrobial peptide (CAMP) resistance - Deinococcus swuensis
+path:dsw02010	ABC transporters - Deinococcus swuensis
+path:dsw02020	Two-component system - Deinococcus swuensis
+path:dsw02024	Quorum sensing - Deinococcus swuensis
+path:dsw03010	Ribosome - Deinococcus swuensis
+path:dsw03018	RNA degradation - Deinococcus swuensis
+path:dsw03020	RNA polymerase - Deinococcus swuensis
+path:dsw03030	DNA replication - Deinococcus swuensis
+path:dsw03060	Protein export - Deinococcus swuensis
+path:dsw03070	Bacterial secretion system - Deinococcus swuensis
+path:dsw03410	Base excision repair - Deinococcus swuensis
+path:dsw03420	Nucleotide excision repair - Deinococcus swuensis
+path:dsw03430	Mismatch repair - Deinococcus swuensis
+path:dsw03440	Homologous recombination - Deinococcus swuensis
+path:dsw04122	Sulfur relay system - Deinococcus swuensis
+path:dch00010	Glycolysis / Gluconeogenesis - Deinococcus soli
+path:dch00020	Citrate cycle (TCA cycle) - Deinococcus soli
+path:dch00030	Pentose phosphate pathway - Deinococcus soli
+path:dch00040	Pentose and glucuronate interconversions - Deinococcus soli
+path:dch00051	Fructose and mannose metabolism - Deinococcus soli
+path:dch00052	Galactose metabolism - Deinococcus soli
+path:dch00053	Ascorbate and aldarate metabolism - Deinococcus soli
+path:dch00061	Fatty acid biosynthesis - Deinococcus soli
+path:dch00071	Fatty acid degradation - Deinococcus soli
+path:dch00072	Synthesis and degradation of ketone bodies - Deinococcus soli
+path:dch00130	Ubiquinone and other terpenoid-quinone biosynthesis - Deinococcus soli
+path:dch00190	Oxidative phosphorylation - Deinococcus soli
+path:dch00220	Arginine biosynthesis - Deinococcus soli
+path:dch00230	Purine metabolism - Deinococcus soli
+path:dch00240	Pyrimidine metabolism - Deinococcus soli
+path:dch00250	Alanine, aspartate and glutamate metabolism - Deinococcus soli
+path:dch00260	Glycine, serine and threonine metabolism - Deinococcus soli
+path:dch00261	Monobactam biosynthesis - Deinococcus soli
+path:dch00270	Cysteine and methionine metabolism - Deinococcus soli
+path:dch00280	Valine, leucine and isoleucine degradation - Deinococcus soli
+path:dch00281	Geraniol degradation - Deinococcus soli
+path:dch00290	Valine, leucine and isoleucine biosynthesis - Deinococcus soli
+path:dch00300	Lysine biosynthesis - Deinococcus soli
+path:dch00310	Lysine degradation - Deinococcus soli
+path:dch00311	Penicillin and cephalosporin biosynthesis - Deinococcus soli
+path:dch00330	Arginine and proline metabolism - Deinococcus soli
+path:dch00332	Carbapenem biosynthesis - Deinococcus soli
+path:dch00340	Histidine metabolism - Deinococcus soli
+path:dch00350	Tyrosine metabolism - Deinococcus soli
+path:dch00360	Phenylalanine metabolism - Deinococcus soli
+path:dch00362	Benzoate degradation - Deinococcus soli
+path:dch00380	Tryptophan metabolism - Deinococcus soli
+path:dch00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Deinococcus soli
+path:dch00401	Novobiocin biosynthesis - Deinococcus soli
+path:dch00410	beta-Alanine metabolism - Deinococcus soli
+path:dch00430	Taurine and hypotaurine metabolism - Deinococcus soli
+path:dch00450	Selenocompound metabolism - Deinococcus soli
+path:dch00460	Cyanoamino acid metabolism - Deinococcus soli
+path:dch00471	D-Glutamine and D-glutamate metabolism - Deinococcus soli
+path:dch00473	D-Alanine metabolism - Deinococcus soli
+path:dch00480	Glutathione metabolism - Deinococcus soli
+path:dch00500	Starch and sucrose metabolism - Deinococcus soli
+path:dch00520	Amino sugar and nucleotide sugar metabolism - Deinococcus soli
+path:dch00521	Streptomycin biosynthesis - Deinococcus soli
+path:dch00523	Polyketide sugar unit biosynthesis - Deinococcus soli
+path:dch00550	Peptidoglycan biosynthesis - Deinococcus soli
+path:dch00561	Glycerolipid metabolism - Deinococcus soli
+path:dch00562	Inositol phosphate metabolism - Deinococcus soli
+path:dch00564	Glycerophospholipid metabolism - Deinococcus soli
+path:dch00592	alpha-Linolenic acid metabolism - Deinococcus soli
+path:dch00620	Pyruvate metabolism - Deinococcus soli
+path:dch00622	Xylene degradation - Deinococcus soli
+path:dch00625	Chloroalkane and chloroalkene degradation - Deinococcus soli
+path:dch00627	Aminobenzoate degradation - Deinococcus soli
+path:dch00630	Glyoxylate and dicarboxylate metabolism - Deinococcus soli
+path:dch00640	Propanoate metabolism - Deinococcus soli
+path:dch00643	Styrene degradation - Deinococcus soli
+path:dch00650	Butanoate metabolism - Deinococcus soli
+path:dch00660	C5-Branched dibasic acid metabolism - Deinococcus soli
+path:dch00670	One carbon pool by folate - Deinococcus soli
+path:dch00680	Methane metabolism - Deinococcus soli
+path:dch00730	Thiamine metabolism - Deinococcus soli
+path:dch00740	Riboflavin metabolism - Deinococcus soli
+path:dch00750	Vitamin B6 metabolism - Deinococcus soli
+path:dch00760	Nicotinate and nicotinamide metabolism - Deinococcus soli
+path:dch00770	Pantothenate and CoA biosynthesis - Deinococcus soli
+path:dch00780	Biotin metabolism - Deinococcus soli
+path:dch00785	Lipoic acid metabolism - Deinococcus soli
+path:dch00790	Folate biosynthesis - Deinococcus soli
+path:dch00860	Porphyrin and chlorophyll metabolism - Deinococcus soli
+path:dch00900	Terpenoid backbone biosynthesis - Deinococcus soli
+path:dch00903	Limonene and pinene degradation - Deinococcus soli
+path:dch00906	Carotenoid biosynthesis - Deinococcus soli
+path:dch00910	Nitrogen metabolism - Deinococcus soli
+path:dch00920	Sulfur metabolism - Deinococcus soli
+path:dch00930	Caprolactam degradation - Deinococcus soli
+path:dch00970	Aminoacyl-tRNA biosynthesis - Deinococcus soli
+path:dch01040	Biosynthesis of unsaturated fatty acids - Deinococcus soli
+path:dch01100	Metabolic pathways - Deinococcus soli
+path:dch01110	Biosynthesis of secondary metabolites - Deinococcus soli
+path:dch01120	Microbial metabolism in diverse environments - Deinococcus soli
+path:dch01130	Biosynthesis of antibiotics - Deinococcus soli
+path:dch01200	Carbon metabolism - Deinococcus soli
+path:dch01210	2-Oxocarboxylic acid metabolism - Deinococcus soli
+path:dch01212	Fatty acid metabolism - Deinococcus soli
+path:dch01220	Degradation of aromatic compounds - Deinococcus soli
+path:dch01230	Biosynthesis of amino acids - Deinococcus soli
+path:dch01501	beta-Lactam resistance - Deinococcus soli
+path:dch01502	Vancomycin resistance - Deinococcus soli
+path:dch01503	Cationic antimicrobial peptide (CAMP) resistance - Deinococcus soli
+path:dch02010	ABC transporters - Deinococcus soli
+path:dch02020	Two-component system - Deinococcus soli
+path:dch02024	Quorum sensing - Deinococcus soli
+path:dch03010	Ribosome - Deinococcus soli
+path:dch03018	RNA degradation - Deinococcus soli
+path:dch03020	RNA polymerase - Deinococcus soli
+path:dch03030	DNA replication - Deinococcus soli
+path:dch03060	Protein export - Deinococcus soli
+path:dch03070	Bacterial secretion system - Deinococcus soli
+path:dch03410	Base excision repair - Deinococcus soli
+path:dch03420	Nucleotide excision repair - Deinococcus soli
+path:dch03430	Mismatch repair - Deinococcus soli
+path:dch03440	Homologous recombination - Deinococcus soli
+path:dch04122	Sulfur relay system - Deinococcus soli
+path:dab00010	Glycolysis / Gluconeogenesis - Deinococcus actinosclerus
+path:dab00020	Citrate cycle (TCA cycle) - Deinococcus actinosclerus
+path:dab00030	Pentose phosphate pathway - Deinococcus actinosclerus
+path:dab00040	Pentose and glucuronate interconversions - Deinococcus actinosclerus
+path:dab00051	Fructose and mannose metabolism - Deinococcus actinosclerus
+path:dab00052	Galactose metabolism - Deinococcus actinosclerus
+path:dab00053	Ascorbate and aldarate metabolism - Deinococcus actinosclerus
+path:dab00061	Fatty acid biosynthesis - Deinococcus actinosclerus
+path:dab00071	Fatty acid degradation - Deinococcus actinosclerus
+path:dab00072	Synthesis and degradation of ketone bodies - Deinococcus actinosclerus
+path:dab00130	Ubiquinone and other terpenoid-quinone biosynthesis - Deinococcus actinosclerus
+path:dab00190	Oxidative phosphorylation - Deinococcus actinosclerus
+path:dab00220	Arginine biosynthesis - Deinococcus actinosclerus
+path:dab00230	Purine metabolism - Deinococcus actinosclerus
+path:dab00240	Pyrimidine metabolism - Deinococcus actinosclerus
+path:dab00250	Alanine, aspartate and glutamate metabolism - Deinococcus actinosclerus
+path:dab00260	Glycine, serine and threonine metabolism - Deinococcus actinosclerus
+path:dab00261	Monobactam biosynthesis - Deinococcus actinosclerus
+path:dab00270	Cysteine and methionine metabolism - Deinococcus actinosclerus
+path:dab00280	Valine, leucine and isoleucine degradation - Deinococcus actinosclerus
+path:dab00281	Geraniol degradation - Deinococcus actinosclerus
+path:dab00290	Valine, leucine and isoleucine biosynthesis - Deinococcus actinosclerus
+path:dab00300	Lysine biosynthesis - Deinococcus actinosclerus
+path:dab00310	Lysine degradation - Deinococcus actinosclerus
+path:dab00311	Penicillin and cephalosporin biosynthesis - Deinococcus actinosclerus
+path:dab00330	Arginine and proline metabolism - Deinococcus actinosclerus
+path:dab00332	Carbapenem biosynthesis - Deinococcus actinosclerus
+path:dab00340	Histidine metabolism - Deinococcus actinosclerus
+path:dab00350	Tyrosine metabolism - Deinococcus actinosclerus
+path:dab00360	Phenylalanine metabolism - Deinococcus actinosclerus
+path:dab00362	Benzoate degradation - Deinococcus actinosclerus
+path:dab00380	Tryptophan metabolism - Deinococcus actinosclerus
+path:dab00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Deinococcus actinosclerus
+path:dab00401	Novobiocin biosynthesis - Deinococcus actinosclerus
+path:dab00410	beta-Alanine metabolism - Deinococcus actinosclerus
+path:dab00430	Taurine and hypotaurine metabolism - Deinococcus actinosclerus
+path:dab00440	Phosphonate and phosphinate metabolism - Deinococcus actinosclerus
+path:dab00450	Selenocompound metabolism - Deinococcus actinosclerus
+path:dab00460	Cyanoamino acid metabolism - Deinococcus actinosclerus
+path:dab00471	D-Glutamine and D-glutamate metabolism - Deinococcus actinosclerus
+path:dab00473	D-Alanine metabolism - Deinococcus actinosclerus
+path:dab00480	Glutathione metabolism - Deinococcus actinosclerus
+path:dab00500	Starch and sucrose metabolism - Deinococcus actinosclerus
+path:dab00520	Amino sugar and nucleotide sugar metabolism - Deinococcus actinosclerus
+path:dab00521	Streptomycin biosynthesis - Deinococcus actinosclerus
+path:dab00523	Polyketide sugar unit biosynthesis - Deinococcus actinosclerus
+path:dab00550	Peptidoglycan biosynthesis - Deinococcus actinosclerus
+path:dab00561	Glycerolipid metabolism - Deinococcus actinosclerus
+path:dab00562	Inositol phosphate metabolism - Deinococcus actinosclerus
+path:dab00564	Glycerophospholipid metabolism - Deinococcus actinosclerus
+path:dab00592	alpha-Linolenic acid metabolism - Deinococcus actinosclerus
+path:dab00620	Pyruvate metabolism - Deinococcus actinosclerus
+path:dab00622	Xylene degradation - Deinococcus actinosclerus
+path:dab00625	Chloroalkane and chloroalkene degradation - Deinococcus actinosclerus
+path:dab00627	Aminobenzoate degradation - Deinococcus actinosclerus
+path:dab00630	Glyoxylate and dicarboxylate metabolism - Deinococcus actinosclerus
+path:dab00640	Propanoate metabolism - Deinococcus actinosclerus
+path:dab00643	Styrene degradation - Deinococcus actinosclerus
+path:dab00650	Butanoate metabolism - Deinococcus actinosclerus
+path:dab00660	C5-Branched dibasic acid metabolism - Deinococcus actinosclerus
+path:dab00670	One carbon pool by folate - Deinococcus actinosclerus
+path:dab00680	Methane metabolism - Deinococcus actinosclerus
+path:dab00730	Thiamine metabolism - Deinococcus actinosclerus
+path:dab00740	Riboflavin metabolism - Deinococcus actinosclerus
+path:dab00750	Vitamin B6 metabolism - Deinococcus actinosclerus
+path:dab00760	Nicotinate and nicotinamide metabolism - Deinococcus actinosclerus
+path:dab00770	Pantothenate and CoA biosynthesis - Deinococcus actinosclerus
+path:dab00780	Biotin metabolism - Deinococcus actinosclerus
+path:dab00785	Lipoic acid metabolism - Deinococcus actinosclerus
+path:dab00790	Folate biosynthesis - Deinococcus actinosclerus
+path:dab00860	Porphyrin and chlorophyll metabolism - Deinococcus actinosclerus
+path:dab00900	Terpenoid backbone biosynthesis - Deinococcus actinosclerus
+path:dab00903	Limonene and pinene degradation - Deinococcus actinosclerus
+path:dab00906	Carotenoid biosynthesis - Deinococcus actinosclerus
+path:dab00910	Nitrogen metabolism - Deinococcus actinosclerus
+path:dab00920	Sulfur metabolism - Deinococcus actinosclerus
+path:dab00930	Caprolactam degradation - Deinococcus actinosclerus
+path:dab00970	Aminoacyl-tRNA biosynthesis - Deinococcus actinosclerus
+path:dab01040	Biosynthesis of unsaturated fatty acids - Deinococcus actinosclerus
+path:dab01100	Metabolic pathways - Deinococcus actinosclerus
+path:dab01110	Biosynthesis of secondary metabolites - Deinococcus actinosclerus
+path:dab01120	Microbial metabolism in diverse environments - Deinococcus actinosclerus
+path:dab01130	Biosynthesis of antibiotics - Deinococcus actinosclerus
+path:dab01200	Carbon metabolism - Deinococcus actinosclerus
+path:dab01210	2-Oxocarboxylic acid metabolism - Deinococcus actinosclerus
+path:dab01212	Fatty acid metabolism - Deinococcus actinosclerus
+path:dab01220	Degradation of aromatic compounds - Deinococcus actinosclerus
+path:dab01230	Biosynthesis of amino acids - Deinococcus actinosclerus
+path:dab01501	beta-Lactam resistance - Deinococcus actinosclerus
+path:dab01502	Vancomycin resistance - Deinococcus actinosclerus
+path:dab01503	Cationic antimicrobial peptide (CAMP) resistance - Deinococcus actinosclerus
+path:dab02010	ABC transporters - Deinococcus actinosclerus
+path:dab02020	Two-component system - Deinococcus actinosclerus
+path:dab02024	Quorum sensing - Deinococcus actinosclerus
+path:dab03010	Ribosome - Deinococcus actinosclerus
+path:dab03018	RNA degradation - Deinococcus actinosclerus
+path:dab03020	RNA polymerase - Deinococcus actinosclerus
+path:dab03030	DNA replication - Deinococcus actinosclerus
+path:dab03060	Protein export - Deinococcus actinosclerus
+path:dab03070	Bacterial secretion system - Deinococcus actinosclerus
+path:dab03410	Base excision repair - Deinococcus actinosclerus
+path:dab03420	Nucleotide excision repair - Deinococcus actinosclerus
+path:dab03430	Mismatch repair - Deinococcus actinosclerus
+path:dab03440	Homologous recombination - Deinococcus actinosclerus
+path:dab04122	Sulfur relay system - Deinococcus actinosclerus
+path:dpu00010	Glycolysis / Gluconeogenesis - Deinococcus puniceus
+path:dpu00020	Citrate cycle (TCA cycle) - Deinococcus puniceus
+path:dpu00030	Pentose phosphate pathway - Deinococcus puniceus
+path:dpu00040	Pentose and glucuronate interconversions - Deinococcus puniceus
+path:dpu00051	Fructose and mannose metabolism - Deinococcus puniceus
+path:dpu00052	Galactose metabolism - Deinococcus puniceus
+path:dpu00053	Ascorbate and aldarate metabolism - Deinococcus puniceus
+path:dpu00061	Fatty acid biosynthesis - Deinococcus puniceus
+path:dpu00071	Fatty acid degradation - Deinococcus puniceus
+path:dpu00072	Synthesis and degradation of ketone bodies - Deinococcus puniceus
+path:dpu00130	Ubiquinone and other terpenoid-quinone biosynthesis - Deinococcus puniceus
+path:dpu00190	Oxidative phosphorylation - Deinococcus puniceus
+path:dpu00220	Arginine biosynthesis - Deinococcus puniceus
+path:dpu00230	Purine metabolism - Deinococcus puniceus
+path:dpu00240	Pyrimidine metabolism - Deinococcus puniceus
+path:dpu00250	Alanine, aspartate and glutamate metabolism - Deinococcus puniceus
+path:dpu00260	Glycine, serine and threonine metabolism - Deinococcus puniceus
+path:dpu00261	Monobactam biosynthesis - Deinococcus puniceus
+path:dpu00270	Cysteine and methionine metabolism - Deinococcus puniceus
+path:dpu00280	Valine, leucine and isoleucine degradation - Deinococcus puniceus
+path:dpu00281	Geraniol degradation - Deinococcus puniceus
+path:dpu00290	Valine, leucine and isoleucine biosynthesis - Deinococcus puniceus
+path:dpu00300	Lysine biosynthesis - Deinococcus puniceus
+path:dpu00310	Lysine degradation - Deinococcus puniceus
+path:dpu00311	Penicillin and cephalosporin biosynthesis - Deinococcus puniceus
+path:dpu00330	Arginine and proline metabolism - Deinococcus puniceus
+path:dpu00332	Carbapenem biosynthesis - Deinococcus puniceus
+path:dpu00340	Histidine metabolism - Deinococcus puniceus
+path:dpu00350	Tyrosine metabolism - Deinococcus puniceus
+path:dpu00360	Phenylalanine metabolism - Deinococcus puniceus
+path:dpu00362	Benzoate degradation - Deinococcus puniceus
+path:dpu00380	Tryptophan metabolism - Deinococcus puniceus
+path:dpu00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Deinococcus puniceus
+path:dpu00401	Novobiocin biosynthesis - Deinococcus puniceus
+path:dpu00410	beta-Alanine metabolism - Deinococcus puniceus
+path:dpu00430	Taurine and hypotaurine metabolism - Deinococcus puniceus
+path:dpu00440	Phosphonate and phosphinate metabolism - Deinococcus puniceus
+path:dpu00450	Selenocompound metabolism - Deinococcus puniceus
+path:dpu00460	Cyanoamino acid metabolism - Deinococcus puniceus
+path:dpu00471	D-Glutamine and D-glutamate metabolism - Deinococcus puniceus
+path:dpu00473	D-Alanine metabolism - Deinococcus puniceus
+path:dpu00480	Glutathione metabolism - Deinococcus puniceus
+path:dpu00500	Starch and sucrose metabolism - Deinococcus puniceus
+path:dpu00520	Amino sugar and nucleotide sugar metabolism - Deinococcus puniceus
+path:dpu00521	Streptomycin biosynthesis - Deinococcus puniceus
+path:dpu00550	Peptidoglycan biosynthesis - Deinococcus puniceus
+path:dpu00561	Glycerolipid metabolism - Deinococcus puniceus
+path:dpu00562	Inositol phosphate metabolism - Deinococcus puniceus
+path:dpu00564	Glycerophospholipid metabolism - Deinococcus puniceus
+path:dpu00592	alpha-Linolenic acid metabolism - Deinococcus puniceus
+path:dpu00620	Pyruvate metabolism - Deinococcus puniceus
+path:dpu00622	Xylene degradation - Deinococcus puniceus
+path:dpu00625	Chloroalkane and chloroalkene degradation - Deinococcus puniceus
+path:dpu00627	Aminobenzoate degradation - Deinococcus puniceus
+path:dpu00630	Glyoxylate and dicarboxylate metabolism - Deinococcus puniceus
+path:dpu00640	Propanoate metabolism - Deinococcus puniceus
+path:dpu00643	Styrene degradation - Deinococcus puniceus
+path:dpu00650	Butanoate metabolism - Deinococcus puniceus
+path:dpu00660	C5-Branched dibasic acid metabolism - Deinococcus puniceus
+path:dpu00670	One carbon pool by folate - Deinococcus puniceus
+path:dpu00680	Methane metabolism - Deinococcus puniceus
+path:dpu00730	Thiamine metabolism - Deinococcus puniceus
+path:dpu00740	Riboflavin metabolism - Deinococcus puniceus
+path:dpu00750	Vitamin B6 metabolism - Deinococcus puniceus
+path:dpu00760	Nicotinate and nicotinamide metabolism - Deinococcus puniceus
+path:dpu00770	Pantothenate and CoA biosynthesis - Deinococcus puniceus
+path:dpu00780	Biotin metabolism - Deinococcus puniceus
+path:dpu00785	Lipoic acid metabolism - Deinococcus puniceus
+path:dpu00790	Folate biosynthesis - Deinococcus puniceus
+path:dpu00860	Porphyrin and chlorophyll metabolism - Deinococcus puniceus
+path:dpu00900	Terpenoid backbone biosynthesis - Deinococcus puniceus
+path:dpu00903	Limonene and pinene degradation - Deinococcus puniceus
+path:dpu00906	Carotenoid biosynthesis - Deinococcus puniceus
+path:dpu00910	Nitrogen metabolism - Deinococcus puniceus
+path:dpu00920	Sulfur metabolism - Deinococcus puniceus
+path:dpu00930	Caprolactam degradation - Deinococcus puniceus
+path:dpu00970	Aminoacyl-tRNA biosynthesis - Deinococcus puniceus
+path:dpu01040	Biosynthesis of unsaturated fatty acids - Deinococcus puniceus
+path:dpu01054	Nonribosomal peptide structures - Deinococcus puniceus
+path:dpu01100	Metabolic pathways - Deinococcus puniceus
+path:dpu01110	Biosynthesis of secondary metabolites - Deinococcus puniceus
+path:dpu01120	Microbial metabolism in diverse environments - Deinococcus puniceus
+path:dpu01130	Biosynthesis of antibiotics - Deinococcus puniceus
+path:dpu01200	Carbon metabolism - Deinococcus puniceus
+path:dpu01210	2-Oxocarboxylic acid metabolism - Deinococcus puniceus
+path:dpu01212	Fatty acid metabolism - Deinococcus puniceus
+path:dpu01220	Degradation of aromatic compounds - Deinococcus puniceus
+path:dpu01230	Biosynthesis of amino acids - Deinococcus puniceus
+path:dpu01501	beta-Lactam resistance - Deinococcus puniceus
+path:dpu01502	Vancomycin resistance - Deinococcus puniceus
+path:dpu01503	Cationic antimicrobial peptide (CAMP) resistance - Deinococcus puniceus
+path:dpu02010	ABC transporters - Deinococcus puniceus
+path:dpu02020	Two-component system - Deinococcus puniceus
+path:dpu02024	Quorum sensing - Deinococcus puniceus
+path:dpu03010	Ribosome - Deinococcus puniceus
+path:dpu03018	RNA degradation - Deinococcus puniceus
+path:dpu03020	RNA polymerase - Deinococcus puniceus
+path:dpu03030	DNA replication - Deinococcus puniceus
+path:dpu03060	Protein export - Deinococcus puniceus
+path:dpu03070	Bacterial secretion system - Deinococcus puniceus
+path:dpu03410	Base excision repair - Deinococcus puniceus
+path:dpu03420	Nucleotide excision repair - Deinococcus puniceus
+path:dpu03430	Mismatch repair - Deinococcus puniceus
+path:dpu03440	Homologous recombination - Deinococcus puniceus
+path:dpu04122	Sulfur relay system - Deinococcus puniceus
+path:tra00010	Glycolysis / Gluconeogenesis - Truepera radiovictrix
+path:tra00020	Citrate cycle (TCA cycle) - Truepera radiovictrix
+path:tra00030	Pentose phosphate pathway - Truepera radiovictrix
+path:tra00040	Pentose and glucuronate interconversions - Truepera radiovictrix
+path:tra00051	Fructose and mannose metabolism - Truepera radiovictrix
+path:tra00052	Galactose metabolism - Truepera radiovictrix
+path:tra00053	Ascorbate and aldarate metabolism - Truepera radiovictrix
+path:tra00061	Fatty acid biosynthesis - Truepera radiovictrix
+path:tra00071	Fatty acid degradation - Truepera radiovictrix
+path:tra00072	Synthesis and degradation of ketone bodies - Truepera radiovictrix
+path:tra00130	Ubiquinone and other terpenoid-quinone biosynthesis - Truepera radiovictrix
+path:tra00190	Oxidative phosphorylation - Truepera radiovictrix
+path:tra00220	Arginine biosynthesis - Truepera radiovictrix
+path:tra00230	Purine metabolism - Truepera radiovictrix
+path:tra00240	Pyrimidine metabolism - Truepera radiovictrix
+path:tra00250	Alanine, aspartate and glutamate metabolism - Truepera radiovictrix
+path:tra00260	Glycine, serine and threonine metabolism - Truepera radiovictrix
+path:tra00261	Monobactam biosynthesis - Truepera radiovictrix
+path:tra00270	Cysteine and methionine metabolism - Truepera radiovictrix
+path:tra00280	Valine, leucine and isoleucine degradation - Truepera radiovictrix
+path:tra00281	Geraniol degradation - Truepera radiovictrix
+path:tra00290	Valine, leucine and isoleucine biosynthesis - Truepera radiovictrix
+path:tra00300	Lysine biosynthesis - Truepera radiovictrix
+path:tra00310	Lysine degradation - Truepera radiovictrix
+path:tra00330	Arginine and proline metabolism - Truepera radiovictrix
+path:tra00332	Carbapenem biosynthesis - Truepera radiovictrix
+path:tra00340	Histidine metabolism - Truepera radiovictrix
+path:tra00350	Tyrosine metabolism - Truepera radiovictrix
+path:tra00360	Phenylalanine metabolism - Truepera radiovictrix
+path:tra00361	Chlorocyclohexane and chlorobenzene degradation - Truepera radiovictrix
+path:tra00362	Benzoate degradation - Truepera radiovictrix
+path:tra00364	Fluorobenzoate degradation - Truepera radiovictrix
+path:tra00380	Tryptophan metabolism - Truepera radiovictrix
+path:tra00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Truepera radiovictrix
+path:tra00401	Novobiocin biosynthesis - Truepera radiovictrix
+path:tra00405	Phenazine biosynthesis - Truepera radiovictrix
+path:tra00410	beta-Alanine metabolism - Truepera radiovictrix
+path:tra00430	Taurine and hypotaurine metabolism - Truepera radiovictrix
+path:tra00440	Phosphonate and phosphinate metabolism - Truepera radiovictrix
+path:tra00450	Selenocompound metabolism - Truepera radiovictrix
+path:tra00460	Cyanoamino acid metabolism - Truepera radiovictrix
+path:tra00471	D-Glutamine and D-glutamate metabolism - Truepera radiovictrix
+path:tra00473	D-Alanine metabolism - Truepera radiovictrix
+path:tra00480	Glutathione metabolism - Truepera radiovictrix
+path:tra00500	Starch and sucrose metabolism - Truepera radiovictrix
+path:tra00511	Other glycan degradation - Truepera radiovictrix
+path:tra00520	Amino sugar and nucleotide sugar metabolism - Truepera radiovictrix
+path:tra00521	Streptomycin biosynthesis - Truepera radiovictrix
+path:tra00523	Polyketide sugar unit biosynthesis - Truepera radiovictrix
+path:tra00525	Acarbose and validamycin biosynthesis - Truepera radiovictrix
+path:tra00540	Lipopolysaccharide biosynthesis - Truepera radiovictrix
+path:tra00550	Peptidoglycan biosynthesis - Truepera radiovictrix
+path:tra00561	Glycerolipid metabolism - Truepera radiovictrix
+path:tra00562	Inositol phosphate metabolism - Truepera radiovictrix
+path:tra00564	Glycerophospholipid metabolism - Truepera radiovictrix
+path:tra00592	alpha-Linolenic acid metabolism - Truepera radiovictrix
+path:tra00620	Pyruvate metabolism - Truepera radiovictrix
+path:tra00622	Xylene degradation - Truepera radiovictrix
+path:tra00623	Toluene degradation - Truepera radiovictrix
+path:tra00625	Chloroalkane and chloroalkene degradation - Truepera radiovictrix
+path:tra00626	Naphthalene degradation - Truepera radiovictrix
+path:tra00627	Aminobenzoate degradation - Truepera radiovictrix
+path:tra00630	Glyoxylate and dicarboxylate metabolism - Truepera radiovictrix
+path:tra00640	Propanoate metabolism - Truepera radiovictrix
+path:tra00643	Styrene degradation - Truepera radiovictrix
+path:tra00650	Butanoate metabolism - Truepera radiovictrix
+path:tra00660	C5-Branched dibasic acid metabolism - Truepera radiovictrix
+path:tra00670	One carbon pool by folate - Truepera radiovictrix
+path:tra00680	Methane metabolism - Truepera radiovictrix
+path:tra00730	Thiamine metabolism - Truepera radiovictrix
+path:tra00740	Riboflavin metabolism - Truepera radiovictrix
+path:tra00750	Vitamin B6 metabolism - Truepera radiovictrix
+path:tra00760	Nicotinate and nicotinamide metabolism - Truepera radiovictrix
+path:tra00770	Pantothenate and CoA biosynthesis - Truepera radiovictrix
+path:tra00780	Biotin metabolism - Truepera radiovictrix
+path:tra00785	Lipoic acid metabolism - Truepera radiovictrix
+path:tra00790	Folate biosynthesis - Truepera radiovictrix
+path:tra00860	Porphyrin and chlorophyll metabolism - Truepera radiovictrix
+path:tra00900	Terpenoid backbone biosynthesis - Truepera radiovictrix
+path:tra00903	Limonene and pinene degradation - Truepera radiovictrix
+path:tra00906	Carotenoid biosynthesis - Truepera radiovictrix
+path:tra00910	Nitrogen metabolism - Truepera radiovictrix
+path:tra00920	Sulfur metabolism - Truepera radiovictrix
+path:tra00930	Caprolactam degradation - Truepera radiovictrix
+path:tra00970	Aminoacyl-tRNA biosynthesis - Truepera radiovictrix
+path:tra01040	Biosynthesis of unsaturated fatty acids - Truepera radiovictrix
+path:tra01100	Metabolic pathways - Truepera radiovictrix
+path:tra01110	Biosynthesis of secondary metabolites - Truepera radiovictrix
+path:tra01120	Microbial metabolism in diverse environments - Truepera radiovictrix
+path:tra01130	Biosynthesis of antibiotics - Truepera radiovictrix
+path:tra01200	Carbon metabolism - Truepera radiovictrix
+path:tra01210	2-Oxocarboxylic acid metabolism - Truepera radiovictrix
+path:tra01212	Fatty acid metabolism - Truepera radiovictrix
+path:tra01220	Degradation of aromatic compounds - Truepera radiovictrix
+path:tra01230	Biosynthesis of amino acids - Truepera radiovictrix
+path:tra01501	beta-Lactam resistance - Truepera radiovictrix
+path:tra01502	Vancomycin resistance - Truepera radiovictrix
+path:tra01503	Cationic antimicrobial peptide (CAMP) resistance - Truepera radiovictrix
+path:tra02010	ABC transporters - Truepera radiovictrix
+path:tra02020	Two-component system - Truepera radiovictrix
+path:tra02024	Quorum sensing - Truepera radiovictrix
+path:tra03010	Ribosome - Truepera radiovictrix
+path:tra03018	RNA degradation - Truepera radiovictrix
+path:tra03020	RNA polymerase - Truepera radiovictrix
+path:tra03030	DNA replication - Truepera radiovictrix
+path:tra03060	Protein export - Truepera radiovictrix
+path:tra03070	Bacterial secretion system - Truepera radiovictrix
+path:tra03410	Base excision repair - Truepera radiovictrix
+path:tra03420	Nucleotide excision repair - Truepera radiovictrix
+path:tra03430	Mismatch repair - Truepera radiovictrix
+path:tra03440	Homologous recombination - Truepera radiovictrix
+path:tra04122	Sulfur relay system - Truepera radiovictrix
+path:tth00010	Glycolysis / Gluconeogenesis - Thermus thermophilus HB27
+path:tth00020	Citrate cycle (TCA cycle) - Thermus thermophilus HB27
+path:tth00030	Pentose phosphate pathway - Thermus thermophilus HB27
+path:tth00040	Pentose and glucuronate interconversions - Thermus thermophilus HB27
+path:tth00051	Fructose and mannose metabolism - Thermus thermophilus HB27
+path:tth00052	Galactose metabolism - Thermus thermophilus HB27
+path:tth00061	Fatty acid biosynthesis - Thermus thermophilus HB27
+path:tth00071	Fatty acid degradation - Thermus thermophilus HB27
+path:tth00072	Synthesis and degradation of ketone bodies - Thermus thermophilus HB27
+path:tth00130	Ubiquinone and other terpenoid-quinone biosynthesis - Thermus thermophilus HB27
+path:tth00190	Oxidative phosphorylation - Thermus thermophilus HB27
+path:tth00220	Arginine biosynthesis - Thermus thermophilus HB27
+path:tth00230	Purine metabolism - Thermus thermophilus HB27
+path:tth00240	Pyrimidine metabolism - Thermus thermophilus HB27
+path:tth00250	Alanine, aspartate and glutamate metabolism - Thermus thermophilus HB27
+path:tth00260	Glycine, serine and threonine metabolism - Thermus thermophilus HB27
+path:tth00261	Monobactam biosynthesis - Thermus thermophilus HB27
+path:tth00270	Cysteine and methionine metabolism - Thermus thermophilus HB27
+path:tth00280	Valine, leucine and isoleucine degradation - Thermus thermophilus HB27
+path:tth00281	Geraniol degradation - Thermus thermophilus HB27
+path:tth00290	Valine, leucine and isoleucine biosynthesis - Thermus thermophilus HB27
+path:tth00300	Lysine biosynthesis - Thermus thermophilus HB27
+path:tth00310	Lysine degradation - Thermus thermophilus HB27
+path:tth00330	Arginine and proline metabolism - Thermus thermophilus HB27
+path:tth00332	Carbapenem biosynthesis - Thermus thermophilus HB27
+path:tth00340	Histidine metabolism - Thermus thermophilus HB27
+path:tth00350	Tyrosine metabolism - Thermus thermophilus HB27
+path:tth00360	Phenylalanine metabolism - Thermus thermophilus HB27
+path:tth00361	Chlorocyclohexane and chlorobenzene degradation - Thermus thermophilus HB27
+path:tth00362	Benzoate degradation - Thermus thermophilus HB27
+path:tth00380	Tryptophan metabolism - Thermus thermophilus HB27
+path:tth00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Thermus thermophilus HB27
+path:tth00401	Novobiocin biosynthesis - Thermus thermophilus HB27
+path:tth00410	beta-Alanine metabolism - Thermus thermophilus HB27
+path:tth00430	Taurine and hypotaurine metabolism - Thermus thermophilus HB27
+path:tth00450	Selenocompound metabolism - Thermus thermophilus HB27
+path:tth00460	Cyanoamino acid metabolism - Thermus thermophilus HB27
+path:tth00471	D-Glutamine and D-glutamate metabolism - Thermus thermophilus HB27
+path:tth00473	D-Alanine metabolism - Thermus thermophilus HB27
+path:tth00480	Glutathione metabolism - Thermus thermophilus HB27
+path:tth00500	Starch and sucrose metabolism - Thermus thermophilus HB27
+path:tth00511	Other glycan degradation - Thermus thermophilus HB27
+path:tth00520	Amino sugar and nucleotide sugar metabolism - Thermus thermophilus HB27
+path:tth00521	Streptomycin biosynthesis - Thermus thermophilus HB27
+path:tth00550	Peptidoglycan biosynthesis - Thermus thermophilus HB27
+path:tth00561	Glycerolipid metabolism - Thermus thermophilus HB27
+path:tth00562	Inositol phosphate metabolism - Thermus thermophilus HB27
+path:tth00564	Glycerophospholipid metabolism - Thermus thermophilus HB27
+path:tth00592	alpha-Linolenic acid metabolism - Thermus thermophilus HB27
+path:tth00600	Sphingolipid metabolism - Thermus thermophilus HB27
+path:tth00620	Pyruvate metabolism - Thermus thermophilus HB27
+path:tth00622	Xylene degradation - Thermus thermophilus HB27
+path:tth00623	Toluene degradation - Thermus thermophilus HB27
+path:tth00625	Chloroalkane and chloroalkene degradation - Thermus thermophilus HB27
+path:tth00626	Naphthalene degradation - Thermus thermophilus HB27
+path:tth00627	Aminobenzoate degradation - Thermus thermophilus HB27
+path:tth00630	Glyoxylate and dicarboxylate metabolism - Thermus thermophilus HB27
+path:tth00640	Propanoate metabolism - Thermus thermophilus HB27
+path:tth00650	Butanoate metabolism - Thermus thermophilus HB27
+path:tth00660	C5-Branched dibasic acid metabolism - Thermus thermophilus HB27
+path:tth00670	One carbon pool by folate - Thermus thermophilus HB27
+path:tth00680	Methane metabolism - Thermus thermophilus HB27
+path:tth00710	Carbon fixation in photosynthetic organisms - Thermus thermophilus HB27
+path:tth00730	Thiamine metabolism - Thermus thermophilus HB27
+path:tth00740	Riboflavin metabolism - Thermus thermophilus HB27
+path:tth00750	Vitamin B6 metabolism - Thermus thermophilus HB27
+path:tth00760	Nicotinate and nicotinamide metabolism - Thermus thermophilus HB27
+path:tth00770	Pantothenate and CoA biosynthesis - Thermus thermophilus HB27
+path:tth00780	Biotin metabolism - Thermus thermophilus HB27
+path:tth00785	Lipoic acid metabolism - Thermus thermophilus HB27
+path:tth00790	Folate biosynthesis - Thermus thermophilus HB27
+path:tth00860	Porphyrin and chlorophyll metabolism - Thermus thermophilus HB27
+path:tth00900	Terpenoid backbone biosynthesis - Thermus thermophilus HB27
+path:tth00903	Limonene and pinene degradation - Thermus thermophilus HB27
+path:tth00906	Carotenoid biosynthesis - Thermus thermophilus HB27
+path:tth00910	Nitrogen metabolism - Thermus thermophilus HB27
+path:tth00920	Sulfur metabolism - Thermus thermophilus HB27
+path:tth00970	Aminoacyl-tRNA biosynthesis - Thermus thermophilus HB27
+path:tth01040	Biosynthesis of unsaturated fatty acids - Thermus thermophilus HB27
+path:tth01100	Metabolic pathways - Thermus thermophilus HB27
+path:tth01110	Biosynthesis of secondary metabolites - Thermus thermophilus HB27
+path:tth01120	Microbial metabolism in diverse environments - Thermus thermophilus HB27
+path:tth01130	Biosynthesis of antibiotics - Thermus thermophilus HB27
+path:tth01200	Carbon metabolism - Thermus thermophilus HB27
+path:tth01210	2-Oxocarboxylic acid metabolism - Thermus thermophilus HB27
+path:tth01212	Fatty acid metabolism - Thermus thermophilus HB27
+path:tth01220	Degradation of aromatic compounds - Thermus thermophilus HB27
+path:tth01230	Biosynthesis of amino acids - Thermus thermophilus HB27
+path:tth01501	beta-Lactam resistance - Thermus thermophilus HB27
+path:tth01502	Vancomycin resistance - Thermus thermophilus HB27
+path:tth01503	Cationic antimicrobial peptide (CAMP) resistance - Thermus thermophilus HB27
+path:tth02010	ABC transporters - Thermus thermophilus HB27
+path:tth02020	Two-component system - Thermus thermophilus HB27
+path:tth02024	Quorum sensing - Thermus thermophilus HB27
+path:tth03010	Ribosome - Thermus thermophilus HB27
+path:tth03018	RNA degradation - Thermus thermophilus HB27
+path:tth03020	RNA polymerase - Thermus thermophilus HB27
+path:tth03030	DNA replication - Thermus thermophilus HB27
+path:tth03060	Protein export - Thermus thermophilus HB27
+path:tth03070	Bacterial secretion system - Thermus thermophilus HB27
+path:tth03410	Base excision repair - Thermus thermophilus HB27
+path:tth03420	Nucleotide excision repair - Thermus thermophilus HB27
+path:tth03430	Mismatch repair - Thermus thermophilus HB27
+path:tth03440	Homologous recombination - Thermus thermophilus HB27
+path:tth04122	Sulfur relay system - Thermus thermophilus HB27
+path:ttj00010	Glycolysis / Gluconeogenesis - Thermus thermophilus HB8
+path:ttj00020	Citrate cycle (TCA cycle) - Thermus thermophilus HB8
+path:ttj00030	Pentose phosphate pathway - Thermus thermophilus HB8
+path:ttj00040	Pentose and glucuronate interconversions - Thermus thermophilus HB8
+path:ttj00051	Fructose and mannose metabolism - Thermus thermophilus HB8
+path:ttj00052	Galactose metabolism - Thermus thermophilus HB8
+path:ttj00061	Fatty acid biosynthesis - Thermus thermophilus HB8
+path:ttj00071	Fatty acid degradation - Thermus thermophilus HB8
+path:ttj00072	Synthesis and degradation of ketone bodies - Thermus thermophilus HB8
+path:ttj00130	Ubiquinone and other terpenoid-quinone biosynthesis - Thermus thermophilus HB8
+path:ttj00190	Oxidative phosphorylation - Thermus thermophilus HB8
+path:ttj00220	Arginine biosynthesis - Thermus thermophilus HB8
+path:ttj00230	Purine metabolism - Thermus thermophilus HB8
+path:ttj00240	Pyrimidine metabolism - Thermus thermophilus HB8
+path:ttj00250	Alanine, aspartate and glutamate metabolism - Thermus thermophilus HB8
+path:ttj00260	Glycine, serine and threonine metabolism - Thermus thermophilus HB8
+path:ttj00261	Monobactam biosynthesis - Thermus thermophilus HB8
+path:ttj00270	Cysteine and methionine metabolism - Thermus thermophilus HB8
+path:ttj00280	Valine, leucine and isoleucine degradation - Thermus thermophilus HB8
+path:ttj00281	Geraniol degradation - Thermus thermophilus HB8
+path:ttj00290	Valine, leucine and isoleucine biosynthesis - Thermus thermophilus HB8
+path:ttj00300	Lysine biosynthesis - Thermus thermophilus HB8
+path:ttj00310	Lysine degradation - Thermus thermophilus HB8
+path:ttj00330	Arginine and proline metabolism - Thermus thermophilus HB8
+path:ttj00332	Carbapenem biosynthesis - Thermus thermophilus HB8
+path:ttj00340	Histidine metabolism - Thermus thermophilus HB8
+path:ttj00350	Tyrosine metabolism - Thermus thermophilus HB8
+path:ttj00360	Phenylalanine metabolism - Thermus thermophilus HB8
+path:ttj00362	Benzoate degradation - Thermus thermophilus HB8
+path:ttj00380	Tryptophan metabolism - Thermus thermophilus HB8
+path:ttj00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Thermus thermophilus HB8
+path:ttj00401	Novobiocin biosynthesis - Thermus thermophilus HB8
+path:ttj00410	beta-Alanine metabolism - Thermus thermophilus HB8
+path:ttj00430	Taurine and hypotaurine metabolism - Thermus thermophilus HB8
+path:ttj00450	Selenocompound metabolism - Thermus thermophilus HB8
+path:ttj00460	Cyanoamino acid metabolism - Thermus thermophilus HB8
+path:ttj00471	D-Glutamine and D-glutamate metabolism - Thermus thermophilus HB8
+path:ttj00473	D-Alanine metabolism - Thermus thermophilus HB8
+path:ttj00480	Glutathione metabolism - Thermus thermophilus HB8
+path:ttj00500	Starch and sucrose metabolism - Thermus thermophilus HB8
+path:ttj00511	Other glycan degradation - Thermus thermophilus HB8
+path:ttj00520	Amino sugar and nucleotide sugar metabolism - Thermus thermophilus HB8
+path:ttj00521	Streptomycin biosynthesis - Thermus thermophilus HB8
+path:ttj00550	Peptidoglycan biosynthesis - Thermus thermophilus HB8
+path:ttj00561	Glycerolipid metabolism - Thermus thermophilus HB8
+path:ttj00562	Inositol phosphate metabolism - Thermus thermophilus HB8
+path:ttj00564	Glycerophospholipid metabolism - Thermus thermophilus HB8
+path:ttj00592	alpha-Linolenic acid metabolism - Thermus thermophilus HB8
+path:ttj00600	Sphingolipid metabolism - Thermus thermophilus HB8
+path:ttj00620	Pyruvate metabolism - Thermus thermophilus HB8
+path:ttj00621	Dioxin degradation - Thermus thermophilus HB8
+path:ttj00622	Xylene degradation - Thermus thermophilus HB8
+path:ttj00627	Aminobenzoate degradation - Thermus thermophilus HB8
+path:ttj00630	Glyoxylate and dicarboxylate metabolism - Thermus thermophilus HB8
+path:ttj00640	Propanoate metabolism - Thermus thermophilus HB8
+path:ttj00643	Styrene degradation - Thermus thermophilus HB8
+path:ttj00650	Butanoate metabolism - Thermus thermophilus HB8
+path:ttj00660	C5-Branched dibasic acid metabolism - Thermus thermophilus HB8
+path:ttj00670	One carbon pool by folate - Thermus thermophilus HB8
+path:ttj00680	Methane metabolism - Thermus thermophilus HB8
+path:ttj00710	Carbon fixation in photosynthetic organisms - Thermus thermophilus HB8
+path:ttj00730	Thiamine metabolism - Thermus thermophilus HB8
+path:ttj00740	Riboflavin metabolism - Thermus thermophilus HB8
+path:ttj00750	Vitamin B6 metabolism - Thermus thermophilus HB8
+path:ttj00760	Nicotinate and nicotinamide metabolism - Thermus thermophilus HB8
+path:ttj00770	Pantothenate and CoA biosynthesis - Thermus thermophilus HB8
+path:ttj00780	Biotin metabolism - Thermus thermophilus HB8
+path:ttj00785	Lipoic acid metabolism - Thermus thermophilus HB8
+path:ttj00790	Folate biosynthesis - Thermus thermophilus HB8
+path:ttj00860	Porphyrin and chlorophyll metabolism - Thermus thermophilus HB8
+path:ttj00900	Terpenoid backbone biosynthesis - Thermus thermophilus HB8
+path:ttj00903	Limonene and pinene degradation - Thermus thermophilus HB8
+path:ttj00906	Carotenoid biosynthesis - Thermus thermophilus HB8
+path:ttj00910	Nitrogen metabolism - Thermus thermophilus HB8
+path:ttj00920	Sulfur metabolism - Thermus thermophilus HB8
+path:ttj00970	Aminoacyl-tRNA biosynthesis - Thermus thermophilus HB8
+path:ttj01040	Biosynthesis of unsaturated fatty acids - Thermus thermophilus HB8
+path:ttj01100	Metabolic pathways - Thermus thermophilus HB8
+path:ttj01110	Biosynthesis of secondary metabolites - Thermus thermophilus HB8
+path:ttj01120	Microbial metabolism in diverse environments - Thermus thermophilus HB8
+path:ttj01130	Biosynthesis of antibiotics - Thermus thermophilus HB8
+path:ttj01200	Carbon metabolism - Thermus thermophilus HB8
+path:ttj01210	2-Oxocarboxylic acid metabolism - Thermus thermophilus HB8
+path:ttj01212	Fatty acid metabolism - Thermus thermophilus HB8
+path:ttj01220	Degradation of aromatic compounds - Thermus thermophilus HB8
+path:ttj01230	Biosynthesis of amino acids - Thermus thermophilus HB8
+path:ttj01501	beta-Lactam resistance - Thermus thermophilus HB8
+path:ttj01502	Vancomycin resistance - Thermus thermophilus HB8
+path:ttj01503	Cationic antimicrobial peptide (CAMP) resistance - Thermus thermophilus HB8
+path:ttj02010	ABC transporters - Thermus thermophilus HB8
+path:ttj02020	Two-component system - Thermus thermophilus HB8
+path:ttj02024	Quorum sensing - Thermus thermophilus HB8
+path:ttj03010	Ribosome - Thermus thermophilus HB8
+path:ttj03018	RNA degradation - Thermus thermophilus HB8
+path:ttj03020	RNA polymerase - Thermus thermophilus HB8
+path:ttj03030	DNA replication - Thermus thermophilus HB8
+path:ttj03060	Protein export - Thermus thermophilus HB8
+path:ttj03070	Bacterial secretion system - Thermus thermophilus HB8
+path:ttj03410	Base excision repair - Thermus thermophilus HB8
+path:ttj03420	Nucleotide excision repair - Thermus thermophilus HB8
+path:ttj03430	Mismatch repair - Thermus thermophilus HB8
+path:ttj03440	Homologous recombination - Thermus thermophilus HB8
+path:ttj04122	Sulfur relay system - Thermus thermophilus HB8
+path:tts00010	Glycolysis / Gluconeogenesis - Thermus thermophilus SG0.5JP17-16
+path:tts00020	Citrate cycle (TCA cycle) - Thermus thermophilus SG0.5JP17-16
+path:tts00030	Pentose phosphate pathway - Thermus thermophilus SG0.5JP17-16
+path:tts00040	Pentose and glucuronate interconversions - Thermus thermophilus SG0.5JP17-16
+path:tts00051	Fructose and mannose metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00052	Galactose metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00061	Fatty acid biosynthesis - Thermus thermophilus SG0.5JP17-16
+path:tts00071	Fatty acid degradation - Thermus thermophilus SG0.5JP17-16
+path:tts00072	Synthesis and degradation of ketone bodies - Thermus thermophilus SG0.5JP17-16
+path:tts00130	Ubiquinone and other terpenoid-quinone biosynthesis - Thermus thermophilus SG0.5JP17-16
+path:tts00190	Oxidative phosphorylation - Thermus thermophilus SG0.5JP17-16
+path:tts00220	Arginine biosynthesis - Thermus thermophilus SG0.5JP17-16
+path:tts00230	Purine metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00240	Pyrimidine metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00250	Alanine, aspartate and glutamate metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00260	Glycine, serine and threonine metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00261	Monobactam biosynthesis - Thermus thermophilus SG0.5JP17-16
+path:tts00270	Cysteine and methionine metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00280	Valine, leucine and isoleucine degradation - Thermus thermophilus SG0.5JP17-16
+path:tts00281	Geraniol degradation - Thermus thermophilus SG0.5JP17-16
+path:tts00290	Valine, leucine and isoleucine biosynthesis - Thermus thermophilus SG0.5JP17-16
+path:tts00300	Lysine biosynthesis - Thermus thermophilus SG0.5JP17-16
+path:tts00310	Lysine degradation - Thermus thermophilus SG0.5JP17-16
+path:tts00330	Arginine and proline metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00332	Carbapenem biosynthesis - Thermus thermophilus SG0.5JP17-16
+path:tts00340	Histidine metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00350	Tyrosine metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00360	Phenylalanine metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00362	Benzoate degradation - Thermus thermophilus SG0.5JP17-16
+path:tts00380	Tryptophan metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Thermus thermophilus SG0.5JP17-16
+path:tts00401	Novobiocin biosynthesis - Thermus thermophilus SG0.5JP17-16
+path:tts00410	beta-Alanine metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00430	Taurine and hypotaurine metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00450	Selenocompound metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00460	Cyanoamino acid metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00471	D-Glutamine and D-glutamate metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00473	D-Alanine metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00480	Glutathione metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00500	Starch and sucrose metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00520	Amino sugar and nucleotide sugar metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00521	Streptomycin biosynthesis - Thermus thermophilus SG0.5JP17-16
+path:tts00523	Polyketide sugar unit biosynthesis - Thermus thermophilus SG0.5JP17-16
+path:tts00525	Acarbose and validamycin biosynthesis - Thermus thermophilus SG0.5JP17-16
+path:tts00540	Lipopolysaccharide biosynthesis - Thermus thermophilus SG0.5JP17-16
+path:tts00550	Peptidoglycan biosynthesis - Thermus thermophilus SG0.5JP17-16
+path:tts00561	Glycerolipid metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00562	Inositol phosphate metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00564	Glycerophospholipid metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00592	alpha-Linolenic acid metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00620	Pyruvate metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00622	Xylene degradation - Thermus thermophilus SG0.5JP17-16
+path:tts00625	Chloroalkane and chloroalkene degradation - Thermus thermophilus SG0.5JP17-16
+path:tts00626	Naphthalene degradation - Thermus thermophilus SG0.5JP17-16
+path:tts00627	Aminobenzoate degradation - Thermus thermophilus SG0.5JP17-16
+path:tts00630	Glyoxylate and dicarboxylate metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00640	Propanoate metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00650	Butanoate metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00660	C5-Branched dibasic acid metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00670	One carbon pool by folate - Thermus thermophilus SG0.5JP17-16
+path:tts00680	Methane metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00710	Carbon fixation in photosynthetic organisms - Thermus thermophilus SG0.5JP17-16
+path:tts00730	Thiamine metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00740	Riboflavin metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00750	Vitamin B6 metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00760	Nicotinate and nicotinamide metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00770	Pantothenate and CoA biosynthesis - Thermus thermophilus SG0.5JP17-16
+path:tts00780	Biotin metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00785	Lipoic acid metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00790	Folate biosynthesis - Thermus thermophilus SG0.5JP17-16
+path:tts00860	Porphyrin and chlorophyll metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00900	Terpenoid backbone biosynthesis - Thermus thermophilus SG0.5JP17-16
+path:tts00903	Limonene and pinene degradation - Thermus thermophilus SG0.5JP17-16
+path:tts00906	Carotenoid biosynthesis - Thermus thermophilus SG0.5JP17-16
+path:tts00910	Nitrogen metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00920	Sulfur metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts00970	Aminoacyl-tRNA biosynthesis - Thermus thermophilus SG0.5JP17-16
+path:tts01040	Biosynthesis of unsaturated fatty acids - Thermus thermophilus SG0.5JP17-16
+path:tts01100	Metabolic pathways - Thermus thermophilus SG0.5JP17-16
+path:tts01110	Biosynthesis of secondary metabolites - Thermus thermophilus SG0.5JP17-16
+path:tts01120	Microbial metabolism in diverse environments - Thermus thermophilus SG0.5JP17-16
+path:tts01130	Biosynthesis of antibiotics - Thermus thermophilus SG0.5JP17-16
+path:tts01200	Carbon metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts01210	2-Oxocarboxylic acid metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts01212	Fatty acid metabolism - Thermus thermophilus SG0.5JP17-16
+path:tts01220	Degradation of aromatic compounds - Thermus thermophilus SG0.5JP17-16
+path:tts01230	Biosynthesis of amino acids - Thermus thermophilus SG0.5JP17-16
+path:tts01501	beta-Lactam resistance - Thermus thermophilus SG0.5JP17-16
+path:tts01502	Vancomycin resistance - Thermus thermophilus SG0.5JP17-16
+path:tts01503	Cationic antimicrobial peptide (CAMP) resistance - Thermus thermophilus SG0.5JP17-16
+path:tts02010	ABC transporters - Thermus thermophilus SG0.5JP17-16
+path:tts02020	Two-component system - Thermus thermophilus SG0.5JP17-16
+path:tts02024	Quorum sensing - Thermus thermophilus SG0.5JP17-16
+path:tts03010	Ribosome - Thermus thermophilus SG0.5JP17-16
+path:tts03018	RNA degradation - Thermus thermophilus SG0.5JP17-16
+path:tts03020	RNA polymerase - Thermus thermophilus SG0.5JP17-16
+path:tts03030	DNA replication - Thermus thermophilus SG0.5JP17-16
+path:tts03060	Protein export - Thermus thermophilus SG0.5JP17-16
+path:tts03070	Bacterial secretion system - Thermus thermophilus SG0.5JP17-16
+path:tts03410	Base excision repair - Thermus thermophilus SG0.5JP17-16
+path:tts03420	Nucleotide excision repair - Thermus thermophilus SG0.5JP17-16
+path:tts03430	Mismatch repair - Thermus thermophilus SG0.5JP17-16
+path:tts03440	Homologous recombination - Thermus thermophilus SG0.5JP17-16
+path:tts04122	Sulfur relay system - Thermus thermophilus SG0.5JP17-16
+path:ttl00010	Glycolysis / Gluconeogenesis - Thermus thermophilus JL-18
+path:ttl00020	Citrate cycle (TCA cycle) - Thermus thermophilus JL-18
+path:ttl00030	Pentose phosphate pathway - Thermus thermophilus JL-18
+path:ttl00040	Pentose and glucuronate interconversions - Thermus thermophilus JL-18
+path:ttl00051	Fructose and mannose metabolism - Thermus thermophilus JL-18
+path:ttl00052	Galactose metabolism - Thermus thermophilus JL-18
+path:ttl00061	Fatty acid biosynthesis - Thermus thermophilus JL-18
+path:ttl00071	Fatty acid degradation - Thermus thermophilus JL-18
+path:ttl00072	Synthesis and degradation of ketone bodies - Thermus thermophilus JL-18
+path:ttl00130	Ubiquinone and other terpenoid-quinone biosynthesis - Thermus thermophilus JL-18
+path:ttl00190	Oxidative phosphorylation - Thermus thermophilus JL-18
+path:ttl00220	Arginine biosynthesis - Thermus thermophilus JL-18
+path:ttl00230	Purine metabolism - Thermus thermophilus JL-18
+path:ttl00240	Pyrimidine metabolism - Thermus thermophilus JL-18
+path:ttl00250	Alanine, aspartate and glutamate metabolism - Thermus thermophilus JL-18
+path:ttl00260	Glycine, serine and threonine metabolism - Thermus thermophilus JL-18
+path:ttl00261	Monobactam biosynthesis - Thermus thermophilus JL-18
+path:ttl00270	Cysteine and methionine metabolism - Thermus thermophilus JL-18
+path:ttl00280	Valine, leucine and isoleucine degradation - Thermus thermophilus JL-18
+path:ttl00281	Geraniol degradation - Thermus thermophilus JL-18
+path:ttl00290	Valine, leucine and isoleucine biosynthesis - Thermus thermophilus JL-18
+path:ttl00300	Lysine biosynthesis - Thermus thermophilus JL-18
+path:ttl00310	Lysine degradation - Thermus thermophilus JL-18
+path:ttl00330	Arginine and proline metabolism - Thermus thermophilus JL-18
+path:ttl00332	Carbapenem biosynthesis - Thermus thermophilus JL-18
+path:ttl00340	Histidine metabolism - Thermus thermophilus JL-18
+path:ttl00350	Tyrosine metabolism - Thermus thermophilus JL-18
+path:ttl00360	Phenylalanine metabolism - Thermus thermophilus JL-18
+path:ttl00362	Benzoate degradation - Thermus thermophilus JL-18
+path:ttl00380	Tryptophan metabolism - Thermus thermophilus JL-18
+path:ttl00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Thermus thermophilus JL-18
+path:ttl00401	Novobiocin biosynthesis - Thermus thermophilus JL-18
+path:ttl00410	beta-Alanine metabolism - Thermus thermophilus JL-18
+path:ttl00430	Taurine and hypotaurine metabolism - Thermus thermophilus JL-18
+path:ttl00450	Selenocompound metabolism - Thermus thermophilus JL-18
+path:ttl00460	Cyanoamino acid metabolism - Thermus thermophilus JL-18
+path:ttl00471	D-Glutamine and D-glutamate metabolism - Thermus thermophilus JL-18
+path:ttl00473	D-Alanine metabolism - Thermus thermophilus JL-18
+path:ttl00480	Glutathione metabolism - Thermus thermophilus JL-18
+path:ttl00500	Starch and sucrose metabolism - Thermus thermophilus JL-18
+path:ttl00520	Amino sugar and nucleotide sugar metabolism - Thermus thermophilus JL-18
+path:ttl00521	Streptomycin biosynthesis - Thermus thermophilus JL-18
+path:ttl00550	Peptidoglycan biosynthesis - Thermus thermophilus JL-18
+path:ttl00561	Glycerolipid metabolism - Thermus thermophilus JL-18
+path:ttl00562	Inositol phosphate metabolism - Thermus thermophilus JL-18
+path:ttl00564	Glycerophospholipid metabolism - Thermus thermophilus JL-18
+path:ttl00592	alpha-Linolenic acid metabolism - Thermus thermophilus JL-18
+path:ttl00620	Pyruvate metabolism - Thermus thermophilus JL-18
+path:ttl00621	Dioxin degradation - Thermus thermophilus JL-18
+path:ttl00622	Xylene degradation - Thermus thermophilus JL-18
+path:ttl00627	Aminobenzoate degradation - Thermus thermophilus JL-18
+path:ttl00630	Glyoxylate and dicarboxylate metabolism - Thermus thermophilus JL-18
+path:ttl00640	Propanoate metabolism - Thermus thermophilus JL-18
+path:ttl00643	Styrene degradation - Thermus thermophilus JL-18
+path:ttl00650	Butanoate metabolism - Thermus thermophilus JL-18
+path:ttl00660	C5-Branched dibasic acid metabolism - Thermus thermophilus JL-18
+path:ttl00670	One carbon pool by folate - Thermus thermophilus JL-18
+path:ttl00680	Methane metabolism - Thermus thermophilus JL-18
+path:ttl00710	Carbon fixation in photosynthetic organisms - Thermus thermophilus JL-18
+path:ttl00730	Thiamine metabolism - Thermus thermophilus JL-18
+path:ttl00740	Riboflavin metabolism - Thermus thermophilus JL-18
+path:ttl00750	Vitamin B6 metabolism - Thermus thermophilus JL-18
+path:ttl00760	Nicotinate and nicotinamide metabolism - Thermus thermophilus JL-18
+path:ttl00770	Pantothenate and CoA biosynthesis - Thermus thermophilus JL-18
+path:ttl00780	Biotin metabolism - Thermus thermophilus JL-18
+path:ttl00785	Lipoic acid metabolism - Thermus thermophilus JL-18
+path:ttl00790	Folate biosynthesis - Thermus thermophilus JL-18
+path:ttl00860	Porphyrin and chlorophyll metabolism - Thermus thermophilus JL-18
+path:ttl00900	Terpenoid backbone biosynthesis - Thermus thermophilus JL-18
+path:ttl00903	Limonene and pinene degradation - Thermus thermophilus JL-18
+path:ttl00906	Carotenoid biosynthesis - Thermus thermophilus JL-18
+path:ttl00910	Nitrogen metabolism - Thermus thermophilus JL-18
+path:ttl00920	Sulfur metabolism - Thermus thermophilus JL-18
+path:ttl00970	Aminoacyl-tRNA biosynthesis - Thermus thermophilus JL-18
+path:ttl01040	Biosynthesis of unsaturated fatty acids - Thermus thermophilus JL-18
+path:ttl01100	Metabolic pathways - Thermus thermophilus JL-18
+path:ttl01110	Biosynthesis of secondary metabolites - Thermus thermophilus JL-18
+path:ttl01120	Microbial metabolism in diverse environments - Thermus thermophilus JL-18
+path:ttl01130	Biosynthesis of antibiotics - Thermus thermophilus JL-18
+path:ttl01200	Carbon metabolism - Thermus thermophilus JL-18
+path:ttl01210	2-Oxocarboxylic acid metabolism - Thermus thermophilus JL-18
+path:ttl01212	Fatty acid metabolism - Thermus thermophilus JL-18
+path:ttl01220	Degradation of aromatic compounds - Thermus thermophilus JL-18
+path:ttl01230	Biosynthesis of amino acids - Thermus thermophilus JL-18
+path:ttl01501	beta-Lactam resistance - Thermus thermophilus JL-18
+path:ttl01502	Vancomycin resistance - Thermus thermophilus JL-18
+path:ttl01503	Cationic antimicrobial peptide (CAMP) resistance - Thermus thermophilus JL-18
+path:ttl02010	ABC transporters - Thermus thermophilus JL-18
+path:ttl02020	Two-component system - Thermus thermophilus JL-18
+path:ttl02024	Quorum sensing - Thermus thermophilus JL-18
+path:ttl03010	Ribosome - Thermus thermophilus JL-18
+path:ttl03018	RNA degradation - Thermus thermophilus JL-18
+path:ttl03020	RNA polymerase - Thermus thermophilus JL-18
+path:ttl03030	DNA replication - Thermus thermophilus JL-18
+path:ttl03060	Protein export - Thermus thermophilus JL-18
+path:ttl03070	Bacterial secretion system - Thermus thermophilus JL-18
+path:ttl03410	Base excision repair - Thermus thermophilus JL-18
+path:ttl03420	Nucleotide excision repair - Thermus thermophilus JL-18
+path:ttl03430	Mismatch repair - Thermus thermophilus JL-18
+path:ttl03440	Homologous recombination - Thermus thermophilus JL-18
+path:ttl04122	Sulfur relay system - Thermus thermophilus JL-18
+path:tsc00010	Glycolysis / Gluconeogenesis - Thermus scotoductus
+path:tsc00020	Citrate cycle (TCA cycle) - Thermus scotoductus
+path:tsc00030	Pentose phosphate pathway - Thermus scotoductus
+path:tsc00040	Pentose and glucuronate interconversions - Thermus scotoductus
+path:tsc00051	Fructose and mannose metabolism - Thermus scotoductus
+path:tsc00052	Galactose metabolism - Thermus scotoductus
+path:tsc00061	Fatty acid biosynthesis - Thermus scotoductus
+path:tsc00071	Fatty acid degradation - Thermus scotoductus
+path:tsc00072	Synthesis and degradation of ketone bodies - Thermus scotoductus
+path:tsc00130	Ubiquinone and other terpenoid-quinone biosynthesis - Thermus scotoductus
+path:tsc00190	Oxidative phosphorylation - Thermus scotoductus
+path:tsc00220	Arginine biosynthesis - Thermus scotoductus
+path:tsc00230	Purine metabolism - Thermus scotoductus
+path:tsc00240	Pyrimidine metabolism - Thermus scotoductus
+path:tsc00250	Alanine, aspartate and glutamate metabolism - Thermus scotoductus
+path:tsc00260	Glycine, serine and threonine metabolism - Thermus scotoductus
+path:tsc00261	Monobactam biosynthesis - Thermus scotoductus
+path:tsc00270	Cysteine and methionine metabolism - Thermus scotoductus
+path:tsc00280	Valine, leucine and isoleucine degradation - Thermus scotoductus
+path:tsc00281	Geraniol degradation - Thermus scotoductus
+path:tsc00290	Valine, leucine and isoleucine biosynthesis - Thermus scotoductus
+path:tsc00300	Lysine biosynthesis - Thermus scotoductus
+path:tsc00310	Lysine degradation - Thermus scotoductus
+path:tsc00330	Arginine and proline metabolism - Thermus scotoductus
+path:tsc00332	Carbapenem biosynthesis - Thermus scotoductus
+path:tsc00340	Histidine metabolism - Thermus scotoductus
+path:tsc00350	Tyrosine metabolism - Thermus scotoductus
+path:tsc00360	Phenylalanine metabolism - Thermus scotoductus
+path:tsc00362	Benzoate degradation - Thermus scotoductus
+path:tsc00380	Tryptophan metabolism - Thermus scotoductus
+path:tsc00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Thermus scotoductus
+path:tsc00401	Novobiocin biosynthesis - Thermus scotoductus
+path:tsc00410	beta-Alanine metabolism - Thermus scotoductus
+path:tsc00430	Taurine and hypotaurine metabolism - Thermus scotoductus
+path:tsc00450	Selenocompound metabolism - Thermus scotoductus
+path:tsc00460	Cyanoamino acid metabolism - Thermus scotoductus
+path:tsc00471	D-Glutamine and D-glutamate metabolism - Thermus scotoductus
+path:tsc00473	D-Alanine metabolism - Thermus scotoductus
+path:tsc00480	Glutathione metabolism - Thermus scotoductus
+path:tsc00500	Starch and sucrose metabolism - Thermus scotoductus
+path:tsc00520	Amino sugar and nucleotide sugar metabolism - Thermus scotoductus
+path:tsc00521	Streptomycin biosynthesis - Thermus scotoductus
+path:tsc00550	Peptidoglycan biosynthesis - Thermus scotoductus
+path:tsc00561	Glycerolipid metabolism - Thermus scotoductus
+path:tsc00562	Inositol phosphate metabolism - Thermus scotoductus
+path:tsc00564	Glycerophospholipid metabolism - Thermus scotoductus
+path:tsc00592	alpha-Linolenic acid metabolism - Thermus scotoductus
+path:tsc00620	Pyruvate metabolism - Thermus scotoductus
+path:tsc00621	Dioxin degradation - Thermus scotoductus
+path:tsc00622	Xylene degradation - Thermus scotoductus
+path:tsc00625	Chloroalkane and chloroalkene degradation - Thermus scotoductus
+path:tsc00627	Aminobenzoate degradation - Thermus scotoductus
+path:tsc00630	Glyoxylate and dicarboxylate metabolism - Thermus scotoductus
+path:tsc00640	Propanoate metabolism - Thermus scotoductus
+path:tsc00650	Butanoate metabolism - Thermus scotoductus
+path:tsc00660	C5-Branched dibasic acid metabolism - Thermus scotoductus
+path:tsc00670	One carbon pool by folate - Thermus scotoductus
+path:tsc00680	Methane metabolism - Thermus scotoductus
+path:tsc00710	Carbon fixation in photosynthetic organisms - Thermus scotoductus
+path:tsc00730	Thiamine metabolism - Thermus scotoductus
+path:tsc00740	Riboflavin metabolism - Thermus scotoductus
+path:tsc00750	Vitamin B6 metabolism - Thermus scotoductus
+path:tsc00760	Nicotinate and nicotinamide metabolism - Thermus scotoductus
+path:tsc00770	Pantothenate and CoA biosynthesis - Thermus scotoductus
+path:tsc00780	Biotin metabolism - Thermus scotoductus
+path:tsc00785	Lipoic acid metabolism - Thermus scotoductus
+path:tsc00790	Folate biosynthesis - Thermus scotoductus
+path:tsc00860	Porphyrin and chlorophyll metabolism - Thermus scotoductus
+path:tsc00900	Terpenoid backbone biosynthesis - Thermus scotoductus
+path:tsc00903	Limonene and pinene degradation - Thermus scotoductus
+path:tsc00910	Nitrogen metabolism - Thermus scotoductus
+path:tsc00920	Sulfur metabolism - Thermus scotoductus
+path:tsc00970	Aminoacyl-tRNA biosynthesis - Thermus scotoductus
+path:tsc01040	Biosynthesis of unsaturated fatty acids - Thermus scotoductus
+path:tsc01100	Metabolic pathways - Thermus scotoductus
+path:tsc01110	Biosynthesis of secondary metabolites - Thermus scotoductus
+path:tsc01120	Microbial metabolism in diverse environments - Thermus scotoductus
+path:tsc01130	Biosynthesis of antibiotics - Thermus scotoductus
+path:tsc01200	Carbon metabolism - Thermus scotoductus
+path:tsc01210	2-Oxocarboxylic acid metabolism - Thermus scotoductus
+path:tsc01212	Fatty acid metabolism - Thermus scotoductus
+path:tsc01220	Degradation of aromatic compounds - Thermus scotoductus
+path:tsc01230	Biosynthesis of amino acids - Thermus scotoductus
+path:tsc01501	beta-Lactam resistance - Thermus scotoductus
+path:tsc01502	Vancomycin resistance - Thermus scotoductus
+path:tsc01503	Cationic antimicrobial peptide (CAMP) resistance - Thermus scotoductus
+path:tsc02010	ABC transporters - Thermus scotoductus
+path:tsc02020	Two-component system - Thermus scotoductus
+path:tsc02024	Quorum sensing - Thermus scotoductus
+path:tsc03010	Ribosome - Thermus scotoductus
+path:tsc03018	RNA degradation - Thermus scotoductus
+path:tsc03020	RNA polymerase - Thermus scotoductus
+path:tsc03030	DNA replication - Thermus scotoductus
+path:tsc03060	Protein export - Thermus scotoductus
+path:tsc03070	Bacterial secretion system - Thermus scotoductus
+path:tsc03410	Base excision repair - Thermus scotoductus
+path:tsc03420	Nucleotide excision repair - Thermus scotoductus
+path:tsc03430	Mismatch repair - Thermus scotoductus
+path:tsc03440	Homologous recombination - Thermus scotoductus
+path:tsc04122	Sulfur relay system - Thermus scotoductus
+path:thc00010	Glycolysis / Gluconeogenesis - Thermus sp. CCB_US3_UF1
+path:thc00020	Citrate cycle (TCA cycle) - Thermus sp. CCB_US3_UF1
+path:thc00030	Pentose phosphate pathway - Thermus sp. CCB_US3_UF1
+path:thc00040	Pentose and glucuronate interconversions - Thermus sp. CCB_US3_UF1
+path:thc00051	Fructose and mannose metabolism - Thermus sp. CCB_US3_UF1
+path:thc00052	Galactose metabolism - Thermus sp. CCB_US3_UF1
+path:thc00061	Fatty acid biosynthesis - Thermus sp. CCB_US3_UF1
+path:thc00071	Fatty acid degradation - Thermus sp. CCB_US3_UF1
+path:thc00072	Synthesis and degradation of ketone bodies - Thermus sp. CCB_US3_UF1
+path:thc00130	Ubiquinone and other terpenoid-quinone biosynthesis - Thermus sp. CCB_US3_UF1
+path:thc00190	Oxidative phosphorylation - Thermus sp. CCB_US3_UF1
+path:thc00220	Arginine biosynthesis - Thermus sp. CCB_US3_UF1
+path:thc00230	Purine metabolism - Thermus sp. CCB_US3_UF1
+path:thc00240	Pyrimidine metabolism - Thermus sp. CCB_US3_UF1
+path:thc00250	Alanine, aspartate and glutamate metabolism - Thermus sp. CCB_US3_UF1
+path:thc00260	Glycine, serine and threonine metabolism - Thermus sp. CCB_US3_UF1
+path:thc00261	Monobactam biosynthesis - Thermus sp. CCB_US3_UF1
+path:thc00270	Cysteine and methionine metabolism - Thermus sp. CCB_US3_UF1
+path:thc00280	Valine, leucine and isoleucine degradation - Thermus sp. CCB_US3_UF1
+path:thc00281	Geraniol degradation - Thermus sp. CCB_US3_UF1
+path:thc00290	Valine, leucine and isoleucine biosynthesis - Thermus sp. CCB_US3_UF1
+path:thc00300	Lysine biosynthesis - Thermus sp. CCB_US3_UF1
+path:thc00310	Lysine degradation - Thermus sp. CCB_US3_UF1
+path:thc00330	Arginine and proline metabolism - Thermus sp. CCB_US3_UF1
+path:thc00332	Carbapenem biosynthesis - Thermus sp. CCB_US3_UF1
+path:thc00340	Histidine metabolism - Thermus sp. CCB_US3_UF1
+path:thc00350	Tyrosine metabolism - Thermus sp. CCB_US3_UF1
+path:thc00360	Phenylalanine metabolism - Thermus sp. CCB_US3_UF1
+path:thc00362	Benzoate degradation - Thermus sp. CCB_US3_UF1
+path:thc00380	Tryptophan metabolism - Thermus sp. CCB_US3_UF1
+path:thc00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Thermus sp. CCB_US3_UF1
+path:thc00401	Novobiocin biosynthesis - Thermus sp. CCB_US3_UF1
+path:thc00410	beta-Alanine metabolism - Thermus sp. CCB_US3_UF1
+path:thc00430	Taurine and hypotaurine metabolism - Thermus sp. CCB_US3_UF1
+path:thc00450	Selenocompound metabolism - Thermus sp. CCB_US3_UF1
+path:thc00460	Cyanoamino acid metabolism - Thermus sp. CCB_US3_UF1
+path:thc00471	D-Glutamine and D-glutamate metabolism - Thermus sp. CCB_US3_UF1
+path:thc00473	D-Alanine metabolism - Thermus sp. CCB_US3_UF1
+path:thc00480	Glutathione metabolism - Thermus sp. CCB_US3_UF1
+path:thc00500	Starch and sucrose metabolism - Thermus sp. CCB_US3_UF1
+path:thc00520	Amino sugar and nucleotide sugar metabolism - Thermus sp. CCB_US3_UF1
+path:thc00521	Streptomycin biosynthesis - Thermus sp. CCB_US3_UF1
+path:thc00550	Peptidoglycan biosynthesis - Thermus sp. CCB_US3_UF1
+path:thc00561	Glycerolipid metabolism - Thermus sp. CCB_US3_UF1
+path:thc00562	Inositol phosphate metabolism - Thermus sp. CCB_US3_UF1
+path:thc00564	Glycerophospholipid metabolism - Thermus sp. CCB_US3_UF1
+path:thc00592	alpha-Linolenic acid metabolism - Thermus sp. CCB_US3_UF1
+path:thc00620	Pyruvate metabolism - Thermus sp. CCB_US3_UF1
+path:thc00621	Dioxin degradation - Thermus sp. CCB_US3_UF1
+path:thc00622	Xylene degradation - Thermus sp. CCB_US3_UF1
+path:thc00625	Chloroalkane and chloroalkene degradation - Thermus sp. CCB_US3_UF1
+path:thc00626	Naphthalene degradation - Thermus sp. CCB_US3_UF1
+path:thc00627	Aminobenzoate degradation - Thermus sp. CCB_US3_UF1
+path:thc00630	Glyoxylate and dicarboxylate metabolism - Thermus sp. CCB_US3_UF1
+path:thc00640	Propanoate metabolism - Thermus sp. CCB_US3_UF1
+path:thc00650	Butanoate metabolism - Thermus sp. CCB_US3_UF1
+path:thc00660	C5-Branched dibasic acid metabolism - Thermus sp. CCB_US3_UF1
+path:thc00670	One carbon pool by folate - Thermus sp. CCB_US3_UF1
+path:thc00680	Methane metabolism - Thermus sp. CCB_US3_UF1
+path:thc00710	Carbon fixation in photosynthetic organisms - Thermus sp. CCB_US3_UF1
+path:thc00730	Thiamine metabolism - Thermus sp. CCB_US3_UF1
+path:thc00740	Riboflavin metabolism - Thermus sp. CCB_US3_UF1
+path:thc00750	Vitamin B6 metabolism - Thermus sp. CCB_US3_UF1
+path:thc00760	Nicotinate and nicotinamide metabolism - Thermus sp. CCB_US3_UF1
+path:thc00770	Pantothenate and CoA biosynthesis - Thermus sp. CCB_US3_UF1
+path:thc00780	Biotin metabolism - Thermus sp. CCB_US3_UF1
+path:thc00785	Lipoic acid metabolism - Thermus sp. CCB_US3_UF1
+path:thc00790	Folate biosynthesis - Thermus sp. CCB_US3_UF1
+path:thc00860	Porphyrin and chlorophyll metabolism - Thermus sp. CCB_US3_UF1
+path:thc00900	Terpenoid backbone biosynthesis - Thermus sp. CCB_US3_UF1
+path:thc00903	Limonene and pinene degradation - Thermus sp. CCB_US3_UF1
+path:thc00906	Carotenoid biosynthesis - Thermus sp. CCB_US3_UF1
+path:thc00910	Nitrogen metabolism - Thermus sp. CCB_US3_UF1
+path:thc00920	Sulfur metabolism - Thermus sp. CCB_US3_UF1
+path:thc00970	Aminoacyl-tRNA biosynthesis - Thermus sp. CCB_US3_UF1
+path:thc01040	Biosynthesis of unsaturated fatty acids - Thermus sp. CCB_US3_UF1
+path:thc01100	Metabolic pathways - Thermus sp. CCB_US3_UF1
+path:thc01110	Biosynthesis of secondary metabolites - Thermus sp. CCB_US3_UF1
+path:thc01120	Microbial metabolism in diverse environments - Thermus sp. CCB_US3_UF1
+path:thc01130	Biosynthesis of antibiotics - Thermus sp. CCB_US3_UF1
+path:thc01200	Carbon metabolism - Thermus sp. CCB_US3_UF1
+path:thc01210	2-Oxocarboxylic acid metabolism - Thermus sp. CCB_US3_UF1
+path:thc01212	Fatty acid metabolism - Thermus sp. CCB_US3_UF1
+path:thc01220	Degradation of aromatic compounds - Thermus sp. CCB_US3_UF1
+path:thc01230	Biosynthesis of amino acids - Thermus sp. CCB_US3_UF1
+path:thc01501	beta-Lactam resistance - Thermus sp. CCB_US3_UF1
+path:thc01502	Vancomycin resistance - Thermus sp. CCB_US3_UF1
+path:thc01503	Cationic antimicrobial peptide (CAMP) resistance - Thermus sp. CCB_US3_UF1
+path:thc02010	ABC transporters - Thermus sp. CCB_US3_UF1
+path:thc02020	Two-component system - Thermus sp. CCB_US3_UF1
+path:thc02024	Quorum sensing - Thermus sp. CCB_US3_UF1
+path:thc03010	Ribosome - Thermus sp. CCB_US3_UF1
+path:thc03018	RNA degradation - Thermus sp. CCB_US3_UF1
+path:thc03020	RNA polymerase - Thermus sp. CCB_US3_UF1
+path:thc03030	DNA replication - Thermus sp. CCB_US3_UF1
+path:thc03060	Protein export - Thermus sp. CCB_US3_UF1
+path:thc03070	Bacterial secretion system - Thermus sp. CCB_US3_UF1
+path:thc03410	Base excision repair - Thermus sp. CCB_US3_UF1
+path:thc03420	Nucleotide excision repair - Thermus sp. CCB_US3_UF1
+path:thc03430	Mismatch repair - Thermus sp. CCB_US3_UF1
+path:thc03440	Homologous recombination - Thermus sp. CCB_US3_UF1
+path:thc04122	Sulfur relay system - Thermus sp. CCB_US3_UF1
+path:tos00010	Glycolysis / Gluconeogenesis - Thermus oshimai
+path:tos00020	Citrate cycle (TCA cycle) - Thermus oshimai
+path:tos00030	Pentose phosphate pathway - Thermus oshimai
+path:tos00040	Pentose and glucuronate interconversions - Thermus oshimai
+path:tos00051	Fructose and mannose metabolism - Thermus oshimai
+path:tos00052	Galactose metabolism - Thermus oshimai
+path:tos00061	Fatty acid biosynthesis - Thermus oshimai
+path:tos00071	Fatty acid degradation - Thermus oshimai
+path:tos00072	Synthesis and degradation of ketone bodies - Thermus oshimai
+path:tos00130	Ubiquinone and other terpenoid-quinone biosynthesis - Thermus oshimai
+path:tos00190	Oxidative phosphorylation - Thermus oshimai
+path:tos00220	Arginine biosynthesis - Thermus oshimai
+path:tos00230	Purine metabolism - Thermus oshimai
+path:tos00240	Pyrimidine metabolism - Thermus oshimai
+path:tos00250	Alanine, aspartate and glutamate metabolism - Thermus oshimai
+path:tos00260	Glycine, serine and threonine metabolism - Thermus oshimai
+path:tos00261	Monobactam biosynthesis - Thermus oshimai
+path:tos00270	Cysteine and methionine metabolism - Thermus oshimai
+path:tos00280	Valine, leucine and isoleucine degradation - Thermus oshimai
+path:tos00281	Geraniol degradation - Thermus oshimai
+path:tos00290	Valine, leucine and isoleucine biosynthesis - Thermus oshimai
+path:tos00300	Lysine biosynthesis - Thermus oshimai
+path:tos00310	Lysine degradation - Thermus oshimai
+path:tos00330	Arginine and proline metabolism - Thermus oshimai
+path:tos00332	Carbapenem biosynthesis - Thermus oshimai
+path:tos00340	Histidine metabolism - Thermus oshimai
+path:tos00350	Tyrosine metabolism - Thermus oshimai
+path:tos00360	Phenylalanine metabolism - Thermus oshimai
+path:tos00362	Benzoate degradation - Thermus oshimai
+path:tos00380	Tryptophan metabolism - Thermus oshimai
+path:tos00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Thermus oshimai
+path:tos00401	Novobiocin biosynthesis - Thermus oshimai
+path:tos00410	beta-Alanine metabolism - Thermus oshimai
+path:tos00430	Taurine and hypotaurine metabolism - Thermus oshimai
+path:tos00450	Selenocompound metabolism - Thermus oshimai
+path:tos00460	Cyanoamino acid metabolism - Thermus oshimai
+path:tos00471	D-Glutamine and D-glutamate metabolism - Thermus oshimai
+path:tos00473	D-Alanine metabolism - Thermus oshimai
+path:tos00480	Glutathione metabolism - Thermus oshimai
+path:tos00500	Starch and sucrose metabolism - Thermus oshimai
+path:tos00520	Amino sugar and nucleotide sugar metabolism - Thermus oshimai
+path:tos00521	Streptomycin biosynthesis - Thermus oshimai
+path:tos00550	Peptidoglycan biosynthesis - Thermus oshimai
+path:tos00561	Glycerolipid metabolism - Thermus oshimai
+path:tos00562	Inositol phosphate metabolism - Thermus oshimai
+path:tos00564	Glycerophospholipid metabolism - Thermus oshimai
+path:tos00592	alpha-Linolenic acid metabolism - Thermus oshimai
+path:tos00620	Pyruvate metabolism - Thermus oshimai
+path:tos00621	Dioxin degradation - Thermus oshimai
+path:tos00622	Xylene degradation - Thermus oshimai
+path:tos00625	Chloroalkane and chloroalkene degradation - Thermus oshimai
+path:tos00627	Aminobenzoate degradation - Thermus oshimai
+path:tos00630	Glyoxylate and dicarboxylate metabolism - Thermus oshimai
+path:tos00640	Propanoate metabolism - Thermus oshimai
+path:tos00642	Ethylbenzene degradation - Thermus oshimai
+path:tos00650	Butanoate metabolism - Thermus oshimai
+path:tos00660	C5-Branched dibasic acid metabolism - Thermus oshimai
+path:tos00670	One carbon pool by folate - Thermus oshimai
+path:tos00680	Methane metabolism - Thermus oshimai
+path:tos00710	Carbon fixation in photosynthetic organisms - Thermus oshimai
+path:tos00730	Thiamine metabolism - Thermus oshimai
+path:tos00740	Riboflavin metabolism - Thermus oshimai
+path:tos00750	Vitamin B6 metabolism - Thermus oshimai
+path:tos00760	Nicotinate and nicotinamide metabolism - Thermus oshimai
+path:tos00770	Pantothenate and CoA biosynthesis - Thermus oshimai
+path:tos00780	Biotin metabolism - Thermus oshimai
+path:tos00785	Lipoic acid metabolism - Thermus oshimai
+path:tos00790	Folate biosynthesis - Thermus oshimai
+path:tos00860	Porphyrin and chlorophyll metabolism - Thermus oshimai
+path:tos00900	Terpenoid backbone biosynthesis - Thermus oshimai
+path:tos00903	Limonene and pinene degradation - Thermus oshimai
+path:tos00906	Carotenoid biosynthesis - Thermus oshimai
+path:tos00910	Nitrogen metabolism - Thermus oshimai
+path:tos00920	Sulfur metabolism - Thermus oshimai
+path:tos00970	Aminoacyl-tRNA biosynthesis - Thermus oshimai
+path:tos01040	Biosynthesis of unsaturated fatty acids - Thermus oshimai
+path:tos01100	Metabolic pathways - Thermus oshimai
+path:tos01110	Biosynthesis of secondary metabolites - Thermus oshimai
+path:tos01120	Microbial metabolism in diverse environments - Thermus oshimai
+path:tos01130	Biosynthesis of antibiotics - Thermus oshimai
+path:tos01200	Carbon metabolism - Thermus oshimai
+path:tos01210	2-Oxocarboxylic acid metabolism - Thermus oshimai
+path:tos01212	Fatty acid metabolism - Thermus oshimai
+path:tos01220	Degradation of aromatic compounds - Thermus oshimai
+path:tos01230	Biosynthesis of amino acids - Thermus oshimai
+path:tos01501	beta-Lactam resistance - Thermus oshimai
+path:tos01502	Vancomycin resistance - Thermus oshimai
+path:tos01503	Cationic antimicrobial peptide (CAMP) resistance - Thermus oshimai
+path:tos02010	ABC transporters - Thermus oshimai
+path:tos02020	Two-component system - Thermus oshimai
+path:tos02024	Quorum sensing - Thermus oshimai
+path:tos03010	Ribosome - Thermus oshimai
+path:tos03018	RNA degradation - Thermus oshimai
+path:tos03020	RNA polymerase - Thermus oshimai
+path:tos03030	DNA replication - Thermus oshimai
+path:tos03060	Protein export - Thermus oshimai
+path:tos03070	Bacterial secretion system - Thermus oshimai
+path:tos03410	Base excision repair - Thermus oshimai
+path:tos03420	Nucleotide excision repair - Thermus oshimai
+path:tos03430	Mismatch repair - Thermus oshimai
+path:tos03440	Homologous recombination - Thermus oshimai
+path:tos04122	Sulfur relay system - Thermus oshimai
+path:taq00010	Glycolysis / Gluconeogenesis - Thermus aquaticus
+path:taq00020	Citrate cycle (TCA cycle) - Thermus aquaticus
+path:taq00030	Pentose phosphate pathway - Thermus aquaticus
+path:taq00040	Pentose and glucuronate interconversions - Thermus aquaticus
+path:taq00051	Fructose and mannose metabolism - Thermus aquaticus
+path:taq00052	Galactose metabolism - Thermus aquaticus
+path:taq00061	Fatty acid biosynthesis - Thermus aquaticus
+path:taq00071	Fatty acid degradation - Thermus aquaticus
+path:taq00072	Synthesis and degradation of ketone bodies - Thermus aquaticus
+path:taq00130	Ubiquinone and other terpenoid-quinone biosynthesis - Thermus aquaticus
+path:taq00190	Oxidative phosphorylation - Thermus aquaticus
+path:taq00220	Arginine biosynthesis - Thermus aquaticus
+path:taq00230	Purine metabolism - Thermus aquaticus
+path:taq00240	Pyrimidine metabolism - Thermus aquaticus
+path:taq00250	Alanine, aspartate and glutamate metabolism - Thermus aquaticus
+path:taq00260	Glycine, serine and threonine metabolism - Thermus aquaticus
+path:taq00261	Monobactam biosynthesis - Thermus aquaticus
+path:taq00270	Cysteine and methionine metabolism - Thermus aquaticus
+path:taq00280	Valine, leucine and isoleucine degradation - Thermus aquaticus
+path:taq00281	Geraniol degradation - Thermus aquaticus
+path:taq00290	Valine, leucine and isoleucine biosynthesis - Thermus aquaticus
+path:taq00300	Lysine biosynthesis - Thermus aquaticus
+path:taq00310	Lysine degradation - Thermus aquaticus
+path:taq00330	Arginine and proline metabolism - Thermus aquaticus
+path:taq00332	Carbapenem biosynthesis - Thermus aquaticus
+path:taq00340	Histidine metabolism - Thermus aquaticus
+path:taq00350	Tyrosine metabolism - Thermus aquaticus
+path:taq00360	Phenylalanine metabolism - Thermus aquaticus
+path:taq00362	Benzoate degradation - Thermus aquaticus
+path:taq00380	Tryptophan metabolism - Thermus aquaticus
+path:taq00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Thermus aquaticus
+path:taq00401	Novobiocin biosynthesis - Thermus aquaticus
+path:taq00410	beta-Alanine metabolism - Thermus aquaticus
+path:taq00430	Taurine and hypotaurine metabolism - Thermus aquaticus
+path:taq00450	Selenocompound metabolism - Thermus aquaticus
+path:taq00460	Cyanoamino acid metabolism - Thermus aquaticus
+path:taq00471	D-Glutamine and D-glutamate metabolism - Thermus aquaticus
+path:taq00473	D-Alanine metabolism - Thermus aquaticus
+path:taq00480	Glutathione metabolism - Thermus aquaticus
+path:taq00500	Starch and sucrose metabolism - Thermus aquaticus
+path:taq00520	Amino sugar and nucleotide sugar metabolism - Thermus aquaticus
+path:taq00521	Streptomycin biosynthesis - Thermus aquaticus
+path:taq00550	Peptidoglycan biosynthesis - Thermus aquaticus
+path:taq00561	Glycerolipid metabolism - Thermus aquaticus
+path:taq00562	Inositol phosphate metabolism - Thermus aquaticus
+path:taq00564	Glycerophospholipid metabolism - Thermus aquaticus
+path:taq00592	alpha-Linolenic acid metabolism - Thermus aquaticus
+path:taq00620	Pyruvate metabolism - Thermus aquaticus
+path:taq00622	Xylene degradation - Thermus aquaticus
+path:taq00627	Aminobenzoate degradation - Thermus aquaticus
+path:taq00630	Glyoxylate and dicarboxylate metabolism - Thermus aquaticus
+path:taq00640	Propanoate metabolism - Thermus aquaticus
+path:taq00650	Butanoate metabolism - Thermus aquaticus
+path:taq00660	C5-Branched dibasic acid metabolism - Thermus aquaticus
+path:taq00670	One carbon pool by folate - Thermus aquaticus
+path:taq00680	Methane metabolism - Thermus aquaticus
+path:taq00710	Carbon fixation in photosynthetic organisms - Thermus aquaticus
+path:taq00730	Thiamine metabolism - Thermus aquaticus
+path:taq00740	Riboflavin metabolism - Thermus aquaticus
+path:taq00750	Vitamin B6 metabolism - Thermus aquaticus
+path:taq00760	Nicotinate and nicotinamide metabolism - Thermus aquaticus
+path:taq00770	Pantothenate and CoA biosynthesis - Thermus aquaticus
+path:taq00780	Biotin metabolism - Thermus aquaticus
+path:taq00785	Lipoic acid metabolism - Thermus aquaticus
+path:taq00790	Folate biosynthesis - Thermus aquaticus
+path:taq00860	Porphyrin and chlorophyll metabolism - Thermus aquaticus
+path:taq00900	Terpenoid backbone biosynthesis - Thermus aquaticus
+path:taq00903	Limonene and pinene degradation - Thermus aquaticus
+path:taq00906	Carotenoid biosynthesis - Thermus aquaticus
+path:taq00910	Nitrogen metabolism - Thermus aquaticus
+path:taq00920	Sulfur metabolism - Thermus aquaticus
+path:taq00970	Aminoacyl-tRNA biosynthesis - Thermus aquaticus
+path:taq01040	Biosynthesis of unsaturated fatty acids - Thermus aquaticus
+path:taq01100	Metabolic pathways - Thermus aquaticus
+path:taq01110	Biosynthesis of secondary metabolites - Thermus aquaticus
+path:taq01120	Microbial metabolism in diverse environments - Thermus aquaticus
+path:taq01130	Biosynthesis of antibiotics - Thermus aquaticus
+path:taq01200	Carbon metabolism - Thermus aquaticus
+path:taq01210	2-Oxocarboxylic acid metabolism - Thermus aquaticus
+path:taq01212	Fatty acid metabolism - Thermus aquaticus
+path:taq01220	Degradation of aromatic compounds - Thermus aquaticus
+path:taq01230	Biosynthesis of amino acids - Thermus aquaticus
+path:taq01501	beta-Lactam resistance - Thermus aquaticus
+path:taq01502	Vancomycin resistance - Thermus aquaticus
+path:taq01503	Cationic antimicrobial peptide (CAMP) resistance - Thermus aquaticus
+path:taq02010	ABC transporters - Thermus aquaticus
+path:taq02020	Two-component system - Thermus aquaticus
+path:taq02024	Quorum sensing - Thermus aquaticus
+path:taq03010	Ribosome - Thermus aquaticus
+path:taq03018	RNA degradation - Thermus aquaticus
+path:taq03020	RNA polymerase - Thermus aquaticus
+path:taq03030	DNA replication - Thermus aquaticus
+path:taq03060	Protein export - Thermus aquaticus
+path:taq03070	Bacterial secretion system - Thermus aquaticus
+path:taq03410	Base excision repair - Thermus aquaticus
+path:taq03420	Nucleotide excision repair - Thermus aquaticus
+path:taq03430	Mismatch repair - Thermus aquaticus
+path:taq03440	Homologous recombination - Thermus aquaticus
+path:taq04122	Sulfur relay system - Thermus aquaticus
+path:tpar00010	Glycolysis / Gluconeogenesis - Thermus parvatiensis
+path:tpar00020	Citrate cycle (TCA cycle) - Thermus parvatiensis
+path:tpar00030	Pentose phosphate pathway - Thermus parvatiensis
+path:tpar00040	Pentose and glucuronate interconversions - Thermus parvatiensis
+path:tpar00051	Fructose and mannose metabolism - Thermus parvatiensis
+path:tpar00052	Galactose metabolism - Thermus parvatiensis
+path:tpar00061	Fatty acid biosynthesis - Thermus parvatiensis
+path:tpar00071	Fatty acid degradation - Thermus parvatiensis
+path:tpar00130	Ubiquinone and other terpenoid-quinone biosynthesis - Thermus parvatiensis
+path:tpar00190	Oxidative phosphorylation - Thermus parvatiensis
+path:tpar00220	Arginine biosynthesis - Thermus parvatiensis
+path:tpar00230	Purine metabolism - Thermus parvatiensis
+path:tpar00240	Pyrimidine metabolism - Thermus parvatiensis
+path:tpar00250	Alanine, aspartate and glutamate metabolism - Thermus parvatiensis
+path:tpar00260	Glycine, serine and threonine metabolism - Thermus parvatiensis
+path:tpar00261	Monobactam biosynthesis - Thermus parvatiensis
+path:tpar00270	Cysteine and methionine metabolism - Thermus parvatiensis
+path:tpar00280	Valine, leucine and isoleucine degradation - Thermus parvatiensis
+path:tpar00281	Geraniol degradation - Thermus parvatiensis
+path:tpar00290	Valine, leucine and isoleucine biosynthesis - Thermus parvatiensis
+path:tpar00300	Lysine biosynthesis - Thermus parvatiensis
+path:tpar00310	Lysine degradation - Thermus parvatiensis
+path:tpar00330	Arginine and proline metabolism - Thermus parvatiensis
+path:tpar00332	Carbapenem biosynthesis - Thermus parvatiensis
+path:tpar00340	Histidine metabolism - Thermus parvatiensis
+path:tpar00350	Tyrosine metabolism - Thermus parvatiensis
+path:tpar00360	Phenylalanine metabolism - Thermus parvatiensis
+path:tpar00362	Benzoate degradation - Thermus parvatiensis
+path:tpar00380	Tryptophan metabolism - Thermus parvatiensis
+path:tpar00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Thermus parvatiensis
+path:tpar00401	Novobiocin biosynthesis - Thermus parvatiensis
+path:tpar00410	beta-Alanine metabolism - Thermus parvatiensis
+path:tpar00450	Selenocompound metabolism - Thermus parvatiensis
+path:tpar00460	Cyanoamino acid metabolism - Thermus parvatiensis
+path:tpar00471	D-Glutamine and D-glutamate metabolism - Thermus parvatiensis
+path:tpar00480	Glutathione metabolism - Thermus parvatiensis
+path:tpar00500	Starch and sucrose metabolism - Thermus parvatiensis
+path:tpar00520	Amino sugar and nucleotide sugar metabolism - Thermus parvatiensis
+path:tpar00521	Streptomycin biosynthesis - Thermus parvatiensis
+path:tpar00550	Peptidoglycan biosynthesis - Thermus parvatiensis
+path:tpar00561	Glycerolipid metabolism - Thermus parvatiensis
+path:tpar00562	Inositol phosphate metabolism - Thermus parvatiensis
+path:tpar00564	Glycerophospholipid metabolism - Thermus parvatiensis
+path:tpar00592	alpha-Linolenic acid metabolism - Thermus parvatiensis
+path:tpar00620	Pyruvate metabolism - Thermus parvatiensis
+path:tpar00622	Xylene degradation - Thermus parvatiensis
+path:tpar00627	Aminobenzoate degradation - Thermus parvatiensis
+path:tpar00630	Glyoxylate and dicarboxylate metabolism - Thermus parvatiensis
+path:tpar00640	Propanoate metabolism - Thermus parvatiensis
+path:tpar00650	Butanoate metabolism - Thermus parvatiensis
+path:tpar00660	C5-Branched dibasic acid metabolism - Thermus parvatiensis
+path:tpar00670	One carbon pool by folate - Thermus parvatiensis
+path:tpar00680	Methane metabolism - Thermus parvatiensis
+path:tpar00710	Carbon fixation in photosynthetic organisms - Thermus parvatiensis
+path:tpar00730	Thiamine metabolism - Thermus parvatiensis
+path:tpar00740	Riboflavin metabolism - Thermus parvatiensis
+path:tpar00760	Nicotinate and nicotinamide metabolism - Thermus parvatiensis
+path:tpar00770	Pantothenate and CoA biosynthesis - Thermus parvatiensis
+path:tpar00780	Biotin metabolism - Thermus parvatiensis
+path:tpar00785	Lipoic acid metabolism - Thermus parvatiensis
+path:tpar00790	Folate biosynthesis - Thermus parvatiensis
+path:tpar00860	Porphyrin and chlorophyll metabolism - Thermus parvatiensis
+path:tpar00900	Terpenoid backbone biosynthesis - Thermus parvatiensis
+path:tpar00903	Limonene and pinene degradation - Thermus parvatiensis
+path:tpar00906	Carotenoid biosynthesis - Thermus parvatiensis
+path:tpar00910	Nitrogen metabolism - Thermus parvatiensis
+path:tpar00920	Sulfur metabolism - Thermus parvatiensis
+path:tpar00970	Aminoacyl-tRNA biosynthesis - Thermus parvatiensis
+path:tpar01040	Biosynthesis of unsaturated fatty acids - Thermus parvatiensis
+path:tpar01100	Metabolic pathways - Thermus parvatiensis
+path:tpar01110	Biosynthesis of secondary metabolites - Thermus parvatiensis
+path:tpar01120	Microbial metabolism in diverse environments - Thermus parvatiensis
+path:tpar01130	Biosynthesis of antibiotics - Thermus parvatiensis
+path:tpar01200	Carbon metabolism - Thermus parvatiensis
+path:tpar01210	2-Oxocarboxylic acid metabolism - Thermus parvatiensis
+path:tpar01212	Fatty acid metabolism - Thermus parvatiensis
+path:tpar01220	Degradation of aromatic compounds - Thermus parvatiensis
+path:tpar01230	Biosynthesis of amino acids - Thermus parvatiensis
+path:tpar01502	Vancomycin resistance - Thermus parvatiensis
+path:tpar01503	Cationic antimicrobial peptide (CAMP) resistance - Thermus parvatiensis
+path:tpar02010	ABC transporters - Thermus parvatiensis
+path:tpar02020	Two-component system - Thermus parvatiensis
+path:tpar02024	Quorum sensing - Thermus parvatiensis
+path:tpar03010	Ribosome - Thermus parvatiensis
+path:tpar03018	RNA degradation - Thermus parvatiensis
+path:tpar03020	RNA polymerase - Thermus parvatiensis
+path:tpar03030	DNA replication - Thermus parvatiensis
+path:tpar03060	Protein export - Thermus parvatiensis
+path:tpar03070	Bacterial secretion system - Thermus parvatiensis
+path:tpar03410	Base excision repair - Thermus parvatiensis
+path:tpar03420	Nucleotide excision repair - Thermus parvatiensis
+path:tpar03430	Mismatch repair - Thermus parvatiensis
+path:tpar03440	Homologous recombination - Thermus parvatiensis
+path:tpar04122	Sulfur relay system - Thermus parvatiensis
+path:tbc00010	Glycolysis / Gluconeogenesis - Thermus brockianus
+path:tbc00020	Citrate cycle (TCA cycle) - Thermus brockianus
+path:tbc00030	Pentose phosphate pathway - Thermus brockianus
+path:tbc00040	Pentose and glucuronate interconversions - Thermus brockianus
+path:tbc00051	Fructose and mannose metabolism - Thermus brockianus
+path:tbc00052	Galactose metabolism - Thermus brockianus
+path:tbc00061	Fatty acid biosynthesis - Thermus brockianus
+path:tbc00071	Fatty acid degradation - Thermus brockianus
+path:tbc00072	Synthesis and degradation of ketone bodies - Thermus brockianus
+path:tbc00130	Ubiquinone and other terpenoid-quinone biosynthesis - Thermus brockianus
+path:tbc00190	Oxidative phosphorylation - Thermus brockianus
+path:tbc00220	Arginine biosynthesis - Thermus brockianus
+path:tbc00230	Purine metabolism - Thermus brockianus
+path:tbc00240	Pyrimidine metabolism - Thermus brockianus
+path:tbc00250	Alanine, aspartate and glutamate metabolism - Thermus brockianus
+path:tbc00260	Glycine, serine and threonine metabolism - Thermus brockianus
+path:tbc00261	Monobactam biosynthesis - Thermus brockianus
+path:tbc00270	Cysteine and methionine metabolism - Thermus brockianus
+path:tbc00280	Valine, leucine and isoleucine degradation - Thermus brockianus
+path:tbc00281	Geraniol degradation - Thermus brockianus
+path:tbc00290	Valine, leucine and isoleucine biosynthesis - Thermus brockianus
+path:tbc00300	Lysine biosynthesis - Thermus brockianus
+path:tbc00310	Lysine degradation - Thermus brockianus
+path:tbc00330	Arginine and proline metabolism - Thermus brockianus
+path:tbc00332	Carbapenem biosynthesis - Thermus brockianus
+path:tbc00340	Histidine metabolism - Thermus brockianus
+path:tbc00350	Tyrosine metabolism - Thermus brockianus
+path:tbc00360	Phenylalanine metabolism - Thermus brockianus
+path:tbc00362	Benzoate degradation - Thermus brockianus
+path:tbc00380	Tryptophan metabolism - Thermus brockianus
+path:tbc00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Thermus brockianus
+path:tbc00401	Novobiocin biosynthesis - Thermus brockianus
+path:tbc00410	beta-Alanine metabolism - Thermus brockianus
+path:tbc00430	Taurine and hypotaurine metabolism - Thermus brockianus
+path:tbc00450	Selenocompound metabolism - Thermus brockianus
+path:tbc00460	Cyanoamino acid metabolism - Thermus brockianus
+path:tbc00471	D-Glutamine and D-glutamate metabolism - Thermus brockianus
+path:tbc00473	D-Alanine metabolism - Thermus brockianus
+path:tbc00480	Glutathione metabolism - Thermus brockianus
+path:tbc00500	Starch and sucrose metabolism - Thermus brockianus
+path:tbc00520	Amino sugar and nucleotide sugar metabolism - Thermus brockianus
+path:tbc00521	Streptomycin biosynthesis - Thermus brockianus
+path:tbc00550	Peptidoglycan biosynthesis - Thermus brockianus
+path:tbc00561	Glycerolipid metabolism - Thermus brockianus
+path:tbc00562	Inositol phosphate metabolism - Thermus brockianus
+path:tbc00564	Glycerophospholipid metabolism - Thermus brockianus
+path:tbc00592	alpha-Linolenic acid metabolism - Thermus brockianus
+path:tbc00620	Pyruvate metabolism - Thermus brockianus
+path:tbc00621	Dioxin degradation - Thermus brockianus
+path:tbc00622	Xylene degradation - Thermus brockianus
+path:tbc00623	Toluene degradation - Thermus brockianus
+path:tbc00625	Chloroalkane and chloroalkene degradation - Thermus brockianus
+path:tbc00627	Aminobenzoate degradation - Thermus brockianus
+path:tbc00630	Glyoxylate and dicarboxylate metabolism - Thermus brockianus
+path:tbc00640	Propanoate metabolism - Thermus brockianus
+path:tbc00650	Butanoate metabolism - Thermus brockianus
+path:tbc00660	C5-Branched dibasic acid metabolism - Thermus brockianus
+path:tbc00670	One carbon pool by folate - Thermus brockianus
+path:tbc00680	Methane metabolism - Thermus brockianus
+path:tbc00710	Carbon fixation in photosynthetic organisms - Thermus brockianus
+path:tbc00730	Thiamine metabolism - Thermus brockianus
+path:tbc00740	Riboflavin metabolism - Thermus brockianus
+path:tbc00750	Vitamin B6 metabolism - Thermus brockianus
+path:tbc00760	Nicotinate and nicotinamide metabolism - Thermus brockianus
+path:tbc00770	Pantothenate and CoA biosynthesis - Thermus brockianus
+path:tbc00780	Biotin metabolism - Thermus brockianus
+path:tbc00785	Lipoic acid metabolism - Thermus brockianus
+path:tbc00790	Folate biosynthesis - Thermus brockianus
+path:tbc00860	Porphyrin and chlorophyll metabolism - Thermus brockianus
+path:tbc00900	Terpenoid backbone biosynthesis - Thermus brockianus
+path:tbc00903	Limonene and pinene degradation - Thermus brockianus
+path:tbc00906	Carotenoid biosynthesis - Thermus brockianus
+path:tbc00910	Nitrogen metabolism - Thermus brockianus
+path:tbc00920	Sulfur metabolism - Thermus brockianus
+path:tbc00970	Aminoacyl-tRNA biosynthesis - Thermus brockianus
+path:tbc01040	Biosynthesis of unsaturated fatty acids - Thermus brockianus
+path:tbc01100	Metabolic pathways - Thermus brockianus
+path:tbc01110	Biosynthesis of secondary metabolites - Thermus brockianus
+path:tbc01120	Microbial metabolism in diverse environments - Thermus brockianus
+path:tbc01130	Biosynthesis of antibiotics - Thermus brockianus
+path:tbc01200	Carbon metabolism - Thermus brockianus
+path:tbc01210	2-Oxocarboxylic acid metabolism - Thermus brockianus
+path:tbc01212	Fatty acid metabolism - Thermus brockianus
+path:tbc01220	Degradation of aromatic compounds - Thermus brockianus
+path:tbc01230	Biosynthesis of amino acids - Thermus brockianus
+path:tbc01501	beta-Lactam resistance - Thermus brockianus
+path:tbc01502	Vancomycin resistance - Thermus brockianus
+path:tbc01503	Cationic antimicrobial peptide (CAMP) resistance - Thermus brockianus
+path:tbc02010	ABC transporters - Thermus brockianus
+path:tbc02020	Two-component system - Thermus brockianus
+path:tbc02024	Quorum sensing - Thermus brockianus
+path:tbc03010	Ribosome - Thermus brockianus
+path:tbc03018	RNA degradation - Thermus brockianus
+path:tbc03020	RNA polymerase - Thermus brockianus
+path:tbc03030	DNA replication - Thermus brockianus
+path:tbc03060	Protein export - Thermus brockianus
+path:tbc03070	Bacterial secretion system - Thermus brockianus
+path:tbc03410	Base excision repair - Thermus brockianus
+path:tbc03420	Nucleotide excision repair - Thermus brockianus
+path:tbc03430	Mismatch repair - Thermus brockianus
+path:tbc03440	Homologous recombination - Thermus brockianus
+path:tbc04122	Sulfur relay system - Thermus brockianus
+path:mrb00010	Glycolysis / Gluconeogenesis - Meiothermus ruber DSM 1279
+path:mrb00020	Citrate cycle (TCA cycle) - Meiothermus ruber DSM 1279
+path:mrb00030	Pentose phosphate pathway - Meiothermus ruber DSM 1279
+path:mrb00040	Pentose and glucuronate interconversions - Meiothermus ruber DSM 1279
+path:mrb00051	Fructose and mannose metabolism - Meiothermus ruber DSM 1279
+path:mrb00052	Galactose metabolism - Meiothermus ruber DSM 1279
+path:mrb00061	Fatty acid biosynthesis - Meiothermus ruber DSM 1279
+path:mrb00071	Fatty acid degradation - Meiothermus ruber DSM 1279
+path:mrb00072	Synthesis and degradation of ketone bodies - Meiothermus ruber DSM 1279
+path:mrb00130	Ubiquinone and other terpenoid-quinone biosynthesis - Meiothermus ruber DSM 1279
+path:mrb00190	Oxidative phosphorylation - Meiothermus ruber DSM 1279
+path:mrb00220	Arginine biosynthesis - Meiothermus ruber DSM 1279
+path:mrb00230	Purine metabolism - Meiothermus ruber DSM 1279
+path:mrb00240	Pyrimidine metabolism - Meiothermus ruber DSM 1279
+path:mrb00250	Alanine, aspartate and glutamate metabolism - Meiothermus ruber DSM 1279
+path:mrb00260	Glycine, serine and threonine metabolism - Meiothermus ruber DSM 1279
+path:mrb00261	Monobactam biosynthesis - Meiothermus ruber DSM 1279
+path:mrb00270	Cysteine and methionine metabolism - Meiothermus ruber DSM 1279
+path:mrb00280	Valine, leucine and isoleucine degradation - Meiothermus ruber DSM 1279
+path:mrb00281	Geraniol degradation - Meiothermus ruber DSM 1279
+path:mrb00290	Valine, leucine and isoleucine biosynthesis - Meiothermus ruber DSM 1279
+path:mrb00300	Lysine biosynthesis - Meiothermus ruber DSM 1279
+path:mrb00310	Lysine degradation - Meiothermus ruber DSM 1279
+path:mrb00311	Penicillin and cephalosporin biosynthesis - Meiothermus ruber DSM 1279
+path:mrb00330	Arginine and proline metabolism - Meiothermus ruber DSM 1279
+path:mrb00332	Carbapenem biosynthesis - Meiothermus ruber DSM 1279
+path:mrb00340	Histidine metabolism - Meiothermus ruber DSM 1279
+path:mrb00350	Tyrosine metabolism - Meiothermus ruber DSM 1279
+path:mrb00360	Phenylalanine metabolism - Meiothermus ruber DSM 1279
+path:mrb00362	Benzoate degradation - Meiothermus ruber DSM 1279
+path:mrb00380	Tryptophan metabolism - Meiothermus ruber DSM 1279
+path:mrb00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Meiothermus ruber DSM 1279
+path:mrb00401	Novobiocin biosynthesis - Meiothermus ruber DSM 1279
+path:mrb00410	beta-Alanine metabolism - Meiothermus ruber DSM 1279
+path:mrb00430	Taurine and hypotaurine metabolism - Meiothermus ruber DSM 1279
+path:mrb00450	Selenocompound metabolism - Meiothermus ruber DSM 1279
+path:mrb00460	Cyanoamino acid metabolism - Meiothermus ruber DSM 1279
+path:mrb00471	D-Glutamine and D-glutamate metabolism - Meiothermus ruber DSM 1279
+path:mrb00472	D-Arginine and D-ornithine metabolism - Meiothermus ruber DSM 1279
+path:mrb00473	D-Alanine metabolism - Meiothermus ruber DSM 1279
+path:mrb00480	Glutathione metabolism - Meiothermus ruber DSM 1279
+path:mrb00500	Starch and sucrose metabolism - Meiothermus ruber DSM 1279
+path:mrb00520	Amino sugar and nucleotide sugar metabolism - Meiothermus ruber DSM 1279
+path:mrb00521	Streptomycin biosynthesis - Meiothermus ruber DSM 1279
+path:mrb00523	Polyketide sugar unit biosynthesis - Meiothermus ruber DSM 1279
+path:mrb00525	Acarbose and validamycin biosynthesis - Meiothermus ruber DSM 1279
+path:mrb00540	Lipopolysaccharide biosynthesis - Meiothermus ruber DSM 1279
+path:mrb00550	Peptidoglycan biosynthesis - Meiothermus ruber DSM 1279
+path:mrb00561	Glycerolipid metabolism - Meiothermus ruber DSM 1279
+path:mrb00562	Inositol phosphate metabolism - Meiothermus ruber DSM 1279
+path:mrb00564	Glycerophospholipid metabolism - Meiothermus ruber DSM 1279
+path:mrb00592	alpha-Linolenic acid metabolism - Meiothermus ruber DSM 1279
+path:mrb00620	Pyruvate metabolism - Meiothermus ruber DSM 1279
+path:mrb00622	Xylene degradation - Meiothermus ruber DSM 1279
+path:mrb00625	Chloroalkane and chloroalkene degradation - Meiothermus ruber DSM 1279
+path:mrb00627	Aminobenzoate degradation - Meiothermus ruber DSM 1279
+path:mrb00630	Glyoxylate and dicarboxylate metabolism - Meiothermus ruber DSM 1279
+path:mrb00640	Propanoate metabolism - Meiothermus ruber DSM 1279
+path:mrb00643	Styrene degradation - Meiothermus ruber DSM 1279
+path:mrb00650	Butanoate metabolism - Meiothermus ruber DSM 1279
+path:mrb00660	C5-Branched dibasic acid metabolism - Meiothermus ruber DSM 1279
+path:mrb00670	One carbon pool by folate - Meiothermus ruber DSM 1279
+path:mrb00680	Methane metabolism - Meiothermus ruber DSM 1279
+path:mrb00710	Carbon fixation in photosynthetic organisms - Meiothermus ruber DSM 1279
+path:mrb00730	Thiamine metabolism - Meiothermus ruber DSM 1279
+path:mrb00740	Riboflavin metabolism - Meiothermus ruber DSM 1279
+path:mrb00750	Vitamin B6 metabolism - Meiothermus ruber DSM 1279
+path:mrb00760	Nicotinate and nicotinamide metabolism - Meiothermus ruber DSM 1279
+path:mrb00770	Pantothenate and CoA biosynthesis - Meiothermus ruber DSM 1279
+path:mrb00780	Biotin metabolism - Meiothermus ruber DSM 1279
+path:mrb00785	Lipoic acid metabolism - Meiothermus ruber DSM 1279
+path:mrb00790	Folate biosynthesis - Meiothermus ruber DSM 1279
+path:mrb00860	Porphyrin and chlorophyll metabolism - Meiothermus ruber DSM 1279
+path:mrb00900	Terpenoid backbone biosynthesis - Meiothermus ruber DSM 1279
+path:mrb00903	Limonene and pinene degradation - Meiothermus ruber DSM 1279
+path:mrb00906	Carotenoid biosynthesis - Meiothermus ruber DSM 1279
+path:mrb00910	Nitrogen metabolism - Meiothermus ruber DSM 1279
+path:mrb00920	Sulfur metabolism - Meiothermus ruber DSM 1279
+path:mrb00970	Aminoacyl-tRNA biosynthesis - Meiothermus ruber DSM 1279
+path:mrb01040	Biosynthesis of unsaturated fatty acids - Meiothermus ruber DSM 1279
+path:mrb01100	Metabolic pathways - Meiothermus ruber DSM 1279
+path:mrb01110	Biosynthesis of secondary metabolites - Meiothermus ruber DSM 1279
+path:mrb01120	Microbial metabolism in diverse environments - Meiothermus ruber DSM 1279
+path:mrb01130	Biosynthesis of antibiotics - Meiothermus ruber DSM 1279
+path:mrb01200	Carbon metabolism - Meiothermus ruber DSM 1279
+path:mrb01210	2-Oxocarboxylic acid metabolism - Meiothermus ruber DSM 1279
+path:mrb01212	Fatty acid metabolism - Meiothermus ruber DSM 1279
+path:mrb01220	Degradation of aromatic compounds - Meiothermus ruber DSM 1279
+path:mrb01230	Biosynthesis of amino acids - Meiothermus ruber DSM 1279
+path:mrb01501	beta-Lactam resistance - Meiothermus ruber DSM 1279
+path:mrb01502	Vancomycin resistance - Meiothermus ruber DSM 1279
+path:mrb01503	Cationic antimicrobial peptide (CAMP) resistance - Meiothermus ruber DSM 1279
+path:mrb02010	ABC transporters - Meiothermus ruber DSM 1279
+path:mrb02020	Two-component system - Meiothermus ruber DSM 1279
+path:mrb02024	Quorum sensing - Meiothermus ruber DSM 1279
+path:mrb02030	Bacterial chemotaxis - Meiothermus ruber DSM 1279
+path:mrb03010	Ribosome - Meiothermus ruber DSM 1279
+path:mrb03018	RNA degradation - Meiothermus ruber DSM 1279
+path:mrb03020	RNA polymerase - Meiothermus ruber DSM 1279
+path:mrb03030	DNA replication - Meiothermus ruber DSM 1279
+path:mrb03060	Protein export - Meiothermus ruber DSM 1279
+path:mrb03070	Bacterial secretion system - Meiothermus ruber DSM 1279
+path:mrb03410	Base excision repair - Meiothermus ruber DSM 1279
+path:mrb03420	Nucleotide excision repair - Meiothermus ruber DSM 1279
+path:mrb03430	Mismatch repair - Meiothermus ruber DSM 1279
+path:mrb03440	Homologous recombination - Meiothermus ruber DSM 1279
+path:mrb04122	Sulfur relay system - Meiothermus ruber DSM 1279
+path:mre00010	Glycolysis / Gluconeogenesis - Meiothermus ruber DSM 1279
+path:mre00020	Citrate cycle (TCA cycle) - Meiothermus ruber DSM 1279
+path:mre00030	Pentose phosphate pathway - Meiothermus ruber DSM 1279
+path:mre00040	Pentose and glucuronate interconversions - Meiothermus ruber DSM 1279
+path:mre00051	Fructose and mannose metabolism - Meiothermus ruber DSM 1279
+path:mre00052	Galactose metabolism - Meiothermus ruber DSM 1279
+path:mre00061	Fatty acid biosynthesis - Meiothermus ruber DSM 1279
+path:mre00071	Fatty acid degradation - Meiothermus ruber DSM 1279
+path:mre00072	Synthesis and degradation of ketone bodies - Meiothermus ruber DSM 1279
+path:mre00130	Ubiquinone and other terpenoid-quinone biosynthesis - Meiothermus ruber DSM 1279
+path:mre00190	Oxidative phosphorylation - Meiothermus ruber DSM 1279
+path:mre00220	Arginine biosynthesis - Meiothermus ruber DSM 1279
+path:mre00230	Purine metabolism - Meiothermus ruber DSM 1279
+path:mre00240	Pyrimidine metabolism - Meiothermus ruber DSM 1279
+path:mre00250	Alanine, aspartate and glutamate metabolism - Meiothermus ruber DSM 1279
+path:mre00260	Glycine, serine and threonine metabolism - Meiothermus ruber DSM 1279
+path:mre00261	Monobactam biosynthesis - Meiothermus ruber DSM 1279
+path:mre00270	Cysteine and methionine metabolism - Meiothermus ruber DSM 1279
+path:mre00280	Valine, leucine and isoleucine degradation - Meiothermus ruber DSM 1279
+path:mre00281	Geraniol degradation - Meiothermus ruber DSM 1279
+path:mre00290	Valine, leucine and isoleucine biosynthesis - Meiothermus ruber DSM 1279
+path:mre00300	Lysine biosynthesis - Meiothermus ruber DSM 1279
+path:mre00310	Lysine degradation - Meiothermus ruber DSM 1279
+path:mre00311	Penicillin and cephalosporin biosynthesis - Meiothermus ruber DSM 1279
+path:mre00330	Arginine and proline metabolism - Meiothermus ruber DSM 1279
+path:mre00332	Carbapenem biosynthesis - Meiothermus ruber DSM 1279
+path:mre00340	Histidine metabolism - Meiothermus ruber DSM 1279
+path:mre00350	Tyrosine metabolism - Meiothermus ruber DSM 1279
+path:mre00360	Phenylalanine metabolism - Meiothermus ruber DSM 1279
+path:mre00362	Benzoate degradation - Meiothermus ruber DSM 1279
+path:mre00380	Tryptophan metabolism - Meiothermus ruber DSM 1279
+path:mre00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Meiothermus ruber DSM 1279
+path:mre00401	Novobiocin biosynthesis - Meiothermus ruber DSM 1279
+path:mre00410	beta-Alanine metabolism - Meiothermus ruber DSM 1279
+path:mre00430	Taurine and hypotaurine metabolism - Meiothermus ruber DSM 1279
+path:mre00450	Selenocompound metabolism - Meiothermus ruber DSM 1279
+path:mre00460	Cyanoamino acid metabolism - Meiothermus ruber DSM 1279
+path:mre00471	D-Glutamine and D-glutamate metabolism - Meiothermus ruber DSM 1279
+path:mre00473	D-Alanine metabolism - Meiothermus ruber DSM 1279
+path:mre00480	Glutathione metabolism - Meiothermus ruber DSM 1279
+path:mre00500	Starch and sucrose metabolism - Meiothermus ruber DSM 1279
+path:mre00520	Amino sugar and nucleotide sugar metabolism - Meiothermus ruber DSM 1279
+path:mre00521	Streptomycin biosynthesis - Meiothermus ruber DSM 1279
+path:mre00523	Polyketide sugar unit biosynthesis - Meiothermus ruber DSM 1279
+path:mre00525	Acarbose and validamycin biosynthesis - Meiothermus ruber DSM 1279
+path:mre00540	Lipopolysaccharide biosynthesis - Meiothermus ruber DSM 1279
+path:mre00550	Peptidoglycan biosynthesis - Meiothermus ruber DSM 1279
+path:mre00561	Glycerolipid metabolism - Meiothermus ruber DSM 1279
+path:mre00562	Inositol phosphate metabolism - Meiothermus ruber DSM 1279
+path:mre00564	Glycerophospholipid metabolism - Meiothermus ruber DSM 1279
+path:mre00592	alpha-Linolenic acid metabolism - Meiothermus ruber DSM 1279
+path:mre00620	Pyruvate metabolism - Meiothermus ruber DSM 1279
+path:mre00622	Xylene degradation - Meiothermus ruber DSM 1279
+path:mre00625	Chloroalkane and chloroalkene degradation - Meiothermus ruber DSM 1279
+path:mre00627	Aminobenzoate degradation - Meiothermus ruber DSM 1279
+path:mre00630	Glyoxylate and dicarboxylate metabolism - Meiothermus ruber DSM 1279
+path:mre00640	Propanoate metabolism - Meiothermus ruber DSM 1279
+path:mre00643	Styrene degradation - Meiothermus ruber DSM 1279
+path:mre00650	Butanoate metabolism - Meiothermus ruber DSM 1279
+path:mre00660	C5-Branched dibasic acid metabolism - Meiothermus ruber DSM 1279
+path:mre00670	One carbon pool by folate - Meiothermus ruber DSM 1279
+path:mre00680	Methane metabolism - Meiothermus ruber DSM 1279
+path:mre00710	Carbon fixation in photosynthetic organisms - Meiothermus ruber DSM 1279
+path:mre00730	Thiamine metabolism - Meiothermus ruber DSM 1279
+path:mre00740	Riboflavin metabolism - Meiothermus ruber DSM 1279
+path:mre00750	Vitamin B6 metabolism - Meiothermus ruber DSM 1279
+path:mre00760	Nicotinate and nicotinamide metabolism - Meiothermus ruber DSM 1279
+path:mre00770	Pantothenate and CoA biosynthesis - Meiothermus ruber DSM 1279
+path:mre00780	Biotin metabolism - Meiothermus ruber DSM 1279
+path:mre00785	Lipoic acid metabolism - Meiothermus ruber DSM 1279
+path:mre00790	Folate biosynthesis - Meiothermus ruber DSM 1279
+path:mre00860	Porphyrin and chlorophyll metabolism - Meiothermus ruber DSM 1279
+path:mre00900	Terpenoid backbone biosynthesis - Meiothermus ruber DSM 1279
+path:mre00903	Limonene and pinene degradation - Meiothermus ruber DSM 1279
+path:mre00906	Carotenoid biosynthesis - Meiothermus ruber DSM 1279
+path:mre00910	Nitrogen metabolism - Meiothermus ruber DSM 1279
+path:mre00920	Sulfur metabolism - Meiothermus ruber DSM 1279
+path:mre00970	Aminoacyl-tRNA biosynthesis - Meiothermus ruber DSM 1279
+path:mre01040	Biosynthesis of unsaturated fatty acids - Meiothermus ruber DSM 1279
+path:mre01100	Metabolic pathways - Meiothermus ruber DSM 1279
+path:mre01110	Biosynthesis of secondary metabolites - Meiothermus ruber DSM 1279
+path:mre01120	Microbial metabolism in diverse environments - Meiothermus ruber DSM 1279
+path:mre01130	Biosynthesis of antibiotics - Meiothermus ruber DSM 1279
+path:mre01200	Carbon metabolism - Meiothermus ruber DSM 1279
+path:mre01210	2-Oxocarboxylic acid metabolism - Meiothermus ruber DSM 1279
+path:mre01212	Fatty acid metabolism - Meiothermus ruber DSM 1279
+path:mre01220	Degradation of aromatic compounds - Meiothermus ruber DSM 1279
+path:mre01230	Biosynthesis of amino acids - Meiothermus ruber DSM 1279
+path:mre01501	beta-Lactam resistance - Meiothermus ruber DSM 1279
+path:mre01502	Vancomycin resistance - Meiothermus ruber DSM 1279
+path:mre01503	Cationic antimicrobial peptide (CAMP) resistance - Meiothermus ruber DSM 1279
+path:mre02010	ABC transporters - Meiothermus ruber DSM 1279
+path:mre02020	Two-component system - Meiothermus ruber DSM 1279
+path:mre02024	Quorum sensing - Meiothermus ruber DSM 1279
+path:mre02030	Bacterial chemotaxis - Meiothermus ruber DSM 1279
+path:mre03010	Ribosome - Meiothermus ruber DSM 1279
+path:mre03018	RNA degradation - Meiothermus ruber DSM 1279
+path:mre03020	RNA polymerase - Meiothermus ruber DSM 1279
+path:mre03030	DNA replication - Meiothermus ruber DSM 1279
+path:mre03060	Protein export - Meiothermus ruber DSM 1279
+path:mre03070	Bacterial secretion system - Meiothermus ruber DSM 1279
+path:mre03410	Base excision repair - Meiothermus ruber DSM 1279
+path:mre03420	Nucleotide excision repair - Meiothermus ruber DSM 1279
+path:mre03430	Mismatch repair - Meiothermus ruber DSM 1279
+path:mre03440	Homologous recombination - Meiothermus ruber DSM 1279
+path:mre04122	Sulfur relay system - Meiothermus ruber DSM 1279
+path:msv00010	Glycolysis / Gluconeogenesis - Meiothermus silvanus
+path:msv00020	Citrate cycle (TCA cycle) - Meiothermus silvanus
+path:msv00030	Pentose phosphate pathway - Meiothermus silvanus
+path:msv00040	Pentose and glucuronate interconversions - Meiothermus silvanus
+path:msv00051	Fructose and mannose metabolism - Meiothermus silvanus
+path:msv00052	Galactose metabolism - Meiothermus silvanus
+path:msv00061	Fatty acid biosynthesis - Meiothermus silvanus
+path:msv00071	Fatty acid degradation - Meiothermus silvanus
+path:msv00072	Synthesis and degradation of ketone bodies - Meiothermus silvanus
+path:msv00130	Ubiquinone and other terpenoid-quinone biosynthesis - Meiothermus silvanus
+path:msv00190	Oxidative phosphorylation - Meiothermus silvanus
+path:msv00220	Arginine biosynthesis - Meiothermus silvanus
+path:msv00230	Purine metabolism - Meiothermus silvanus
+path:msv00240	Pyrimidine metabolism - Meiothermus silvanus
+path:msv00250	Alanine, aspartate and glutamate metabolism - Meiothermus silvanus
+path:msv00260	Glycine, serine and threonine metabolism - Meiothermus silvanus
+path:msv00261	Monobactam biosynthesis - Meiothermus silvanus
+path:msv00270	Cysteine and methionine metabolism - Meiothermus silvanus
+path:msv00280	Valine, leucine and isoleucine degradation - Meiothermus silvanus
+path:msv00281	Geraniol degradation - Meiothermus silvanus
+path:msv00290	Valine, leucine and isoleucine biosynthesis - Meiothermus silvanus
+path:msv00300	Lysine biosynthesis - Meiothermus silvanus
+path:msv00310	Lysine degradation - Meiothermus silvanus
+path:msv00311	Penicillin and cephalosporin biosynthesis - Meiothermus silvanus
+path:msv00330	Arginine and proline metabolism - Meiothermus silvanus
+path:msv00332	Carbapenem biosynthesis - Meiothermus silvanus
+path:msv00340	Histidine metabolism - Meiothermus silvanus
+path:msv00350	Tyrosine metabolism - Meiothermus silvanus
+path:msv00360	Phenylalanine metabolism - Meiothermus silvanus
+path:msv00361	Chlorocyclohexane and chlorobenzene degradation - Meiothermus silvanus
+path:msv00362	Benzoate degradation - Meiothermus silvanus
+path:msv00364	Fluorobenzoate degradation - Meiothermus silvanus
+path:msv00380	Tryptophan metabolism - Meiothermus silvanus
+path:msv00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Meiothermus silvanus
+path:msv00401	Novobiocin biosynthesis - Meiothermus silvanus
+path:msv00410	beta-Alanine metabolism - Meiothermus silvanus
+path:msv00430	Taurine and hypotaurine metabolism - Meiothermus silvanus
+path:msv00450	Selenocompound metabolism - Meiothermus silvanus
+path:msv00460	Cyanoamino acid metabolism - Meiothermus silvanus
+path:msv00471	D-Glutamine and D-glutamate metabolism - Meiothermus silvanus
+path:msv00473	D-Alanine metabolism - Meiothermus silvanus
+path:msv00480	Glutathione metabolism - Meiothermus silvanus
+path:msv00500	Starch and sucrose metabolism - Meiothermus silvanus
+path:msv00511	Other glycan degradation - Meiothermus silvanus
+path:msv00520	Amino sugar and nucleotide sugar metabolism - Meiothermus silvanus
+path:msv00521	Streptomycin biosynthesis - Meiothermus silvanus
+path:msv00523	Polyketide sugar unit biosynthesis - Meiothermus silvanus
+path:msv00525	Acarbose and validamycin biosynthesis - Meiothermus silvanus
+path:msv00540	Lipopolysaccharide biosynthesis - Meiothermus silvanus
+path:msv00550	Peptidoglycan biosynthesis - Meiothermus silvanus
+path:msv00561	Glycerolipid metabolism - Meiothermus silvanus
+path:msv00562	Inositol phosphate metabolism - Meiothermus silvanus
+path:msv00564	Glycerophospholipid metabolism - Meiothermus silvanus
+path:msv00592	alpha-Linolenic acid metabolism - Meiothermus silvanus
+path:msv00620	Pyruvate metabolism - Meiothermus silvanus
+path:msv00622	Xylene degradation - Meiothermus silvanus
+path:msv00623	Toluene degradation - Meiothermus silvanus
+path:msv00625	Chloroalkane and chloroalkene degradation - Meiothermus silvanus
+path:msv00626	Naphthalene degradation - Meiothermus silvanus
+path:msv00627	Aminobenzoate degradation - Meiothermus silvanus
+path:msv00630	Glyoxylate and dicarboxylate metabolism - Meiothermus silvanus
+path:msv00640	Propanoate metabolism - Meiothermus silvanus
+path:msv00643	Styrene degradation - Meiothermus silvanus
+path:msv00650	Butanoate metabolism - Meiothermus silvanus
+path:msv00660	C5-Branched dibasic acid metabolism - Meiothermus silvanus
+path:msv00670	One carbon pool by folate - Meiothermus silvanus
+path:msv00680	Methane metabolism - Meiothermus silvanus
+path:msv00710	Carbon fixation in photosynthetic organisms - Meiothermus silvanus
+path:msv00730	Thiamine metabolism - Meiothermus silvanus
+path:msv00740	Riboflavin metabolism - Meiothermus silvanus
+path:msv00750	Vitamin B6 metabolism - Meiothermus silvanus
+path:msv00760	Nicotinate and nicotinamide metabolism - Meiothermus silvanus
+path:msv00770	Pantothenate and CoA biosynthesis - Meiothermus silvanus
+path:msv00780	Biotin metabolism - Meiothermus silvanus
+path:msv00785	Lipoic acid metabolism - Meiothermus silvanus
+path:msv00790	Folate biosynthesis - Meiothermus silvanus
+path:msv00860	Porphyrin and chlorophyll metabolism - Meiothermus silvanus
+path:msv00900	Terpenoid backbone biosynthesis - Meiothermus silvanus
+path:msv00903	Limonene and pinene degradation - Meiothermus silvanus
+path:msv00906	Carotenoid biosynthesis - Meiothermus silvanus
+path:msv00910	Nitrogen metabolism - Meiothermus silvanus
+path:msv00920	Sulfur metabolism - Meiothermus silvanus
+path:msv00970	Aminoacyl-tRNA biosynthesis - Meiothermus silvanus
+path:msv01040	Biosynthesis of unsaturated fatty acids - Meiothermus silvanus
+path:msv01100	Metabolic pathways - Meiothermus silvanus
+path:msv01110	Biosynthesis of secondary metabolites - Meiothermus silvanus
+path:msv01120	Microbial metabolism in diverse environments - Meiothermus silvanus
+path:msv01130	Biosynthesis of antibiotics - Meiothermus silvanus
+path:msv01200	Carbon metabolism - Meiothermus silvanus
+path:msv01210	2-Oxocarboxylic acid metabolism - Meiothermus silvanus
+path:msv01212	Fatty acid metabolism - Meiothermus silvanus
+path:msv01220	Degradation of aromatic compounds - Meiothermus silvanus
+path:msv01230	Biosynthesis of amino acids - Meiothermus silvanus
+path:msv01501	beta-Lactam resistance - Meiothermus silvanus
+path:msv01502	Vancomycin resistance - Meiothermus silvanus
+path:msv01503	Cationic antimicrobial peptide (CAMP) resistance - Meiothermus silvanus
+path:msv02010	ABC transporters - Meiothermus silvanus
+path:msv02020	Two-component system - Meiothermus silvanus
+path:msv02024	Quorum sensing - Meiothermus silvanus
+path:msv03010	Ribosome - Meiothermus silvanus
+path:msv03018	RNA degradation - Meiothermus silvanus
+path:msv03020	RNA polymerase - Meiothermus silvanus
+path:msv03030	DNA replication - Meiothermus silvanus
+path:msv03060	Protein export - Meiothermus silvanus
+path:msv03070	Bacterial secretion system - Meiothermus silvanus
+path:msv03410	Base excision repair - Meiothermus silvanus
+path:msv03420	Nucleotide excision repair - Meiothermus silvanus
+path:msv03430	Mismatch repair - Meiothermus silvanus
+path:msv03440	Homologous recombination - Meiothermus silvanus
+path:msv04122	Sulfur relay system - Meiothermus silvanus
+path:opr00010	Glycolysis / Gluconeogenesis - Oceanithermus profundus
+path:opr00020	Citrate cycle (TCA cycle) - Oceanithermus profundus
+path:opr00030	Pentose phosphate pathway - Oceanithermus profundus
+path:opr00040	Pentose and glucuronate interconversions - Oceanithermus profundus
+path:opr00051	Fructose and mannose metabolism - Oceanithermus profundus
+path:opr00052	Galactose metabolism - Oceanithermus profundus
+path:opr00061	Fatty acid biosynthesis - Oceanithermus profundus
+path:opr00071	Fatty acid degradation - Oceanithermus profundus
+path:opr00072	Synthesis and degradation of ketone bodies - Oceanithermus profundus
+path:opr00130	Ubiquinone and other terpenoid-quinone biosynthesis - Oceanithermus profundus
+path:opr00190	Oxidative phosphorylation - Oceanithermus profundus
+path:opr00220	Arginine biosynthesis - Oceanithermus profundus
+path:opr00230	Purine metabolism - Oceanithermus profundus
+path:opr00240	Pyrimidine metabolism - Oceanithermus profundus
+path:opr00250	Alanine, aspartate and glutamate metabolism - Oceanithermus profundus
+path:opr00260	Glycine, serine and threonine metabolism - Oceanithermus profundus
+path:opr00261	Monobactam biosynthesis - Oceanithermus profundus
+path:opr00270	Cysteine and methionine metabolism - Oceanithermus profundus
+path:opr00280	Valine, leucine and isoleucine degradation - Oceanithermus profundus
+path:opr00281	Geraniol degradation - Oceanithermus profundus
+path:opr00290	Valine, leucine and isoleucine biosynthesis - Oceanithermus profundus
+path:opr00300	Lysine biosynthesis - Oceanithermus profundus
+path:opr00310	Lysine degradation - Oceanithermus profundus
+path:opr00330	Arginine and proline metabolism - Oceanithermus profundus
+path:opr00332	Carbapenem biosynthesis - Oceanithermus profundus
+path:opr00340	Histidine metabolism - Oceanithermus profundus
+path:opr00350	Tyrosine metabolism - Oceanithermus profundus
+path:opr00360	Phenylalanine metabolism - Oceanithermus profundus
+path:opr00362	Benzoate degradation - Oceanithermus profundus
+path:opr00380	Tryptophan metabolism - Oceanithermus profundus
+path:opr00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Oceanithermus profundus
+path:opr00401	Novobiocin biosynthesis - Oceanithermus profundus
+path:opr00410	beta-Alanine metabolism - Oceanithermus profundus
+path:opr00430	Taurine and hypotaurine metabolism - Oceanithermus profundus
+path:opr00450	Selenocompound metabolism - Oceanithermus profundus
+path:opr00460	Cyanoamino acid metabolism - Oceanithermus profundus
+path:opr00471	D-Glutamine and D-glutamate metabolism - Oceanithermus profundus
+path:opr00473	D-Alanine metabolism - Oceanithermus profundus
+path:opr00480	Glutathione metabolism - Oceanithermus profundus
+path:opr00500	Starch and sucrose metabolism - Oceanithermus profundus
+path:opr00520	Amino sugar and nucleotide sugar metabolism - Oceanithermus profundus
+path:opr00521	Streptomycin biosynthesis - Oceanithermus profundus
+path:opr00550	Peptidoglycan biosynthesis - Oceanithermus profundus
+path:opr00561	Glycerolipid metabolism - Oceanithermus profundus
+path:opr00562	Inositol phosphate metabolism - Oceanithermus profundus
+path:opr00564	Glycerophospholipid metabolism - Oceanithermus profundus
+path:opr00592	alpha-Linolenic acid metabolism - Oceanithermus profundus
+path:opr00620	Pyruvate metabolism - Oceanithermus profundus
+path:opr00627	Aminobenzoate degradation - Oceanithermus profundus
+path:opr00630	Glyoxylate and dicarboxylate metabolism - Oceanithermus profundus
+path:opr00640	Propanoate metabolism - Oceanithermus profundus
+path:opr00650	Butanoate metabolism - Oceanithermus profundus
+path:opr00660	C5-Branched dibasic acid metabolism - Oceanithermus profundus
+path:opr00670	One carbon pool by folate - Oceanithermus profundus
+path:opr00680	Methane metabolism - Oceanithermus profundus
+path:opr00730	Thiamine metabolism - Oceanithermus profundus
+path:opr00740	Riboflavin metabolism - Oceanithermus profundus
+path:opr00750	Vitamin B6 metabolism - Oceanithermus profundus
+path:opr00760	Nicotinate and nicotinamide metabolism - Oceanithermus profundus
+path:opr00770	Pantothenate and CoA biosynthesis - Oceanithermus profundus
+path:opr00780	Biotin metabolism - Oceanithermus profundus
+path:opr00785	Lipoic acid metabolism - Oceanithermus profundus
+path:opr00790	Folate biosynthesis - Oceanithermus profundus
+path:opr00860	Porphyrin and chlorophyll metabolism - Oceanithermus profundus
+path:opr00900	Terpenoid backbone biosynthesis - Oceanithermus profundus
+path:opr00910	Nitrogen metabolism - Oceanithermus profundus
+path:opr00920	Sulfur metabolism - Oceanithermus profundus
+path:opr00970	Aminoacyl-tRNA biosynthesis - Oceanithermus profundus
+path:opr01040	Biosynthesis of unsaturated fatty acids - Oceanithermus profundus
+path:opr01054	Nonribosomal peptide structures - Oceanithermus profundus
+path:opr01100	Metabolic pathways - Oceanithermus profundus
+path:opr01110	Biosynthesis of secondary metabolites - Oceanithermus profundus
+path:opr01120	Microbial metabolism in diverse environments - Oceanithermus profundus
+path:opr01130	Biosynthesis of antibiotics - Oceanithermus profundus
+path:opr01200	Carbon metabolism - Oceanithermus profundus
+path:opr01210	2-Oxocarboxylic acid metabolism - Oceanithermus profundus
+path:opr01212	Fatty acid metabolism - Oceanithermus profundus
+path:opr01220	Degradation of aromatic compounds - Oceanithermus profundus
+path:opr01230	Biosynthesis of amino acids - Oceanithermus profundus
+path:opr01501	beta-Lactam resistance - Oceanithermus profundus
+path:opr01502	Vancomycin resistance - Oceanithermus profundus
+path:opr01503	Cationic antimicrobial peptide (CAMP) resistance - Oceanithermus profundus
+path:opr02010	ABC transporters - Oceanithermus profundus
+path:opr02020	Two-component system - Oceanithermus profundus
+path:opr02024	Quorum sensing - Oceanithermus profundus
+path:opr03010	Ribosome - Oceanithermus profundus
+path:opr03018	RNA degradation - Oceanithermus profundus
+path:opr03020	RNA polymerase - Oceanithermus profundus
+path:opr03030	DNA replication - Oceanithermus profundus
+path:opr03060	Protein export - Oceanithermus profundus
+path:opr03070	Bacterial secretion system - Oceanithermus profundus
+path:opr03410	Base excision repair - Oceanithermus profundus
+path:opr03420	Nucleotide excision repair - Oceanithermus profundus
+path:opr03430	Mismatch repair - Oceanithermus profundus
+path:opr03440	Homologous recombination - Oceanithermus profundus
+path:opr04122	Sulfur relay system - Oceanithermus profundus
+path:mhd00010	Glycolysis / Gluconeogenesis - Marinithermus hydrothermalis
+path:mhd00020	Citrate cycle (TCA cycle) - Marinithermus hydrothermalis
+path:mhd00030	Pentose phosphate pathway - Marinithermus hydrothermalis
+path:mhd00040	Pentose and glucuronate interconversions - Marinithermus hydrothermalis
+path:mhd00051	Fructose and mannose metabolism - Marinithermus hydrothermalis
+path:mhd00052	Galactose metabolism - Marinithermus hydrothermalis
+path:mhd00061	Fatty acid biosynthesis - Marinithermus hydrothermalis
+path:mhd00071	Fatty acid degradation - Marinithermus hydrothermalis
+path:mhd00072	Synthesis and degradation of ketone bodies - Marinithermus hydrothermalis
+path:mhd00130	Ubiquinone and other terpenoid-quinone biosynthesis - Marinithermus hydrothermalis
+path:mhd00190	Oxidative phosphorylation - Marinithermus hydrothermalis
+path:mhd00220	Arginine biosynthesis - Marinithermus hydrothermalis
+path:mhd00230	Purine metabolism - Marinithermus hydrothermalis
+path:mhd00240	Pyrimidine metabolism - Marinithermus hydrothermalis
+path:mhd00250	Alanine, aspartate and glutamate metabolism - Marinithermus hydrothermalis
+path:mhd00260	Glycine, serine and threonine metabolism - Marinithermus hydrothermalis
+path:mhd00261	Monobactam biosynthesis - Marinithermus hydrothermalis
+path:mhd00270	Cysteine and methionine metabolism - Marinithermus hydrothermalis
+path:mhd00280	Valine, leucine and isoleucine degradation - Marinithermus hydrothermalis
+path:mhd00281	Geraniol degradation - Marinithermus hydrothermalis
+path:mhd00290	Valine, leucine and isoleucine biosynthesis - Marinithermus hydrothermalis
+path:mhd00300	Lysine biosynthesis - Marinithermus hydrothermalis
+path:mhd00310	Lysine degradation - Marinithermus hydrothermalis
+path:mhd00311	Penicillin and cephalosporin biosynthesis - Marinithermus hydrothermalis
+path:mhd00330	Arginine and proline metabolism - Marinithermus hydrothermalis
+path:mhd00332	Carbapenem biosynthesis - Marinithermus hydrothermalis
+path:mhd00340	Histidine metabolism - Marinithermus hydrothermalis
+path:mhd00350	Tyrosine metabolism - Marinithermus hydrothermalis
+path:mhd00360	Phenylalanine metabolism - Marinithermus hydrothermalis
+path:mhd00361	Chlorocyclohexane and chlorobenzene degradation - Marinithermus hydrothermalis
+path:mhd00362	Benzoate degradation - Marinithermus hydrothermalis
+path:mhd00380	Tryptophan metabolism - Marinithermus hydrothermalis
+path:mhd00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Marinithermus hydrothermalis
+path:mhd00401	Novobiocin biosynthesis - Marinithermus hydrothermalis
+path:mhd00410	beta-Alanine metabolism - Marinithermus hydrothermalis
+path:mhd00430	Taurine and hypotaurine metabolism - Marinithermus hydrothermalis
+path:mhd00450	Selenocompound metabolism - Marinithermus hydrothermalis
+path:mhd00460	Cyanoamino acid metabolism - Marinithermus hydrothermalis
+path:mhd00471	D-Glutamine and D-glutamate metabolism - Marinithermus hydrothermalis
+path:mhd00473	D-Alanine metabolism - Marinithermus hydrothermalis
+path:mhd00480	Glutathione metabolism - Marinithermus hydrothermalis
+path:mhd00500	Starch and sucrose metabolism - Marinithermus hydrothermalis
+path:mhd00520	Amino sugar and nucleotide sugar metabolism - Marinithermus hydrothermalis
+path:mhd00521	Streptomycin biosynthesis - Marinithermus hydrothermalis
+path:mhd00523	Polyketide sugar unit biosynthesis - Marinithermus hydrothermalis
+path:mhd00525	Acarbose and validamycin biosynthesis - Marinithermus hydrothermalis
+path:mhd00540	Lipopolysaccharide biosynthesis - Marinithermus hydrothermalis
+path:mhd00550	Peptidoglycan biosynthesis - Marinithermus hydrothermalis
+path:mhd00561	Glycerolipid metabolism - Marinithermus hydrothermalis
+path:mhd00562	Inositol phosphate metabolism - Marinithermus hydrothermalis
+path:mhd00564	Glycerophospholipid metabolism - Marinithermus hydrothermalis
+path:mhd00592	alpha-Linolenic acid metabolism - Marinithermus hydrothermalis
+path:mhd00620	Pyruvate metabolism - Marinithermus hydrothermalis
+path:mhd00622	Xylene degradation - Marinithermus hydrothermalis
+path:mhd00627	Aminobenzoate degradation - Marinithermus hydrothermalis
+path:mhd00630	Glyoxylate and dicarboxylate metabolism - Marinithermus hydrothermalis
+path:mhd00640	Propanoate metabolism - Marinithermus hydrothermalis
+path:mhd00643	Styrene degradation - Marinithermus hydrothermalis
+path:mhd00650	Butanoate metabolism - Marinithermus hydrothermalis
+path:mhd00660	C5-Branched dibasic acid metabolism - Marinithermus hydrothermalis
+path:mhd00670	One carbon pool by folate - Marinithermus hydrothermalis
+path:mhd00680	Methane metabolism - Marinithermus hydrothermalis
+path:mhd00730	Thiamine metabolism - Marinithermus hydrothermalis
+path:mhd00740	Riboflavin metabolism - Marinithermus hydrothermalis
+path:mhd00750	Vitamin B6 metabolism - Marinithermus hydrothermalis
+path:mhd00760	Nicotinate and nicotinamide metabolism - Marinithermus hydrothermalis
+path:mhd00770	Pantothenate and CoA biosynthesis - Marinithermus hydrothermalis
+path:mhd00780	Biotin metabolism - Marinithermus hydrothermalis
+path:mhd00785	Lipoic acid metabolism - Marinithermus hydrothermalis
+path:mhd00790	Folate biosynthesis - Marinithermus hydrothermalis
+path:mhd00860	Porphyrin and chlorophyll metabolism - Marinithermus hydrothermalis
+path:mhd00900	Terpenoid backbone biosynthesis - Marinithermus hydrothermalis
+path:mhd00903	Limonene and pinene degradation - Marinithermus hydrothermalis
+path:mhd00910	Nitrogen metabolism - Marinithermus hydrothermalis
+path:mhd00920	Sulfur metabolism - Marinithermus hydrothermalis
+path:mhd00970	Aminoacyl-tRNA biosynthesis - Marinithermus hydrothermalis
+path:mhd01040	Biosynthesis of unsaturated fatty acids - Marinithermus hydrothermalis
+path:mhd01100	Metabolic pathways - Marinithermus hydrothermalis
+path:mhd01110	Biosynthesis of secondary metabolites - Marinithermus hydrothermalis
+path:mhd01120	Microbial metabolism in diverse environments - Marinithermus hydrothermalis
+path:mhd01130	Biosynthesis of antibiotics - Marinithermus hydrothermalis
+path:mhd01200	Carbon metabolism - Marinithermus hydrothermalis
+path:mhd01210	2-Oxocarboxylic acid metabolism - Marinithermus hydrothermalis
+path:mhd01212	Fatty acid metabolism - Marinithermus hydrothermalis
+path:mhd01220	Degradation of aromatic compounds - Marinithermus hydrothermalis
+path:mhd01230	Biosynthesis of amino acids - Marinithermus hydrothermalis
+path:mhd01501	beta-Lactam resistance - Marinithermus hydrothermalis
+path:mhd01502	Vancomycin resistance - Marinithermus hydrothermalis
+path:mhd01503	Cationic antimicrobial peptide (CAMP) resistance - Marinithermus hydrothermalis
+path:mhd02010	ABC transporters - Marinithermus hydrothermalis
+path:mhd02020	Two-component system - Marinithermus hydrothermalis
+path:mhd02024	Quorum sensing - Marinithermus hydrothermalis
+path:mhd03010	Ribosome - Marinithermus hydrothermalis
+path:mhd03018	RNA degradation - Marinithermus hydrothermalis
+path:mhd03020	RNA polymerase - Marinithermus hydrothermalis
+path:mhd03030	DNA replication - Marinithermus hydrothermalis
+path:mhd03060	Protein export - Marinithermus hydrothermalis
+path:mhd03070	Bacterial secretion system - Marinithermus hydrothermalis
+path:mhd03410	Base excision repair - Marinithermus hydrothermalis
+path:mhd03420	Nucleotide excision repair - Marinithermus hydrothermalis
+path:mhd03430	Mismatch repair - Marinithermus hydrothermalis
+path:mhd03440	Homologous recombination - Marinithermus hydrothermalis
+path:mhd04122	Sulfur relay system - Marinithermus hydrothermalis

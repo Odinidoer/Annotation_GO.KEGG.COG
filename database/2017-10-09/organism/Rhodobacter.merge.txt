@@ -1,0 +1,688 @@
+path:rsp00010	Glycolysis / Gluconeogenesis - Rhodobacter sphaeroides 2.4.1
+path:rsp00020	Citrate cycle (TCA cycle) - Rhodobacter sphaeroides 2.4.1
+path:rsp00030	Pentose phosphate pathway - Rhodobacter sphaeroides 2.4.1
+path:rsp00040	Pentose and glucuronate interconversions - Rhodobacter sphaeroides 2.4.1
+path:rsp00051	Fructose and mannose metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00052	Galactose metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00053	Ascorbate and aldarate metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00061	Fatty acid biosynthesis - Rhodobacter sphaeroides 2.4.1
+path:rsp00071	Fatty acid degradation - Rhodobacter sphaeroides 2.4.1
+path:rsp00072	Synthesis and degradation of ketone bodies - Rhodobacter sphaeroides 2.4.1
+path:rsp00121	Secondary bile acid biosynthesis - Rhodobacter sphaeroides 2.4.1
+path:rsp00130	Ubiquinone and other terpenoid-quinone biosynthesis - Rhodobacter sphaeroides 2.4.1
+path:rsp00190	Oxidative phosphorylation - Rhodobacter sphaeroides 2.4.1
+path:rsp00220	Arginine biosynthesis - Rhodobacter sphaeroides 2.4.1
+path:rsp00230	Purine metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00240	Pyrimidine metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00250	Alanine, aspartate and glutamate metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00260	Glycine, serine and threonine metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00261	Monobactam biosynthesis - Rhodobacter sphaeroides 2.4.1
+path:rsp00270	Cysteine and methionine metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00280	Valine, leucine and isoleucine degradation - Rhodobacter sphaeroides 2.4.1
+path:rsp00281	Geraniol degradation - Rhodobacter sphaeroides 2.4.1
+path:rsp00290	Valine, leucine and isoleucine biosynthesis - Rhodobacter sphaeroides 2.4.1
+path:rsp00300	Lysine biosynthesis - Rhodobacter sphaeroides 2.4.1
+path:rsp00310	Lysine degradation - Rhodobacter sphaeroides 2.4.1
+path:rsp00330	Arginine and proline metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00332	Carbapenem biosynthesis - Rhodobacter sphaeroides 2.4.1
+path:rsp00340	Histidine metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00350	Tyrosine metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00360	Phenylalanine metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00362	Benzoate degradation - Rhodobacter sphaeroides 2.4.1
+path:rsp00380	Tryptophan metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Rhodobacter sphaeroides 2.4.1
+path:rsp00401	Novobiocin biosynthesis - Rhodobacter sphaeroides 2.4.1
+path:rsp00410	beta-Alanine metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00430	Taurine and hypotaurine metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00440	Phosphonate and phosphinate metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00450	Selenocompound metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00460	Cyanoamino acid metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00471	D-Glutamine and D-glutamate metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00472	D-Arginine and D-ornithine metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00473	D-Alanine metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00480	Glutathione metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00500	Starch and sucrose metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00520	Amino sugar and nucleotide sugar metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00521	Streptomycin biosynthesis - Rhodobacter sphaeroides 2.4.1
+path:rsp00523	Polyketide sugar unit biosynthesis - Rhodobacter sphaeroides 2.4.1
+path:rsp00525	Acarbose and validamycin biosynthesis - Rhodobacter sphaeroides 2.4.1
+path:rsp00540	Lipopolysaccharide biosynthesis - Rhodobacter sphaeroides 2.4.1
+path:rsp00550	Peptidoglycan biosynthesis - Rhodobacter sphaeroides 2.4.1
+path:rsp00561	Glycerolipid metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00562	Inositol phosphate metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00564	Glycerophospholipid metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00590	Arachidonic acid metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00592	alpha-Linolenic acid metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00620	Pyruvate metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00622	Xylene degradation - Rhodobacter sphaeroides 2.4.1
+path:rsp00624	Polycyclic aromatic hydrocarbon degradation - Rhodobacter sphaeroides 2.4.1
+path:rsp00625	Chloroalkane and chloroalkene degradation - Rhodobacter sphaeroides 2.4.1
+path:rsp00626	Naphthalene degradation - Rhodobacter sphaeroides 2.4.1
+path:rsp00627	Aminobenzoate degradation - Rhodobacter sphaeroides 2.4.1
+path:rsp00630	Glyoxylate and dicarboxylate metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00633	Nitrotoluene degradation - Rhodobacter sphaeroides 2.4.1
+path:rsp00640	Propanoate metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00643	Styrene degradation - Rhodobacter sphaeroides 2.4.1
+path:rsp00650	Butanoate metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00660	C5-Branched dibasic acid metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00670	One carbon pool by folate - Rhodobacter sphaeroides 2.4.1
+path:rsp00680	Methane metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00710	Carbon fixation in photosynthetic organisms - Rhodobacter sphaeroides 2.4.1
+path:rsp00730	Thiamine metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00740	Riboflavin metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00750	Vitamin B6 metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00760	Nicotinate and nicotinamide metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00770	Pantothenate and CoA biosynthesis - Rhodobacter sphaeroides 2.4.1
+path:rsp00780	Biotin metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00785	Lipoic acid metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00790	Folate biosynthesis - Rhodobacter sphaeroides 2.4.1
+path:rsp00791	Atrazine degradation - Rhodobacter sphaeroides 2.4.1
+path:rsp00860	Porphyrin and chlorophyll metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00900	Terpenoid backbone biosynthesis - Rhodobacter sphaeroides 2.4.1
+path:rsp00903	Limonene and pinene degradation - Rhodobacter sphaeroides 2.4.1
+path:rsp00906	Carotenoid biosynthesis - Rhodobacter sphaeroides 2.4.1
+path:rsp00910	Nitrogen metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00920	Sulfur metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp00930	Caprolactam degradation - Rhodobacter sphaeroides 2.4.1
+path:rsp00970	Aminoacyl-tRNA biosynthesis - Rhodobacter sphaeroides 2.4.1
+path:rsp01040	Biosynthesis of unsaturated fatty acids - Rhodobacter sphaeroides 2.4.1
+path:rsp01100	Metabolic pathways - Rhodobacter sphaeroides 2.4.1
+path:rsp01110	Biosynthesis of secondary metabolites - Rhodobacter sphaeroides 2.4.1
+path:rsp01120	Microbial metabolism in diverse environments - Rhodobacter sphaeroides 2.4.1
+path:rsp01130	Biosynthesis of antibiotics - Rhodobacter sphaeroides 2.4.1
+path:rsp01200	Carbon metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp01210	2-Oxocarboxylic acid metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp01212	Fatty acid metabolism - Rhodobacter sphaeroides 2.4.1
+path:rsp01220	Degradation of aromatic compounds - Rhodobacter sphaeroides 2.4.1
+path:rsp01230	Biosynthesis of amino acids - Rhodobacter sphaeroides 2.4.1
+path:rsp01501	beta-Lactam resistance - Rhodobacter sphaeroides 2.4.1
+path:rsp01502	Vancomycin resistance - Rhodobacter sphaeroides 2.4.1
+path:rsp01503	Cationic antimicrobial peptide (CAMP) resistance - Rhodobacter sphaeroides 2.4.1
+path:rsp02010	ABC transporters - Rhodobacter sphaeroides 2.4.1
+path:rsp02020	Two-component system - Rhodobacter sphaeroides 2.4.1
+path:rsp02024	Quorum sensing - Rhodobacter sphaeroides 2.4.1
+path:rsp02030	Bacterial chemotaxis - Rhodobacter sphaeroides 2.4.1
+path:rsp02040	Flagellar assembly - Rhodobacter sphaeroides 2.4.1
+path:rsp02060	Phosphotransferase system (PTS) - Rhodobacter sphaeroides 2.4.1
+path:rsp03010	Ribosome - Rhodobacter sphaeroides 2.4.1
+path:rsp03018	RNA degradation - Rhodobacter sphaeroides 2.4.1
+path:rsp03020	RNA polymerase - Rhodobacter sphaeroides 2.4.1
+path:rsp03030	DNA replication - Rhodobacter sphaeroides 2.4.1
+path:rsp03060	Protein export - Rhodobacter sphaeroides 2.4.1
+path:rsp03070	Bacterial secretion system - Rhodobacter sphaeroides 2.4.1
+path:rsp03410	Base excision repair - Rhodobacter sphaeroides 2.4.1
+path:rsp03420	Nucleotide excision repair - Rhodobacter sphaeroides 2.4.1
+path:rsp03430	Mismatch repair - Rhodobacter sphaeroides 2.4.1
+path:rsp03440	Homologous recombination - Rhodobacter sphaeroides 2.4.1
+path:rsp03450	Non-homologous end-joining - Rhodobacter sphaeroides 2.4.1
+path:rsp04122	Sulfur relay system - Rhodobacter sphaeroides 2.4.1
+path:rsh00010	Glycolysis / Gluconeogenesis - Rhodobacter sphaeroides ATCC 17029
+path:rsh00020	Citrate cycle (TCA cycle) - Rhodobacter sphaeroides ATCC 17029
+path:rsh00030	Pentose phosphate pathway - Rhodobacter sphaeroides ATCC 17029
+path:rsh00040	Pentose and glucuronate interconversions - Rhodobacter sphaeroides ATCC 17029
+path:rsh00051	Fructose and mannose metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00052	Galactose metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00053	Ascorbate and aldarate metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00061	Fatty acid biosynthesis - Rhodobacter sphaeroides ATCC 17029
+path:rsh00071	Fatty acid degradation - Rhodobacter sphaeroides ATCC 17029
+path:rsh00072	Synthesis and degradation of ketone bodies - Rhodobacter sphaeroides ATCC 17029
+path:rsh00121	Secondary bile acid biosynthesis - Rhodobacter sphaeroides ATCC 17029
+path:rsh00130	Ubiquinone and other terpenoid-quinone biosynthesis - Rhodobacter sphaeroides ATCC 17029
+path:rsh00190	Oxidative phosphorylation - Rhodobacter sphaeroides ATCC 17029
+path:rsh00220	Arginine biosynthesis - Rhodobacter sphaeroides ATCC 17029
+path:rsh00230	Purine metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00240	Pyrimidine metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00250	Alanine, aspartate and glutamate metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00260	Glycine, serine and threonine metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00261	Monobactam biosynthesis - Rhodobacter sphaeroides ATCC 17029
+path:rsh00270	Cysteine and methionine metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00280	Valine, leucine and isoleucine degradation - Rhodobacter sphaeroides ATCC 17029
+path:rsh00281	Geraniol degradation - Rhodobacter sphaeroides ATCC 17029
+path:rsh00290	Valine, leucine and isoleucine biosynthesis - Rhodobacter sphaeroides ATCC 17029
+path:rsh00300	Lysine biosynthesis - Rhodobacter sphaeroides ATCC 17029
+path:rsh00310	Lysine degradation - Rhodobacter sphaeroides ATCC 17029
+path:rsh00330	Arginine and proline metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00332	Carbapenem biosynthesis - Rhodobacter sphaeroides ATCC 17029
+path:rsh00340	Histidine metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00350	Tyrosine metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00360	Phenylalanine metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00362	Benzoate degradation - Rhodobacter sphaeroides ATCC 17029
+path:rsh00380	Tryptophan metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Rhodobacter sphaeroides ATCC 17029
+path:rsh00401	Novobiocin biosynthesis - Rhodobacter sphaeroides ATCC 17029
+path:rsh00410	beta-Alanine metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00430	Taurine and hypotaurine metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00440	Phosphonate and phosphinate metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00450	Selenocompound metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00460	Cyanoamino acid metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00471	D-Glutamine and D-glutamate metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00472	D-Arginine and D-ornithine metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00473	D-Alanine metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00480	Glutathione metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00500	Starch and sucrose metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00520	Amino sugar and nucleotide sugar metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00521	Streptomycin biosynthesis - Rhodobacter sphaeroides ATCC 17029
+path:rsh00523	Polyketide sugar unit biosynthesis - Rhodobacter sphaeroides ATCC 17029
+path:rsh00525	Acarbose and validamycin biosynthesis - Rhodobacter sphaeroides ATCC 17029
+path:rsh00540	Lipopolysaccharide biosynthesis - Rhodobacter sphaeroides ATCC 17029
+path:rsh00550	Peptidoglycan biosynthesis - Rhodobacter sphaeroides ATCC 17029
+path:rsh00561	Glycerolipid metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00562	Inositol phosphate metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00564	Glycerophospholipid metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00590	Arachidonic acid metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00620	Pyruvate metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00622	Xylene degradation - Rhodobacter sphaeroides ATCC 17029
+path:rsh00624	Polycyclic aromatic hydrocarbon degradation - Rhodobacter sphaeroides ATCC 17029
+path:rsh00625	Chloroalkane and chloroalkene degradation - Rhodobacter sphaeroides ATCC 17029
+path:rsh00626	Naphthalene degradation - Rhodobacter sphaeroides ATCC 17029
+path:rsh00627	Aminobenzoate degradation - Rhodobacter sphaeroides ATCC 17029
+path:rsh00630	Glyoxylate and dicarboxylate metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00633	Nitrotoluene degradation - Rhodobacter sphaeroides ATCC 17029
+path:rsh00640	Propanoate metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00643	Styrene degradation - Rhodobacter sphaeroides ATCC 17029
+path:rsh00650	Butanoate metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00660	C5-Branched dibasic acid metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00670	One carbon pool by folate - Rhodobacter sphaeroides ATCC 17029
+path:rsh00680	Methane metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00710	Carbon fixation in photosynthetic organisms - Rhodobacter sphaeroides ATCC 17029
+path:rsh00730	Thiamine metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00740	Riboflavin metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00750	Vitamin B6 metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00760	Nicotinate and nicotinamide metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00770	Pantothenate and CoA biosynthesis - Rhodobacter sphaeroides ATCC 17029
+path:rsh00780	Biotin metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00785	Lipoic acid metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00790	Folate biosynthesis - Rhodobacter sphaeroides ATCC 17029
+path:rsh00860	Porphyrin and chlorophyll metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00900	Terpenoid backbone biosynthesis - Rhodobacter sphaeroides ATCC 17029
+path:rsh00903	Limonene and pinene degradation - Rhodobacter sphaeroides ATCC 17029
+path:rsh00906	Carotenoid biosynthesis - Rhodobacter sphaeroides ATCC 17029
+path:rsh00910	Nitrogen metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00920	Sulfur metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh00930	Caprolactam degradation - Rhodobacter sphaeroides ATCC 17029
+path:rsh00970	Aminoacyl-tRNA biosynthesis - Rhodobacter sphaeroides ATCC 17029
+path:rsh01040	Biosynthesis of unsaturated fatty acids - Rhodobacter sphaeroides ATCC 17029
+path:rsh01100	Metabolic pathways - Rhodobacter sphaeroides ATCC 17029
+path:rsh01110	Biosynthesis of secondary metabolites - Rhodobacter sphaeroides ATCC 17029
+path:rsh01120	Microbial metabolism in diverse environments - Rhodobacter sphaeroides ATCC 17029
+path:rsh01130	Biosynthesis of antibiotics - Rhodobacter sphaeroides ATCC 17029
+path:rsh01200	Carbon metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh01210	2-Oxocarboxylic acid metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh01212	Fatty acid metabolism - Rhodobacter sphaeroides ATCC 17029
+path:rsh01220	Degradation of aromatic compounds - Rhodobacter sphaeroides ATCC 17029
+path:rsh01230	Biosynthesis of amino acids - Rhodobacter sphaeroides ATCC 17029
+path:rsh01501	beta-Lactam resistance - Rhodobacter sphaeroides ATCC 17029
+path:rsh01502	Vancomycin resistance - Rhodobacter sphaeroides ATCC 17029
+path:rsh01503	Cationic antimicrobial peptide (CAMP) resistance - Rhodobacter sphaeroides ATCC 17029
+path:rsh02010	ABC transporters - Rhodobacter sphaeroides ATCC 17029
+path:rsh02020	Two-component system - Rhodobacter sphaeroides ATCC 17029
+path:rsh02024	Quorum sensing - Rhodobacter sphaeroides ATCC 17029
+path:rsh02030	Bacterial chemotaxis - Rhodobacter sphaeroides ATCC 17029
+path:rsh02040	Flagellar assembly - Rhodobacter sphaeroides ATCC 17029
+path:rsh02060	Phosphotransferase system (PTS) - Rhodobacter sphaeroides ATCC 17029
+path:rsh03010	Ribosome - Rhodobacter sphaeroides ATCC 17029
+path:rsh03018	RNA degradation - Rhodobacter sphaeroides ATCC 17029
+path:rsh03020	RNA polymerase - Rhodobacter sphaeroides ATCC 17029
+path:rsh03030	DNA replication - Rhodobacter sphaeroides ATCC 17029
+path:rsh03060	Protein export - Rhodobacter sphaeroides ATCC 17029
+path:rsh03070	Bacterial secretion system - Rhodobacter sphaeroides ATCC 17029
+path:rsh03410	Base excision repair - Rhodobacter sphaeroides ATCC 17029
+path:rsh03420	Nucleotide excision repair - Rhodobacter sphaeroides ATCC 17029
+path:rsh03430	Mismatch repair - Rhodobacter sphaeroides ATCC 17029
+path:rsh03440	Homologous recombination - Rhodobacter sphaeroides ATCC 17029
+path:rsh03450	Non-homologous end-joining - Rhodobacter sphaeroides ATCC 17029
+path:rsh04122	Sulfur relay system - Rhodobacter sphaeroides ATCC 17029
+path:rsq00010	Glycolysis / Gluconeogenesis - Rhodobacter sphaeroides ATCC 17025
+path:rsq00020	Citrate cycle (TCA cycle) - Rhodobacter sphaeroides ATCC 17025
+path:rsq00030	Pentose phosphate pathway - Rhodobacter sphaeroides ATCC 17025
+path:rsq00040	Pentose and glucuronate interconversions - Rhodobacter sphaeroides ATCC 17025
+path:rsq00051	Fructose and mannose metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00052	Galactose metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00053	Ascorbate and aldarate metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00061	Fatty acid biosynthesis - Rhodobacter sphaeroides ATCC 17025
+path:rsq00071	Fatty acid degradation - Rhodobacter sphaeroides ATCC 17025
+path:rsq00072	Synthesis and degradation of ketone bodies - Rhodobacter sphaeroides ATCC 17025
+path:rsq00121	Secondary bile acid biosynthesis - Rhodobacter sphaeroides ATCC 17025
+path:rsq00130	Ubiquinone and other terpenoid-quinone biosynthesis - Rhodobacter sphaeroides ATCC 17025
+path:rsq00190	Oxidative phosphorylation - Rhodobacter sphaeroides ATCC 17025
+path:rsq00220	Arginine biosynthesis - Rhodobacter sphaeroides ATCC 17025
+path:rsq00230	Purine metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00240	Pyrimidine metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00250	Alanine, aspartate and glutamate metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00260	Glycine, serine and threonine metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00261	Monobactam biosynthesis - Rhodobacter sphaeroides ATCC 17025
+path:rsq00270	Cysteine and methionine metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00280	Valine, leucine and isoleucine degradation - Rhodobacter sphaeroides ATCC 17025
+path:rsq00281	Geraniol degradation - Rhodobacter sphaeroides ATCC 17025
+path:rsq00290	Valine, leucine and isoleucine biosynthesis - Rhodobacter sphaeroides ATCC 17025
+path:rsq00300	Lysine biosynthesis - Rhodobacter sphaeroides ATCC 17025
+path:rsq00310	Lysine degradation - Rhodobacter sphaeroides ATCC 17025
+path:rsq00330	Arginine and proline metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00332	Carbapenem biosynthesis - Rhodobacter sphaeroides ATCC 17025
+path:rsq00340	Histidine metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00350	Tyrosine metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00360	Phenylalanine metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00362	Benzoate degradation - Rhodobacter sphaeroides ATCC 17025
+path:rsq00380	Tryptophan metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Rhodobacter sphaeroides ATCC 17025
+path:rsq00401	Novobiocin biosynthesis - Rhodobacter sphaeroides ATCC 17025
+path:rsq00410	beta-Alanine metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00430	Taurine and hypotaurine metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00440	Phosphonate and phosphinate metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00450	Selenocompound metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00460	Cyanoamino acid metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00471	D-Glutamine and D-glutamate metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00472	D-Arginine and D-ornithine metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00473	D-Alanine metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00480	Glutathione metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00500	Starch and sucrose metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00520	Amino sugar and nucleotide sugar metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00521	Streptomycin biosynthesis - Rhodobacter sphaeroides ATCC 17025
+path:rsq00523	Polyketide sugar unit biosynthesis - Rhodobacter sphaeroides ATCC 17025
+path:rsq00540	Lipopolysaccharide biosynthesis - Rhodobacter sphaeroides ATCC 17025
+path:rsq00550	Peptidoglycan biosynthesis - Rhodobacter sphaeroides ATCC 17025
+path:rsq00561	Glycerolipid metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00562	Inositol phosphate metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00564	Glycerophospholipid metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00590	Arachidonic acid metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00620	Pyruvate metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00624	Polycyclic aromatic hydrocarbon degradation - Rhodobacter sphaeroides ATCC 17025
+path:rsq00625	Chloroalkane and chloroalkene degradation - Rhodobacter sphaeroides ATCC 17025
+path:rsq00626	Naphthalene degradation - Rhodobacter sphaeroides ATCC 17025
+path:rsq00627	Aminobenzoate degradation - Rhodobacter sphaeroides ATCC 17025
+path:rsq00630	Glyoxylate and dicarboxylate metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00633	Nitrotoluene degradation - Rhodobacter sphaeroides ATCC 17025
+path:rsq00640	Propanoate metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00643	Styrene degradation - Rhodobacter sphaeroides ATCC 17025
+path:rsq00650	Butanoate metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00660	C5-Branched dibasic acid metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00670	One carbon pool by folate - Rhodobacter sphaeroides ATCC 17025
+path:rsq00680	Methane metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00710	Carbon fixation in photosynthetic organisms - Rhodobacter sphaeroides ATCC 17025
+path:rsq00730	Thiamine metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00740	Riboflavin metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00750	Vitamin B6 metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00760	Nicotinate and nicotinamide metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00770	Pantothenate and CoA biosynthesis - Rhodobacter sphaeroides ATCC 17025
+path:rsq00780	Biotin metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00785	Lipoic acid metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00790	Folate biosynthesis - Rhodobacter sphaeroides ATCC 17025
+path:rsq00860	Porphyrin and chlorophyll metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00900	Terpenoid backbone biosynthesis - Rhodobacter sphaeroides ATCC 17025
+path:rsq00903	Limonene and pinene degradation - Rhodobacter sphaeroides ATCC 17025
+path:rsq00906	Carotenoid biosynthesis - Rhodobacter sphaeroides ATCC 17025
+path:rsq00910	Nitrogen metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00920	Sulfur metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq00930	Caprolactam degradation - Rhodobacter sphaeroides ATCC 17025
+path:rsq00970	Aminoacyl-tRNA biosynthesis - Rhodobacter sphaeroides ATCC 17025
+path:rsq01040	Biosynthesis of unsaturated fatty acids - Rhodobacter sphaeroides ATCC 17025
+path:rsq01100	Metabolic pathways - Rhodobacter sphaeroides ATCC 17025
+path:rsq01110	Biosynthesis of secondary metabolites - Rhodobacter sphaeroides ATCC 17025
+path:rsq01120	Microbial metabolism in diverse environments - Rhodobacter sphaeroides ATCC 17025
+path:rsq01130	Biosynthesis of antibiotics - Rhodobacter sphaeroides ATCC 17025
+path:rsq01200	Carbon metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq01210	2-Oxocarboxylic acid metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq01212	Fatty acid metabolism - Rhodobacter sphaeroides ATCC 17025
+path:rsq01220	Degradation of aromatic compounds - Rhodobacter sphaeroides ATCC 17025
+path:rsq01230	Biosynthesis of amino acids - Rhodobacter sphaeroides ATCC 17025
+path:rsq01501	beta-Lactam resistance - Rhodobacter sphaeroides ATCC 17025
+path:rsq01502	Vancomycin resistance - Rhodobacter sphaeroides ATCC 17025
+path:rsq01503	Cationic antimicrobial peptide (CAMP) resistance - Rhodobacter sphaeroides ATCC 17025
+path:rsq02010	ABC transporters - Rhodobacter sphaeroides ATCC 17025
+path:rsq02020	Two-component system - Rhodobacter sphaeroides ATCC 17025
+path:rsq02024	Quorum sensing - Rhodobacter sphaeroides ATCC 17025
+path:rsq02030	Bacterial chemotaxis - Rhodobacter sphaeroides ATCC 17025
+path:rsq02040	Flagellar assembly - Rhodobacter sphaeroides ATCC 17025
+path:rsq02060	Phosphotransferase system (PTS) - Rhodobacter sphaeroides ATCC 17025
+path:rsq03010	Ribosome - Rhodobacter sphaeroides ATCC 17025
+path:rsq03018	RNA degradation - Rhodobacter sphaeroides ATCC 17025
+path:rsq03020	RNA polymerase - Rhodobacter sphaeroides ATCC 17025
+path:rsq03030	DNA replication - Rhodobacter sphaeroides ATCC 17025
+path:rsq03060	Protein export - Rhodobacter sphaeroides ATCC 17025
+path:rsq03070	Bacterial secretion system - Rhodobacter sphaeroides ATCC 17025
+path:rsq03410	Base excision repair - Rhodobacter sphaeroides ATCC 17025
+path:rsq03420	Nucleotide excision repair - Rhodobacter sphaeroides ATCC 17025
+path:rsq03430	Mismatch repair - Rhodobacter sphaeroides ATCC 17025
+path:rsq03440	Homologous recombination - Rhodobacter sphaeroides ATCC 17025
+path:rsq03450	Non-homologous end-joining - Rhodobacter sphaeroides ATCC 17025
+path:rsq04122	Sulfur relay system - Rhodobacter sphaeroides ATCC 17025
+path:rsk00010	Glycolysis / Gluconeogenesis - Rhodobacter sphaeroides KD131
+path:rsk00020	Citrate cycle (TCA cycle) - Rhodobacter sphaeroides KD131
+path:rsk00030	Pentose phosphate pathway - Rhodobacter sphaeroides KD131
+path:rsk00040	Pentose and glucuronate interconversions - Rhodobacter sphaeroides KD131
+path:rsk00051	Fructose and mannose metabolism - Rhodobacter sphaeroides KD131
+path:rsk00052	Galactose metabolism - Rhodobacter sphaeroides KD131
+path:rsk00053	Ascorbate and aldarate metabolism - Rhodobacter sphaeroides KD131
+path:rsk00061	Fatty acid biosynthesis - Rhodobacter sphaeroides KD131
+path:rsk00071	Fatty acid degradation - Rhodobacter sphaeroides KD131
+path:rsk00072	Synthesis and degradation of ketone bodies - Rhodobacter sphaeroides KD131
+path:rsk00121	Secondary bile acid biosynthesis - Rhodobacter sphaeroides KD131
+path:rsk00130	Ubiquinone and other terpenoid-quinone biosynthesis - Rhodobacter sphaeroides KD131
+path:rsk00190	Oxidative phosphorylation - Rhodobacter sphaeroides KD131
+path:rsk00220	Arginine biosynthesis - Rhodobacter sphaeroides KD131
+path:rsk00230	Purine metabolism - Rhodobacter sphaeroides KD131
+path:rsk00240	Pyrimidine metabolism - Rhodobacter sphaeroides KD131
+path:rsk00250	Alanine, aspartate and glutamate metabolism - Rhodobacter sphaeroides KD131
+path:rsk00260	Glycine, serine and threonine metabolism - Rhodobacter sphaeroides KD131
+path:rsk00261	Monobactam biosynthesis - Rhodobacter sphaeroides KD131
+path:rsk00270	Cysteine and methionine metabolism - Rhodobacter sphaeroides KD131
+path:rsk00280	Valine, leucine and isoleucine degradation - Rhodobacter sphaeroides KD131
+path:rsk00281	Geraniol degradation - Rhodobacter sphaeroides KD131
+path:rsk00290	Valine, leucine and isoleucine biosynthesis - Rhodobacter sphaeroides KD131
+path:rsk00300	Lysine biosynthesis - Rhodobacter sphaeroides KD131
+path:rsk00310	Lysine degradation - Rhodobacter sphaeroides KD131
+path:rsk00330	Arginine and proline metabolism - Rhodobacter sphaeroides KD131
+path:rsk00332	Carbapenem biosynthesis - Rhodobacter sphaeroides KD131
+path:rsk00340	Histidine metabolism - Rhodobacter sphaeroides KD131
+path:rsk00350	Tyrosine metabolism - Rhodobacter sphaeroides KD131
+path:rsk00360	Phenylalanine metabolism - Rhodobacter sphaeroides KD131
+path:rsk00361	Chlorocyclohexane and chlorobenzene degradation - Rhodobacter sphaeroides KD131
+path:rsk00362	Benzoate degradation - Rhodobacter sphaeroides KD131
+path:rsk00380	Tryptophan metabolism - Rhodobacter sphaeroides KD131
+path:rsk00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Rhodobacter sphaeroides KD131
+path:rsk00401	Novobiocin biosynthesis - Rhodobacter sphaeroides KD131
+path:rsk00410	beta-Alanine metabolism - Rhodobacter sphaeroides KD131
+path:rsk00430	Taurine and hypotaurine metabolism - Rhodobacter sphaeroides KD131
+path:rsk00440	Phosphonate and phosphinate metabolism - Rhodobacter sphaeroides KD131
+path:rsk00450	Selenocompound metabolism - Rhodobacter sphaeroides KD131
+path:rsk00460	Cyanoamino acid metabolism - Rhodobacter sphaeroides KD131
+path:rsk00471	D-Glutamine and D-glutamate metabolism - Rhodobacter sphaeroides KD131
+path:rsk00472	D-Arginine and D-ornithine metabolism - Rhodobacter sphaeroides KD131
+path:rsk00473	D-Alanine metabolism - Rhodobacter sphaeroides KD131
+path:rsk00480	Glutathione metabolism - Rhodobacter sphaeroides KD131
+path:rsk00500	Starch and sucrose metabolism - Rhodobacter sphaeroides KD131
+path:rsk00520	Amino sugar and nucleotide sugar metabolism - Rhodobacter sphaeroides KD131
+path:rsk00521	Streptomycin biosynthesis - Rhodobacter sphaeroides KD131
+path:rsk00523	Polyketide sugar unit biosynthesis - Rhodobacter sphaeroides KD131
+path:rsk00525	Acarbose and validamycin biosynthesis - Rhodobacter sphaeroides KD131
+path:rsk00540	Lipopolysaccharide biosynthesis - Rhodobacter sphaeroides KD131
+path:rsk00550	Peptidoglycan biosynthesis - Rhodobacter sphaeroides KD131
+path:rsk00561	Glycerolipid metabolism - Rhodobacter sphaeroides KD131
+path:rsk00562	Inositol phosphate metabolism - Rhodobacter sphaeroides KD131
+path:rsk00564	Glycerophospholipid metabolism - Rhodobacter sphaeroides KD131
+path:rsk00590	Arachidonic acid metabolism - Rhodobacter sphaeroides KD131
+path:rsk00620	Pyruvate metabolism - Rhodobacter sphaeroides KD131
+path:rsk00622	Xylene degradation - Rhodobacter sphaeroides KD131
+path:rsk00624	Polycyclic aromatic hydrocarbon degradation - Rhodobacter sphaeroides KD131
+path:rsk00625	Chloroalkane and chloroalkene degradation - Rhodobacter sphaeroides KD131
+path:rsk00626	Naphthalene degradation - Rhodobacter sphaeroides KD131
+path:rsk00627	Aminobenzoate degradation - Rhodobacter sphaeroides KD131
+path:rsk00630	Glyoxylate and dicarboxylate metabolism - Rhodobacter sphaeroides KD131
+path:rsk00633	Nitrotoluene degradation - Rhodobacter sphaeroides KD131
+path:rsk00640	Propanoate metabolism - Rhodobacter sphaeroides KD131
+path:rsk00643	Styrene degradation - Rhodobacter sphaeroides KD131
+path:rsk00650	Butanoate metabolism - Rhodobacter sphaeroides KD131
+path:rsk00660	C5-Branched dibasic acid metabolism - Rhodobacter sphaeroides KD131
+path:rsk00670	One carbon pool by folate - Rhodobacter sphaeroides KD131
+path:rsk00680	Methane metabolism - Rhodobacter sphaeroides KD131
+path:rsk00710	Carbon fixation in photosynthetic organisms - Rhodobacter sphaeroides KD131
+path:rsk00730	Thiamine metabolism - Rhodobacter sphaeroides KD131
+path:rsk00740	Riboflavin metabolism - Rhodobacter sphaeroides KD131
+path:rsk00750	Vitamin B6 metabolism - Rhodobacter sphaeroides KD131
+path:rsk00760	Nicotinate and nicotinamide metabolism - Rhodobacter sphaeroides KD131
+path:rsk00770	Pantothenate and CoA biosynthesis - Rhodobacter sphaeroides KD131
+path:rsk00780	Biotin metabolism - Rhodobacter sphaeroides KD131
+path:rsk00785	Lipoic acid metabolism - Rhodobacter sphaeroides KD131
+path:rsk00790	Folate biosynthesis - Rhodobacter sphaeroides KD131
+path:rsk00860	Porphyrin and chlorophyll metabolism - Rhodobacter sphaeroides KD131
+path:rsk00900	Terpenoid backbone biosynthesis - Rhodobacter sphaeroides KD131
+path:rsk00903	Limonene and pinene degradation - Rhodobacter sphaeroides KD131
+path:rsk00906	Carotenoid biosynthesis - Rhodobacter sphaeroides KD131
+path:rsk00910	Nitrogen metabolism - Rhodobacter sphaeroides KD131
+path:rsk00920	Sulfur metabolism - Rhodobacter sphaeroides KD131
+path:rsk00930	Caprolactam degradation - Rhodobacter sphaeroides KD131
+path:rsk00970	Aminoacyl-tRNA biosynthesis - Rhodobacter sphaeroides KD131
+path:rsk01040	Biosynthesis of unsaturated fatty acids - Rhodobacter sphaeroides KD131
+path:rsk01100	Metabolic pathways - Rhodobacter sphaeroides KD131
+path:rsk01110	Biosynthesis of secondary metabolites - Rhodobacter sphaeroides KD131
+path:rsk01120	Microbial metabolism in diverse environments - Rhodobacter sphaeroides KD131
+path:rsk01130	Biosynthesis of antibiotics - Rhodobacter sphaeroides KD131
+path:rsk01200	Carbon metabolism - Rhodobacter sphaeroides KD131
+path:rsk01210	2-Oxocarboxylic acid metabolism - Rhodobacter sphaeroides KD131
+path:rsk01212	Fatty acid metabolism - Rhodobacter sphaeroides KD131
+path:rsk01220	Degradation of aromatic compounds - Rhodobacter sphaeroides KD131
+path:rsk01230	Biosynthesis of amino acids - Rhodobacter sphaeroides KD131
+path:rsk01501	beta-Lactam resistance - Rhodobacter sphaeroides KD131
+path:rsk01502	Vancomycin resistance - Rhodobacter sphaeroides KD131
+path:rsk01503	Cationic antimicrobial peptide (CAMP) resistance - Rhodobacter sphaeroides KD131
+path:rsk02010	ABC transporters - Rhodobacter sphaeroides KD131
+path:rsk02020	Two-component system - Rhodobacter sphaeroides KD131
+path:rsk02024	Quorum sensing - Rhodobacter sphaeroides KD131
+path:rsk02030	Bacterial chemotaxis - Rhodobacter sphaeroides KD131
+path:rsk02040	Flagellar assembly - Rhodobacter sphaeroides KD131
+path:rsk02060	Phosphotransferase system (PTS) - Rhodobacter sphaeroides KD131
+path:rsk03010	Ribosome - Rhodobacter sphaeroides KD131
+path:rsk03018	RNA degradation - Rhodobacter sphaeroides KD131
+path:rsk03020	RNA polymerase - Rhodobacter sphaeroides KD131
+path:rsk03030	DNA replication - Rhodobacter sphaeroides KD131
+path:rsk03060	Protein export - Rhodobacter sphaeroides KD131
+path:rsk03070	Bacterial secretion system - Rhodobacter sphaeroides KD131
+path:rsk03410	Base excision repair - Rhodobacter sphaeroides KD131
+path:rsk03420	Nucleotide excision repair - Rhodobacter sphaeroides KD131
+path:rsk03430	Mismatch repair - Rhodobacter sphaeroides KD131
+path:rsk03440	Homologous recombination - Rhodobacter sphaeroides KD131
+path:rsk03450	Non-homologous end-joining - Rhodobacter sphaeroides KD131
+path:rsk04122	Sulfur relay system - Rhodobacter sphaeroides KD131
+path:rcp00010	Glycolysis / Gluconeogenesis - Rhodobacter capsulatus
+path:rcp00020	Citrate cycle (TCA cycle) - Rhodobacter capsulatus
+path:rcp00030	Pentose phosphate pathway - Rhodobacter capsulatus
+path:rcp00040	Pentose and glucuronate interconversions - Rhodobacter capsulatus
+path:rcp00051	Fructose and mannose metabolism - Rhodobacter capsulatus
+path:rcp00052	Galactose metabolism - Rhodobacter capsulatus
+path:rcp00053	Ascorbate and aldarate metabolism - Rhodobacter capsulatus
+path:rcp00061	Fatty acid biosynthesis - Rhodobacter capsulatus
+path:rcp00071	Fatty acid degradation - Rhodobacter capsulatus
+path:rcp00072	Synthesis and degradation of ketone bodies - Rhodobacter capsulatus
+path:rcp00130	Ubiquinone and other terpenoid-quinone biosynthesis - Rhodobacter capsulatus
+path:rcp00190	Oxidative phosphorylation - Rhodobacter capsulatus
+path:rcp00220	Arginine biosynthesis - Rhodobacter capsulatus
+path:rcp00230	Purine metabolism - Rhodobacter capsulatus
+path:rcp00240	Pyrimidine metabolism - Rhodobacter capsulatus
+path:rcp00250	Alanine, aspartate and glutamate metabolism - Rhodobacter capsulatus
+path:rcp00260	Glycine, serine and threonine metabolism - Rhodobacter capsulatus
+path:rcp00261	Monobactam biosynthesis - Rhodobacter capsulatus
+path:rcp00270	Cysteine and methionine metabolism - Rhodobacter capsulatus
+path:rcp00280	Valine, leucine and isoleucine degradation - Rhodobacter capsulatus
+path:rcp00281	Geraniol degradation - Rhodobacter capsulatus
+path:rcp00290	Valine, leucine and isoleucine biosynthesis - Rhodobacter capsulatus
+path:rcp00300	Lysine biosynthesis - Rhodobacter capsulatus
+path:rcp00310	Lysine degradation - Rhodobacter capsulatus
+path:rcp00330	Arginine and proline metabolism - Rhodobacter capsulatus
+path:rcp00332	Carbapenem biosynthesis - Rhodobacter capsulatus
+path:rcp00340	Histidine metabolism - Rhodobacter capsulatus
+path:rcp00350	Tyrosine metabolism - Rhodobacter capsulatus
+path:rcp00360	Phenylalanine metabolism - Rhodobacter capsulatus
+path:rcp00362	Benzoate degradation - Rhodobacter capsulatus
+path:rcp00380	Tryptophan metabolism - Rhodobacter capsulatus
+path:rcp00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Rhodobacter capsulatus
+path:rcp00401	Novobiocin biosynthesis - Rhodobacter capsulatus
+path:rcp00410	beta-Alanine metabolism - Rhodobacter capsulatus
+path:rcp00430	Taurine and hypotaurine metabolism - Rhodobacter capsulatus
+path:rcp00440	Phosphonate and phosphinate metabolism - Rhodobacter capsulatus
+path:rcp00450	Selenocompound metabolism - Rhodobacter capsulatus
+path:rcp00460	Cyanoamino acid metabolism - Rhodobacter capsulatus
+path:rcp00471	D-Glutamine and D-glutamate metabolism - Rhodobacter capsulatus
+path:rcp00472	D-Arginine and D-ornithine metabolism - Rhodobacter capsulatus
+path:rcp00473	D-Alanine metabolism - Rhodobacter capsulatus
+path:rcp00480	Glutathione metabolism - Rhodobacter capsulatus
+path:rcp00500	Starch and sucrose metabolism - Rhodobacter capsulatus
+path:rcp00520	Amino sugar and nucleotide sugar metabolism - Rhodobacter capsulatus
+path:rcp00521	Streptomycin biosynthesis - Rhodobacter capsulatus
+path:rcp00523	Polyketide sugar unit biosynthesis - Rhodobacter capsulatus
+path:rcp00525	Acarbose and validamycin biosynthesis - Rhodobacter capsulatus
+path:rcp00540	Lipopolysaccharide biosynthesis - Rhodobacter capsulatus
+path:rcp00550	Peptidoglycan biosynthesis - Rhodobacter capsulatus
+path:rcp00561	Glycerolipid metabolism - Rhodobacter capsulatus
+path:rcp00562	Inositol phosphate metabolism - Rhodobacter capsulatus
+path:rcp00564	Glycerophospholipid metabolism - Rhodobacter capsulatus
+path:rcp00590	Arachidonic acid metabolism - Rhodobacter capsulatus
+path:rcp00620	Pyruvate metabolism - Rhodobacter capsulatus
+path:rcp00624	Polycyclic aromatic hydrocarbon degradation - Rhodobacter capsulatus
+path:rcp00625	Chloroalkane and chloroalkene degradation - Rhodobacter capsulatus
+path:rcp00626	Naphthalene degradation - Rhodobacter capsulatus
+path:rcp00630	Glyoxylate and dicarboxylate metabolism - Rhodobacter capsulatus
+path:rcp00633	Nitrotoluene degradation - Rhodobacter capsulatus
+path:rcp00640	Propanoate metabolism - Rhodobacter capsulatus
+path:rcp00650	Butanoate metabolism - Rhodobacter capsulatus
+path:rcp00660	C5-Branched dibasic acid metabolism - Rhodobacter capsulatus
+path:rcp00670	One carbon pool by folate - Rhodobacter capsulatus
+path:rcp00680	Methane metabolism - Rhodobacter capsulatus
+path:rcp00710	Carbon fixation in photosynthetic organisms - Rhodobacter capsulatus
+path:rcp00730	Thiamine metabolism - Rhodobacter capsulatus
+path:rcp00740	Riboflavin metabolism - Rhodobacter capsulatus
+path:rcp00750	Vitamin B6 metabolism - Rhodobacter capsulatus
+path:rcp00760	Nicotinate and nicotinamide metabolism - Rhodobacter capsulatus
+path:rcp00770	Pantothenate and CoA biosynthesis - Rhodobacter capsulatus
+path:rcp00780	Biotin metabolism - Rhodobacter capsulatus
+path:rcp00785	Lipoic acid metabolism - Rhodobacter capsulatus
+path:rcp00790	Folate biosynthesis - Rhodobacter capsulatus
+path:rcp00860	Porphyrin and chlorophyll metabolism - Rhodobacter capsulatus
+path:rcp00900	Terpenoid backbone biosynthesis - Rhodobacter capsulatus
+path:rcp00903	Limonene and pinene degradation - Rhodobacter capsulatus
+path:rcp00906	Carotenoid biosynthesis - Rhodobacter capsulatus
+path:rcp00910	Nitrogen metabolism - Rhodobacter capsulatus
+path:rcp00920	Sulfur metabolism - Rhodobacter capsulatus
+path:rcp00930	Caprolactam degradation - Rhodobacter capsulatus
+path:rcp00970	Aminoacyl-tRNA biosynthesis - Rhodobacter capsulatus
+path:rcp01040	Biosynthesis of unsaturated fatty acids - Rhodobacter capsulatus
+path:rcp01100	Metabolic pathways - Rhodobacter capsulatus
+path:rcp01110	Biosynthesis of secondary metabolites - Rhodobacter capsulatus
+path:rcp01120	Microbial metabolism in diverse environments - Rhodobacter capsulatus
+path:rcp01130	Biosynthesis of antibiotics - Rhodobacter capsulatus
+path:rcp01200	Carbon metabolism - Rhodobacter capsulatus
+path:rcp01210	2-Oxocarboxylic acid metabolism - Rhodobacter capsulatus
+path:rcp01212	Fatty acid metabolism - Rhodobacter capsulatus
+path:rcp01220	Degradation of aromatic compounds - Rhodobacter capsulatus
+path:rcp01230	Biosynthesis of amino acids - Rhodobacter capsulatus
+path:rcp01501	beta-Lactam resistance - Rhodobacter capsulatus
+path:rcp01502	Vancomycin resistance - Rhodobacter capsulatus
+path:rcp01503	Cationic antimicrobial peptide (CAMP) resistance - Rhodobacter capsulatus
+path:rcp02010	ABC transporters - Rhodobacter capsulatus
+path:rcp02020	Two-component system - Rhodobacter capsulatus
+path:rcp02024	Quorum sensing - Rhodobacter capsulatus
+path:rcp02030	Bacterial chemotaxis - Rhodobacter capsulatus
+path:rcp02040	Flagellar assembly - Rhodobacter capsulatus
+path:rcp02060	Phosphotransferase system (PTS) - Rhodobacter capsulatus
+path:rcp03010	Ribosome - Rhodobacter capsulatus
+path:rcp03018	RNA degradation - Rhodobacter capsulatus
+path:rcp03020	RNA polymerase - Rhodobacter capsulatus
+path:rcp03030	DNA replication - Rhodobacter capsulatus
+path:rcp03060	Protein export - Rhodobacter capsulatus
+path:rcp03070	Bacterial secretion system - Rhodobacter capsulatus
+path:rcp03410	Base excision repair - Rhodobacter capsulatus
+path:rcp03420	Nucleotide excision repair - Rhodobacter capsulatus
+path:rcp03430	Mismatch repair - Rhodobacter capsulatus
+path:rcp03440	Homologous recombination - Rhodobacter capsulatus
+path:rcp04122	Sulfur relay system - Rhodobacter capsulatus
+path:rhp00010	Glycolysis / Gluconeogenesis - Rhodobacter sp. LPB0142
+path:rhp00020	Citrate cycle (TCA cycle) - Rhodobacter sp. LPB0142
+path:rhp00030	Pentose phosphate pathway - Rhodobacter sp. LPB0142
+path:rhp00040	Pentose and glucuronate interconversions - Rhodobacter sp. LPB0142
+path:rhp00051	Fructose and mannose metabolism - Rhodobacter sp. LPB0142
+path:rhp00052	Galactose metabolism - Rhodobacter sp. LPB0142
+path:rhp00053	Ascorbate and aldarate metabolism - Rhodobacter sp. LPB0142
+path:rhp00061	Fatty acid biosynthesis - Rhodobacter sp. LPB0142
+path:rhp00071	Fatty acid degradation - Rhodobacter sp. LPB0142
+path:rhp00072	Synthesis and degradation of ketone bodies - Rhodobacter sp. LPB0142
+path:rhp00121	Secondary bile acid biosynthesis - Rhodobacter sp. LPB0142
+path:rhp00130	Ubiquinone and other terpenoid-quinone biosynthesis - Rhodobacter sp. LPB0142
+path:rhp00190	Oxidative phosphorylation - Rhodobacter sp. LPB0142
+path:rhp00220	Arginine biosynthesis - Rhodobacter sp. LPB0142
+path:rhp00230	Purine metabolism - Rhodobacter sp. LPB0142
+path:rhp00240	Pyrimidine metabolism - Rhodobacter sp. LPB0142
+path:rhp00250	Alanine, aspartate and glutamate metabolism - Rhodobacter sp. LPB0142
+path:rhp00260	Glycine, serine and threonine metabolism - Rhodobacter sp. LPB0142
+path:rhp00261	Monobactam biosynthesis - Rhodobacter sp. LPB0142
+path:rhp00270	Cysteine and methionine metabolism - Rhodobacter sp. LPB0142
+path:rhp00280	Valine, leucine and isoleucine degradation - Rhodobacter sp. LPB0142
+path:rhp00281	Geraniol degradation - Rhodobacter sp. LPB0142
+path:rhp00290	Valine, leucine and isoleucine biosynthesis - Rhodobacter sp. LPB0142
+path:rhp00300	Lysine biosynthesis - Rhodobacter sp. LPB0142
+path:rhp00310	Lysine degradation - Rhodobacter sp. LPB0142
+path:rhp00330	Arginine and proline metabolism - Rhodobacter sp. LPB0142
+path:rhp00332	Carbapenem biosynthesis - Rhodobacter sp. LPB0142
+path:rhp00340	Histidine metabolism - Rhodobacter sp. LPB0142
+path:rhp00350	Tyrosine metabolism - Rhodobacter sp. LPB0142
+path:rhp00360	Phenylalanine metabolism - Rhodobacter sp. LPB0142
+path:rhp00362	Benzoate degradation - Rhodobacter sp. LPB0142
+path:rhp00380	Tryptophan metabolism - Rhodobacter sp. LPB0142
+path:rhp00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Rhodobacter sp. LPB0142
+path:rhp00401	Novobiocin biosynthesis - Rhodobacter sp. LPB0142
+path:rhp00410	beta-Alanine metabolism - Rhodobacter sp. LPB0142
+path:rhp00430	Taurine and hypotaurine metabolism - Rhodobacter sp. LPB0142
+path:rhp00440	Phosphonate and phosphinate metabolism - Rhodobacter sp. LPB0142
+path:rhp00450	Selenocompound metabolism - Rhodobacter sp. LPB0142
+path:rhp00460	Cyanoamino acid metabolism - Rhodobacter sp. LPB0142
+path:rhp00471	D-Glutamine and D-glutamate metabolism - Rhodobacter sp. LPB0142
+path:rhp00472	D-Arginine and D-ornithine metabolism - Rhodobacter sp. LPB0142
+path:rhp00473	D-Alanine metabolism - Rhodobacter sp. LPB0142
+path:rhp00480	Glutathione metabolism - Rhodobacter sp. LPB0142
+path:rhp00500	Starch and sucrose metabolism - Rhodobacter sp. LPB0142
+path:rhp00520	Amino sugar and nucleotide sugar metabolism - Rhodobacter sp. LPB0142
+path:rhp00521	Streptomycin biosynthesis - Rhodobacter sp. LPB0142
+path:rhp00523	Polyketide sugar unit biosynthesis - Rhodobacter sp. LPB0142
+path:rhp00525	Acarbose and validamycin biosynthesis - Rhodobacter sp. LPB0142
+path:rhp00540	Lipopolysaccharide biosynthesis - Rhodobacter sp. LPB0142
+path:rhp00550	Peptidoglycan biosynthesis - Rhodobacter sp. LPB0142
+path:rhp00561	Glycerolipid metabolism - Rhodobacter sp. LPB0142
+path:rhp00562	Inositol phosphate metabolism - Rhodobacter sp. LPB0142
+path:rhp00564	Glycerophospholipid metabolism - Rhodobacter sp. LPB0142
+path:rhp00590	Arachidonic acid metabolism - Rhodobacter sp. LPB0142
+path:rhp00620	Pyruvate metabolism - Rhodobacter sp. LPB0142
+path:rhp00624	Polycyclic aromatic hydrocarbon degradation - Rhodobacter sp. LPB0142
+path:rhp00625	Chloroalkane and chloroalkene degradation - Rhodobacter sp. LPB0142
+path:rhp00626	Naphthalene degradation - Rhodobacter sp. LPB0142
+path:rhp00627	Aminobenzoate degradation - Rhodobacter sp. LPB0142
+path:rhp00630	Glyoxylate and dicarboxylate metabolism - Rhodobacter sp. LPB0142
+path:rhp00633	Nitrotoluene degradation - Rhodobacter sp. LPB0142
+path:rhp00640	Propanoate metabolism - Rhodobacter sp. LPB0142
+path:rhp00650	Butanoate metabolism - Rhodobacter sp. LPB0142
+path:rhp00660	C5-Branched dibasic acid metabolism - Rhodobacter sp. LPB0142
+path:rhp00670	One carbon pool by folate - Rhodobacter sp. LPB0142
+path:rhp00680	Methane metabolism - Rhodobacter sp. LPB0142
+path:rhp00710	Carbon fixation in photosynthetic organisms - Rhodobacter sp. LPB0142
+path:rhp00730	Thiamine metabolism - Rhodobacter sp. LPB0142
+path:rhp00740	Riboflavin metabolism - Rhodobacter sp. LPB0142
+path:rhp00750	Vitamin B6 metabolism - Rhodobacter sp. LPB0142
+path:rhp00760	Nicotinate and nicotinamide metabolism - Rhodobacter sp. LPB0142
+path:rhp00770	Pantothenate and CoA biosynthesis - Rhodobacter sp. LPB0142
+path:rhp00780	Biotin metabolism - Rhodobacter sp. LPB0142
+path:rhp00785	Lipoic acid metabolism - Rhodobacter sp. LPB0142
+path:rhp00790	Folate biosynthesis - Rhodobacter sp. LPB0142
+path:rhp00860	Porphyrin and chlorophyll metabolism - Rhodobacter sp. LPB0142
+path:rhp00900	Terpenoid backbone biosynthesis - Rhodobacter sp. LPB0142
+path:rhp00903	Limonene and pinene degradation - Rhodobacter sp. LPB0142
+path:rhp00910	Nitrogen metabolism - Rhodobacter sp. LPB0142
+path:rhp00920	Sulfur metabolism - Rhodobacter sp. LPB0142
+path:rhp00930	Caprolactam degradation - Rhodobacter sp. LPB0142
+path:rhp00970	Aminoacyl-tRNA biosynthesis - Rhodobacter sp. LPB0142
+path:rhp01040	Biosynthesis of unsaturated fatty acids - Rhodobacter sp. LPB0142
+path:rhp01100	Metabolic pathways - Rhodobacter sp. LPB0142
+path:rhp01110	Biosynthesis of secondary metabolites - Rhodobacter sp. LPB0142
+path:rhp01120	Microbial metabolism in diverse environments - Rhodobacter sp. LPB0142
+path:rhp01130	Biosynthesis of antibiotics - Rhodobacter sp. LPB0142
+path:rhp01200	Carbon metabolism - Rhodobacter sp. LPB0142
+path:rhp01210	2-Oxocarboxylic acid metabolism - Rhodobacter sp. LPB0142
+path:rhp01212	Fatty acid metabolism - Rhodobacter sp. LPB0142
+path:rhp01220	Degradation of aromatic compounds - Rhodobacter sp. LPB0142
+path:rhp01230	Biosynthesis of amino acids - Rhodobacter sp. LPB0142
+path:rhp01501	beta-Lactam resistance - Rhodobacter sp. LPB0142
+path:rhp01502	Vancomycin resistance - Rhodobacter sp. LPB0142
+path:rhp01503	Cationic antimicrobial peptide (CAMP) resistance - Rhodobacter sp. LPB0142
+path:rhp02010	ABC transporters - Rhodobacter sp. LPB0142
+path:rhp02020	Two-component system - Rhodobacter sp. LPB0142
+path:rhp02024	Quorum sensing - Rhodobacter sp. LPB0142
+path:rhp02030	Bacterial chemotaxis - Rhodobacter sp. LPB0142
+path:rhp02040	Flagellar assembly - Rhodobacter sp. LPB0142
+path:rhp02060	Phosphotransferase system (PTS) - Rhodobacter sp. LPB0142
+path:rhp03010	Ribosome - Rhodobacter sp. LPB0142
+path:rhp03018	RNA degradation - Rhodobacter sp. LPB0142
+path:rhp03020	RNA polymerase - Rhodobacter sp. LPB0142
+path:rhp03030	DNA replication - Rhodobacter sp. LPB0142
+path:rhp03060	Protein export - Rhodobacter sp. LPB0142
+path:rhp03070	Bacterial secretion system - Rhodobacter sp. LPB0142
+path:rhp03410	Base excision repair - Rhodobacter sp. LPB0142
+path:rhp03420	Nucleotide excision repair - Rhodobacter sp. LPB0142
+path:rhp03430	Mismatch repair - Rhodobacter sp. LPB0142
+path:rhp03440	Homologous recombination - Rhodobacter sp. LPB0142
+path:rhp04122	Sulfur relay system - Rhodobacter sp. LPB0142

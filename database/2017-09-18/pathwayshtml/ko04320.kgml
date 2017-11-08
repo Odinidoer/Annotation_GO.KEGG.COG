@@ -1,0 +1,297 @@
+<html>
+<!---
+ENTRY       ko04320
+DEFINITION  Dorso-ventral axis formation
+--->
+<head>
+<title>
+KEGG PATHWAY: Dorso-ventral axis formation
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Dorso-ventral axis formation</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=04320&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map04320.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko04320">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko04320&format=kgml">Download KGML</a>
+
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="dme">Drosophila melanogaster (fruit fly)</option>
+<option value="dpo">Drosophila pseudoobscura pseudoobscura</option>
+<option value="dan">Drosophila ananassae</option>
+<option value="der">Drosophila erecta</option>
+<option value="dpe">Drosophila persimilis</option>
+<option value="dse">Drosophila sechellia</option>
+<option value="dsi">Drosophila simulans</option>
+<option value="dwi">Drosophila willistoni</option>
+<option value="dya">Drosophila yakuba</option>
+<option value="dgr">Drosophila grimshawi</option>
+<option value="dmo">Drosophila mojavensis</option>
+<option value="dvi">Drosophila virilis</option>
+<option value="mde">Musca domestica (house fly)</option>
+<option value="aga">Anopheles gambiae (mosquito)</option>
+<option value="aag">Aedes aegypti (yellow fever mosquito)</option>
+<option value="cqu">Culex quinquefasciatus (southern house mosquito)</option>
+<option value="ame">Apis mellifera (honey bee)</option>
+<option value="bim">Bombus impatiens (common eastern bumble bee)</option>
+<option value="bter">Bombus terrestris (buff-tailed bumblebee)</option>
+<option value="soc">Solenopsis invicta (red fire ant)</option>
+<option value="aec">Acromyrmex echinatior (Panamanian leafcutter ant)</option>
+<option value="acep">Atta cephalotes (leaf cutting ant)</option>
+<option value="pbar">Pogonomyrmex barbatus (red harvester ant)</option>
+<option value="hst">Harpegnathos saltator (Jerdon's jumping ant)</option>
+<option value="cfo">Camponotus floridanus (Florida carpenter ant)</option>
+<option value="lhu">Linepithema humile (Argentine ant)</option>
+<option value="pgc">Pseudomyrmex gracilis</option>
+<option value="nvi">Nasonia vitripennis (jewel wasp)</option>
+<option value="tca">Tribolium castaneum (red flour beetle)</option>
+<option value="dpa">Dendroctonus ponderosae (mountain pine beetle)</option>
+<option value="nvl">Nicrophorus vespilloides</option>
+<option value="bmor">Bombyx mori (domestic silkworm)</option>
+<option value="dpl">Danaus plexippus (monarch butterfly)</option>
+<option value="pxy">Plutella xylostella (diamondback moth)</option>
+<option value="api">Acyrthosiphon pisum (pea aphid)</option>
+<option value="dnx">Diuraphis noxia (Russian wheat aphid)</option>
+<option value="phu">Pediculus humanus corporis (human body louse)</option>
+</select>
+<input type="hidden" name="mapno" value="04320" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko04320" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko04320.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=rect	coords=226,412,272,429	href="/dbget-bin/www_bget?K03102"	title="K03102 (SQD)" />
+<area shape=rect	coords=392,414,438,431	href="/dbget-bin/www_bget?K03102"	title="K03102 (SQD)" />
+<area shape=rect	coords=492,402,538,419	href="/dbget-bin/www_bget?K02098"	title="K02098 (SPIR)" />
+<area shape=rect	coords=492,385,538,402	href="/dbget-bin/www_bget?K02184"	title="K02184 (FMN2)" />
+<area shape=rect	coords=418,393,464,410	href="/dbget-bin/www_bget?K02524"	title="K02524 (K10)" />
+<area shape=rect	coords=193,518,239,535	href="/dbget-bin/www_bget?K02156"	title="K02156 (AUB)" />
+<area shape=rect	coords=193,499,239,516	href="/dbget-bin/www_bget?K02602"	title="K02602 (CPEB)" />
+<area shape=rect	coords=193,480,239,497	href="/dbget-bin/www_bget?K02360"	title="K02360 (ENC)" />
+<area shape=rect	coords=274,412,320,429	href="/dbget-bin/www_bget?K02177"	title="K02177 (BRU)" />
+<area shape=rect	coords=102,453,148,470	href="/dbget-bin/www_bget?K02447"	title="K02447 (GRK)" />
+<area shape=rect	coords=98,416,144,433	href="/dbget-bin/www_bget?K02175"	title="K02175 (BRN)" />
+<area shape=rect	coords=141,392,187,409	href="/dbget-bin/www_bget?K02359"	title="K02359 (EGH)" />
+<area shape=rect	coords=141,282,187,299	href="/dbget-bin/www_bget?K02599+K20994+K20995+K20996"	title="K02599 (NOTCH1), K20994 (NOTCH2), K20995 (NOTCH3), K20996 (NOTCH4)" />
+<area shape=rect	coords=671,131,717,148	href="/dbget-bin/www_bget?K02174"	title="K02174 (BR-C)" />
+<area shape=rect	coords=560,211,606,228	href="/dbget-bin/www_bget?K02215"	title="K02215 (CF2)" />
+<area shape=rect	coords=559,183,605,200	href="/dbget-bin/www_bget?K03211"	title="K03211 (ETV6_7)" />
+<area shape=rect	coords=559,157,605,174	href="/dbget-bin/www_bget?K02678"	title="K02678 (ETS1)" />
+<area shape=rect	coords=469,194,515,211	href="/dbget-bin/www_bget?K04371"	title="K04371 (MAPK1_3)" />
+<area shape=rect	coords=395,194,441,211	href="/dbget-bin/www_bget?K04368"	title="K04368 (MAP2K1)" />
+<area shape=rect	coords=322,194,368,211	href="/dbget-bin/www_bget?K04365"	title="K04365 (BRAF)" />
+<area shape=rect	coords=247,194,293,211	href="/dbget-bin/www_bget?K07827"	title="K07827 (KRAS)" />
+<area shape=rect	coords=231,169,277,186	href="/dbget-bin/www_bget?K03099"	title="K03099 (SOS)" />
+<area shape=rect	coords=215,145,261,162	href="/dbget-bin/www_bget?K04364"	title="K04364 (GRB2)" />
+<area shape=rect	coords=44,145,90,162	href="/dbget-bin/www_bget?K02447"	title="K02447 (GRK)" />
+<area shape=rect	coords=141,145,187,162	href="/dbget-bin/www_bget?K04361"	title="K04361 (EGFR)" />
+<area shape=rect	coords=70,106,116,123	href="/dbget-bin/www_bget?K02104"	title="K02104 (AOS)" />
+<area shape=rect	coords=40,45,374,70	href="/dbget-bin/www_bget?ko04320"	title="ko04320: Dorso-ventral axis formation" onmouseover="popupTimer(&quot;ko04320&quot;, &quot;ko04320: Dorso-ventral axis formation&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

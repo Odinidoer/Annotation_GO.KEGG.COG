@@ -1,0 +1,264 @@
+<html>
+<!---
+ENTRY       ko00363
+DEFINITION  Bisphenol degradation
+--->
+<head>
+<title>
+KEGG PATHWAY: Bisphenol degradation
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Bisphenol degradation</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=00363&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map00363.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko00363">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko00363&format=kgml">Download KGML</a>
+
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="ec">Reference pathway (EC)</option>
+<option value="rn">Reference pathway (Reaction)</option>
+</select>
+<input type="hidden" name="mapno" value="00363" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko00363" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko00363.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=374,78,4	href="/dbget-bin/www_bget?C13620"	title="C13620 (Tetrabromobisphenol A)" onmouseover="popupTimer(&quot;C13620&quot;, &quot;C13620 (Tetrabromobisphenol A)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=300,563,4	href="/dbget-bin/www_bget?C13632"	title="C13632 (4,4'-Dihydroxy-alpha-methylstilbene)" onmouseover="popupTimer(&quot;C13632&quot;, &quot;C13632 (4,4'-Dihydroxy-alpha-methylstilbene)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=300,836,4	href="/dbget-bin/www_bget?C00530"	title="C00530 (Hydroquinone)" onmouseover="popupTimer(&quot;C00530&quot;, &quot;C00530 (Hydroquinone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=374,157,4	href="/dbget-bin/www_bget?C13621"	title="C13621 (Tribromobisphenol A)" onmouseover="popupTimer(&quot;C13621&quot;, &quot;C13621 (Tribromobisphenol A)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=522,718,4	href="/dbget-bin/www_bget?C00156"	title="C00156 (4-Hydroxybenzoate)" onmouseover="popupTimer(&quot;C00156&quot;, &quot;C00156 (4-Hydroxybenzoate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=522,563,4	href="/dbget-bin/www_bget?C13634"	title="C13634 (2,3-Bis(4-hydroxyphenyl)-1,2-propanediol)" onmouseover="popupTimer(&quot;C13634&quot;, &quot;C13634 (2,3-Bis(4-hydroxyphenyl)-1,2-propanediol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=447,483,4	href="/dbget-bin/www_bget?C13631"	title="C13631 (2,2-Bis(4-hydroxyphenyl)-1-propanol)" onmouseover="popupTimer(&quot;C13631&quot;, &quot;C13631 (2,2-Bis(4-hydroxyphenyl)-1-propanol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=300,483,4	href="/dbget-bin/www_bget?C13629"	title="C13629 (1,2-Bis(4-hydroxyphenyl)-2-propanol)" onmouseover="popupTimer(&quot;C13629&quot;, &quot;C13629 (1,2-Bis(4-hydroxyphenyl)-2-propanol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=217,617,4	href="/dbget-bin/www_bget?C00633"	title="C00633 (4-Hydroxybenzaldehyde)" onmouseover="popupTimer(&quot;C00633&quot;, &quot;C00633 (4-Hydroxybenzaldehyde)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=210,391,4	href="/dbget-bin/www_bget?C13625"	title="C13625 (4-Methyl-2,4-bis-(p-hydroxyphenyl)pent-1-ene)" onmouseover="popupTimer(&quot;C13625&quot;, &quot;C13625 (4-Methyl-2,4-bis-(p-hydroxyphenyl)pent-1-ene)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=374,236,4	href="/dbget-bin/www_bget?C13622"	title="C13622 (Dibromobisphenol A)" onmouseover="popupTimer(&quot;C13622&quot;, &quot;C13622 (Dibromobisphenol A)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=374,315,4	href="/dbget-bin/www_bget?C13623"	title="C13623 (Monobromobisphenol A)" onmouseover="popupTimer(&quot;C13623&quot;, &quot;C13623 (Monobromobisphenol A)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=374,394,4	href="/dbget-bin/www_bget?C13624"	title="C13624 (Bisphenol A)" onmouseover="popupTimer(&quot;C13624&quot;, &quot;C13624 (Bisphenol A)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=512,391,4	href="/dbget-bin/www_bget?C13626"	title="C13626 (5-Hydroxybisphenol A)" onmouseover="popupTimer(&quot;C13626&quot;, &quot;C13626 (5-Hydroxybisphenol A)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=402,563,4	href="/dbget-bin/www_bget?C13633"	title="C13633 (2,2-Bis(4-hydroxyphenyl)-propanoic acid)" onmouseover="popupTimer(&quot;C13633&quot;, &quot;C13633 (2,2-Bis(4-hydroxyphenyl)-propanoic acid)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=300,678,4	href="/dbget-bin/www_bget?C10700"	title="C10700 (4'-Hydroxyacetophenone)" onmouseover="popupTimer(&quot;C10700&quot;, &quot;C10700 (4'-Hydroxyacetophenone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=300,757,4	href="/dbget-bin/www_bget?C13636"	title="C13636 (4-Hydroxyphenyl acetate)" onmouseover="popupTimer(&quot;C13636&quot;, &quot;C13636 (4-Hydroxyphenyl acetate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=623,391,4	href="/dbget-bin/www_bget?C13628"	title="C13628 (4,5-Bisphenol-o-quinone)" onmouseover="popupTimer(&quot;C13628&quot;, &quot;C13628 (4,5-Bisphenol-o-quinone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=608,640,4	href="/dbget-bin/www_bget?C13635"	title="C13635 (4-Hydroxyphenacyl alcohol)" onmouseover="popupTimer(&quot;C13635&quot;, &quot;C13635 (4-Hydroxyphenacyl alcohol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=733,394,4	href="/dbget-bin/www_bget?C14298"	title="C14298 (Bis(4-hydroxyphenyl)methane)" onmouseover="popupTimer(&quot;C14298&quot;, &quot;C14298 (Bis(4-hydroxyphenyl)methane)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=733,483,4	href="/dbget-bin/www_bget?C18215"	title="C18215 (Bis(4-hydroxyphenyl)methanol)" onmouseover="popupTimer(&quot;C18215&quot;, &quot;C18215 (Bis(4-hydroxyphenyl)methanol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=733,678,4	href="/dbget-bin/www_bget?C14220"	title="C14220 (4,4'-Dihydroxybenzophenone)" onmouseover="popupTimer(&quot;C14220&quot;, &quot;C14220 (4,4'-Dihydroxybenzophenone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=733,757,4	href="/dbget-bin/www_bget?C18216"	title="C18216 (4-Hydroxyphenyl-4-hydroxybenzoate)" onmouseover="popupTimer(&quot;C18216&quot;, &quot;C18216 (4-Hydroxyphenyl-4-hydroxybenzoate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=80,678,4	href="/dbget-bin/www_bget?C13637"	title="C13637 (4-Ethylphenol)" onmouseover="popupTimer(&quot;C13637&quot;, &quot;C13637 (4-Ethylphenol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=190,678,4	href="/dbget-bin/www_bget?C13638"	title="C13638 (1-(4'-Hydroxyphenyl)ethanol)" onmouseover="popupTimer(&quot;C13638&quot;, &quot;C13638 (1-(4'-Hydroxyphenyl)ethanol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=585,673,631,690	href="/dbget-bin/www_bget?K05913"	title="K05913 (E1.13.11.41)" />
+<area shape=rect	coords=278,704,324,721	href="/dbget-bin/www_bget?K14520"	title="K14520 (hapE)" />
+<area shape=rect	coords=226,891,376,925	href="/kegg-bin/show_pathway?ko00361"	title="ko00361: Chlorocyclohexane and chlorobenzene degradation" onmouseover="popupTimer(&quot;ko00361&quot;, &quot;ko00361: Chlorocyclohexane and chlorobenzene degradation&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=40,45,247,70	href="/dbget-bin/www_bget?ko00363"	title="ko00363: Bisphenol degradation" onmouseover="popupTimer(&quot;ko00363&quot;, &quot;ko00363: Bisphenol degradation&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=32,605,150,630	href="/kegg-bin/show_pathway?ko00362"	title="ko00362: Benzoate degradation" onmouseover="popupTimer(&quot;ko00362&quot;, &quot;ko00362: Benzoate degradation&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=463,784,581,809	href="/kegg-bin/show_pathway?ko00362"	title="ko00362: Benzoate degradation" onmouseover="popupTimer(&quot;ko00362&quot;, &quot;ko00362: Benzoate degradation&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

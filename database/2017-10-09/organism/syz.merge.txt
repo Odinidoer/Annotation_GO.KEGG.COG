@@ -1,0 +1,113 @@
+path:syz00010	Glycolysis / Gluconeogenesis - Synechocystis sp. PCC 6803
+path:syz00020	Citrate cycle (TCA cycle) - Synechocystis sp. PCC 6803
+path:syz00030	Pentose phosphate pathway - Synechocystis sp. PCC 6803
+path:syz00040	Pentose and glucuronate interconversions - Synechocystis sp. PCC 6803
+path:syz00051	Fructose and mannose metabolism - Synechocystis sp. PCC 6803
+path:syz00052	Galactose metabolism - Synechocystis sp. PCC 6803
+path:syz00053	Ascorbate and aldarate metabolism - Synechocystis sp. PCC 6803
+path:syz00061	Fatty acid biosynthesis - Synechocystis sp. PCC 6803
+path:syz00071	Fatty acid degradation - Synechocystis sp. PCC 6803
+path:syz00100	Steroid biosynthesis - Synechocystis sp. PCC 6803
+path:syz00121	Secondary bile acid biosynthesis - Synechocystis sp. PCC 6803
+path:syz00130	Ubiquinone and other terpenoid-quinone biosynthesis - Synechocystis sp. PCC 6803
+path:syz00190	Oxidative phosphorylation - Synechocystis sp. PCC 6803
+path:syz00195	Photosynthesis - Synechocystis sp. PCC 6803
+path:syz00196	Photosynthesis - antenna proteins - Synechocystis sp. PCC 6803
+path:syz00220	Arginine biosynthesis - Synechocystis sp. PCC 6803
+path:syz00230	Purine metabolism - Synechocystis sp. PCC 6803
+path:syz00240	Pyrimidine metabolism - Synechocystis sp. PCC 6803
+path:syz00250	Alanine, aspartate and glutamate metabolism - Synechocystis sp. PCC 6803
+path:syz00260	Glycine, serine and threonine metabolism - Synechocystis sp. PCC 6803
+path:syz00261	Monobactam biosynthesis - Synechocystis sp. PCC 6803
+path:syz00270	Cysteine and methionine metabolism - Synechocystis sp. PCC 6803
+path:syz00280	Valine, leucine and isoleucine degradation - Synechocystis sp. PCC 6803
+path:syz00290	Valine, leucine and isoleucine biosynthesis - Synechocystis sp. PCC 6803
+path:syz00300	Lysine biosynthesis - Synechocystis sp. PCC 6803
+path:syz00310	Lysine degradation - Synechocystis sp. PCC 6803
+path:syz00330	Arginine and proline metabolism - Synechocystis sp. PCC 6803
+path:syz00332	Carbapenem biosynthesis - Synechocystis sp. PCC 6803
+path:syz00340	Histidine metabolism - Synechocystis sp. PCC 6803
+path:syz00350	Tyrosine metabolism - Synechocystis sp. PCC 6803
+path:syz00360	Phenylalanine metabolism - Synechocystis sp. PCC 6803
+path:syz00361	Chlorocyclohexane and chlorobenzene degradation - Synechocystis sp. PCC 6803
+path:syz00362	Benzoate degradation - Synechocystis sp. PCC 6803
+path:syz00364	Fluorobenzoate degradation - Synechocystis sp. PCC 6803
+path:syz00380	Tryptophan metabolism - Synechocystis sp. PCC 6803
+path:syz00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Synechocystis sp. PCC 6803
+path:syz00401	Novobiocin biosynthesis - Synechocystis sp. PCC 6803
+path:syz00405	Phenazine biosynthesis - Synechocystis sp. PCC 6803
+path:syz00410	beta-Alanine metabolism - Synechocystis sp. PCC 6803
+path:syz00430	Taurine and hypotaurine metabolism - Synechocystis sp. PCC 6803
+path:syz00440	Phosphonate and phosphinate metabolism - Synechocystis sp. PCC 6803
+path:syz00450	Selenocompound metabolism - Synechocystis sp. PCC 6803
+path:syz00460	Cyanoamino acid metabolism - Synechocystis sp. PCC 6803
+path:syz00471	D-Glutamine and D-glutamate metabolism - Synechocystis sp. PCC 6803
+path:syz00473	D-Alanine metabolism - Synechocystis sp. PCC 6803
+path:syz00480	Glutathione metabolism - Synechocystis sp. PCC 6803
+path:syz00500	Starch and sucrose metabolism - Synechocystis sp. PCC 6803
+path:syz00511	Other glycan degradation - Synechocystis sp. PCC 6803
+path:syz00520	Amino sugar and nucleotide sugar metabolism - Synechocystis sp. PCC 6803
+path:syz00521	Streptomycin biosynthesis - Synechocystis sp. PCC 6803
+path:syz00523	Polyketide sugar unit biosynthesis - Synechocystis sp. PCC 6803
+path:syz00525	Acarbose and validamycin biosynthesis - Synechocystis sp. PCC 6803
+path:syz00540	Lipopolysaccharide biosynthesis - Synechocystis sp. PCC 6803
+path:syz00550	Peptidoglycan biosynthesis - Synechocystis sp. PCC 6803
+path:syz00561	Glycerolipid metabolism - Synechocystis sp. PCC 6803
+path:syz00562	Inositol phosphate metabolism - Synechocystis sp. PCC 6803
+path:syz00564	Glycerophospholipid metabolism - Synechocystis sp. PCC 6803
+path:syz00600	Sphingolipid metabolism - Synechocystis sp. PCC 6803
+path:syz00620	Pyruvate metabolism - Synechocystis sp. PCC 6803
+path:syz00623	Toluene degradation - Synechocystis sp. PCC 6803
+path:syz00625	Chloroalkane and chloroalkene degradation - Synechocystis sp. PCC 6803
+path:syz00626	Naphthalene degradation - Synechocystis sp. PCC 6803
+path:syz00627	Aminobenzoate degradation - Synechocystis sp. PCC 6803
+path:syz00630	Glyoxylate and dicarboxylate metabolism - Synechocystis sp. PCC 6803
+path:syz00640	Propanoate metabolism - Synechocystis sp. PCC 6803
+path:syz00643	Styrene degradation - Synechocystis sp. PCC 6803
+path:syz00650	Butanoate metabolism - Synechocystis sp. PCC 6803
+path:syz00660	C5-Branched dibasic acid metabolism - Synechocystis sp. PCC 6803
+path:syz00670	One carbon pool by folate - Synechocystis sp. PCC 6803
+path:syz00680	Methane metabolism - Synechocystis sp. PCC 6803
+path:syz00710	Carbon fixation in photosynthetic organisms - Synechocystis sp. PCC 6803
+path:syz00730	Thiamine metabolism - Synechocystis sp. PCC 6803
+path:syz00740	Riboflavin metabolism - Synechocystis sp. PCC 6803
+path:syz00750	Vitamin B6 metabolism - Synechocystis sp. PCC 6803
+path:syz00760	Nicotinate and nicotinamide metabolism - Synechocystis sp. PCC 6803
+path:syz00770	Pantothenate and CoA biosynthesis - Synechocystis sp. PCC 6803
+path:syz00780	Biotin metabolism - Synechocystis sp. PCC 6803
+path:syz00785	Lipoic acid metabolism - Synechocystis sp. PCC 6803
+path:syz00790	Folate biosynthesis - Synechocystis sp. PCC 6803
+path:syz00860	Porphyrin and chlorophyll metabolism - Synechocystis sp. PCC 6803
+path:syz00900	Terpenoid backbone biosynthesis - Synechocystis sp. PCC 6803
+path:syz00906	Carotenoid biosynthesis - Synechocystis sp. PCC 6803
+path:syz00909	Sesquiterpenoid and triterpenoid biosynthesis - Synechocystis sp. PCC 6803
+path:syz00910	Nitrogen metabolism - Synechocystis sp. PCC 6803
+path:syz00920	Sulfur metabolism - Synechocystis sp. PCC 6803
+path:syz00970	Aminoacyl-tRNA biosynthesis - Synechocystis sp. PCC 6803
+path:syz01040	Biosynthesis of unsaturated fatty acids - Synechocystis sp. PCC 6803
+path:syz01100	Metabolic pathways - Synechocystis sp. PCC 6803
+path:syz01110	Biosynthesis of secondary metabolites - Synechocystis sp. PCC 6803
+path:syz01120	Microbial metabolism in diverse environments - Synechocystis sp. PCC 6803
+path:syz01130	Biosynthesis of antibiotics - Synechocystis sp. PCC 6803
+path:syz01200	Carbon metabolism - Synechocystis sp. PCC 6803
+path:syz01210	2-Oxocarboxylic acid metabolism - Synechocystis sp. PCC 6803
+path:syz01212	Fatty acid metabolism - Synechocystis sp. PCC 6803
+path:syz01220	Degradation of aromatic compounds - Synechocystis sp. PCC 6803
+path:syz01230	Biosynthesis of amino acids - Synechocystis sp. PCC 6803
+path:syz01501	beta-Lactam resistance - Synechocystis sp. PCC 6803
+path:syz01502	Vancomycin resistance - Synechocystis sp. PCC 6803
+path:syz01503	Cationic antimicrobial peptide (CAMP) resistance - Synechocystis sp. PCC 6803
+path:syz02010	ABC transporters - Synechocystis sp. PCC 6803
+path:syz02020	Two-component system - Synechocystis sp. PCC 6803
+path:syz02024	Quorum sensing - Synechocystis sp. PCC 6803
+path:syz03010	Ribosome - Synechocystis sp. PCC 6803
+path:syz03018	RNA degradation - Synechocystis sp. PCC 6803
+path:syz03020	RNA polymerase - Synechocystis sp. PCC 6803
+path:syz03030	DNA replication - Synechocystis sp. PCC 6803
+path:syz03060	Protein export - Synechocystis sp. PCC 6803
+path:syz03070	Bacterial secretion system - Synechocystis sp. PCC 6803
+path:syz03410	Base excision repair - Synechocystis sp. PCC 6803
+path:syz03420	Nucleotide excision repair - Synechocystis sp. PCC 6803
+path:syz03430	Mismatch repair - Synechocystis sp. PCC 6803
+path:syz03440	Homologous recombination - Synechocystis sp. PCC 6803
+path:syz04122	Sulfur relay system - Synechocystis sp. PCC 6803

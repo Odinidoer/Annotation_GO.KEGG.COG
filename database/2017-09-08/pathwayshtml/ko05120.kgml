@@ -1,0 +1,307 @@
+<html>
+<!---
+ENTRY       ko05120
+DEFINITION  Epithelial cell signaling in Helicobacter pylori infection
+--->
+<head>
+<title>
+KEGG PATHWAY: Epithelial cell signaling in Helicobacter pylori infection
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Epithelial cell signaling in Helicobacter pylori infection</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=05120&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map05120.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko05120">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko05120&format=kgml">Download KGML</a>
+| <a id="descLink" href="javascript:switchDescription()">Show description</a>
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+<table id="description" cellpadding="10" width="800" style="display: none;"><tr><td>
+Two major virulence factors of H. pylori are the vacuolating cytotoxin (VacA) and the cag type-IV secretion system (T4SS) and its translocated effector protein, cytotoxin-associated antigen A (CagA).
+VacA binds to lipid rafts and glycosylphosphatidylinositol-anchored proteins (GPI-APs) of the target cell membrane. After insertion into the plasma membrane, VacA channels are endocytosed and eventually reach late endosomal compartments, increasing their permeability to anions with enhancement of the electrogenic vacuolar ATPase (v-ATPase) proton pump. In the presence of weak bases, osmotically active acidotropic ions will accumulate in the endosomes. This leads to water influx and vesicle swelling, an essential step in vacuole formation. In addition, it is reported that the VacA cleavage product binds to the tyrosine phosphatase receptor zeta (Ptprz) on epithelial cells and the induced signaling leads to the phosphorylation of the G protein-coupled receptor kinase-interactor 1 (Git1) and induces ulcerogenesis in mice.
+The other virulence factor cag T4SS mediates the translocation of the effector protein CagA, which is subsequently phosphorylated by a Src kinase. Phosphorylated CagA interacts with the protein tyrosine phosphatase SHP-2, thus stimulating its phosphatase activity. Activated SHP-2 is able to induce MAPK signalling through Ras/Raf-dependent and -independent mechanisms. Deregulation of this pathway by CagA may lead to abnormal proliferation and movement of gastric epithelial cells.</td></tr></table>
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="hsa">Homo sapiens (human)</option>
+<option value="hsadd">Homo sapiens (human) + Disease/drug</option>
+<option value="hpy">Helicobacter pylori 26695</option>
+<option value="hpj">Helicobacter pylori J99</option>
+<option value="hpa">Helicobacter pylori HPAG1</option>
+<option value="hps">Helicobacter pylori Shi470</option>
+<option value="hpg">Helicobacter pylori G27</option>
+<option value="hpp">Helicobacter pylori P12</option>
+<option value="hpb">Helicobacter pylori B38</option>
+<option value="hpl">Helicobacter pylori B8</option>
+</select>
+<input type="hidden" name="mapno" value="05120" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko05120" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko05120.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=720,870,4	href="/dbget-bin/www_bget?C01342"	title="C01342 (NH4+)" onmouseover="popupTimer(&quot;C01342&quot;, &quot;C01342 (NH4+)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=689,837,4	href="/dbget-bin/www_bget?C00080"	title="C00080 (H+)" onmouseover="popupTimer(&quot;C00080&quot;, &quot;C00080 (H+)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=650,870,4	href="/dbget-bin/www_bget?C00014"	title="C00014 (Ammonia)" onmouseover="popupTimer(&quot;C00014&quot;, &quot;C00014 (Ammonia)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=374,879,4	href="/dbget-bin/www_bget?G00263"	title="G00263 (IV2Fuc,III4Fuc-Lc4-Cer)" onmouseover="popupTimer(&quot;G00263&quot;, &quot;G00263 (IV2Fuc,III4Fuc-Lc4-Cer)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=650,837,4	href="/dbget-bin/www_bget?C00698"	title="C00698 (Cl-)" onmouseover="popupTimer(&quot;C00698&quot;, &quot;C00698 (Cl-)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=135,619,4	href="/dbget-bin/www_bget?C00086"	title="C00086 (Urea)" onmouseover="popupTimer(&quot;C00086&quot;, &quot;C00086 (Urea)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=374,903,4	href="/dbget-bin/www_bget?G00242"	title="G00242 (Sialyl Lewis x antigen)" onmouseover="popupTimer(&quot;G00242&quot;, &quot;G00242 (Sialyl Lewis x antigen)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=270,619,4	href="/dbget-bin/www_bget?C00014"	title="C00014 (Ammonia)" onmouseover="popupTimer(&quot;C00014&quot;, &quot;C00014 (Ammonia)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=203,814,249,831	href="/dbget-bin/www_bget?K15845"	title="K15845 (hopZ)" />
+<area shape=rect	coords=203,790,249,807	href="/dbget-bin/www_bget?K15844"	title="K15844 (hopB)" />
+<area shape=rect	coords=203,766,249,783	href="/dbget-bin/www_bget?K15843"	title="K15843 (hopC)" />
+<area shape=rect	coords=291,718,337,735	href="/dbget-bin/www_bget?K11028"	title="K11028 (vacA)" />
+<area shape=rect	coords=669,482,715,499	href="/dbget-bin/www_bget?K04441"	title="K04441 (P38)" />
+<area shape=rect	coords=738,523,784,540	href="/dbget-bin/www_bget?K04448"	title="K04448 (JUN)" />
+<area shape=rect	coords=669,523,715,540	href="/dbget-bin/www_bget?K04440"	title="K04440 (JNK)" />
+<area shape=rect	coords=600,523,646,540	href="/dbget-bin/www_bget?K04430"	title="K04430 (MAP2K4)" />
+<area shape=rect	coords=635,565,681,582	href="/dbget-bin/www_bget?K04467"	title="K04467 (IKBKA)" />
+<area shape=rect	coords=635,599,681,616	href="/dbget-bin/www_bget?K07210"	title="K07210 (IKBKG)" />
+<area shape=rect	coords=635,582,681,599	href="/dbget-bin/www_bget?K07209"	title="K07209 (IKBKB)" />
+<area shape=rect	coords=738,573,784,590	href="/dbget-bin/www_bget?K04734"	title="K04734 (NFKBIA)" />
+<area shape=rect	coords=666,787,712,804	href="/dbget-bin/www_bget?K02144+K02145+K02146+K02147+K02148+K02149+K02150+K02151+K02152+K02153+K02154+K02155+K03661+K03662"	title="K02144 (ATPeV1H), K02145 (ATPeV1A), K02146 (ATPeV0D), K02147 (ATPeV1B), K02148 (ATPeV1C), K02149 (ATPeV1D), K02150 (ATPeV1E), K02151 (ATPeV1F), K02152 (ATPeV1G), K02153 (ATPeV0E), K02154 (ATPeV0A), K02155 (ATPeV0C), K03661 (ATPeV0B), K03662 (ATPeVS1)" />
+<area shape=rect	coords=760,736,806,753	href="/dbget-bin/www_bget?K02187"	title="K02187 (CASP3)" />
+<area shape=rect	coords=462,547,508,564	href="/dbget-bin/www_bget?K04409"	title="K04409 (PAK1)" />
+<area shape=rect	coords=738,621,784,638	href="/dbget-bin/www_bget?K02580+K04735"	title="K02580 (NFKB1), K04735 (RELA)" />
+<area shape=rect	coords=867,621,913,638	href="/dbget-bin/www_bget?K12499"	title="K12499 (CCL5)" />
+<area shape=rect	coords=867,510,913,527	href="/dbget-bin/www_bget?K10030"	title="K10030 (IL8)" />
+<area shape=rect	coords=573,435,619,452	href="/dbget-bin/www_bget?K04393"	title="K04393 (CDC42)" />
+<area shape=rect	coords=573,413,619,430	href="/dbget-bin/www_bget?K04392"	title="K04392 (RAC1)" />
+<area shape=rect	coords=532,574,578,591	href="/dbget-bin/www_bget?K04466"	title="K04466 (MAP3K14)" />
+<area shape=rect	coords=239,648,285,665	href="/dbget-bin/www_bget?K08303"	title="K08303 (K08303)" />
+<area shape=rect	coords=163,619,209,636	href="/dbget-bin/www_bget?K01428"	title="K01428 (ureC)" />
+<area shape=rect	coords=163,602,209,619	href="/dbget-bin/www_bget?K14048"	title="K14048 (ureAB)" />
+<area shape=rect	coords=133,425,179,442	href="/dbget-bin/www_bget?K15842+K12086+K12087+K12088+K12089+K12090+K03196+K12091+K12092+K12093+K12094+K12095+K12096+K12097+K12098+K12099+K12100+K12101+K12102+K12103+K12104+K12105+K12106+K12107+K12108+K12109+K12110"	title="K15842 (cagA), K12086 (cag1), K12087 (cag2), K12088 (cag3), K12089 (cag4), K12090 (cag5), K03196 (virB11), K12091 (cag6), K12092 (cag7), K12093 (cag8), K12094 (cag9), K12095 (cag10), K12096 (cag11), K12097 (cag12), K12098 (cag13), K12099 (cag14), K12100 (cag15), K12101 (cag16), K12102 (cag17), K12103 (cag18), K12104 (cag19), K12105 (cag20), K12106 (cag21), K12107 (cag22), K12108 (cag23), K12109 (cag24), K12110 (cag25)" />
+<area shape=rect	coords=381,148,427,165	href="/dbget-bin/www_bget?K05099"	title="K05099 (MET)" />
+<area shape=rect	coords=600,104,646,121	href="/dbget-bin/www_bget?K06089+K06735+K06785+K06786"	title="K06089 (F11R), K06735 (JAM2), K06785 (JAM3), K06786 (JAM4)" />
+<area shape=rect	coords=432,148,478,165	href="/dbget-bin/www_bget?K01116+K05859"	title="K01116 (PLCG1), K05859 (PLCG2)" />
+<area shape=rect	coords=381,238,427,255	href="/dbget-bin/www_bget?K06059"	title="K06059 (ADAM17)" />
+<area shape=rect	coords=290,267,336,284	href="/dbget-bin/www_bget?K08523"	title="K08523 (HBEGF)" />
+<area shape=rect	coords=381,296,427,313	href="/dbget-bin/www_bget?K06704"	title="K06704 (ADAM10)" />
+<area shape=rect	coords=290,339,336,356	href="/dbget-bin/www_bget?K10030"	title="K10030 (IL8)" />
+<area shape=rect	coords=571,121,617,138	href="/dbget-bin/www_bget?K05701"	title="K05701 (TJP1)" />
+<area shape=rect	coords=381,339,427,356	href="/dbget-bin/www_bget?K04175+K05050"	title="K04175 (CXCR1), K05050 (CXCR2)" />
+<area shape=rect	coords=600,371,646,388	href="/dbget-bin/www_bget?K05728"	title="K05728 (CSK)" />
+<area shape=rect	coords=381,267,427,284	href="/dbget-bin/www_bget?K04361"	title="K04361 (EGFR)" />
+<area shape=rect	coords=486,326,532,343	href="/dbget-bin/www_bget?K15842"	title="K15842 (cagA)" />
+<area shape=rect	coords=520,371,566,388	href="/dbget-bin/www_bget?K05704+K05854"	title="K05704 (SRC), K05854 (LYN)" />
+<area shape=rect	coords=462,680,508,697	href="/dbget-bin/www_bget?K05737"	title="K05737 (GIT1)" />
+<area shape=rect	coords=64,610,110,627	href="/dbget-bin/www_bget?K03191"	title="K03191 (ureI)" />
+<area shape=rect	coords=381,680,427,697	href="/dbget-bin/www_bget?K08114"	title="K08114 (PTPRZ)" />
+<area shape=rect	coords=203,871,249,888	href="/dbget-bin/www_bget?K15847"	title="K15847 (babA)" />
+<area shape=rect	coords=600,326,646,343	href="/dbget-bin/www_bget?K07293"	title="K07293 (PTPN11)" />
+<area shape=rect	coords=532,621,578,638	href="/dbget-bin/www_bget?K08727"	title="K08727 (NOD1)" />
+<area shape=rect	coords=203,838,249,855	href="/dbget-bin/www_bget?K15846"	title="K15846 (hpaA)" />
+<area shape=rect	coords=203,896,249,913	href="/dbget-bin/www_bget?K15848"	title="K15848 (sabA)" />
+<area shape=rect	coords=575,828,621,845	href="/dbget-bin/www_bget?K11028"	title="K11028 (vacA)" />
+<area shape=rect	coords=717,784,870,809	href="/kegg-bin/show_pathway?ko00190"	title="ko00190: Oxidative phosphorylation" onmouseover="popupTimer(&quot;ko00190&quot;, &quot;ko00190: Oxidative phosphorylation&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=623,126,719,151	href="/kegg-bin/show_pathway?ko04530"	title="ko04530: Tight junction" onmouseover="popupTimer(&quot;ko04530&quot;, &quot;ko04530: Tight junction&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=959,324,1048,349	href="/kegg-bin/show_pathway?ko04210"	title="ko04210: Apoptosis" onmouseover="popupTimer(&quot;ko04210&quot;, &quot;ko04210: Apoptosis&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=221,421,405,446	href="/kegg-bin/show_pathway?ko03070"	title="ko03070: Bacterial secretion system" onmouseover="popupTimer(&quot;ko03070&quot;, &quot;ko03070: Bacterial secretion system&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=683,250,867,284	href="/kegg-bin/show_pathway?ko04010"	title="ko04010: MAPK signaling pathway" onmouseover="popupTimer(&quot;ko04010&quot;, &quot;ko04010: MAPK signaling pathway&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=40,45,559,70	href="/dbget-bin/www_bget?ko05120"	title="ko05120: Epithelial cell signaling in Helicobacter pylori infection" onmouseover="popupTimer(&quot;ko05120&quot;, &quot;ko05120: Epithelial cell signaling in Helicobacter pylori infection&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

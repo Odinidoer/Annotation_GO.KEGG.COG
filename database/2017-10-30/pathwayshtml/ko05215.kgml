@@ -1,0 +1,352 @@
+<html>
+<!---
+ENTRY       ko05215
+DEFINITION  Prostate cancer
+--->
+<head>
+<title>
+KEGG PATHWAY: Prostate cancer
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Prostate cancer</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=05215&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map05215.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko05215">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko05215&format=kgml">Download KGML</a>
+| <a id="descLink" href="javascript:switchDescription()">Show description</a>
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+<table id="description" cellpadding="10" width="800" style="display: none;"><tr><td>
+Prostate cancer constitutes a major health problem in Western countries. It is the most frequently diagnosed cancer among men and the second leading cause of male cancer deaths. The identification of key molecular alterations in prostate-cancer cells implicates carcinogen defenses (GSTP1), growth-factor-signaling pathways (NKX3.1, PTEN, and p27), and androgens (AR) as critical determinants of the phenotype of prostate-cancer cells. Glutathione S-transferases (GSTP1) are detoxifying enzymes. Cells of prostatic intraepithelial neoplasia, devoid of GSTP1, undergo genomic damage mediated by carcinogens. NKX3.1, PTEN, and p27 regulate the growth and survival of prostate cells in the normal prostate. Inadequate levels of PTEN and NKX3.1 lead to a reduction in p27 levels and to increased proliferation and decreased apoptosis. Androgen receptor (AR) is a transcription factor that is normally activated by its androgen ligand. During androgen withdrawal therapy, the AR signal transduction pathway also could be activated by amplification of the AR gene, by AR gene mutations, or by altered activity of AR coactivators. Through these mechanisms, tumor cells lead to the emergence of androgen-independent prostate cancer.</td></tr></table>
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="hsa">Homo sapiens (human)</option>
+<option value="hsadd">Homo sapiens (human) + Disease/drug</option>
+<option value="ptr">Pan troglodytes (chimpanzee)</option>
+<option value="pps">Pan paniscus (bonobo)</option>
+<option value="ggo">Gorilla gorilla gorilla (western lowland gorilla)</option>
+<option value="pon">Pongo abelii (Sumatran orangutan)</option>
+<option value="nle">Nomascus leucogenys (northern white-cheeked gibbon)</option>
+<option value="mcc">Macaca mulatta (rhesus monkey)</option>
+<option value="mcf">Macaca fascicularis (crab-eating macaque)</option>
+<option value="csab">Chlorocebus sabaeus (green monkey)</option>
+<option value="rro">Rhinopithecus roxellana (golden snub-nosed monkey)</option>
+<option value="rbb">Rhinopithecus bieti (black snub-nosed monkey)</option>
+<option value="cjc">Callithrix jacchus (white-tufted-ear marmoset)</option>
+<option value="sbq">Saimiri boliviensis boliviensis (Bolivian squirrel monkey)</option>
+<option value="mmu">Mus musculus (mouse)</option>
+<option value="rno">Rattus norvegicus (rat)</option>
+<option value="cge">Cricetulus griseus (Chinese hamster)</option>
+<option value="ngi">Nannospalax galili (Upper Galilee mountains blind mole rat)</option>
+<option value="hgl">Heterocephalus glaber (naked mole rat)</option>
+<option value="ccan">Castor canadensis (American beaver)</option>
+<option value="ocu">Oryctolagus cuniculus (rabbit)</option>
+<option value="tup">Tupaia chinensis (Chinese tree shrew)</option>
+<option value="cfa">Canis familiaris (dog)</option>
+<option value="aml">Ailuropoda melanoleuca (giant panda)</option>
+<option value="umr">Ursus maritimus (polar bear)</option>
+<option value="fca">Felis catus (domestic cat)</option>
+<option value="ptg">Panthera tigris altaica (Amur tiger)</option>
+<option value="aju">Acinonyx jubatus (cheetah)</option>
+<option value="bta">Bos taurus (cow)</option>
+<option value="bom">Bos mutus (wild yak)</option>
+<option value="biu">Bos indicus (zebu cattle)</option>
+<option value="phd">Pantholops hodgsonii (chiru)</option>
+<option value="chx">Capra hircus (goat)</option>
+<option value="oas">Ovis aries (sheep)</option>
+<option value="ssc">Sus scrofa (pig)</option>
+<option value="cfr">Camelus ferus (Wild Bactrian camel)</option>
+<option value="cdk">Camelus dromedarius (Arabian camel)</option>
+<option value="bacu">Balaenoptera acutorostrata scammoni (minke whale)</option>
+<option value="lve">Lipotes vexillifer (Yangtze River dolphin)</option>
+<option value="ecb">Equus caballus (horse)</option>
+<option value="epz">Equus przewalskii (Przewalski's horse)</option>
+<option value="eai">Equus asinus (ass)</option>
+<option value="myb">Myotis brandtii (Brandt's bat)</option>
+<option value="myd">Myotis davidii</option>
+<option value="hai">Hipposideros armiger (great roundleaf bat)</option>
+<option value="rss">Rhinolophus sinicus (Chinese rufous horseshoe bat)</option>
+<option value="pale">Pteropus alecto (black flying fox)</option>
+<option value="lav">Loxodonta africana (African savanna elephant)</option>
+<option value="mdo">Monodelphis domestica (opossum)</option>
+<option value="shr">Sarcophilus harrisii (Tasmanian devil)</option>
+<option value="oaa">Ornithorhynchus anatinus (platypus)</option>
+</select>
+<input type="hidden" name="mapno" value="05215" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko05215" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko05215.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=238,821,4	href="/dbget-bin/www_bget?C00951+C00410+C07653+C01227+C00280+C00735+C00762"	title="C00951 (Estradiol-17beta), C00410 (Progesterone), C07653 (Flutamide), C01227 (Dehydroepiandrosterone), C00280 (Androstenedione), C00735 (Cortisol), C00762 (Cortisone)" onmouseover="popupTimer(&quot;C00951&quot;, &quot;C00951 (Estradiol-17beta), C00410 (Progesterone), C07653 (Flutamide), C01227 (Dehydroepiandrosterone), C00280 (Androstenedione), C00735 (Cortisol), C00762 (Cortisone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=239,735,4	href="/dbget-bin/www_bget?C03917"	title="C03917 (Dihydrotestosterone)" onmouseover="popupTimer(&quot;C03917&quot;, &quot;C03917 (Dihydrotestosterone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=239,695,4	href="/dbget-bin/www_bget?C00535"	title="C00535 (Testosterone)" onmouseover="popupTimer(&quot;C00535&quot;, &quot;C00535 (Testosterone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=239,242,4	href="/dbget-bin/www_bget?C16038"	title="C16038 (2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine)" onmouseover="popupTimer(&quot;C16038&quot;, &quot;C16038 (2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=434,588,4	href="/dbget-bin/www_bget?C05981"	title="C05981 (Phosphatidylinositol-3,4,5-trisphosphate)" onmouseover="popupTimer(&quot;C05981&quot;, &quot;C05981 (Phosphatidylinositol-3,4,5-trisphosphate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=186,704,232,721	href="/dbget-bin/www_bget?K12344"	title="K12344 (SRD5A2)" />
+<area shape=rect	coords=580,815,626,832	href="/dbget-bin/www_bget?K08557"	title="K08557 (AR)" />
+<area shape=rect	coords=580,798,626,815	href="/dbget-bin/www_bget?K08557"	title="K08557 (AR)" />
+<area shape=rect	coords=677,716,723,733	href="/dbget-bin/www_bget?K02580+K04735"	title="K02580 (NFKB1), K04735 (RELA)" />
+<area shape=rect	coords=677,684,723,701	href="/dbget-bin/www_bget?K04734"	title="K04734 (NFKBIA)" />
+<area shape=rect	coords=606,563,652,580	href="/dbget-bin/www_bget?K06624"	title="K06624 (CDKN1B)" />
+<area shape=rect	coords=372,408,418,425	href="/dbget-bin/www_bget?K01110"	title="K01110 (PTEN)" />
+<area shape=rect	coords=456,349,502,366	href="/dbget-bin/www_bget?K09348"	title="K09348 (NKX3-1)" />
+<area shape=rect	coords=1016,789,1062,806	href="/dbget-bin/www_bget?K01351"	title="K01351 (KLK3)" />
+<area shape=rect	coords=1016,717,1062,734	href="/dbget-bin/www_bget?K02161"	title="K02161 (BCL2)" />
+<area shape=rect	coords=1016,654,1062,671	href="/dbget-bin/www_bget?K04503"	title="K04503 (CCND1)" />
+<area shape=rect	coords=879,653,925,670	href="/dbget-bin/www_bget?K02620+K04490+K04491+K04492"	title="K02620 (TCF7), K04490 (TCF7L1), K04491 (TCF7L2), K04492 (LEF1)" />
+<area shape=rect	coords=831,620,877,637	href="/dbget-bin/www_bget?K04498"	title="K04498 (EP300)" />
+<area shape=rect	coords=443,806,489,823	href="/dbget-bin/www_bget?K08557"	title="K08557 (AR)" />
+<area shape=rect	coords=606,594,652,611	href="/dbget-bin/www_bget?K06643"	title="K06643 (MDM2)" />
+<area shape=rect	coords=606,533,652,550	href="/dbget-bin/www_bget?K06625"	title="K06625 (CDKN1A)" />
+<area shape=rect	coords=606,502,652,519	href="/dbget-bin/www_bget?K07201"	title="K07201 (FOXO1)" />
+<area shape=rect	coords=884,305,930,322	href="/dbget-bin/www_bget?K02206"	title="K02206 (CDK2)" />
+<area shape=rect	coords=722,653,768,670	href="/dbget-bin/www_bget?K02105"	title="K02105 (CTNNB1)" />
+<area shape=rect	coords=967,352,1013,369	href="/dbget-bin/www_bget?K17454+K09389+K06620"	title="K17454 (E2F1), K09389 (E2F2), K06620 (E2F3)" />
+<area shape=rect	coords=358,705,404,722	href="/dbget-bin/www_bget?K02833+K07827+K07828"	title="K02833 (HRAS), K07827 (KRAS), K07828 (NRAS)" />
+<area shape=rect	coords=913,592,959,609	href="/dbget-bin/www_bget?K04451"	title="K04451 (TP53)" />
+<area shape=rect	coords=284,580,330,597	href="/dbget-bin/www_bget?K04361+K04362+K04363+K05083+K05086+K05087+K05089+K05093"	title="K04361 (EGFR), K04362 (FGFR1), K04363 (PDGFRA), K05083 (ERBB2), K05086 (INSRR), K05087 (IGF1R), K05089 (PDGFRB), K05093 (FGFR2)" />
+<area shape=rect	coords=606,683,652,700	href="/dbget-bin/www_bget?K04467+K07209+K07210"	title="K04467 (IKBKA), K07209 (IKBKB), K07210 (IKBKG)" />
+<area shape=rect	coords=606,471,652,488	href="/dbget-bin/www_bget?K02158"	title="K02158 (BAD)" />
+<area shape=rect	coords=606,442,652,459	href="/dbget-bin/www_bget?K04399"	title="K04399 (CASP9)" />
+<area shape=rect	coords=721,617,767,634	href="/dbget-bin/www_bget?K04374+K05870+K09047+K09048"	title="K04374 (ATF4), K05870 (CREB1), K09047 (CREB5), K09048 (CREB3)" />
+<area shape=rect	coords=884,322,930,339	href="/dbget-bin/www_bget?K06626"	title="K06626 (CCNE)" />
+<area shape=rect	coords=207,580,253,597	href="/dbget-bin/www_bget?K04357+K04359+K17386+K04526+K05450+K05459+K08774"	title="K04357 (EGF), K04359 (PDGFA), K17386 (PDGFB), K04526 (INS), K05450 (PDGFC_D), K05459 (IGF1), K08774 (TGFA)" />
+<area shape=rect	coords=967,315,1013,332	href="/dbget-bin/www_bget?K06618"	title="K06618 (RB1)" />
+<area shape=rect	coords=447,548,493,565	href="/dbget-bin/www_bget?K06276"	title="K06276 (PDPK1)" />
+<area shape=rect	coords=358,666,404,683	href="/dbget-bin/www_bget?K03099"	title="K03099 (SOS)" />
+<area shape=rect	coords=358,628,404,645	href="/dbget-bin/www_bget?K04364"	title="K04364 (GRB2)" />
+<area shape=rect	coords=607,634,653,651	href="/dbget-bin/www_bget?K03083"	title="K03083 (GSK3B)" />
+<area shape=rect	coords=443,823,489,840	href="/dbget-bin/www_bget?K04079+K09487"	title="K04079 (HSP90A), K09487 (HSP90B)" />
+<area shape=rect	coords=606,747,652,764	href="/dbget-bin/www_bget?K07203"	title="K07203 (MTOR)" />
+<area shape=rect	coords=820,278,866,295	href="/dbget-bin/www_bget?K06624"	title="K06624 (CDKN1B)" />
+<area shape=rect	coords=507,580,553,597	href="/dbget-bin/www_bget?K04456"	title="K04456 (AKT)" />
+<area shape=rect	coords=358,580,404,597	href="/dbget-bin/www_bget?K00922+K02649"	title="K00922 (PIK3CA_B_D), K02649 (PIK3R1_2_3)" />
+<area shape=rect	coords=511,746,557,763	href="/dbget-bin/www_bget?K04371"	title="K04371 (MAPK1_3)" />
+<area shape=rect	coords=510,705,556,722	href="/dbget-bin/www_bget?K04368+K04369"	title="K04368 (MAP2K1), K04369 (MAP2K2)" />
+<area shape=rect	coords=436,705,482,722	href="/dbget-bin/www_bget?K04365+K04366+K08845"	title="K04365 (BRAF), K04366 (RAF1), K08845 (ARAF)" />
+<area shape=rect	coords=898,406,944,423	href="/dbget-bin/www_bget?K09633"	title="K09633 (TMPRSS2)" />
+<area shape=rect	coords=953,406,999,423	href="/dbget-bin/www_bget?K09435"	title="K09435 (ERG)" />
+<area shape=rect	coords=898,515,944,532	href="/dbget-bin/www_bget?K09633"	title="K09633 (TMPRSS2)" />
+<area shape=rect	coords=953,515,999,532	href="/dbget-bin/www_bget?K15593"	title="K15593 (ETV5)" />
+<area shape=rect	coords=1095,394,1141,411	href="/dbget-bin/www_bget?K01348"	title="K01348 (PLAU)" />
+<area shape=rect	coords=1095,416,1141,433	href="/dbget-bin/www_bget?K01394+K01403"	title="K01394 (MMP3), K01403 (MMP9)" />
+<area shape=rect	coords=1095,438,1141,455	href="/dbget-bin/www_bget?K04387"	title="K04387 (IL1R2)" />
+<area shape=rect	coords=1095,469,1141,486	href="/dbget-bin/www_bget?K15619"	title="K15619 (SPINT1)" />
+<area shape=rect	coords=1095,507,1141,524	href="/dbget-bin/www_bget?K01348"	title="K01348 (PLAU)" />
+<area shape=rect	coords=1095,529,1141,546	href="/dbget-bin/www_bget?K01403"	title="K01403 (MMP9)" />
+<area shape=rect	coords=1146,394,1192,411	href="/dbget-bin/www_bget?K01343"	title="K01343 (PLAT)" />
+<area shape=rect	coords=837,549,941,583	href="/kegg-bin/show_pathway?ko04115"	title="ko04115: p53 signaling pathway" onmouseover="popupTimer(&quot;ko04115&quot;, &quot;ko04115: p53 signaling pathway&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=179,608,283,642	href="/kegg-bin/show_pathway?ko04060"	title="ko04060: Cytokine-cytokine receptor interaction" onmouseover="popupTimer(&quot;ko04060&quot;, &quot;ko04060: Cytokine-cytokine receptor interaction&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=31,695,157,729	href="/kegg-bin/show_pathway?ko00140"	title="ko00140: Steroid hormone biosynthesis" onmouseover="popupTimer(&quot;ko00140&quot;, &quot;ko00140: Steroid hormone biosynthesis&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=643,400,747,434	href="/kegg-bin/show_pathway?ko04210"	title="ko04210: Apoptosis" onmouseover="popupTimer(&quot;ko04210&quot;, &quot;ko04210: Apoptosis&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=425,641,529,675	href="/kegg-bin/show_pathway?ko04010"	title="ko04010: MAPK signaling pathway" onmouseover="popupTimer(&quot;ko04010&quot;, &quot;ko04010: MAPK signaling pathway&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=40,45,192,70	href="/dbget-bin/www_bget?ko05215"	title="ko05215: Prostate cancer" onmouseover="popupTimer(&quot;ko05215&quot;, &quot;ko05215: Prostate cancer&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=1029,292,1133,326	href="/kegg-bin/show_pathway?ko04110"	title="ko04110: Cell cycle" onmouseover="popupTimer(&quot;ko04110&quot;, &quot;ko04110: Cell cycle&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=517,400,621,434	href="/kegg-bin/show_pathway?ko04151"	title="ko04151: PI3K-Akt signaling pathway" onmouseover="popupTimer(&quot;ko04151&quot;, &quot;ko04151: PI3K-Akt signaling pathway&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=871,450,1012,484	href="/kegg-bin/show_pathway?ko05202"	title="ko05202: Transcriptional misregulation in cancer" onmouseover="popupTimer(&quot;ko05202&quot;, &quot;ko05202: Transcriptional misregulation in cancer&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

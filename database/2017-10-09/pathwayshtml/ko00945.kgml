@@ -1,0 +1,346 @@
+<html>
+<!---
+ENTRY       ko00945
+DEFINITION  Stilbenoid, diarylheptanoid and gingerol biosynthesis
+--->
+<head>
+<title>
+KEGG PATHWAY: Stilbenoid, diarylheptanoid and gingerol biosynthesis
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Stilbenoid, diarylheptanoid and gingerol biosynthesis</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=00945&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map00945.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko00945">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko00945&format=kgml">Download KGML</a>
+| <a id="descLink" href="javascript:switchDescription()">Show description</a>
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+<table id="description" cellpadding="10" width="800" style="display: none;"><tr><td>
+Stilbenoids are a group of phenolic compounds, biosynthetically interrelated through their common origin from a C6-C2-C6 intermediate, such as resveratol found in grapes. Stilbenoids can also exist as glycosides (e.g., piceid). Combretastatins are potentially useful stilbenoid natural products with known antitumor activity. Diarylheptanoid is a compound group having phenyl rings at 1,7 positions of n-heptane (C6-C7-C6), such as curcumin found in the ginger family. [6]-Gingerol is a major active component of ginger and has diverse pharmacologic effects.</td></tr></table>
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="ec">Reference pathway (EC)</option>
+<option value="rn">Reference pathway (Reaction)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="ath">Arabidopsis thaliana (thale cress)</option>
+<option value="aly">Arabidopsis lyrata (lyrate rockcress)</option>
+<option value="crb">Capsella rubella</option>
+<option value="csat">Camelina sativa (false flax)</option>
+<option value="eus">Eutrema salsugineum</option>
+<option value="brp">Brassica rapa (field mustard)</option>
+<option value="bna">Brassica napus (rape)</option>
+<option value="boe">Brassica oleracea (wild cabbage)</option>
+<option value="thj">Tarenaya hassleriana (spider flower)</option>
+<option value="cit">Citrus sinensis (Valencia orange)</option>
+<option value="cic">Citrus clementina (mandarin orange)</option>
+<option value="tcc">Theobroma cacao (cacao)</option>
+<option value="gra">Gossypium raimondii</option>
+<option value="ghi">Gossypium hirsutum (upland cotton)</option>
+<option value="egr">Eucalyptus grandis (rose gum)</option>
+<option value="gmx">Glycine max (soybean)</option>
+<option value="pvu">Phaseolus vulgaris (common bean)</option>
+<option value="vra">Vigna radiata (mung bean)</option>
+<option value="var">Vigna angularis (adzuki bean)</option>
+<option value="ccaj">Cajanus cajan (pigeon pea)</option>
+<option value="mtr">Medicago truncatula (barrel medic)</option>
+<option value="cam">Cicer arietinum (chickpea)</option>
+<option value="adu">Arachis duranensis</option>
+<option value="aip">Arachis ipaensis</option>
+<option value="lja">Lotus japonicus</option>
+<option value="lang">Lupinus angustifolius (narrow-leaved blue lupine)</option>
+<option value="fve">Fragaria vesca (woodland strawberry)</option>
+<option value="pper">Prunus persica (peach)</option>
+<option value="pmum">Prunus mume (Japanese apricot)</option>
+<option value="mdm">Malus domestica (apple)</option>
+<option value="pxb">Pyrus x bretschneideri (Chinese white pear)</option>
+<option value="zju">Ziziphus jujuba (Chinese jujube)</option>
+<option value="csv">Cucumis sativus (cucumber)</option>
+<option value="cmo">Cucumis melo (muskmelon)</option>
+<option value="rcu">Ricinus communis (castor bean)</option>
+<option value="jcu">Jatropha curcas</option>
+<option value="pop">Populus trichocarpa (black cottonwood)</option>
+<option value="vvi">Vitis vinifera (wine grape)</option>
+<option value="sly">Solanum lycopersicum (tomato)</option>
+<option value="spen">Solanum pennellii</option>
+<option value="sot">Solanum tuberosum (potato)</option>
+<option value="cann">Capsicum annuum</option>
+<option value="nta">Nicotiana tabacum (common tobacco)</option>
+<option value="nto">Nicotiana tomentosiformis</option>
+<option value="ini">Ipomoea nil (Japanese morning glory)</option>
+<option value="sind">Sesamum indicum (sesame)</option>
+<option value="bvg">Beta vulgaris (sugar beet)</option>
+<option value="nnu">Nelumbo nucifera (sacred lotus)</option>
+<option value="osa">Oryza sativa japonica (Japanese rice) (RefSeq)</option>
+<option value="dosa">Oryza sativa japonica (Japanese rice) (RAPDB)</option>
+<option value="obr">Oryza brachyantha (malo sina)</option>
+<option value="bdi">Brachypodium distachyon</option>
+<option value="ats">Aegilops tauschii (wheat D)</option>
+<option value="sbi">Sorghum bicolor (sorghum)</option>
+<option value="zma">Zea mays (maize)</option>
+<option value="sita">Setaria italica (foxtail millet)</option>
+<option value="pda">Phoenix dactylifera (date palm)</option>
+<option value="egu">Elaeis guineensis (African oil palm)</option>
+<option value="mus">Musa acuminata (wild Malaysian banana)</option>
+<option value="dct">Dendrobium catenatum</option>
+<option value="atr">Amborella trichopoda</option>
+<option value="smo">Selaginella moellendorffii</option>
+<option value="ppp">Physcomitrella patens subsp. patens</option>
+</select>
+<input type="hidden" name="mapno" value="00945" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko00945" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko00945.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=236,490,4	href="/dbget-bin/www_bget?C17747"	title="C17747 (5-Hydroxy-1-(4-hydroxyphenyl)-3-decanone)" onmouseover="popupTimer(&quot;C17747&quot;, &quot;C17747 (5-Hydroxy-1-(4-hydroxyphenyl)-3-decanone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=610,490,4	href="/dbget-bin/www_bget?C10462"	title="C10462 ([6]-Gingerol)" onmouseover="popupTimer(&quot;C10462&quot;, &quot;C10462 ([6]-Gingerol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=427,490,4	href="/dbget-bin/www_bget?C17748"	title="C17748 (1-(3,4-Dihydroxyphenyl)-5-hydroxy-3-decanone)" onmouseover="popupTimer(&quot;C17748&quot;, &quot;C17748 (1-(3,4-Dihydroxyphenyl)-5-hydroxy-3-decanone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=236,412,4	href="/dbget-bin/www_bget?C17744"	title="C17744 (1-(4-Hydroxyphenyl)-1-decene-3,5-dione)" onmouseover="popupTimer(&quot;C17744&quot;, &quot;C17744 (1-(4-Hydroxyphenyl)-1-decene-3,5-dione)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=610,412,4	href="/dbget-bin/www_bget?C17746"	title="C17746 (1-Dehydro-[6]-gingerdione)" onmouseover="popupTimer(&quot;C17746&quot;, &quot;C17746 (1-Dehydro-[6]-gingerdione)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=427,412,4	href="/dbget-bin/www_bget?C17745"	title="C17745 (1-(3,4-Dihydroxyphenyl)-1-decene-3,5-dione)" onmouseover="popupTimer(&quot;C17745&quot;, &quot;C17745 (1-(3,4-Dihydroxyphenyl)-1-decene-3,5-dione)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=610,305,4	href="/dbget-bin/www_bget?C00406"	title="C00406 (Feruloyl-CoA)" onmouseover="popupTimer(&quot;C00406&quot;, &quot;C00406 (Feruloyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=239,194,4	href="/dbget-bin/www_bget?C17740"	title="C17740 (p-Coumaroyl-diketide-CoA)" onmouseover="popupTimer(&quot;C17740&quot;, &quot;C17740 (p-Coumaroyl-diketide-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=610,194,4	href="/dbget-bin/www_bget?C17741"	title="C17741 (Feruloyl-diketide-CoA)" onmouseover="popupTimer(&quot;C17741&quot;, &quot;C17741 (Feruloyl-diketide-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=239,116,4	href="/dbget-bin/www_bget?C17743"	title="C17743 (Bisdemethoxycurcumin)" onmouseover="popupTimer(&quot;C17743&quot;, &quot;C17743 (Bisdemethoxycurcumin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=610,116,4	href="/dbget-bin/www_bget?C10443"	title="C10443 (Curcumin)" onmouseover="popupTimer(&quot;C10443&quot;, &quot;C10443 (Curcumin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=710,116,4	href="/dbget-bin/www_bget?C17749"	title="C17749 (Curcumin monoglucoside)" onmouseover="popupTimer(&quot;C17749&quot;, &quot;C17749 (Curcumin monoglucoside)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=809,116,4	href="/dbget-bin/www_bget?C17750"	title="C17750 (Curcumin diglucoside)" onmouseover="popupTimer(&quot;C17750&quot;, &quot;C17750 (Curcumin diglucoside)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=69,305,4	href="/dbget-bin/www_bget?C00540"	title="C00540 (Cinnamoyl-CoA)" onmouseover="popupTimer(&quot;C00540&quot;, &quot;C00540 (Cinnamoyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=69,391,4	href="/dbget-bin/www_bget?C01745"	title="C01745 (Pinosylvin)" onmouseover="popupTimer(&quot;C01745&quot;, &quot;C01745 (Pinosylvin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=149,391,4	href="/dbget-bin/www_bget?C03582"	title="C03582 (Resveratrol)" onmouseover="popupTimer(&quot;C03582&quot;, &quot;C03582 (Resveratrol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=149,490,4	href="/dbget-bin/www_bget?C05901"	title="C05901 (Piceatannol)" onmouseover="popupTimer(&quot;C05901&quot;, &quot;C05901 (Piceatannol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=511,305,4	href="/dbget-bin/www_bget?C00323"	title="C00323 (Caffeoyl-CoA)" onmouseover="popupTimer(&quot;C00323&quot;, &quot;C00323 (Caffeoyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=334,258,4	href="/dbget-bin/www_bget?C02947"	title="C02947 (4-Coumaroylshikimate)" onmouseover="popupTimer(&quot;C02947&quot;, &quot;C02947 (4-Coumaroylshikimate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=426,258,4	href="/dbget-bin/www_bget?C10434"	title="C10434 (5-O-Caffeoylshikimic acid)" onmouseover="popupTimer(&quot;C10434&quot;, &quot;C10434 (5-O-Caffeoylshikimic acid)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=334,361,4	href="/dbget-bin/www_bget?C12208"	title="C12208 (p-Coumaroyl quinic acid)" onmouseover="popupTimer(&quot;C12208&quot;, &quot;C12208 (p-Coumaroyl quinic acid)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=427,361,4	href="/dbget-bin/www_bget?C00852"	title="C00852 (Chlorogenate)" onmouseover="popupTimer(&quot;C00852&quot;, &quot;C00852 (Chlorogenate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=427,116,4	href="/dbget-bin/www_bget?C17742"	title="C17742 (Demethoxycurcumin)" onmouseover="popupTimer(&quot;C17742&quot;, &quot;C17742 (Demethoxycurcumin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=99,490,4	href="/dbget-bin/www_bget?C10287"	title="C10287 (Pterostilbene)" onmouseover="popupTimer(&quot;C10287&quot;, &quot;C10287 (Pterostilbene)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=239,305,4	href="/dbget-bin/www_bget?C00223"	title="C00223 (p-Coumaroyl-CoA)" onmouseover="popupTimer(&quot;C00223&quot;, &quot;C00223 (p-Coumaroyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=216,229,262,246	href="/dbget-bin/www_bget?K13233"	title="K13233 (DCS)" />
+<area shape=rect	coords=588,229,634,246	href="/dbget-bin/www_bget?K13233"	title="K13233 (DCS)" />
+<area shape=rect	coords=588,149,634,166	href="/dbget-bin/www_bget?K13234+K17211"	title="K13234 (CURS1_2), K17211 (CURS3)" />
+<area shape=rect	coords=216,149,262,166	href="/dbget-bin/www_bget?K17211"	title="K17211 (CURS3)" />
+<area shape=rect	coords=484,186,530,203	href="/dbget-bin/www_bget?K17211"	title="K17211 (CURS3)" />
+<area shape=rect	coords=47,332,93,349	href="/dbget-bin/www_bget?K13231"	title="K13231 (STS)" />
+<area shape=rect	coords=127,332,173,349	href="/dbget-bin/www_bget?K13232"	title="K13232 (ST)" />
+<area shape=rect	coords=94,297,140,314	href="/dbget-bin/www_bget?K00487"	title="K00487 (CYP73A)" />
+<area shape=rect	coords=328,186,374,203	href="/dbget-bin/www_bget?K13234+K17211"	title="K13234 (CURS1_2), K17211 (CURS3)" />
+<area shape=rect	coords=262,250,308,267	href="/dbget-bin/www_bget?K13065"	title="K13065 (E2.3.1.133)" />
+<area shape=rect	coords=352,250,398,267	href="/dbget-bin/www_bget?K09754"	title="K09754 (CYP98A)" />
+<area shape=rect	coords=447,250,493,267	href="/dbget-bin/www_bget?K13065"	title="K13065 (E2.3.1.133)" />
+<area shape=rect	coords=262,353,308,370	href="/dbget-bin/www_bget?K13065"	title="K13065 (E2.3.1.133)" />
+<area shape=rect	coords=352,353,398,370	href="/dbget-bin/www_bget?K09754"	title="K09754 (CYP98A)" />
+<area shape=rect	coords=530,297,576,314	href="/dbget-bin/www_bget?K00588"	title="K00588 (E2.1.1.104)" />
+<area shape=rect	coords=447,353,493,370	href="/dbget-bin/www_bget?K13065"	title="K13065 (E2.3.1.133)" />
+<area shape=rect	coords=628,108,674,125	href="/dbget-bin/www_bget?K13235"	title="K13235 (CAUGT2)" />
+<area shape=rect	coords=732,108,778,125	href="/dbget-bin/www_bget?K13235"	title="K13235 (CAUGT2)" />
+<area shape=rect	coords=76,420,122,437	href="/dbget-bin/www_bget?K16040"	title="K16040 (ROMT)" />
+<area shape=rect	coords=171,188,217,205	href="/dbget-bin/www_bget?K17212"	title="K17212 (CUS)" />
+<area shape=rect	coords=40,45,512,70	href="/dbget-bin/www_bget?ko00945"	title="ko00945: Stilbenoid, diarylheptanoid and gingerol biosynthesis" onmouseover="popupTimer(&quot;ko00945&quot;, &quot;ko00945: Stilbenoid, diarylheptanoid and gingerol biosynthesis&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=23,231,119,265	href="/kegg-bin/show_pathway?ko00940"	title="ko00940: Phenylpropanoid biosynthesis" onmouseover="popupTimer(&quot;ko00940&quot;, &quot;ko00940: Phenylpropanoid biosynthesis&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

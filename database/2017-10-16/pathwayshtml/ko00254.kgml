@@ -1,0 +1,320 @@
+<html>
+<!---
+ENTRY       ko00254
+DEFINITION  Aflatoxin biosynthesis
+--->
+<head>
+<title>
+KEGG PATHWAY: Aflatoxin biosynthesis
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Aflatoxin biosynthesis</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=00254&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map00254.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko00254">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko00254&format=kgml">Download KGML</a>
+
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="ec">Reference pathway (EC)</option>
+<option value="rn">Reference pathway (Reaction)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="smp">Sordaria macrospora</option>
+<option value="pan">Podospora anserina</option>
+<option value="ttt">Thielavia terrestris</option>
+<option value="mtm">Thermothelomyces thermophila</option>
+<option value="mgr">Magnaporthe oryzae</option>
+<option value="fgr">Fusarium graminearum</option>
+<option value="fvr">Fusarium verticillioides</option>
+<option value="fox">Fusarium oxysporum</option>
+<option value="nhe">Nectria haematococca</option>
+<option value="tre">Trichoderma reesei</option>
+<option value="maj">Metarhizium robertsii</option>
+<option value="val">Verticillium alfalfae</option>
+<option value="ssl">Sclerotinia sclerotiorum</option>
+<option value="bfu">Botrytis cinerea</option>
+<option value="mbe">Marssonina brunnea</option>
+<option value="psco">Phialocephala scopiformis</option>
+<option value="glz">Glarea lozoyensis</option>
+<option value="ani">Aspergillus nidulans</option>
+<option value="afm">Aspergillus fumigatus</option>
+<option value="aor">Aspergillus oryzae</option>
+<option value="ang">Aspergillus niger</option>
+<option value="afv">Aspergillus flavus</option>
+<option value="act">Aspergillus clavatus</option>
+<option value="nfi">Aspergillus fischeri</option>
+<option value="pcs">Penicillium rubens</option>
+<option value="cim">Coccidioides immitis</option>
+<option value="cpw">Coccidioides posadasii</option>
+<option value="ure">Uncinocarpus reesii</option>
+<option value="pno">Parastagonospora nodorum</option>
+<option value="pte">Pyrenophora teres</option>
+<option value="bze">Bipolaris zeicola</option>
+<option value="bsc">Bipolaris sorokiniana</option>
+<option value="bor">Bipolaris oryzae</option>
+<option value="ztr">Zymoseptoria tritici</option>
+<option value="pfj">Pseudocercospora fijiensis</option>
+<option value="bcom">Baudoinia panamericana</option>
+</select>
+<input type="hidden" name="mapno" value="00254" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko00254" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko00254.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=178,131,4	href="/dbget-bin/www_bget?C00083"	title="C00083 (Malonyl-CoA)" onmouseover="popupTimer(&quot;C00083&quot;, &quot;C00083 (Malonyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=283,131,4	href="/dbget-bin/www_bget?C20453"	title="C20453 (Norsolorinic acid anthrone)" onmouseover="popupTimer(&quot;C20453&quot;, &quot;C20453 (Norsolorinic acid anthrone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=388,131,4	href="/dbget-bin/www_bget?C20452"	title="C20452 (Norsolorinic acid)" onmouseover="popupTimer(&quot;C20452&quot;, &quot;C20452 (Norsolorinic acid)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=493,131,4	href="/dbget-bin/www_bget?C20499"	title="C20499 ((1'S)-Averantin)" onmouseover="popupTimer(&quot;C20499&quot;, &quot;C20499 ((1'S)-Averantin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=598,131,4	href="/dbget-bin/www_bget?C20500"	title="C20500 ((1'S,5'S)-5'-Hydroxyaverantin)" onmouseover="popupTimer(&quot;C20500&quot;, &quot;C20500 ((1'S,5'S)-5'-Hydroxyaverantin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=598,183,4	href="/dbget-bin/www_bget?C20501"	title="C20501 ((1'S,5'R)-5'-Hydroxyaverantin)" onmouseover="popupTimer(&quot;C20501&quot;, &quot;C20501 ((1'S,5'R)-5'-Hydroxyaverantin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=703,131,4	href="/dbget-bin/www_bget?C20502"	title="C20502 (5'-Oxoaverantin)" onmouseover="popupTimer(&quot;C20502&quot;, &quot;C20502 (5'-Oxoaverantin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=808,131,4	href="/dbget-bin/www_bget?C20574"	title="C20574 ((1'S,5'S)-Averufin)" onmouseover="popupTimer(&quot;C20574&quot;, &quot;C20574 ((1'S,5'S)-Averufin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=808,247,4	href="/dbget-bin/www_bget?C20503"	title="C20503 (1'-Hydroxyversicolorone)" onmouseover="popupTimer(&quot;C20503&quot;, &quot;C20503 (1'-Hydroxyversicolorone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=715,247,4	href="/dbget-bin/www_bget?C20505"	title="C20505 (Versiconal hemiacetal acetate)" onmouseover="popupTimer(&quot;C20505&quot;, &quot;C20505 (Versiconal hemiacetal acetate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=622,247,4	href="/dbget-bin/www_bget?C20507"	title="C20507 (Versiconal)" onmouseover="popupTimer(&quot;C20507&quot;, &quot;C20507 (Versiconal)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=715,334,4	href="/dbget-bin/www_bget?C20506"	title="C20506 (Versiconol acetate)" onmouseover="popupTimer(&quot;C20506&quot;, &quot;C20506 (Versiconol acetate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=808,334,4	href="/dbget-bin/www_bget?C20504"	title="C20504 (Versicolorone)" onmouseover="popupTimer(&quot;C20504&quot;, &quot;C20504 (Versicolorone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=622,334,4	href="/dbget-bin/www_bget?C20508"	title="C20508 (Versiconol)" onmouseover="popupTimer(&quot;C20508&quot;, &quot;C20508 (Versiconol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=529,247,4	href="/dbget-bin/www_bget?C20575"	title="C20575 (Versicolorin B)" onmouseover="popupTimer(&quot;C20575&quot;, &quot;C20575 (Versicolorin B)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=436,247,4	href="/dbget-bin/www_bget?C20444"	title="C20444 (Dihydrodemethylsterigmatocystin)" onmouseover="popupTimer(&quot;C20444&quot;, &quot;C20444 (Dihydrodemethylsterigmatocystin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=343,247,4	href="/dbget-bin/www_bget?C20445"	title="C20445 (Dihydrosterigmatocystin)" onmouseover="popupTimer(&quot;C20445&quot;, &quot;C20445 (Dihydrosterigmatocystin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=529,332,4	href="/dbget-bin/www_bget?C20583"	title="C20583 (Versicolorin A)" onmouseover="popupTimer(&quot;C20583&quot;, &quot;C20583 (Versicolorin A)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=436,332,4	href="/dbget-bin/www_bget?C03683"	title="C03683 (6-Demethylsterigmatocystin)" onmouseover="popupTimer(&quot;C03683&quot;, &quot;C03683 (6-Demethylsterigmatocystin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=343,332,4	href="/dbget-bin/www_bget?C00961"	title="C00961 (Sterigmatocystin)" onmouseover="popupTimer(&quot;C00961&quot;, &quot;C00961 (Sterigmatocystin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=250,332,4	href="/dbget-bin/www_bget?C03686"	title="C03686 (O-Methylsterigmatocystin)" onmouseover="popupTimer(&quot;C03686&quot;, &quot;C03686 (O-Methylsterigmatocystin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=250,247,4	href="/dbget-bin/www_bget?C03944"	title="C03944 (Dihydro-O-methylsterigmatocystin)" onmouseover="popupTimer(&quot;C03944&quot;, &quot;C03944 (Dihydro-O-methylsterigmatocystin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=157,247,4	href="/dbget-bin/www_bget?C16753"	title="C16753 (Aflatoxin B2)" onmouseover="popupTimer(&quot;C16753&quot;, &quot;C16753 (Aflatoxin B2)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=157,332,4	href="/dbget-bin/www_bget?C06800"	title="C06800 (Aflatoxin B1)" onmouseover="popupTimer(&quot;C06800&quot;, &quot;C06800 (Aflatoxin B1)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=157,186,4	href="/dbget-bin/www_bget?C16754"	title="C16754 (Aflatoxin G2)" onmouseover="popupTimer(&quot;C16754&quot;, &quot;C16754 (Aflatoxin G2)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=157,392,4	href="/dbget-bin/www_bget?C16755"	title="C16755 (Aflatoxin G1)" onmouseover="popupTimer(&quot;C16755&quot;, &quot;C16755 (Aflatoxin G1)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=86,131,4	href="/dbget-bin/www_bget?C00024"	title="C00024 (Acetyl-CoA)" onmouseover="popupTimer(&quot;C00024&quot;, &quot;C00024 (Acetyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=204,123,250,140	href="/dbget-bin/www_bget?K15316"	title="K15316 (PKSA)" />
+<area shape=rect	coords=307,123,353,140	href="/dbget-bin/www_bget?K17643"	title="K17643 (HYPC)" />
+<area shape=rect	coords=414,123,460,140	href="/dbget-bin/www_bget?K17644"	title="K17644 (aflD)" />
+<area shape=rect	coords=519,123,565,140	href="/dbget-bin/www_bget?K17645"	title="K17645 (AVNA)" />
+<area shape=rect	coords=520,174,566,191	href="/dbget-bin/www_bget?K17645"	title="K17645 (AVNA)" />
+<area shape=rect	coords=627,123,673,140	href="/dbget-bin/www_bget?K17652"	title="K17652 (ADHA)" />
+<area shape=rect	coords=627,175,673,192	href="/dbget-bin/www_bget?K17652"	title="K17652 (ADHA)" />
+<area shape=rect	coords=729,123,775,140	href="/dbget-bin/www_bget?K17646"	title="K17646 (VBS)" />
+<area shape=rect	coords=653,239,699,256	href="/dbget-bin/www_bget?K17648"	title="K17648 (ESTA)" />
+<area shape=rect	coords=692,285,738,302	href="/dbget-bin/www_bget?K17647"	title="K17647 (VRDA)" />
+<area shape=rect	coords=785,285,831,302	href="/dbget-bin/www_bget?K17647"	title="K17647 (VRDA)" />
+<area shape=rect	coords=653,326,699,343	href="/dbget-bin/www_bget?K17648"	title="K17648 (ESTA)" />
+<area shape=rect	coords=599,285,645,302	href="/dbget-bin/www_bget?K17647"	title="K17647 (VRDA)" />
+<area shape=rect	coords=559,239,605,256	href="/dbget-bin/www_bget?K17646"	title="K17646 (VBS)" />
+<area shape=rect	coords=373,239,419,256	href="/dbget-bin/www_bget?K17649"	title="K17649 (OMTB)" />
+<area shape=rect	coords=374,324,420,341	href="/dbget-bin/www_bget?K17649"	title="K17649 (OMTB)" />
+<area shape=rect	coords=279,324,325,341	href="/dbget-bin/www_bget?K17650"	title="K17650 (OMTA)" />
+<area shape=rect	coords=279,239,325,256	href="/dbget-bin/www_bget?K17650"	title="K17650 (OMTA)" />
+<area shape=rect	coords=188,239,234,256	href="/dbget-bin/www_bget?K17651"	title="K17651 (ORDA)" />
+<area shape=rect	coords=188,324,234,341	href="/dbget-bin/www_bget?K17651"	title="K17651 (ORDA)" />
+<area shape=rect	coords=105,123,151,140	href="/dbget-bin/www_bget?K11262+K01946"	title="K11262 (ACACA), K01946 (ACACB)" />
+<area shape=rect	coords=40,45,247,70	href="/dbget-bin/www_bget?ko00254"	title="ko00254: Aflatoxin biosynthesis" onmouseover="popupTimer(&quot;ko00254&quot;, &quot;ko00254: Aflatoxin biosynthesis&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

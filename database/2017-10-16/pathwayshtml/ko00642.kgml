@@ -1,0 +1,383 @@
+<html>
+<!---
+ENTRY       ko00642
+DEFINITION  Ethylbenzene degradation
+--->
+<head>
+<title>
+KEGG PATHWAY: Ethylbenzene degradation
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Ethylbenzene degradation</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=00642&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map00642.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko00642">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko00642&format=kgml">Download KGML</a>
+
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="ec">Reference pathway (EC)</option>
+<option value="rn">Reference pathway (Reaction)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="ebt">Shimwellia blattae</option>
+<option value="psd">Pseudoxanthomonas spadix</option>
+<option value="psc">Pseudomonas stutzeri CCUG 29243</option>
+<option value="pstu">Pseudomonas stutzeri 19SMN4</option>
+<option value="pbm">Pseudomonas balearica</option>
+<option value="pfk">Pseudomonas frederiksbergensis</option>
+<option value="avn">Azotobacter vinelandii DJ</option>
+<option value="avl">Azotobacter vinelandii CA</option>
+<option value="avd">Azotobacter vinelandii CA6</option>
+<option value="pur">Psychrobacter urativorans</option>
+<option value="ptn">Pseudoalteromonas translucida</option>
+<option value="alt">Alteromonas naphthalenivorans</option>
+<option value="cyq">Cycloclasticus sp. P1</option>
+<option value="cza">Cycloclasticus zancles</option>
+<option value="mmw">Marinomonas sp. MWYL1</option>
+<option value="mme">Marinomonas mediterranea</option>
+<option value="mpc">Marinomonas posidonica</option>
+<option value="rso">Ralstonia solanacearum GMI1000</option>
+<option value="rsl">Ralstonia solanacearum PSI07</option>
+<option value="rsn">Ralstonia solanacearum Po82</option>
+<option value="rsm">Ralstonia solanacearum CMR15</option>
+<option value="rse">Ralstonia solanacearum FQY_4</option>
+<option value="rpj">Ralstonia pickettii DTP0602</option>
+<option value="rmn">Ralstonia mannitolilytica</option>
+<option value="reu">Ralstonia eutropha JMP134</option>
+<option value="reh">Ralstonia eutropha H16</option>
+<option value="cnc">Cupriavidus necator N-1</option>
+<option value="cbw">Cupriavidus basilensis</option>
+<option value="ccup">Cupriavidus sp. USMAHM13</option>
+<option value="cup">Cupriavidus sp. USMAA1020</option>
+<option value="cuu">Cupriavidus sp. USMAA2-4</option>
+<option value="bmk">Burkholderia multivorans DDS 15A-1</option>
+<option value="bcep">Burkholderia cepacia ATCC 25416</option>
+<option value="bpyr">Burkholderia pyrrocinia</option>
+<option value="bub">Burkholderia ubonensis</option>
+<option value="bgl">Burkholderia glumae BGR1</option>
+<option value="bgu">Burkholderia glumae LMG 2196 = ATCC 33617</option>
+<option value="bug">Burkholderia sp. CCGE1001</option>
+<option value="buq">Burkholderia sp. HB1</option>
+<option value="bxe">Paraburkholderia xenovorans LB400</option>
+<option value="bxb">Paraburkholderia xenovorans LB400</option>
+<option value="bpx">Paraburkholderia phenoliruptrix</option>
+<option value="bfn">Paraburkholderia fungorum</option>
+<option value="pspw">Paraburkholderia sprentiae</option>
+<option value="ppk">Pandoraea pnomenusa 3kgm</option>
+<option value="ppno">Pandoraea pnomenusa RB38</option>
+<option value="ppnm">Pandoraea pnomenusa DSM 16536</option>
+<option value="prb">Pandoraea pnomenusa</option>
+<option value="ppul">Pandoraea pulmonicola</option>
+<option value="pspu">Pandoraea sputorum</option>
+<option value="papi">Pandoraea apista</option>
+<option value="pve">Pandoraea vervacti</option>
+<option value="pox">Pandoraea oxalativorans</option>
+<option value="pfg">Pandoraea faecigallinarum</option>
+<option value="pnr">Pandoraea norimbergensis</option>
+<option value="bpa">Bordetella parapertussis 12822</option>
+<option value="bpar">Bordetella parapertussis Bpp5</option>
+<option value="bbr">Bordetella bronchiseptica RB50</option>
+<option value="bbm">Bordetella bronchiseptica MO149</option>
+<option value="bbh">Bordetella bronchiseptica 253</option>
+<option value="bbx">Bordetella bronchiseptica S798</option>
+<option value="bpt">Bordetella petrii</option>
+<option value="axy">Achromobacter xylosoxidans A8</option>
+<option value="axo">Achromobacter xylosoxidans NH44784-1996</option>
+<option value="axn">Achromobacter xylosoxidans NBRC 15126 = ATCC 27061</option>
+<option value="axs">Achromobacter xylosoxidans C54</option>
+<option value="axx">Achromobacter xylosoxidans NCTC10807</option>
+<option value="adt">Achromobacter denitrificans</option>
+<option value="ais">Achromobacter insolitus</option>
+<option value="pol">Polaromonas sp. JS666</option>
+<option value="pna">Polaromonas naphthalenivorans</option>
+<option value="aav">Acidovorax citrulli</option>
+<option value="ajs">Acidovorax sp. JS42</option>
+<option value="aaa">Acidovorax avenae</option>
+<option value="ack">Acidovorax sp. KKS102</option>
+<option value="acip">Acidovorax sp. P4</option>
+<option value="acis">Acidovorax sp. P3</option>
+<option value="del">Delftia sp. Cs1-4</option>
+<option value="vap">Variovorax paradoxus S110</option>
+<option value="vpe">Variovorax paradoxus EPS</option>
+<option value="vpd">Variovorax paradoxus B4</option>
+<option value="vbo">Variovorax boronicumulans</option>
+<option value="ctes">Comamonas testosteroni TK102</option>
+<option value="lim">Limnohabitans sp. 103DPR2</option>
+<option value="lih">Limnohabitans sp. 63ED37-2</option>
+<option value="hyb">Hydrogenophaga sp. PBC</option>
+<option value="hyl">Hydrogenophaga sp. LPB0072</option>
+<option value="masw">Massilia sp. WG5</option>
+<option value="lch">Leptothrix cholodnii</option>
+<option value="thi">Thiomonas arsenitoxydans</option>
+<option value="eba">Aromatoleum aromaticum</option>
+<option value="dar">Dechloromonas aromatica</option>
+<option value="azo">Azoarcus sp. BH72</option>
+<option value="aoa">Azoarcus olearius</option>
+<option value="six">Sinorhizobium sp. RAC02</option>
+<option value="oah">Ochrobactrum anthropi OAB</option>
+<option value="msl">Methylocella silvestris</option>
+<option value="rbm">Rhizobiales bacterium NRL2</option>
+<option value="jan">Jannaschia sp. CCS1</option>
+<option value="pye">Paracoccus yeei</option>
+<option value="con">Confluentimicrobium sp. EMB200-NS6</option>
+<option value="nar">Novosphingobium aromaticivorans</option>
+<option value="npp">Novosphingobium sp. PP1Y</option>
+<option value="npn">Novosphingobium pentaromativorans</option>
+<option value="sgi">Sphingopyxis granuli</option>
+<option value="span">Sphingomonas panacis</option>
+<option value="sch">Sphingobium chlorophenolicum</option>
+<option value="azl">Azospirillum sp. B510</option>
+<option value="ali">Azospirillum lipoferum</option>
+<option value="tmo">Tistrella mobilis</option>
+<option value="rha">Rhodococcus jostii</option>
+<option value="rop">Rhodococcus opacus B4</option>
+<option value="tcu">Thermomonospora curvata</option>
+<option value="cwo">Conexibacter woesei</option>
+<option value="tos">Thermus oshimai</option>
+<option value="nvn">Nitrososphaera viennensis</option>
+<option value="taa">Candidatus Nitrocosmicus oleophilus</option>
+</select>
+<input type="hidden" name="mapno" value="00642" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko00642" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko00642.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=377,397,4	href="/dbget-bin/www_bget?C00512"	title="C00512 (Benzoyl-CoA)" onmouseover="popupTimer(&quot;C00512&quot;, &quot;C00512 (Benzoyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=436,315,4	href="/dbget-bin/www_bget?C07118"	title="C07118 (Benzoylacetyl-CoA)" onmouseover="popupTimer(&quot;C07118&quot;, &quot;C07118 (Benzoylacetyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=436,259,4	href="/dbget-bin/www_bget?C07114"	title="C07114 (3-Oxo-3-phenylpropanoate)" onmouseover="popupTimer(&quot;C07114&quot;, &quot;C07114 (3-Oxo-3-phenylpropanoate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=378,259,4	href="/dbget-bin/www_bget?C07189"	title="C07189 (2-Hydroxyacetophenone)" onmouseover="popupTimer(&quot;C07189&quot;, &quot;C07189 (2-Hydroxyacetophenone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=436,197,4	href="/dbget-bin/www_bget?C07113"	title="C07113 (Acetophenone)" onmouseover="popupTimer(&quot;C07113&quot;, &quot;C07113 (Acetophenone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=220,397,4	href="/dbget-bin/www_bget?C00596"	title="C00596 (2-Hydroxy-2,4-pentadienoate)" onmouseover="popupTimer(&quot;C00596&quot;, &quot;C00596 (2-Hydroxy-2,4-pentadienoate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=106,397,4	href="/dbget-bin/www_bget?C00163"	title="C00163 (Propanoate)" onmouseover="popupTimer(&quot;C00163&quot;, &quot;C00163 (Propanoate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=163,315,4	href="/dbget-bin/www_bget?C07123"	title="C07123 (2-Hydroxy-6-oxo-octa-2,4-dienoate)" onmouseover="popupTimer(&quot;C07123&quot;, &quot;C07123 (2-Hydroxy-6-oxo-octa-2,4-dienoate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=254,197,4	href="/dbget-bin/www_bget?C07083"	title="C07083 (Styrene)" onmouseover="popupTimer(&quot;C07083&quot;, &quot;C07083 (Styrene)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=254,132,4	href="/dbget-bin/www_bget?C07111"	title="C07111 (Ethylbenzene)" onmouseover="popupTimer(&quot;C07111&quot;, &quot;C07111 (Ethylbenzene)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=163,197,4	href="/dbget-bin/www_bget?C06727"	title="C06727 (cis-1,2-Dihydro-3-ethylcatechol)" onmouseover="popupTimer(&quot;C06727&quot;, &quot;C06727 (cis-1,2-Dihydro-3-ethylcatechol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=163,259,4	href="/dbget-bin/www_bget?C06728"	title="C06728 (3-Ethylcatechol)" onmouseover="popupTimer(&quot;C06728&quot;, &quot;C06728 (3-Ethylcatechol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=362,132,4	href="/dbget-bin/www_bget?C11348"	title="C11348 ((S)-1-Phenylethanol)" onmouseover="popupTimer(&quot;C11348&quot;, &quot;C11348 ((S)-1-Phenylethanol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=495,397,4	href="/dbget-bin/www_bget?C00024"	title="C00024 (Acetyl-CoA)" onmouseover="popupTimer(&quot;C00024&quot;, &quot;C00024 (Acetyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=388,328,434,345	href="/dbget-bin/www_bget?K00632"	title="K00632 (fadA)" />
+<area shape=rect	coords=140,151,186,168	href="/dbget-bin/www_bget?K14748+K14749+K14750"	title="K14748 (etbAa), K14749 (etbAb), K14750 (etbAc)" />
+<area shape=rect	coords=287,113,333,130	href="/dbget-bin/www_bget?K10700+K17048+K17049"	title="K10700 (ebdA), K17048 (ebdB), K17049 (ebdC)" />
+<area shape=rect	coords=231,151,277,168	href="/dbget-bin/www_bget?K14579+K14580+K14578+K14581"	title="K14579 (nahAc), K14580 (nahAd), K14578 (nahAb), K14581 (nahAa)" />
+<area shape=rect	coords=287,134,333,151	href="/dbget-bin/www_bget?K14579+K14580+K14578+K14581"	title="K14579 (nahAc), K14580 (nahAd), K14578 (nahAb), K14581 (nahAa)" />
+<area shape=rect	coords=388,150,434,167	href="/dbget-bin/www_bget?K14579+K14580+K14578+K14581"	title="K14579 (nahAc), K14580 (nahAd), K14578 (nahAb), K14581 (nahAa)" />
+<area shape=rect	coords=140,274,186,291	href="/dbget-bin/www_bget?K14751"	title="K14751 (etbC)" />
+<area shape=rect	coords=141,329,187,346	href="/dbget-bin/www_bget?K18092"	title="K18092 (etbD)" />
+<area shape=rect	coords=438,150,484,167	href="/dbget-bin/www_bget?K14746"	title="K14746 (ped)" />
+<area shape=rect	coords=413,274,459,291	href="/dbget-bin/www_bget?K14747"	title="K14747 (bal)" />
+<area shape=rect	coords=414,213,460,230	href="/dbget-bin/www_bget?K10701"	title="K10701 (apc)" />
+<area shape=rect	coords=355,212,401,229	href="/dbget-bin/www_bget?K14579+K14580+K14578+K14581"	title="K14579 (nahAc), K14580 (nahAd), K14578 (nahAb), K14581 (nahAa)" />
+<area shape=rect	coords=438,438,554,463	href="/kegg-bin/show_pathway?ko00620"	title="ko00620: Pyruvate metabolism" onmouseover="popupTimer(&quot;ko00620&quot;, &quot;ko00620: Pyruvate metabolism&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=198,247,310,272	href="/kegg-bin/show_pathway?ko00643"	title="ko00643: Styrene degradation" onmouseover="popupTimer(&quot;ko00643&quot;, &quot;ko00643: Styrene degradation&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=40,45,278,70	href="/dbget-bin/www_bget?ko00642"	title="ko00642: Ethylbenzene degradation" onmouseover="popupTimer(&quot;ko00642&quot;, &quot;ko00642: Ethylbenzene degradation&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=68,438,144,472	href="/kegg-bin/show_pathway?ko00640"	title="ko00640: Propanoate metabolism" onmouseover="popupTimer(&quot;ko00640&quot;, &quot;ko00640: Propanoate metabolism&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=259,438,335,472	href="/kegg-bin/show_pathway?ko00362"	title="ko00362: Benzoate degradation" onmouseover="popupTimer(&quot;ko00362&quot;, &quot;ko00362: Benzoate degradation&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

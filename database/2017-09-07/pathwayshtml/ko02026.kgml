@@ -1,0 +1,377 @@
+<html>
+<!---
+ENTRY       ko02026
+DEFINITION  Biofilm formation - Escherichia coli
+--->
+<head>
+<title>
+KEGG PATHWAY: Biofilm formation - Escherichia coli
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Biofilm formation - Escherichia coli</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=02026&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map02026.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko02026">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko02026&format=kgml">Download KGML</a>
+| <a id="descLink" href="javascript:switchDescription()">Show description</a>
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+<table id="description" cellpadding="10" width="800" style="display: none;"><tr><td>
+Bacteria inhabiting a biofilm are protected from physical stress, antimicrobials, and the host immune system, and thereby cause severe medical, environmental, and technical problems. Biofilm formation in Escherichia coli is regulated by two inversely controlled transcriptional feedforward cascades, the FlhDC/FliA cascade and the sigmaS/MlrA/CsgD cascade, which are active in post-exponentially growing and in stationary phase cells, respectively. Their final outputs, flagella production or the synthesis of the biofilm matrix components curli and cellulose, are mutually exclusive due to complementary sigma factor requirements, the abundant DNA-binding regulator FliZ, and opposite regulation by c-di-GMP. The RNA-binding protein CsrA, a central component of the global regulatory system, inhibits synthesis of the poly-N-acetyl-glucosamine (PGA) exopolysaccharide and glycogen and stimulates the expression of the flagellar master regulator FlhDC. CsrA activity is counteracted by two sRNAs, CsrB and CsrC. The lower figure shows that FlhDC, sigmaS, and CsgD, the transcription factors that control large regulons involved in flagellar and biofilm formation, serve as regulatory hubs for multiple environmental signal integration with a series of sRNAs providing distinct inputs.</td></tr></table>
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="eco">Escherichia coli K-12 MG1655</option>
+<option value="ecj">Escherichia coli K-12 W3110</option>
+<option value="ecd">Escherichia coli K-12 DH10B</option>
+<option value="ebw">Escherichia coli BW2952</option>
+<option value="ecok">Escherichia coli K-12 MDS42</option>
+<option value="ece">Escherichia coli O157:H7 EDL933 (EHEC)</option>
+<option value="ecs">Escherichia coli O157:H7 Sakai (EHEC)</option>
+<option value="ecf">Escherichia coli O157:H7 EC4115 (EHEC)</option>
+<option value="etw">Escherichia coli O157:H7 TW14359 (EHEC)</option>
+<option value="elx">Escherichia coli O157:H7 Xuzhou21 (EHEC)</option>
+<option value="eoj">Escherichia coli O26:H11 11368 (EHEC)</option>
+<option value="eoi">Escherichia coli O111:H- 11128 (EHEC)</option>
+<option value="eoh">Escherichia coli O103:H2 12009 (EHEC)</option>
+<option value="ecg">Escherichia coli O127:H6 E2348/69 (EPEC)</option>
+<option value="eok">Escherichia coli O55:H7 CB9615 (EPEC)</option>
+<option value="elr">Escherichia coli O55:H7 RM12579 (EPEC)</option>
+<option value="ecc">Escherichia coli O6:K2:H1 CFT073 (UPEC)</option>
+<option value="ecp">Escherichia coli O6:K15:H31 536 (UPEC)</option>
+<option value="eci">Escherichia coli O18:K1:H7 UTI89 (UPEC)</option>
+<option value="ecv">Escherichia coli APEC O1 (APEC)</option>
+<option value="ecx">Escherichia coli O9 HS (commensal)</option>
+<option value="ecw">Escherichia coli E24377A (ETEC)</option>
+<option value="ecm">Escherichia coli SMS-3-5 (environmental)</option>
+<option value="ecy">Escherichia coli O152:H28 SE11 (commensal)</option>
+<option value="ecr">Escherichia coli O8 IAI1 (commensal)</option>
+<option value="ecq">Escherichia coli O81 ED1a (commensal)</option>
+<option value="eck">Escherichia coli 55989 (EAEC)</option>
+<option value="ect">Escherichia coli O7:K1 IAI39 (ExPEC)</option>
+<option value="eoc">Escherichia coli O7:K1 CE10</option>
+<option value="eum">Escherichia coli O17:K52:H18 UMN026 (ExPEC)</option>
+<option value="ecz">Escherichia coli O45:K1:H7 S88 (ExPEC)</option>
+<option value="elo">Escherichia coli O44:H18 042 (EAEC)</option>
+<option value="eln">Escherichia coli O83:H1 NRG 857C</option>
+<option value="elh">Escherichia coli O78:H11:K80 H10407 (ETEC)</option>
+<option value="ese">Escherichia coli O150:H5 SE15 (commensal)</option>
+<option value="eso">Escherichia coli O104:H4 2009EL-2071</option>
+<option value="esm">Escherichia coli O104:H4 2009EL-2050</option>
+<option value="esl">Escherichia coli O104:H4 2011C-3493</option>
+<option value="ecl">Escherichia coli ATCC 8739</option>
+<option value="ebr">Escherichia coli B REL606</option>
+<option value="ebd">Escherichia coli BL21-Gold(DE3)pLysS AG</option>
+<option value="eko">Escherichia coli KO11FL</option>
+<option value="ekf">Escherichia coli KO11FL</option>
+<option value="eab">Escherichia coli ABU 83972</option>
+<option value="edh">Escherichia coli DH1</option>
+<option value="edj">Escherichia coli DH1</option>
+<option value="eih">Escherichia coli IHE3034</option>
+<option value="ena">Escherichia coli NA114 (UPEC)</option>
+<option value="elu">Escherichia coli UM146</option>
+<option value="eun">Escherichia coli UMNK88</option>
+<option value="elw">Escherichia coli W</option>
+<option value="ell">Escherichia coli W</option>
+<option value="elc">Escherichia coli clone D i14</option>
+<option value="eld">Escherichia coli clone D i2</option>
+<option value="elp">Escherichia coli P12b</option>
+<option value="ebl">Escherichia coli BL21(DE3)</option>
+<option value="ebe">Escherichia coli BL21(DE3)</option>
+<option value="elf">Escherichia coli LF82</option>
+<option value="ecoa">Escherichia coli APEC O78</option>
+<option value="ecol">Escherichia coli LY180</option>
+<option value="ecoi">Escherichia coli PMV-1</option>
+<option value="ecoj">Escherichia coli JJ1886</option>
+<option value="ecoo">Escherichia coli O145:H28 RM13514 (EHEC)</option>
+<option value="ecoh">Escherichia coli O145:H28 RM13516 (EHEC)</option>
+<option value="ecos">Escherichia coli O25b:K100:H4-ST131 EC958 (UPEC)</option>
+<option value="efe">Escherichia fergusonii</option>
+<option value="eal">Escherichia albertii</option>
+</select>
+<input type="hidden" name="mapno" value="02026" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko02026" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko02026.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=339,490,4	href="/dbget-bin/www_bget?C04494+C01228"	title="C04494 (Guanosine 3'-diphosphate 5'-triphosphate), C01228 (Guanosine 3',5'-bis(diphosphate))" onmouseover="popupTimer(&quot;C04494&quot;, &quot;C04494 (Guanosine 3'-diphosphate 5'-triphosphate), C01228 (Guanosine 3',5'-bis(diphosphate))&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=287,195,4	href="/dbget-bin/www_bget?C00575"	title="C00575 (3',5'-Cyclic AMP)" onmouseover="popupTimer(&quot;C00575&quot;, &quot;C00575 (3',5'-Cyclic AMP)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=669,317,4	href="/dbget-bin/www_bget?C16463"	title="C16463 (3',5'-Cyclic diGMP)" onmouseover="popupTimer(&quot;C16463&quot;, &quot;C16463 (3',5'-Cyclic diGMP)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=669,570,4	href="/dbget-bin/www_bget?C16463"	title="C16463 (3',5'-Cyclic diGMP)" onmouseover="popupTimer(&quot;C16463&quot;, &quot;C16463 (3',5'-Cyclic diGMP)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=109,642,4	href="/dbget-bin/www_bget?C21382"	title="C21382 (R-THMF)" onmouseover="popupTimer(&quot;C21382&quot;, &quot;C21382 (R-THMF)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=339,265,4	href="/dbget-bin/www_bget?C04494+C01228"	title="C04494 (Guanosine 3'-diphosphate 5'-triphosphate), C01228 (Guanosine 3',5'-bis(diphosphate))" onmouseover="popupTimer(&quot;C04494&quot;, &quot;C04494 (Guanosine 3'-diphosphate 5'-triphosphate), C01228 (Guanosine 3',5'-bis(diphosphate))&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=419,1038,4	href="/dbget-bin/www_bget?C00575"	title="C00575 (3',5'-Cyclic AMP)" onmouseover="popupTimer(&quot;C00575&quot;, &quot;C00575 (3',5'-Cyclic AMP)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=359,985,4	href="/dbget-bin/www_bget?C00037"	title="C00037 (Glycine)" onmouseover="popupTimer(&quot;C00037&quot;, &quot;C00037 (Glycine)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=453,177,499,194	href="/dbget-bin/www_bget?K02403"	title="K02403 (flhD)" />
+<area shape=rect	coords=453,196,499,213	href="/dbget-bin/www_bget?K02402"	title="K02402 (flhC)" />
+<area shape=rect	coords=341,186,387,203	href="/dbget-bin/www_bget?K10914"	title="K10914 (crp)" />
+<area shape=rect	coords=189,187,235,204	href="/dbget-bin/www_bget?K05851"	title="K05851 (cyaA)" />
+<area shape=rect	coords=189,145,235,162	href="/dbget-bin/www_bget?K02777"	title="K02777 (PTS-Glc-EIIA)" />
+<area shape=rect	coords=736,344,782,361	href="/dbget-bin/www_bget?K14051"	title="K14051 (gmr)" />
+<area shape=rect	coords=736,401,782,418	href="/dbget-bin/www_bget?K21088"	title="K21088 (ydaM)" />
+<area shape=rect	coords=843,374,889,391	href="/dbget-bin/www_bget?K21089"	title="K21089 (mlrA)" />
+<area shape=rect	coords=578,284,624,301	href="/dbget-bin/www_bget?K21086"	title="K21086 (yhjH)" />
+<area shape=rect	coords=578,332,624,349	href="/dbget-bin/www_bget?K21084+K21085"	title="K21084 (yegE), K21085 (yedQ)" />
+<area shape=rect	coords=736,274,782,291	href="/dbget-bin/www_bget?K21087"	title="K21087 (ycgR)" />
+<area shape=rect	coords=843,481,889,498	href="/dbget-bin/www_bget?K04333"	title="K04333 (csgD)" />
+<area shape=rect	coords=937,481,983,498	href="/dbget-bin/www_bget?K04335"	title="K04335 (csgB)" />
+<area shape=rect	coords=985,481,1031,498	href="/dbget-bin/www_bget?K04334"	title="K04334 (csgA)" />
+<area shape=rect	coords=1033,481,1079,498	href="/dbget-bin/www_bget?K04336"	title="K04336 (csgC)" />
+<area shape=rect	coords=578,187,624,204	href="/dbget-bin/www_bget?K02405"	title="K02405 (fliA)" />
+<area shape=rect	coords=578,585,624,602	href="/dbget-bin/www_bget?K18968"	title="K18968 (adrA)" />
+<area shape=rect	coords=937,562,983,579	href="/dbget-bin/www_bget?K00694"	title="K00694 (bcsA)" />
+<area shape=rect	coords=578,142,624,159	href="/dbget-bin/www_bget?K02398"	title="K02398 (flgM)" />
+<area shape=rect	coords=500,335,546,352	href="/dbget-bin/www_bget?K02425"	title="K02425 (fliZ)" />
+<area shape=rect	coords=341,620,387,637	href="/dbget-bin/www_bget?K07173"	title="K07173 (luxS)" />
+<area shape=rect	coords=341,641,387,658	href="/dbget-bin/www_bget?K11531"	title="K11531 (lsrR)" />
+<area shape=rect	coords=189,733,235,750	href="/dbget-bin/www_bget?K07678"	title="K07678 (barA)" />
+<area shape=rect	coords=264,733,310,750	href="/dbget-bin/www_bget?K07689"	title="K07689 (uvrY)" />
+<area shape=rect	coords=341,743,387,760	href="/dbget-bin/www_bget?K18516"	title="K18516 (csrC)" />
+<area shape=rect	coords=341,724,387,741	href="/dbget-bin/www_bget?K18515"	title="K18515 (csrB)" />
+<area shape=rect	coords=418,733,464,750	href="/dbget-bin/www_bget?K03563"	title="K03563 (csrA)" />
+<area shape=rect	coords=341,670,387,687	href="/dbget-bin/www_bget?K07782"	title="K07782 (sdiA)" />
+<area shape=rect	coords=937,609,983,626	href="/dbget-bin/www_bget?K01991"	title="K01991 (ABC-2.OM)" />
+<area shape=rect	coords=937,649,983,666	href="/dbget-bin/www_bget?K12687"	title="K12687 (flu)" />
+<area shape=rect	coords=937,696,983,713	href="/dbget-bin/www_bget?K00975"	title="K00975 (glgC)" />
+<area shape=rect	coords=985,696,1031,713	href="/dbget-bin/www_bget?K00703"	title="K00703 (glgA)" />
+<area shape=rect	coords=1033,696,1079,713	href="/dbget-bin/www_bget?K00688"	title="K00688 (PYG)" />
+<area shape=rect	coords=937,736,983,753	href="/dbget-bin/www_bget?K11935"	title="K11935 (pgaA)" />
+<area shape=rect	coords=985,736,1031,753	href="/dbget-bin/www_bget?K11931"	title="K11931 (pgaB)" />
+<area shape=rect	coords=1033,736,1079,753	href="/dbget-bin/www_bget?K11936"	title="K11936 (pgaC)" />
+<area shape=rect	coords=1081,736,1127,753	href="/dbget-bin/www_bget?K11937"	title="K11937 (pgaD)" />
+<area shape=rect	coords=297,227,343,244	href="/dbget-bin/www_bget?K06204"	title="K06204 (dksA)" />
+<area shape=rect	coords=551,886,597,903	href="/dbget-bin/www_bget?K18504"	title="K18504 (arcZ)" />
+<area shape=rect	coords=551,913,597,930	href="/dbget-bin/www_bget?K18502"	title="K18502 (dsrA)" />
+<area shape=rect	coords=551,942,597,959	href="/dbget-bin/www_bget?K18518"	title="K18518 (rprA)" />
+<area shape=rect	coords=551,1003,597,1020	href="/dbget-bin/www_bget?K18522+K18523"	title="K18522 (omrA), K18523 (omrB)" />
+<area shape=rect	coords=551,1030,597,1047	href="/dbget-bin/www_bget?K21091"	title="K21091 (mcaS)" />
+<area shape=rect	coords=551,1056,597,1073	href="/dbget-bin/www_bget?K18509"	title="K18509 (rydC)" />
+<area shape=rect	coords=807,1026,853,1043	href="/dbget-bin/www_bget?K04333"	title="K04333 (csgD)" />
+<area shape=rect	coords=689,927,735,944	href="/dbget-bin/www_bget?K03087"	title="K03087 (SIG2)" />
+<area shape=rect	coords=761,963,807,980	href="/dbget-bin/www_bget?K21088"	title="K21088 (ydaM)" />
+<area shape=rect	coords=689,864,735,881	href="/dbget-bin/www_bget?K02403"	title="K02403 (flhD)" />
+<area shape=rect	coords=689,883,735,900	href="/dbget-bin/www_bget?K02402"	title="K02402 (flhC)" />
+<area shape=rect	coords=551,858,597,875	href="/dbget-bin/www_bget?K18528"	title="K18528 (oxyS)" />
+<area shape=rect	coords=551,976,597,993	href="/dbget-bin/www_bget?K18521"	title="K18521 (gcvB)" />
+<area shape=rect	coords=469,976,515,993	href="/dbget-bin/www_bget?K03567"	title="K03567 (gcvR)" />
+<area shape=rect	coords=395,976,441,993	href="/dbget-bin/www_bget?K03566"	title="K03566 (gcvA)" />
+<area shape=rect	coords=469,1003,515,1020	href="/dbget-bin/www_bget?K07659"	title="K07659 (ompR)" />
+<area shape=rect	coords=321,951,367,968	href="/dbget-bin/www_bget?K07677"	title="K07677 (rcsC)" />
+<area shape=rect	coords=395,951,441,968	href="/dbget-bin/www_bget?K07676"	title="K07676 (rcsD)" />
+<area shape=rect	coords=469,951,515,968	href="/dbget-bin/www_bget?K07687"	title="K07687 (rcsB)" />
+<area shape=rect	coords=395,886,441,903	href="/dbget-bin/www_bget?K07648"	title="K07648 (arcB)" />
+<area shape=rect	coords=469,886,515,903	href="/dbget-bin/www_bget?K07773"	title="K07773 (arcA)" />
+<area shape=rect	coords=469,858,515,875	href="/dbget-bin/www_bget?K04761"	title="K04761 (oxyR)" />
+<area shape=rect	coords=469,1030,515,1047	href="/dbget-bin/www_bget?K10914"	title="K10914 (crp)" />
+<area shape=rect	coords=469,932,515,949	href="/dbget-bin/www_bget?K07781"	title="K07781 (rcsA)" />
+<area shape=rect	coords=395,1003,441,1020	href="/dbget-bin/www_bget?K07638"	title="K07638 (envZ)" />
+<area shape=rect	coords=453,481,499,498	href="/dbget-bin/www_bget?K03087"	title="K03087 (SIG2)" />
+<area shape=rect	coords=578,539,624,556	href="/dbget-bin/www_bget?K21090"	title="K21090 (adrB)" />
+<area shape=rect	coords=40,45,372,70	href="/dbget-bin/www_bget?ko02026"	title="ko02026: Biofilm formation - Escherichia coli" onmouseover="popupTimer(&quot;ko02026&quot;, &quot;ko02026: Biofilm formation - Escherichia coli&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=988,183,1106,206	href="/kegg-bin/show_pathway?ko02040"	title="ko02040: Flagellar assembly" onmouseover="popupTimer(&quot;ko02040&quot;, &quot;ko02040: Flagellar assembly&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=228,568,330,591	href="/kegg-bin/show_pathway?ko02024"	title="ko02024: Quorum sensing" onmouseover="popupTimer(&quot;ko02024&quot;, &quot;ko02024: Quorum sensing&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

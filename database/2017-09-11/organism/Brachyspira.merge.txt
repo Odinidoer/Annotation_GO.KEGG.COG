@@ -1,0 +1,826 @@
+path:bhy00010	Glycolysis / Gluconeogenesis - Brachyspira hyodysenteriae WA1
+path:bhy00020	Citrate cycle (TCA cycle) - Brachyspira hyodysenteriae WA1
+path:bhy00030	Pentose phosphate pathway - Brachyspira hyodysenteriae WA1
+path:bhy00040	Pentose and glucuronate interconversions - Brachyspira hyodysenteriae WA1
+path:bhy00051	Fructose and mannose metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00052	Galactose metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00053	Ascorbate and aldarate metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00061	Fatty acid biosynthesis - Brachyspira hyodysenteriae WA1
+path:bhy00071	Fatty acid degradation - Brachyspira hyodysenteriae WA1
+path:bhy00100	Steroid biosynthesis - Brachyspira hyodysenteriae WA1
+path:bhy00190	Oxidative phosphorylation - Brachyspira hyodysenteriae WA1
+path:bhy00220	Arginine biosynthesis - Brachyspira hyodysenteriae WA1
+path:bhy00230	Purine metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00240	Pyrimidine metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00250	Alanine, aspartate and glutamate metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00260	Glycine, serine and threonine metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00261	Monobactam biosynthesis - Brachyspira hyodysenteriae WA1
+path:bhy00270	Cysteine and methionine metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00280	Valine, leucine and isoleucine degradation - Brachyspira hyodysenteriae WA1
+path:bhy00290	Valine, leucine and isoleucine biosynthesis - Brachyspira hyodysenteriae WA1
+path:bhy00300	Lysine biosynthesis - Brachyspira hyodysenteriae WA1
+path:bhy00310	Lysine degradation - Brachyspira hyodysenteriae WA1
+path:bhy00330	Arginine and proline metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00332	Carbapenem biosynthesis - Brachyspira hyodysenteriae WA1
+path:bhy00340	Histidine metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00350	Tyrosine metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00360	Phenylalanine metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00362	Benzoate degradation - Brachyspira hyodysenteriae WA1
+path:bhy00380	Tryptophan metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Brachyspira hyodysenteriae WA1
+path:bhy00401	Novobiocin biosynthesis - Brachyspira hyodysenteriae WA1
+path:bhy00410	beta-Alanine metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00430	Taurine and hypotaurine metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00440	Phosphonate and phosphinate metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00450	Selenocompound metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00460	Cyanoamino acid metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00471	D-Glutamine and D-glutamate metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00473	D-Alanine metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00480	Glutathione metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00500	Starch and sucrose metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00511	Other glycan degradation - Brachyspira hyodysenteriae WA1
+path:bhy00520	Amino sugar and nucleotide sugar metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00521	Streptomycin biosynthesis - Brachyspira hyodysenteriae WA1
+path:bhy00523	Polyketide sugar unit biosynthesis - Brachyspira hyodysenteriae WA1
+path:bhy00525	Acarbose and validamycin biosynthesis - Brachyspira hyodysenteriae WA1
+path:bhy00540	Lipopolysaccharide biosynthesis - Brachyspira hyodysenteriae WA1
+path:bhy00550	Peptidoglycan biosynthesis - Brachyspira hyodysenteriae WA1
+path:bhy00561	Glycerolipid metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00562	Inositol phosphate metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00564	Glycerophospholipid metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00590	Arachidonic acid metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00600	Sphingolipid metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00620	Pyruvate metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00625	Chloroalkane and chloroalkene degradation - Brachyspira hyodysenteriae WA1
+path:bhy00626	Naphthalene degradation - Brachyspira hyodysenteriae WA1
+path:bhy00630	Glyoxylate and dicarboxylate metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00640	Propanoate metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00650	Butanoate metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00660	C5-Branched dibasic acid metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00670	One carbon pool by folate - Brachyspira hyodysenteriae WA1
+path:bhy00680	Methane metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00730	Thiamine metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00740	Riboflavin metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00750	Vitamin B6 metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00760	Nicotinate and nicotinamide metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00770	Pantothenate and CoA biosynthesis - Brachyspira hyodysenteriae WA1
+path:bhy00780	Biotin metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00790	Folate biosynthesis - Brachyspira hyodysenteriae WA1
+path:bhy00860	Porphyrin and chlorophyll metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00900	Terpenoid backbone biosynthesis - Brachyspira hyodysenteriae WA1
+path:bhy00909	Sesquiterpenoid and triterpenoid biosynthesis - Brachyspira hyodysenteriae WA1
+path:bhy00910	Nitrogen metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00920	Sulfur metabolism - Brachyspira hyodysenteriae WA1
+path:bhy00970	Aminoacyl-tRNA biosynthesis - Brachyspira hyodysenteriae WA1
+path:bhy01040	Biosynthesis of unsaturated fatty acids - Brachyspira hyodysenteriae WA1
+path:bhy01100	Metabolic pathways - Brachyspira hyodysenteriae WA1
+path:bhy01110	Biosynthesis of secondary metabolites - Brachyspira hyodysenteriae WA1
+path:bhy01120	Microbial metabolism in diverse environments - Brachyspira hyodysenteriae WA1
+path:bhy01130	Biosynthesis of antibiotics - Brachyspira hyodysenteriae WA1
+path:bhy01200	Carbon metabolism - Brachyspira hyodysenteriae WA1
+path:bhy01210	2-Oxocarboxylic acid metabolism - Brachyspira hyodysenteriae WA1
+path:bhy01212	Fatty acid metabolism - Brachyspira hyodysenteriae WA1
+path:bhy01220	Degradation of aromatic compounds - Brachyspira hyodysenteriae WA1
+path:bhy01230	Biosynthesis of amino acids - Brachyspira hyodysenteriae WA1
+path:bhy01501	beta-Lactam resistance - Brachyspira hyodysenteriae WA1
+path:bhy01502	Vancomycin resistance - Brachyspira hyodysenteriae WA1
+path:bhy01503	Cationic antimicrobial peptide (CAMP) resistance - Brachyspira hyodysenteriae WA1
+path:bhy02010	ABC transporters - Brachyspira hyodysenteriae WA1
+path:bhy02020	Two-component system - Brachyspira hyodysenteriae WA1
+path:bhy02024	Quorum sensing - Brachyspira hyodysenteriae WA1
+path:bhy02030	Bacterial chemotaxis - Brachyspira hyodysenteriae WA1
+path:bhy02040	Flagellar assembly - Brachyspira hyodysenteriae WA1
+path:bhy02060	Phosphotransferase system (PTS) - Brachyspira hyodysenteriae WA1
+path:bhy03010	Ribosome - Brachyspira hyodysenteriae WA1
+path:bhy03018	RNA degradation - Brachyspira hyodysenteriae WA1
+path:bhy03020	RNA polymerase - Brachyspira hyodysenteriae WA1
+path:bhy03030	DNA replication - Brachyspira hyodysenteriae WA1
+path:bhy03060	Protein export - Brachyspira hyodysenteriae WA1
+path:bhy03070	Bacterial secretion system - Brachyspira hyodysenteriae WA1
+path:bhy03410	Base excision repair - Brachyspira hyodysenteriae WA1
+path:bhy03420	Nucleotide excision repair - Brachyspira hyodysenteriae WA1
+path:bhy03430	Mismatch repair - Brachyspira hyodysenteriae WA1
+path:bhy03440	Homologous recombination - Brachyspira hyodysenteriae WA1
+path:bhy04122	Sulfur relay system - Brachyspira hyodysenteriae WA1
+path:bhd00010	Glycolysis / Gluconeogenesis - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00020	Citrate cycle (TCA cycle) - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00030	Pentose phosphate pathway - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00040	Pentose and glucuronate interconversions - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00051	Fructose and mannose metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00052	Galactose metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00053	Ascorbate and aldarate metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00061	Fatty acid biosynthesis - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00071	Fatty acid degradation - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00100	Steroid biosynthesis - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00190	Oxidative phosphorylation - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00220	Arginine biosynthesis - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00230	Purine metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00240	Pyrimidine metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00250	Alanine, aspartate and glutamate metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00260	Glycine, serine and threonine metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00261	Monobactam biosynthesis - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00270	Cysteine and methionine metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00280	Valine, leucine and isoleucine degradation - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00290	Valine, leucine and isoleucine biosynthesis - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00300	Lysine biosynthesis - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00310	Lysine degradation - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00330	Arginine and proline metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00332	Carbapenem biosynthesis - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00340	Histidine metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00350	Tyrosine metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00360	Phenylalanine metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00362	Benzoate degradation - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00380	Tryptophan metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00401	Novobiocin biosynthesis - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00410	beta-Alanine metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00430	Taurine and hypotaurine metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00440	Phosphonate and phosphinate metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00450	Selenocompound metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00460	Cyanoamino acid metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00471	D-Glutamine and D-glutamate metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00473	D-Alanine metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00480	Glutathione metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00500	Starch and sucrose metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00511	Other glycan degradation - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00520	Amino sugar and nucleotide sugar metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00521	Streptomycin biosynthesis - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00523	Polyketide sugar unit biosynthesis - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00525	Acarbose and validamycin biosynthesis - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00540	Lipopolysaccharide biosynthesis - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00550	Peptidoglycan biosynthesis - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00561	Glycerolipid metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00562	Inositol phosphate metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00564	Glycerophospholipid metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00590	Arachidonic acid metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00600	Sphingolipid metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00620	Pyruvate metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00625	Chloroalkane and chloroalkene degradation - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00630	Glyoxylate and dicarboxylate metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00640	Propanoate metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00650	Butanoate metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00660	C5-Branched dibasic acid metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00670	One carbon pool by folate - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00680	Methane metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00730	Thiamine metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00740	Riboflavin metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00750	Vitamin B6 metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00760	Nicotinate and nicotinamide metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00770	Pantothenate and CoA biosynthesis - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00780	Biotin metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00790	Folate biosynthesis - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00860	Porphyrin and chlorophyll metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00900	Terpenoid backbone biosynthesis - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00909	Sesquiterpenoid and triterpenoid biosynthesis - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00910	Nitrogen metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00920	Sulfur metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd00970	Aminoacyl-tRNA biosynthesis - Brachyspira hyodysenteriae ATCC 27164
+path:bhd01040	Biosynthesis of unsaturated fatty acids - Brachyspira hyodysenteriae ATCC 27164
+path:bhd01100	Metabolic pathways - Brachyspira hyodysenteriae ATCC 27164
+path:bhd01110	Biosynthesis of secondary metabolites - Brachyspira hyodysenteriae ATCC 27164
+path:bhd01120	Microbial metabolism in diverse environments - Brachyspira hyodysenteriae ATCC 27164
+path:bhd01130	Biosynthesis of antibiotics - Brachyspira hyodysenteriae ATCC 27164
+path:bhd01200	Carbon metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd01210	2-Oxocarboxylic acid metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd01212	Fatty acid metabolism - Brachyspira hyodysenteriae ATCC 27164
+path:bhd01230	Biosynthesis of amino acids - Brachyspira hyodysenteriae ATCC 27164
+path:bhd01501	beta-Lactam resistance - Brachyspira hyodysenteriae ATCC 27164
+path:bhd01502	Vancomycin resistance - Brachyspira hyodysenteriae ATCC 27164
+path:bhd01503	Cationic antimicrobial peptide (CAMP) resistance - Brachyspira hyodysenteriae ATCC 27164
+path:bhd02010	ABC transporters - Brachyspira hyodysenteriae ATCC 27164
+path:bhd02020	Two-component system - Brachyspira hyodysenteriae ATCC 27164
+path:bhd02024	Quorum sensing - Brachyspira hyodysenteriae ATCC 27164
+path:bhd02030	Bacterial chemotaxis - Brachyspira hyodysenteriae ATCC 27164
+path:bhd02040	Flagellar assembly - Brachyspira hyodysenteriae ATCC 27164
+path:bhd02060	Phosphotransferase system (PTS) - Brachyspira hyodysenteriae ATCC 27164
+path:bhd03010	Ribosome - Brachyspira hyodysenteriae ATCC 27164
+path:bhd03018	RNA degradation - Brachyspira hyodysenteriae ATCC 27164
+path:bhd03020	RNA polymerase - Brachyspira hyodysenteriae ATCC 27164
+path:bhd03030	DNA replication - Brachyspira hyodysenteriae ATCC 27164
+path:bhd03060	Protein export - Brachyspira hyodysenteriae ATCC 27164
+path:bhd03070	Bacterial secretion system - Brachyspira hyodysenteriae ATCC 27164
+path:bhd03410	Base excision repair - Brachyspira hyodysenteriae ATCC 27164
+path:bhd03420	Nucleotide excision repair - Brachyspira hyodysenteriae ATCC 27164
+path:bhd03430	Mismatch repair - Brachyspira hyodysenteriae ATCC 27164
+path:bhd03440	Homologous recombination - Brachyspira hyodysenteriae ATCC 27164
+path:bhd04122	Sulfur relay system - Brachyspira hyodysenteriae ATCC 27164
+path:brm00010	Glycolysis / Gluconeogenesis - Brachyspira murdochii
+path:brm00020	Citrate cycle (TCA cycle) - Brachyspira murdochii
+path:brm00030	Pentose phosphate pathway - Brachyspira murdochii
+path:brm00040	Pentose and glucuronate interconversions - Brachyspira murdochii
+path:brm00051	Fructose and mannose metabolism - Brachyspira murdochii
+path:brm00052	Galactose metabolism - Brachyspira murdochii
+path:brm00053	Ascorbate and aldarate metabolism - Brachyspira murdochii
+path:brm00061	Fatty acid biosynthesis - Brachyspira murdochii
+path:brm00071	Fatty acid degradation - Brachyspira murdochii
+path:brm00100	Steroid biosynthesis - Brachyspira murdochii
+path:brm00190	Oxidative phosphorylation - Brachyspira murdochii
+path:brm00220	Arginine biosynthesis - Brachyspira murdochii
+path:brm00230	Purine metabolism - Brachyspira murdochii
+path:brm00240	Pyrimidine metabolism - Brachyspira murdochii
+path:brm00250	Alanine, aspartate and glutamate metabolism - Brachyspira murdochii
+path:brm00260	Glycine, serine and threonine metabolism - Brachyspira murdochii
+path:brm00261	Monobactam biosynthesis - Brachyspira murdochii
+path:brm00270	Cysteine and methionine metabolism - Brachyspira murdochii
+path:brm00280	Valine, leucine and isoleucine degradation - Brachyspira murdochii
+path:brm00290	Valine, leucine and isoleucine biosynthesis - Brachyspira murdochii
+path:brm00300	Lysine biosynthesis - Brachyspira murdochii
+path:brm00310	Lysine degradation - Brachyspira murdochii
+path:brm00330	Arginine and proline metabolism - Brachyspira murdochii
+path:brm00332	Carbapenem biosynthesis - Brachyspira murdochii
+path:brm00340	Histidine metabolism - Brachyspira murdochii
+path:brm00350	Tyrosine metabolism - Brachyspira murdochii
+path:brm00360	Phenylalanine metabolism - Brachyspira murdochii
+path:brm00362	Benzoate degradation - Brachyspira murdochii
+path:brm00380	Tryptophan metabolism - Brachyspira murdochii
+path:brm00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Brachyspira murdochii
+path:brm00401	Novobiocin biosynthesis - Brachyspira murdochii
+path:brm00410	beta-Alanine metabolism - Brachyspira murdochii
+path:brm00430	Taurine and hypotaurine metabolism - Brachyspira murdochii
+path:brm00440	Phosphonate and phosphinate metabolism - Brachyspira murdochii
+path:brm00450	Selenocompound metabolism - Brachyspira murdochii
+path:brm00460	Cyanoamino acid metabolism - Brachyspira murdochii
+path:brm00471	D-Glutamine and D-glutamate metabolism - Brachyspira murdochii
+path:brm00473	D-Alanine metabolism - Brachyspira murdochii
+path:brm00480	Glutathione metabolism - Brachyspira murdochii
+path:brm00500	Starch and sucrose metabolism - Brachyspira murdochii
+path:brm00511	Other glycan degradation - Brachyspira murdochii
+path:brm00520	Amino sugar and nucleotide sugar metabolism - Brachyspira murdochii
+path:brm00521	Streptomycin biosynthesis - Brachyspira murdochii
+path:brm00523	Polyketide sugar unit biosynthesis - Brachyspira murdochii
+path:brm00525	Acarbose and validamycin biosynthesis - Brachyspira murdochii
+path:brm00540	Lipopolysaccharide biosynthesis - Brachyspira murdochii
+path:brm00550	Peptidoglycan biosynthesis - Brachyspira murdochii
+path:brm00561	Glycerolipid metabolism - Brachyspira murdochii
+path:brm00562	Inositol phosphate metabolism - Brachyspira murdochii
+path:brm00564	Glycerophospholipid metabolism - Brachyspira murdochii
+path:brm00590	Arachidonic acid metabolism - Brachyspira murdochii
+path:brm00600	Sphingolipid metabolism - Brachyspira murdochii
+path:brm00620	Pyruvate metabolism - Brachyspira murdochii
+path:brm00625	Chloroalkane and chloroalkene degradation - Brachyspira murdochii
+path:brm00626	Naphthalene degradation - Brachyspira murdochii
+path:brm00630	Glyoxylate and dicarboxylate metabolism - Brachyspira murdochii
+path:brm00640	Propanoate metabolism - Brachyspira murdochii
+path:brm00650	Butanoate metabolism - Brachyspira murdochii
+path:brm00660	C5-Branched dibasic acid metabolism - Brachyspira murdochii
+path:brm00670	One carbon pool by folate - Brachyspira murdochii
+path:brm00680	Methane metabolism - Brachyspira murdochii
+path:brm00730	Thiamine metabolism - Brachyspira murdochii
+path:brm00740	Riboflavin metabolism - Brachyspira murdochii
+path:brm00750	Vitamin B6 metabolism - Brachyspira murdochii
+path:brm00760	Nicotinate and nicotinamide metabolism - Brachyspira murdochii
+path:brm00770	Pantothenate and CoA biosynthesis - Brachyspira murdochii
+path:brm00780	Biotin metabolism - Brachyspira murdochii
+path:brm00790	Folate biosynthesis - Brachyspira murdochii
+path:brm00860	Porphyrin and chlorophyll metabolism - Brachyspira murdochii
+path:brm00900	Terpenoid backbone biosynthesis - Brachyspira murdochii
+path:brm00909	Sesquiterpenoid and triterpenoid biosynthesis - Brachyspira murdochii
+path:brm00910	Nitrogen metabolism - Brachyspira murdochii
+path:brm00920	Sulfur metabolism - Brachyspira murdochii
+path:brm00970	Aminoacyl-tRNA biosynthesis - Brachyspira murdochii
+path:brm01040	Biosynthesis of unsaturated fatty acids - Brachyspira murdochii
+path:brm01100	Metabolic pathways - Brachyspira murdochii
+path:brm01110	Biosynthesis of secondary metabolites - Brachyspira murdochii
+path:brm01120	Microbial metabolism in diverse environments - Brachyspira murdochii
+path:brm01130	Biosynthesis of antibiotics - Brachyspira murdochii
+path:brm01200	Carbon metabolism - Brachyspira murdochii
+path:brm01210	2-Oxocarboxylic acid metabolism - Brachyspira murdochii
+path:brm01212	Fatty acid metabolism - Brachyspira murdochii
+path:brm01220	Degradation of aromatic compounds - Brachyspira murdochii
+path:brm01230	Biosynthesis of amino acids - Brachyspira murdochii
+path:brm01501	beta-Lactam resistance - Brachyspira murdochii
+path:brm01502	Vancomycin resistance - Brachyspira murdochii
+path:brm01503	Cationic antimicrobial peptide (CAMP) resistance - Brachyspira murdochii
+path:brm02010	ABC transporters - Brachyspira murdochii
+path:brm02020	Two-component system - Brachyspira murdochii
+path:brm02024	Quorum sensing - Brachyspira murdochii
+path:brm02030	Bacterial chemotaxis - Brachyspira murdochii
+path:brm02040	Flagellar assembly - Brachyspira murdochii
+path:brm02060	Phosphotransferase system (PTS) - Brachyspira murdochii
+path:brm03010	Ribosome - Brachyspira murdochii
+path:brm03018	RNA degradation - Brachyspira murdochii
+path:brm03020	RNA polymerase - Brachyspira murdochii
+path:brm03030	DNA replication - Brachyspira murdochii
+path:brm03060	Protein export - Brachyspira murdochii
+path:brm03070	Bacterial secretion system - Brachyspira murdochii
+path:brm03410	Base excision repair - Brachyspira murdochii
+path:brm03420	Nucleotide excision repair - Brachyspira murdochii
+path:brm03430	Mismatch repair - Brachyspira murdochii
+path:brm03440	Homologous recombination - Brachyspira murdochii
+path:brm04122	Sulfur relay system - Brachyspira murdochii
+path:bpo00010	Glycolysis / Gluconeogenesis - Brachyspira pilosicoli 95/1000
+path:bpo00020	Citrate cycle (TCA cycle) - Brachyspira pilosicoli 95/1000
+path:bpo00030	Pentose phosphate pathway - Brachyspira pilosicoli 95/1000
+path:bpo00040	Pentose and glucuronate interconversions - Brachyspira pilosicoli 95/1000
+path:bpo00051	Fructose and mannose metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00052	Galactose metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00053	Ascorbate and aldarate metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00061	Fatty acid biosynthesis - Brachyspira pilosicoli 95/1000
+path:bpo00071	Fatty acid degradation - Brachyspira pilosicoli 95/1000
+path:bpo00100	Steroid biosynthesis - Brachyspira pilosicoli 95/1000
+path:bpo00190	Oxidative phosphorylation - Brachyspira pilosicoli 95/1000
+path:bpo00220	Arginine biosynthesis - Brachyspira pilosicoli 95/1000
+path:bpo00230	Purine metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00240	Pyrimidine metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00250	Alanine, aspartate and glutamate metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00260	Glycine, serine and threonine metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00261	Monobactam biosynthesis - Brachyspira pilosicoli 95/1000
+path:bpo00270	Cysteine and methionine metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00280	Valine, leucine and isoleucine degradation - Brachyspira pilosicoli 95/1000
+path:bpo00290	Valine, leucine and isoleucine biosynthesis - Brachyspira pilosicoli 95/1000
+path:bpo00300	Lysine biosynthesis - Brachyspira pilosicoli 95/1000
+path:bpo00310	Lysine degradation - Brachyspira pilosicoli 95/1000
+path:bpo00330	Arginine and proline metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00332	Carbapenem biosynthesis - Brachyspira pilosicoli 95/1000
+path:bpo00340	Histidine metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00350	Tyrosine metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00360	Phenylalanine metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00362	Benzoate degradation - Brachyspira pilosicoli 95/1000
+path:bpo00380	Tryptophan metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Brachyspira pilosicoli 95/1000
+path:bpo00401	Novobiocin biosynthesis - Brachyspira pilosicoli 95/1000
+path:bpo00410	beta-Alanine metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00430	Taurine and hypotaurine metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00440	Phosphonate and phosphinate metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00450	Selenocompound metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00460	Cyanoamino acid metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00471	D-Glutamine and D-glutamate metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00473	D-Alanine metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00480	Glutathione metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00500	Starch and sucrose metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00511	Other glycan degradation - Brachyspira pilosicoli 95/1000
+path:bpo00520	Amino sugar and nucleotide sugar metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00521	Streptomycin biosynthesis - Brachyspira pilosicoli 95/1000
+path:bpo00540	Lipopolysaccharide biosynthesis - Brachyspira pilosicoli 95/1000
+path:bpo00550	Peptidoglycan biosynthesis - Brachyspira pilosicoli 95/1000
+path:bpo00561	Glycerolipid metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00562	Inositol phosphate metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00564	Glycerophospholipid metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00590	Arachidonic acid metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00600	Sphingolipid metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00620	Pyruvate metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00625	Chloroalkane and chloroalkene degradation - Brachyspira pilosicoli 95/1000
+path:bpo00626	Naphthalene degradation - Brachyspira pilosicoli 95/1000
+path:bpo00630	Glyoxylate and dicarboxylate metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00640	Propanoate metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00650	Butanoate metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00660	C5-Branched dibasic acid metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00670	One carbon pool by folate - Brachyspira pilosicoli 95/1000
+path:bpo00680	Methane metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00730	Thiamine metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00740	Riboflavin metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00750	Vitamin B6 metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00760	Nicotinate and nicotinamide metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00770	Pantothenate and CoA biosynthesis - Brachyspira pilosicoli 95/1000
+path:bpo00780	Biotin metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00790	Folate biosynthesis - Brachyspira pilosicoli 95/1000
+path:bpo00860	Porphyrin and chlorophyll metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00900	Terpenoid backbone biosynthesis - Brachyspira pilosicoli 95/1000
+path:bpo00909	Sesquiterpenoid and triterpenoid biosynthesis - Brachyspira pilosicoli 95/1000
+path:bpo00910	Nitrogen metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00920	Sulfur metabolism - Brachyspira pilosicoli 95/1000
+path:bpo00970	Aminoacyl-tRNA biosynthesis - Brachyspira pilosicoli 95/1000
+path:bpo01040	Biosynthesis of unsaturated fatty acids - Brachyspira pilosicoli 95/1000
+path:bpo01100	Metabolic pathways - Brachyspira pilosicoli 95/1000
+path:bpo01110	Biosynthesis of secondary metabolites - Brachyspira pilosicoli 95/1000
+path:bpo01120	Microbial metabolism in diverse environments - Brachyspira pilosicoli 95/1000
+path:bpo01130	Biosynthesis of antibiotics - Brachyspira pilosicoli 95/1000
+path:bpo01200	Carbon metabolism - Brachyspira pilosicoli 95/1000
+path:bpo01210	2-Oxocarboxylic acid metabolism - Brachyspira pilosicoli 95/1000
+path:bpo01212	Fatty acid metabolism - Brachyspira pilosicoli 95/1000
+path:bpo01220	Degradation of aromatic compounds - Brachyspira pilosicoli 95/1000
+path:bpo01230	Biosynthesis of amino acids - Brachyspira pilosicoli 95/1000
+path:bpo01501	beta-Lactam resistance - Brachyspira pilosicoli 95/1000
+path:bpo01502	Vancomycin resistance - Brachyspira pilosicoli 95/1000
+path:bpo01503	Cationic antimicrobial peptide (CAMP) resistance - Brachyspira pilosicoli 95/1000
+path:bpo02010	ABC transporters - Brachyspira pilosicoli 95/1000
+path:bpo02020	Two-component system - Brachyspira pilosicoli 95/1000
+path:bpo02024	Quorum sensing - Brachyspira pilosicoli 95/1000
+path:bpo02030	Bacterial chemotaxis - Brachyspira pilosicoli 95/1000
+path:bpo02040	Flagellar assembly - Brachyspira pilosicoli 95/1000
+path:bpo02060	Phosphotransferase system (PTS) - Brachyspira pilosicoli 95/1000
+path:bpo03010	Ribosome - Brachyspira pilosicoli 95/1000
+path:bpo03018	RNA degradation - Brachyspira pilosicoli 95/1000
+path:bpo03020	RNA polymerase - Brachyspira pilosicoli 95/1000
+path:bpo03030	DNA replication - Brachyspira pilosicoli 95/1000
+path:bpo03060	Protein export - Brachyspira pilosicoli 95/1000
+path:bpo03070	Bacterial secretion system - Brachyspira pilosicoli 95/1000
+path:bpo03410	Base excision repair - Brachyspira pilosicoli 95/1000
+path:bpo03420	Nucleotide excision repair - Brachyspira pilosicoli 95/1000
+path:bpo03430	Mismatch repair - Brachyspira pilosicoli 95/1000
+path:bpo03440	Homologous recombination - Brachyspira pilosicoli 95/1000
+path:bpo04122	Sulfur relay system - Brachyspira pilosicoli 95/1000
+path:bpj00010	Glycolysis / Gluconeogenesis - Brachyspira pilosicoli B2904
+path:bpj00020	Citrate cycle (TCA cycle) - Brachyspira pilosicoli B2904
+path:bpj00030	Pentose phosphate pathway - Brachyspira pilosicoli B2904
+path:bpj00040	Pentose and glucuronate interconversions - Brachyspira pilosicoli B2904
+path:bpj00051	Fructose and mannose metabolism - Brachyspira pilosicoli B2904
+path:bpj00052	Galactose metabolism - Brachyspira pilosicoli B2904
+path:bpj00053	Ascorbate and aldarate metabolism - Brachyspira pilosicoli B2904
+path:bpj00061	Fatty acid biosynthesis - Brachyspira pilosicoli B2904
+path:bpj00071	Fatty acid degradation - Brachyspira pilosicoli B2904
+path:bpj00100	Steroid biosynthesis - Brachyspira pilosicoli B2904
+path:bpj00190	Oxidative phosphorylation - Brachyspira pilosicoli B2904
+path:bpj00220	Arginine biosynthesis - Brachyspira pilosicoli B2904
+path:bpj00230	Purine metabolism - Brachyspira pilosicoli B2904
+path:bpj00240	Pyrimidine metabolism - Brachyspira pilosicoli B2904
+path:bpj00250	Alanine, aspartate and glutamate metabolism - Brachyspira pilosicoli B2904
+path:bpj00260	Glycine, serine and threonine metabolism - Brachyspira pilosicoli B2904
+path:bpj00261	Monobactam biosynthesis - Brachyspira pilosicoli B2904
+path:bpj00270	Cysteine and methionine metabolism - Brachyspira pilosicoli B2904
+path:bpj00280	Valine, leucine and isoleucine degradation - Brachyspira pilosicoli B2904
+path:bpj00290	Valine, leucine and isoleucine biosynthesis - Brachyspira pilosicoli B2904
+path:bpj00300	Lysine biosynthesis - Brachyspira pilosicoli B2904
+path:bpj00310	Lysine degradation - Brachyspira pilosicoli B2904
+path:bpj00330	Arginine and proline metabolism - Brachyspira pilosicoli B2904
+path:bpj00332	Carbapenem biosynthesis - Brachyspira pilosicoli B2904
+path:bpj00340	Histidine metabolism - Brachyspira pilosicoli B2904
+path:bpj00350	Tyrosine metabolism - Brachyspira pilosicoli B2904
+path:bpj00360	Phenylalanine metabolism - Brachyspira pilosicoli B2904
+path:bpj00362	Benzoate degradation - Brachyspira pilosicoli B2904
+path:bpj00380	Tryptophan metabolism - Brachyspira pilosicoli B2904
+path:bpj00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Brachyspira pilosicoli B2904
+path:bpj00401	Novobiocin biosynthesis - Brachyspira pilosicoli B2904
+path:bpj00410	beta-Alanine metabolism - Brachyspira pilosicoli B2904
+path:bpj00430	Taurine and hypotaurine metabolism - Brachyspira pilosicoli B2904
+path:bpj00440	Phosphonate and phosphinate metabolism - Brachyspira pilosicoli B2904
+path:bpj00450	Selenocompound metabolism - Brachyspira pilosicoli B2904
+path:bpj00460	Cyanoamino acid metabolism - Brachyspira pilosicoli B2904
+path:bpj00471	D-Glutamine and D-glutamate metabolism - Brachyspira pilosicoli B2904
+path:bpj00473	D-Alanine metabolism - Brachyspira pilosicoli B2904
+path:bpj00480	Glutathione metabolism - Brachyspira pilosicoli B2904
+path:bpj00500	Starch and sucrose metabolism - Brachyspira pilosicoli B2904
+path:bpj00511	Other glycan degradation - Brachyspira pilosicoli B2904
+path:bpj00520	Amino sugar and nucleotide sugar metabolism - Brachyspira pilosicoli B2904
+path:bpj00521	Streptomycin biosynthesis - Brachyspira pilosicoli B2904
+path:bpj00523	Polyketide sugar unit biosynthesis - Brachyspira pilosicoli B2904
+path:bpj00540	Lipopolysaccharide biosynthesis - Brachyspira pilosicoli B2904
+path:bpj00550	Peptidoglycan biosynthesis - Brachyspira pilosicoli B2904
+path:bpj00561	Glycerolipid metabolism - Brachyspira pilosicoli B2904
+path:bpj00562	Inositol phosphate metabolism - Brachyspira pilosicoli B2904
+path:bpj00564	Glycerophospholipid metabolism - Brachyspira pilosicoli B2904
+path:bpj00590	Arachidonic acid metabolism - Brachyspira pilosicoli B2904
+path:bpj00600	Sphingolipid metabolism - Brachyspira pilosicoli B2904
+path:bpj00620	Pyruvate metabolism - Brachyspira pilosicoli B2904
+path:bpj00625	Chloroalkane and chloroalkene degradation - Brachyspira pilosicoli B2904
+path:bpj00626	Naphthalene degradation - Brachyspira pilosicoli B2904
+path:bpj00630	Glyoxylate and dicarboxylate metabolism - Brachyspira pilosicoli B2904
+path:bpj00640	Propanoate metabolism - Brachyspira pilosicoli B2904
+path:bpj00650	Butanoate metabolism - Brachyspira pilosicoli B2904
+path:bpj00660	C5-Branched dibasic acid metabolism - Brachyspira pilosicoli B2904
+path:bpj00670	One carbon pool by folate - Brachyspira pilosicoli B2904
+path:bpj00680	Methane metabolism - Brachyspira pilosicoli B2904
+path:bpj00730	Thiamine metabolism - Brachyspira pilosicoli B2904
+path:bpj00740	Riboflavin metabolism - Brachyspira pilosicoli B2904
+path:bpj00750	Vitamin B6 metabolism - Brachyspira pilosicoli B2904
+path:bpj00760	Nicotinate and nicotinamide metabolism - Brachyspira pilosicoli B2904
+path:bpj00770	Pantothenate and CoA biosynthesis - Brachyspira pilosicoli B2904
+path:bpj00780	Biotin metabolism - Brachyspira pilosicoli B2904
+path:bpj00790	Folate biosynthesis - Brachyspira pilosicoli B2904
+path:bpj00860	Porphyrin and chlorophyll metabolism - Brachyspira pilosicoli B2904
+path:bpj00900	Terpenoid backbone biosynthesis - Brachyspira pilosicoli B2904
+path:bpj00909	Sesquiterpenoid and triterpenoid biosynthesis - Brachyspira pilosicoli B2904
+path:bpj00910	Nitrogen metabolism - Brachyspira pilosicoli B2904
+path:bpj00920	Sulfur metabolism - Brachyspira pilosicoli B2904
+path:bpj00970	Aminoacyl-tRNA biosynthesis - Brachyspira pilosicoli B2904
+path:bpj01040	Biosynthesis of unsaturated fatty acids - Brachyspira pilosicoli B2904
+path:bpj01100	Metabolic pathways - Brachyspira pilosicoli B2904
+path:bpj01110	Biosynthesis of secondary metabolites - Brachyspira pilosicoli B2904
+path:bpj01120	Microbial metabolism in diverse environments - Brachyspira pilosicoli B2904
+path:bpj01130	Biosynthesis of antibiotics - Brachyspira pilosicoli B2904
+path:bpj01200	Carbon metabolism - Brachyspira pilosicoli B2904
+path:bpj01210	2-Oxocarboxylic acid metabolism - Brachyspira pilosicoli B2904
+path:bpj01212	Fatty acid metabolism - Brachyspira pilosicoli B2904
+path:bpj01220	Degradation of aromatic compounds - Brachyspira pilosicoli B2904
+path:bpj01230	Biosynthesis of amino acids - Brachyspira pilosicoli B2904
+path:bpj01501	beta-Lactam resistance - Brachyspira pilosicoli B2904
+path:bpj01502	Vancomycin resistance - Brachyspira pilosicoli B2904
+path:bpj01503	Cationic antimicrobial peptide (CAMP) resistance - Brachyspira pilosicoli B2904
+path:bpj02010	ABC transporters - Brachyspira pilosicoli B2904
+path:bpj02020	Two-component system - Brachyspira pilosicoli B2904
+path:bpj02024	Quorum sensing - Brachyspira pilosicoli B2904
+path:bpj02030	Bacterial chemotaxis - Brachyspira pilosicoli B2904
+path:bpj02040	Flagellar assembly - Brachyspira pilosicoli B2904
+path:bpj02060	Phosphotransferase system (PTS) - Brachyspira pilosicoli B2904
+path:bpj03010	Ribosome - Brachyspira pilosicoli B2904
+path:bpj03018	RNA degradation - Brachyspira pilosicoli B2904
+path:bpj03020	RNA polymerase - Brachyspira pilosicoli B2904
+path:bpj03030	DNA replication - Brachyspira pilosicoli B2904
+path:bpj03060	Protein export - Brachyspira pilosicoli B2904
+path:bpj03070	Bacterial secretion system - Brachyspira pilosicoli B2904
+path:bpj03410	Base excision repair - Brachyspira pilosicoli B2904
+path:bpj03420	Nucleotide excision repair - Brachyspira pilosicoli B2904
+path:bpj03430	Mismatch repair - Brachyspira pilosicoli B2904
+path:bpj03440	Homologous recombination - Brachyspira pilosicoli B2904
+path:bpj04122	Sulfur relay system - Brachyspira pilosicoli B2904
+path:bpip00010	Glycolysis / Gluconeogenesis - Brachyspira pilosicoli P43/6/78
+path:bpip00020	Citrate cycle (TCA cycle) - Brachyspira pilosicoli P43/6/78
+path:bpip00030	Pentose phosphate pathway - Brachyspira pilosicoli P43/6/78
+path:bpip00040	Pentose and glucuronate interconversions - Brachyspira pilosicoli P43/6/78
+path:bpip00051	Fructose and mannose metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00052	Galactose metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00053	Ascorbate and aldarate metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00061	Fatty acid biosynthesis - Brachyspira pilosicoli P43/6/78
+path:bpip00071	Fatty acid degradation - Brachyspira pilosicoli P43/6/78
+path:bpip00100	Steroid biosynthesis - Brachyspira pilosicoli P43/6/78
+path:bpip00190	Oxidative phosphorylation - Brachyspira pilosicoli P43/6/78
+path:bpip00220	Arginine biosynthesis - Brachyspira pilosicoli P43/6/78
+path:bpip00230	Purine metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00240	Pyrimidine metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00250	Alanine, aspartate and glutamate metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00260	Glycine, serine and threonine metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00261	Monobactam biosynthesis - Brachyspira pilosicoli P43/6/78
+path:bpip00270	Cysteine and methionine metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00280	Valine, leucine and isoleucine degradation - Brachyspira pilosicoli P43/6/78
+path:bpip00290	Valine, leucine and isoleucine biosynthesis - Brachyspira pilosicoli P43/6/78
+path:bpip00300	Lysine biosynthesis - Brachyspira pilosicoli P43/6/78
+path:bpip00310	Lysine degradation - Brachyspira pilosicoli P43/6/78
+path:bpip00330	Arginine and proline metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00332	Carbapenem biosynthesis - Brachyspira pilosicoli P43/6/78
+path:bpip00340	Histidine metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00350	Tyrosine metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00360	Phenylalanine metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00362	Benzoate degradation - Brachyspira pilosicoli P43/6/78
+path:bpip00380	Tryptophan metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Brachyspira pilosicoli P43/6/78
+path:bpip00401	Novobiocin biosynthesis - Brachyspira pilosicoli P43/6/78
+path:bpip00410	beta-Alanine metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00430	Taurine and hypotaurine metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00440	Phosphonate and phosphinate metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00450	Selenocompound metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00460	Cyanoamino acid metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00471	D-Glutamine and D-glutamate metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00473	D-Alanine metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00480	Glutathione metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00500	Starch and sucrose metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00511	Other glycan degradation - Brachyspira pilosicoli P43/6/78
+path:bpip00520	Amino sugar and nucleotide sugar metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00521	Streptomycin biosynthesis - Brachyspira pilosicoli P43/6/78
+path:bpip00523	Polyketide sugar unit biosynthesis - Brachyspira pilosicoli P43/6/78
+path:bpip00525	Acarbose and validamycin biosynthesis - Brachyspira pilosicoli P43/6/78
+path:bpip00540	Lipopolysaccharide biosynthesis - Brachyspira pilosicoli P43/6/78
+path:bpip00550	Peptidoglycan biosynthesis - Brachyspira pilosicoli P43/6/78
+path:bpip00561	Glycerolipid metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00562	Inositol phosphate metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00564	Glycerophospholipid metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00590	Arachidonic acid metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00600	Sphingolipid metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00620	Pyruvate metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00625	Chloroalkane and chloroalkene degradation - Brachyspira pilosicoli P43/6/78
+path:bpip00626	Naphthalene degradation - Brachyspira pilosicoli P43/6/78
+path:bpip00630	Glyoxylate and dicarboxylate metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00640	Propanoate metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00650	Butanoate metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00660	C5-Branched dibasic acid metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00670	One carbon pool by folate - Brachyspira pilosicoli P43/6/78
+path:bpip00680	Methane metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00730	Thiamine metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00740	Riboflavin metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00750	Vitamin B6 metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00760	Nicotinate and nicotinamide metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00770	Pantothenate and CoA biosynthesis - Brachyspira pilosicoli P43/6/78
+path:bpip00780	Biotin metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00790	Folate biosynthesis - Brachyspira pilosicoli P43/6/78
+path:bpip00860	Porphyrin and chlorophyll metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00900	Terpenoid backbone biosynthesis - Brachyspira pilosicoli P43/6/78
+path:bpip00909	Sesquiterpenoid and triterpenoid biosynthesis - Brachyspira pilosicoli P43/6/78
+path:bpip00910	Nitrogen metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00920	Sulfur metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip00970	Aminoacyl-tRNA biosynthesis - Brachyspira pilosicoli P43/6/78
+path:bpip01040	Biosynthesis of unsaturated fatty acids - Brachyspira pilosicoli P43/6/78
+path:bpip01100	Metabolic pathways - Brachyspira pilosicoli P43/6/78
+path:bpip01110	Biosynthesis of secondary metabolites - Brachyspira pilosicoli P43/6/78
+path:bpip01120	Microbial metabolism in diverse environments - Brachyspira pilosicoli P43/6/78
+path:bpip01130	Biosynthesis of antibiotics - Brachyspira pilosicoli P43/6/78
+path:bpip01200	Carbon metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip01210	2-Oxocarboxylic acid metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip01212	Fatty acid metabolism - Brachyspira pilosicoli P43/6/78
+path:bpip01220	Degradation of aromatic compounds - Brachyspira pilosicoli P43/6/78
+path:bpip01230	Biosynthesis of amino acids - Brachyspira pilosicoli P43/6/78
+path:bpip01501	beta-Lactam resistance - Brachyspira pilosicoli P43/6/78
+path:bpip01502	Vancomycin resistance - Brachyspira pilosicoli P43/6/78
+path:bpip01503	Cationic antimicrobial peptide (CAMP) resistance - Brachyspira pilosicoli P43/6/78
+path:bpip02010	ABC transporters - Brachyspira pilosicoli P43/6/78
+path:bpip02020	Two-component system - Brachyspira pilosicoli P43/6/78
+path:bpip02024	Quorum sensing - Brachyspira pilosicoli P43/6/78
+path:bpip02030	Bacterial chemotaxis - Brachyspira pilosicoli P43/6/78
+path:bpip02040	Flagellar assembly - Brachyspira pilosicoli P43/6/78
+path:bpip02060	Phosphotransferase system (PTS) - Brachyspira pilosicoli P43/6/78
+path:bpip03010	Ribosome - Brachyspira pilosicoli P43/6/78
+path:bpip03018	RNA degradation - Brachyspira pilosicoli P43/6/78
+path:bpip03020	RNA polymerase - Brachyspira pilosicoli P43/6/78
+path:bpip03030	DNA replication - Brachyspira pilosicoli P43/6/78
+path:bpip03060	Protein export - Brachyspira pilosicoli P43/6/78
+path:bpip03070	Bacterial secretion system - Brachyspira pilosicoli P43/6/78
+path:bpip03410	Base excision repair - Brachyspira pilosicoli P43/6/78
+path:bpip03420	Nucleotide excision repair - Brachyspira pilosicoli P43/6/78
+path:bpip03430	Mismatch repair - Brachyspira pilosicoli P43/6/78
+path:bpip03440	Homologous recombination - Brachyspira pilosicoli P43/6/78
+path:bpip04122	Sulfur relay system - Brachyspira pilosicoli P43/6/78
+path:bpw00010	Glycolysis / Gluconeogenesis - Brachyspira pilosicoli WesB
+path:bpw00020	Citrate cycle (TCA cycle) - Brachyspira pilosicoli WesB
+path:bpw00030	Pentose phosphate pathway - Brachyspira pilosicoli WesB
+path:bpw00040	Pentose and glucuronate interconversions - Brachyspira pilosicoli WesB
+path:bpw00051	Fructose and mannose metabolism - Brachyspira pilosicoli WesB
+path:bpw00052	Galactose metabolism - Brachyspira pilosicoli WesB
+path:bpw00053	Ascorbate and aldarate metabolism - Brachyspira pilosicoli WesB
+path:bpw00061	Fatty acid biosynthesis - Brachyspira pilosicoli WesB
+path:bpw00071	Fatty acid degradation - Brachyspira pilosicoli WesB
+path:bpw00100	Steroid biosynthesis - Brachyspira pilosicoli WesB
+path:bpw00190	Oxidative phosphorylation - Brachyspira pilosicoli WesB
+path:bpw00220	Arginine biosynthesis - Brachyspira pilosicoli WesB
+path:bpw00230	Purine metabolism - Brachyspira pilosicoli WesB
+path:bpw00240	Pyrimidine metabolism - Brachyspira pilosicoli WesB
+path:bpw00250	Alanine, aspartate and glutamate metabolism - Brachyspira pilosicoli WesB
+path:bpw00260	Glycine, serine and threonine metabolism - Brachyspira pilosicoli WesB
+path:bpw00261	Monobactam biosynthesis - Brachyspira pilosicoli WesB
+path:bpw00270	Cysteine and methionine metabolism - Brachyspira pilosicoli WesB
+path:bpw00280	Valine, leucine and isoleucine degradation - Brachyspira pilosicoli WesB
+path:bpw00290	Valine, leucine and isoleucine biosynthesis - Brachyspira pilosicoli WesB
+path:bpw00300	Lysine biosynthesis - Brachyspira pilosicoli WesB
+path:bpw00310	Lysine degradation - Brachyspira pilosicoli WesB
+path:bpw00330	Arginine and proline metabolism - Brachyspira pilosicoli WesB
+path:bpw00332	Carbapenem biosynthesis - Brachyspira pilosicoli WesB
+path:bpw00340	Histidine metabolism - Brachyspira pilosicoli WesB
+path:bpw00350	Tyrosine metabolism - Brachyspira pilosicoli WesB
+path:bpw00360	Phenylalanine metabolism - Brachyspira pilosicoli WesB
+path:bpw00362	Benzoate degradation - Brachyspira pilosicoli WesB
+path:bpw00380	Tryptophan metabolism - Brachyspira pilosicoli WesB
+path:bpw00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Brachyspira pilosicoli WesB
+path:bpw00401	Novobiocin biosynthesis - Brachyspira pilosicoli WesB
+path:bpw00410	beta-Alanine metabolism - Brachyspira pilosicoli WesB
+path:bpw00430	Taurine and hypotaurine metabolism - Brachyspira pilosicoli WesB
+path:bpw00440	Phosphonate and phosphinate metabolism - Brachyspira pilosicoli WesB
+path:bpw00450	Selenocompound metabolism - Brachyspira pilosicoli WesB
+path:bpw00460	Cyanoamino acid metabolism - Brachyspira pilosicoli WesB
+path:bpw00471	D-Glutamine and D-glutamate metabolism - Brachyspira pilosicoli WesB
+path:bpw00473	D-Alanine metabolism - Brachyspira pilosicoli WesB
+path:bpw00480	Glutathione metabolism - Brachyspira pilosicoli WesB
+path:bpw00500	Starch and sucrose metabolism - Brachyspira pilosicoli WesB
+path:bpw00511	Other glycan degradation - Brachyspira pilosicoli WesB
+path:bpw00520	Amino sugar and nucleotide sugar metabolism - Brachyspira pilosicoli WesB
+path:bpw00521	Streptomycin biosynthesis - Brachyspira pilosicoli WesB
+path:bpw00523	Polyketide sugar unit biosynthesis - Brachyspira pilosicoli WesB
+path:bpw00540	Lipopolysaccharide biosynthesis - Brachyspira pilosicoli WesB
+path:bpw00550	Peptidoglycan biosynthesis - Brachyspira pilosicoli WesB
+path:bpw00561	Glycerolipid metabolism - Brachyspira pilosicoli WesB
+path:bpw00562	Inositol phosphate metabolism - Brachyspira pilosicoli WesB
+path:bpw00564	Glycerophospholipid metabolism - Brachyspira pilosicoli WesB
+path:bpw00590	Arachidonic acid metabolism - Brachyspira pilosicoli WesB
+path:bpw00600	Sphingolipid metabolism - Brachyspira pilosicoli WesB
+path:bpw00620	Pyruvate metabolism - Brachyspira pilosicoli WesB
+path:bpw00625	Chloroalkane and chloroalkene degradation - Brachyspira pilosicoli WesB
+path:bpw00626	Naphthalene degradation - Brachyspira pilosicoli WesB
+path:bpw00630	Glyoxylate and dicarboxylate metabolism - Brachyspira pilosicoli WesB
+path:bpw00640	Propanoate metabolism - Brachyspira pilosicoli WesB
+path:bpw00650	Butanoate metabolism - Brachyspira pilosicoli WesB
+path:bpw00660	C5-Branched dibasic acid metabolism - Brachyspira pilosicoli WesB
+path:bpw00670	One carbon pool by folate - Brachyspira pilosicoli WesB
+path:bpw00680	Methane metabolism - Brachyspira pilosicoli WesB
+path:bpw00730	Thiamine metabolism - Brachyspira pilosicoli WesB
+path:bpw00740	Riboflavin metabolism - Brachyspira pilosicoli WesB
+path:bpw00750	Vitamin B6 metabolism - Brachyspira pilosicoli WesB
+path:bpw00760	Nicotinate and nicotinamide metabolism - Brachyspira pilosicoli WesB
+path:bpw00770	Pantothenate and CoA biosynthesis - Brachyspira pilosicoli WesB
+path:bpw00780	Biotin metabolism - Brachyspira pilosicoli WesB
+path:bpw00790	Folate biosynthesis - Brachyspira pilosicoli WesB
+path:bpw00860	Porphyrin and chlorophyll metabolism - Brachyspira pilosicoli WesB
+path:bpw00900	Terpenoid backbone biosynthesis - Brachyspira pilosicoli WesB
+path:bpw00909	Sesquiterpenoid and triterpenoid biosynthesis - Brachyspira pilosicoli WesB
+path:bpw00910	Nitrogen metabolism - Brachyspira pilosicoli WesB
+path:bpw00920	Sulfur metabolism - Brachyspira pilosicoli WesB
+path:bpw00970	Aminoacyl-tRNA biosynthesis - Brachyspira pilosicoli WesB
+path:bpw01040	Biosynthesis of unsaturated fatty acids - Brachyspira pilosicoli WesB
+path:bpw01100	Metabolic pathways - Brachyspira pilosicoli WesB
+path:bpw01110	Biosynthesis of secondary metabolites - Brachyspira pilosicoli WesB
+path:bpw01120	Microbial metabolism in diverse environments - Brachyspira pilosicoli WesB
+path:bpw01130	Biosynthesis of antibiotics - Brachyspira pilosicoli WesB
+path:bpw01200	Carbon metabolism - Brachyspira pilosicoli WesB
+path:bpw01210	2-Oxocarboxylic acid metabolism - Brachyspira pilosicoli WesB
+path:bpw01212	Fatty acid metabolism - Brachyspira pilosicoli WesB
+path:bpw01220	Degradation of aromatic compounds - Brachyspira pilosicoli WesB
+path:bpw01230	Biosynthesis of amino acids - Brachyspira pilosicoli WesB
+path:bpw01501	beta-Lactam resistance - Brachyspira pilosicoli WesB
+path:bpw01502	Vancomycin resistance - Brachyspira pilosicoli WesB
+path:bpw01503	Cationic antimicrobial peptide (CAMP) resistance - Brachyspira pilosicoli WesB
+path:bpw02010	ABC transporters - Brachyspira pilosicoli WesB
+path:bpw02020	Two-component system - Brachyspira pilosicoli WesB
+path:bpw02024	Quorum sensing - Brachyspira pilosicoli WesB
+path:bpw02030	Bacterial chemotaxis - Brachyspira pilosicoli WesB
+path:bpw02040	Flagellar assembly - Brachyspira pilosicoli WesB
+path:bpw02060	Phosphotransferase system (PTS) - Brachyspira pilosicoli WesB
+path:bpw03010	Ribosome - Brachyspira pilosicoli WesB
+path:bpw03018	RNA degradation - Brachyspira pilosicoli WesB
+path:bpw03020	RNA polymerase - Brachyspira pilosicoli WesB
+path:bpw03030	DNA replication - Brachyspira pilosicoli WesB
+path:bpw03060	Protein export - Brachyspira pilosicoli WesB
+path:bpw03070	Bacterial secretion system - Brachyspira pilosicoli WesB
+path:bpw03410	Base excision repair - Brachyspira pilosicoli WesB
+path:bpw03420	Nucleotide excision repair - Brachyspira pilosicoli WesB
+path:bpw03430	Mismatch repair - Brachyspira pilosicoli WesB
+path:bpw03440	Homologous recombination - Brachyspira pilosicoli WesB
+path:bpw04122	Sulfur relay system - Brachyspira pilosicoli WesB
+path:bip00010	Glycolysis / Gluconeogenesis - Brachyspira intermedia
+path:bip00020	Citrate cycle (TCA cycle) - Brachyspira intermedia
+path:bip00030	Pentose phosphate pathway - Brachyspira intermedia
+path:bip00040	Pentose and glucuronate interconversions - Brachyspira intermedia
+path:bip00051	Fructose and mannose metabolism - Brachyspira intermedia
+path:bip00052	Galactose metabolism - Brachyspira intermedia
+path:bip00053	Ascorbate and aldarate metabolism - Brachyspira intermedia
+path:bip00061	Fatty acid biosynthesis - Brachyspira intermedia
+path:bip00071	Fatty acid degradation - Brachyspira intermedia
+path:bip00100	Steroid biosynthesis - Brachyspira intermedia
+path:bip00190	Oxidative phosphorylation - Brachyspira intermedia
+path:bip00220	Arginine biosynthesis - Brachyspira intermedia
+path:bip00230	Purine metabolism - Brachyspira intermedia
+path:bip00240	Pyrimidine metabolism - Brachyspira intermedia
+path:bip00250	Alanine, aspartate and glutamate metabolism - Brachyspira intermedia
+path:bip00260	Glycine, serine and threonine metabolism - Brachyspira intermedia
+path:bip00261	Monobactam biosynthesis - Brachyspira intermedia
+path:bip00270	Cysteine and methionine metabolism - Brachyspira intermedia
+path:bip00280	Valine, leucine and isoleucine degradation - Brachyspira intermedia
+path:bip00290	Valine, leucine and isoleucine biosynthesis - Brachyspira intermedia
+path:bip00300	Lysine biosynthesis - Brachyspira intermedia
+path:bip00310	Lysine degradation - Brachyspira intermedia
+path:bip00330	Arginine and proline metabolism - Brachyspira intermedia
+path:bip00332	Carbapenem biosynthesis - Brachyspira intermedia
+path:bip00340	Histidine metabolism - Brachyspira intermedia
+path:bip00350	Tyrosine metabolism - Brachyspira intermedia
+path:bip00360	Phenylalanine metabolism - Brachyspira intermedia
+path:bip00362	Benzoate degradation - Brachyspira intermedia
+path:bip00380	Tryptophan metabolism - Brachyspira intermedia
+path:bip00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Brachyspira intermedia
+path:bip00401	Novobiocin biosynthesis - Brachyspira intermedia
+path:bip00410	beta-Alanine metabolism - Brachyspira intermedia
+path:bip00430	Taurine and hypotaurine metabolism - Brachyspira intermedia
+path:bip00440	Phosphonate and phosphinate metabolism - Brachyspira intermedia
+path:bip00450	Selenocompound metabolism - Brachyspira intermedia
+path:bip00460	Cyanoamino acid metabolism - Brachyspira intermedia
+path:bip00471	D-Glutamine and D-glutamate metabolism - Brachyspira intermedia
+path:bip00473	D-Alanine metabolism - Brachyspira intermedia
+path:bip00480	Glutathione metabolism - Brachyspira intermedia
+path:bip00500	Starch and sucrose metabolism - Brachyspira intermedia
+path:bip00511	Other glycan degradation - Brachyspira intermedia
+path:bip00520	Amino sugar and nucleotide sugar metabolism - Brachyspira intermedia
+path:bip00521	Streptomycin biosynthesis - Brachyspira intermedia
+path:bip00523	Polyketide sugar unit biosynthesis - Brachyspira intermedia
+path:bip00525	Acarbose and validamycin biosynthesis - Brachyspira intermedia
+path:bip00540	Lipopolysaccharide biosynthesis - Brachyspira intermedia
+path:bip00550	Peptidoglycan biosynthesis - Brachyspira intermedia
+path:bip00561	Glycerolipid metabolism - Brachyspira intermedia
+path:bip00562	Inositol phosphate metabolism - Brachyspira intermedia
+path:bip00564	Glycerophospholipid metabolism - Brachyspira intermedia
+path:bip00590	Arachidonic acid metabolism - Brachyspira intermedia
+path:bip00600	Sphingolipid metabolism - Brachyspira intermedia
+path:bip00620	Pyruvate metabolism - Brachyspira intermedia
+path:bip00625	Chloroalkane and chloroalkene degradation - Brachyspira intermedia
+path:bip00626	Naphthalene degradation - Brachyspira intermedia
+path:bip00630	Glyoxylate and dicarboxylate metabolism - Brachyspira intermedia
+path:bip00640	Propanoate metabolism - Brachyspira intermedia
+path:bip00650	Butanoate metabolism - Brachyspira intermedia
+path:bip00660	C5-Branched dibasic acid metabolism - Brachyspira intermedia
+path:bip00670	One carbon pool by folate - Brachyspira intermedia
+path:bip00680	Methane metabolism - Brachyspira intermedia
+path:bip00730	Thiamine metabolism - Brachyspira intermedia
+path:bip00740	Riboflavin metabolism - Brachyspira intermedia
+path:bip00750	Vitamin B6 metabolism - Brachyspira intermedia
+path:bip00760	Nicotinate and nicotinamide metabolism - Brachyspira intermedia
+path:bip00770	Pantothenate and CoA biosynthesis - Brachyspira intermedia
+path:bip00780	Biotin metabolism - Brachyspira intermedia
+path:bip00790	Folate biosynthesis - Brachyspira intermedia
+path:bip00860	Porphyrin and chlorophyll metabolism - Brachyspira intermedia
+path:bip00900	Terpenoid backbone biosynthesis - Brachyspira intermedia
+path:bip00909	Sesquiterpenoid and triterpenoid biosynthesis - Brachyspira intermedia
+path:bip00910	Nitrogen metabolism - Brachyspira intermedia
+path:bip00920	Sulfur metabolism - Brachyspira intermedia
+path:bip00970	Aminoacyl-tRNA biosynthesis - Brachyspira intermedia
+path:bip01040	Biosynthesis of unsaturated fatty acids - Brachyspira intermedia
+path:bip01100	Metabolic pathways - Brachyspira intermedia
+path:bip01110	Biosynthesis of secondary metabolites - Brachyspira intermedia
+path:bip01120	Microbial metabolism in diverse environments - Brachyspira intermedia
+path:bip01130	Biosynthesis of antibiotics - Brachyspira intermedia
+path:bip01200	Carbon metabolism - Brachyspira intermedia
+path:bip01210	2-Oxocarboxylic acid metabolism - Brachyspira intermedia
+path:bip01212	Fatty acid metabolism - Brachyspira intermedia
+path:bip01220	Degradation of aromatic compounds - Brachyspira intermedia
+path:bip01230	Biosynthesis of amino acids - Brachyspira intermedia
+path:bip01501	beta-Lactam resistance - Brachyspira intermedia
+path:bip01502	Vancomycin resistance - Brachyspira intermedia
+path:bip01503	Cationic antimicrobial peptide (CAMP) resistance - Brachyspira intermedia
+path:bip02010	ABC transporters - Brachyspira intermedia
+path:bip02020	Two-component system - Brachyspira intermedia
+path:bip02024	Quorum sensing - Brachyspira intermedia
+path:bip02030	Bacterial chemotaxis - Brachyspira intermedia
+path:bip02040	Flagellar assembly - Brachyspira intermedia
+path:bip02060	Phosphotransferase system (PTS) - Brachyspira intermedia
+path:bip03010	Ribosome - Brachyspira intermedia
+path:bip03018	RNA degradation - Brachyspira intermedia
+path:bip03020	RNA polymerase - Brachyspira intermedia
+path:bip03030	DNA replication - Brachyspira intermedia
+path:bip03060	Protein export - Brachyspira intermedia
+path:bip03070	Bacterial secretion system - Brachyspira intermedia
+path:bip03410	Base excision repair - Brachyspira intermedia
+path:bip03420	Nucleotide excision repair - Brachyspira intermedia
+path:bip03430	Mismatch repair - Brachyspira intermedia
+path:bip03440	Homologous recombination - Brachyspira intermedia
+path:bip04122	Sulfur relay system - Brachyspira intermedia

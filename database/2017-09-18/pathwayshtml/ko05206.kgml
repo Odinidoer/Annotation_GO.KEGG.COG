@@ -1,0 +1,710 @@
+<html>
+<!---
+ENTRY       ko05206
+DEFINITION  MicroRNAs in cancer
+--->
+<head>
+<title>
+KEGG PATHWAY: MicroRNAs in cancer
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>MicroRNAs in cancer</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=05206&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map05206.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko05206">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko05206&format=kgml">Download KGML</a>
+| <a id="descLink" href="javascript:switchDescription()">Show description</a>
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+<table id="description" cellpadding="10" width="800" style="display: none;"><tr><td>
+MicroRNA (miRNA) is a cluster of small non-encoding RNA molecules of 21 - 23 nucleotides in length, which controls gene expression post-transcriptionally either via the degradation of target mRNAs or the inhibition of protein translation. Using high-throughput profiling, dysregulation of miRNAs has been widely observed in different stages of cancer. The upregulation (overexpression) of specific miRNAs could lead to the repression of tumor suppressor gene expression, and conversely the downregulation of specific miRNAs could result in an increase of oncogene expression; both these situations induce subsequent malignant effects on cell proliferation, differentiation, and apoptosis that lead to tumor growth and progress. The miRNA signatures of cancer observed in various studies differ significantly. These inconsistencies occur due to the differences in the study populations and methodologies used. This pathway map shows the summarized results from various studies in 9 cancers, each of which is presented in a review article.</td></tr></table>
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="hsa">Homo sapiens (human)</option>
+<option value="hsadd">Homo sapiens (human) + Disease/drug</option>
+<option value="ptr">Pan troglodytes (chimpanzee)</option>
+<option value="pps">Pan paniscus (bonobo)</option>
+<option value="ggo">Gorilla gorilla gorilla (western lowland gorilla)</option>
+<option value="pon">Pongo abelii (Sumatran orangutan)</option>
+<option value="nle">Nomascus leucogenys (northern white-cheeked gibbon)</option>
+<option value="mcc">Macaca mulatta (rhesus monkey)</option>
+<option value="mcf">Macaca fascicularis (crab-eating macaque)</option>
+<option value="csab">Chlorocebus sabaeus (green monkey)</option>
+<option value="rro">Rhinopithecus roxellana (golden snub-nosed monkey)</option>
+<option value="rbb">Rhinopithecus bieti (black snub-nosed monkey)</option>
+<option value="cjc">Callithrix jacchus (white-tufted-ear marmoset)</option>
+<option value="sbq">Saimiri boliviensis boliviensis (Bolivian squirrel monkey)</option>
+<option value="mmu">Mus musculus (mouse)</option>
+<option value="rno">Rattus norvegicus (rat)</option>
+<option value="cge">Cricetulus griseus (Chinese hamster)</option>
+<option value="ngi">Nannospalax galili (Upper Galilee mountains blind mole rat)</option>
+<option value="hgl">Heterocephalus glaber (naked mole rat)</option>
+<option value="ccan">Castor canadensis (American beaver)</option>
+<option value="ocu">Oryctolagus cuniculus (rabbit)</option>
+<option value="tup">Tupaia chinensis (Chinese tree shrew)</option>
+<option value="cfa">Canis familiaris (dog)</option>
+<option value="aml">Ailuropoda melanoleuca (giant panda)</option>
+<option value="umr">Ursus maritimus (polar bear)</option>
+<option value="fca">Felis catus (domestic cat)</option>
+<option value="ptg">Panthera tigris altaica (Amur tiger)</option>
+<option value="aju">Acinonyx jubatus (cheetah)</option>
+<option value="bta">Bos taurus (cow)</option>
+<option value="bom">Bos mutus (wild yak)</option>
+<option value="biu">Bos indicus (zebu cattle)</option>
+<option value="phd">Pantholops hodgsonii (chiru)</option>
+<option value="chx">Capra hircus (goat)</option>
+<option value="oas">Ovis aries (sheep)</option>
+<option value="ssc">Sus scrofa (pig)</option>
+<option value="cfr">Camelus ferus (Wild Bactrian camel)</option>
+<option value="cdk">Camelus dromedarius (Arabian camel)</option>
+<option value="bacu">Balaenoptera acutorostrata scammoni (minke whale)</option>
+<option value="lve">Lipotes vexillifer (Yangtze River dolphin)</option>
+<option value="ecb">Equus caballus (horse)</option>
+<option value="epz">Equus przewalskii (Przewalski's horse)</option>
+<option value="eai">Equus asinus (ass)</option>
+<option value="myb">Myotis brandtii (Brandt's bat)</option>
+<option value="myd">Myotis davidii</option>
+<option value="hai">Hipposideros armiger (great roundleaf bat)</option>
+<option value="rss">Rhinolophus sinicus (Chinese rufous horseshoe bat)</option>
+<option value="pale">Pteropus alecto (black flying fox)</option>
+<option value="lav">Loxodonta africana (African savanna elephant)</option>
+<option value="mdo">Monodelphis domestica (opossum)</option>
+<option value="shr">Sarcophilus harrisii (Tasmanian devil)</option>
+<option value="oaa">Ornithorhynchus anatinus (platypus)</option>
+</select>
+<input type="hidden" name="mapno" value="05206" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko05206" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko05206.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=rect	coords=290,500,336,517	href="/dbget-bin/www_bget?K16970+K16971"	title="K16970 (MIR133A), K16971 (MIR133B)" />
+<area shape=rect	coords=368,204,414,221	href="/dbget-bin/www_bget?K06645+K05866+K05867"	title="K06645 (CDC25A), K05866 (CDC25B), K05867 (CDC25C)" />
+<area shape=rect	coords=368,516,414,533	href="/dbget-bin/www_bget?K02163"	title="K02163 (BCLW)" />
+<area shape=rect	coords=369,652,415,669	href="/dbget-bin/www_bget?K05448"	title="K05448 (VEGFA)" />
+<area shape=rect	coords=368,258,414,275	href="/dbget-bin/www_bget?K02091"	title="K02091 (CDK6)" />
+<area shape=rect	coords=290,191,336,208	href="/dbget-bin/www_bget?K16980"	title="K16980 (MIRLET7)" />
+<area shape=rect	coords=368,153,414,170	href="/dbget-bin/www_bget?K07827"	title="K07827 (KRAS)" />
+<area shape=rect	coords=368,178,414,195	href="/dbget-bin/www_bget?K02091"	title="K02091 (CDK6)" />
+<area shape=rect	coords=290,322,336,339	href="/dbget-bin/www_bget?K16978"	title="K16978 (MIR126)" />
+<area shape=rect	coords=368,321,414,338	href="/dbget-bin/www_bget?K04438"	title="K04438 (CRK)" />
+<area shape=rect	coords=290,290,336,307	href="/dbget-bin/www_bget?K16986+K16987+K16988"	title="K16986 (MIR15A), K16987 (MIR15B), K16988 (MIR16)" />
+<area shape=rect	coords=290,259,336,276	href="/dbget-bin/www_bget?K17396"	title="K17396 (MIR107)" />
+<area shape=rect	coords=101,230,147,247	href="/dbget-bin/www_bget?K17002+K17003+K17005+K17006+K17008"	title="K17002 (MIR17), K17003 (MIR18A), K17005 (MIR19), K17006 (MIR20A), K17008 (MIR92A)" />
+<area shape=rect	coords=290,448,336,465	href="/dbget-bin/www_bget?K16995+K16996+K16997"	title="K16995 (MIR29A), K16996 (MIR29B), K16997 (MIR29C)" />
+<area shape=rect	coords=368,448,414,465	href="/dbget-bin/www_bget?K17398+K17399"	title="K17398 (DNMT3A), K17399 (DNMT3B)" />
+<area shape=rect	coords=290,383,336,400	href="/dbget-bin/www_bget?K16972"	title="K16972 (MIR1)" />
+<area shape=rect	coords=290,652,334,669	href="/dbget-bin/www_bget?K16978"	title="K16978 (MIR126)" />
+<area shape=rect	coords=290,811,336,828	href="/dbget-bin/www_bget?K16993+K16994"	title="K16993 (MIR125A), K16994 (MIR125B)" />
+<area shape=rect	coords=368,229,414,246	href="/dbget-bin/www_bget?K09283"	title="K09283 (HMGA2)" />
+<area shape=rect	coords=101,515,147,532	href="/dbget-bin/www_bget?K16863"	title="K16863 (MIR21)" />
+<area shape=rect	coords=101,545,147,562	href="/dbget-bin/www_bget?K17010"	title="K17010 (MIR221)" />
+<area shape=rect	coords=101,571,147,588	href="/dbget-bin/www_bget?K17011"	title="K17011 (MIR222)" />
+<area shape=rect	coords=179,546,225,563	href="/dbget-bin/www_bget?K01110"	title="K01110 (PTEN)" />
+<area shape=rect	coords=290,544,336,561	href="/dbget-bin/www_bget?K16974"	title="K16974 (MIR145)" />
+<area shape=rect	coords=290,581,336,598	href="/dbget-bin/www_bget?K16972"	title="K16972 (MIR1)" />
+<area shape=rect	coords=368,490,414,507	href="/dbget-bin/www_bget?K02539"	title="K02539 (MCL1)" />
+<area shape=rect	coords=101,257,147,274	href="/dbget-bin/www_bget?K17010"	title="K17010 (MIR221)" />
+<area shape=rect	coords=101,284,147,301	href="/dbget-bin/www_bget?K17011"	title="K17011 (MIR222)" />
+<area shape=rect	coords=179,271,225,288	href="/dbget-bin/www_bget?K06624"	title="K06624 (CDKN1B)" />
+<area shape=rect	coords=290,731,336,748	href="/dbget-bin/www_bget?K17017"	title="K17017 (MIR200C)" />
+<area shape=rect	coords=678,742,724,759	href="/dbget-bin/www_bget?K17041"	title="K17041 (MIR100)" />
+<area shape=rect	coords=678,818,724,835	href="/dbget-bin/www_bget?K16975"	title="K16975 (MIR203)" />
+<area shape=rect	coords=678,715,724,732	href="/dbget-bin/www_bget?K17367"	title="K17367 (MIR99A)" />
+<area shape=rect	coords=756,818,802,835	href="/dbget-bin/www_bget?K10149"	title="K10149 (TP63)" />
+<area shape=rect	coords=678,794,724,811	href="/dbget-bin/www_bget?K17023+K16974"	title="K17023 (MIR143), K16974 (MIR145)" />
+<area shape=rect	coords=678,126,724,143	href="/dbget-bin/www_bget?K16980"	title="K16980 (MIRLET7)" />
+<area shape=rect	coords=678,162,724,179	href="/dbget-bin/www_bget?K16975"	title="K16975 (MIR203)" />
+<area shape=rect	coords=678,293,724,310	href="/dbget-bin/www_bget?K17165"	title="K17165 (MIR23A)" />
+<area shape=rect	coords=678,319,724,336	href="/dbget-bin/www_bget?K17112"	title="K17112 (MIR27A)" />
+<area shape=rect	coords=678,345,724,362	href="/dbget-bin/www_bget?K17113"	title="K17113 (MIR27B)" />
+<area shape=rect	coords=678,369,724,386	href="/dbget-bin/www_bget?K17183"	title="K17183 (MIR31)" />
+<area shape=rect	coords=678,394,724,411	href="/dbget-bin/www_bget?K17367"	title="K17367 (MIR99A)" />
+<area shape=rect	coords=756,331,802,348	href="/dbget-bin/www_bget?K08670"	title="K08670 (ST14)" />
+<area shape=rect	coords=756,357,802,374	href="/dbget-bin/www_bget?K07410"	title="K07410 (CYP1B1)" />
+<area shape=rect	coords=489,318,535,335	href="/dbget-bin/www_bget?K16863"	title="K16863 (MIR21)" />
+<area shape=rect	coords=489,148,535,165	href="/dbget-bin/www_bget?K17023+K16974"	title="K17023 (MIR143), K16974 (MIR145)" />
+<area shape=rect	coords=489,171,535,188	href="/dbget-bin/www_bget?K17131"	title="K17131 (MIR192)" />
+<area shape=rect	coords=489,194,535,211	href="/dbget-bin/www_bget?K17371"	title="K17371 (MIR194)" />
+<area shape=rect	coords=567,318,613,335	href="/dbget-bin/www_bget?K16865"	title="K16865 (PDCD4)" />
+<area shape=rect	coords=567,194,613,211	href="/dbget-bin/www_bget?K04498"	title="K04498 (EP300)" />
+<area shape=rect	coords=489,217,535,234	href="/dbget-bin/www_bget?K17167"	title="K17167 (MIR215)" />
+<area shape=rect	coords=489,349,533,364	href="/dbget-bin/www_bget?K17366"	title="K17366 (MIR28)" />
+<area shape=rect	coords=489,377,535,394	href="/dbget-bin/www_bget?K17110+K17111+K17040"	title="K17110 (MIR30A_D_E), K17111 (MIR30B), K17040 (MIR30C)" />
+<area shape=rect	coords=678,657,724,674	href="/dbget-bin/www_bget?K17397"	title="K17397 (MIRLET7C)" />
+<area shape=rect	coords=756,657,802,674	href="/dbget-bin/www_bget?K09283"	title="K09283 (HMGA2)" />
+<area shape=rect	coords=678,687,724,704	href="/dbget-bin/www_bget?K16972"	title="K16972 (MIR1)" />
+<area shape=rect	coords=489,745,535,762	href="/dbget-bin/www_bget?K16863"	title="K16863 (MIR21)" />
+<area shape=rect	coords=567,675,613,692	href="/dbget-bin/www_bget?K01110"	title="K01110 (PTEN)" />
+<area shape=rect	coords=567,702,613,719	href="/dbget-bin/www_bget?K10373"	title="K10373 (TPM1)" />
+<area shape=rect	coords=489,837,535,854	href="/dbget-bin/www_bget?K17009"	title="K17009 (MIR155)" />
+<area shape=rect	coords=678,770,724,787	href="/dbget-bin/www_bget?K16970"	title="K16970 (MIR133A)" />
+<area shape=rect	coords=883,158,929,175	href="/dbget-bin/www_bget?K17393"	title="K17393 (MIR10B)" />
+<area shape=rect	coords=883,185,929,202	href="/dbget-bin/www_bget?K16863"	title="K16863 (MIR21)" />
+<area shape=rect	coords=883,263,929,280	href="/dbget-bin/www_bget?K17042"	title="K17042 (MIR224)" />
+<area shape=rect	coords=883,287,929,304	href="/dbget-bin/www_bget?K17379"	title="K17379 (MIR602)" />
+<area shape=rect	coords=883,336,929,353	href="/dbget-bin/www_bget?K17378"	title="K17378 (MIR494)" />
+<area shape=rect	coords=883,361,929,378	href="/dbget-bin/www_bget?K17380"	title="K17380 (MIR615)" />
+<area shape=rect	coords=1072,159,1118,176	href="/dbget-bin/www_bget?K16974"	title="K16974 (MIR145)" />
+<area shape=rect	coords=1072,189,1118,206	href="/dbget-bin/www_bget?K17119"	title="K17119 (MIR199B)" />
+<area shape=rect	coords=1072,218,1118,235	href="/dbget-bin/www_bget?K17006"	title="K17006 (MIR20A)" />
+<area shape=rect	coords=1072,247,1118,264	href="/dbget-bin/www_bget?K17152"	title="K17152 (MIR324)" />
+<area shape=rect	coords=883,224,929,241	href="/dbget-bin/www_bget?K17010"	title="K17010 (MIR221)" />
+<area shape=rect	coords=883,113,929,130	href="/dbget-bin/www_bget?K17379"	title="K17379 (MIR602)" />
+<area shape=rect	coords=883,312,929,329	href="/dbget-bin/www_bget?K17036"	title="K17036 (MIR363)" />
+<area shape=rect	coords=883,385,929,402	href="/dbget-bin/www_bget?K17381"	title="K17381 (MIR625)" />
+<area shape=rect	coords=961,113,1007,130	href="/dbget-bin/www_bget?K09850"	title="K09850 (RASSF1)" />
+<area shape=rect	coords=883,529,929,546	href="/dbget-bin/www_bget?K17379"	title="K17379 (MIR602)" />
+<area shape=rect	coords=883,554,929,571	href="/dbget-bin/www_bget?K17023"	title="K17023 (MIR143)" />
+<area shape=rect	coords=883,577,929,594	href="/dbget-bin/www_bget?K16864"	title="K16864 (MIR10A)" />
+<area shape=rect	coords=883,602,929,619	href="/dbget-bin/www_bget?K17165+K17394+K17395"	title="K17165 (MIR23A), K17394 (MIR23B), K17395 (MIR23C)" />
+<area shape=rect	coords=883,673,929,690	href="/dbget-bin/www_bget?K17020"	title="K17020 (MIR122)" />
+<area shape=rect	coords=883,696,929,713	href="/dbget-bin/www_bget?K16994"	title="K16994 (MIR125B)" />
+<area shape=rect	coords=883,626,929,643	href="/dbget-bin/www_bget?K17008"	title="K17008 (MIR92A)" />
+<area shape=rect	coords=883,719,929,736	href="/dbget-bin/www_bget?K17024"	title="K17024 (MIR150)" />
+<area shape=rect	coords=883,742,929,759	href="/dbget-bin/www_bget?K17001"	title="K17001 (MIR223)" />
+<area shape=rect	coords=883,651,929,668	href="/dbget-bin/www_bget?K17367"	title="K17367 (MIR99A)" />
+<area shape=rect	coords=883,766,929,783	href="/dbget-bin/www_bget?K17132"	title="K17132 (MIR342)" />
+<area shape=rect	coords=961,742,1007,759	href="/dbget-bin/www_bget?K04381"	title="K04381 (STMN1)" />
+<area shape=rect	coords=883,436,929,453	href="/dbget-bin/www_bget?K16863"	title="K16863 (MIR21)" />
+<area shape=rect	coords=961,436,1007,453	href="/dbget-bin/www_bget?K01110"	title="K01110 (PTEN)" />
+<area shape=rect	coords=883,460,929,477	href="/dbget-bin/www_bget?K17038"	title="K17038 (MIR25)" />
+<area shape=rect	coords=883,483,929,500	href="/dbget-bin/www_bget?K16982"	title="K16982 (MIR34A)" />
+<area shape=rect	coords=961,483,1007,500	href="/dbget-bin/www_bget?K05099"	title="K05099 (MET)" />
+<area shape=rect	coords=883,506,929,523	href="/dbget-bin/www_bget?K17114"	title="K17114 (MIR96)" />
+<area shape=rect	coords=961,211,1007,228	href="/dbget-bin/www_bget?K08270"	title="K08270 (DDIT4)" />
+<area shape=rect	coords=961,158,1007,175	href="/dbget-bin/www_bget?K09295"	title="K09295 (HOXD10)" />
+<area shape=rect	coords=961,185,1007,202	href="/dbget-bin/www_bget?K01110"	title="K01110 (PTEN)" />
+<area shape=rect	coords=961,257,1007,274	href="/dbget-bin/www_bget?K05734"	title="K05734 (PAK4)" />
+<area shape=rect	coords=961,281,1007,298	href="/dbget-bin/www_bget?K01403"	title="K01403 (MMP9)" />
+<area shape=rect	coords=1072,276,1118,293	href="/dbget-bin/www_bget?K17137"	title="K17137 (MIR483)" />
+<area shape=rect	coords=368,290,414,307	href="/dbget-bin/www_bget?K04503+K10151+K06626"	title="K04503 (CCND1), K10151 (CCND2), K06626 (CCNE)" />
+<area shape=rect	coords=368,399,414,416	href="/dbget-bin/www_bget?K04702"	title="K04702 (PIM1)" />
+<area shape=rect	coords=368,424,414,441	href="/dbget-bin/www_bget?K05099"	title="K05099 (MET)" />
+<area shape=rect	coords=368,544,414,561	href="/dbget-bin/www_bget?K04361"	title="K04361 (EGFR)" />
+<area shape=rect	coords=368,596,414,613	href="/dbget-bin/www_bget?K05099"	title="K05099 (MET)" />
+<area shape=rect	coords=368,570,414,587	href="/dbget-bin/www_bget?K04702"	title="K04702 (PIM1)" />
+<area shape=rect	coords=290,758,336,775	href="/dbget-bin/www_bget?K17018"	title="K17018 (MIR141)" />
+<area shape=rect	coords=368,758,414,775	href="/dbget-bin/www_bget?K13376"	title="K13376 (TGFB2)" />
+<area shape=rect	coords=290,785,336,802	href="/dbget-bin/www_bget?K17116"	title="K17116 (MIR183)" />
+<area shape=rect	coords=368,785,414,802	href="/dbget-bin/www_bget?K08007"	title="K08007 (VIL2)" />
+<area shape=rect	coords=290,838,336,855	href="/dbget-bin/www_bget?K16972"	title="K16972 (MIR1)" />
+<area shape=rect	coords=368,838,414,855	href="/dbget-bin/www_bget?K05099"	title="K05099 (MET)" />
+<area shape=rect	coords=101,766,147,783	href="/dbget-bin/www_bget?K17010"	title="K17010 (MIR221)" />
+<area shape=rect	coords=101,792,147,809	href="/dbget-bin/www_bget?K17011"	title="K17011 (MIR222)" />
+<area shape=rect	coords=179,778,225,795	href="/dbget-bin/www_bget?K16866"	title="K16866 (TIMP3)" />
+<area shape=rect	coords=678,200,724,217	href="/dbget-bin/www_bget?K17150"	title="K17150 (MIR205)" />
+<area shape=rect	coords=489,125,535,142	href="/dbget-bin/www_bget?K16863"	title="K16863 (MIR21)" />
+<area shape=rect	coords=567,125,613,142	href="/dbget-bin/www_bget?K16865"	title="K16865 (PDCD4)" />
+<area shape=rect	coords=489,408,535,425	href="/dbget-bin/www_bget?K17023+K16974"	title="K17023 (MIR143), K16974 (MIR145)" />
+<area shape=rect	coords=489,439,535,456	href="/dbget-bin/www_bget?K17131"	title="K17131 (MIR192)" />
+<area shape=rect	coords=489,471,535,488	href="/dbget-bin/www_bget?K17371"	title="K17371 (MIR194)" />
+<area shape=rect	coords=567,471,613,488	href="/dbget-bin/www_bget?K04498"	title="K04498 (EP300)" />
+<area shape=rect	coords=489,502,535,519	href="/dbget-bin/www_bget?K17167"	title="K17167 (MIR215)" />
+<area shape=rect	coords=678,428,724,445	href="/dbget-bin/www_bget?K17041"	title="K17041 (MIR100)" />
+<area shape=rect	coords=756,419,802,436	href="/dbget-bin/www_bget?K07203"	title="K07203 (MTOR)" />
+<area shape=rect	coords=678,489,724,506	href="/dbget-bin/www_bget?K16994"	title="K16994 (MIR125B)" />
+<area shape=rect	coords=756,489,802,506	href="/dbget-bin/www_bget?K05083"	title="K05083 (ERBB2)" />
+<area shape=rect	coords=678,267,724,284	href="/dbget-bin/www_bget?K16980"	title="K16980 (MIRLET7)" />
+<area shape=rect	coords=678,548,724,565	href="/dbget-bin/www_bget?K16975"	title="K16975 (MIR203)" />
+<area shape=rect	coords=678,585,724,602	href="/dbget-bin/www_bget?K17150"	title="K17150 (MIR205)" />
+<area shape=rect	coords=678,844,724,861	href="/dbget-bin/www_bget?K16976"	title="K16976 (MIR375)" />
+<area shape=rect	coords=567,729,613,746	href="/dbget-bin/www_bget?K16865"	title="K16865 (PDCD4)" />
+<area shape=rect	coords=567,756,613,773	href="/dbget-bin/www_bget?K17383"	title="K17383 (SPRY2)" />
+<area shape=rect	coords=567,783,613,800	href="/dbget-bin/www_bget?K02161"	title="K02161 (BCL2)" />
+<area shape=rect	coords=567,810,613,827	href="/dbget-bin/www_bget?K10139"	title="K10139 (SERPINB5)" />
+<area shape=rect	coords=756,267,802,284	href="/dbget-bin/www_bget?K09283"	title="K09283 (HMGA2)" />
+<area shape=rect	coords=756,585,802,602	href="/dbget-bin/www_bget?K09299"	title="K09299 (ZEB1_2)" />
+<area shape=rect	coords=756,536,802,553	href="/dbget-bin/www_bget?K06619"	title="K06619 (ABL1)" />
+<area shape=rect	coords=756,560,802,577	href="/dbget-bin/www_bget?K10149"	title="K10149 (TP63)" />
+<area shape=rect	coords=756,510,802,527	href="/dbget-bin/www_bget?K05084"	title="K05084 (ERBB3)" />
+<area shape=rect	coords=756,468,802,485	href="/dbget-bin/www_bget?K07436"	title="K07436 (CYP24A1)" />
+<area shape=rect	coords=756,441,802,458	href="/dbget-bin/www_bget?K07204"	title="K07204 (RAPTOR)" />
+<area shape=rect	coords=961,305,1007,322	href="/dbget-bin/www_bget?K09850"	title="K09850 (RASSF1)" />
+<area shape=rect	coords=961,529,1007,546	href="/dbget-bin/www_bget?K09850"	title="K09850 (RASSF1)" />
+<area shape=rect	coords=961,645,1007,662	href="/dbget-bin/www_bget?K13863"	title="K13863 (SLC7A1)" />
+<area shape=rect	coords=961,668,1007,685	href="/dbget-bin/www_bget?K10145"	title="K10145 (CCNG1)" />
+<area shape=rect	coords=961,714,1007,731	href="/dbget-bin/www_bget?K00510"	title="K00510 (HMOX1)" />
+<area shape=rect	coords=883,789,929,806	href="/dbget-bin/www_bget?K16976"	title="K16976 (MIR375)" />
+<area shape=rect	coords=883,812,929,829	href="/dbget-bin/www_bget?K17376"	title="K17376 (MIR423)" />
+<area shape=rect	coords=883,836,929,853	href="/dbget-bin/www_bget?K17397"	title="K17397 (MIRLET7C)" />
+<area shape=rect	coords=961,765,1007,782	href="/dbget-bin/www_bget?K04692"	title="K04692 (STAT3)" />
+<area shape=rect	coords=961,785,1007,802	href="/dbget-bin/www_bget?K04377"	title="K04377 (MYC)" />
+<area shape=rect	coords=961,807,1007,824	href="/dbget-bin/www_bget?K02187"	title="K02187 (CASP3)" />
+<area shape=rect	coords=961,828,1007,845	href="/dbget-bin/www_bget?K02833+K07827+K07828"	title="K02833 (HRAS), K07827 (KRAS), K07828 (NRAS)" />
+<area shape=rect	coords=961,849,1007,866	href="/dbget-bin/www_bget?K09283"	title="K09283 (HMGA2)" />
+<area shape=rect	coords=1072,467,1118,484	href="/dbget-bin/www_bget?K17165"	title="K17165 (MIR23A)" />
+<area shape=rect	coords=1072,498,1118,515	href="/dbget-bin/www_bget?K16984+K16985"	title="K16984 (MIR26A), K16985 (MIR26B)" />
+<area shape=rect	coords=1072,530,1118,547	href="/dbget-bin/www_bget?K17112"	title="K17112 (MIR27A)" />
+<area shape=rect	coords=1072,565,1118,582	href="/dbget-bin/www_bget?K16974"	title="K16974 (MIR145)" />
+<area shape=rect	coords=1072,600,1118,617	href="/dbget-bin/www_bget?K17370"	title="K17370 (MIR152)" />
+<area shape=rect	coords=1072,630,1118,647	href="/dbget-bin/www_bget?K17119"	title="K17119 (MIR199B)" />
+<area shape=rect	coords=1072,662,1118,679	href="/dbget-bin/www_bget?K17020"	title="K17020 (MIR122)" />
+<area shape=rect	coords=1152,600,1198,617	href="/dbget-bin/www_bget?K00558"	title="K00558 (DNMT1)" />
+<area shape=rect	coords=1152,632,1198,649	href="/dbget-bin/www_bget?K13863"	title="K13863 (SLC7A1)" />
+<area shape=rect	coords=1152,655,1198,672	href="/dbget-bin/www_bget?K10145"	title="K10145 (CCNG1)" />
+<area shape=rect	coords=1152,701,1198,718	href="/dbget-bin/www_bget?K00510"	title="K00510 (HMOX1)" />
+<area shape=rect	coords=1270,119,1316,136	href="/dbget-bin/www_bget?K17002+K17003+K17005+K17006+K17008"	title="K17002 (MIR17), K17003 (MIR18A), K17005 (MIR19), K17006 (MIR20A), K17008 (MIR92A)" />
+<area shape=rect	coords=1270,144,1316,161	href="/dbget-bin/www_bget?K17008"	title="K17008 (MIR92A)" />
+<area shape=rect	coords=1270,168,1316,185	href="/dbget-bin/www_bget?K17144"	title="K17144 (MIR135)" />
+<area shape=rect	coords=1459,125,1505,142	href="/dbget-bin/www_bget?K16974"	title="K16974 (MIR145)" />
+<area shape=rect	coords=1270,192,1316,209	href="/dbget-bin/www_bget?K16863"	title="K16863 (MIR21)" />
+<area shape=rect	coords=1459,192,1505,209	href="/dbget-bin/www_bget?K16978"	title="K16978 (MIR126)" />
+<area shape=rect	coords=1459,257,1505,274	href="/dbget-bin/www_bget?K16980"	title="K16980 (MIRLET7)" />
+<area shape=rect	coords=1459,308,1505,325	href="/dbget-bin/www_bget?K17023"	title="K17023 (MIR143)" />
+<area shape=rect	coords=1459,283,1505,300	href="/dbget-bin/www_bget?K17003"	title="K17003 (MIR18A)" />
+<area shape=rect	coords=1459,364,1505,381	href="/dbget-bin/www_bget?K16978"	title="K16978 (MIR126)" />
+<area shape=rect	coords=1459,389,1505,406	href="/dbget-bin/www_bget?K16982"	title="K16982 (MIR34A)" />
+<area shape=rect	coords=1270,432,1316,449	href="/dbget-bin/www_bget?K16863"	title="K16863 (MIR21)" />
+<area shape=rect	coords=1459,431,1505,448	href="/dbget-bin/www_bget?K17015+K17016+K17017"	title="K17015 (MIR200A), K17016 (MIR200B), K17017 (MIR200C)" />
+<area shape=rect	coords=1348,168,1394,185	href="/dbget-bin/www_bget?K02085"	title="K02085 (APC)" />
+<area shape=rect	coords=1537,116,1583,131	href="/dbget-bin/www_bget?K04361"	title="K04361 (EGFR)" />
+<area shape=rect	coords=1537,141,1583,158	href="/dbget-bin/www_bget?K16172"	title="K16172 (IRS1)" />
+<area shape=rect	coords=1537,257,1583,274	href="/dbget-bin/www_bget?K07827"	title="K07827 (KRAS)" />
+<area shape=rect	coords=1537,283,1583,300	href="/dbget-bin/www_bget?K17398"	title="K17398 (DNMT3A)" />
+<area shape=rect	coords=1538,308,1584,325	href="/dbget-bin/www_bget?K04464"	title="K04464 (MAPK7)" />
+<area shape=rect	coords=1537,389,1583,406	href="/dbget-bin/www_bget?K05099"	title="K05099 (MET)" />
+<area shape=rect	coords=1348,432,1394,449	href="/dbget-bin/www_bget?K17383"	title="K17383 (SPRY2)" />
+<area shape=rect	coords=1348,192,1394,209	href="/dbget-bin/www_bget?K16865"	title="K16865 (PDCD4)" />
+<area shape=rect	coords=1459,556,1505,573	href="/dbget-bin/www_bget?K17126"	title="K17126 (MIR124)" />
+<area shape=rect	coords=1459,582,1505,599	href="/dbget-bin/www_bget?K17369"	title="K17369 (MIR137)" />
+<area shape=rect	coords=1459,609,1505,626	href="/dbget-bin/www_bget?K16982"	title="K16982 (MIR34A)" />
+<area shape=rect	coords=1459,636,1505,653	href="/dbget-bin/www_bget?K17130"	title="K17130 (MIR128)" />
+<area shape=rect	coords=1459,663,1505,680	href="/dbget-bin/www_bget?K16986+K16987"	title="K16986 (MIR15A), K16987 (MIR15B)" />
+<area shape=rect	coords=1537,583,1583,600	href="/dbget-bin/www_bget?K02091"	title="K02091 (CDK6)" />
+<area shape=rect	coords=1537,636,1583,653	href="/dbget-bin/www_bget?K06620"	title="K06620 (E2F3)" />
+<area shape=rect	coords=1537,663,1583,680	href="/dbget-bin/www_bget?K06626"	title="K06626 (CCNE)" />
+<area shape=rect	coords=1270,579,1316,596	href="/dbget-bin/www_bget?K16863"	title="K16863 (MIR21)" />
+<area shape=rect	coords=1348,565,1394,582	href="/dbget-bin/www_bget?K12886"	title="K12886 (HNRNPK)" />
+<area shape=rect	coords=1348,591,1394,608	href="/dbget-bin/www_bget?K10149"	title="K10149 (TP63)" />
+<area shape=rect	coords=1270,641,1316,658	href="/dbget-bin/www_bget?K17010"	title="K17010 (MIR221)" />
+<area shape=rect	coords=1348,642,1394,659	href="/dbget-bin/www_bget?K06624"	title="K06624 (CDKN1B)" />
+<area shape=rect	coords=1270,717,1316,734	href="/dbget-bin/www_bget?K16984"	title="K16984 (MIR26A)" />
+<area shape=rect	coords=1270,741,1316,758	href="/dbget-bin/www_bget?K16863"	title="K16863 (MIR21)" />
+<area shape=rect	coords=1348,717,1394,734	href="/dbget-bin/www_bget?K01110"	title="K01110 (PTEN)" />
+<area shape=rect	coords=1348,741,1394,758	href="/dbget-bin/www_bget?K16865"	title="K16865 (PDCD4)" />
+<area shape=rect	coords=1459,719,1505,736	href="/dbget-bin/www_bget?K17365"	title="K17365 (MIR7)" />
+<area shape=rect	coords=1459,755,1505,772	href="/dbget-bin/www_bget?K17372"	title="K17372 (MIR326)" />
+<area shape=rect	coords=1459,781,1505,798	href="/dbget-bin/www_bget?K16982"	title="K16982 (MIR34A)" />
+<area shape=rect	coords=1459,806,1505,823	href="/dbget-bin/www_bget?K17130"	title="K17130 (MIR128)" />
+<area shape=rect	coords=1537,709,1583,726	href="/dbget-bin/www_bget?K04361"	title="K04361 (EGFR)" />
+<area shape=rect	coords=1537,736,1583,753	href="/dbget-bin/www_bget?K07187"	title="K07187 (IRS2)" />
+<area shape=rect	coords=1537,769,1583,786	href="/dbget-bin/www_bget?K02599+K20994+K20995+K20996"	title="K02599 (NOTCH1), K20994 (NOTCH2), K20995 (NOTCH3), K20996 (NOTCH4)" />
+<area shape=rect	coords=1537,806,1583,823	href="/dbget-bin/www_bget?K11459"	title="K11459 (PCGF4)" />
+<area shape=rect	coords=1459,857,1505,874	href="/dbget-bin/www_bget?K17012"	title="K17012 (MIR146A)" />
+<area shape=rect	coords=1537,857,1583,874	href="/dbget-bin/www_bget?K07996"	title="K07996 (MMP16)" />
+<area shape=rect	coords=1270,852,1316,869	href="/dbget-bin/www_bget?K16863"	title="K16863 (MIR21)" />
+<area shape=rect	coords=1348,867,1394,884	href="/dbget-bin/www_bget?K16866"	title="K16866 (TIMP3)" />
+<area shape=rect	coords=1348,839,1394,856	href="/dbget-bin/www_bget?K17461"	title="K17461 (RECK)" />
+<area shape=rect	coords=1269,1171,1315,1188	href="/dbget-bin/www_bget?K17006"	title="K17006 (MIR20A)" />
+<area shape=rect	coords=1269,1244,1315,1261	href="/dbget-bin/www_bget?K17035"	title="K17035 (MIR106B)" />
+<area shape=rect	coords=1269,1284,1315,1301	href="/dbget-bin/www_bget?K17010"	title="K17010 (MIR221)" />
+<area shape=rect	coords=1458,1176,1504,1193	href="/dbget-bin/www_bget?K16982"	title="K16982 (MIR34A)" />
+<area shape=rect	coords=1269,1337,1315,1354	href="/dbget-bin/www_bget?K17039"	title="K17039 (MIR32)" />
+<area shape=rect	coords=1458,1322,1504,1339	href="/dbget-bin/www_bget?K17373"	title="K17373 (MIR330)" />
+<area shape=rect	coords=1458,1501,1504,1518	href="/dbget-bin/www_bget?K17000"	title="K17000 (MIR373)" />
+<area shape=rect	coords=1458,1549,1504,1566	href="/dbget-bin/www_bget?K17012"	title="K17012 (MIR146A)" />
+<area shape=rect	coords=1269,1609,1315,1626	href="/dbget-bin/www_bget?K16863"	title="K16863 (MIR21)" />
+<area shape=rect	coords=1458,1601,1504,1618	href="/dbget-bin/www_bget?K17150"	title="K17150 (MIR205)" />
+<area shape=rect	coords=1347,1148,1393,1165	href="/dbget-bin/www_bget?K17454"	title="K17454 (E2F1)" />
+<area shape=rect	coords=1536,1165,1582,1182	href="/dbget-bin/www_bget?K02091"	title="K02091 (CDK6)" />
+<area shape=rect	coords=1536,1192,1582,1209	href="/dbget-bin/www_bget?K11411"	title="K11411 (SIRT1)" />
+<area shape=rect	coords=1536,1322,1582,1339	href="/dbget-bin/www_bget?K17454"	title="K17454 (E2F1)" />
+<area shape=rect	coords=1536,1515,1582,1532	href="/dbget-bin/www_bget?K06256"	title="K06256 (CD44)" />
+<area shape=rect	coords=1536,1549,1582,1566	href="/dbget-bin/www_bget?K04514"	title="K04514 (ROCK1)" />
+<area shape=rect	coords=1536,1601,1582,1618	href="/dbget-bin/www_bget?K05084"	title="K05084 (ERBB3)" />
+<area shape=rect	coords=1347,1337,1393,1354	href="/dbget-bin/www_bget?K16341"	title="K16341 (BCL2L11)" />
+<area shape=rect	coords=1458,1757,1504,1774	href="/dbget-bin/www_bget?K17023"	title="K17023 (MIR143)" />
+<area shape=rect	coords=1536,1757,1582,1774	href="/dbget-bin/www_bget?K04464"	title="K04464 (MAPK7)" />
+<area shape=rect	coords=1269,1757,1315,1774	href="/dbget-bin/www_bget?K16994"	title="K16994 (MIR125B)" />
+<area shape=rect	coords=1347,1757,1393,1774	href="/dbget-bin/www_bget?K14021"	title="K14021 (BAK)" />
+<area shape=rect	coords=1269,1309,1315,1326	href="/dbget-bin/www_bget?K17011"	title="K17011 (MIR222)" />
+<area shape=rect	coords=1347,1298,1393,1315	href="/dbget-bin/www_bget?K06624"	title="K06624 (CDKN1B)" />
+<area shape=rect	coords=1347,1171,1393,1188	href="/dbget-bin/www_bget?K09389"	title="K09389 (E2F2)" />
+<area shape=rect	coords=1347,1195,1393,1212	href="/dbget-bin/www_bget?K06620"	title="K06620 (E2F3)" />
+<area shape=rect	coords=1458,1653,1504,1670	href="/dbget-bin/www_bget?K16978"	title="K16978 (MIR126)" />
+<area shape=rect	coords=1458,1678,1504,1695	href="/dbget-bin/www_bget?K17002"	title="K17002 (MIR17)" />
+<area shape=rect	coords=1536,1653,1582,1670	href="/dbget-bin/www_bget?K15379"	title="K15379 (SLC45A3)" />
+<area shape=rect	coords=1536,1678,1582,1695	href="/dbget-bin/www_bget?K07606"	title="K07606 (VIM)" />
+<area shape=rect	coords=1536,1626,1582,1643	href="/dbget-bin/www_bget?K18050"	title="K18050 (PRKCE)" />
+<area shape=rect	coords=1347,1594,1393,1611	href="/dbget-bin/www_bget?K12561"	title="K12561 (MARCKS)" />
+<area shape=rect	coords=1347,1620,1393,1637	href="/dbget-bin/www_bget?K04671"	title="K04671 (BMPR2)" />
+<area shape=rect	coords=1458,1088,1504,1105	href="/dbget-bin/www_bget?K17377"	title="K17377 (MIR449A)" />
+<area shape=rect	coords=1458,1113,1504,1130	href="/dbget-bin/www_bget?K17129"	title="K17129 (MIR101)" />
+<area shape=rect	coords=1458,1138,1504,1155	href="/dbget-bin/www_bget?K17165"	title="K17165 (MIR23A)" />
+<area shape=rect	coords=1458,1251,1504,1268	href="/dbget-bin/www_bget?K16986"	title="K16986 (MIR15A)" />
+<area shape=rect	coords=1458,1379,1504,1396	href="/dbget-bin/www_bget?K17374"	title="K17374 (MIR331)" />
+<area shape=rect	coords=1536,1113,1582,1130	href="/dbget-bin/www_bget?K11430"	title="K11430 (EZH2)" />
+<area shape=rect	coords=1536,1138,1582,1155	href="/dbget-bin/www_bget?K01425"	title="K01425 (glsA)" />
+<area shape=rect	coords=1536,1251,1582,1268	href="/dbget-bin/www_bget?K04503"	title="K04503 (CCND1)" />
+<area shape=rect	coords=1536,1228,1582,1245	href="/dbget-bin/www_bget?K02161"	title="K02161 (BCL2)" />
+<area shape=rect	coords=1536,1276,1582,1293	href="/dbget-bin/www_bget?K00312"	title="K00312 (WNT3)" />
+<area shape=rect	coords=1536,1355,1582,1372	href="/dbget-bin/www_bget?K17390"	title="K17390 (CDCA5)" />
+<area shape=rect	coords=1536,1379,1582,1396	href="/dbget-bin/www_bget?K17387"	title="K17387 (KIF23)" />
+<area shape=rect	coords=1536,1405,1582,1422	href="/dbget-bin/www_bget?K05083"	title="K05083 (ERBB2)" />
+<area shape=rect	coords=1347,1235,1393,1252	href="/dbget-bin/www_bget?K06625"	title="K06625 (CDKN1A)" />
+<area shape=rect	coords=1347,1257,1393,1274	href="/dbget-bin/www_bget?K17454"	title="K17454 (E2F1)" />
+<area shape=rect	coords=286,1094,332,1111	href="/dbget-bin/www_bget?K17015+K17016+K17017"	title="K17015 (MIR200A), K17016 (MIR200B), K17017 (MIR200C)" />
+<area shape=rect	coords=364,1050,410,1067	href="/dbget-bin/www_bget?K11459"	title="K11459 (PCGF4)" />
+<area shape=rect	coords=364,1130,410,1147	href="/dbget-bin/www_bget?K17442"	title="K17442 (ZFPM2)" />
+<area shape=rect	coords=286,1173,332,1190	href="/dbget-bin/www_bget?K16980"	title="K16980 (MIRLET7)" />
+<area shape=rect	coords=364,1162,410,1179	href="/dbget-bin/www_bget?K02833+K07827+K07828"	title="K02833 (HRAS), K07827 (KRAS), K07828 (NRAS)" />
+<area shape=rect	coords=364,1187,410,1204	href="/dbget-bin/www_bget?K09283"	title="K09283 (HMGA2)" />
+<area shape=rect	coords=286,1252,332,1269	href="/dbget-bin/www_bget?K17110"	title="K17110 (MIR30A_D_E)" />
+<area shape=rect	coords=364,1240,410,1257	href="/dbget-bin/www_bget?K06493"	title="K06493 (ITGB3)" />
+<area shape=rect	coords=364,1265,410,1282	href="/dbget-bin/www_bget?K10577"	title="K10577 (UBE2I)" />
+<area shape=rect	coords=286,1282,332,1299	href="/dbget-bin/www_bget?K17015+K17016+K17017"	title="K17015 (MIR200A), K17016 (MIR200B), K17017 (MIR200C)" />
+<area shape=rect	coords=286,1307,332,1324	href="/dbget-bin/www_bget?K16980"	title="K16980 (MIRLET7)" />
+<area shape=rect	coords=97,1239,143,1256	href="/dbget-bin/www_bget?K17025+K17026+K17027+K17028"	title="K17025 (MIR181A), K17026 (MIR181B), K17027 (MIR181C), K17028 (MIR181D)" />
+<area shape=rect	coords=175,1239,221,1256	href="/dbget-bin/www_bget?K04728"	title="K04728 (ATM)" />
+<area shape=rect	coords=97,1270,143,1287	href="/dbget-bin/www_bget?K17009"	title="K17009 (MIR155)" />
+<area shape=rect	coords=175,1271,221,1288	href="/dbget-bin/www_bget?K04694"	title="K04694 (SOCS1)" />
+<area shape=rect	coords=286,1353,332,1370	href="/dbget-bin/www_bget?K17033"	title="K17033 (MIR335)" />
+<area shape=rect	coords=364,1370,410,1387	href="/dbget-bin/www_bget?K06252"	title="K06252 (TN)" />
+<area shape=rect	coords=286,1389,332,1406	href="/dbget-bin/www_bget?K16978"	title="K16978 (MIR126)" />
+<area shape=rect	coords=286,1416,330,1433	href="/dbget-bin/www_bget?K16973"	title="K16973 (MIR206)" />
+<area shape=rect	coords=286,1442,332,1459	href="/dbget-bin/www_bget?K17015+K17016+K17017"	title="K17015 (MIR200A), K17016 (MIR200B), K17017 (MIR200C)" />
+<area shape=rect	coords=286,1468,332,1485	href="/dbget-bin/www_bget?K16980"	title="K16980 (MIRLET7)" />
+<area shape=rect	coords=97,1354,143,1371	href="/dbget-bin/www_bget?K17393"	title="K17393 (MIR10B)" />
+<area shape=rect	coords=175,1354,221,1371	href="/dbget-bin/www_bget?K09295"	title="K09295 (HOXD10)" />
+<area shape=rect	coords=97,1384,143,1401	href="/dbget-bin/www_bget?K17000"	title="K17000 (MIR373)" />
+<area shape=rect	coords=97,1410,143,1427	href="/dbget-bin/www_bget?K17175"	title="K17175 (MIR520)" />
+<area shape=rect	coords=175,1396,221,1413	href="/dbget-bin/www_bget?K06256"	title="K06256 (CD44)" />
+<area shape=rect	coords=97,1442,143,1459	href="/dbget-bin/www_bget?K16989"	title="K16989 (MIR103)" />
+<area shape=rect	coords=97,1467,143,1484	href="/dbget-bin/www_bget?K17396"	title="K17396 (MIR107)" />
+<area shape=rect	coords=175,1454,221,1471	href="/dbget-bin/www_bget?K11592"	title="K11592 (DICER1)" />
+<area shape=rect	coords=97,1520,143,1537	href="/dbget-bin/www_bget?K16863"	title="K16863 (MIR21)" />
+<area shape=rect	coords=175,1495,221,1512	href="/dbget-bin/www_bget?K10373"	title="K10373 (TPM1)" />
+<area shape=rect	coords=175,1519,221,1536	href="/dbget-bin/www_bget?K16865"	title="K16865 (PDCD4)" />
+<area shape=rect	coords=175,1544,221,1561	href="/dbget-bin/www_bget?K10139"	title="K10139 (SERPINB5)" />
+<area shape=rect	coords=97,1619,143,1636	href="/dbget-bin/www_bget?K17183"	title="K17183 (MIR31)" />
+<area shape=rect	coords=175,1580,221,1597	href="/dbget-bin/www_bget?K02329"	title="K02329 (FZD3)" />
+<area shape=rect	coords=175,1605,221,1622	href="/dbget-bin/www_bget?K06484"	title="K06484 (ITGA5)" />
+<area shape=rect	coords=175,1629,221,1646	href="/dbget-bin/www_bget?K05762"	title="K05762 (RDX)" />
+<area shape=rect	coords=175,1654,221,1671	href="/dbget-bin/www_bget?K04513"	title="K04513 (RHOA)" />
+<area shape=rect	coords=97,1689,143,1706	href="/dbget-bin/www_bget?K17148"	title="K17148 (MIR193B)" />
+<area shape=rect	coords=175,1689,221,1706	href="/dbget-bin/www_bget?K01348"	title="K01348 (PLAU)" />
+<area shape=rect	coords=97,1737,143,1754	href="/dbget-bin/www_bget?K17010"	title="K17010 (MIR221)" />
+<area shape=rect	coords=97,1764,143,1781	href="/dbget-bin/www_bget?K17011"	title="K17011 (MIR222)" />
+<area shape=rect	coords=175,1751,221,1768	href="/dbget-bin/www_bget?K06624"	title="K06624 (CDKN1B)" />
+<area shape=rect	coords=97,1792,143,1809	href="/dbget-bin/www_bget?K16994"	title="K16994 (MIR125B)" />
+<area shape=rect	coords=175,1793,221,1810	href="/dbget-bin/www_bget?K14021"	title="K14021 (BAK)" />
+<area shape=rect	coords=286,1734,332,1751	href="/dbget-bin/www_bget?K17172"	title="K17172 (MIR451)" />
+<area shape=rect	coords=364,1734,410,1751	href="/dbget-bin/www_bget?K05658"	title="K05658 (ABCB1)" />
+<area shape=rect	coords=286,1767,332,1784	href="/dbget-bin/www_bget?K17375"	title="K17375 (MIR345)" />
+<area shape=rect	coords=286,1794,332,1811	href="/dbget-bin/www_bget?K17365"	title="K17365 (MIR7)" />
+<area shape=rect	coords=364,1781,410,1798	href="/dbget-bin/www_bget?K05665"	title="K05665 (ABCC1)" />
+<area shape=rect	coords=489,1742,535,1759	href="/dbget-bin/www_bget?K17015+K17016+K17017"	title="K17015 (MIR200A), K17016 (MIR200B), K17017 (MIR200C)" />
+<area shape=rect	coords=678,1660,724,1677	href="/dbget-bin/www_bget?K17015+K17016+K17017"	title="K17015 (MIR200A), K17016 (MIR200B), K17017 (MIR200C)" />
+<area shape=rect	coords=756,1063,802,1080	href="/dbget-bin/www_bget?K09283"	title="K09283 (HMGA2)" />
+<area shape=rect	coords=756,1087,802,1104	href="/dbget-bin/www_bget?K17391"	title="K17391 (IGF2BP1)" />
+<area shape=rect	coords=756,1110,802,1127	href="/dbget-bin/www_bget?K12035"	title="K12035 (TRIM71)" />
+<area shape=rect	coords=678,1087,724,1104	href="/dbget-bin/www_bget?K16980"	title="K16980 (MIRLET7)" />
+<area shape=rect	coords=678,1144,724,1161	href="/dbget-bin/www_bget?K17015+K17016+K17017"	title="K17015 (MIR200A), K17016 (MIR200B), K17017 (MIR200C)" />
+<area shape=rect	coords=678,1255,724,1272	href="/dbget-bin/www_bget?K17023"	title="K17023 (MIR143)" />
+<area shape=rect	coords=678,1281,724,1298	href="/dbget-bin/www_bget?K16982"	title="K16982 (MIR34A)" />
+<area shape=rect	coords=678,1385,724,1402	href="/dbget-bin/www_bget?K16993+K16994"	title="K16993 (MIR125A), K16994 (MIR125B)" />
+<area shape=rect	coords=756,1255,802,1272	href="/dbget-bin/www_bget?K07827"	title="K07827 (KRAS)" />
+<area shape=rect	coords=756,1291,802,1308	href="/dbget-bin/www_bget?K05099"	title="K05099 (MET)" />
+<area shape=rect	coords=756,1315,802,1332	href="/dbget-bin/www_bget?K02599+K20994+K20995+K20996"	title="K02599 (NOTCH1), K20994 (NOTCH2), K20995 (NOTCH3), K20996 (NOTCH4)" />
+<area shape=rect	coords=756,1339,802,1356	href="/dbget-bin/www_bget?K02091"	title="K02091 (CDK6)" />
+<area shape=rect	coords=756,1385,802,1402	href="/dbget-bin/www_bget?K05083"	title="K05083 (ERBB2)" />
+<area shape=rect	coords=489,1257,535,1274	href="/dbget-bin/www_bget?K16863"	title="K16863 (MIR21)" />
+<area shape=rect	coords=489,1289,535,1306	href="/dbget-bin/www_bget?K17151"	title="K17151 (MIR214)" />
+<area shape=rect	coords=489,1320,535,1337	href="/dbget-bin/www_bget?K16980"	title="K16980 (MIRLET7)" />
+<area shape=rect	coords=489,1352,535,1369	href="/dbget-bin/www_bget?K17015+K17016+K17017"	title="K17015 (MIR200A), K17016 (MIR200B), K17017 (MIR200C)" />
+<area shape=rect	coords=567,1273,613,1290	href="/dbget-bin/www_bget?K01110"	title="K01110 (PTEN)" />
+<area shape=rect	coords=567,1320,613,1337	href="/dbget-bin/www_bget?K09283"	title="K09283 (HMGA2)" />
+<area shape=rect	coords=489,1383,535,1400	href="/dbget-bin/www_bget?K17012"	title="K17012 (MIR146A)" />
+<area shape=rect	coords=567,1383,613,1400	href="/dbget-bin/www_bget?K10605"	title="K10605 (BRCA1)" />
+<area shape=rect	coords=489,1415,535,1432	href="/dbget-bin/www_bget?K17035"	title="K17035 (MIR106B)" />
+<area shape=rect	coords=489,1445,535,1462	href="/dbget-bin/www_bget?K17006"	title="K17006 (MIR20A)" />
+<area shape=rect	coords=567,1431,613,1448	href="/dbget-bin/www_bget?K06625"	title="K06625 (CDKN1A)" />
+<area shape=rect	coords=678,1525,724,1542	href="/dbget-bin/www_bget?K16977"	title="K16977 (MIR9)" />
+<area shape=rect	coords=756,1525,802,1542	href="/dbget-bin/www_bget?K02580"	title="K02580 (NFKB1)" />
+<area shape=rect	coords=678,1570,724,1587	href="/dbget-bin/www_bget?K17118"	title="K17118 (MIR199A)" />
+<area shape=rect	coords=756,1555,802,1572	href="/dbget-bin/www_bget?K07209"	title="K07209 (IKBKB)" />
+<area shape=rect	coords=489,1525,535,1542	href="/dbget-bin/www_bget?K17178"	title="K17178 (MIR210)" />
+<area shape=rect	coords=567,1525,613,1542	href="/dbget-bin/www_bget?K06620"	title="K06620 (E2F3)" />
+<area shape=rect	coords=567,1586,613,1603	href="/dbget-bin/www_bget?K16857"	title="K16857 (THBS1)" />
+<area shape=rect	coords=756,1586,802,1603	href="/dbget-bin/www_bget?K11987"	title="K11987 (PTGS2)" />
+<area shape=rect	coords=1072,1091,1118,1108	href="/dbget-bin/www_bget?K17367"	title="K17367 (MIR99A)" />
+<area shape=rect	coords=1072,1114,1118,1131	href="/dbget-bin/www_bget?K17041"	title="K17041 (MIR100)" />
+<area shape=rect	coords=1072,1180,1118,1197	href="/dbget-bin/www_bget?K17129"	title="K17129 (MIR101)" />
+<area shape=rect	coords=1072,1215,1118,1232	href="/dbget-bin/www_bget?K16993+K16994"	title="K16993 (MIR125A), K16994 (MIR125B)" />
+<area shape=rect	coords=1072,1242,1118,1259	href="/dbget-bin/www_bget?K16974"	title="K16974 (MIR145)" />
+<area shape=rect	coords=1072,1295,1118,1312	href="/dbget-bin/www_bget?K17029"	title="K17029 (MIR195)" />
+<area shape=rect	coords=1072,1327,1118,1344	href="/dbget-bin/www_bget?K17365"	title="K17365 (MIR7)" />
+<area shape=rect	coords=1072,1357,1118,1374	href="/dbget-bin/www_bget?K17110+K17111+K17040"	title="K17110 (MIR30A_D_E), K17111 (MIR30B), K17040 (MIR30C)" />
+<area shape=rect	coords=1072,1386,1118,1403	href="/dbget-bin/www_bget?K17368"	title="K17368 (MIR129)" />
+<area shape=rect	coords=1072,1426,1118,1443	href="/dbget-bin/www_bget?K17023"	title="K17023 (MIR143)" />
+<area shape=rect	coords=1072,1144,1118,1161	href="/dbget-bin/www_bget?K16995+K16996+K16997"	title="K16995 (MIR29A), K16996 (MIR29B), K16997 (MIR29C)" />
+<area shape=rect	coords=883,1175,929,1192	href="/dbget-bin/www_bget?K16864+K17393"	title="K16864 (MIR10A), K17393 (MIR10B)" />
+<area shape=rect	coords=883,1315,929,1332	href="/dbget-bin/www_bget?K17165"	title="K17165 (MIR23A)" />
+<area shape=rect	coords=883,1401,929,1418	href="/dbget-bin/www_bget?K16989"	title="K16989 (MIR103)" />
+<area shape=rect	coords=961,1122,1007,1139	href="/dbget-bin/www_bget?K09850"	title="K09850 (RASSF1)" />
+<area shape=rect	coords=961,1174,1007,1191	href="/dbget-bin/www_bget?K02677+K19662+K19663"	title="K02677 (PRKCA), K19662 (PRKCB), K19663 (PRKCG)" />
+<area shape=rect	coords=961,1201,1007,1218	href="/dbget-bin/www_bget?K04364"	title="K04364 (GRB2)" />
+<area shape=rect	coords=961,1227,1007,1244	href="/dbget-bin/www_bget?K05094"	title="K05094 (FGFR3)" />
+<area shape=rect	coords=961,1328,1007,1345	href="/dbget-bin/www_bget?K05094"	title="K05094 (FGFR3)" />
+<area shape=rect	coords=961,1377,1007,1394	href="/dbget-bin/www_bget?K04445"	title="K04445 (RPS6KA5)" />
+<area shape=rect	coords=961,1402,1007,1419	href="/dbget-bin/www_bget?K02677+K19662+K19663"	title="K02677 (PRKCA), K19662 (PRKCB), K19663 (PRKCG)" />
+<area shape=rect	coords=961,1427,1007,1444	href="/dbget-bin/www_bget?K05094"	title="K05094 (FGFR3)" />
+<area shape=rect	coords=1072,1627,1118,1644	href="/dbget-bin/www_bget?K17110+K17111+K17040"	title="K17110 (MIR30A_D_E), K17111 (MIR30B), K17040 (MIR30C)" />
+<area shape=rect	coords=1152,1614,1198,1631	href="/dbget-bin/www_bget?K04728"	title="K04728 (ATM)" />
+<area shape=rect	coords=1152,1641,1198,1658	href="/dbget-bin/www_bget?K04451"	title="K04451 (TP53)" />
+<area shape=rect	coords=1072,1679,1118,1696	href="/dbget-bin/www_bget?K16993+K16994"	title="K16993 (MIR125A), K16994 (MIR125B)" />
+<area shape=rect	coords=1152,1667,1198,1684	href="/dbget-bin/www_bget?K06621"	title="K06621 (CDKN2A)" />
+<area shape=rect	coords=1152,1694,1198,1711	href="/dbget-bin/www_bget?K04451"	title="K04451 (TP53)" />
+<area shape=rect	coords=1072,1739,1118,1756	href="/dbget-bin/www_bget?K17023"	title="K17023 (MIR143)" />
+<area shape=rect	coords=1152,1727,1198,1744	href="/dbget-bin/www_bget?K04728"	title="K04728 (ATM)" />
+<area shape=rect	coords=1152,1753,1198,1770	href="/dbget-bin/www_bget?K04451"	title="K04451 (TP53)" />
+<area shape=rect	coords=1072,1799,1118,1816	href="/dbget-bin/www_bget?K17368"	title="K17368 (MIR129)" />
+<area shape=rect	coords=1152,1786,1198,1803	href="/dbget-bin/www_bget?K10127"	title="K10127 (MDM4)" />
+<area shape=rect	coords=1152,1814,1198,1831	href="/dbget-bin/www_bget?K04728"	title="K04728 (ATM)" />
+<area shape=rect	coords=883,1636,929,1653	href="/dbget-bin/www_bget?K16863"	title="K16863 (MIR21)" />
+<area shape=rect	coords=961,1636,1007,1653	href="/dbget-bin/www_bget?K04728"	title="K04728 (ATM)" />
+<area shape=rect	coords=883,1669,929,1686	href="/dbget-bin/www_bget?K17001"	title="K17001 (MIR223)" />
+<area shape=rect	coords=961,1669,1007,1686	href="/dbget-bin/www_bget?K04451"	title="K04451 (TP53)" />
+<area shape=rect	coords=883,1739,929,1756	href="/dbget-bin/www_bget?K16864+K17393"	title="K16864 (MIR10A), K17393 (MIR10B)" />
+<area shape=rect	coords=961,1726,1007,1743	href="/dbget-bin/www_bget?K04728"	title="K04728 (ATM)" />
+<area shape=rect	coords=961,1750,1007,1767	href="/dbget-bin/www_bget?K06643+K10127"	title="K06643 (MDM2), K10127 (MDM4)" />
+<area shape=rect	coords=883,1796,929,1813	href="/dbget-bin/www_bget?K17010"	title="K17010 (MIR221)" />
+<area shape=rect	coords=961,1784,1007,1801	href="/dbget-bin/www_bget?K04728"	title="K04728 (ATM)" />
+<area shape=rect	coords=961,1809,1007,1826	href="/dbget-bin/www_bget?K06643"	title="K06643 (MDM2)" />
+<area shape=rect	coords=1152,1180,1198,1197	href="/dbget-bin/www_bget?K05094"	title="K05094 (FGFR3)" />
+<area shape=rect	coords=1152,1103,1198,1120	href="/dbget-bin/www_bget?K04363"	title="K04363 (PDGFRA)" />
+<area shape=rect	coords=1152,1144,1198,1161	href="/dbget-bin/www_bget?K01116+K05859"	title="K01116 (PLCG1), K05859 (PLCG2)" />
+<area shape=rect	coords=1152,1205,1198,1222	href="/dbget-bin/www_bget?K04366"	title="K04366 (RAF1)" />
+<area shape=rect	coords=1152,1230,1198,1247	href="/dbget-bin/www_bget?K07827"	title="K07827 (KRAS)" />
+<area shape=rect	coords=1152,1254,1198,1271	href="/dbget-bin/www_bget?K02677+K19662+K19663"	title="K02677 (PRKCA), K19662 (PRKCB), K19663 (PRKCG)" />
+<area shape=rect	coords=1152,1278,1198,1295	href="/dbget-bin/www_bget?K04368+K04369"	title="K04368 (MAP2K1), K04369 (MAP2K2)" />
+<area shape=rect	coords=1152,1324,1198,1341	href="/dbget-bin/www_bget?K03099"	title="K03099 (SOS)" />
+<area shape=rect	coords=1152,1350,1198,1367	href="/dbget-bin/www_bget?K04364"	title="K04364 (GRB2)" />
+<area shape=rect	coords=1152,1376,1198,1393	href="/dbget-bin/www_bget?K06279"	title="K06279 (SHC1)" />
+<area shape=rect	coords=1152,1401,1198,1418	href="/dbget-bin/www_bget?K01116+K05859"	title="K01116 (PLCG1), K05859 (PLCG2)" />
+<area shape=rect	coords=1152,1424,1198,1441	href="/dbget-bin/www_bget?K04359"	title="K04359 (PDGFA)" />
+<area shape=rect	coords=1152,1451,1198,1468	href="/dbget-bin/www_bget?K17449"	title="K17449 (SHC4)" />
+<area shape=rect	coords=1152,1476,1198,1493	href="/dbget-bin/www_bget?K17386"	title="K17386 (PDGFB)" />
+<area shape=rect	coords=1152,1499,1198,1516	href="/dbget-bin/www_bget?K05089"	title="K05089 (PDGFRB)" />
+<area shape=rect	coords=1152,1523,1198,1540	href="/dbget-bin/www_bget?K07827"	title="K07827 (KRAS)" />
+<area shape=rect	coords=1152,1548,1198,1565	href="/dbget-bin/www_bget?K04366"	title="K04366 (RAF1)" />
+<area shape=rect	coords=179,230,225,247	href="/dbget-bin/www_bget?K01110"	title="K01110 (PTEN)" />
+<area shape=rect	coords=368,811,414,828	href="/dbget-bin/www_bget?K04361"	title="K04361 (EGFR)" />
+<area shape=rect	coords=961,233,1007,250	href="/dbget-bin/www_bget?K17460"	title="K17460 (BMF)" />
+<area shape=rect	coords=1458,1524,1504,1541	href="/dbget-bin/www_bget?K17389"	title="K17389 (MIR520C)" />
+<area shape=rect	coords=40,45,231,70	href="/dbget-bin/www_bget?ko05206"	title="ko05206: MicroRNAs in cancer" onmouseover="popupTimer(&quot;ko05206&quot;, &quot;ko05206: MicroRNAs in cancer&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=0,0,1,1	href="/kegg-bin/show_pathway?ko05210"	title="ko05210: Colorectal cancer" onmouseover="popupTimer(&quot;ko05210&quot;, &quot;ko05210: Colorectal cancer&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=0,0,1,1	href="/kegg-bin/show_pathway?ko05214"	title="ko05214: Glioma" onmouseover="popupTimer(&quot;ko05214&quot;, &quot;ko05214: Glioma&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=1288,280,1389,305	href="/kegg-bin/show_pathway?ko05210"	title="ko05210: Colorectal cancer" onmouseover="popupTimer(&quot;ko05210&quot;, &quot;ko05210: Colorectal cancer&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=1288,775,1389,800	href="/kegg-bin/show_pathway?ko05214"	title="ko05214: Glioma" onmouseover="popupTimer(&quot;ko05214&quot;, &quot;ko05214: Glioma&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=0,0,1,1	href="/kegg-bin/show_pathway?ko05219"	title="ko05219: Bladder cancer" onmouseover="popupTimer(&quot;ko05219&quot;, &quot;ko05219: Bladder cancer&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=1289,1515,1390,1540	href="/kegg-bin/show_pathway?ko05215"	title="ko05215: Prostate cancer" onmouseover="popupTimer(&quot;ko05215&quot;, &quot;ko05215: Prostate cancer&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=891,1515,992,1540	href="/kegg-bin/show_pathway?ko05219"	title="ko05219: Bladder cancer" onmouseover="popupTimer(&quot;ko05219&quot;, &quot;ko05219: Bladder cancer&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=110,344,211,378	href="/kegg-bin/show_pathway?ko05222"	title="ko05222: Small cell lung cancer" onmouseover="popupTimer(&quot;ko05222&quot;, &quot;ko05222: Small cell lung cancer&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=110,397,211,431	href="/kegg-bin/show_pathway?ko05223"	title="ko05223: Non-small cell lung cancer" onmouseover="popupTimer(&quot;ko05223&quot;, &quot;ko05223: Non-small cell lung cancer&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

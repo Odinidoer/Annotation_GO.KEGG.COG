@@ -1,0 +1,825 @@
+path:mmp00010	Glycolysis / Gluconeogenesis - Methanococcus maripaludis S2
+path:mmp00020	Citrate cycle (TCA cycle) - Methanococcus maripaludis S2
+path:mmp00030	Pentose phosphate pathway - Methanococcus maripaludis S2
+path:mmp00040	Pentose and glucuronate interconversions - Methanococcus maripaludis S2
+path:mmp00051	Fructose and mannose metabolism - Methanococcus maripaludis S2
+path:mmp00052	Galactose metabolism - Methanococcus maripaludis S2
+path:mmp00071	Fatty acid degradation - Methanococcus maripaludis S2
+path:mmp00072	Synthesis and degradation of ketone bodies - Methanococcus maripaludis S2
+path:mmp00190	Oxidative phosphorylation - Methanococcus maripaludis S2
+path:mmp00220	Arginine biosynthesis - Methanococcus maripaludis S2
+path:mmp00230	Purine metabolism - Methanococcus maripaludis S2
+path:mmp00240	Pyrimidine metabolism - Methanococcus maripaludis S2
+path:mmp00250	Alanine, aspartate and glutamate metabolism - Methanococcus maripaludis S2
+path:mmp00260	Glycine, serine and threonine metabolism - Methanococcus maripaludis S2
+path:mmp00261	Monobactam biosynthesis - Methanococcus maripaludis S2
+path:mmp00270	Cysteine and methionine metabolism - Methanococcus maripaludis S2
+path:mmp00280	Valine, leucine and isoleucine degradation - Methanococcus maripaludis S2
+path:mmp00290	Valine, leucine and isoleucine biosynthesis - Methanococcus maripaludis S2
+path:mmp00300	Lysine biosynthesis - Methanococcus maripaludis S2
+path:mmp00310	Lysine degradation - Methanococcus maripaludis S2
+path:mmp00330	Arginine and proline metabolism - Methanococcus maripaludis S2
+path:mmp00340	Histidine metabolism - Methanococcus maripaludis S2
+path:mmp00350	Tyrosine metabolism - Methanococcus maripaludis S2
+path:mmp00360	Phenylalanine metabolism - Methanococcus maripaludis S2
+path:mmp00362	Benzoate degradation - Methanococcus maripaludis S2
+path:mmp00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Methanococcus maripaludis S2
+path:mmp00401	Novobiocin biosynthesis - Methanococcus maripaludis S2
+path:mmp00410	beta-Alanine metabolism - Methanococcus maripaludis S2
+path:mmp00450	Selenocompound metabolism - Methanococcus maripaludis S2
+path:mmp00480	Glutathione metabolism - Methanococcus maripaludis S2
+path:mmp00500	Starch and sucrose metabolism - Methanococcus maripaludis S2
+path:mmp00520	Amino sugar and nucleotide sugar metabolism - Methanococcus maripaludis S2
+path:mmp00564	Glycerophospholipid metabolism - Methanococcus maripaludis S2
+path:mmp00620	Pyruvate metabolism - Methanococcus maripaludis S2
+path:mmp00625	Chloroalkane and chloroalkene degradation - Methanococcus maripaludis S2
+path:mmp00626	Naphthalene degradation - Methanococcus maripaludis S2
+path:mmp00630	Glyoxylate and dicarboxylate metabolism - Methanococcus maripaludis S2
+path:mmp00633	Nitrotoluene degradation - Methanococcus maripaludis S2
+path:mmp00640	Propanoate metabolism - Methanococcus maripaludis S2
+path:mmp00650	Butanoate metabolism - Methanococcus maripaludis S2
+path:mmp00660	C5-Branched dibasic acid metabolism - Methanococcus maripaludis S2
+path:mmp00670	One carbon pool by folate - Methanococcus maripaludis S2
+path:mmp00680	Methane metabolism - Methanococcus maripaludis S2
+path:mmp00720	Carbon fixation pathways in prokaryotes - Methanococcus maripaludis S2
+path:mmp00730	Thiamine metabolism - Methanococcus maripaludis S2
+path:mmp00740	Riboflavin metabolism - Methanococcus maripaludis S2
+path:mmp00750	Vitamin B6 metabolism - Methanococcus maripaludis S2
+path:mmp00760	Nicotinate and nicotinamide metabolism - Methanococcus maripaludis S2
+path:mmp00770	Pantothenate and CoA biosynthesis - Methanococcus maripaludis S2
+path:mmp00780	Biotin metabolism - Methanococcus maripaludis S2
+path:mmp00790	Folate biosynthesis - Methanococcus maripaludis S2
+path:mmp00860	Porphyrin and chlorophyll metabolism - Methanococcus maripaludis S2
+path:mmp00900	Terpenoid backbone biosynthesis - Methanococcus maripaludis S2
+path:mmp00910	Nitrogen metabolism - Methanococcus maripaludis S2
+path:mmp00920	Sulfur metabolism - Methanococcus maripaludis S2
+path:mmp00970	Aminoacyl-tRNA biosynthesis - Methanococcus maripaludis S2
+path:mmp01054	Nonribosomal peptide structures - Methanococcus maripaludis S2
+path:mmp01100	Metabolic pathways - Methanococcus maripaludis S2
+path:mmp01110	Biosynthesis of secondary metabolites - Methanococcus maripaludis S2
+path:mmp01120	Microbial metabolism in diverse environments - Methanococcus maripaludis S2
+path:mmp01130	Biosynthesis of antibiotics - Methanococcus maripaludis S2
+path:mmp01200	Carbon metabolism - Methanococcus maripaludis S2
+path:mmp01210	2-Oxocarboxylic acid metabolism - Methanococcus maripaludis S2
+path:mmp01212	Fatty acid metabolism - Methanococcus maripaludis S2
+path:mmp01220	Degradation of aromatic compounds - Methanococcus maripaludis S2
+path:mmp01230	Biosynthesis of amino acids - Methanococcus maripaludis S2
+path:mmp01502	Vancomycin resistance - Methanococcus maripaludis S2
+path:mmp02010	ABC transporters - Methanococcus maripaludis S2
+path:mmp02020	Two-component system - Methanococcus maripaludis S2
+path:mmp02024	Quorum sensing - Methanococcus maripaludis S2
+path:mmp02030	Bacterial chemotaxis - Methanococcus maripaludis S2
+path:mmp03010	Ribosome - Methanococcus maripaludis S2
+path:mmp03015	mRNA surveillance pathway - Methanococcus maripaludis S2
+path:mmp03018	RNA degradation - Methanococcus maripaludis S2
+path:mmp03020	RNA polymerase - Methanococcus maripaludis S2
+path:mmp03022	Basal transcription factors - Methanococcus maripaludis S2
+path:mmp03030	DNA replication - Methanococcus maripaludis S2
+path:mmp03050	Proteasome - Methanococcus maripaludis S2
+path:mmp03060	Protein export - Methanococcus maripaludis S2
+path:mmp03070	Bacterial secretion system - Methanococcus maripaludis S2
+path:mmp03410	Base excision repair - Methanococcus maripaludis S2
+path:mmp03420	Nucleotide excision repair - Methanococcus maripaludis S2
+path:mmp03430	Mismatch repair - Methanococcus maripaludis S2
+path:mmp03440	Homologous recombination - Methanococcus maripaludis S2
+path:mmp04122	Sulfur relay system - Methanococcus maripaludis S2
+path:mmq00010	Glycolysis / Gluconeogenesis - Methanococcus maripaludis C5
+path:mmq00020	Citrate cycle (TCA cycle) - Methanococcus maripaludis C5
+path:mmq00030	Pentose phosphate pathway - Methanococcus maripaludis C5
+path:mmq00040	Pentose and glucuronate interconversions - Methanococcus maripaludis C5
+path:mmq00051	Fructose and mannose metabolism - Methanococcus maripaludis C5
+path:mmq00052	Galactose metabolism - Methanococcus maripaludis C5
+path:mmq00071	Fatty acid degradation - Methanococcus maripaludis C5
+path:mmq00072	Synthesis and degradation of ketone bodies - Methanococcus maripaludis C5
+path:mmq00190	Oxidative phosphorylation - Methanococcus maripaludis C5
+path:mmq00220	Arginine biosynthesis - Methanococcus maripaludis C5
+path:mmq00230	Purine metabolism - Methanococcus maripaludis C5
+path:mmq00240	Pyrimidine metabolism - Methanococcus maripaludis C5
+path:mmq00250	Alanine, aspartate and glutamate metabolism - Methanococcus maripaludis C5
+path:mmq00260	Glycine, serine and threonine metabolism - Methanococcus maripaludis C5
+path:mmq00261	Monobactam biosynthesis - Methanococcus maripaludis C5
+path:mmq00270	Cysteine and methionine metabolism - Methanococcus maripaludis C5
+path:mmq00280	Valine, leucine and isoleucine degradation - Methanococcus maripaludis C5
+path:mmq00290	Valine, leucine and isoleucine biosynthesis - Methanococcus maripaludis C5
+path:mmq00300	Lysine biosynthesis - Methanococcus maripaludis C5
+path:mmq00310	Lysine degradation - Methanococcus maripaludis C5
+path:mmq00330	Arginine and proline metabolism - Methanococcus maripaludis C5
+path:mmq00340	Histidine metabolism - Methanococcus maripaludis C5
+path:mmq00350	Tyrosine metabolism - Methanococcus maripaludis C5
+path:mmq00360	Phenylalanine metabolism - Methanococcus maripaludis C5
+path:mmq00362	Benzoate degradation - Methanococcus maripaludis C5
+path:mmq00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Methanococcus maripaludis C5
+path:mmq00401	Novobiocin biosynthesis - Methanococcus maripaludis C5
+path:mmq00410	beta-Alanine metabolism - Methanococcus maripaludis C5
+path:mmq00450	Selenocompound metabolism - Methanococcus maripaludis C5
+path:mmq00480	Glutathione metabolism - Methanococcus maripaludis C5
+path:mmq00500	Starch and sucrose metabolism - Methanococcus maripaludis C5
+path:mmq00520	Amino sugar and nucleotide sugar metabolism - Methanococcus maripaludis C5
+path:mmq00521	Streptomycin biosynthesis - Methanococcus maripaludis C5
+path:mmq00523	Polyketide sugar unit biosynthesis - Methanococcus maripaludis C5
+path:mmq00525	Acarbose and validamycin biosynthesis - Methanococcus maripaludis C5
+path:mmq00564	Glycerophospholipid metabolism - Methanococcus maripaludis C5
+path:mmq00620	Pyruvate metabolism - Methanococcus maripaludis C5
+path:mmq00630	Glyoxylate and dicarboxylate metabolism - Methanococcus maripaludis C5
+path:mmq00633	Nitrotoluene degradation - Methanococcus maripaludis C5
+path:mmq00640	Propanoate metabolism - Methanococcus maripaludis C5
+path:mmq00650	Butanoate metabolism - Methanococcus maripaludis C5
+path:mmq00660	C5-Branched dibasic acid metabolism - Methanococcus maripaludis C5
+path:mmq00670	One carbon pool by folate - Methanococcus maripaludis C5
+path:mmq00680	Methane metabolism - Methanococcus maripaludis C5
+path:mmq00720	Carbon fixation pathways in prokaryotes - Methanococcus maripaludis C5
+path:mmq00730	Thiamine metabolism - Methanococcus maripaludis C5
+path:mmq00740	Riboflavin metabolism - Methanococcus maripaludis C5
+path:mmq00750	Vitamin B6 metabolism - Methanococcus maripaludis C5
+path:mmq00760	Nicotinate and nicotinamide metabolism - Methanococcus maripaludis C5
+path:mmq00770	Pantothenate and CoA biosynthesis - Methanococcus maripaludis C5
+path:mmq00780	Biotin metabolism - Methanococcus maripaludis C5
+path:mmq00790	Folate biosynthesis - Methanococcus maripaludis C5
+path:mmq00860	Porphyrin and chlorophyll metabolism - Methanococcus maripaludis C5
+path:mmq00900	Terpenoid backbone biosynthesis - Methanococcus maripaludis C5
+path:mmq00910	Nitrogen metabolism - Methanococcus maripaludis C5
+path:mmq00920	Sulfur metabolism - Methanococcus maripaludis C5
+path:mmq00970	Aminoacyl-tRNA biosynthesis - Methanococcus maripaludis C5
+path:mmq01100	Metabolic pathways - Methanococcus maripaludis C5
+path:mmq01110	Biosynthesis of secondary metabolites - Methanococcus maripaludis C5
+path:mmq01120	Microbial metabolism in diverse environments - Methanococcus maripaludis C5
+path:mmq01130	Biosynthesis of antibiotics - Methanococcus maripaludis C5
+path:mmq01200	Carbon metabolism - Methanococcus maripaludis C5
+path:mmq01210	2-Oxocarboxylic acid metabolism - Methanococcus maripaludis C5
+path:mmq01212	Fatty acid metabolism - Methanococcus maripaludis C5
+path:mmq01220	Degradation of aromatic compounds - Methanococcus maripaludis C5
+path:mmq01230	Biosynthesis of amino acids - Methanococcus maripaludis C5
+path:mmq01502	Vancomycin resistance - Methanococcus maripaludis C5
+path:mmq02010	ABC transporters - Methanococcus maripaludis C5
+path:mmq02020	Two-component system - Methanococcus maripaludis C5
+path:mmq02024	Quorum sensing - Methanococcus maripaludis C5
+path:mmq02030	Bacterial chemotaxis - Methanococcus maripaludis C5
+path:mmq03010	Ribosome - Methanococcus maripaludis C5
+path:mmq03015	mRNA surveillance pathway - Methanococcus maripaludis C5
+path:mmq03018	RNA degradation - Methanococcus maripaludis C5
+path:mmq03020	RNA polymerase - Methanococcus maripaludis C5
+path:mmq03022	Basal transcription factors - Methanococcus maripaludis C5
+path:mmq03030	DNA replication - Methanococcus maripaludis C5
+path:mmq03050	Proteasome - Methanococcus maripaludis C5
+path:mmq03060	Protein export - Methanococcus maripaludis C5
+path:mmq03070	Bacterial secretion system - Methanococcus maripaludis C5
+path:mmq03410	Base excision repair - Methanococcus maripaludis C5
+path:mmq03420	Nucleotide excision repair - Methanococcus maripaludis C5
+path:mmq03430	Mismatch repair - Methanococcus maripaludis C5
+path:mmq04122	Sulfur relay system - Methanococcus maripaludis C5
+path:mmx00010	Glycolysis / Gluconeogenesis - Methanococcus maripaludis C6
+path:mmx00020	Citrate cycle (TCA cycle) - Methanococcus maripaludis C6
+path:mmx00030	Pentose phosphate pathway - Methanococcus maripaludis C6
+path:mmx00040	Pentose and glucuronate interconversions - Methanococcus maripaludis C6
+path:mmx00051	Fructose and mannose metabolism - Methanococcus maripaludis C6
+path:mmx00052	Galactose metabolism - Methanococcus maripaludis C6
+path:mmx00071	Fatty acid degradation - Methanococcus maripaludis C6
+path:mmx00072	Synthesis and degradation of ketone bodies - Methanococcus maripaludis C6
+path:mmx00190	Oxidative phosphorylation - Methanococcus maripaludis C6
+path:mmx00220	Arginine biosynthesis - Methanococcus maripaludis C6
+path:mmx00230	Purine metabolism - Methanococcus maripaludis C6
+path:mmx00240	Pyrimidine metabolism - Methanococcus maripaludis C6
+path:mmx00250	Alanine, aspartate and glutamate metabolism - Methanococcus maripaludis C6
+path:mmx00260	Glycine, serine and threonine metabolism - Methanococcus maripaludis C6
+path:mmx00261	Monobactam biosynthesis - Methanococcus maripaludis C6
+path:mmx00270	Cysteine and methionine metabolism - Methanococcus maripaludis C6
+path:mmx00280	Valine, leucine and isoleucine degradation - Methanococcus maripaludis C6
+path:mmx00290	Valine, leucine and isoleucine biosynthesis - Methanococcus maripaludis C6
+path:mmx00300	Lysine biosynthesis - Methanococcus maripaludis C6
+path:mmx00310	Lysine degradation - Methanococcus maripaludis C6
+path:mmx00330	Arginine and proline metabolism - Methanococcus maripaludis C6
+path:mmx00340	Histidine metabolism - Methanococcus maripaludis C6
+path:mmx00350	Tyrosine metabolism - Methanococcus maripaludis C6
+path:mmx00360	Phenylalanine metabolism - Methanococcus maripaludis C6
+path:mmx00362	Benzoate degradation - Methanococcus maripaludis C6
+path:mmx00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Methanococcus maripaludis C6
+path:mmx00401	Novobiocin biosynthesis - Methanococcus maripaludis C6
+path:mmx00410	beta-Alanine metabolism - Methanococcus maripaludis C6
+path:mmx00450	Selenocompound metabolism - Methanococcus maripaludis C6
+path:mmx00480	Glutathione metabolism - Methanococcus maripaludis C6
+path:mmx00500	Starch and sucrose metabolism - Methanococcus maripaludis C6
+path:mmx00520	Amino sugar and nucleotide sugar metabolism - Methanococcus maripaludis C6
+path:mmx00521	Streptomycin biosynthesis - Methanococcus maripaludis C6
+path:mmx00523	Polyketide sugar unit biosynthesis - Methanococcus maripaludis C6
+path:mmx00525	Acarbose and validamycin biosynthesis - Methanococcus maripaludis C6
+path:mmx00564	Glycerophospholipid metabolism - Methanococcus maripaludis C6
+path:mmx00620	Pyruvate metabolism - Methanococcus maripaludis C6
+path:mmx00630	Glyoxylate and dicarboxylate metabolism - Methanococcus maripaludis C6
+path:mmx00633	Nitrotoluene degradation - Methanococcus maripaludis C6
+path:mmx00640	Propanoate metabolism - Methanococcus maripaludis C6
+path:mmx00650	Butanoate metabolism - Methanococcus maripaludis C6
+path:mmx00660	C5-Branched dibasic acid metabolism - Methanococcus maripaludis C6
+path:mmx00670	One carbon pool by folate - Methanococcus maripaludis C6
+path:mmx00680	Methane metabolism - Methanococcus maripaludis C6
+path:mmx00720	Carbon fixation pathways in prokaryotes - Methanococcus maripaludis C6
+path:mmx00730	Thiamine metabolism - Methanococcus maripaludis C6
+path:mmx00740	Riboflavin metabolism - Methanococcus maripaludis C6
+path:mmx00750	Vitamin B6 metabolism - Methanococcus maripaludis C6
+path:mmx00760	Nicotinate and nicotinamide metabolism - Methanococcus maripaludis C6
+path:mmx00770	Pantothenate and CoA biosynthesis - Methanococcus maripaludis C6
+path:mmx00780	Biotin metabolism - Methanococcus maripaludis C6
+path:mmx00790	Folate biosynthesis - Methanococcus maripaludis C6
+path:mmx00860	Porphyrin and chlorophyll metabolism - Methanococcus maripaludis C6
+path:mmx00900	Terpenoid backbone biosynthesis - Methanococcus maripaludis C6
+path:mmx00910	Nitrogen metabolism - Methanococcus maripaludis C6
+path:mmx00920	Sulfur metabolism - Methanococcus maripaludis C6
+path:mmx00970	Aminoacyl-tRNA biosynthesis - Methanococcus maripaludis C6
+path:mmx01100	Metabolic pathways - Methanococcus maripaludis C6
+path:mmx01110	Biosynthesis of secondary metabolites - Methanococcus maripaludis C6
+path:mmx01120	Microbial metabolism in diverse environments - Methanococcus maripaludis C6
+path:mmx01130	Biosynthesis of antibiotics - Methanococcus maripaludis C6
+path:mmx01200	Carbon metabolism - Methanococcus maripaludis C6
+path:mmx01210	2-Oxocarboxylic acid metabolism - Methanococcus maripaludis C6
+path:mmx01212	Fatty acid metabolism - Methanococcus maripaludis C6
+path:mmx01220	Degradation of aromatic compounds - Methanococcus maripaludis C6
+path:mmx01230	Biosynthesis of amino acids - Methanococcus maripaludis C6
+path:mmx01502	Vancomycin resistance - Methanococcus maripaludis C6
+path:mmx02010	ABC transporters - Methanococcus maripaludis C6
+path:mmx02020	Two-component system - Methanococcus maripaludis C6
+path:mmx02024	Quorum sensing - Methanococcus maripaludis C6
+path:mmx02030	Bacterial chemotaxis - Methanococcus maripaludis C6
+path:mmx03010	Ribosome - Methanococcus maripaludis C6
+path:mmx03015	mRNA surveillance pathway - Methanococcus maripaludis C6
+path:mmx03018	RNA degradation - Methanococcus maripaludis C6
+path:mmx03020	RNA polymerase - Methanococcus maripaludis C6
+path:mmx03022	Basal transcription factors - Methanococcus maripaludis C6
+path:mmx03030	DNA replication - Methanococcus maripaludis C6
+path:mmx03050	Proteasome - Methanococcus maripaludis C6
+path:mmx03060	Protein export - Methanococcus maripaludis C6
+path:mmx03070	Bacterial secretion system - Methanococcus maripaludis C6
+path:mmx03410	Base excision repair - Methanococcus maripaludis C6
+path:mmx03420	Nucleotide excision repair - Methanococcus maripaludis C6
+path:mmx03430	Mismatch repair - Methanococcus maripaludis C6
+path:mmx03440	Homologous recombination - Methanococcus maripaludis C6
+path:mmx04122	Sulfur relay system - Methanococcus maripaludis C6
+path:mmz00010	Glycolysis / Gluconeogenesis - Methanococcus maripaludis C7
+path:mmz00020	Citrate cycle (TCA cycle) - Methanococcus maripaludis C7
+path:mmz00030	Pentose phosphate pathway - Methanococcus maripaludis C7
+path:mmz00040	Pentose and glucuronate interconversions - Methanococcus maripaludis C7
+path:mmz00051	Fructose and mannose metabolism - Methanococcus maripaludis C7
+path:mmz00052	Galactose metabolism - Methanococcus maripaludis C7
+path:mmz00071	Fatty acid degradation - Methanococcus maripaludis C7
+path:mmz00072	Synthesis and degradation of ketone bodies - Methanococcus maripaludis C7
+path:mmz00190	Oxidative phosphorylation - Methanococcus maripaludis C7
+path:mmz00220	Arginine biosynthesis - Methanococcus maripaludis C7
+path:mmz00230	Purine metabolism - Methanococcus maripaludis C7
+path:mmz00240	Pyrimidine metabolism - Methanococcus maripaludis C7
+path:mmz00250	Alanine, aspartate and glutamate metabolism - Methanococcus maripaludis C7
+path:mmz00260	Glycine, serine and threonine metabolism - Methanococcus maripaludis C7
+path:mmz00261	Monobactam biosynthesis - Methanococcus maripaludis C7
+path:mmz00270	Cysteine and methionine metabolism - Methanococcus maripaludis C7
+path:mmz00280	Valine, leucine and isoleucine degradation - Methanococcus maripaludis C7
+path:mmz00290	Valine, leucine and isoleucine biosynthesis - Methanococcus maripaludis C7
+path:mmz00300	Lysine biosynthesis - Methanococcus maripaludis C7
+path:mmz00310	Lysine degradation - Methanococcus maripaludis C7
+path:mmz00330	Arginine and proline metabolism - Methanococcus maripaludis C7
+path:mmz00340	Histidine metabolism - Methanococcus maripaludis C7
+path:mmz00350	Tyrosine metabolism - Methanococcus maripaludis C7
+path:mmz00360	Phenylalanine metabolism - Methanococcus maripaludis C7
+path:mmz00362	Benzoate degradation - Methanococcus maripaludis C7
+path:mmz00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Methanococcus maripaludis C7
+path:mmz00401	Novobiocin biosynthesis - Methanococcus maripaludis C7
+path:mmz00410	beta-Alanine metabolism - Methanococcus maripaludis C7
+path:mmz00450	Selenocompound metabolism - Methanococcus maripaludis C7
+path:mmz00480	Glutathione metabolism - Methanococcus maripaludis C7
+path:mmz00500	Starch and sucrose metabolism - Methanococcus maripaludis C7
+path:mmz00520	Amino sugar and nucleotide sugar metabolism - Methanococcus maripaludis C7
+path:mmz00564	Glycerophospholipid metabolism - Methanococcus maripaludis C7
+path:mmz00620	Pyruvate metabolism - Methanococcus maripaludis C7
+path:mmz00630	Glyoxylate and dicarboxylate metabolism - Methanococcus maripaludis C7
+path:mmz00633	Nitrotoluene degradation - Methanococcus maripaludis C7
+path:mmz00640	Propanoate metabolism - Methanococcus maripaludis C7
+path:mmz00650	Butanoate metabolism - Methanococcus maripaludis C7
+path:mmz00660	C5-Branched dibasic acid metabolism - Methanococcus maripaludis C7
+path:mmz00670	One carbon pool by folate - Methanococcus maripaludis C7
+path:mmz00680	Methane metabolism - Methanococcus maripaludis C7
+path:mmz00720	Carbon fixation pathways in prokaryotes - Methanococcus maripaludis C7
+path:mmz00730	Thiamine metabolism - Methanococcus maripaludis C7
+path:mmz00740	Riboflavin metabolism - Methanococcus maripaludis C7
+path:mmz00750	Vitamin B6 metabolism - Methanococcus maripaludis C7
+path:mmz00760	Nicotinate and nicotinamide metabolism - Methanococcus maripaludis C7
+path:mmz00770	Pantothenate and CoA biosynthesis - Methanococcus maripaludis C7
+path:mmz00780	Biotin metabolism - Methanococcus maripaludis C7
+path:mmz00790	Folate biosynthesis - Methanococcus maripaludis C7
+path:mmz00860	Porphyrin and chlorophyll metabolism - Methanococcus maripaludis C7
+path:mmz00900	Terpenoid backbone biosynthesis - Methanococcus maripaludis C7
+path:mmz00910	Nitrogen metabolism - Methanococcus maripaludis C7
+path:mmz00920	Sulfur metabolism - Methanococcus maripaludis C7
+path:mmz00970	Aminoacyl-tRNA biosynthesis - Methanococcus maripaludis C7
+path:mmz01100	Metabolic pathways - Methanococcus maripaludis C7
+path:mmz01110	Biosynthesis of secondary metabolites - Methanococcus maripaludis C7
+path:mmz01120	Microbial metabolism in diverse environments - Methanococcus maripaludis C7
+path:mmz01130	Biosynthesis of antibiotics - Methanococcus maripaludis C7
+path:mmz01200	Carbon metabolism - Methanococcus maripaludis C7
+path:mmz01210	2-Oxocarboxylic acid metabolism - Methanococcus maripaludis C7
+path:mmz01212	Fatty acid metabolism - Methanococcus maripaludis C7
+path:mmz01220	Degradation of aromatic compounds - Methanococcus maripaludis C7
+path:mmz01230	Biosynthesis of amino acids - Methanococcus maripaludis C7
+path:mmz01502	Vancomycin resistance - Methanococcus maripaludis C7
+path:mmz02010	ABC transporters - Methanococcus maripaludis C7
+path:mmz02020	Two-component system - Methanococcus maripaludis C7
+path:mmz02024	Quorum sensing - Methanococcus maripaludis C7
+path:mmz02030	Bacterial chemotaxis - Methanococcus maripaludis C7
+path:mmz03010	Ribosome - Methanococcus maripaludis C7
+path:mmz03015	mRNA surveillance pathway - Methanococcus maripaludis C7
+path:mmz03018	RNA degradation - Methanococcus maripaludis C7
+path:mmz03020	RNA polymerase - Methanococcus maripaludis C7
+path:mmz03022	Basal transcription factors - Methanococcus maripaludis C7
+path:mmz03030	DNA replication - Methanococcus maripaludis C7
+path:mmz03050	Proteasome - Methanococcus maripaludis C7
+path:mmz03060	Protein export - Methanococcus maripaludis C7
+path:mmz03070	Bacterial secretion system - Methanococcus maripaludis C7
+path:mmz03410	Base excision repair - Methanococcus maripaludis C7
+path:mmz03420	Nucleotide excision repair - Methanococcus maripaludis C7
+path:mmz03430	Mismatch repair - Methanococcus maripaludis C7
+path:mmz03440	Homologous recombination - Methanococcus maripaludis C7
+path:mmz04122	Sulfur relay system - Methanococcus maripaludis C7
+path:mmd00010	Glycolysis / Gluconeogenesis - Methanococcus maripaludis X1
+path:mmd00020	Citrate cycle (TCA cycle) - Methanococcus maripaludis X1
+path:mmd00030	Pentose phosphate pathway - Methanococcus maripaludis X1
+path:mmd00040	Pentose and glucuronate interconversions - Methanococcus maripaludis X1
+path:mmd00051	Fructose and mannose metabolism - Methanococcus maripaludis X1
+path:mmd00052	Galactose metabolism - Methanococcus maripaludis X1
+path:mmd00071	Fatty acid degradation - Methanococcus maripaludis X1
+path:mmd00072	Synthesis and degradation of ketone bodies - Methanococcus maripaludis X1
+path:mmd00190	Oxidative phosphorylation - Methanococcus maripaludis X1
+path:mmd00220	Arginine biosynthesis - Methanococcus maripaludis X1
+path:mmd00230	Purine metabolism - Methanococcus maripaludis X1
+path:mmd00240	Pyrimidine metabolism - Methanococcus maripaludis X1
+path:mmd00250	Alanine, aspartate and glutamate metabolism - Methanococcus maripaludis X1
+path:mmd00260	Glycine, serine and threonine metabolism - Methanococcus maripaludis X1
+path:mmd00261	Monobactam biosynthesis - Methanococcus maripaludis X1
+path:mmd00270	Cysteine and methionine metabolism - Methanococcus maripaludis X1
+path:mmd00280	Valine, leucine and isoleucine degradation - Methanococcus maripaludis X1
+path:mmd00290	Valine, leucine and isoleucine biosynthesis - Methanococcus maripaludis X1
+path:mmd00300	Lysine biosynthesis - Methanococcus maripaludis X1
+path:mmd00310	Lysine degradation - Methanococcus maripaludis X1
+path:mmd00330	Arginine and proline metabolism - Methanococcus maripaludis X1
+path:mmd00340	Histidine metabolism - Methanococcus maripaludis X1
+path:mmd00350	Tyrosine metabolism - Methanococcus maripaludis X1
+path:mmd00360	Phenylalanine metabolism - Methanococcus maripaludis X1
+path:mmd00362	Benzoate degradation - Methanococcus maripaludis X1
+path:mmd00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Methanococcus maripaludis X1
+path:mmd00401	Novobiocin biosynthesis - Methanococcus maripaludis X1
+path:mmd00410	beta-Alanine metabolism - Methanococcus maripaludis X1
+path:mmd00450	Selenocompound metabolism - Methanococcus maripaludis X1
+path:mmd00480	Glutathione metabolism - Methanococcus maripaludis X1
+path:mmd00500	Starch and sucrose metabolism - Methanococcus maripaludis X1
+path:mmd00520	Amino sugar and nucleotide sugar metabolism - Methanococcus maripaludis X1
+path:mmd00521	Streptomycin biosynthesis - Methanococcus maripaludis X1
+path:mmd00523	Polyketide sugar unit biosynthesis - Methanococcus maripaludis X1
+path:mmd00525	Acarbose and validamycin biosynthesis - Methanococcus maripaludis X1
+path:mmd00564	Glycerophospholipid metabolism - Methanococcus maripaludis X1
+path:mmd00620	Pyruvate metabolism - Methanococcus maripaludis X1
+path:mmd00625	Chloroalkane and chloroalkene degradation - Methanococcus maripaludis X1
+path:mmd00626	Naphthalene degradation - Methanococcus maripaludis X1
+path:mmd00630	Glyoxylate and dicarboxylate metabolism - Methanococcus maripaludis X1
+path:mmd00633	Nitrotoluene degradation - Methanococcus maripaludis X1
+path:mmd00640	Propanoate metabolism - Methanococcus maripaludis X1
+path:mmd00650	Butanoate metabolism - Methanococcus maripaludis X1
+path:mmd00660	C5-Branched dibasic acid metabolism - Methanococcus maripaludis X1
+path:mmd00670	One carbon pool by folate - Methanococcus maripaludis X1
+path:mmd00680	Methane metabolism - Methanococcus maripaludis X1
+path:mmd00720	Carbon fixation pathways in prokaryotes - Methanococcus maripaludis X1
+path:mmd00730	Thiamine metabolism - Methanococcus maripaludis X1
+path:mmd00740	Riboflavin metabolism - Methanococcus maripaludis X1
+path:mmd00750	Vitamin B6 metabolism - Methanococcus maripaludis X1
+path:mmd00760	Nicotinate and nicotinamide metabolism - Methanococcus maripaludis X1
+path:mmd00770	Pantothenate and CoA biosynthesis - Methanococcus maripaludis X1
+path:mmd00780	Biotin metabolism - Methanococcus maripaludis X1
+path:mmd00790	Folate biosynthesis - Methanococcus maripaludis X1
+path:mmd00860	Porphyrin and chlorophyll metabolism - Methanococcus maripaludis X1
+path:mmd00900	Terpenoid backbone biosynthesis - Methanococcus maripaludis X1
+path:mmd00910	Nitrogen metabolism - Methanococcus maripaludis X1
+path:mmd00920	Sulfur metabolism - Methanococcus maripaludis X1
+path:mmd00970	Aminoacyl-tRNA biosynthesis - Methanococcus maripaludis X1
+path:mmd01100	Metabolic pathways - Methanococcus maripaludis X1
+path:mmd01110	Biosynthesis of secondary metabolites - Methanococcus maripaludis X1
+path:mmd01120	Microbial metabolism in diverse environments - Methanococcus maripaludis X1
+path:mmd01130	Biosynthesis of antibiotics - Methanococcus maripaludis X1
+path:mmd01200	Carbon metabolism - Methanococcus maripaludis X1
+path:mmd01210	2-Oxocarboxylic acid metabolism - Methanococcus maripaludis X1
+path:mmd01212	Fatty acid metabolism - Methanococcus maripaludis X1
+path:mmd01220	Degradation of aromatic compounds - Methanococcus maripaludis X1
+path:mmd01230	Biosynthesis of amino acids - Methanococcus maripaludis X1
+path:mmd01502	Vancomycin resistance - Methanococcus maripaludis X1
+path:mmd02010	ABC transporters - Methanococcus maripaludis X1
+path:mmd02020	Two-component system - Methanococcus maripaludis X1
+path:mmd02024	Quorum sensing - Methanococcus maripaludis X1
+path:mmd02030	Bacterial chemotaxis - Methanococcus maripaludis X1
+path:mmd03010	Ribosome - Methanococcus maripaludis X1
+path:mmd03015	mRNA surveillance pathway - Methanococcus maripaludis X1
+path:mmd03018	RNA degradation - Methanococcus maripaludis X1
+path:mmd03020	RNA polymerase - Methanococcus maripaludis X1
+path:mmd03022	Basal transcription factors - Methanococcus maripaludis X1
+path:mmd03030	DNA replication - Methanococcus maripaludis X1
+path:mmd03050	Proteasome - Methanococcus maripaludis X1
+path:mmd03060	Protein export - Methanococcus maripaludis X1
+path:mmd03070	Bacterial secretion system - Methanococcus maripaludis X1
+path:mmd03410	Base excision repair - Methanococcus maripaludis X1
+path:mmd03420	Nucleotide excision repair - Methanococcus maripaludis X1
+path:mmd03430	Mismatch repair - Methanococcus maripaludis X1
+path:mmd04122	Sulfur relay system - Methanococcus maripaludis X1
+path:mmak00010	Glycolysis / Gluconeogenesis - Methanococcus maripaludis KA1
+path:mmak00020	Citrate cycle (TCA cycle) - Methanococcus maripaludis KA1
+path:mmak00030	Pentose phosphate pathway - Methanococcus maripaludis KA1
+path:mmak00040	Pentose and glucuronate interconversions - Methanococcus maripaludis KA1
+path:mmak00051	Fructose and mannose metabolism - Methanococcus maripaludis KA1
+path:mmak00052	Galactose metabolism - Methanococcus maripaludis KA1
+path:mmak00071	Fatty acid degradation - Methanococcus maripaludis KA1
+path:mmak00072	Synthesis and degradation of ketone bodies - Methanococcus maripaludis KA1
+path:mmak00190	Oxidative phosphorylation - Methanococcus maripaludis KA1
+path:mmak00220	Arginine biosynthesis - Methanococcus maripaludis KA1
+path:mmak00230	Purine metabolism - Methanococcus maripaludis KA1
+path:mmak00240	Pyrimidine metabolism - Methanococcus maripaludis KA1
+path:mmak00250	Alanine, aspartate and glutamate metabolism - Methanococcus maripaludis KA1
+path:mmak00260	Glycine, serine and threonine metabolism - Methanococcus maripaludis KA1
+path:mmak00261	Monobactam biosynthesis - Methanococcus maripaludis KA1
+path:mmak00270	Cysteine and methionine metabolism - Methanococcus maripaludis KA1
+path:mmak00280	Valine, leucine and isoleucine degradation - Methanococcus maripaludis KA1
+path:mmak00290	Valine, leucine and isoleucine biosynthesis - Methanococcus maripaludis KA1
+path:mmak00300	Lysine biosynthesis - Methanococcus maripaludis KA1
+path:mmak00310	Lysine degradation - Methanococcus maripaludis KA1
+path:mmak00330	Arginine and proline metabolism - Methanococcus maripaludis KA1
+path:mmak00340	Histidine metabolism - Methanococcus maripaludis KA1
+path:mmak00350	Tyrosine metabolism - Methanococcus maripaludis KA1
+path:mmak00360	Phenylalanine metabolism - Methanococcus maripaludis KA1
+path:mmak00362	Benzoate degradation - Methanococcus maripaludis KA1
+path:mmak00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Methanococcus maripaludis KA1
+path:mmak00401	Novobiocin biosynthesis - Methanococcus maripaludis KA1
+path:mmak00410	beta-Alanine metabolism - Methanococcus maripaludis KA1
+path:mmak00450	Selenocompound metabolism - Methanococcus maripaludis KA1
+path:mmak00480	Glutathione metabolism - Methanococcus maripaludis KA1
+path:mmak00500	Starch and sucrose metabolism - Methanococcus maripaludis KA1
+path:mmak00520	Amino sugar and nucleotide sugar metabolism - Methanococcus maripaludis KA1
+path:mmak00564	Glycerophospholipid metabolism - Methanococcus maripaludis KA1
+path:mmak00620	Pyruvate metabolism - Methanococcus maripaludis KA1
+path:mmak00630	Glyoxylate and dicarboxylate metabolism - Methanococcus maripaludis KA1
+path:mmak00633	Nitrotoluene degradation - Methanococcus maripaludis KA1
+path:mmak00640	Propanoate metabolism - Methanococcus maripaludis KA1
+path:mmak00650	Butanoate metabolism - Methanococcus maripaludis KA1
+path:mmak00660	C5-Branched dibasic acid metabolism - Methanococcus maripaludis KA1
+path:mmak00670	One carbon pool by folate - Methanococcus maripaludis KA1
+path:mmak00680	Methane metabolism - Methanococcus maripaludis KA1
+path:mmak00720	Carbon fixation pathways in prokaryotes - Methanococcus maripaludis KA1
+path:mmak00730	Thiamine metabolism - Methanococcus maripaludis KA1
+path:mmak00740	Riboflavin metabolism - Methanococcus maripaludis KA1
+path:mmak00750	Vitamin B6 metabolism - Methanococcus maripaludis KA1
+path:mmak00760	Nicotinate and nicotinamide metabolism - Methanococcus maripaludis KA1
+path:mmak00770	Pantothenate and CoA biosynthesis - Methanococcus maripaludis KA1
+path:mmak00780	Biotin metabolism - Methanococcus maripaludis KA1
+path:mmak00790	Folate biosynthesis - Methanococcus maripaludis KA1
+path:mmak00860	Porphyrin and chlorophyll metabolism - Methanococcus maripaludis KA1
+path:mmak00900	Terpenoid backbone biosynthesis - Methanococcus maripaludis KA1
+path:mmak00910	Nitrogen metabolism - Methanococcus maripaludis KA1
+path:mmak00920	Sulfur metabolism - Methanococcus maripaludis KA1
+path:mmak00970	Aminoacyl-tRNA biosynthesis - Methanococcus maripaludis KA1
+path:mmak01100	Metabolic pathways - Methanococcus maripaludis KA1
+path:mmak01110	Biosynthesis of secondary metabolites - Methanococcus maripaludis KA1
+path:mmak01120	Microbial metabolism in diverse environments - Methanococcus maripaludis KA1
+path:mmak01130	Biosynthesis of antibiotics - Methanococcus maripaludis KA1
+path:mmak01200	Carbon metabolism - Methanococcus maripaludis KA1
+path:mmak01210	2-Oxocarboxylic acid metabolism - Methanococcus maripaludis KA1
+path:mmak01212	Fatty acid metabolism - Methanococcus maripaludis KA1
+path:mmak01220	Degradation of aromatic compounds - Methanococcus maripaludis KA1
+path:mmak01230	Biosynthesis of amino acids - Methanococcus maripaludis KA1
+path:mmak01502	Vancomycin resistance - Methanococcus maripaludis KA1
+path:mmak02010	ABC transporters - Methanococcus maripaludis KA1
+path:mmak02020	Two-component system - Methanococcus maripaludis KA1
+path:mmak02024	Quorum sensing - Methanococcus maripaludis KA1
+path:mmak02030	Bacterial chemotaxis - Methanococcus maripaludis KA1
+path:mmak03010	Ribosome - Methanococcus maripaludis KA1
+path:mmak03015	mRNA surveillance pathway - Methanococcus maripaludis KA1
+path:mmak03018	RNA degradation - Methanococcus maripaludis KA1
+path:mmak03020	RNA polymerase - Methanococcus maripaludis KA1
+path:mmak03022	Basal transcription factors - Methanococcus maripaludis KA1
+path:mmak03030	DNA replication - Methanococcus maripaludis KA1
+path:mmak03050	Proteasome - Methanococcus maripaludis KA1
+path:mmak03060	Protein export - Methanococcus maripaludis KA1
+path:mmak03070	Bacterial secretion system - Methanococcus maripaludis KA1
+path:mmak03410	Base excision repair - Methanococcus maripaludis KA1
+path:mmak03420	Nucleotide excision repair - Methanococcus maripaludis KA1
+path:mmak03430	Mismatch repair - Methanococcus maripaludis KA1
+path:mmak03440	Homologous recombination - Methanococcus maripaludis KA1
+path:mmak04122	Sulfur relay system - Methanococcus maripaludis KA1
+path:mmao00010	Glycolysis / Gluconeogenesis - Methanococcus maripaludis OS7
+path:mmao00020	Citrate cycle (TCA cycle) - Methanococcus maripaludis OS7
+path:mmao00030	Pentose phosphate pathway - Methanococcus maripaludis OS7
+path:mmao00040	Pentose and glucuronate interconversions - Methanococcus maripaludis OS7
+path:mmao00051	Fructose and mannose metabolism - Methanococcus maripaludis OS7
+path:mmao00052	Galactose metabolism - Methanococcus maripaludis OS7
+path:mmao00071	Fatty acid degradation - Methanococcus maripaludis OS7
+path:mmao00072	Synthesis and degradation of ketone bodies - Methanococcus maripaludis OS7
+path:mmao00190	Oxidative phosphorylation - Methanococcus maripaludis OS7
+path:mmao00220	Arginine biosynthesis - Methanococcus maripaludis OS7
+path:mmao00230	Purine metabolism - Methanococcus maripaludis OS7
+path:mmao00240	Pyrimidine metabolism - Methanococcus maripaludis OS7
+path:mmao00250	Alanine, aspartate and glutamate metabolism - Methanococcus maripaludis OS7
+path:mmao00260	Glycine, serine and threonine metabolism - Methanococcus maripaludis OS7
+path:mmao00261	Monobactam biosynthesis - Methanococcus maripaludis OS7
+path:mmao00270	Cysteine and methionine metabolism - Methanococcus maripaludis OS7
+path:mmao00280	Valine, leucine and isoleucine degradation - Methanococcus maripaludis OS7
+path:mmao00290	Valine, leucine and isoleucine biosynthesis - Methanococcus maripaludis OS7
+path:mmao00300	Lysine biosynthesis - Methanococcus maripaludis OS7
+path:mmao00310	Lysine degradation - Methanococcus maripaludis OS7
+path:mmao00330	Arginine and proline metabolism - Methanococcus maripaludis OS7
+path:mmao00340	Histidine metabolism - Methanococcus maripaludis OS7
+path:mmao00350	Tyrosine metabolism - Methanococcus maripaludis OS7
+path:mmao00360	Phenylalanine metabolism - Methanococcus maripaludis OS7
+path:mmao00362	Benzoate degradation - Methanococcus maripaludis OS7
+path:mmao00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Methanococcus maripaludis OS7
+path:mmao00401	Novobiocin biosynthesis - Methanococcus maripaludis OS7
+path:mmao00410	beta-Alanine metabolism - Methanococcus maripaludis OS7
+path:mmao00450	Selenocompound metabolism - Methanococcus maripaludis OS7
+path:mmao00480	Glutathione metabolism - Methanococcus maripaludis OS7
+path:mmao00500	Starch and sucrose metabolism - Methanococcus maripaludis OS7
+path:mmao00520	Amino sugar and nucleotide sugar metabolism - Methanococcus maripaludis OS7
+path:mmao00564	Glycerophospholipid metabolism - Methanococcus maripaludis OS7
+path:mmao00620	Pyruvate metabolism - Methanococcus maripaludis OS7
+path:mmao00630	Glyoxylate and dicarboxylate metabolism - Methanococcus maripaludis OS7
+path:mmao00633	Nitrotoluene degradation - Methanococcus maripaludis OS7
+path:mmao00640	Propanoate metabolism - Methanococcus maripaludis OS7
+path:mmao00650	Butanoate metabolism - Methanococcus maripaludis OS7
+path:mmao00660	C5-Branched dibasic acid metabolism - Methanococcus maripaludis OS7
+path:mmao00670	One carbon pool by folate - Methanococcus maripaludis OS7
+path:mmao00680	Methane metabolism - Methanococcus maripaludis OS7
+path:mmao00720	Carbon fixation pathways in prokaryotes - Methanococcus maripaludis OS7
+path:mmao00730	Thiamine metabolism - Methanococcus maripaludis OS7
+path:mmao00740	Riboflavin metabolism - Methanococcus maripaludis OS7
+path:mmao00750	Vitamin B6 metabolism - Methanococcus maripaludis OS7
+path:mmao00760	Nicotinate and nicotinamide metabolism - Methanococcus maripaludis OS7
+path:mmao00770	Pantothenate and CoA biosynthesis - Methanococcus maripaludis OS7
+path:mmao00780	Biotin metabolism - Methanococcus maripaludis OS7
+path:mmao00790	Folate biosynthesis - Methanococcus maripaludis OS7
+path:mmao00860	Porphyrin and chlorophyll metabolism - Methanococcus maripaludis OS7
+path:mmao00900	Terpenoid backbone biosynthesis - Methanococcus maripaludis OS7
+path:mmao00910	Nitrogen metabolism - Methanococcus maripaludis OS7
+path:mmao00920	Sulfur metabolism - Methanococcus maripaludis OS7
+path:mmao00970	Aminoacyl-tRNA biosynthesis - Methanococcus maripaludis OS7
+path:mmao01100	Metabolic pathways - Methanococcus maripaludis OS7
+path:mmao01110	Biosynthesis of secondary metabolites - Methanococcus maripaludis OS7
+path:mmao01120	Microbial metabolism in diverse environments - Methanococcus maripaludis OS7
+path:mmao01130	Biosynthesis of antibiotics - Methanococcus maripaludis OS7
+path:mmao01200	Carbon metabolism - Methanococcus maripaludis OS7
+path:mmao01210	2-Oxocarboxylic acid metabolism - Methanococcus maripaludis OS7
+path:mmao01212	Fatty acid metabolism - Methanococcus maripaludis OS7
+path:mmao01220	Degradation of aromatic compounds - Methanococcus maripaludis OS7
+path:mmao01230	Biosynthesis of amino acids - Methanococcus maripaludis OS7
+path:mmao01502	Vancomycin resistance - Methanococcus maripaludis OS7
+path:mmao02010	ABC transporters - Methanococcus maripaludis OS7
+path:mmao02020	Two-component system - Methanococcus maripaludis OS7
+path:mmao02024	Quorum sensing - Methanococcus maripaludis OS7
+path:mmao02030	Bacterial chemotaxis - Methanococcus maripaludis OS7
+path:mmao03010	Ribosome - Methanococcus maripaludis OS7
+path:mmao03015	mRNA surveillance pathway - Methanococcus maripaludis OS7
+path:mmao03018	RNA degradation - Methanococcus maripaludis OS7
+path:mmao03020	RNA polymerase - Methanococcus maripaludis OS7
+path:mmao03022	Basal transcription factors - Methanococcus maripaludis OS7
+path:mmao03030	DNA replication - Methanococcus maripaludis OS7
+path:mmao03050	Proteasome - Methanococcus maripaludis OS7
+path:mmao03060	Protein export - Methanococcus maripaludis OS7
+path:mmao03070	Bacterial secretion system - Methanococcus maripaludis OS7
+path:mmao03410	Base excision repair - Methanococcus maripaludis OS7
+path:mmao03420	Nucleotide excision repair - Methanococcus maripaludis OS7
+path:mmao03430	Mismatch repair - Methanococcus maripaludis OS7
+path:mmao04122	Sulfur relay system - Methanococcus maripaludis OS7
+path:mae00010	Glycolysis / Gluconeogenesis - Methanococcus aeolicus
+path:mae00020	Citrate cycle (TCA cycle) - Methanococcus aeolicus
+path:mae00030	Pentose phosphate pathway - Methanococcus aeolicus
+path:mae00040	Pentose and glucuronate interconversions - Methanococcus aeolicus
+path:mae00051	Fructose and mannose metabolism - Methanococcus aeolicus
+path:mae00052	Galactose metabolism - Methanococcus aeolicus
+path:mae00071	Fatty acid degradation - Methanococcus aeolicus
+path:mae00072	Synthesis and degradation of ketone bodies - Methanococcus aeolicus
+path:mae00190	Oxidative phosphorylation - Methanococcus aeolicus
+path:mae00220	Arginine biosynthesis - Methanococcus aeolicus
+path:mae00230	Purine metabolism - Methanococcus aeolicus
+path:mae00240	Pyrimidine metabolism - Methanococcus aeolicus
+path:mae00250	Alanine, aspartate and glutamate metabolism - Methanococcus aeolicus
+path:mae00260	Glycine, serine and threonine metabolism - Methanococcus aeolicus
+path:mae00261	Monobactam biosynthesis - Methanococcus aeolicus
+path:mae00270	Cysteine and methionine metabolism - Methanococcus aeolicus
+path:mae00280	Valine, leucine and isoleucine degradation - Methanococcus aeolicus
+path:mae00290	Valine, leucine and isoleucine biosynthesis - Methanococcus aeolicus
+path:mae00300	Lysine biosynthesis - Methanococcus aeolicus
+path:mae00310	Lysine degradation - Methanococcus aeolicus
+path:mae00330	Arginine and proline metabolism - Methanococcus aeolicus
+path:mae00340	Histidine metabolism - Methanococcus aeolicus
+path:mae00350	Tyrosine metabolism - Methanococcus aeolicus
+path:mae00360	Phenylalanine metabolism - Methanococcus aeolicus
+path:mae00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Methanococcus aeolicus
+path:mae00401	Novobiocin biosynthesis - Methanococcus aeolicus
+path:mae00410	beta-Alanine metabolism - Methanococcus aeolicus
+path:mae00450	Selenocompound metabolism - Methanococcus aeolicus
+path:mae00480	Glutathione metabolism - Methanococcus aeolicus
+path:mae00500	Starch and sucrose metabolism - Methanococcus aeolicus
+path:mae00520	Amino sugar and nucleotide sugar metabolism - Methanococcus aeolicus
+path:mae00521	Streptomycin biosynthesis - Methanococcus aeolicus
+path:mae00523	Polyketide sugar unit biosynthesis - Methanococcus aeolicus
+path:mae00525	Acarbose and validamycin biosynthesis - Methanococcus aeolicus
+path:mae00564	Glycerophospholipid metabolism - Methanococcus aeolicus
+path:mae00620	Pyruvate metabolism - Methanococcus aeolicus
+path:mae00630	Glyoxylate and dicarboxylate metabolism - Methanococcus aeolicus
+path:mae00633	Nitrotoluene degradation - Methanococcus aeolicus
+path:mae00640	Propanoate metabolism - Methanococcus aeolicus
+path:mae00650	Butanoate metabolism - Methanococcus aeolicus
+path:mae00660	C5-Branched dibasic acid metabolism - Methanococcus aeolicus
+path:mae00670	One carbon pool by folate - Methanococcus aeolicus
+path:mae00680	Methane metabolism - Methanococcus aeolicus
+path:mae00720	Carbon fixation pathways in prokaryotes - Methanococcus aeolicus
+path:mae00730	Thiamine metabolism - Methanococcus aeolicus
+path:mae00740	Riboflavin metabolism - Methanococcus aeolicus
+path:mae00750	Vitamin B6 metabolism - Methanococcus aeolicus
+path:mae00760	Nicotinate and nicotinamide metabolism - Methanococcus aeolicus
+path:mae00770	Pantothenate and CoA biosynthesis - Methanococcus aeolicus
+path:mae00780	Biotin metabolism - Methanococcus aeolicus
+path:mae00790	Folate biosynthesis - Methanococcus aeolicus
+path:mae00860	Porphyrin and chlorophyll metabolism - Methanococcus aeolicus
+path:mae00900	Terpenoid backbone biosynthesis - Methanococcus aeolicus
+path:mae00910	Nitrogen metabolism - Methanococcus aeolicus
+path:mae00920	Sulfur metabolism - Methanococcus aeolicus
+path:mae00970	Aminoacyl-tRNA biosynthesis - Methanococcus aeolicus
+path:mae01100	Metabolic pathways - Methanococcus aeolicus
+path:mae01110	Biosynthesis of secondary metabolites - Methanococcus aeolicus
+path:mae01120	Microbial metabolism in diverse environments - Methanococcus aeolicus
+path:mae01130	Biosynthesis of antibiotics - Methanococcus aeolicus
+path:mae01200	Carbon metabolism - Methanococcus aeolicus
+path:mae01210	2-Oxocarboxylic acid metabolism - Methanococcus aeolicus
+path:mae01212	Fatty acid metabolism - Methanococcus aeolicus
+path:mae01230	Biosynthesis of amino acids - Methanococcus aeolicus
+path:mae02010	ABC transporters - Methanococcus aeolicus
+path:mae02020	Two-component system - Methanococcus aeolicus
+path:mae02024	Quorum sensing - Methanococcus aeolicus
+path:mae03010	Ribosome - Methanococcus aeolicus
+path:mae03015	mRNA surveillance pathway - Methanococcus aeolicus
+path:mae03018	RNA degradation - Methanococcus aeolicus
+path:mae03020	RNA polymerase - Methanococcus aeolicus
+path:mae03022	Basal transcription factors - Methanococcus aeolicus
+path:mae03030	DNA replication - Methanococcus aeolicus
+path:mae03050	Proteasome - Methanococcus aeolicus
+path:mae03060	Protein export - Methanococcus aeolicus
+path:mae03070	Bacterial secretion system - Methanococcus aeolicus
+path:mae03410	Base excision repair - Methanococcus aeolicus
+path:mae03420	Nucleotide excision repair - Methanococcus aeolicus
+path:mae03430	Mismatch repair - Methanococcus aeolicus
+path:mae03440	Homologous recombination - Methanococcus aeolicus
+path:mae04122	Sulfur relay system - Methanococcus aeolicus
+path:mvn00010	Glycolysis / Gluconeogenesis - Methanococcus vannielii
+path:mvn00020	Citrate cycle (TCA cycle) - Methanococcus vannielii
+path:mvn00030	Pentose phosphate pathway - Methanococcus vannielii
+path:mvn00040	Pentose and glucuronate interconversions - Methanococcus vannielii
+path:mvn00051	Fructose and mannose metabolism - Methanococcus vannielii
+path:mvn00052	Galactose metabolism - Methanococcus vannielii
+path:mvn00071	Fatty acid degradation - Methanococcus vannielii
+path:mvn00072	Synthesis and degradation of ketone bodies - Methanococcus vannielii
+path:mvn00190	Oxidative phosphorylation - Methanococcus vannielii
+path:mvn00220	Arginine biosynthesis - Methanococcus vannielii
+path:mvn00230	Purine metabolism - Methanococcus vannielii
+path:mvn00240	Pyrimidine metabolism - Methanococcus vannielii
+path:mvn00250	Alanine, aspartate and glutamate metabolism - Methanococcus vannielii
+path:mvn00260	Glycine, serine and threonine metabolism - Methanococcus vannielii
+path:mvn00261	Monobactam biosynthesis - Methanococcus vannielii
+path:mvn00270	Cysteine and methionine metabolism - Methanococcus vannielii
+path:mvn00280	Valine, leucine and isoleucine degradation - Methanococcus vannielii
+path:mvn00290	Valine, leucine and isoleucine biosynthesis - Methanococcus vannielii
+path:mvn00300	Lysine biosynthesis - Methanococcus vannielii
+path:mvn00310	Lysine degradation - Methanococcus vannielii
+path:mvn00330	Arginine and proline metabolism - Methanococcus vannielii
+path:mvn00340	Histidine metabolism - Methanococcus vannielii
+path:mvn00350	Tyrosine metabolism - Methanococcus vannielii
+path:mvn00360	Phenylalanine metabolism - Methanococcus vannielii
+path:mvn00362	Benzoate degradation - Methanococcus vannielii
+path:mvn00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Methanococcus vannielii
+path:mvn00401	Novobiocin biosynthesis - Methanococcus vannielii
+path:mvn00410	beta-Alanine metabolism - Methanococcus vannielii
+path:mvn00450	Selenocompound metabolism - Methanococcus vannielii
+path:mvn00480	Glutathione metabolism - Methanococcus vannielii
+path:mvn00500	Starch and sucrose metabolism - Methanococcus vannielii
+path:mvn00520	Amino sugar and nucleotide sugar metabolism - Methanococcus vannielii
+path:mvn00564	Glycerophospholipid metabolism - Methanococcus vannielii
+path:mvn00620	Pyruvate metabolism - Methanococcus vannielii
+path:mvn00630	Glyoxylate and dicarboxylate metabolism - Methanococcus vannielii
+path:mvn00633	Nitrotoluene degradation - Methanococcus vannielii
+path:mvn00640	Propanoate metabolism - Methanococcus vannielii
+path:mvn00650	Butanoate metabolism - Methanococcus vannielii
+path:mvn00660	C5-Branched dibasic acid metabolism - Methanococcus vannielii
+path:mvn00670	One carbon pool by folate - Methanococcus vannielii
+path:mvn00680	Methane metabolism - Methanococcus vannielii
+path:mvn00720	Carbon fixation pathways in prokaryotes - Methanococcus vannielii
+path:mvn00730	Thiamine metabolism - Methanococcus vannielii
+path:mvn00740	Riboflavin metabolism - Methanococcus vannielii
+path:mvn00750	Vitamin B6 metabolism - Methanococcus vannielii
+path:mvn00760	Nicotinate and nicotinamide metabolism - Methanococcus vannielii
+path:mvn00770	Pantothenate and CoA biosynthesis - Methanococcus vannielii
+path:mvn00780	Biotin metabolism - Methanococcus vannielii
+path:mvn00790	Folate biosynthesis - Methanococcus vannielii
+path:mvn00860	Porphyrin and chlorophyll metabolism - Methanococcus vannielii
+path:mvn00900	Terpenoid backbone biosynthesis - Methanococcus vannielii
+path:mvn00910	Nitrogen metabolism - Methanococcus vannielii
+path:mvn00920	Sulfur metabolism - Methanococcus vannielii
+path:mvn00970	Aminoacyl-tRNA biosynthesis - Methanococcus vannielii
+path:mvn01100	Metabolic pathways - Methanococcus vannielii
+path:mvn01110	Biosynthesis of secondary metabolites - Methanococcus vannielii
+path:mvn01120	Microbial metabolism in diverse environments - Methanococcus vannielii
+path:mvn01130	Biosynthesis of antibiotics - Methanococcus vannielii
+path:mvn01200	Carbon metabolism - Methanococcus vannielii
+path:mvn01210	2-Oxocarboxylic acid metabolism - Methanococcus vannielii
+path:mvn01212	Fatty acid metabolism - Methanococcus vannielii
+path:mvn01220	Degradation of aromatic compounds - Methanococcus vannielii
+path:mvn01230	Biosynthesis of amino acids - Methanococcus vannielii
+path:mvn01502	Vancomycin resistance - Methanococcus vannielii
+path:mvn02010	ABC transporters - Methanococcus vannielii
+path:mvn02020	Two-component system - Methanococcus vannielii
+path:mvn02024	Quorum sensing - Methanococcus vannielii
+path:mvn02030	Bacterial chemotaxis - Methanococcus vannielii
+path:mvn03010	Ribosome - Methanococcus vannielii
+path:mvn03015	mRNA surveillance pathway - Methanococcus vannielii
+path:mvn03018	RNA degradation - Methanococcus vannielii
+path:mvn03020	RNA polymerase - Methanococcus vannielii
+path:mvn03022	Basal transcription factors - Methanococcus vannielii
+path:mvn03030	DNA replication - Methanococcus vannielii
+path:mvn03050	Proteasome - Methanococcus vannielii
+path:mvn03060	Protein export - Methanococcus vannielii
+path:mvn03070	Bacterial secretion system - Methanococcus vannielii
+path:mvn03410	Base excision repair - Methanococcus vannielii
+path:mvn03420	Nucleotide excision repair - Methanococcus vannielii
+path:mvn03430	Mismatch repair - Methanococcus vannielii
+path:mvn03440	Homologous recombination - Methanococcus vannielii
+path:mvn04122	Sulfur relay system - Methanococcus vannielii
+path:mvo00010	Glycolysis / Gluconeogenesis - Methanococcus voltae
+path:mvo00020	Citrate cycle (TCA cycle) - Methanococcus voltae
+path:mvo00030	Pentose phosphate pathway - Methanococcus voltae
+path:mvo00040	Pentose and glucuronate interconversions - Methanococcus voltae
+path:mvo00051	Fructose and mannose metabolism - Methanococcus voltae
+path:mvo00052	Galactose metabolism - Methanococcus voltae
+path:mvo00071	Fatty acid degradation - Methanococcus voltae
+path:mvo00072	Synthesis and degradation of ketone bodies - Methanococcus voltae
+path:mvo00190	Oxidative phosphorylation - Methanococcus voltae
+path:mvo00220	Arginine biosynthesis - Methanococcus voltae
+path:mvo00230	Purine metabolism - Methanococcus voltae
+path:mvo00240	Pyrimidine metabolism - Methanococcus voltae
+path:mvo00250	Alanine, aspartate and glutamate metabolism - Methanococcus voltae
+path:mvo00260	Glycine, serine and threonine metabolism - Methanococcus voltae
+path:mvo00261	Monobactam biosynthesis - Methanococcus voltae
+path:mvo00270	Cysteine and methionine metabolism - Methanococcus voltae
+path:mvo00280	Valine, leucine and isoleucine degradation - Methanococcus voltae
+path:mvo00290	Valine, leucine and isoleucine biosynthesis - Methanococcus voltae
+path:mvo00300	Lysine biosynthesis - Methanococcus voltae
+path:mvo00330	Arginine and proline metabolism - Methanococcus voltae
+path:mvo00340	Histidine metabolism - Methanococcus voltae
+path:mvo00350	Tyrosine metabolism - Methanococcus voltae
+path:mvo00360	Phenylalanine metabolism - Methanococcus voltae
+path:mvo00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Methanococcus voltae
+path:mvo00401	Novobiocin biosynthesis - Methanococcus voltae
+path:mvo00410	beta-Alanine metabolism - Methanococcus voltae
+path:mvo00450	Selenocompound metabolism - Methanococcus voltae
+path:mvo00480	Glutathione metabolism - Methanococcus voltae
+path:mvo00500	Starch and sucrose metabolism - Methanococcus voltae
+path:mvo00520	Amino sugar and nucleotide sugar metabolism - Methanococcus voltae
+path:mvo00564	Glycerophospholipid metabolism - Methanococcus voltae
+path:mvo00620	Pyruvate metabolism - Methanococcus voltae
+path:mvo00630	Glyoxylate and dicarboxylate metabolism - Methanococcus voltae
+path:mvo00633	Nitrotoluene degradation - Methanococcus voltae
+path:mvo00640	Propanoate metabolism - Methanococcus voltae
+path:mvo00650	Butanoate metabolism - Methanococcus voltae
+path:mvo00660	C5-Branched dibasic acid metabolism - Methanococcus voltae
+path:mvo00670	One carbon pool by folate - Methanococcus voltae
+path:mvo00680	Methane metabolism - Methanococcus voltae
+path:mvo00720	Carbon fixation pathways in prokaryotes - Methanococcus voltae
+path:mvo00730	Thiamine metabolism - Methanococcus voltae
+path:mvo00740	Riboflavin metabolism - Methanococcus voltae
+path:mvo00750	Vitamin B6 metabolism - Methanococcus voltae
+path:mvo00760	Nicotinate and nicotinamide metabolism - Methanococcus voltae
+path:mvo00770	Pantothenate and CoA biosynthesis - Methanococcus voltae
+path:mvo00780	Biotin metabolism - Methanococcus voltae
+path:mvo00790	Folate biosynthesis - Methanococcus voltae
+path:mvo00860	Porphyrin and chlorophyll metabolism - Methanococcus voltae
+path:mvo00900	Terpenoid backbone biosynthesis - Methanococcus voltae
+path:mvo00910	Nitrogen metabolism - Methanococcus voltae
+path:mvo00920	Sulfur metabolism - Methanococcus voltae
+path:mvo00970	Aminoacyl-tRNA biosynthesis - Methanococcus voltae
+path:mvo01100	Metabolic pathways - Methanococcus voltae
+path:mvo01110	Biosynthesis of secondary metabolites - Methanococcus voltae
+path:mvo01120	Microbial metabolism in diverse environments - Methanococcus voltae
+path:mvo01130	Biosynthesis of antibiotics - Methanococcus voltae
+path:mvo01200	Carbon metabolism - Methanococcus voltae
+path:mvo01210	2-Oxocarboxylic acid metabolism - Methanococcus voltae
+path:mvo01212	Fatty acid metabolism - Methanococcus voltae
+path:mvo01230	Biosynthesis of amino acids - Methanococcus voltae
+path:mvo02010	ABC transporters - Methanococcus voltae
+path:mvo02020	Two-component system - Methanococcus voltae
+path:mvo02024	Quorum sensing - Methanococcus voltae
+path:mvo02030	Bacterial chemotaxis - Methanococcus voltae
+path:mvo03010	Ribosome - Methanococcus voltae
+path:mvo03015	mRNA surveillance pathway - Methanococcus voltae
+path:mvo03018	RNA degradation - Methanococcus voltae
+path:mvo03020	RNA polymerase - Methanococcus voltae
+path:mvo03022	Basal transcription factors - Methanococcus voltae
+path:mvo03030	DNA replication - Methanococcus voltae
+path:mvo03050	Proteasome - Methanococcus voltae
+path:mvo03060	Protein export - Methanococcus voltae
+path:mvo03070	Bacterial secretion system - Methanococcus voltae
+path:mvo03410	Base excision repair - Methanococcus voltae
+path:mvo03420	Nucleotide excision repair - Methanococcus voltae
+path:mvo03430	Mismatch repair - Methanococcus voltae
+path:mvo04122	Sulfur relay system - Methanococcus voltae

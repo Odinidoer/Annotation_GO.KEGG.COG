@@ -1,0 +1,284 @@
+<html>
+<!---
+ENTRY       ko00965
+DEFINITION  Betalain biosynthesis
+--->
+<head>
+<title>
+KEGG PATHWAY: Betalain biosynthesis
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Betalain biosynthesis</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=00965&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map00965.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko00965">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko00965&format=kgml">Download KGML</a>
+| <a id="descLink" href="javascript:switchDescription()">Show description</a>
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+<table id="description" cellpadding="10" width="800" style="display: none;"><tr><td>
+Betalains are water-soluble nitrogen-containing pigments that are present in plants belonging to the order Caryophyllales (such as cactus and amaranth families) and in higher fungi. They contain betalamic acid as the chromophore and are classified into two types: betacyanins and betaxanthins. Betacyanins contain a cyclo-DOPA residue and exhibit red/violet coloration, while betaxanthins contain different amino acids or amino side chains and exhibit a yellow/orange coloration. The condensation of betalamic acid with amino acids (including cyclo-DOPA or amines) in plants is a spontaneous reaction, not an enzyme-catalyzed reaction.</td></tr></table>
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="ec">Reference pathway (EC)</option>
+<option value="rn">Reference pathway (Reaction)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="vvi">Vitis vinifera (wine grape)</option>
+<option value="bvg">Beta vulgaris (sugar beet)</option>
+<option value="smo">Selaginella moellendorffii</option>
+<option value="ppp">Physcomitrella patens subsp. patens</option>
+<option value="cvr">Chlorella variabilis</option>
+</select>
+<input type="hidden" name="mapno" value="00965" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko00965" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko00965.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=269,298,4	href="/dbget-bin/www_bget?C00082"	title="C00082 (L-Tyrosine)" onmouseover="popupTimer(&quot;C00082&quot;, &quot;C00082 (L-Tyrosine)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=230,267,4	href="/dbget-bin/www_bget?C08538"	title="C08538 (Betalamic acid)" onmouseover="popupTimer(&quot;C08538&quot;, &quot;C08538 (Betalamic acid)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=269,218,4	href="/dbget-bin/www_bget?C08565"	title="C08565 (Portulacaxanthin II)" onmouseover="popupTimer(&quot;C08565&quot;, &quot;C08565 (Portulacaxanthin II)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=457,298,4	href="/dbget-bin/www_bget?C00822"	title="C00822 (Dopaquinone)" onmouseover="popupTimer(&quot;C00822&quot;, &quot;C00822 (Dopaquinone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=577,298,4	href="/dbget-bin/www_bget?C05604"	title="C05604 (2-Carboxy-2,3-dihydro-5,6-dihydroxyindole)" onmouseover="popupTimer(&quot;C05604&quot;, &quot;C05604 (2-Carboxy-2,3-dihydro-5,6-dihydroxyindole)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=702,298,4	href="/dbget-bin/www_bget?C17751"	title="C17751 (cyclo-Dopa 5-O-glucoside)" onmouseover="popupTimer(&quot;C17751&quot;, &quot;C17751 (cyclo-Dopa 5-O-glucoside)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=818,298,4	href="/dbget-bin/www_bget?C17752"	title="C17752 (cyclo-Dopa-glucuronylglucoside)" onmouseover="popupTimer(&quot;C17752&quot;, &quot;C17752 (cyclo-Dopa-glucuronylglucoside)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=122,552,4	href="/dbget-bin/www_bget?C08538"	title="C08538 (Betalamic acid)" onmouseover="popupTimer(&quot;C08538&quot;, &quot;C08538 (Betalamic acid)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=122,467,4	href="/dbget-bin/www_bget?C17758"	title="C17758 (4,5-seco-Dopa)" onmouseover="popupTimer(&quot;C17758&quot;, &quot;C17758 (4,5-seco-Dopa)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=269,552,4	href="/dbget-bin/www_bget?C08557"	title="C08557 (Miraxanthin-V)" onmouseover="popupTimer(&quot;C08557&quot;, &quot;C08557 (Miraxanthin-V)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=651,444,4	href="/dbget-bin/www_bget?C08538"	title="C08538 (Betalamic acid)" onmouseover="popupTimer(&quot;C08538&quot;, &quot;C08538 (Betalamic acid)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=778,222,4	href="/dbget-bin/www_bget?C08538"	title="C08538 (Betalamic acid)" onmouseover="popupTimer(&quot;C08538&quot;, &quot;C08538 (Betalamic acid)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=577,468,4	href="/dbget-bin/www_bget?C17756"	title="C17756 (2-Descarboxy-cyclo-dopa)" onmouseover="popupTimer(&quot;C17756&quot;, &quot;C17756 (2-Descarboxy-cyclo-dopa)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=789,382,4	href="/dbget-bin/www_bget?C17754"	title="C17754 (3-Methoxytyramine-betaxanthin)" onmouseover="popupTimer(&quot;C17754&quot;, &quot;C17754 (3-Methoxytyramine-betaxanthin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=421,270,4	href="/dbget-bin/www_bget?C00355"	title="C00355 (3,4-Dihydroxy-L-phenylalanine)" onmouseover="popupTimer(&quot;C00355&quot;, &quot;C00355 (3,4-Dihydroxy-L-phenylalanine)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=269,382,4	href="/dbget-bin/www_bget?C00355"	title="C00355 (3,4-Dihydroxy-L-phenylalanine)" onmouseover="popupTimer(&quot;C00355&quot;, &quot;C00355 (3,4-Dihydroxy-L-phenylalanine)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=818,150,4	href="/dbget-bin/www_bget?C08537"	title="C08537 (Amaranthin)" onmouseover="popupTimer(&quot;C08537&quot;, &quot;C08537 (Amaranthin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=927,150,4	href="/dbget-bin/www_bget?C08542"	title="C08542 (Celosianin II)" onmouseover="popupTimer(&quot;C08542&quot;, &quot;C08542 (Celosianin II)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=662,222,4	href="/dbget-bin/www_bget?C08538"	title="C08538 (Betalamic acid)" onmouseover="popupTimer(&quot;C08538&quot;, &quot;C08538 (Betalamic acid)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=702,150,4	href="/dbget-bin/www_bget?C08540"	title="C08540 (Betanin)" onmouseover="popupTimer(&quot;C08540&quot;, &quot;C08540 (Betanin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=269,467,4	href="/dbget-bin/www_bget?C03758"	title="C03758 (Dopamine)" onmouseover="popupTimer(&quot;C03758&quot;, &quot;C03758 (Dopamine)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=789,468,4	href="/dbget-bin/www_bget?C17757"	title="C17757 (2-Descarboxy-betanidin)" onmouseover="popupTimer(&quot;C17757&quot;, &quot;C17757 (2-Descarboxy-betanidin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=457,382,4	href="/dbget-bin/www_bget?C05587"	title="C05587 (3-Methoxytyramine)" onmouseover="popupTimer(&quot;C05587&quot;, &quot;C05587 (3-Methoxytyramine)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=269,150,4	href="/dbget-bin/www_bget?C08543"	title="C08543 (Dopaxanthin)" onmouseover="popupTimer(&quot;C08543&quot;, &quot;C08543 (Dopaxanthin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=457,468,4	href="/dbget-bin/www_bget?C17755"	title="C17755 (Dopamine quinone)" onmouseover="popupTimer(&quot;C17755&quot;, &quot;C17755 (Dopamine quinone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=702,98,4	href="/dbget-bin/www_bget?C08544"	title="C08544 (Gomphrenin-I)" onmouseover="popupTimer(&quot;C08544&quot;, &quot;C08544 (Gomphrenin-I)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=457,150,4	href="/dbget-bin/www_bget?C17753"	title="C17753 (Dopaxanthin quinone)" onmouseover="popupTimer(&quot;C17753&quot;, &quot;C17753 (Dopaxanthin quinone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=577,150,4	href="/dbget-bin/www_bget?C08539"	title="C08539 (Betanidin)" onmouseover="popupTimer(&quot;C08539&quot;, &quot;C08539 (Betanidin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=927,118,4	href="/dbget-bin/www_bget?C08552"	title="C08552 (Lampranthin II)" onmouseover="popupTimer(&quot;C08552&quot;, &quot;C08552 (Lampranthin II)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=537,222,4	href="/dbget-bin/www_bget?C08538"	title="C08538 (Betalamic acid)" onmouseover="popupTimer(&quot;C08538&quot;, &quot;C08538 (Betalamic acid)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=651,358,4	href="/dbget-bin/www_bget?C08538"	title="C08538 (Betalamic acid)" onmouseover="popupTimer(&quot;C08538&quot;, &quot;C08538 (Betalamic acid)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=153,127,4	href="/dbget-bin/www_bget?C08538"	title="C08538 (Betalamic acid)" onmouseover="popupTimer(&quot;C08538&quot;, &quot;C08538 (Betalamic acid)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=300,499,4	href="/dbget-bin/www_bget?C08538"	title="C08538 (Betalamic acid)" onmouseover="popupTimer(&quot;C08538&quot;, &quot;C08538 (Betalamic acid)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=340,290,386,307	href="/dbget-bin/www_bget?K00505"	title="K00505 (TYR)" />
+<area shape=rect	coords=613,146,659,163	href="/dbget-bin/www_bget?K15774"	title="K15774 (5GT)" />
+<area shape=rect	coords=613,91,659,108	href="/dbget-bin/www_bget?K15775"	title="K15775 (6GT)" />
+<area shape=rect	coords=246,410,292,427	href="/dbget-bin/www_bget?K01593"	title="K01593 (DDC)" />
+<area shape=rect	coords=340,373,386,390	href="/dbget-bin/www_bget?K00545"	title="K00545 (COMT)" />
+<area shape=rect	coords=246,329,292,346	href="/dbget-bin/www_bget?K00505"	title="K00505 (TYR)" />
+<area shape=rect	coords=99,410,145,427	href="/dbget-bin/www_bget?K15777"	title="K15777 (DOPA)" />
+<area shape=rect	coords=613,290,659,307	href="/dbget-bin/www_bget?K15776"	title="K15776 (CDOPA5GT)" />
+<area shape=rect	coords=40,45,237,70	href="/dbget-bin/www_bget?ko00965"	title="ko00965: Betalain biosynthesis" onmouseover="popupTimer(&quot;ko00965&quot;, &quot;ko00965: Betalain biosynthesis&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=156,282,232,316	href="/kegg-bin/show_pathway?ko00400"	title="ko00400: Phenylalanine, tyrosine and tryptophan biosynthesis" onmouseover="popupTimer(&quot;ko00400&quot;, &quot;ko00400: Phenylalanine, tyrosine and tryptophan biosynthesis&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

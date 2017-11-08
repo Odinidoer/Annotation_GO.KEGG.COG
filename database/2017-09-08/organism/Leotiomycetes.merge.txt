@@ -1,0 +1,610 @@
+path:ssl00010	Glycolysis / Gluconeogenesis - Sclerotinia sclerotiorum
+path:ssl00020	Citrate cycle (TCA cycle) - Sclerotinia sclerotiorum
+path:ssl00030	Pentose phosphate pathway - Sclerotinia sclerotiorum
+path:ssl00040	Pentose and glucuronate interconversions - Sclerotinia sclerotiorum
+path:ssl00051	Fructose and mannose metabolism - Sclerotinia sclerotiorum
+path:ssl00052	Galactose metabolism - Sclerotinia sclerotiorum
+path:ssl00053	Ascorbate and aldarate metabolism - Sclerotinia sclerotiorum
+path:ssl00061	Fatty acid biosynthesis - Sclerotinia sclerotiorum
+path:ssl00062	Fatty acid elongation - Sclerotinia sclerotiorum
+path:ssl00071	Fatty acid degradation - Sclerotinia sclerotiorum
+path:ssl00072	Synthesis and degradation of ketone bodies - Sclerotinia sclerotiorum
+path:ssl00100	Steroid biosynthesis - Sclerotinia sclerotiorum
+path:ssl00130	Ubiquinone and other terpenoid-quinone biosynthesis - Sclerotinia sclerotiorum
+path:ssl00190	Oxidative phosphorylation - Sclerotinia sclerotiorum
+path:ssl00220	Arginine biosynthesis - Sclerotinia sclerotiorum
+path:ssl00230	Purine metabolism - Sclerotinia sclerotiorum
+path:ssl00232	Caffeine metabolism - Sclerotinia sclerotiorum
+path:ssl00240	Pyrimidine metabolism - Sclerotinia sclerotiorum
+path:ssl00250	Alanine, aspartate and glutamate metabolism - Sclerotinia sclerotiorum
+path:ssl00254	Aflatoxin biosynthesis - Sclerotinia sclerotiorum
+path:ssl00260	Glycine, serine and threonine metabolism - Sclerotinia sclerotiorum
+path:ssl00261	Monobactam biosynthesis - Sclerotinia sclerotiorum
+path:ssl00270	Cysteine and methionine metabolism - Sclerotinia sclerotiorum
+path:ssl00280	Valine, leucine and isoleucine degradation - Sclerotinia sclerotiorum
+path:ssl00290	Valine, leucine and isoleucine biosynthesis - Sclerotinia sclerotiorum
+path:ssl00300	Lysine biosynthesis - Sclerotinia sclerotiorum
+path:ssl00310	Lysine degradation - Sclerotinia sclerotiorum
+path:ssl00311	Penicillin and cephalosporin biosynthesis - Sclerotinia sclerotiorum
+path:ssl00330	Arginine and proline metabolism - Sclerotinia sclerotiorum
+path:ssl00332	Carbapenem biosynthesis - Sclerotinia sclerotiorum
+path:ssl00340	Histidine metabolism - Sclerotinia sclerotiorum
+path:ssl00350	Tyrosine metabolism - Sclerotinia sclerotiorum
+path:ssl00360	Phenylalanine metabolism - Sclerotinia sclerotiorum
+path:ssl00380	Tryptophan metabolism - Sclerotinia sclerotiorum
+path:ssl00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Sclerotinia sclerotiorum
+path:ssl00410	beta-Alanine metabolism - Sclerotinia sclerotiorum
+path:ssl00430	Taurine and hypotaurine metabolism - Sclerotinia sclerotiorum
+path:ssl00440	Phosphonate and phosphinate metabolism - Sclerotinia sclerotiorum
+path:ssl00450	Selenocompound metabolism - Sclerotinia sclerotiorum
+path:ssl00460	Cyanoamino acid metabolism - Sclerotinia sclerotiorum
+path:ssl00472	D-Arginine and D-ornithine metabolism - Sclerotinia sclerotiorum
+path:ssl00480	Glutathione metabolism - Sclerotinia sclerotiorum
+path:ssl00500	Starch and sucrose metabolism - Sclerotinia sclerotiorum
+path:ssl00510	N-Glycan biosynthesis - Sclerotinia sclerotiorum
+path:ssl00511	Other glycan degradation - Sclerotinia sclerotiorum
+path:ssl00513	Various types of N-glycan biosynthesis - Sclerotinia sclerotiorum
+path:ssl00514	Other types of O-glycan biosynthesis - Sclerotinia sclerotiorum
+path:ssl00515	Mannose type O-glycan biosynthesis - Sclerotinia sclerotiorum
+path:ssl00520	Amino sugar and nucleotide sugar metabolism - Sclerotinia sclerotiorum
+path:ssl00531	Glycosaminoglycan degradation - Sclerotinia sclerotiorum
+path:ssl00561	Glycerolipid metabolism - Sclerotinia sclerotiorum
+path:ssl00562	Inositol phosphate metabolism - Sclerotinia sclerotiorum
+path:ssl00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Sclerotinia sclerotiorum
+path:ssl00564	Glycerophospholipid metabolism - Sclerotinia sclerotiorum
+path:ssl00565	Ether lipid metabolism - Sclerotinia sclerotiorum
+path:ssl00590	Arachidonic acid metabolism - Sclerotinia sclerotiorum
+path:ssl00592	alpha-Linolenic acid metabolism - Sclerotinia sclerotiorum
+path:ssl00600	Sphingolipid metabolism - Sclerotinia sclerotiorum
+path:ssl00603	Glycosphingolipid biosynthesis - globo and isoglobo series - Sclerotinia sclerotiorum
+path:ssl00620	Pyruvate metabolism - Sclerotinia sclerotiorum
+path:ssl00630	Glyoxylate and dicarboxylate metabolism - Sclerotinia sclerotiorum
+path:ssl00640	Propanoate metabolism - Sclerotinia sclerotiorum
+path:ssl00650	Butanoate metabolism - Sclerotinia sclerotiorum
+path:ssl00660	C5-Branched dibasic acid metabolism - Sclerotinia sclerotiorum
+path:ssl00670	One carbon pool by folate - Sclerotinia sclerotiorum
+path:ssl00680	Methane metabolism - Sclerotinia sclerotiorum
+path:ssl00730	Thiamine metabolism - Sclerotinia sclerotiorum
+path:ssl00740	Riboflavin metabolism - Sclerotinia sclerotiorum
+path:ssl00750	Vitamin B6 metabolism - Sclerotinia sclerotiorum
+path:ssl00760	Nicotinate and nicotinamide metabolism - Sclerotinia sclerotiorum
+path:ssl00770	Pantothenate and CoA biosynthesis - Sclerotinia sclerotiorum
+path:ssl00780	Biotin metabolism - Sclerotinia sclerotiorum
+path:ssl00785	Lipoic acid metabolism - Sclerotinia sclerotiorum
+path:ssl00790	Folate biosynthesis - Sclerotinia sclerotiorum
+path:ssl00791	Atrazine degradation - Sclerotinia sclerotiorum
+path:ssl00860	Porphyrin and chlorophyll metabolism - Sclerotinia sclerotiorum
+path:ssl00900	Terpenoid backbone biosynthesis - Sclerotinia sclerotiorum
+path:ssl00906	Carotenoid biosynthesis - Sclerotinia sclerotiorum
+path:ssl00909	Sesquiterpenoid and triterpenoid biosynthesis - Sclerotinia sclerotiorum
+path:ssl00910	Nitrogen metabolism - Sclerotinia sclerotiorum
+path:ssl00920	Sulfur metabolism - Sclerotinia sclerotiorum
+path:ssl00970	Aminoacyl-tRNA biosynthesis - Sclerotinia sclerotiorum
+path:ssl01040	Biosynthesis of unsaturated fatty acids - Sclerotinia sclerotiorum
+path:ssl01100	Metabolic pathways - Sclerotinia sclerotiorum
+path:ssl01110	Biosynthesis of secondary metabolites - Sclerotinia sclerotiorum
+path:ssl01130	Biosynthesis of antibiotics - Sclerotinia sclerotiorum
+path:ssl01200	Carbon metabolism - Sclerotinia sclerotiorum
+path:ssl01210	2-Oxocarboxylic acid metabolism - Sclerotinia sclerotiorum
+path:ssl01212	Fatty acid metabolism - Sclerotinia sclerotiorum
+path:ssl01230	Biosynthesis of amino acids - Sclerotinia sclerotiorum
+path:ssl01501	beta-Lactam resistance - Sclerotinia sclerotiorum
+path:ssl02010	ABC transporters - Sclerotinia sclerotiorum
+path:ssl03008	Ribosome biogenesis in eukaryotes - Sclerotinia sclerotiorum
+path:ssl03010	Ribosome - Sclerotinia sclerotiorum
+path:ssl03013	RNA transport - Sclerotinia sclerotiorum
+path:ssl03015	mRNA surveillance pathway - Sclerotinia sclerotiorum
+path:ssl03018	RNA degradation - Sclerotinia sclerotiorum
+path:ssl03020	RNA polymerase - Sclerotinia sclerotiorum
+path:ssl03022	Basal transcription factors - Sclerotinia sclerotiorum
+path:ssl03030	DNA replication - Sclerotinia sclerotiorum
+path:ssl03040	Spliceosome - Sclerotinia sclerotiorum
+path:ssl03050	Proteasome - Sclerotinia sclerotiorum
+path:ssl03060	Protein export - Sclerotinia sclerotiorum
+path:ssl03410	Base excision repair - Sclerotinia sclerotiorum
+path:ssl03420	Nucleotide excision repair - Sclerotinia sclerotiorum
+path:ssl03430	Mismatch repair - Sclerotinia sclerotiorum
+path:ssl03440	Homologous recombination - Sclerotinia sclerotiorum
+path:ssl03450	Non-homologous end-joining - Sclerotinia sclerotiorum
+path:ssl04011	MAPK signaling pathway - yeast - Sclerotinia sclerotiorum
+path:ssl04070	Phosphatidylinositol signaling system - Sclerotinia sclerotiorum
+path:ssl04111	Cell cycle - yeast - Sclerotinia sclerotiorum
+path:ssl04113	Meiosis - yeast - Sclerotinia sclerotiorum
+path:ssl04120	Ubiquitin mediated proteolysis - Sclerotinia sclerotiorum
+path:ssl04122	Sulfur relay system - Sclerotinia sclerotiorum
+path:ssl04130	SNARE interactions in vesicular transport - Sclerotinia sclerotiorum
+path:ssl04136	Autophagy - other - Sclerotinia sclerotiorum
+path:ssl04138	Autophagy - yeast - Sclerotinia sclerotiorum
+path:ssl04139	Mitophagy - yeast - Sclerotinia sclerotiorum
+path:ssl04141	Protein processing in endoplasmic reticulum - Sclerotinia sclerotiorum
+path:ssl04144	Endocytosis - Sclerotinia sclerotiorum
+path:ssl04145	Phagosome - Sclerotinia sclerotiorum
+path:ssl04146	Peroxisome - Sclerotinia sclerotiorum
+path:ssl04933	AGE-RAGE signaling pathway in diabetic complications - Sclerotinia sclerotiorum
+path:bfu00010	Glycolysis / Gluconeogenesis - Botrytis cinerea
+path:bfu00020	Citrate cycle (TCA cycle) - Botrytis cinerea
+path:bfu00030	Pentose phosphate pathway - Botrytis cinerea
+path:bfu00040	Pentose and glucuronate interconversions - Botrytis cinerea
+path:bfu00051	Fructose and mannose metabolism - Botrytis cinerea
+path:bfu00052	Galactose metabolism - Botrytis cinerea
+path:bfu00053	Ascorbate and aldarate metabolism - Botrytis cinerea
+path:bfu00061	Fatty acid biosynthesis - Botrytis cinerea
+path:bfu00062	Fatty acid elongation - Botrytis cinerea
+path:bfu00071	Fatty acid degradation - Botrytis cinerea
+path:bfu00072	Synthesis and degradation of ketone bodies - Botrytis cinerea
+path:bfu00100	Steroid biosynthesis - Botrytis cinerea
+path:bfu00130	Ubiquinone and other terpenoid-quinone biosynthesis - Botrytis cinerea
+path:bfu00190	Oxidative phosphorylation - Botrytis cinerea
+path:bfu00220	Arginine biosynthesis - Botrytis cinerea
+path:bfu00230	Purine metabolism - Botrytis cinerea
+path:bfu00232	Caffeine metabolism - Botrytis cinerea
+path:bfu00240	Pyrimidine metabolism - Botrytis cinerea
+path:bfu00250	Alanine, aspartate and glutamate metabolism - Botrytis cinerea
+path:bfu00254	Aflatoxin biosynthesis - Botrytis cinerea
+path:bfu00260	Glycine, serine and threonine metabolism - Botrytis cinerea
+path:bfu00261	Monobactam biosynthesis - Botrytis cinerea
+path:bfu00270	Cysteine and methionine metabolism - Botrytis cinerea
+path:bfu00280	Valine, leucine and isoleucine degradation - Botrytis cinerea
+path:bfu00290	Valine, leucine and isoleucine biosynthesis - Botrytis cinerea
+path:bfu00300	Lysine biosynthesis - Botrytis cinerea
+path:bfu00310	Lysine degradation - Botrytis cinerea
+path:bfu00311	Penicillin and cephalosporin biosynthesis - Botrytis cinerea
+path:bfu00330	Arginine and proline metabolism - Botrytis cinerea
+path:bfu00332	Carbapenem biosynthesis - Botrytis cinerea
+path:bfu00340	Histidine metabolism - Botrytis cinerea
+path:bfu00350	Tyrosine metabolism - Botrytis cinerea
+path:bfu00360	Phenylalanine metabolism - Botrytis cinerea
+path:bfu00380	Tryptophan metabolism - Botrytis cinerea
+path:bfu00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Botrytis cinerea
+path:bfu00410	beta-Alanine metabolism - Botrytis cinerea
+path:bfu00430	Taurine and hypotaurine metabolism - Botrytis cinerea
+path:bfu00440	Phosphonate and phosphinate metabolism - Botrytis cinerea
+path:bfu00450	Selenocompound metabolism - Botrytis cinerea
+path:bfu00460	Cyanoamino acid metabolism - Botrytis cinerea
+path:bfu00472	D-Arginine and D-ornithine metabolism - Botrytis cinerea
+path:bfu00480	Glutathione metabolism - Botrytis cinerea
+path:bfu00500	Starch and sucrose metabolism - Botrytis cinerea
+path:bfu00510	N-Glycan biosynthesis - Botrytis cinerea
+path:bfu00511	Other glycan degradation - Botrytis cinerea
+path:bfu00513	Various types of N-glycan biosynthesis - Botrytis cinerea
+path:bfu00514	Other types of O-glycan biosynthesis - Botrytis cinerea
+path:bfu00515	Mannose type O-glycan biosynthesis - Botrytis cinerea
+path:bfu00520	Amino sugar and nucleotide sugar metabolism - Botrytis cinerea
+path:bfu00531	Glycosaminoglycan degradation - Botrytis cinerea
+path:bfu00561	Glycerolipid metabolism - Botrytis cinerea
+path:bfu00562	Inositol phosphate metabolism - Botrytis cinerea
+path:bfu00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Botrytis cinerea
+path:bfu00564	Glycerophospholipid metabolism - Botrytis cinerea
+path:bfu00565	Ether lipid metabolism - Botrytis cinerea
+path:bfu00590	Arachidonic acid metabolism - Botrytis cinerea
+path:bfu00592	alpha-Linolenic acid metabolism - Botrytis cinerea
+path:bfu00600	Sphingolipid metabolism - Botrytis cinerea
+path:bfu00603	Glycosphingolipid biosynthesis - globo and isoglobo series - Botrytis cinerea
+path:bfu00620	Pyruvate metabolism - Botrytis cinerea
+path:bfu00630	Glyoxylate and dicarboxylate metabolism - Botrytis cinerea
+path:bfu00640	Propanoate metabolism - Botrytis cinerea
+path:bfu00650	Butanoate metabolism - Botrytis cinerea
+path:bfu00660	C5-Branched dibasic acid metabolism - Botrytis cinerea
+path:bfu00670	One carbon pool by folate - Botrytis cinerea
+path:bfu00680	Methane metabolism - Botrytis cinerea
+path:bfu00730	Thiamine metabolism - Botrytis cinerea
+path:bfu00740	Riboflavin metabolism - Botrytis cinerea
+path:bfu00750	Vitamin B6 metabolism - Botrytis cinerea
+path:bfu00760	Nicotinate and nicotinamide metabolism - Botrytis cinerea
+path:bfu00770	Pantothenate and CoA biosynthesis - Botrytis cinerea
+path:bfu00780	Biotin metabolism - Botrytis cinerea
+path:bfu00785	Lipoic acid metabolism - Botrytis cinerea
+path:bfu00790	Folate biosynthesis - Botrytis cinerea
+path:bfu00791	Atrazine degradation - Botrytis cinerea
+path:bfu00860	Porphyrin and chlorophyll metabolism - Botrytis cinerea
+path:bfu00900	Terpenoid backbone biosynthesis - Botrytis cinerea
+path:bfu00906	Carotenoid biosynthesis - Botrytis cinerea
+path:bfu00909	Sesquiterpenoid and triterpenoid biosynthesis - Botrytis cinerea
+path:bfu00910	Nitrogen metabolism - Botrytis cinerea
+path:bfu00920	Sulfur metabolism - Botrytis cinerea
+path:bfu00970	Aminoacyl-tRNA biosynthesis - Botrytis cinerea
+path:bfu01040	Biosynthesis of unsaturated fatty acids - Botrytis cinerea
+path:bfu01100	Metabolic pathways - Botrytis cinerea
+path:bfu01110	Biosynthesis of secondary metabolites - Botrytis cinerea
+path:bfu01130	Biosynthesis of antibiotics - Botrytis cinerea
+path:bfu01200	Carbon metabolism - Botrytis cinerea
+path:bfu01210	2-Oxocarboxylic acid metabolism - Botrytis cinerea
+path:bfu01212	Fatty acid metabolism - Botrytis cinerea
+path:bfu01230	Biosynthesis of amino acids - Botrytis cinerea
+path:bfu01501	beta-Lactam resistance - Botrytis cinerea
+path:bfu02010	ABC transporters - Botrytis cinerea
+path:bfu03008	Ribosome biogenesis in eukaryotes - Botrytis cinerea
+path:bfu03010	Ribosome - Botrytis cinerea
+path:bfu03013	RNA transport - Botrytis cinerea
+path:bfu03015	mRNA surveillance pathway - Botrytis cinerea
+path:bfu03018	RNA degradation - Botrytis cinerea
+path:bfu03020	RNA polymerase - Botrytis cinerea
+path:bfu03022	Basal transcription factors - Botrytis cinerea
+path:bfu03030	DNA replication - Botrytis cinerea
+path:bfu03040	Spliceosome - Botrytis cinerea
+path:bfu03050	Proteasome - Botrytis cinerea
+path:bfu03060	Protein export - Botrytis cinerea
+path:bfu03410	Base excision repair - Botrytis cinerea
+path:bfu03420	Nucleotide excision repair - Botrytis cinerea
+path:bfu03430	Mismatch repair - Botrytis cinerea
+path:bfu03440	Homologous recombination - Botrytis cinerea
+path:bfu03450	Non-homologous end-joining - Botrytis cinerea
+path:bfu04011	MAPK signaling pathway - yeast - Botrytis cinerea
+path:bfu04070	Phosphatidylinositol signaling system - Botrytis cinerea
+path:bfu04111	Cell cycle - yeast - Botrytis cinerea
+path:bfu04113	Meiosis - yeast - Botrytis cinerea
+path:bfu04120	Ubiquitin mediated proteolysis - Botrytis cinerea
+path:bfu04122	Sulfur relay system - Botrytis cinerea
+path:bfu04130	SNARE interactions in vesicular transport - Botrytis cinerea
+path:bfu04136	Autophagy - other - Botrytis cinerea
+path:bfu04138	Autophagy - yeast - Botrytis cinerea
+path:bfu04139	Mitophagy - yeast - Botrytis cinerea
+path:bfu04141	Protein processing in endoplasmic reticulum - Botrytis cinerea
+path:bfu04144	Endocytosis - Botrytis cinerea
+path:bfu04145	Phagosome - Botrytis cinerea
+path:bfu04146	Peroxisome - Botrytis cinerea
+path:bfu04933	AGE-RAGE signaling pathway in diabetic complications - Botrytis cinerea
+path:mbe00010	Glycolysis / Gluconeogenesis - Marssonina brunnea
+path:mbe00020	Citrate cycle (TCA cycle) - Marssonina brunnea
+path:mbe00030	Pentose phosphate pathway - Marssonina brunnea
+path:mbe00040	Pentose and glucuronate interconversions - Marssonina brunnea
+path:mbe00051	Fructose and mannose metabolism - Marssonina brunnea
+path:mbe00052	Galactose metabolism - Marssonina brunnea
+path:mbe00053	Ascorbate and aldarate metabolism - Marssonina brunnea
+path:mbe00061	Fatty acid biosynthesis - Marssonina brunnea
+path:mbe00062	Fatty acid elongation - Marssonina brunnea
+path:mbe00071	Fatty acid degradation - Marssonina brunnea
+path:mbe00072	Synthesis and degradation of ketone bodies - Marssonina brunnea
+path:mbe00100	Steroid biosynthesis - Marssonina brunnea
+path:mbe00130	Ubiquinone and other terpenoid-quinone biosynthesis - Marssonina brunnea
+path:mbe00190	Oxidative phosphorylation - Marssonina brunnea
+path:mbe00220	Arginine biosynthesis - Marssonina brunnea
+path:mbe00230	Purine metabolism - Marssonina brunnea
+path:mbe00232	Caffeine metabolism - Marssonina brunnea
+path:mbe00240	Pyrimidine metabolism - Marssonina brunnea
+path:mbe00250	Alanine, aspartate and glutamate metabolism - Marssonina brunnea
+path:mbe00254	Aflatoxin biosynthesis - Marssonina brunnea
+path:mbe00260	Glycine, serine and threonine metabolism - Marssonina brunnea
+path:mbe00261	Monobactam biosynthesis - Marssonina brunnea
+path:mbe00270	Cysteine and methionine metabolism - Marssonina brunnea
+path:mbe00280	Valine, leucine and isoleucine degradation - Marssonina brunnea
+path:mbe00290	Valine, leucine and isoleucine biosynthesis - Marssonina brunnea
+path:mbe00300	Lysine biosynthesis - Marssonina brunnea
+path:mbe00310	Lysine degradation - Marssonina brunnea
+path:mbe00330	Arginine and proline metabolism - Marssonina brunnea
+path:mbe00332	Carbapenem biosynthesis - Marssonina brunnea
+path:mbe00340	Histidine metabolism - Marssonina brunnea
+path:mbe00350	Tyrosine metabolism - Marssonina brunnea
+path:mbe00360	Phenylalanine metabolism - Marssonina brunnea
+path:mbe00380	Tryptophan metabolism - Marssonina brunnea
+path:mbe00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Marssonina brunnea
+path:mbe00410	beta-Alanine metabolism - Marssonina brunnea
+path:mbe00430	Taurine and hypotaurine metabolism - Marssonina brunnea
+path:mbe00440	Phosphonate and phosphinate metabolism - Marssonina brunnea
+path:mbe00450	Selenocompound metabolism - Marssonina brunnea
+path:mbe00460	Cyanoamino acid metabolism - Marssonina brunnea
+path:mbe00480	Glutathione metabolism - Marssonina brunnea
+path:mbe00500	Starch and sucrose metabolism - Marssonina brunnea
+path:mbe00510	N-Glycan biosynthesis - Marssonina brunnea
+path:mbe00511	Other glycan degradation - Marssonina brunnea
+path:mbe00513	Various types of N-glycan biosynthesis - Marssonina brunnea
+path:mbe00514	Other types of O-glycan biosynthesis - Marssonina brunnea
+path:mbe00515	Mannose type O-glycan biosynthesis - Marssonina brunnea
+path:mbe00520	Amino sugar and nucleotide sugar metabolism - Marssonina brunnea
+path:mbe00531	Glycosaminoglycan degradation - Marssonina brunnea
+path:mbe00561	Glycerolipid metabolism - Marssonina brunnea
+path:mbe00562	Inositol phosphate metabolism - Marssonina brunnea
+path:mbe00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Marssonina brunnea
+path:mbe00564	Glycerophospholipid metabolism - Marssonina brunnea
+path:mbe00565	Ether lipid metabolism - Marssonina brunnea
+path:mbe00590	Arachidonic acid metabolism - Marssonina brunnea
+path:mbe00592	alpha-Linolenic acid metabolism - Marssonina brunnea
+path:mbe00600	Sphingolipid metabolism - Marssonina brunnea
+path:mbe00603	Glycosphingolipid biosynthesis - globo and isoglobo series - Marssonina brunnea
+path:mbe00620	Pyruvate metabolism - Marssonina brunnea
+path:mbe00630	Glyoxylate and dicarboxylate metabolism - Marssonina brunnea
+path:mbe00640	Propanoate metabolism - Marssonina brunnea
+path:mbe00650	Butanoate metabolism - Marssonina brunnea
+path:mbe00660	C5-Branched dibasic acid metabolism - Marssonina brunnea
+path:mbe00670	One carbon pool by folate - Marssonina brunnea
+path:mbe00680	Methane metabolism - Marssonina brunnea
+path:mbe00730	Thiamine metabolism - Marssonina brunnea
+path:mbe00740	Riboflavin metabolism - Marssonina brunnea
+path:mbe00750	Vitamin B6 metabolism - Marssonina brunnea
+path:mbe00760	Nicotinate and nicotinamide metabolism - Marssonina brunnea
+path:mbe00770	Pantothenate and CoA biosynthesis - Marssonina brunnea
+path:mbe00780	Biotin metabolism - Marssonina brunnea
+path:mbe00785	Lipoic acid metabolism - Marssonina brunnea
+path:mbe00790	Folate biosynthesis - Marssonina brunnea
+path:mbe00860	Porphyrin and chlorophyll metabolism - Marssonina brunnea
+path:mbe00900	Terpenoid backbone biosynthesis - Marssonina brunnea
+path:mbe00906	Carotenoid biosynthesis - Marssonina brunnea
+path:mbe00909	Sesquiterpenoid and triterpenoid biosynthesis - Marssonina brunnea
+path:mbe00910	Nitrogen metabolism - Marssonina brunnea
+path:mbe00920	Sulfur metabolism - Marssonina brunnea
+path:mbe00970	Aminoacyl-tRNA biosynthesis - Marssonina brunnea
+path:mbe01040	Biosynthesis of unsaturated fatty acids - Marssonina brunnea
+path:mbe01100	Metabolic pathways - Marssonina brunnea
+path:mbe01110	Biosynthesis of secondary metabolites - Marssonina brunnea
+path:mbe01130	Biosynthesis of antibiotics - Marssonina brunnea
+path:mbe01200	Carbon metabolism - Marssonina brunnea
+path:mbe01210	2-Oxocarboxylic acid metabolism - Marssonina brunnea
+path:mbe01212	Fatty acid metabolism - Marssonina brunnea
+path:mbe01230	Biosynthesis of amino acids - Marssonina brunnea
+path:mbe01501	beta-Lactam resistance - Marssonina brunnea
+path:mbe02010	ABC transporters - Marssonina brunnea
+path:mbe03008	Ribosome biogenesis in eukaryotes - Marssonina brunnea
+path:mbe03010	Ribosome - Marssonina brunnea
+path:mbe03013	RNA transport - Marssonina brunnea
+path:mbe03015	mRNA surveillance pathway - Marssonina brunnea
+path:mbe03018	RNA degradation - Marssonina brunnea
+path:mbe03020	RNA polymerase - Marssonina brunnea
+path:mbe03022	Basal transcription factors - Marssonina brunnea
+path:mbe03030	DNA replication - Marssonina brunnea
+path:mbe03040	Spliceosome - Marssonina brunnea
+path:mbe03050	Proteasome - Marssonina brunnea
+path:mbe03060	Protein export - Marssonina brunnea
+path:mbe03410	Base excision repair - Marssonina brunnea
+path:mbe03420	Nucleotide excision repair - Marssonina brunnea
+path:mbe03430	Mismatch repair - Marssonina brunnea
+path:mbe03440	Homologous recombination - Marssonina brunnea
+path:mbe03450	Non-homologous end-joining - Marssonina brunnea
+path:mbe04011	MAPK signaling pathway - yeast - Marssonina brunnea
+path:mbe04070	Phosphatidylinositol signaling system - Marssonina brunnea
+path:mbe04111	Cell cycle - yeast - Marssonina brunnea
+path:mbe04113	Meiosis - yeast - Marssonina brunnea
+path:mbe04120	Ubiquitin mediated proteolysis - Marssonina brunnea
+path:mbe04122	Sulfur relay system - Marssonina brunnea
+path:mbe04130	SNARE interactions in vesicular transport - Marssonina brunnea
+path:mbe04136	Autophagy - other - Marssonina brunnea
+path:mbe04138	Autophagy - yeast - Marssonina brunnea
+path:mbe04139	Mitophagy - yeast - Marssonina brunnea
+path:mbe04141	Protein processing in endoplasmic reticulum - Marssonina brunnea
+path:mbe04144	Endocytosis - Marssonina brunnea
+path:mbe04145	Phagosome - Marssonina brunnea
+path:mbe04146	Peroxisome - Marssonina brunnea
+path:mbe04933	AGE-RAGE signaling pathway in diabetic complications - Marssonina brunnea
+path:psco00010	Glycolysis / Gluconeogenesis - Phialocephala scopiformis
+path:psco00020	Citrate cycle (TCA cycle) - Phialocephala scopiformis
+path:psco00030	Pentose phosphate pathway - Phialocephala scopiformis
+path:psco00040	Pentose and glucuronate interconversions - Phialocephala scopiformis
+path:psco00051	Fructose and mannose metabolism - Phialocephala scopiformis
+path:psco00052	Galactose metabolism - Phialocephala scopiformis
+path:psco00053	Ascorbate and aldarate metabolism - Phialocephala scopiformis
+path:psco00061	Fatty acid biosynthesis - Phialocephala scopiformis
+path:psco00062	Fatty acid elongation - Phialocephala scopiformis
+path:psco00071	Fatty acid degradation - Phialocephala scopiformis
+path:psco00072	Synthesis and degradation of ketone bodies - Phialocephala scopiformis
+path:psco00100	Steroid biosynthesis - Phialocephala scopiformis
+path:psco00130	Ubiquinone and other terpenoid-quinone biosynthesis - Phialocephala scopiformis
+path:psco00190	Oxidative phosphorylation - Phialocephala scopiformis
+path:psco00220	Arginine biosynthesis - Phialocephala scopiformis
+path:psco00230	Purine metabolism - Phialocephala scopiformis
+path:psco00232	Caffeine metabolism - Phialocephala scopiformis
+path:psco00240	Pyrimidine metabolism - Phialocephala scopiformis
+path:psco00250	Alanine, aspartate and glutamate metabolism - Phialocephala scopiformis
+path:psco00254	Aflatoxin biosynthesis - Phialocephala scopiformis
+path:psco00260	Glycine, serine and threonine metabolism - Phialocephala scopiformis
+path:psco00261	Monobactam biosynthesis - Phialocephala scopiformis
+path:psco00270	Cysteine and methionine metabolism - Phialocephala scopiformis
+path:psco00280	Valine, leucine and isoleucine degradation - Phialocephala scopiformis
+path:psco00290	Valine, leucine and isoleucine biosynthesis - Phialocephala scopiformis
+path:psco00300	Lysine biosynthesis - Phialocephala scopiformis
+path:psco00310	Lysine degradation - Phialocephala scopiformis
+path:psco00330	Arginine and proline metabolism - Phialocephala scopiformis
+path:psco00332	Carbapenem biosynthesis - Phialocephala scopiformis
+path:psco00340	Histidine metabolism - Phialocephala scopiformis
+path:psco00350	Tyrosine metabolism - Phialocephala scopiformis
+path:psco00360	Phenylalanine metabolism - Phialocephala scopiformis
+path:psco00380	Tryptophan metabolism - Phialocephala scopiformis
+path:psco00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Phialocephala scopiformis
+path:psco00410	beta-Alanine metabolism - Phialocephala scopiformis
+path:psco00430	Taurine and hypotaurine metabolism - Phialocephala scopiformis
+path:psco00440	Phosphonate and phosphinate metabolism - Phialocephala scopiformis
+path:psco00450	Selenocompound metabolism - Phialocephala scopiformis
+path:psco00460	Cyanoamino acid metabolism - Phialocephala scopiformis
+path:psco00480	Glutathione metabolism - Phialocephala scopiformis
+path:psco00500	Starch and sucrose metabolism - Phialocephala scopiformis
+path:psco00510	N-Glycan biosynthesis - Phialocephala scopiformis
+path:psco00511	Other glycan degradation - Phialocephala scopiformis
+path:psco00513	Various types of N-glycan biosynthesis - Phialocephala scopiformis
+path:psco00514	Other types of O-glycan biosynthesis - Phialocephala scopiformis
+path:psco00515	Mannose type O-glycan biosynthesis - Phialocephala scopiformis
+path:psco00520	Amino sugar and nucleotide sugar metabolism - Phialocephala scopiformis
+path:psco00531	Glycosaminoglycan degradation - Phialocephala scopiformis
+path:psco00561	Glycerolipid metabolism - Phialocephala scopiformis
+path:psco00562	Inositol phosphate metabolism - Phialocephala scopiformis
+path:psco00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Phialocephala scopiformis
+path:psco00564	Glycerophospholipid metabolism - Phialocephala scopiformis
+path:psco00565	Ether lipid metabolism - Phialocephala scopiformis
+path:psco00590	Arachidonic acid metabolism - Phialocephala scopiformis
+path:psco00591	Linoleic acid metabolism - Phialocephala scopiformis
+path:psco00592	alpha-Linolenic acid metabolism - Phialocephala scopiformis
+path:psco00600	Sphingolipid metabolism - Phialocephala scopiformis
+path:psco00603	Glycosphingolipid biosynthesis - globo and isoglobo series - Phialocephala scopiformis
+path:psco00620	Pyruvate metabolism - Phialocephala scopiformis
+path:psco00630	Glyoxylate and dicarboxylate metabolism - Phialocephala scopiformis
+path:psco00640	Propanoate metabolism - Phialocephala scopiformis
+path:psco00650	Butanoate metabolism - Phialocephala scopiformis
+path:psco00660	C5-Branched dibasic acid metabolism - Phialocephala scopiformis
+path:psco00670	One carbon pool by folate - Phialocephala scopiformis
+path:psco00680	Methane metabolism - Phialocephala scopiformis
+path:psco00730	Thiamine metabolism - Phialocephala scopiformis
+path:psco00740	Riboflavin metabolism - Phialocephala scopiformis
+path:psco00750	Vitamin B6 metabolism - Phialocephala scopiformis
+path:psco00760	Nicotinate and nicotinamide metabolism - Phialocephala scopiformis
+path:psco00770	Pantothenate and CoA biosynthesis - Phialocephala scopiformis
+path:psco00780	Biotin metabolism - Phialocephala scopiformis
+path:psco00785	Lipoic acid metabolism - Phialocephala scopiformis
+path:psco00790	Folate biosynthesis - Phialocephala scopiformis
+path:psco00791	Atrazine degradation - Phialocephala scopiformis
+path:psco00860	Porphyrin and chlorophyll metabolism - Phialocephala scopiformis
+path:psco00900	Terpenoid backbone biosynthesis - Phialocephala scopiformis
+path:psco00906	Carotenoid biosynthesis - Phialocephala scopiformis
+path:psco00909	Sesquiterpenoid and triterpenoid biosynthesis - Phialocephala scopiformis
+path:psco00910	Nitrogen metabolism - Phialocephala scopiformis
+path:psco00920	Sulfur metabolism - Phialocephala scopiformis
+path:psco00970	Aminoacyl-tRNA biosynthesis - Phialocephala scopiformis
+path:psco01040	Biosynthesis of unsaturated fatty acids - Phialocephala scopiformis
+path:psco01053	Biosynthesis of siderophore group nonribosomal peptides - Phialocephala scopiformis
+path:psco01100	Metabolic pathways - Phialocephala scopiformis
+path:psco01110	Biosynthesis of secondary metabolites - Phialocephala scopiformis
+path:psco01130	Biosynthesis of antibiotics - Phialocephala scopiformis
+path:psco01200	Carbon metabolism - Phialocephala scopiformis
+path:psco01210	2-Oxocarboxylic acid metabolism - Phialocephala scopiformis
+path:psco01212	Fatty acid metabolism - Phialocephala scopiformis
+path:psco01230	Biosynthesis of amino acids - Phialocephala scopiformis
+path:psco01501	beta-Lactam resistance - Phialocephala scopiformis
+path:psco02010	ABC transporters - Phialocephala scopiformis
+path:psco03008	Ribosome biogenesis in eukaryotes - Phialocephala scopiformis
+path:psco03010	Ribosome - Phialocephala scopiformis
+path:psco03013	RNA transport - Phialocephala scopiformis
+path:psco03015	mRNA surveillance pathway - Phialocephala scopiformis
+path:psco03018	RNA degradation - Phialocephala scopiformis
+path:psco03020	RNA polymerase - Phialocephala scopiformis
+path:psco03022	Basal transcription factors - Phialocephala scopiformis
+path:psco03030	DNA replication - Phialocephala scopiformis
+path:psco03040	Spliceosome - Phialocephala scopiformis
+path:psco03050	Proteasome - Phialocephala scopiformis
+path:psco03060	Protein export - Phialocephala scopiformis
+path:psco03410	Base excision repair - Phialocephala scopiformis
+path:psco03420	Nucleotide excision repair - Phialocephala scopiformis
+path:psco03430	Mismatch repair - Phialocephala scopiformis
+path:psco03440	Homologous recombination - Phialocephala scopiformis
+path:psco03450	Non-homologous end-joining - Phialocephala scopiformis
+path:psco04011	MAPK signaling pathway - yeast - Phialocephala scopiformis
+path:psco04070	Phosphatidylinositol signaling system - Phialocephala scopiformis
+path:psco04111	Cell cycle - yeast - Phialocephala scopiformis
+path:psco04113	Meiosis - yeast - Phialocephala scopiformis
+path:psco04120	Ubiquitin mediated proteolysis - Phialocephala scopiformis
+path:psco04122	Sulfur relay system - Phialocephala scopiformis
+path:psco04130	SNARE interactions in vesicular transport - Phialocephala scopiformis
+path:psco04136	Autophagy - other - Phialocephala scopiformis
+path:psco04138	Autophagy - yeast - Phialocephala scopiformis
+path:psco04139	Mitophagy - yeast - Phialocephala scopiformis
+path:psco04141	Protein processing in endoplasmic reticulum - Phialocephala scopiformis
+path:psco04144	Endocytosis - Phialocephala scopiformis
+path:psco04145	Phagosome - Phialocephala scopiformis
+path:psco04146	Peroxisome - Phialocephala scopiformis
+path:psco04933	AGE-RAGE signaling pathway in diabetic complications - Phialocephala scopiformis
+path:glz00010	Glycolysis / Gluconeogenesis - Glarea lozoyensis
+path:glz00020	Citrate cycle (TCA cycle) - Glarea lozoyensis
+path:glz00030	Pentose phosphate pathway - Glarea lozoyensis
+path:glz00040	Pentose and glucuronate interconversions - Glarea lozoyensis
+path:glz00051	Fructose and mannose metabolism - Glarea lozoyensis
+path:glz00052	Galactose metabolism - Glarea lozoyensis
+path:glz00053	Ascorbate and aldarate metabolism - Glarea lozoyensis
+path:glz00061	Fatty acid biosynthesis - Glarea lozoyensis
+path:glz00062	Fatty acid elongation - Glarea lozoyensis
+path:glz00071	Fatty acid degradation - Glarea lozoyensis
+path:glz00072	Synthesis and degradation of ketone bodies - Glarea lozoyensis
+path:glz00100	Steroid biosynthesis - Glarea lozoyensis
+path:glz00130	Ubiquinone and other terpenoid-quinone biosynthesis - Glarea lozoyensis
+path:glz00190	Oxidative phosphorylation - Glarea lozoyensis
+path:glz00220	Arginine biosynthesis - Glarea lozoyensis
+path:glz00230	Purine metabolism - Glarea lozoyensis
+path:glz00232	Caffeine metabolism - Glarea lozoyensis
+path:glz00240	Pyrimidine metabolism - Glarea lozoyensis
+path:glz00250	Alanine, aspartate and glutamate metabolism - Glarea lozoyensis
+path:glz00254	Aflatoxin biosynthesis - Glarea lozoyensis
+path:glz00260	Glycine, serine and threonine metabolism - Glarea lozoyensis
+path:glz00261	Monobactam biosynthesis - Glarea lozoyensis
+path:glz00270	Cysteine and methionine metabolism - Glarea lozoyensis
+path:glz00280	Valine, leucine and isoleucine degradation - Glarea lozoyensis
+path:glz00290	Valine, leucine and isoleucine biosynthesis - Glarea lozoyensis
+path:glz00300	Lysine biosynthesis - Glarea lozoyensis
+path:glz00310	Lysine degradation - Glarea lozoyensis
+path:glz00330	Arginine and proline metabolism - Glarea lozoyensis
+path:glz00332	Carbapenem biosynthesis - Glarea lozoyensis
+path:glz00340	Histidine metabolism - Glarea lozoyensis
+path:glz00350	Tyrosine metabolism - Glarea lozoyensis
+path:glz00360	Phenylalanine metabolism - Glarea lozoyensis
+path:glz00380	Tryptophan metabolism - Glarea lozoyensis
+path:glz00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Glarea lozoyensis
+path:glz00410	beta-Alanine metabolism - Glarea lozoyensis
+path:glz00430	Taurine and hypotaurine metabolism - Glarea lozoyensis
+path:glz00440	Phosphonate and phosphinate metabolism - Glarea lozoyensis
+path:glz00450	Selenocompound metabolism - Glarea lozoyensis
+path:glz00460	Cyanoamino acid metabolism - Glarea lozoyensis
+path:glz00480	Glutathione metabolism - Glarea lozoyensis
+path:glz00500	Starch and sucrose metabolism - Glarea lozoyensis
+path:glz00510	N-Glycan biosynthesis - Glarea lozoyensis
+path:glz00511	Other glycan degradation - Glarea lozoyensis
+path:glz00513	Various types of N-glycan biosynthesis - Glarea lozoyensis
+path:glz00514	Other types of O-glycan biosynthesis - Glarea lozoyensis
+path:glz00515	Mannose type O-glycan biosynthesis - Glarea lozoyensis
+path:glz00520	Amino sugar and nucleotide sugar metabolism - Glarea lozoyensis
+path:glz00531	Glycosaminoglycan degradation - Glarea lozoyensis
+path:glz00561	Glycerolipid metabolism - Glarea lozoyensis
+path:glz00562	Inositol phosphate metabolism - Glarea lozoyensis
+path:glz00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Glarea lozoyensis
+path:glz00564	Glycerophospholipid metabolism - Glarea lozoyensis
+path:glz00565	Ether lipid metabolism - Glarea lozoyensis
+path:glz00590	Arachidonic acid metabolism - Glarea lozoyensis
+path:glz00592	alpha-Linolenic acid metabolism - Glarea lozoyensis
+path:glz00600	Sphingolipid metabolism - Glarea lozoyensis
+path:glz00603	Glycosphingolipid biosynthesis - globo and isoglobo series - Glarea lozoyensis
+path:glz00620	Pyruvate metabolism - Glarea lozoyensis
+path:glz00630	Glyoxylate and dicarboxylate metabolism - Glarea lozoyensis
+path:glz00640	Propanoate metabolism - Glarea lozoyensis
+path:glz00650	Butanoate metabolism - Glarea lozoyensis
+path:glz00660	C5-Branched dibasic acid metabolism - Glarea lozoyensis
+path:glz00670	One carbon pool by folate - Glarea lozoyensis
+path:glz00680	Methane metabolism - Glarea lozoyensis
+path:glz00730	Thiamine metabolism - Glarea lozoyensis
+path:glz00740	Riboflavin metabolism - Glarea lozoyensis
+path:glz00750	Vitamin B6 metabolism - Glarea lozoyensis
+path:glz00760	Nicotinate and nicotinamide metabolism - Glarea lozoyensis
+path:glz00770	Pantothenate and CoA biosynthesis - Glarea lozoyensis
+path:glz00780	Biotin metabolism - Glarea lozoyensis
+path:glz00785	Lipoic acid metabolism - Glarea lozoyensis
+path:glz00790	Folate biosynthesis - Glarea lozoyensis
+path:glz00791	Atrazine degradation - Glarea lozoyensis
+path:glz00860	Porphyrin and chlorophyll metabolism - Glarea lozoyensis
+path:glz00900	Terpenoid backbone biosynthesis - Glarea lozoyensis
+path:glz00906	Carotenoid biosynthesis - Glarea lozoyensis
+path:glz00909	Sesquiterpenoid and triterpenoid biosynthesis - Glarea lozoyensis
+path:glz00910	Nitrogen metabolism - Glarea lozoyensis
+path:glz00920	Sulfur metabolism - Glarea lozoyensis
+path:glz00970	Aminoacyl-tRNA biosynthesis - Glarea lozoyensis
+path:glz01040	Biosynthesis of unsaturated fatty acids - Glarea lozoyensis
+path:glz01100	Metabolic pathways - Glarea lozoyensis
+path:glz01110	Biosynthesis of secondary metabolites - Glarea lozoyensis
+path:glz01130	Biosynthesis of antibiotics - Glarea lozoyensis
+path:glz01200	Carbon metabolism - Glarea lozoyensis
+path:glz01210	2-Oxocarboxylic acid metabolism - Glarea lozoyensis
+path:glz01212	Fatty acid metabolism - Glarea lozoyensis
+path:glz01230	Biosynthesis of amino acids - Glarea lozoyensis
+path:glz01501	beta-Lactam resistance - Glarea lozoyensis
+path:glz02010	ABC transporters - Glarea lozoyensis
+path:glz03008	Ribosome biogenesis in eukaryotes - Glarea lozoyensis
+path:glz03010	Ribosome - Glarea lozoyensis
+path:glz03013	RNA transport - Glarea lozoyensis
+path:glz03015	mRNA surveillance pathway - Glarea lozoyensis
+path:glz03018	RNA degradation - Glarea lozoyensis
+path:glz03020	RNA polymerase - Glarea lozoyensis
+path:glz03022	Basal transcription factors - Glarea lozoyensis
+path:glz03030	DNA replication - Glarea lozoyensis
+path:glz03040	Spliceosome - Glarea lozoyensis
+path:glz03050	Proteasome - Glarea lozoyensis
+path:glz03060	Protein export - Glarea lozoyensis
+path:glz03410	Base excision repair - Glarea lozoyensis
+path:glz03420	Nucleotide excision repair - Glarea lozoyensis
+path:glz03430	Mismatch repair - Glarea lozoyensis
+path:glz03440	Homologous recombination - Glarea lozoyensis
+path:glz03450	Non-homologous end-joining - Glarea lozoyensis
+path:glz04011	MAPK signaling pathway - yeast - Glarea lozoyensis
+path:glz04070	Phosphatidylinositol signaling system - Glarea lozoyensis
+path:glz04111	Cell cycle - yeast - Glarea lozoyensis
+path:glz04113	Meiosis - yeast - Glarea lozoyensis
+path:glz04120	Ubiquitin mediated proteolysis - Glarea lozoyensis
+path:glz04122	Sulfur relay system - Glarea lozoyensis
+path:glz04130	SNARE interactions in vesicular transport - Glarea lozoyensis
+path:glz04136	Autophagy - other - Glarea lozoyensis
+path:glz04138	Autophagy - yeast - Glarea lozoyensis
+path:glz04139	Mitophagy - yeast - Glarea lozoyensis
+path:glz04141	Protein processing in endoplasmic reticulum - Glarea lozoyensis
+path:glz04144	Endocytosis - Glarea lozoyensis
+path:glz04145	Phagosome - Glarea lozoyensis
+path:glz04146	Peroxisome - Glarea lozoyensis
+path:glz04933	AGE-RAGE signaling pathway in diabetic complications - Glarea lozoyensis

@@ -1,0 +1,276 @@
+<html>
+<!---
+ENTRY       ko04112
+DEFINITION  Cell cycle - Caulobacter
+--->
+<head>
+<title>
+KEGG PATHWAY: Cell cycle - Caulobacter
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Cell cycle - Caulobacter</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=04112&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map04112.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko04112">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko04112&format=kgml">Download KGML</a>
+| <a id="descLink" href="javascript:switchDescription()">Show description</a>
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+<table id="description" cellpadding="10" width="800" style="display: none;"><tr><td>
+Cell cycle progression of Caulobacter crescentus is implemented by an elaborate transcriptional regulatory network. During the life cycle, Caulobacter divides asymmetrically producing two distinct cell types with specialized development programs. The sessile stalked cell immediately initiates a new round of division cycle, whereas the motile swarmer cell remains in the G1 phase for a defined interval before differentiating into the stalked cell and entering into the S phase. The division process is centered around three master regulator proteins, DnaA, GcrA, and CtrA. DnaA and GcrA together drive the synthesis of proteins needed to complete DNA replication. CtrA controls the transcription of a diverse group of genes, which are required for essential morphological, metabolic, and cell cycle events.</td></tr></table>
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="ccr">Caulobacter crescentus CB15</option>
+<option value="ccs">Caulobacter crescentus NA1000</option>
+<option value="cak">Caulobacter sp. K31</option>
+<option value="cse">Caulobacter segnis</option>
+<option value="chq">Caulobacter henricii</option>
+<option value="pzu">Phenylobacterium zucineum</option>
+</select>
+<input type="hidden" name="mapno" value="04112" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko04112" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko04112.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=656,440,4	href="/dbget-bin/www_bget?C16463"	title="C16463 (3',5'-Cyclic diGMP)" onmouseover="popupTimer(&quot;C16463&quot;, &quot;C16463 (3',5'-Cyclic diGMP)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=594,368,640,385	href="/dbget-bin/www_bget?K13590"	title="K13590 (dgcB)" />
+<area shape=rect	coords=637,534,683,551	href="/dbget-bin/www_bget?K13589"	title="K13589 (cpdR)" />
+<area shape=rect	coords=623,551,669,568	href="/dbget-bin/www_bget?K03544"	title="K03544 (clpX)" />
+<area shape=rect	coords=633,485,679,502	href="/dbget-bin/www_bget?K13591"	title="K13591 (popA)" />
+<area shape=rect	coords=633,502,679,519	href="/dbget-bin/www_bget?K13592"	title="K13592 (rcdA)" />
+<area shape=rect	coords=635,301,681,318	href="/dbget-bin/www_bget?K11357"	title="K11357 (divJ)" />
+<area shape=rect	coords=629,171,675,188	href="/dbget-bin/www_bget?K07716"	title="K07716 (pleC)" />
+<area shape=rect	coords=678,368,724,385	href="/dbget-bin/www_bget?K02488"	title="K02488 (pleD)" />
+<area shape=rect	coords=489,315,535,332	href="/dbget-bin/www_bget?K13587"	title="K13587 (cckA)" />
+<area shape=rect	coords=507,376,553,393	href="/dbget-bin/www_bget?K13588"	title="K13588 (chpT)" />
+<area shape=rect	coords=556,413,602,430	href="/dbget-bin/www_bget?K13245"	title="K13245 (pdeA)" />
+<area shape=rect	coords=603,124,649,141	href="/dbget-bin/www_bget?K13582"	title="K13582 (podJ)" />
+<area shape=rect	coords=630,86,676,103	href="/dbget-bin/www_bget?K06985"	title="K06985 (K06985)" />
+<area shape=rect	coords=691,160,737,177	href="/dbget-bin/www_bget?K11749"	title="K11749 (rseP)" />
+<area shape=rect	coords=428,430,474,447	href="/dbget-bin/www_bget?K13585"	title="K13585 (hfaA)" />
+<area shape=rect	coords=428,452,474,469	href="/dbget-bin/www_bget?K13586"	title="K13586 (hfaB)" />
+<area shape=rect	coords=351,418,397,435	href="/dbget-bin/www_bget?K03589"	title="K03589 (ftsQ)" />
+<area shape=rect	coords=300,418,346,435	href="/dbget-bin/www_bget?K03531"	title="K03531 (ftsZ)" />
+<area shape=rect	coords=351,458,397,475	href="/dbget-bin/www_bget?K03588"	title="K03588 (ftsW)" />
+<area shape=rect	coords=351,478,397,495	href="/dbget-bin/www_bget?K02563"	title="K02563 (murG)" />
+<area shape=rect	coords=198,421,244,438	href="/dbget-bin/www_bget?K13581"	title="K13581 (ccrM)" />
+<area shape=rect	coords=40,310,86,327	href="/dbget-bin/www_bget?K02313"	title="K02313 (dnaA)" />
+<area shape=rect	coords=159,310,205,327	href="/dbget-bin/www_bget?K13583"	title="K13583 (gcrA)" />
+<area shape=rect	coords=119,421,165,438	href="/dbget-bin/www_bget?K02314"	title="K02314 (dnaB)" />
+<area shape=rect	coords=231,479,277,496	href="/dbget-bin/www_bget?K01338"	title="K01338 (lon)" />
+<area shape=rect	coords=563,308,609,325	href="/dbget-bin/www_bget?K11443"	title="K11443 (divK)" />
+<area shape=rect	coords=680,199,726,216	href="/dbget-bin/www_bget?K13593"	title="K13593 (tipF)" />
+<area shape=rect	coords=351,438,397,455	href="/dbget-bin/www_bget?K03590"	title="K03590 (ftsA)" />
+<area shape=rect	coords=623,568,669,585	href="/dbget-bin/www_bget?K01358"	title="K01358 (clpP)" />
+<area shape=rect	coords=532,113,578,130	href="/dbget-bin/www_bget?K02651"	title="K02651 (flp)" />
+<area shape=rect	coords=394,310,440,327	href="/dbget-bin/www_bget?K13584"	title="K13584 (ctrA)" />
+<area shape=rect	coords=40,45,246,70	href="/dbget-bin/www_bget?ko04112"	title="ko04112: Cell cycle - Caulobacter" onmouseover="popupTimer(&quot;ko04112&quot;, &quot;ko04112: Cell cycle - Caulobacter&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=755,202,874,227	href="/kegg-bin/show_pathway?ko02040"	title="ko02040: Flagellar assembly" onmouseover="popupTimer(&quot;ko02040&quot;, &quot;ko02040: Flagellar assembly&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=755,230,874,255	href="/kegg-bin/show_pathway?ko02030"	title="ko02030: Bacterial chemotaxis" onmouseover="popupTimer(&quot;ko02030&quot;, &quot;ko02030: Bacterial chemotaxis&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=718,297,855,322	href="/kegg-bin/show_pathway?ko02020"	title="ko02020: Two-component system" onmouseover="popupTimer(&quot;ko02020&quot;, &quot;ko02020: Two-component system&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

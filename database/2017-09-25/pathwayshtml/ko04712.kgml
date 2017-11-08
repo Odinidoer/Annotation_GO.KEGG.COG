@@ -1,0 +1,345 @@
+<html>
+<!---
+ENTRY       ko04712
+DEFINITION  Circadian rhythm - plant
+--->
+<head>
+<title>
+KEGG PATHWAY: Circadian rhythm - plant
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Circadian rhythm - plant</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=04712&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map04712.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko04712">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko04712&format=kgml">Download KGML</a>
+| <a id="descLink" href="javascript:switchDescription()">Show description</a>
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+<table id="description" cellpadding="10" width="800" style="display: none;"><tr><td>
+The circadian system is an endogenous rhythm with the period of about 24 hours to provide temporal organization of biological activity. In Arabidopsis the circadian oscillator at the core of this system is composed of the interlocked feedback loop formed by the major transcriptional factors CCA1 (circadian clock associated), LHY (late elongated hypocotyl) and TOC1 (timing of cab), a pseudo response regulator (PRR). The morning-expressed CCA1/LHY Myb transcription factors suppress TOC1 expression by binding to its promoter. Moreover, CCA1/LHY activates the expression of PRR7/9 in the morning and then PRR7/9 repress the transcription of CCA1/LHY during the rest of the day. By contrast, the evening-expressed TOC1 activates the expression of CCA1/LHY.</td></tr></table>
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="ath">Arabidopsis thaliana (thale cress)</option>
+<option value="aly">Arabidopsis lyrata (lyrate rockcress)</option>
+<option value="crb">Capsella rubella</option>
+<option value="eus">Eutrema salsugineum</option>
+<option value="brp">Brassica rapa (field mustard)</option>
+<option value="bna">Brassica napus (rape)</option>
+<option value="boe">Brassica oleracea (wild cabbage)</option>
+<option value="thj">Tarenaya hassleriana (spider flower)</option>
+<option value="cit">Citrus sinensis (Valencia orange)</option>
+<option value="cic">Citrus clementina (mandarin orange)</option>
+<option value="tcc">Theobroma cacao (cacao)</option>
+<option value="gra">Gossypium raimondii</option>
+<option value="ghi">Gossypium hirsutum (upland cotton)</option>
+<option value="egr">Eucalyptus grandis (rose gum)</option>
+<option value="gmx">Glycine max (soybean)</option>
+<option value="pvu">Phaseolus vulgaris (common bean)</option>
+<option value="vra">Vigna radiata (mung bean)</option>
+<option value="var">Vigna angularis (adzuki bean)</option>
+<option value="ccaj">Cajanus cajan (pigeon pea)</option>
+<option value="mtr">Medicago truncatula (barrel medic)</option>
+<option value="cam">Cicer arietinum (chickpea)</option>
+<option value="adu">Arachis duranensis</option>
+<option value="aip">Arachis ipaensis</option>
+<option value="lja">Lotus japonicus</option>
+<option value="lang">Lupinus angustifolius (narrow-leaved blue lupine)</option>
+<option value="fve">Fragaria vesca (woodland strawberry)</option>
+<option value="pper">Prunus persica (peach)</option>
+<option value="pmum">Prunus mume (Japanese apricot)</option>
+<option value="mdm">Malus domestica (apple)</option>
+<option value="pxb">Pyrus x bretschneideri (Chinese white pear)</option>
+<option value="zju">Ziziphus jujuba (Chinese jujube)</option>
+<option value="csv">Cucumis sativus (cucumber)</option>
+<option value="cmo">Cucumis melo (muskmelon)</option>
+<option value="rcu">Ricinus communis (castor bean)</option>
+<option value="jcu">Jatropha curcas</option>
+<option value="pop">Populus trichocarpa (black cottonwood)</option>
+<option value="vvi">Vitis vinifera (wine grape)</option>
+<option value="sly">Solanum lycopersicum (tomato)</option>
+<option value="spen">Solanum pennellii</option>
+<option value="sot">Solanum tuberosum (potato)</option>
+<option value="cann">Capsicum annuum</option>
+<option value="nta">Nicotiana tabacum (common tobacco)</option>
+<option value="ini">Ipomoea nil (Japanese morning glory)</option>
+<option value="sind">Sesamum indicum (sesame)</option>
+<option value="bvg">Beta vulgaris (sugar beet)</option>
+<option value="nnu">Nelumbo nucifera (sacred lotus)</option>
+<option value="osa">Oryza sativa japonica (Japanese rice) (RefSeq)</option>
+<option value="dosa">Oryza sativa japonica (Japanese rice) (RAPDB)</option>
+<option value="obr">Oryza brachyantha (malo sina)</option>
+<option value="bdi">Brachypodium distachyon</option>
+<option value="ats">Aegilops tauschii (wheat D)</option>
+<option value="sbi">Sorghum bicolor (sorghum)</option>
+<option value="zma">Zea mays (maize)</option>
+<option value="sita">Setaria italica (foxtail millet)</option>
+<option value="pda">Phoenix dactylifera (date palm)</option>
+<option value="egu">Elaeis guineensis (African oil palm)</option>
+<option value="mus">Musa acuminata (wild Malaysian banana)</option>
+<option value="dct">Dendrobium catenatum</option>
+<option value="atr">Amborella trichopoda</option>
+<option value="smo">Selaginella moellendorffii</option>
+<option value="ppp">Physcomitrella patens subsp. patens</option>
+<option value="cre">Chlamydomonas reinhardtii</option>
+<option value="vcn">Volvox carteri f. nagariensis</option>
+<option value="mng">Monoraphidium neglectum</option>
+<option value="olu">Ostreococcus lucimarinus</option>
+<option value="ota">Ostreococcus tauri</option>
+<option value="bpg">Bathycoccus prasinos</option>
+<option value="mis">Micromonas commoda</option>
+<option value="mpp">Micromonas pusilla</option>
+<option value="csl">Coccomyxa subellipsoidea</option>
+<option value="cvr">Chlorella variabilis</option>
+<option value="apro">Auxenochlorella protothecoides</option>
+<option value="cme">Cyanidioschyzon merolae</option>
+<option value="gsl">Galdieria sulphuraria</option>
+<option value="ccp">Chondrus crispus (carragheen)</option>
+</select>
+<input type="hidden" name="mapno" value="04712" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko04712" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko04712.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=rect	coords=647,484,693,501	href="/dbget-bin/www_bget?K12127"	title="K12127 (TOC1)" />
+<area shape=rect	coords=647,427,693,444	href="/dbget-bin/www_bget?K16221"	title="K16221 (TCP21)" />
+<area shape=rect	coords=774,362,820,379	href="/dbget-bin/www_bget?K12134"	title="K12134 (CCA1)" />
+<area shape=rect	coords=773,336,819,353	href="/dbget-bin/www_bget?K12133"	title="K12133 (LHY)" />
+<area shape=rect	coords=647,196,693,213	href="/dbget-bin/www_bget?K12128"	title="K12128 (PRR9)" />
+<area shape=rect	coords=647,217,693,234	href="/dbget-bin/www_bget?K12129"	title="K12129 (PRR7)" />
+<area shape=rect	coords=647,238,693,255	href="/dbget-bin/www_bget?K12130"	title="K12130 (PRR5)" />
+<area shape=rect	coords=921,602,967,619	href="/dbget-bin/www_bget?K16222"	title="K16222 (CDF1)" />
+<area shape=rect	coords=990,539,1036,556	href="/dbget-bin/www_bget?K12135"	title="K12135 (CO)" />
+<area shape=rect	coords=1126,539,1172,556	href="/dbget-bin/www_bget?K16223"	title="K16223 (FT)" />
+<area shape=rect	coords=568,557,614,574	href="/dbget-bin/www_bget?K12115"	title="K12115 (ZTL)" />
+<area shape=rect	coords=568,574,614,591	href="/dbget-bin/www_bget?K12124"	title="K12124 (GI)" />
+<area shape=rect	coords=611,624,657,641	href="/dbget-bin/www_bget?K12131"	title="K12131 (PRR3)" />
+<area shape=rect	coords=489,631,535,648	href="/dbget-bin/www_bget?K12116"	title="K12116 (FKF1)" />
+<area shape=rect	coords=489,648,535,665	href="/dbget-bin/www_bget?K12124"	title="K12124 (GI)" />
+<area shape=rect	coords=328,594,374,611	href="/dbget-bin/www_bget?K10143"	title="K10143 (RFWD2)" />
+<area shape=rect	coords=328,611,374,628	href="/dbget-bin/www_bget?K12125"	title="K12125 (ELF3)" />
+<area shape=rect	coords=413,603,459,620	href="/dbget-bin/www_bget?K12124"	title="K12124 (GI)" />
+<area shape=rect	coords=273,525,319,542	href="/dbget-bin/www_bget?K12118+K12119"	title="K12118 (CRY1), K12119 (CRY2)" />
+<area shape=rect	coords=119,230,165,247	href="/dbget-bin/www_bget?K12121"	title="K12121 (PHYB)" />
+<area shape=rect	coords=482,167,528,184	href="/dbget-bin/www_bget?K12125"	title="K12125 (ELF3)" />
+<area shape=rect	coords=780,565,826,582	href="/dbget-bin/www_bget?K12124"	title="K12124 (GI)" />
+<area shape=rect	coords=990,492,1036,509	href="/dbget-bin/www_bget?K16166"	title="K16166 (PAP1)" />
+<area shape=rect	coords=1126,492,1172,509	href="/dbget-bin/www_bget?K00660"	title="K00660 (CHS)" />
+<area shape=rect	coords=887,353,933,370	href="/dbget-bin/www_bget?K03097"	title="K03097 (CSNK2A)" />
+<area shape=rect	coords=887,370,933,387	href="/dbget-bin/www_bget?K03115"	title="K03115 (CSNK2B)" />
+<area shape=rect	coords=328,694,374,711	href="/dbget-bin/www_bget?K10143"	title="K10143 (RFWD2)" />
+<area shape=rect	coords=328,711,374,728	href="/dbget-bin/www_bget?K16240"	title="K16240 (SPA1)" />
+<area shape=rect	coords=413,703,459,720	href="/dbget-bin/www_bget?K16241"	title="K16241 (HY5)" />
+<area shape=rect	coords=119,281,165,298	href="/dbget-bin/www_bget?K12121"	title="K12121 (PHYB)" />
+<area shape=rect	coords=119,311,165,328	href="/dbget-bin/www_bget?K12120"	title="K12120 (PHYA)" />
+<area shape=rect	coords=119,363,165,380	href="/dbget-bin/www_bget?K12120"	title="K12120 (PHYA)" />
+<area shape=rect	coords=355,249,401,266	href="/dbget-bin/www_bget?K12126"	title="K12126 (PIF3)" />
+<area shape=rect	coords=355,331,401,348	href="/dbget-bin/www_bget?K12126"	title="K12126 (PIF3)" />
+<area shape=rect	coords=40,45,260,70	href="/dbget-bin/www_bget?ko04712"	title="ko04712: Circadian rhythm - plant" onmouseover="popupTimer(&quot;ko04712&quot;, &quot;ko04712: Circadian rhythm - plant&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=1211,392,1303,417	href="/kegg-bin/show_pathway?ko00196"	title="ko00196: Photosynthesis - antenna proteins" onmouseover="popupTimer(&quot;ko00196&quot;, &quot;ko00196: Photosynthesis - antenna proteins&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

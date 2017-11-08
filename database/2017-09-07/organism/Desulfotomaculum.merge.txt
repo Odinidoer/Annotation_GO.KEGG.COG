@@ -1,0 +1,708 @@
+path:drm00010	Glycolysis / Gluconeogenesis - Desulfotomaculum reducens
+path:drm00020	Citrate cycle (TCA cycle) - Desulfotomaculum reducens
+path:drm00030	Pentose phosphate pathway - Desulfotomaculum reducens
+path:drm00040	Pentose and glucuronate interconversions - Desulfotomaculum reducens
+path:drm00051	Fructose and mannose metabolism - Desulfotomaculum reducens
+path:drm00052	Galactose metabolism - Desulfotomaculum reducens
+path:drm00061	Fatty acid biosynthesis - Desulfotomaculum reducens
+path:drm00071	Fatty acid degradation - Desulfotomaculum reducens
+path:drm00130	Ubiquinone and other terpenoid-quinone biosynthesis - Desulfotomaculum reducens
+path:drm00190	Oxidative phosphorylation - Desulfotomaculum reducens
+path:drm00220	Arginine biosynthesis - Desulfotomaculum reducens
+path:drm00230	Purine metabolism - Desulfotomaculum reducens
+path:drm00240	Pyrimidine metabolism - Desulfotomaculum reducens
+path:drm00250	Alanine, aspartate and glutamate metabolism - Desulfotomaculum reducens
+path:drm00260	Glycine, serine and threonine metabolism - Desulfotomaculum reducens
+path:drm00261	Monobactam biosynthesis - Desulfotomaculum reducens
+path:drm00270	Cysteine and methionine metabolism - Desulfotomaculum reducens
+path:drm00280	Valine, leucine and isoleucine degradation - Desulfotomaculum reducens
+path:drm00281	Geraniol degradation - Desulfotomaculum reducens
+path:drm00290	Valine, leucine and isoleucine biosynthesis - Desulfotomaculum reducens
+path:drm00300	Lysine biosynthesis - Desulfotomaculum reducens
+path:drm00310	Lysine degradation - Desulfotomaculum reducens
+path:drm00330	Arginine and proline metabolism - Desulfotomaculum reducens
+path:drm00332	Carbapenem biosynthesis - Desulfotomaculum reducens
+path:drm00340	Histidine metabolism - Desulfotomaculum reducens
+path:drm00350	Tyrosine metabolism - Desulfotomaculum reducens
+path:drm00360	Phenylalanine metabolism - Desulfotomaculum reducens
+path:drm00362	Benzoate degradation - Desulfotomaculum reducens
+path:drm00380	Tryptophan metabolism - Desulfotomaculum reducens
+path:drm00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Desulfotomaculum reducens
+path:drm00401	Novobiocin biosynthesis - Desulfotomaculum reducens
+path:drm00410	beta-Alanine metabolism - Desulfotomaculum reducens
+path:drm00430	Taurine and hypotaurine metabolism - Desulfotomaculum reducens
+path:drm00440	Phosphonate and phosphinate metabolism - Desulfotomaculum reducens
+path:drm00450	Selenocompound metabolism - Desulfotomaculum reducens
+path:drm00471	D-Glutamine and D-glutamate metabolism - Desulfotomaculum reducens
+path:drm00473	D-Alanine metabolism - Desulfotomaculum reducens
+path:drm00480	Glutathione metabolism - Desulfotomaculum reducens
+path:drm00500	Starch and sucrose metabolism - Desulfotomaculum reducens
+path:drm00520	Amino sugar and nucleotide sugar metabolism - Desulfotomaculum reducens
+path:drm00521	Streptomycin biosynthesis - Desulfotomaculum reducens
+path:drm00523	Polyketide sugar unit biosynthesis - Desulfotomaculum reducens
+path:drm00525	Acarbose and validamycin biosynthesis - Desulfotomaculum reducens
+path:drm00550	Peptidoglycan biosynthesis - Desulfotomaculum reducens
+path:drm00561	Glycerolipid metabolism - Desulfotomaculum reducens
+path:drm00564	Glycerophospholipid metabolism - Desulfotomaculum reducens
+path:drm00592	alpha-Linolenic acid metabolism - Desulfotomaculum reducens
+path:drm00620	Pyruvate metabolism - Desulfotomaculum reducens
+path:drm00625	Chloroalkane and chloroalkene degradation - Desulfotomaculum reducens
+path:drm00626	Naphthalene degradation - Desulfotomaculum reducens
+path:drm00630	Glyoxylate and dicarboxylate metabolism - Desulfotomaculum reducens
+path:drm00633	Nitrotoluene degradation - Desulfotomaculum reducens
+path:drm00640	Propanoate metabolism - Desulfotomaculum reducens
+path:drm00650	Butanoate metabolism - Desulfotomaculum reducens
+path:drm00660	C5-Branched dibasic acid metabolism - Desulfotomaculum reducens
+path:drm00670	One carbon pool by folate - Desulfotomaculum reducens
+path:drm00680	Methane metabolism - Desulfotomaculum reducens
+path:drm00720	Carbon fixation pathways in prokaryotes - Desulfotomaculum reducens
+path:drm00730	Thiamine metabolism - Desulfotomaculum reducens
+path:drm00740	Riboflavin metabolism - Desulfotomaculum reducens
+path:drm00750	Vitamin B6 metabolism - Desulfotomaculum reducens
+path:drm00760	Nicotinate and nicotinamide metabolism - Desulfotomaculum reducens
+path:drm00770	Pantothenate and CoA biosynthesis - Desulfotomaculum reducens
+path:drm00780	Biotin metabolism - Desulfotomaculum reducens
+path:drm00785	Lipoic acid metabolism - Desulfotomaculum reducens
+path:drm00790	Folate biosynthesis - Desulfotomaculum reducens
+path:drm00860	Porphyrin and chlorophyll metabolism - Desulfotomaculum reducens
+path:drm00900	Terpenoid backbone biosynthesis - Desulfotomaculum reducens
+path:drm00910	Nitrogen metabolism - Desulfotomaculum reducens
+path:drm00920	Sulfur metabolism - Desulfotomaculum reducens
+path:drm00970	Aminoacyl-tRNA biosynthesis - Desulfotomaculum reducens
+path:drm01040	Biosynthesis of unsaturated fatty acids - Desulfotomaculum reducens
+path:drm01100	Metabolic pathways - Desulfotomaculum reducens
+path:drm01110	Biosynthesis of secondary metabolites - Desulfotomaculum reducens
+path:drm01120	Microbial metabolism in diverse environments - Desulfotomaculum reducens
+path:drm01130	Biosynthesis of antibiotics - Desulfotomaculum reducens
+path:drm01200	Carbon metabolism - Desulfotomaculum reducens
+path:drm01210	2-Oxocarboxylic acid metabolism - Desulfotomaculum reducens
+path:drm01212	Fatty acid metabolism - Desulfotomaculum reducens
+path:drm01220	Degradation of aromatic compounds - Desulfotomaculum reducens
+path:drm01230	Biosynthesis of amino acids - Desulfotomaculum reducens
+path:drm01501	beta-Lactam resistance - Desulfotomaculum reducens
+path:drm01502	Vancomycin resistance - Desulfotomaculum reducens
+path:drm01503	Cationic antimicrobial peptide (CAMP) resistance - Desulfotomaculum reducens
+path:drm02010	ABC transporters - Desulfotomaculum reducens
+path:drm02020	Two-component system - Desulfotomaculum reducens
+path:drm02024	Quorum sensing - Desulfotomaculum reducens
+path:drm02030	Bacterial chemotaxis - Desulfotomaculum reducens
+path:drm02040	Flagellar assembly - Desulfotomaculum reducens
+path:drm02060	Phosphotransferase system (PTS) - Desulfotomaculum reducens
+path:drm03010	Ribosome - Desulfotomaculum reducens
+path:drm03018	RNA degradation - Desulfotomaculum reducens
+path:drm03020	RNA polymerase - Desulfotomaculum reducens
+path:drm03030	DNA replication - Desulfotomaculum reducens
+path:drm03060	Protein export - Desulfotomaculum reducens
+path:drm03070	Bacterial secretion system - Desulfotomaculum reducens
+path:drm03410	Base excision repair - Desulfotomaculum reducens
+path:drm03420	Nucleotide excision repair - Desulfotomaculum reducens
+path:drm03430	Mismatch repair - Desulfotomaculum reducens
+path:drm03440	Homologous recombination - Desulfotomaculum reducens
+path:drm03450	Non-homologous end-joining - Desulfotomaculum reducens
+path:drm04122	Sulfur relay system - Desulfotomaculum reducens
+path:dae00010	Glycolysis / Gluconeogenesis - Desulfotomaculum acetoxidans
+path:dae00020	Citrate cycle (TCA cycle) - Desulfotomaculum acetoxidans
+path:dae00030	Pentose phosphate pathway - Desulfotomaculum acetoxidans
+path:dae00040	Pentose and glucuronate interconversions - Desulfotomaculum acetoxidans
+path:dae00051	Fructose and mannose metabolism - Desulfotomaculum acetoxidans
+path:dae00052	Galactose metabolism - Desulfotomaculum acetoxidans
+path:dae00061	Fatty acid biosynthesis - Desulfotomaculum acetoxidans
+path:dae00071	Fatty acid degradation - Desulfotomaculum acetoxidans
+path:dae00130	Ubiquinone and other terpenoid-quinone biosynthesis - Desulfotomaculum acetoxidans
+path:dae00190	Oxidative phosphorylation - Desulfotomaculum acetoxidans
+path:dae00220	Arginine biosynthesis - Desulfotomaculum acetoxidans
+path:dae00230	Purine metabolism - Desulfotomaculum acetoxidans
+path:dae00240	Pyrimidine metabolism - Desulfotomaculum acetoxidans
+path:dae00250	Alanine, aspartate and glutamate metabolism - Desulfotomaculum acetoxidans
+path:dae00260	Glycine, serine and threonine metabolism - Desulfotomaculum acetoxidans
+path:dae00261	Monobactam biosynthesis - Desulfotomaculum acetoxidans
+path:dae00270	Cysteine and methionine metabolism - Desulfotomaculum acetoxidans
+path:dae00280	Valine, leucine and isoleucine degradation - Desulfotomaculum acetoxidans
+path:dae00290	Valine, leucine and isoleucine biosynthesis - Desulfotomaculum acetoxidans
+path:dae00300	Lysine biosynthesis - Desulfotomaculum acetoxidans
+path:dae00310	Lysine degradation - Desulfotomaculum acetoxidans
+path:dae00330	Arginine and proline metabolism - Desulfotomaculum acetoxidans
+path:dae00332	Carbapenem biosynthesis - Desulfotomaculum acetoxidans
+path:dae00340	Histidine metabolism - Desulfotomaculum acetoxidans
+path:dae00350	Tyrosine metabolism - Desulfotomaculum acetoxidans
+path:dae00360	Phenylalanine metabolism - Desulfotomaculum acetoxidans
+path:dae00362	Benzoate degradation - Desulfotomaculum acetoxidans
+path:dae00380	Tryptophan metabolism - Desulfotomaculum acetoxidans
+path:dae00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Desulfotomaculum acetoxidans
+path:dae00401	Novobiocin biosynthesis - Desulfotomaculum acetoxidans
+path:dae00410	beta-Alanine metabolism - Desulfotomaculum acetoxidans
+path:dae00430	Taurine and hypotaurine metabolism - Desulfotomaculum acetoxidans
+path:dae00440	Phosphonate and phosphinate metabolism - Desulfotomaculum acetoxidans
+path:dae00450	Selenocompound metabolism - Desulfotomaculum acetoxidans
+path:dae00471	D-Glutamine and D-glutamate metabolism - Desulfotomaculum acetoxidans
+path:dae00473	D-Alanine metabolism - Desulfotomaculum acetoxidans
+path:dae00480	Glutathione metabolism - Desulfotomaculum acetoxidans
+path:dae00500	Starch and sucrose metabolism - Desulfotomaculum acetoxidans
+path:dae00520	Amino sugar and nucleotide sugar metabolism - Desulfotomaculum acetoxidans
+path:dae00521	Streptomycin biosynthesis - Desulfotomaculum acetoxidans
+path:dae00523	Polyketide sugar unit biosynthesis - Desulfotomaculum acetoxidans
+path:dae00525	Acarbose and validamycin biosynthesis - Desulfotomaculum acetoxidans
+path:dae00550	Peptidoglycan biosynthesis - Desulfotomaculum acetoxidans
+path:dae00561	Glycerolipid metabolism - Desulfotomaculum acetoxidans
+path:dae00564	Glycerophospholipid metabolism - Desulfotomaculum acetoxidans
+path:dae00620	Pyruvate metabolism - Desulfotomaculum acetoxidans
+path:dae00625	Chloroalkane and chloroalkene degradation - Desulfotomaculum acetoxidans
+path:dae00626	Naphthalene degradation - Desulfotomaculum acetoxidans
+path:dae00630	Glyoxylate and dicarboxylate metabolism - Desulfotomaculum acetoxidans
+path:dae00633	Nitrotoluene degradation - Desulfotomaculum acetoxidans
+path:dae00640	Propanoate metabolism - Desulfotomaculum acetoxidans
+path:dae00650	Butanoate metabolism - Desulfotomaculum acetoxidans
+path:dae00660	C5-Branched dibasic acid metabolism - Desulfotomaculum acetoxidans
+path:dae00670	One carbon pool by folate - Desulfotomaculum acetoxidans
+path:dae00680	Methane metabolism - Desulfotomaculum acetoxidans
+path:dae00720	Carbon fixation pathways in prokaryotes - Desulfotomaculum acetoxidans
+path:dae00730	Thiamine metabolism - Desulfotomaculum acetoxidans
+path:dae00740	Riboflavin metabolism - Desulfotomaculum acetoxidans
+path:dae00750	Vitamin B6 metabolism - Desulfotomaculum acetoxidans
+path:dae00760	Nicotinate and nicotinamide metabolism - Desulfotomaculum acetoxidans
+path:dae00770	Pantothenate and CoA biosynthesis - Desulfotomaculum acetoxidans
+path:dae00780	Biotin metabolism - Desulfotomaculum acetoxidans
+path:dae00790	Folate biosynthesis - Desulfotomaculum acetoxidans
+path:dae00860	Porphyrin and chlorophyll metabolism - Desulfotomaculum acetoxidans
+path:dae00900	Terpenoid backbone biosynthesis - Desulfotomaculum acetoxidans
+path:dae00910	Nitrogen metabolism - Desulfotomaculum acetoxidans
+path:dae00920	Sulfur metabolism - Desulfotomaculum acetoxidans
+path:dae00970	Aminoacyl-tRNA biosynthesis - Desulfotomaculum acetoxidans
+path:dae01040	Biosynthesis of unsaturated fatty acids - Desulfotomaculum acetoxidans
+path:dae01053	Biosynthesis of siderophore group nonribosomal peptides - Desulfotomaculum acetoxidans
+path:dae01100	Metabolic pathways - Desulfotomaculum acetoxidans
+path:dae01110	Biosynthesis of secondary metabolites - Desulfotomaculum acetoxidans
+path:dae01120	Microbial metabolism in diverse environments - Desulfotomaculum acetoxidans
+path:dae01130	Biosynthesis of antibiotics - Desulfotomaculum acetoxidans
+path:dae01200	Carbon metabolism - Desulfotomaculum acetoxidans
+path:dae01210	2-Oxocarboxylic acid metabolism - Desulfotomaculum acetoxidans
+path:dae01212	Fatty acid metabolism - Desulfotomaculum acetoxidans
+path:dae01220	Degradation of aromatic compounds - Desulfotomaculum acetoxidans
+path:dae01230	Biosynthesis of amino acids - Desulfotomaculum acetoxidans
+path:dae01501	beta-Lactam resistance - Desulfotomaculum acetoxidans
+path:dae01502	Vancomycin resistance - Desulfotomaculum acetoxidans
+path:dae01503	Cationic antimicrobial peptide (CAMP) resistance - Desulfotomaculum acetoxidans
+path:dae02010	ABC transporters - Desulfotomaculum acetoxidans
+path:dae02020	Two-component system - Desulfotomaculum acetoxidans
+path:dae02024	Quorum sensing - Desulfotomaculum acetoxidans
+path:dae02030	Bacterial chemotaxis - Desulfotomaculum acetoxidans
+path:dae02040	Flagellar assembly - Desulfotomaculum acetoxidans
+path:dae03010	Ribosome - Desulfotomaculum acetoxidans
+path:dae03018	RNA degradation - Desulfotomaculum acetoxidans
+path:dae03020	RNA polymerase - Desulfotomaculum acetoxidans
+path:dae03030	DNA replication - Desulfotomaculum acetoxidans
+path:dae03060	Protein export - Desulfotomaculum acetoxidans
+path:dae03070	Bacterial secretion system - Desulfotomaculum acetoxidans
+path:dae03410	Base excision repair - Desulfotomaculum acetoxidans
+path:dae03420	Nucleotide excision repair - Desulfotomaculum acetoxidans
+path:dae03430	Mismatch repair - Desulfotomaculum acetoxidans
+path:dae03440	Homologous recombination - Desulfotomaculum acetoxidans
+path:dae04122	Sulfur relay system - Desulfotomaculum acetoxidans
+path:dca00010	Glycolysis / Gluconeogenesis - Desulfotomaculum nigrificans
+path:dca00020	Citrate cycle (TCA cycle) - Desulfotomaculum nigrificans
+path:dca00030	Pentose phosphate pathway - Desulfotomaculum nigrificans
+path:dca00040	Pentose and glucuronate interconversions - Desulfotomaculum nigrificans
+path:dca00051	Fructose and mannose metabolism - Desulfotomaculum nigrificans
+path:dca00052	Galactose metabolism - Desulfotomaculum nigrificans
+path:dca00061	Fatty acid biosynthesis - Desulfotomaculum nigrificans
+path:dca00071	Fatty acid degradation - Desulfotomaculum nigrificans
+path:dca00130	Ubiquinone and other terpenoid-quinone biosynthesis - Desulfotomaculum nigrificans
+path:dca00190	Oxidative phosphorylation - Desulfotomaculum nigrificans
+path:dca00220	Arginine biosynthesis - Desulfotomaculum nigrificans
+path:dca00230	Purine metabolism - Desulfotomaculum nigrificans
+path:dca00240	Pyrimidine metabolism - Desulfotomaculum nigrificans
+path:dca00250	Alanine, aspartate and glutamate metabolism - Desulfotomaculum nigrificans
+path:dca00260	Glycine, serine and threonine metabolism - Desulfotomaculum nigrificans
+path:dca00261	Monobactam biosynthesis - Desulfotomaculum nigrificans
+path:dca00270	Cysteine and methionine metabolism - Desulfotomaculum nigrificans
+path:dca00280	Valine, leucine and isoleucine degradation - Desulfotomaculum nigrificans
+path:dca00290	Valine, leucine and isoleucine biosynthesis - Desulfotomaculum nigrificans
+path:dca00300	Lysine biosynthesis - Desulfotomaculum nigrificans
+path:dca00330	Arginine and proline metabolism - Desulfotomaculum nigrificans
+path:dca00332	Carbapenem biosynthesis - Desulfotomaculum nigrificans
+path:dca00340	Histidine metabolism - Desulfotomaculum nigrificans
+path:dca00350	Tyrosine metabolism - Desulfotomaculum nigrificans
+path:dca00360	Phenylalanine metabolism - Desulfotomaculum nigrificans
+path:dca00362	Benzoate degradation - Desulfotomaculum nigrificans
+path:dca00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Desulfotomaculum nigrificans
+path:dca00401	Novobiocin biosynthesis - Desulfotomaculum nigrificans
+path:dca00410	beta-Alanine metabolism - Desulfotomaculum nigrificans
+path:dca00430	Taurine and hypotaurine metabolism - Desulfotomaculum nigrificans
+path:dca00450	Selenocompound metabolism - Desulfotomaculum nigrificans
+path:dca00460	Cyanoamino acid metabolism - Desulfotomaculum nigrificans
+path:dca00471	D-Glutamine and D-glutamate metabolism - Desulfotomaculum nigrificans
+path:dca00473	D-Alanine metabolism - Desulfotomaculum nigrificans
+path:dca00480	Glutathione metabolism - Desulfotomaculum nigrificans
+path:dca00500	Starch and sucrose metabolism - Desulfotomaculum nigrificans
+path:dca00520	Amino sugar and nucleotide sugar metabolism - Desulfotomaculum nigrificans
+path:dca00521	Streptomycin biosynthesis - Desulfotomaculum nigrificans
+path:dca00523	Polyketide sugar unit biosynthesis - Desulfotomaculum nigrificans
+path:dca00525	Acarbose and validamycin biosynthesis - Desulfotomaculum nigrificans
+path:dca00550	Peptidoglycan biosynthesis - Desulfotomaculum nigrificans
+path:dca00561	Glycerolipid metabolism - Desulfotomaculum nigrificans
+path:dca00562	Inositol phosphate metabolism - Desulfotomaculum nigrificans
+path:dca00564	Glycerophospholipid metabolism - Desulfotomaculum nigrificans
+path:dca00620	Pyruvate metabolism - Desulfotomaculum nigrificans
+path:dca00621	Dioxin degradation - Desulfotomaculum nigrificans
+path:dca00622	Xylene degradation - Desulfotomaculum nigrificans
+path:dca00625	Chloroalkane and chloroalkene degradation - Desulfotomaculum nigrificans
+path:dca00626	Naphthalene degradation - Desulfotomaculum nigrificans
+path:dca00627	Aminobenzoate degradation - Desulfotomaculum nigrificans
+path:dca00630	Glyoxylate and dicarboxylate metabolism - Desulfotomaculum nigrificans
+path:dca00633	Nitrotoluene degradation - Desulfotomaculum nigrificans
+path:dca00640	Propanoate metabolism - Desulfotomaculum nigrificans
+path:dca00643	Styrene degradation - Desulfotomaculum nigrificans
+path:dca00650	Butanoate metabolism - Desulfotomaculum nigrificans
+path:dca00660	C5-Branched dibasic acid metabolism - Desulfotomaculum nigrificans
+path:dca00670	One carbon pool by folate - Desulfotomaculum nigrificans
+path:dca00680	Methane metabolism - Desulfotomaculum nigrificans
+path:dca00720	Carbon fixation pathways in prokaryotes - Desulfotomaculum nigrificans
+path:dca00730	Thiamine metabolism - Desulfotomaculum nigrificans
+path:dca00740	Riboflavin metabolism - Desulfotomaculum nigrificans
+path:dca00750	Vitamin B6 metabolism - Desulfotomaculum nigrificans
+path:dca00760	Nicotinate and nicotinamide metabolism - Desulfotomaculum nigrificans
+path:dca00770	Pantothenate and CoA biosynthesis - Desulfotomaculum nigrificans
+path:dca00780	Biotin metabolism - Desulfotomaculum nigrificans
+path:dca00785	Lipoic acid metabolism - Desulfotomaculum nigrificans
+path:dca00790	Folate biosynthesis - Desulfotomaculum nigrificans
+path:dca00860	Porphyrin and chlorophyll metabolism - Desulfotomaculum nigrificans
+path:dca00900	Terpenoid backbone biosynthesis - Desulfotomaculum nigrificans
+path:dca00910	Nitrogen metabolism - Desulfotomaculum nigrificans
+path:dca00920	Sulfur metabolism - Desulfotomaculum nigrificans
+path:dca00970	Aminoacyl-tRNA biosynthesis - Desulfotomaculum nigrificans
+path:dca01040	Biosynthesis of unsaturated fatty acids - Desulfotomaculum nigrificans
+path:dca01100	Metabolic pathways - Desulfotomaculum nigrificans
+path:dca01110	Biosynthesis of secondary metabolites - Desulfotomaculum nigrificans
+path:dca01120	Microbial metabolism in diverse environments - Desulfotomaculum nigrificans
+path:dca01130	Biosynthesis of antibiotics - Desulfotomaculum nigrificans
+path:dca01200	Carbon metabolism - Desulfotomaculum nigrificans
+path:dca01210	2-Oxocarboxylic acid metabolism - Desulfotomaculum nigrificans
+path:dca01212	Fatty acid metabolism - Desulfotomaculum nigrificans
+path:dca01220	Degradation of aromatic compounds - Desulfotomaculum nigrificans
+path:dca01230	Biosynthesis of amino acids - Desulfotomaculum nigrificans
+path:dca01501	beta-Lactam resistance - Desulfotomaculum nigrificans
+path:dca01502	Vancomycin resistance - Desulfotomaculum nigrificans
+path:dca01503	Cationic antimicrobial peptide (CAMP) resistance - Desulfotomaculum nigrificans
+path:dca02010	ABC transporters - Desulfotomaculum nigrificans
+path:dca02020	Two-component system - Desulfotomaculum nigrificans
+path:dca02024	Quorum sensing - Desulfotomaculum nigrificans
+path:dca02030	Bacterial chemotaxis - Desulfotomaculum nigrificans
+path:dca02040	Flagellar assembly - Desulfotomaculum nigrificans
+path:dca02060	Phosphotransferase system (PTS) - Desulfotomaculum nigrificans
+path:dca03010	Ribosome - Desulfotomaculum nigrificans
+path:dca03018	RNA degradation - Desulfotomaculum nigrificans
+path:dca03020	RNA polymerase - Desulfotomaculum nigrificans
+path:dca03030	DNA replication - Desulfotomaculum nigrificans
+path:dca03060	Protein export - Desulfotomaculum nigrificans
+path:dca03070	Bacterial secretion system - Desulfotomaculum nigrificans
+path:dca03410	Base excision repair - Desulfotomaculum nigrificans
+path:dca03420	Nucleotide excision repair - Desulfotomaculum nigrificans
+path:dca03430	Mismatch repair - Desulfotomaculum nigrificans
+path:dca03440	Homologous recombination - Desulfotomaculum nigrificans
+path:dca03450	Non-homologous end-joining - Desulfotomaculum nigrificans
+path:dca04122	Sulfur relay system - Desulfotomaculum nigrificans
+path:dku00010	Glycolysis / Gluconeogenesis - Desulfotomaculum kuznetsovii
+path:dku00020	Citrate cycle (TCA cycle) - Desulfotomaculum kuznetsovii
+path:dku00030	Pentose phosphate pathway - Desulfotomaculum kuznetsovii
+path:dku00040	Pentose and glucuronate interconversions - Desulfotomaculum kuznetsovii
+path:dku00051	Fructose and mannose metabolism - Desulfotomaculum kuznetsovii
+path:dku00052	Galactose metabolism - Desulfotomaculum kuznetsovii
+path:dku00061	Fatty acid biosynthesis - Desulfotomaculum kuznetsovii
+path:dku00071	Fatty acid degradation - Desulfotomaculum kuznetsovii
+path:dku00072	Synthesis and degradation of ketone bodies - Desulfotomaculum kuznetsovii
+path:dku00130	Ubiquinone and other terpenoid-quinone biosynthesis - Desulfotomaculum kuznetsovii
+path:dku00190	Oxidative phosphorylation - Desulfotomaculum kuznetsovii
+path:dku00220	Arginine biosynthesis - Desulfotomaculum kuznetsovii
+path:dku00230	Purine metabolism - Desulfotomaculum kuznetsovii
+path:dku00240	Pyrimidine metabolism - Desulfotomaculum kuznetsovii
+path:dku00250	Alanine, aspartate and glutamate metabolism - Desulfotomaculum kuznetsovii
+path:dku00260	Glycine, serine and threonine metabolism - Desulfotomaculum kuznetsovii
+path:dku00261	Monobactam biosynthesis - Desulfotomaculum kuznetsovii
+path:dku00270	Cysteine and methionine metabolism - Desulfotomaculum kuznetsovii
+path:dku00280	Valine, leucine and isoleucine degradation - Desulfotomaculum kuznetsovii
+path:dku00281	Geraniol degradation - Desulfotomaculum kuznetsovii
+path:dku00290	Valine, leucine and isoleucine biosynthesis - Desulfotomaculum kuznetsovii
+path:dku00300	Lysine biosynthesis - Desulfotomaculum kuznetsovii
+path:dku00310	Lysine degradation - Desulfotomaculum kuznetsovii
+path:dku00330	Arginine and proline metabolism - Desulfotomaculum kuznetsovii
+path:dku00332	Carbapenem biosynthesis - Desulfotomaculum kuznetsovii
+path:dku00340	Histidine metabolism - Desulfotomaculum kuznetsovii
+path:dku00350	Tyrosine metabolism - Desulfotomaculum kuznetsovii
+path:dku00360	Phenylalanine metabolism - Desulfotomaculum kuznetsovii
+path:dku00362	Benzoate degradation - Desulfotomaculum kuznetsovii
+path:dku00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Desulfotomaculum kuznetsovii
+path:dku00401	Novobiocin biosynthesis - Desulfotomaculum kuznetsovii
+path:dku00410	beta-Alanine metabolism - Desulfotomaculum kuznetsovii
+path:dku00440	Phosphonate and phosphinate metabolism - Desulfotomaculum kuznetsovii
+path:dku00450	Selenocompound metabolism - Desulfotomaculum kuznetsovii
+path:dku00471	D-Glutamine and D-glutamate metabolism - Desulfotomaculum kuznetsovii
+path:dku00473	D-Alanine metabolism - Desulfotomaculum kuznetsovii
+path:dku00480	Glutathione metabolism - Desulfotomaculum kuznetsovii
+path:dku00500	Starch and sucrose metabolism - Desulfotomaculum kuznetsovii
+path:dku00520	Amino sugar and nucleotide sugar metabolism - Desulfotomaculum kuznetsovii
+path:dku00521	Streptomycin biosynthesis - Desulfotomaculum kuznetsovii
+path:dku00523	Polyketide sugar unit biosynthesis - Desulfotomaculum kuznetsovii
+path:dku00525	Acarbose and validamycin biosynthesis - Desulfotomaculum kuznetsovii
+path:dku00550	Peptidoglycan biosynthesis - Desulfotomaculum kuznetsovii
+path:dku00561	Glycerolipid metabolism - Desulfotomaculum kuznetsovii
+path:dku00562	Inositol phosphate metabolism - Desulfotomaculum kuznetsovii
+path:dku00564	Glycerophospholipid metabolism - Desulfotomaculum kuznetsovii
+path:dku00592	alpha-Linolenic acid metabolism - Desulfotomaculum kuznetsovii
+path:dku00620	Pyruvate metabolism - Desulfotomaculum kuznetsovii
+path:dku00621	Dioxin degradation - Desulfotomaculum kuznetsovii
+path:dku00622	Xylene degradation - Desulfotomaculum kuznetsovii
+path:dku00625	Chloroalkane and chloroalkene degradation - Desulfotomaculum kuznetsovii
+path:dku00626	Naphthalene degradation - Desulfotomaculum kuznetsovii
+path:dku00627	Aminobenzoate degradation - Desulfotomaculum kuznetsovii
+path:dku00630	Glyoxylate and dicarboxylate metabolism - Desulfotomaculum kuznetsovii
+path:dku00633	Nitrotoluene degradation - Desulfotomaculum kuznetsovii
+path:dku00640	Propanoate metabolism - Desulfotomaculum kuznetsovii
+path:dku00650	Butanoate metabolism - Desulfotomaculum kuznetsovii
+path:dku00660	C5-Branched dibasic acid metabolism - Desulfotomaculum kuznetsovii
+path:dku00670	One carbon pool by folate - Desulfotomaculum kuznetsovii
+path:dku00680	Methane metabolism - Desulfotomaculum kuznetsovii
+path:dku00720	Carbon fixation pathways in prokaryotes - Desulfotomaculum kuznetsovii
+path:dku00730	Thiamine metabolism - Desulfotomaculum kuznetsovii
+path:dku00740	Riboflavin metabolism - Desulfotomaculum kuznetsovii
+path:dku00750	Vitamin B6 metabolism - Desulfotomaculum kuznetsovii
+path:dku00760	Nicotinate and nicotinamide metabolism - Desulfotomaculum kuznetsovii
+path:dku00770	Pantothenate and CoA biosynthesis - Desulfotomaculum kuznetsovii
+path:dku00780	Biotin metabolism - Desulfotomaculum kuznetsovii
+path:dku00790	Folate biosynthesis - Desulfotomaculum kuznetsovii
+path:dku00860	Porphyrin and chlorophyll metabolism - Desulfotomaculum kuznetsovii
+path:dku00900	Terpenoid backbone biosynthesis - Desulfotomaculum kuznetsovii
+path:dku00910	Nitrogen metabolism - Desulfotomaculum kuznetsovii
+path:dku00920	Sulfur metabolism - Desulfotomaculum kuznetsovii
+path:dku00970	Aminoacyl-tRNA biosynthesis - Desulfotomaculum kuznetsovii
+path:dku01040	Biosynthesis of unsaturated fatty acids - Desulfotomaculum kuznetsovii
+path:dku01100	Metabolic pathways - Desulfotomaculum kuznetsovii
+path:dku01110	Biosynthesis of secondary metabolites - Desulfotomaculum kuznetsovii
+path:dku01120	Microbial metabolism in diverse environments - Desulfotomaculum kuznetsovii
+path:dku01130	Biosynthesis of antibiotics - Desulfotomaculum kuznetsovii
+path:dku01200	Carbon metabolism - Desulfotomaculum kuznetsovii
+path:dku01210	2-Oxocarboxylic acid metabolism - Desulfotomaculum kuznetsovii
+path:dku01212	Fatty acid metabolism - Desulfotomaculum kuznetsovii
+path:dku01220	Degradation of aromatic compounds - Desulfotomaculum kuznetsovii
+path:dku01230	Biosynthesis of amino acids - Desulfotomaculum kuznetsovii
+path:dku01501	beta-Lactam resistance - Desulfotomaculum kuznetsovii
+path:dku01502	Vancomycin resistance - Desulfotomaculum kuznetsovii
+path:dku01503	Cationic antimicrobial peptide (CAMP) resistance - Desulfotomaculum kuznetsovii
+path:dku02010	ABC transporters - Desulfotomaculum kuznetsovii
+path:dku02020	Two-component system - Desulfotomaculum kuznetsovii
+path:dku02024	Quorum sensing - Desulfotomaculum kuznetsovii
+path:dku02030	Bacterial chemotaxis - Desulfotomaculum kuznetsovii
+path:dku02040	Flagellar assembly - Desulfotomaculum kuznetsovii
+path:dku02060	Phosphotransferase system (PTS) - Desulfotomaculum kuznetsovii
+path:dku03010	Ribosome - Desulfotomaculum kuznetsovii
+path:dku03018	RNA degradation - Desulfotomaculum kuznetsovii
+path:dku03020	RNA polymerase - Desulfotomaculum kuznetsovii
+path:dku03030	DNA replication - Desulfotomaculum kuznetsovii
+path:dku03060	Protein export - Desulfotomaculum kuznetsovii
+path:dku03070	Bacterial secretion system - Desulfotomaculum kuznetsovii
+path:dku03410	Base excision repair - Desulfotomaculum kuznetsovii
+path:dku03420	Nucleotide excision repair - Desulfotomaculum kuznetsovii
+path:dku03430	Mismatch repair - Desulfotomaculum kuznetsovii
+path:dku03440	Homologous recombination - Desulfotomaculum kuznetsovii
+path:dku03450	Non-homologous end-joining - Desulfotomaculum kuznetsovii
+path:dku04122	Sulfur relay system - Desulfotomaculum kuznetsovii
+path:dru00010	Glycolysis / Gluconeogenesis - Desulfotomaculum ruminis
+path:dru00020	Citrate cycle (TCA cycle) - Desulfotomaculum ruminis
+path:dru00030	Pentose phosphate pathway - Desulfotomaculum ruminis
+path:dru00040	Pentose and glucuronate interconversions - Desulfotomaculum ruminis
+path:dru00051	Fructose and mannose metabolism - Desulfotomaculum ruminis
+path:dru00052	Galactose metabolism - Desulfotomaculum ruminis
+path:dru00061	Fatty acid biosynthesis - Desulfotomaculum ruminis
+path:dru00071	Fatty acid degradation - Desulfotomaculum ruminis
+path:dru00130	Ubiquinone and other terpenoid-quinone biosynthesis - Desulfotomaculum ruminis
+path:dru00190	Oxidative phosphorylation - Desulfotomaculum ruminis
+path:dru00220	Arginine biosynthesis - Desulfotomaculum ruminis
+path:dru00230	Purine metabolism - Desulfotomaculum ruminis
+path:dru00240	Pyrimidine metabolism - Desulfotomaculum ruminis
+path:dru00250	Alanine, aspartate and glutamate metabolism - Desulfotomaculum ruminis
+path:dru00260	Glycine, serine and threonine metabolism - Desulfotomaculum ruminis
+path:dru00261	Monobactam biosynthesis - Desulfotomaculum ruminis
+path:dru00270	Cysteine and methionine metabolism - Desulfotomaculum ruminis
+path:dru00280	Valine, leucine and isoleucine degradation - Desulfotomaculum ruminis
+path:dru00290	Valine, leucine and isoleucine biosynthesis - Desulfotomaculum ruminis
+path:dru00300	Lysine biosynthesis - Desulfotomaculum ruminis
+path:dru00330	Arginine and proline metabolism - Desulfotomaculum ruminis
+path:dru00332	Carbapenem biosynthesis - Desulfotomaculum ruminis
+path:dru00340	Histidine metabolism - Desulfotomaculum ruminis
+path:dru00350	Tyrosine metabolism - Desulfotomaculum ruminis
+path:dru00360	Phenylalanine metabolism - Desulfotomaculum ruminis
+path:dru00361	Chlorocyclohexane and chlorobenzene degradation - Desulfotomaculum ruminis
+path:dru00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Desulfotomaculum ruminis
+path:dru00401	Novobiocin biosynthesis - Desulfotomaculum ruminis
+path:dru00410	beta-Alanine metabolism - Desulfotomaculum ruminis
+path:dru00430	Taurine and hypotaurine metabolism - Desulfotomaculum ruminis
+path:dru00440	Phosphonate and phosphinate metabolism - Desulfotomaculum ruminis
+path:dru00450	Selenocompound metabolism - Desulfotomaculum ruminis
+path:dru00471	D-Glutamine and D-glutamate metabolism - Desulfotomaculum ruminis
+path:dru00473	D-Alanine metabolism - Desulfotomaculum ruminis
+path:dru00480	Glutathione metabolism - Desulfotomaculum ruminis
+path:dru00500	Starch and sucrose metabolism - Desulfotomaculum ruminis
+path:dru00520	Amino sugar and nucleotide sugar metabolism - Desulfotomaculum ruminis
+path:dru00521	Streptomycin biosynthesis - Desulfotomaculum ruminis
+path:dru00523	Polyketide sugar unit biosynthesis - Desulfotomaculum ruminis
+path:dru00525	Acarbose and validamycin biosynthesis - Desulfotomaculum ruminis
+path:dru00550	Peptidoglycan biosynthesis - Desulfotomaculum ruminis
+path:dru00561	Glycerolipid metabolism - Desulfotomaculum ruminis
+path:dru00562	Inositol phosphate metabolism - Desulfotomaculum ruminis
+path:dru00564	Glycerophospholipid metabolism - Desulfotomaculum ruminis
+path:dru00620	Pyruvate metabolism - Desulfotomaculum ruminis
+path:dru00625	Chloroalkane and chloroalkene degradation - Desulfotomaculum ruminis
+path:dru00626	Naphthalene degradation - Desulfotomaculum ruminis
+path:dru00630	Glyoxylate and dicarboxylate metabolism - Desulfotomaculum ruminis
+path:dru00633	Nitrotoluene degradation - Desulfotomaculum ruminis
+path:dru00640	Propanoate metabolism - Desulfotomaculum ruminis
+path:dru00650	Butanoate metabolism - Desulfotomaculum ruminis
+path:dru00660	C5-Branched dibasic acid metabolism - Desulfotomaculum ruminis
+path:dru00670	One carbon pool by folate - Desulfotomaculum ruminis
+path:dru00680	Methane metabolism - Desulfotomaculum ruminis
+path:dru00720	Carbon fixation pathways in prokaryotes - Desulfotomaculum ruminis
+path:dru00730	Thiamine metabolism - Desulfotomaculum ruminis
+path:dru00740	Riboflavin metabolism - Desulfotomaculum ruminis
+path:dru00750	Vitamin B6 metabolism - Desulfotomaculum ruminis
+path:dru00760	Nicotinate and nicotinamide metabolism - Desulfotomaculum ruminis
+path:dru00770	Pantothenate and CoA biosynthesis - Desulfotomaculum ruminis
+path:dru00780	Biotin metabolism - Desulfotomaculum ruminis
+path:dru00790	Folate biosynthesis - Desulfotomaculum ruminis
+path:dru00860	Porphyrin and chlorophyll metabolism - Desulfotomaculum ruminis
+path:dru00900	Terpenoid backbone biosynthesis - Desulfotomaculum ruminis
+path:dru00910	Nitrogen metabolism - Desulfotomaculum ruminis
+path:dru00920	Sulfur metabolism - Desulfotomaculum ruminis
+path:dru00970	Aminoacyl-tRNA biosynthesis - Desulfotomaculum ruminis
+path:dru01040	Biosynthesis of unsaturated fatty acids - Desulfotomaculum ruminis
+path:dru01100	Metabolic pathways - Desulfotomaculum ruminis
+path:dru01110	Biosynthesis of secondary metabolites - Desulfotomaculum ruminis
+path:dru01120	Microbial metabolism in diverse environments - Desulfotomaculum ruminis
+path:dru01130	Biosynthesis of antibiotics - Desulfotomaculum ruminis
+path:dru01200	Carbon metabolism - Desulfotomaculum ruminis
+path:dru01210	2-Oxocarboxylic acid metabolism - Desulfotomaculum ruminis
+path:dru01212	Fatty acid metabolism - Desulfotomaculum ruminis
+path:dru01220	Degradation of aromatic compounds - Desulfotomaculum ruminis
+path:dru01230	Biosynthesis of amino acids - Desulfotomaculum ruminis
+path:dru01501	beta-Lactam resistance - Desulfotomaculum ruminis
+path:dru01502	Vancomycin resistance - Desulfotomaculum ruminis
+path:dru01503	Cationic antimicrobial peptide (CAMP) resistance - Desulfotomaculum ruminis
+path:dru02010	ABC transporters - Desulfotomaculum ruminis
+path:dru02020	Two-component system - Desulfotomaculum ruminis
+path:dru02024	Quorum sensing - Desulfotomaculum ruminis
+path:dru02030	Bacterial chemotaxis - Desulfotomaculum ruminis
+path:dru02040	Flagellar assembly - Desulfotomaculum ruminis
+path:dru03010	Ribosome - Desulfotomaculum ruminis
+path:dru03018	RNA degradation - Desulfotomaculum ruminis
+path:dru03020	RNA polymerase - Desulfotomaculum ruminis
+path:dru03030	DNA replication - Desulfotomaculum ruminis
+path:dru03060	Protein export - Desulfotomaculum ruminis
+path:dru03070	Bacterial secretion system - Desulfotomaculum ruminis
+path:dru03410	Base excision repair - Desulfotomaculum ruminis
+path:dru03420	Nucleotide excision repair - Desulfotomaculum ruminis
+path:dru03430	Mismatch repair - Desulfotomaculum ruminis
+path:dru03440	Homologous recombination - Desulfotomaculum ruminis
+path:dru03450	Non-homologous end-joining - Desulfotomaculum ruminis
+path:dru04122	Sulfur relay system - Desulfotomaculum ruminis
+path:dgi00010	Glycolysis / Gluconeogenesis - Desulfotomaculum gibsoniae
+path:dgi00020	Citrate cycle (TCA cycle) - Desulfotomaculum gibsoniae
+path:dgi00030	Pentose phosphate pathway - Desulfotomaculum gibsoniae
+path:dgi00040	Pentose and glucuronate interconversions - Desulfotomaculum gibsoniae
+path:dgi00051	Fructose and mannose metabolism - Desulfotomaculum gibsoniae
+path:dgi00052	Galactose metabolism - Desulfotomaculum gibsoniae
+path:dgi00061	Fatty acid biosynthesis - Desulfotomaculum gibsoniae
+path:dgi00071	Fatty acid degradation - Desulfotomaculum gibsoniae
+path:dgi00072	Synthesis and degradation of ketone bodies - Desulfotomaculum gibsoniae
+path:dgi00130	Ubiquinone and other terpenoid-quinone biosynthesis - Desulfotomaculum gibsoniae
+path:dgi00190	Oxidative phosphorylation - Desulfotomaculum gibsoniae
+path:dgi00220	Arginine biosynthesis - Desulfotomaculum gibsoniae
+path:dgi00230	Purine metabolism - Desulfotomaculum gibsoniae
+path:dgi00240	Pyrimidine metabolism - Desulfotomaculum gibsoniae
+path:dgi00250	Alanine, aspartate and glutamate metabolism - Desulfotomaculum gibsoniae
+path:dgi00260	Glycine, serine and threonine metabolism - Desulfotomaculum gibsoniae
+path:dgi00261	Monobactam biosynthesis - Desulfotomaculum gibsoniae
+path:dgi00270	Cysteine and methionine metabolism - Desulfotomaculum gibsoniae
+path:dgi00280	Valine, leucine and isoleucine degradation - Desulfotomaculum gibsoniae
+path:dgi00281	Geraniol degradation - Desulfotomaculum gibsoniae
+path:dgi00290	Valine, leucine and isoleucine biosynthesis - Desulfotomaculum gibsoniae
+path:dgi00300	Lysine biosynthesis - Desulfotomaculum gibsoniae
+path:dgi00310	Lysine degradation - Desulfotomaculum gibsoniae
+path:dgi00330	Arginine and proline metabolism - Desulfotomaculum gibsoniae
+path:dgi00332	Carbapenem biosynthesis - Desulfotomaculum gibsoniae
+path:dgi00340	Histidine metabolism - Desulfotomaculum gibsoniae
+path:dgi00350	Tyrosine metabolism - Desulfotomaculum gibsoniae
+path:dgi00360	Phenylalanine metabolism - Desulfotomaculum gibsoniae
+path:dgi00362	Benzoate degradation - Desulfotomaculum gibsoniae
+path:dgi00380	Tryptophan metabolism - Desulfotomaculum gibsoniae
+path:dgi00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Desulfotomaculum gibsoniae
+path:dgi00401	Novobiocin biosynthesis - Desulfotomaculum gibsoniae
+path:dgi00410	beta-Alanine metabolism - Desulfotomaculum gibsoniae
+path:dgi00430	Taurine and hypotaurine metabolism - Desulfotomaculum gibsoniae
+path:dgi00440	Phosphonate and phosphinate metabolism - Desulfotomaculum gibsoniae
+path:dgi00450	Selenocompound metabolism - Desulfotomaculum gibsoniae
+path:dgi00471	D-Glutamine and D-glutamate metabolism - Desulfotomaculum gibsoniae
+path:dgi00473	D-Alanine metabolism - Desulfotomaculum gibsoniae
+path:dgi00480	Glutathione metabolism - Desulfotomaculum gibsoniae
+path:dgi00500	Starch and sucrose metabolism - Desulfotomaculum gibsoniae
+path:dgi00520	Amino sugar and nucleotide sugar metabolism - Desulfotomaculum gibsoniae
+path:dgi00521	Streptomycin biosynthesis - Desulfotomaculum gibsoniae
+path:dgi00550	Peptidoglycan biosynthesis - Desulfotomaculum gibsoniae
+path:dgi00561	Glycerolipid metabolism - Desulfotomaculum gibsoniae
+path:dgi00562	Inositol phosphate metabolism - Desulfotomaculum gibsoniae
+path:dgi00564	Glycerophospholipid metabolism - Desulfotomaculum gibsoniae
+path:dgi00592	alpha-Linolenic acid metabolism - Desulfotomaculum gibsoniae
+path:dgi00620	Pyruvate metabolism - Desulfotomaculum gibsoniae
+path:dgi00622	Xylene degradation - Desulfotomaculum gibsoniae
+path:dgi00623	Toluene degradation - Desulfotomaculum gibsoniae
+path:dgi00625	Chloroalkane and chloroalkene degradation - Desulfotomaculum gibsoniae
+path:dgi00626	Naphthalene degradation - Desulfotomaculum gibsoniae
+path:dgi00627	Aminobenzoate degradation - Desulfotomaculum gibsoniae
+path:dgi00630	Glyoxylate and dicarboxylate metabolism - Desulfotomaculum gibsoniae
+path:dgi00633	Nitrotoluene degradation - Desulfotomaculum gibsoniae
+path:dgi00640	Propanoate metabolism - Desulfotomaculum gibsoniae
+path:dgi00643	Styrene degradation - Desulfotomaculum gibsoniae
+path:dgi00650	Butanoate metabolism - Desulfotomaculum gibsoniae
+path:dgi00660	C5-Branched dibasic acid metabolism - Desulfotomaculum gibsoniae
+path:dgi00670	One carbon pool by folate - Desulfotomaculum gibsoniae
+path:dgi00680	Methane metabolism - Desulfotomaculum gibsoniae
+path:dgi00720	Carbon fixation pathways in prokaryotes - Desulfotomaculum gibsoniae
+path:dgi00730	Thiamine metabolism - Desulfotomaculum gibsoniae
+path:dgi00740	Riboflavin metabolism - Desulfotomaculum gibsoniae
+path:dgi00750	Vitamin B6 metabolism - Desulfotomaculum gibsoniae
+path:dgi00760	Nicotinate and nicotinamide metabolism - Desulfotomaculum gibsoniae
+path:dgi00770	Pantothenate and CoA biosynthesis - Desulfotomaculum gibsoniae
+path:dgi00780	Biotin metabolism - Desulfotomaculum gibsoniae
+path:dgi00785	Lipoic acid metabolism - Desulfotomaculum gibsoniae
+path:dgi00790	Folate biosynthesis - Desulfotomaculum gibsoniae
+path:dgi00860	Porphyrin and chlorophyll metabolism - Desulfotomaculum gibsoniae
+path:dgi00900	Terpenoid backbone biosynthesis - Desulfotomaculum gibsoniae
+path:dgi00903	Limonene and pinene degradation - Desulfotomaculum gibsoniae
+path:dgi00910	Nitrogen metabolism - Desulfotomaculum gibsoniae
+path:dgi00920	Sulfur metabolism - Desulfotomaculum gibsoniae
+path:dgi00930	Caprolactam degradation - Desulfotomaculum gibsoniae
+path:dgi00970	Aminoacyl-tRNA biosynthesis - Desulfotomaculum gibsoniae
+path:dgi01040	Biosynthesis of unsaturated fatty acids - Desulfotomaculum gibsoniae
+path:dgi01053	Biosynthesis of siderophore group nonribosomal peptides - Desulfotomaculum gibsoniae
+path:dgi01100	Metabolic pathways - Desulfotomaculum gibsoniae
+path:dgi01110	Biosynthesis of secondary metabolites - Desulfotomaculum gibsoniae
+path:dgi01120	Microbial metabolism in diverse environments - Desulfotomaculum gibsoniae
+path:dgi01130	Biosynthesis of antibiotics - Desulfotomaculum gibsoniae
+path:dgi01200	Carbon metabolism - Desulfotomaculum gibsoniae
+path:dgi01210	2-Oxocarboxylic acid metabolism - Desulfotomaculum gibsoniae
+path:dgi01212	Fatty acid metabolism - Desulfotomaculum gibsoniae
+path:dgi01220	Degradation of aromatic compounds - Desulfotomaculum gibsoniae
+path:dgi01230	Biosynthesis of amino acids - Desulfotomaculum gibsoniae
+path:dgi01501	beta-Lactam resistance - Desulfotomaculum gibsoniae
+path:dgi01502	Vancomycin resistance - Desulfotomaculum gibsoniae
+path:dgi01503	Cationic antimicrobial peptide (CAMP) resistance - Desulfotomaculum gibsoniae
+path:dgi02010	ABC transporters - Desulfotomaculum gibsoniae
+path:dgi02020	Two-component system - Desulfotomaculum gibsoniae
+path:dgi02024	Quorum sensing - Desulfotomaculum gibsoniae
+path:dgi02030	Bacterial chemotaxis - Desulfotomaculum gibsoniae
+path:dgi02040	Flagellar assembly - Desulfotomaculum gibsoniae
+path:dgi02060	Phosphotransferase system (PTS) - Desulfotomaculum gibsoniae
+path:dgi03010	Ribosome - Desulfotomaculum gibsoniae
+path:dgi03018	RNA degradation - Desulfotomaculum gibsoniae
+path:dgi03020	RNA polymerase - Desulfotomaculum gibsoniae
+path:dgi03030	DNA replication - Desulfotomaculum gibsoniae
+path:dgi03060	Protein export - Desulfotomaculum gibsoniae
+path:dgi03070	Bacterial secretion system - Desulfotomaculum gibsoniae
+path:dgi03410	Base excision repair - Desulfotomaculum gibsoniae
+path:dgi03420	Nucleotide excision repair - Desulfotomaculum gibsoniae
+path:dgi03430	Mismatch repair - Desulfotomaculum gibsoniae
+path:dgi03440	Homologous recombination - Desulfotomaculum gibsoniae
+path:dgi03450	Non-homologous end-joining - Desulfotomaculum gibsoniae
+path:dgi04122	Sulfur relay system - Desulfotomaculum gibsoniae
+path:dfg00010	Glycolysis / Gluconeogenesis - Desulfotomaculum ferrireducens
+path:dfg00020	Citrate cycle (TCA cycle) - Desulfotomaculum ferrireducens
+path:dfg00030	Pentose phosphate pathway - Desulfotomaculum ferrireducens
+path:dfg00040	Pentose and glucuronate interconversions - Desulfotomaculum ferrireducens
+path:dfg00051	Fructose and mannose metabolism - Desulfotomaculum ferrireducens
+path:dfg00052	Galactose metabolism - Desulfotomaculum ferrireducens
+path:dfg00061	Fatty acid biosynthesis - Desulfotomaculum ferrireducens
+path:dfg00071	Fatty acid degradation - Desulfotomaculum ferrireducens
+path:dfg00130	Ubiquinone and other terpenoid-quinone biosynthesis - Desulfotomaculum ferrireducens
+path:dfg00190	Oxidative phosphorylation - Desulfotomaculum ferrireducens
+path:dfg00220	Arginine biosynthesis - Desulfotomaculum ferrireducens
+path:dfg00230	Purine metabolism - Desulfotomaculum ferrireducens
+path:dfg00240	Pyrimidine metabolism - Desulfotomaculum ferrireducens
+path:dfg00250	Alanine, aspartate and glutamate metabolism - Desulfotomaculum ferrireducens
+path:dfg00260	Glycine, serine and threonine metabolism - Desulfotomaculum ferrireducens
+path:dfg00261	Monobactam biosynthesis - Desulfotomaculum ferrireducens
+path:dfg00270	Cysteine and methionine metabolism - Desulfotomaculum ferrireducens
+path:dfg00280	Valine, leucine and isoleucine degradation - Desulfotomaculum ferrireducens
+path:dfg00290	Valine, leucine and isoleucine biosynthesis - Desulfotomaculum ferrireducens
+path:dfg00300	Lysine biosynthesis - Desulfotomaculum ferrireducens
+path:dfg00330	Arginine and proline metabolism - Desulfotomaculum ferrireducens
+path:dfg00332	Carbapenem biosynthesis - Desulfotomaculum ferrireducens
+path:dfg00340	Histidine metabolism - Desulfotomaculum ferrireducens
+path:dfg00350	Tyrosine metabolism - Desulfotomaculum ferrireducens
+path:dfg00360	Phenylalanine metabolism - Desulfotomaculum ferrireducens
+path:dfg00361	Chlorocyclohexane and chlorobenzene degradation - Desulfotomaculum ferrireducens
+path:dfg00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Desulfotomaculum ferrireducens
+path:dfg00401	Novobiocin biosynthesis - Desulfotomaculum ferrireducens
+path:dfg00410	beta-Alanine metabolism - Desulfotomaculum ferrireducens
+path:dfg00430	Taurine and hypotaurine metabolism - Desulfotomaculum ferrireducens
+path:dfg00440	Phosphonate and phosphinate metabolism - Desulfotomaculum ferrireducens
+path:dfg00450	Selenocompound metabolism - Desulfotomaculum ferrireducens
+path:dfg00471	D-Glutamine and D-glutamate metabolism - Desulfotomaculum ferrireducens
+path:dfg00473	D-Alanine metabolism - Desulfotomaculum ferrireducens
+path:dfg00480	Glutathione metabolism - Desulfotomaculum ferrireducens
+path:dfg00500	Starch and sucrose metabolism - Desulfotomaculum ferrireducens
+path:dfg00520	Amino sugar and nucleotide sugar metabolism - Desulfotomaculum ferrireducens
+path:dfg00550	Peptidoglycan biosynthesis - Desulfotomaculum ferrireducens
+path:dfg00561	Glycerolipid metabolism - Desulfotomaculum ferrireducens
+path:dfg00562	Inositol phosphate metabolism - Desulfotomaculum ferrireducens
+path:dfg00564	Glycerophospholipid metabolism - Desulfotomaculum ferrireducens
+path:dfg00620	Pyruvate metabolism - Desulfotomaculum ferrireducens
+path:dfg00625	Chloroalkane and chloroalkene degradation - Desulfotomaculum ferrireducens
+path:dfg00626	Naphthalene degradation - Desulfotomaculum ferrireducens
+path:dfg00630	Glyoxylate and dicarboxylate metabolism - Desulfotomaculum ferrireducens
+path:dfg00633	Nitrotoluene degradation - Desulfotomaculum ferrireducens
+path:dfg00640	Propanoate metabolism - Desulfotomaculum ferrireducens
+path:dfg00650	Butanoate metabolism - Desulfotomaculum ferrireducens
+path:dfg00660	C5-Branched dibasic acid metabolism - Desulfotomaculum ferrireducens
+path:dfg00670	One carbon pool by folate - Desulfotomaculum ferrireducens
+path:dfg00680	Methane metabolism - Desulfotomaculum ferrireducens
+path:dfg00720	Carbon fixation pathways in prokaryotes - Desulfotomaculum ferrireducens
+path:dfg00730	Thiamine metabolism - Desulfotomaculum ferrireducens
+path:dfg00740	Riboflavin metabolism - Desulfotomaculum ferrireducens
+path:dfg00750	Vitamin B6 metabolism - Desulfotomaculum ferrireducens
+path:dfg00760	Nicotinate and nicotinamide metabolism - Desulfotomaculum ferrireducens
+path:dfg00770	Pantothenate and CoA biosynthesis - Desulfotomaculum ferrireducens
+path:dfg00780	Biotin metabolism - Desulfotomaculum ferrireducens
+path:dfg00785	Lipoic acid metabolism - Desulfotomaculum ferrireducens
+path:dfg00790	Folate biosynthesis - Desulfotomaculum ferrireducens
+path:dfg00860	Porphyrin and chlorophyll metabolism - Desulfotomaculum ferrireducens
+path:dfg00900	Terpenoid backbone biosynthesis - Desulfotomaculum ferrireducens
+path:dfg00910	Nitrogen metabolism - Desulfotomaculum ferrireducens
+path:dfg00920	Sulfur metabolism - Desulfotomaculum ferrireducens
+path:dfg00970	Aminoacyl-tRNA biosynthesis - Desulfotomaculum ferrireducens
+path:dfg01040	Biosynthesis of unsaturated fatty acids - Desulfotomaculum ferrireducens
+path:dfg01100	Metabolic pathways - Desulfotomaculum ferrireducens
+path:dfg01110	Biosynthesis of secondary metabolites - Desulfotomaculum ferrireducens
+path:dfg01120	Microbial metabolism in diverse environments - Desulfotomaculum ferrireducens
+path:dfg01130	Biosynthesis of antibiotics - Desulfotomaculum ferrireducens
+path:dfg01200	Carbon metabolism - Desulfotomaculum ferrireducens
+path:dfg01210	2-Oxocarboxylic acid metabolism - Desulfotomaculum ferrireducens
+path:dfg01212	Fatty acid metabolism - Desulfotomaculum ferrireducens
+path:dfg01220	Degradation of aromatic compounds - Desulfotomaculum ferrireducens
+path:dfg01230	Biosynthesis of amino acids - Desulfotomaculum ferrireducens
+path:dfg01501	beta-Lactam resistance - Desulfotomaculum ferrireducens
+path:dfg01502	Vancomycin resistance - Desulfotomaculum ferrireducens
+path:dfg01503	Cationic antimicrobial peptide (CAMP) resistance - Desulfotomaculum ferrireducens
+path:dfg02010	ABC transporters - Desulfotomaculum ferrireducens
+path:dfg02020	Two-component system - Desulfotomaculum ferrireducens
+path:dfg02024	Quorum sensing - Desulfotomaculum ferrireducens
+path:dfg02030	Bacterial chemotaxis - Desulfotomaculum ferrireducens
+path:dfg02040	Flagellar assembly - Desulfotomaculum ferrireducens
+path:dfg03010	Ribosome - Desulfotomaculum ferrireducens
+path:dfg03018	RNA degradation - Desulfotomaculum ferrireducens
+path:dfg03020	RNA polymerase - Desulfotomaculum ferrireducens
+path:dfg03030	DNA replication - Desulfotomaculum ferrireducens
+path:dfg03060	Protein export - Desulfotomaculum ferrireducens
+path:dfg03070	Bacterial secretion system - Desulfotomaculum ferrireducens
+path:dfg03410	Base excision repair - Desulfotomaculum ferrireducens
+path:dfg03420	Nucleotide excision repair - Desulfotomaculum ferrireducens
+path:dfg03430	Mismatch repair - Desulfotomaculum ferrireducens
+path:dfg03440	Homologous recombination - Desulfotomaculum ferrireducens
+path:dfg03450	Non-homologous end-joining - Desulfotomaculum ferrireducens
+path:dfg04122	Sulfur relay system - Desulfotomaculum ferrireducens

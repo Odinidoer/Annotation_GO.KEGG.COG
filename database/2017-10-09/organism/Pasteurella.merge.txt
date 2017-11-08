@@ -1,0 +1,492 @@
+path:pmu00010	Glycolysis / Gluconeogenesis - Pasteurella multocida subsp. multocida Pm70
+path:pmu00020	Citrate cycle (TCA cycle) - Pasteurella multocida subsp. multocida Pm70
+path:pmu00030	Pentose phosphate pathway - Pasteurella multocida subsp. multocida Pm70
+path:pmu00040	Pentose and glucuronate interconversions - Pasteurella multocida subsp. multocida Pm70
+path:pmu00051	Fructose and mannose metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00052	Galactose metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00053	Ascorbate and aldarate metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00061	Fatty acid biosynthesis - Pasteurella multocida subsp. multocida Pm70
+path:pmu00071	Fatty acid degradation - Pasteurella multocida subsp. multocida Pm70
+path:pmu00130	Ubiquinone and other terpenoid-quinone biosynthesis - Pasteurella multocida subsp. multocida Pm70
+path:pmu00190	Oxidative phosphorylation - Pasteurella multocida subsp. multocida Pm70
+path:pmu00220	Arginine biosynthesis - Pasteurella multocida subsp. multocida Pm70
+path:pmu00230	Purine metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00240	Pyrimidine metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00250	Alanine, aspartate and glutamate metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00260	Glycine, serine and threonine metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00261	Monobactam biosynthesis - Pasteurella multocida subsp. multocida Pm70
+path:pmu00270	Cysteine and methionine metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00280	Valine, leucine and isoleucine degradation - Pasteurella multocida subsp. multocida Pm70
+path:pmu00290	Valine, leucine and isoleucine biosynthesis - Pasteurella multocida subsp. multocida Pm70
+path:pmu00300	Lysine biosynthesis - Pasteurella multocida subsp. multocida Pm70
+path:pmu00310	Lysine degradation - Pasteurella multocida subsp. multocida Pm70
+path:pmu00330	Arginine and proline metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00332	Carbapenem biosynthesis - Pasteurella multocida subsp. multocida Pm70
+path:pmu00340	Histidine metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00350	Tyrosine metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00360	Phenylalanine metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00380	Tryptophan metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Pasteurella multocida subsp. multocida Pm70
+path:pmu00401	Novobiocin biosynthesis - Pasteurella multocida subsp. multocida Pm70
+path:pmu00430	Taurine and hypotaurine metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00450	Selenocompound metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00460	Cyanoamino acid metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00471	D-Glutamine and D-glutamate metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00473	D-Alanine metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00480	Glutathione metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00500	Starch and sucrose metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00511	Other glycan degradation - Pasteurella multocida subsp. multocida Pm70
+path:pmu00520	Amino sugar and nucleotide sugar metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00521	Streptomycin biosynthesis - Pasteurella multocida subsp. multocida Pm70
+path:pmu00540	Lipopolysaccharide biosynthesis - Pasteurella multocida subsp. multocida Pm70
+path:pmu00550	Peptidoglycan biosynthesis - Pasteurella multocida subsp. multocida Pm70
+path:pmu00561	Glycerolipid metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00562	Inositol phosphate metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00564	Glycerophospholipid metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00565	Ether lipid metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00592	alpha-Linolenic acid metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00620	Pyruvate metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00625	Chloroalkane and chloroalkene degradation - Pasteurella multocida subsp. multocida Pm70
+path:pmu00626	Naphthalene degradation - Pasteurella multocida subsp. multocida Pm70
+path:pmu00627	Aminobenzoate degradation - Pasteurella multocida subsp. multocida Pm70
+path:pmu00630	Glyoxylate and dicarboxylate metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00640	Propanoate metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00650	Butanoate metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00660	C5-Branched dibasic acid metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00670	One carbon pool by folate - Pasteurella multocida subsp. multocida Pm70
+path:pmu00680	Methane metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00730	Thiamine metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00740	Riboflavin metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00750	Vitamin B6 metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00760	Nicotinate and nicotinamide metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00770	Pantothenate and CoA biosynthesis - Pasteurella multocida subsp. multocida Pm70
+path:pmu00780	Biotin metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00785	Lipoic acid metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00790	Folate biosynthesis - Pasteurella multocida subsp. multocida Pm70
+path:pmu00860	Porphyrin and chlorophyll metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00900	Terpenoid backbone biosynthesis - Pasteurella multocida subsp. multocida Pm70
+path:pmu00910	Nitrogen metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00920	Sulfur metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu00970	Aminoacyl-tRNA biosynthesis - Pasteurella multocida subsp. multocida Pm70
+path:pmu01040	Biosynthesis of unsaturated fatty acids - Pasteurella multocida subsp. multocida Pm70
+path:pmu01100	Metabolic pathways - Pasteurella multocida subsp. multocida Pm70
+path:pmu01110	Biosynthesis of secondary metabolites - Pasteurella multocida subsp. multocida Pm70
+path:pmu01120	Microbial metabolism in diverse environments - Pasteurella multocida subsp. multocida Pm70
+path:pmu01130	Biosynthesis of antibiotics - Pasteurella multocida subsp. multocida Pm70
+path:pmu01200	Carbon metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu01210	2-Oxocarboxylic acid metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu01212	Fatty acid metabolism - Pasteurella multocida subsp. multocida Pm70
+path:pmu01220	Degradation of aromatic compounds - Pasteurella multocida subsp. multocida Pm70
+path:pmu01230	Biosynthesis of amino acids - Pasteurella multocida subsp. multocida Pm70
+path:pmu01501	beta-Lactam resistance - Pasteurella multocida subsp. multocida Pm70
+path:pmu01502	Vancomycin resistance - Pasteurella multocida subsp. multocida Pm70
+path:pmu01503	Cationic antimicrobial peptide (CAMP) resistance - Pasteurella multocida subsp. multocida Pm70
+path:pmu02010	ABC transporters - Pasteurella multocida subsp. multocida Pm70
+path:pmu02020	Two-component system - Pasteurella multocida subsp. multocida Pm70
+path:pmu02024	Quorum sensing - Pasteurella multocida subsp. multocida Pm70
+path:pmu02030	Bacterial chemotaxis - Pasteurella multocida subsp. multocida Pm70
+path:pmu02060	Phosphotransferase system (PTS) - Pasteurella multocida subsp. multocida Pm70
+path:pmu03010	Ribosome - Pasteurella multocida subsp. multocida Pm70
+path:pmu03018	RNA degradation - Pasteurella multocida subsp. multocida Pm70
+path:pmu03020	RNA polymerase - Pasteurella multocida subsp. multocida Pm70
+path:pmu03030	DNA replication - Pasteurella multocida subsp. multocida Pm70
+path:pmu03060	Protein export - Pasteurella multocida subsp. multocida Pm70
+path:pmu03070	Bacterial secretion system - Pasteurella multocida subsp. multocida Pm70
+path:pmu03410	Base excision repair - Pasteurella multocida subsp. multocida Pm70
+path:pmu03420	Nucleotide excision repair - Pasteurella multocida subsp. multocida Pm70
+path:pmu03430	Mismatch repair - Pasteurella multocida subsp. multocida Pm70
+path:pmu03440	Homologous recombination - Pasteurella multocida subsp. multocida Pm70
+path:pmu04122	Sulfur relay system - Pasteurella multocida subsp. multocida Pm70
+path:pmv00010	Glycolysis / Gluconeogenesis - Pasteurella multocida subsp. multocida HN06
+path:pmv00020	Citrate cycle (TCA cycle) - Pasteurella multocida subsp. multocida HN06
+path:pmv00030	Pentose phosphate pathway - Pasteurella multocida subsp. multocida HN06
+path:pmv00040	Pentose and glucuronate interconversions - Pasteurella multocida subsp. multocida HN06
+path:pmv00051	Fructose and mannose metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00052	Galactose metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00053	Ascorbate and aldarate metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00061	Fatty acid biosynthesis - Pasteurella multocida subsp. multocida HN06
+path:pmv00071	Fatty acid degradation - Pasteurella multocida subsp. multocida HN06
+path:pmv00130	Ubiquinone and other terpenoid-quinone biosynthesis - Pasteurella multocida subsp. multocida HN06
+path:pmv00190	Oxidative phosphorylation - Pasteurella multocida subsp. multocida HN06
+path:pmv00220	Arginine biosynthesis - Pasteurella multocida subsp. multocida HN06
+path:pmv00230	Purine metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00240	Pyrimidine metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00250	Alanine, aspartate and glutamate metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00260	Glycine, serine and threonine metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00261	Monobactam biosynthesis - Pasteurella multocida subsp. multocida HN06
+path:pmv00270	Cysteine and methionine metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00280	Valine, leucine and isoleucine degradation - Pasteurella multocida subsp. multocida HN06
+path:pmv00290	Valine, leucine and isoleucine biosynthesis - Pasteurella multocida subsp. multocida HN06
+path:pmv00300	Lysine biosynthesis - Pasteurella multocida subsp. multocida HN06
+path:pmv00310	Lysine degradation - Pasteurella multocida subsp. multocida HN06
+path:pmv00330	Arginine and proline metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00332	Carbapenem biosynthesis - Pasteurella multocida subsp. multocida HN06
+path:pmv00340	Histidine metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00350	Tyrosine metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00360	Phenylalanine metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00380	Tryptophan metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Pasteurella multocida subsp. multocida HN06
+path:pmv00401	Novobiocin biosynthesis - Pasteurella multocida subsp. multocida HN06
+path:pmv00430	Taurine and hypotaurine metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00450	Selenocompound metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00460	Cyanoamino acid metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00471	D-Glutamine and D-glutamate metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00473	D-Alanine metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00480	Glutathione metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00500	Starch and sucrose metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00511	Other glycan degradation - Pasteurella multocida subsp. multocida HN06
+path:pmv00520	Amino sugar and nucleotide sugar metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00521	Streptomycin biosynthesis - Pasteurella multocida subsp. multocida HN06
+path:pmv00540	Lipopolysaccharide biosynthesis - Pasteurella multocida subsp. multocida HN06
+path:pmv00550	Peptidoglycan biosynthesis - Pasteurella multocida subsp. multocida HN06
+path:pmv00561	Glycerolipid metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00562	Inositol phosphate metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00564	Glycerophospholipid metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00565	Ether lipid metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00592	alpha-Linolenic acid metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00620	Pyruvate metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00625	Chloroalkane and chloroalkene degradation - Pasteurella multocida subsp. multocida HN06
+path:pmv00626	Naphthalene degradation - Pasteurella multocida subsp. multocida HN06
+path:pmv00627	Aminobenzoate degradation - Pasteurella multocida subsp. multocida HN06
+path:pmv00630	Glyoxylate and dicarboxylate metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00640	Propanoate metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00650	Butanoate metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00660	C5-Branched dibasic acid metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00670	One carbon pool by folate - Pasteurella multocida subsp. multocida HN06
+path:pmv00680	Methane metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00730	Thiamine metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00740	Riboflavin metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00750	Vitamin B6 metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00760	Nicotinate and nicotinamide metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00770	Pantothenate and CoA biosynthesis - Pasteurella multocida subsp. multocida HN06
+path:pmv00780	Biotin metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00785	Lipoic acid metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00790	Folate biosynthesis - Pasteurella multocida subsp. multocida HN06
+path:pmv00860	Porphyrin and chlorophyll metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00900	Terpenoid backbone biosynthesis - Pasteurella multocida subsp. multocida HN06
+path:pmv00910	Nitrogen metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00920	Sulfur metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv00970	Aminoacyl-tRNA biosynthesis - Pasteurella multocida subsp. multocida HN06
+path:pmv01040	Biosynthesis of unsaturated fatty acids - Pasteurella multocida subsp. multocida HN06
+path:pmv01100	Metabolic pathways - Pasteurella multocida subsp. multocida HN06
+path:pmv01110	Biosynthesis of secondary metabolites - Pasteurella multocida subsp. multocida HN06
+path:pmv01120	Microbial metabolism in diverse environments - Pasteurella multocida subsp. multocida HN06
+path:pmv01130	Biosynthesis of antibiotics - Pasteurella multocida subsp. multocida HN06
+path:pmv01200	Carbon metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv01210	2-Oxocarboxylic acid metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv01212	Fatty acid metabolism - Pasteurella multocida subsp. multocida HN06
+path:pmv01220	Degradation of aromatic compounds - Pasteurella multocida subsp. multocida HN06
+path:pmv01230	Biosynthesis of amino acids - Pasteurella multocida subsp. multocida HN06
+path:pmv01501	beta-Lactam resistance - Pasteurella multocida subsp. multocida HN06
+path:pmv01502	Vancomycin resistance - Pasteurella multocida subsp. multocida HN06
+path:pmv01503	Cationic antimicrobial peptide (CAMP) resistance - Pasteurella multocida subsp. multocida HN06
+path:pmv02010	ABC transporters - Pasteurella multocida subsp. multocida HN06
+path:pmv02020	Two-component system - Pasteurella multocida subsp. multocida HN06
+path:pmv02024	Quorum sensing - Pasteurella multocida subsp. multocida HN06
+path:pmv02030	Bacterial chemotaxis - Pasteurella multocida subsp. multocida HN06
+path:pmv02060	Phosphotransferase system (PTS) - Pasteurella multocida subsp. multocida HN06
+path:pmv03010	Ribosome - Pasteurella multocida subsp. multocida HN06
+path:pmv03018	RNA degradation - Pasteurella multocida subsp. multocida HN06
+path:pmv03020	RNA polymerase - Pasteurella multocida subsp. multocida HN06
+path:pmv03030	DNA replication - Pasteurella multocida subsp. multocida HN06
+path:pmv03060	Protein export - Pasteurella multocida subsp. multocida HN06
+path:pmv03070	Bacterial secretion system - Pasteurella multocida subsp. multocida HN06
+path:pmv03410	Base excision repair - Pasteurella multocida subsp. multocida HN06
+path:pmv03420	Nucleotide excision repair - Pasteurella multocida subsp. multocida HN06
+path:pmv03430	Mismatch repair - Pasteurella multocida subsp. multocida HN06
+path:pmv03440	Homologous recombination - Pasteurella multocida subsp. multocida HN06
+path:pmv04122	Sulfur relay system - Pasteurella multocida subsp. multocida HN06
+path:pul00010	Glycolysis / Gluconeogenesis - Pasteurella multocida subsp. multocida 3480
+path:pul00020	Citrate cycle (TCA cycle) - Pasteurella multocida subsp. multocida 3480
+path:pul00030	Pentose phosphate pathway - Pasteurella multocida subsp. multocida 3480
+path:pul00040	Pentose and glucuronate interconversions - Pasteurella multocida subsp. multocida 3480
+path:pul00051	Fructose and mannose metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00052	Galactose metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00053	Ascorbate and aldarate metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00061	Fatty acid biosynthesis - Pasteurella multocida subsp. multocida 3480
+path:pul00071	Fatty acid degradation - Pasteurella multocida subsp. multocida 3480
+path:pul00130	Ubiquinone and other terpenoid-quinone biosynthesis - Pasteurella multocida subsp. multocida 3480
+path:pul00190	Oxidative phosphorylation - Pasteurella multocida subsp. multocida 3480
+path:pul00220	Arginine biosynthesis - Pasteurella multocida subsp. multocida 3480
+path:pul00230	Purine metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00240	Pyrimidine metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00250	Alanine, aspartate and glutamate metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00260	Glycine, serine and threonine metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00261	Monobactam biosynthesis - Pasteurella multocida subsp. multocida 3480
+path:pul00270	Cysteine and methionine metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00280	Valine, leucine and isoleucine degradation - Pasteurella multocida subsp. multocida 3480
+path:pul00290	Valine, leucine and isoleucine biosynthesis - Pasteurella multocida subsp. multocida 3480
+path:pul00300	Lysine biosynthesis - Pasteurella multocida subsp. multocida 3480
+path:pul00310	Lysine degradation - Pasteurella multocida subsp. multocida 3480
+path:pul00330	Arginine and proline metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00332	Carbapenem biosynthesis - Pasteurella multocida subsp. multocida 3480
+path:pul00340	Histidine metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00350	Tyrosine metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00360	Phenylalanine metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00380	Tryptophan metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Pasteurella multocida subsp. multocida 3480
+path:pul00401	Novobiocin biosynthesis - Pasteurella multocida subsp. multocida 3480
+path:pul00430	Taurine and hypotaurine metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00450	Selenocompound metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00460	Cyanoamino acid metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00471	D-Glutamine and D-glutamate metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00473	D-Alanine metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00480	Glutathione metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00500	Starch and sucrose metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00511	Other glycan degradation - Pasteurella multocida subsp. multocida 3480
+path:pul00520	Amino sugar and nucleotide sugar metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00521	Streptomycin biosynthesis - Pasteurella multocida subsp. multocida 3480
+path:pul00540	Lipopolysaccharide biosynthesis - Pasteurella multocida subsp. multocida 3480
+path:pul00550	Peptidoglycan biosynthesis - Pasteurella multocida subsp. multocida 3480
+path:pul00561	Glycerolipid metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00562	Inositol phosphate metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00564	Glycerophospholipid metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00565	Ether lipid metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00592	alpha-Linolenic acid metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00620	Pyruvate metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00625	Chloroalkane and chloroalkene degradation - Pasteurella multocida subsp. multocida 3480
+path:pul00626	Naphthalene degradation - Pasteurella multocida subsp. multocida 3480
+path:pul00627	Aminobenzoate degradation - Pasteurella multocida subsp. multocida 3480
+path:pul00630	Glyoxylate and dicarboxylate metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00640	Propanoate metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00650	Butanoate metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00660	C5-Branched dibasic acid metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00670	One carbon pool by folate - Pasteurella multocida subsp. multocida 3480
+path:pul00680	Methane metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00730	Thiamine metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00740	Riboflavin metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00750	Vitamin B6 metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00760	Nicotinate and nicotinamide metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00770	Pantothenate and CoA biosynthesis - Pasteurella multocida subsp. multocida 3480
+path:pul00780	Biotin metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00785	Lipoic acid metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00790	Folate biosynthesis - Pasteurella multocida subsp. multocida 3480
+path:pul00860	Porphyrin and chlorophyll metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00900	Terpenoid backbone biosynthesis - Pasteurella multocida subsp. multocida 3480
+path:pul00910	Nitrogen metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00920	Sulfur metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul00970	Aminoacyl-tRNA biosynthesis - Pasteurella multocida subsp. multocida 3480
+path:pul01040	Biosynthesis of unsaturated fatty acids - Pasteurella multocida subsp. multocida 3480
+path:pul01100	Metabolic pathways - Pasteurella multocida subsp. multocida 3480
+path:pul01110	Biosynthesis of secondary metabolites - Pasteurella multocida subsp. multocida 3480
+path:pul01120	Microbial metabolism in diverse environments - Pasteurella multocida subsp. multocida 3480
+path:pul01130	Biosynthesis of antibiotics - Pasteurella multocida subsp. multocida 3480
+path:pul01200	Carbon metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul01210	2-Oxocarboxylic acid metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul01212	Fatty acid metabolism - Pasteurella multocida subsp. multocida 3480
+path:pul01220	Degradation of aromatic compounds - Pasteurella multocida subsp. multocida 3480
+path:pul01230	Biosynthesis of amino acids - Pasteurella multocida subsp. multocida 3480
+path:pul01501	beta-Lactam resistance - Pasteurella multocida subsp. multocida 3480
+path:pul01502	Vancomycin resistance - Pasteurella multocida subsp. multocida 3480
+path:pul01503	Cationic antimicrobial peptide (CAMP) resistance - Pasteurella multocida subsp. multocida 3480
+path:pul02010	ABC transporters - Pasteurella multocida subsp. multocida 3480
+path:pul02020	Two-component system - Pasteurella multocida subsp. multocida 3480
+path:pul02024	Quorum sensing - Pasteurella multocida subsp. multocida 3480
+path:pul02030	Bacterial chemotaxis - Pasteurella multocida subsp. multocida 3480
+path:pul02060	Phosphotransferase system (PTS) - Pasteurella multocida subsp. multocida 3480
+path:pul03010	Ribosome - Pasteurella multocida subsp. multocida 3480
+path:pul03018	RNA degradation - Pasteurella multocida subsp. multocida 3480
+path:pul03020	RNA polymerase - Pasteurella multocida subsp. multocida 3480
+path:pul03030	DNA replication - Pasteurella multocida subsp. multocida 3480
+path:pul03060	Protein export - Pasteurella multocida subsp. multocida 3480
+path:pul03070	Bacterial secretion system - Pasteurella multocida subsp. multocida 3480
+path:pul03410	Base excision repair - Pasteurella multocida subsp. multocida 3480
+path:pul03420	Nucleotide excision repair - Pasteurella multocida subsp. multocida 3480
+path:pul03430	Mismatch repair - Pasteurella multocida subsp. multocida 3480
+path:pul03440	Homologous recombination - Pasteurella multocida subsp. multocida 3480
+path:pul04122	Sulfur relay system - Pasteurella multocida subsp. multocida 3480
+path:pmp00010	Glycolysis / Gluconeogenesis - Pasteurella multocida 36950
+path:pmp00020	Citrate cycle (TCA cycle) - Pasteurella multocida 36950
+path:pmp00030	Pentose phosphate pathway - Pasteurella multocida 36950
+path:pmp00040	Pentose and glucuronate interconversions - Pasteurella multocida 36950
+path:pmp00051	Fructose and mannose metabolism - Pasteurella multocida 36950
+path:pmp00052	Galactose metabolism - Pasteurella multocida 36950
+path:pmp00053	Ascorbate and aldarate metabolism - Pasteurella multocida 36950
+path:pmp00061	Fatty acid biosynthesis - Pasteurella multocida 36950
+path:pmp00071	Fatty acid degradation - Pasteurella multocida 36950
+path:pmp00130	Ubiquinone and other terpenoid-quinone biosynthesis - Pasteurella multocida 36950
+path:pmp00190	Oxidative phosphorylation - Pasteurella multocida 36950
+path:pmp00220	Arginine biosynthesis - Pasteurella multocida 36950
+path:pmp00230	Purine metabolism - Pasteurella multocida 36950
+path:pmp00240	Pyrimidine metabolism - Pasteurella multocida 36950
+path:pmp00250	Alanine, aspartate and glutamate metabolism - Pasteurella multocida 36950
+path:pmp00260	Glycine, serine and threonine metabolism - Pasteurella multocida 36950
+path:pmp00261	Monobactam biosynthesis - Pasteurella multocida 36950
+path:pmp00270	Cysteine and methionine metabolism - Pasteurella multocida 36950
+path:pmp00280	Valine, leucine and isoleucine degradation - Pasteurella multocida 36950
+path:pmp00290	Valine, leucine and isoleucine biosynthesis - Pasteurella multocida 36950
+path:pmp00300	Lysine biosynthesis - Pasteurella multocida 36950
+path:pmp00310	Lysine degradation - Pasteurella multocida 36950
+path:pmp00330	Arginine and proline metabolism - Pasteurella multocida 36950
+path:pmp00332	Carbapenem biosynthesis - Pasteurella multocida 36950
+path:pmp00340	Histidine metabolism - Pasteurella multocida 36950
+path:pmp00350	Tyrosine metabolism - Pasteurella multocida 36950
+path:pmp00360	Phenylalanine metabolism - Pasteurella multocida 36950
+path:pmp00380	Tryptophan metabolism - Pasteurella multocida 36950
+path:pmp00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Pasteurella multocida 36950
+path:pmp00401	Novobiocin biosynthesis - Pasteurella multocida 36950
+path:pmp00430	Taurine and hypotaurine metabolism - Pasteurella multocida 36950
+path:pmp00450	Selenocompound metabolism - Pasteurella multocida 36950
+path:pmp00460	Cyanoamino acid metabolism - Pasteurella multocida 36950
+path:pmp00471	D-Glutamine and D-glutamate metabolism - Pasteurella multocida 36950
+path:pmp00473	D-Alanine metabolism - Pasteurella multocida 36950
+path:pmp00480	Glutathione metabolism - Pasteurella multocida 36950
+path:pmp00500	Starch and sucrose metabolism - Pasteurella multocida 36950
+path:pmp00511	Other glycan degradation - Pasteurella multocida 36950
+path:pmp00520	Amino sugar and nucleotide sugar metabolism - Pasteurella multocida 36950
+path:pmp00521	Streptomycin biosynthesis - Pasteurella multocida 36950
+path:pmp00540	Lipopolysaccharide biosynthesis - Pasteurella multocida 36950
+path:pmp00550	Peptidoglycan biosynthesis - Pasteurella multocida 36950
+path:pmp00561	Glycerolipid metabolism - Pasteurella multocida 36950
+path:pmp00562	Inositol phosphate metabolism - Pasteurella multocida 36950
+path:pmp00564	Glycerophospholipid metabolism - Pasteurella multocida 36950
+path:pmp00565	Ether lipid metabolism - Pasteurella multocida 36950
+path:pmp00592	alpha-Linolenic acid metabolism - Pasteurella multocida 36950
+path:pmp00620	Pyruvate metabolism - Pasteurella multocida 36950
+path:pmp00625	Chloroalkane and chloroalkene degradation - Pasteurella multocida 36950
+path:pmp00626	Naphthalene degradation - Pasteurella multocida 36950
+path:pmp00627	Aminobenzoate degradation - Pasteurella multocida 36950
+path:pmp00630	Glyoxylate and dicarboxylate metabolism - Pasteurella multocida 36950
+path:pmp00640	Propanoate metabolism - Pasteurella multocida 36950
+path:pmp00650	Butanoate metabolism - Pasteurella multocida 36950
+path:pmp00660	C5-Branched dibasic acid metabolism - Pasteurella multocida 36950
+path:pmp00670	One carbon pool by folate - Pasteurella multocida 36950
+path:pmp00680	Methane metabolism - Pasteurella multocida 36950
+path:pmp00730	Thiamine metabolism - Pasteurella multocida 36950
+path:pmp00740	Riboflavin metabolism - Pasteurella multocida 36950
+path:pmp00750	Vitamin B6 metabolism - Pasteurella multocida 36950
+path:pmp00760	Nicotinate and nicotinamide metabolism - Pasteurella multocida 36950
+path:pmp00770	Pantothenate and CoA biosynthesis - Pasteurella multocida 36950
+path:pmp00780	Biotin metabolism - Pasteurella multocida 36950
+path:pmp00785	Lipoic acid metabolism - Pasteurella multocida 36950
+path:pmp00790	Folate biosynthesis - Pasteurella multocida 36950
+path:pmp00860	Porphyrin and chlorophyll metabolism - Pasteurella multocida 36950
+path:pmp00900	Terpenoid backbone biosynthesis - Pasteurella multocida 36950
+path:pmp00910	Nitrogen metabolism - Pasteurella multocida 36950
+path:pmp00920	Sulfur metabolism - Pasteurella multocida 36950
+path:pmp00970	Aminoacyl-tRNA biosynthesis - Pasteurella multocida 36950
+path:pmp01040	Biosynthesis of unsaturated fatty acids - Pasteurella multocida 36950
+path:pmp01100	Metabolic pathways - Pasteurella multocida 36950
+path:pmp01110	Biosynthesis of secondary metabolites - Pasteurella multocida 36950
+path:pmp01120	Microbial metabolism in diverse environments - Pasteurella multocida 36950
+path:pmp01130	Biosynthesis of antibiotics - Pasteurella multocida 36950
+path:pmp01200	Carbon metabolism - Pasteurella multocida 36950
+path:pmp01210	2-Oxocarboxylic acid metabolism - Pasteurella multocida 36950
+path:pmp01212	Fatty acid metabolism - Pasteurella multocida 36950
+path:pmp01220	Degradation of aromatic compounds - Pasteurella multocida 36950
+path:pmp01230	Biosynthesis of amino acids - Pasteurella multocida 36950
+path:pmp01501	beta-Lactam resistance - Pasteurella multocida 36950
+path:pmp01502	Vancomycin resistance - Pasteurella multocida 36950
+path:pmp01503	Cationic antimicrobial peptide (CAMP) resistance - Pasteurella multocida 36950
+path:pmp02010	ABC transporters - Pasteurella multocida 36950
+path:pmp02020	Two-component system - Pasteurella multocida 36950
+path:pmp02024	Quorum sensing - Pasteurella multocida 36950
+path:pmp02030	Bacterial chemotaxis - Pasteurella multocida 36950
+path:pmp02060	Phosphotransferase system (PTS) - Pasteurella multocida 36950
+path:pmp03010	Ribosome - Pasteurella multocida 36950
+path:pmp03018	RNA degradation - Pasteurella multocida 36950
+path:pmp03020	RNA polymerase - Pasteurella multocida 36950
+path:pmp03030	DNA replication - Pasteurella multocida 36950
+path:pmp03060	Protein export - Pasteurella multocida 36950
+path:pmp03070	Bacterial secretion system - Pasteurella multocida 36950
+path:pmp03410	Base excision repair - Pasteurella multocida 36950
+path:pmp03420	Nucleotide excision repair - Pasteurella multocida 36950
+path:pmp03430	Mismatch repair - Pasteurella multocida 36950
+path:pmp03440	Homologous recombination - Pasteurella multocida 36950
+path:pmp04122	Sulfur relay system - Pasteurella multocida 36950
+path:pmul00010	Glycolysis / Gluconeogenesis - Pasteurella multocida ATCC 43137
+path:pmul00020	Citrate cycle (TCA cycle) - Pasteurella multocida ATCC 43137
+path:pmul00030	Pentose phosphate pathway - Pasteurella multocida ATCC 43137
+path:pmul00040	Pentose and glucuronate interconversions - Pasteurella multocida ATCC 43137
+path:pmul00051	Fructose and mannose metabolism - Pasteurella multocida ATCC 43137
+path:pmul00052	Galactose metabolism - Pasteurella multocida ATCC 43137
+path:pmul00053	Ascorbate and aldarate metabolism - Pasteurella multocida ATCC 43137
+path:pmul00061	Fatty acid biosynthesis - Pasteurella multocida ATCC 43137
+path:pmul00130	Ubiquinone and other terpenoid-quinone biosynthesis - Pasteurella multocida ATCC 43137
+path:pmul00190	Oxidative phosphorylation - Pasteurella multocida ATCC 43137
+path:pmul00220	Arginine biosynthesis - Pasteurella multocida ATCC 43137
+path:pmul00230	Purine metabolism - Pasteurella multocida ATCC 43137
+path:pmul00240	Pyrimidine metabolism - Pasteurella multocida ATCC 43137
+path:pmul00250	Alanine, aspartate and glutamate metabolism - Pasteurella multocida ATCC 43137
+path:pmul00260	Glycine, serine and threonine metabolism - Pasteurella multocida ATCC 43137
+path:pmul00261	Monobactam biosynthesis - Pasteurella multocida ATCC 43137
+path:pmul00270	Cysteine and methionine metabolism - Pasteurella multocida ATCC 43137
+path:pmul00280	Valine, leucine and isoleucine degradation - Pasteurella multocida ATCC 43137
+path:pmul00290	Valine, leucine and isoleucine biosynthesis - Pasteurella multocida ATCC 43137
+path:pmul00300	Lysine biosynthesis - Pasteurella multocida ATCC 43137
+path:pmul00310	Lysine degradation - Pasteurella multocida ATCC 43137
+path:pmul00330	Arginine and proline metabolism - Pasteurella multocida ATCC 43137
+path:pmul00332	Carbapenem biosynthesis - Pasteurella multocida ATCC 43137
+path:pmul00340	Histidine metabolism - Pasteurella multocida ATCC 43137
+path:pmul00350	Tyrosine metabolism - Pasteurella multocida ATCC 43137
+path:pmul00360	Phenylalanine metabolism - Pasteurella multocida ATCC 43137
+path:pmul00380	Tryptophan metabolism - Pasteurella multocida ATCC 43137
+path:pmul00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Pasteurella multocida ATCC 43137
+path:pmul00401	Novobiocin biosynthesis - Pasteurella multocida ATCC 43137
+path:pmul00430	Taurine and hypotaurine metabolism - Pasteurella multocida ATCC 43137
+path:pmul00450	Selenocompound metabolism - Pasteurella multocida ATCC 43137
+path:pmul00460	Cyanoamino acid metabolism - Pasteurella multocida ATCC 43137
+path:pmul00471	D-Glutamine and D-glutamate metabolism - Pasteurella multocida ATCC 43137
+path:pmul00473	D-Alanine metabolism - Pasteurella multocida ATCC 43137
+path:pmul00480	Glutathione metabolism - Pasteurella multocida ATCC 43137
+path:pmul00500	Starch and sucrose metabolism - Pasteurella multocida ATCC 43137
+path:pmul00511	Other glycan degradation - Pasteurella multocida ATCC 43137
+path:pmul00520	Amino sugar and nucleotide sugar metabolism - Pasteurella multocida ATCC 43137
+path:pmul00521	Streptomycin biosynthesis - Pasteurella multocida ATCC 43137
+path:pmul00540	Lipopolysaccharide biosynthesis - Pasteurella multocida ATCC 43137
+path:pmul00550	Peptidoglycan biosynthesis - Pasteurella multocida ATCC 43137
+path:pmul00561	Glycerolipid metabolism - Pasteurella multocida ATCC 43137
+path:pmul00562	Inositol phosphate metabolism - Pasteurella multocida ATCC 43137
+path:pmul00564	Glycerophospholipid metabolism - Pasteurella multocida ATCC 43137
+path:pmul00565	Ether lipid metabolism - Pasteurella multocida ATCC 43137
+path:pmul00592	alpha-Linolenic acid metabolism - Pasteurella multocida ATCC 43137
+path:pmul00620	Pyruvate metabolism - Pasteurella multocida ATCC 43137
+path:pmul00627	Aminobenzoate degradation - Pasteurella multocida ATCC 43137
+path:pmul00630	Glyoxylate and dicarboxylate metabolism - Pasteurella multocida ATCC 43137
+path:pmul00640	Propanoate metabolism - Pasteurella multocida ATCC 43137
+path:pmul00650	Butanoate metabolism - Pasteurella multocida ATCC 43137
+path:pmul00660	C5-Branched dibasic acid metabolism - Pasteurella multocida ATCC 43137
+path:pmul00670	One carbon pool by folate - Pasteurella multocida ATCC 43137
+path:pmul00680	Methane metabolism - Pasteurella multocida ATCC 43137
+path:pmul00730	Thiamine metabolism - Pasteurella multocida ATCC 43137
+path:pmul00740	Riboflavin metabolism - Pasteurella multocida ATCC 43137
+path:pmul00750	Vitamin B6 metabolism - Pasteurella multocida ATCC 43137
+path:pmul00760	Nicotinate and nicotinamide metabolism - Pasteurella multocida ATCC 43137
+path:pmul00770	Pantothenate and CoA biosynthesis - Pasteurella multocida ATCC 43137
+path:pmul00780	Biotin metabolism - Pasteurella multocida ATCC 43137
+path:pmul00785	Lipoic acid metabolism - Pasteurella multocida ATCC 43137
+path:pmul00790	Folate biosynthesis - Pasteurella multocida ATCC 43137
+path:pmul00860	Porphyrin and chlorophyll metabolism - Pasteurella multocida ATCC 43137
+path:pmul00900	Terpenoid backbone biosynthesis - Pasteurella multocida ATCC 43137
+path:pmul00910	Nitrogen metabolism - Pasteurella multocida ATCC 43137
+path:pmul00920	Sulfur metabolism - Pasteurella multocida ATCC 43137
+path:pmul00970	Aminoacyl-tRNA biosynthesis - Pasteurella multocida ATCC 43137
+path:pmul01040	Biosynthesis of unsaturated fatty acids - Pasteurella multocida ATCC 43137
+path:pmul01100	Metabolic pathways - Pasteurella multocida ATCC 43137
+path:pmul01110	Biosynthesis of secondary metabolites - Pasteurella multocida ATCC 43137
+path:pmul01120	Microbial metabolism in diverse environments - Pasteurella multocida ATCC 43137
+path:pmul01130	Biosynthesis of antibiotics - Pasteurella multocida ATCC 43137
+path:pmul01200	Carbon metabolism - Pasteurella multocida ATCC 43137
+path:pmul01210	2-Oxocarboxylic acid metabolism - Pasteurella multocida ATCC 43137
+path:pmul01212	Fatty acid metabolism - Pasteurella multocida ATCC 43137
+path:pmul01220	Degradation of aromatic compounds - Pasteurella multocida ATCC 43137
+path:pmul01230	Biosynthesis of amino acids - Pasteurella multocida ATCC 43137
+path:pmul01501	beta-Lactam resistance - Pasteurella multocida ATCC 43137
+path:pmul01502	Vancomycin resistance - Pasteurella multocida ATCC 43137
+path:pmul01503	Cationic antimicrobial peptide (CAMP) resistance - Pasteurella multocida ATCC 43137
+path:pmul02010	ABC transporters - Pasteurella multocida ATCC 43137
+path:pmul02020	Two-component system - Pasteurella multocida ATCC 43137
+path:pmul02024	Quorum sensing - Pasteurella multocida ATCC 43137
+path:pmul02030	Bacterial chemotaxis - Pasteurella multocida ATCC 43137
+path:pmul02060	Phosphotransferase system (PTS) - Pasteurella multocida ATCC 43137
+path:pmul03010	Ribosome - Pasteurella multocida ATCC 43137
+path:pmul03018	RNA degradation - Pasteurella multocida ATCC 43137
+path:pmul03020	RNA polymerase - Pasteurella multocida ATCC 43137
+path:pmul03030	DNA replication - Pasteurella multocida ATCC 43137
+path:pmul03060	Protein export - Pasteurella multocida ATCC 43137
+path:pmul03070	Bacterial secretion system - Pasteurella multocida ATCC 43137
+path:pmul03410	Base excision repair - Pasteurella multocida ATCC 43137
+path:pmul03420	Nucleotide excision repair - Pasteurella multocida ATCC 43137
+path:pmul03430	Mismatch repair - Pasteurella multocida ATCC 43137
+path:pmul03440	Homologous recombination - Pasteurella multocida ATCC 43137
+path:pmul04122	Sulfur relay system - Pasteurella multocida ATCC 43137

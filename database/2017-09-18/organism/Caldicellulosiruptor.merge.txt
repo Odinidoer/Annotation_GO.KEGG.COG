@@ -1,0 +1,766 @@
+path:csc00010	Glycolysis / Gluconeogenesis - Caldicellulosiruptor saccharolyticus
+path:csc00020	Citrate cycle (TCA cycle) - Caldicellulosiruptor saccharolyticus
+path:csc00030	Pentose phosphate pathway - Caldicellulosiruptor saccharolyticus
+path:csc00040	Pentose and glucuronate interconversions - Caldicellulosiruptor saccharolyticus
+path:csc00051	Fructose and mannose metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00052	Galactose metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00061	Fatty acid biosynthesis - Caldicellulosiruptor saccharolyticus
+path:csc00190	Oxidative phosphorylation - Caldicellulosiruptor saccharolyticus
+path:csc00220	Arginine biosynthesis - Caldicellulosiruptor saccharolyticus
+path:csc00230	Purine metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00240	Pyrimidine metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00250	Alanine, aspartate and glutamate metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00260	Glycine, serine and threonine metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00261	Monobactam biosynthesis - Caldicellulosiruptor saccharolyticus
+path:csc00270	Cysteine and methionine metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00280	Valine, leucine and isoleucine degradation - Caldicellulosiruptor saccharolyticus
+path:csc00290	Valine, leucine and isoleucine biosynthesis - Caldicellulosiruptor saccharolyticus
+path:csc00300	Lysine biosynthesis - Caldicellulosiruptor saccharolyticus
+path:csc00330	Arginine and proline metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00332	Carbapenem biosynthesis - Caldicellulosiruptor saccharolyticus
+path:csc00340	Histidine metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00350	Tyrosine metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00360	Phenylalanine metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00380	Tryptophan metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Caldicellulosiruptor saccharolyticus
+path:csc00401	Novobiocin biosynthesis - Caldicellulosiruptor saccharolyticus
+path:csc00410	beta-Alanine metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00430	Taurine and hypotaurine metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00440	Phosphonate and phosphinate metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00450	Selenocompound metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00460	Cyanoamino acid metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00471	D-Glutamine and D-glutamate metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00473	D-Alanine metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00480	Glutathione metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00500	Starch and sucrose metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00511	Other glycan degradation - Caldicellulosiruptor saccharolyticus
+path:csc00520	Amino sugar and nucleotide sugar metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00521	Streptomycin biosynthesis - Caldicellulosiruptor saccharolyticus
+path:csc00550	Peptidoglycan biosynthesis - Caldicellulosiruptor saccharolyticus
+path:csc00561	Glycerolipid metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00562	Inositol phosphate metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00564	Glycerophospholipid metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00600	Sphingolipid metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00620	Pyruvate metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00625	Chloroalkane and chloroalkene degradation - Caldicellulosiruptor saccharolyticus
+path:csc00626	Naphthalene degradation - Caldicellulosiruptor saccharolyticus
+path:csc00630	Glyoxylate and dicarboxylate metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00633	Nitrotoluene degradation - Caldicellulosiruptor saccharolyticus
+path:csc00640	Propanoate metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00650	Butanoate metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00660	C5-Branched dibasic acid metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00670	One carbon pool by folate - Caldicellulosiruptor saccharolyticus
+path:csc00680	Methane metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00730	Thiamine metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00740	Riboflavin metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00750	Vitamin B6 metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00760	Nicotinate and nicotinamide metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00770	Pantothenate and CoA biosynthesis - Caldicellulosiruptor saccharolyticus
+path:csc00780	Biotin metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00785	Lipoic acid metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00790	Folate biosynthesis - Caldicellulosiruptor saccharolyticus
+path:csc00860	Porphyrin and chlorophyll metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00900	Terpenoid backbone biosynthesis - Caldicellulosiruptor saccharolyticus
+path:csc00910	Nitrogen metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00920	Sulfur metabolism - Caldicellulosiruptor saccharolyticus
+path:csc00970	Aminoacyl-tRNA biosynthesis - Caldicellulosiruptor saccharolyticus
+path:csc01040	Biosynthesis of unsaturated fatty acids - Caldicellulosiruptor saccharolyticus
+path:csc01100	Metabolic pathways - Caldicellulosiruptor saccharolyticus
+path:csc01110	Biosynthesis of secondary metabolites - Caldicellulosiruptor saccharolyticus
+path:csc01120	Microbial metabolism in diverse environments - Caldicellulosiruptor saccharolyticus
+path:csc01130	Biosynthesis of antibiotics - Caldicellulosiruptor saccharolyticus
+path:csc01200	Carbon metabolism - Caldicellulosiruptor saccharolyticus
+path:csc01210	2-Oxocarboxylic acid metabolism - Caldicellulosiruptor saccharolyticus
+path:csc01212	Fatty acid metabolism - Caldicellulosiruptor saccharolyticus
+path:csc01220	Degradation of aromatic compounds - Caldicellulosiruptor saccharolyticus
+path:csc01230	Biosynthesis of amino acids - Caldicellulosiruptor saccharolyticus
+path:csc01501	beta-Lactam resistance - Caldicellulosiruptor saccharolyticus
+path:csc01502	Vancomycin resistance - Caldicellulosiruptor saccharolyticus
+path:csc01503	Cationic antimicrobial peptide (CAMP) resistance - Caldicellulosiruptor saccharolyticus
+path:csc02010	ABC transporters - Caldicellulosiruptor saccharolyticus
+path:csc02020	Two-component system - Caldicellulosiruptor saccharolyticus
+path:csc02024	Quorum sensing - Caldicellulosiruptor saccharolyticus
+path:csc02030	Bacterial chemotaxis - Caldicellulosiruptor saccharolyticus
+path:csc02040	Flagellar assembly - Caldicellulosiruptor saccharolyticus
+path:csc02060	Phosphotransferase system (PTS) - Caldicellulosiruptor saccharolyticus
+path:csc03010	Ribosome - Caldicellulosiruptor saccharolyticus
+path:csc03018	RNA degradation - Caldicellulosiruptor saccharolyticus
+path:csc03020	RNA polymerase - Caldicellulosiruptor saccharolyticus
+path:csc03030	DNA replication - Caldicellulosiruptor saccharolyticus
+path:csc03060	Protein export - Caldicellulosiruptor saccharolyticus
+path:csc03070	Bacterial secretion system - Caldicellulosiruptor saccharolyticus
+path:csc03410	Base excision repair - Caldicellulosiruptor saccharolyticus
+path:csc03420	Nucleotide excision repair - Caldicellulosiruptor saccharolyticus
+path:csc03430	Mismatch repair - Caldicellulosiruptor saccharolyticus
+path:csc03440	Homologous recombination - Caldicellulosiruptor saccharolyticus
+path:csc04122	Sulfur relay system - Caldicellulosiruptor saccharolyticus
+path:ate00010	Glycolysis / Gluconeogenesis - Caldicellulosiruptor bescii
+path:ate00020	Citrate cycle (TCA cycle) - Caldicellulosiruptor bescii
+path:ate00030	Pentose phosphate pathway - Caldicellulosiruptor bescii
+path:ate00040	Pentose and glucuronate interconversions - Caldicellulosiruptor bescii
+path:ate00051	Fructose and mannose metabolism - Caldicellulosiruptor bescii
+path:ate00052	Galactose metabolism - Caldicellulosiruptor bescii
+path:ate00061	Fatty acid biosynthesis - Caldicellulosiruptor bescii
+path:ate00190	Oxidative phosphorylation - Caldicellulosiruptor bescii
+path:ate00220	Arginine biosynthesis - Caldicellulosiruptor bescii
+path:ate00230	Purine metabolism - Caldicellulosiruptor bescii
+path:ate00240	Pyrimidine metabolism - Caldicellulosiruptor bescii
+path:ate00250	Alanine, aspartate and glutamate metabolism - Caldicellulosiruptor bescii
+path:ate00260	Glycine, serine and threonine metabolism - Caldicellulosiruptor bescii
+path:ate00261	Monobactam biosynthesis - Caldicellulosiruptor bescii
+path:ate00270	Cysteine and methionine metabolism - Caldicellulosiruptor bescii
+path:ate00280	Valine, leucine and isoleucine degradation - Caldicellulosiruptor bescii
+path:ate00290	Valine, leucine and isoleucine biosynthesis - Caldicellulosiruptor bescii
+path:ate00300	Lysine biosynthesis - Caldicellulosiruptor bescii
+path:ate00330	Arginine and proline metabolism - Caldicellulosiruptor bescii
+path:ate00332	Carbapenem biosynthesis - Caldicellulosiruptor bescii
+path:ate00340	Histidine metabolism - Caldicellulosiruptor bescii
+path:ate00350	Tyrosine metabolism - Caldicellulosiruptor bescii
+path:ate00360	Phenylalanine metabolism - Caldicellulosiruptor bescii
+path:ate00380	Tryptophan metabolism - Caldicellulosiruptor bescii
+path:ate00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Caldicellulosiruptor bescii
+path:ate00401	Novobiocin biosynthesis - Caldicellulosiruptor bescii
+path:ate00410	beta-Alanine metabolism - Caldicellulosiruptor bescii
+path:ate00430	Taurine and hypotaurine metabolism - Caldicellulosiruptor bescii
+path:ate00440	Phosphonate and phosphinate metabolism - Caldicellulosiruptor bescii
+path:ate00450	Selenocompound metabolism - Caldicellulosiruptor bescii
+path:ate00460	Cyanoamino acid metabolism - Caldicellulosiruptor bescii
+path:ate00471	D-Glutamine and D-glutamate metabolism - Caldicellulosiruptor bescii
+path:ate00473	D-Alanine metabolism - Caldicellulosiruptor bescii
+path:ate00480	Glutathione metabolism - Caldicellulosiruptor bescii
+path:ate00500	Starch and sucrose metabolism - Caldicellulosiruptor bescii
+path:ate00511	Other glycan degradation - Caldicellulosiruptor bescii
+path:ate00520	Amino sugar and nucleotide sugar metabolism - Caldicellulosiruptor bescii
+path:ate00521	Streptomycin biosynthesis - Caldicellulosiruptor bescii
+path:ate00523	Polyketide sugar unit biosynthesis - Caldicellulosiruptor bescii
+path:ate00525	Acarbose and validamycin biosynthesis - Caldicellulosiruptor bescii
+path:ate00550	Peptidoglycan biosynthesis - Caldicellulosiruptor bescii
+path:ate00561	Glycerolipid metabolism - Caldicellulosiruptor bescii
+path:ate00564	Glycerophospholipid metabolism - Caldicellulosiruptor bescii
+path:ate00600	Sphingolipid metabolism - Caldicellulosiruptor bescii
+path:ate00620	Pyruvate metabolism - Caldicellulosiruptor bescii
+path:ate00625	Chloroalkane and chloroalkene degradation - Caldicellulosiruptor bescii
+path:ate00626	Naphthalene degradation - Caldicellulosiruptor bescii
+path:ate00630	Glyoxylate and dicarboxylate metabolism - Caldicellulosiruptor bescii
+path:ate00633	Nitrotoluene degradation - Caldicellulosiruptor bescii
+path:ate00640	Propanoate metabolism - Caldicellulosiruptor bescii
+path:ate00650	Butanoate metabolism - Caldicellulosiruptor bescii
+path:ate00660	C5-Branched dibasic acid metabolism - Caldicellulosiruptor bescii
+path:ate00670	One carbon pool by folate - Caldicellulosiruptor bescii
+path:ate00680	Methane metabolism - Caldicellulosiruptor bescii
+path:ate00730	Thiamine metabolism - Caldicellulosiruptor bescii
+path:ate00740	Riboflavin metabolism - Caldicellulosiruptor bescii
+path:ate00750	Vitamin B6 metabolism - Caldicellulosiruptor bescii
+path:ate00760	Nicotinate and nicotinamide metabolism - Caldicellulosiruptor bescii
+path:ate00770	Pantothenate and CoA biosynthesis - Caldicellulosiruptor bescii
+path:ate00780	Biotin metabolism - Caldicellulosiruptor bescii
+path:ate00785	Lipoic acid metabolism - Caldicellulosiruptor bescii
+path:ate00790	Folate biosynthesis - Caldicellulosiruptor bescii
+path:ate00860	Porphyrin and chlorophyll metabolism - Caldicellulosiruptor bescii
+path:ate00900	Terpenoid backbone biosynthesis - Caldicellulosiruptor bescii
+path:ate00910	Nitrogen metabolism - Caldicellulosiruptor bescii
+path:ate00920	Sulfur metabolism - Caldicellulosiruptor bescii
+path:ate00970	Aminoacyl-tRNA biosynthesis - Caldicellulosiruptor bescii
+path:ate01040	Biosynthesis of unsaturated fatty acids - Caldicellulosiruptor bescii
+path:ate01100	Metabolic pathways - Caldicellulosiruptor bescii
+path:ate01110	Biosynthesis of secondary metabolites - Caldicellulosiruptor bescii
+path:ate01120	Microbial metabolism in diverse environments - Caldicellulosiruptor bescii
+path:ate01130	Biosynthesis of antibiotics - Caldicellulosiruptor bescii
+path:ate01200	Carbon metabolism - Caldicellulosiruptor bescii
+path:ate01210	2-Oxocarboxylic acid metabolism - Caldicellulosiruptor bescii
+path:ate01212	Fatty acid metabolism - Caldicellulosiruptor bescii
+path:ate01220	Degradation of aromatic compounds - Caldicellulosiruptor bescii
+path:ate01230	Biosynthesis of amino acids - Caldicellulosiruptor bescii
+path:ate01501	beta-Lactam resistance - Caldicellulosiruptor bescii
+path:ate01502	Vancomycin resistance - Caldicellulosiruptor bescii
+path:ate01503	Cationic antimicrobial peptide (CAMP) resistance - Caldicellulosiruptor bescii
+path:ate02010	ABC transporters - Caldicellulosiruptor bescii
+path:ate02020	Two-component system - Caldicellulosiruptor bescii
+path:ate02024	Quorum sensing - Caldicellulosiruptor bescii
+path:ate02030	Bacterial chemotaxis - Caldicellulosiruptor bescii
+path:ate02040	Flagellar assembly - Caldicellulosiruptor bescii
+path:ate02060	Phosphotransferase system (PTS) - Caldicellulosiruptor bescii
+path:ate03010	Ribosome - Caldicellulosiruptor bescii
+path:ate03018	RNA degradation - Caldicellulosiruptor bescii
+path:ate03020	RNA polymerase - Caldicellulosiruptor bescii
+path:ate03030	DNA replication - Caldicellulosiruptor bescii
+path:ate03060	Protein export - Caldicellulosiruptor bescii
+path:ate03070	Bacterial secretion system - Caldicellulosiruptor bescii
+path:ate03410	Base excision repair - Caldicellulosiruptor bescii
+path:ate03420	Nucleotide excision repair - Caldicellulosiruptor bescii
+path:ate03430	Mismatch repair - Caldicellulosiruptor bescii
+path:ate03440	Homologous recombination - Caldicellulosiruptor bescii
+path:ate04122	Sulfur relay system - Caldicellulosiruptor bescii
+path:cob00010	Glycolysis / Gluconeogenesis - Caldicellulosiruptor obsidiansis
+path:cob00020	Citrate cycle (TCA cycle) - Caldicellulosiruptor obsidiansis
+path:cob00030	Pentose phosphate pathway - Caldicellulosiruptor obsidiansis
+path:cob00040	Pentose and glucuronate interconversions - Caldicellulosiruptor obsidiansis
+path:cob00051	Fructose and mannose metabolism - Caldicellulosiruptor obsidiansis
+path:cob00052	Galactose metabolism - Caldicellulosiruptor obsidiansis
+path:cob00061	Fatty acid biosynthesis - Caldicellulosiruptor obsidiansis
+path:cob00190	Oxidative phosphorylation - Caldicellulosiruptor obsidiansis
+path:cob00220	Arginine biosynthesis - Caldicellulosiruptor obsidiansis
+path:cob00230	Purine metabolism - Caldicellulosiruptor obsidiansis
+path:cob00240	Pyrimidine metabolism - Caldicellulosiruptor obsidiansis
+path:cob00250	Alanine, aspartate and glutamate metabolism - Caldicellulosiruptor obsidiansis
+path:cob00260	Glycine, serine and threonine metabolism - Caldicellulosiruptor obsidiansis
+path:cob00261	Monobactam biosynthesis - Caldicellulosiruptor obsidiansis
+path:cob00270	Cysteine and methionine metabolism - Caldicellulosiruptor obsidiansis
+path:cob00280	Valine, leucine and isoleucine degradation - Caldicellulosiruptor obsidiansis
+path:cob00290	Valine, leucine and isoleucine biosynthesis - Caldicellulosiruptor obsidiansis
+path:cob00300	Lysine biosynthesis - Caldicellulosiruptor obsidiansis
+path:cob00330	Arginine and proline metabolism - Caldicellulosiruptor obsidiansis
+path:cob00332	Carbapenem biosynthesis - Caldicellulosiruptor obsidiansis
+path:cob00340	Histidine metabolism - Caldicellulosiruptor obsidiansis
+path:cob00350	Tyrosine metabolism - Caldicellulosiruptor obsidiansis
+path:cob00360	Phenylalanine metabolism - Caldicellulosiruptor obsidiansis
+path:cob00380	Tryptophan metabolism - Caldicellulosiruptor obsidiansis
+path:cob00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Caldicellulosiruptor obsidiansis
+path:cob00401	Novobiocin biosynthesis - Caldicellulosiruptor obsidiansis
+path:cob00410	beta-Alanine metabolism - Caldicellulosiruptor obsidiansis
+path:cob00430	Taurine and hypotaurine metabolism - Caldicellulosiruptor obsidiansis
+path:cob00440	Phosphonate and phosphinate metabolism - Caldicellulosiruptor obsidiansis
+path:cob00450	Selenocompound metabolism - Caldicellulosiruptor obsidiansis
+path:cob00460	Cyanoamino acid metabolism - Caldicellulosiruptor obsidiansis
+path:cob00471	D-Glutamine and D-glutamate metabolism - Caldicellulosiruptor obsidiansis
+path:cob00473	D-Alanine metabolism - Caldicellulosiruptor obsidiansis
+path:cob00480	Glutathione metabolism - Caldicellulosiruptor obsidiansis
+path:cob00500	Starch and sucrose metabolism - Caldicellulosiruptor obsidiansis
+path:cob00511	Other glycan degradation - Caldicellulosiruptor obsidiansis
+path:cob00520	Amino sugar and nucleotide sugar metabolism - Caldicellulosiruptor obsidiansis
+path:cob00521	Streptomycin biosynthesis - Caldicellulosiruptor obsidiansis
+path:cob00523	Polyketide sugar unit biosynthesis - Caldicellulosiruptor obsidiansis
+path:cob00525	Acarbose and validamycin biosynthesis - Caldicellulosiruptor obsidiansis
+path:cob00550	Peptidoglycan biosynthesis - Caldicellulosiruptor obsidiansis
+path:cob00561	Glycerolipid metabolism - Caldicellulosiruptor obsidiansis
+path:cob00564	Glycerophospholipid metabolism - Caldicellulosiruptor obsidiansis
+path:cob00600	Sphingolipid metabolism - Caldicellulosiruptor obsidiansis
+path:cob00620	Pyruvate metabolism - Caldicellulosiruptor obsidiansis
+path:cob00625	Chloroalkane and chloroalkene degradation - Caldicellulosiruptor obsidiansis
+path:cob00626	Naphthalene degradation - Caldicellulosiruptor obsidiansis
+path:cob00630	Glyoxylate and dicarboxylate metabolism - Caldicellulosiruptor obsidiansis
+path:cob00633	Nitrotoluene degradation - Caldicellulosiruptor obsidiansis
+path:cob00640	Propanoate metabolism - Caldicellulosiruptor obsidiansis
+path:cob00650	Butanoate metabolism - Caldicellulosiruptor obsidiansis
+path:cob00660	C5-Branched dibasic acid metabolism - Caldicellulosiruptor obsidiansis
+path:cob00670	One carbon pool by folate - Caldicellulosiruptor obsidiansis
+path:cob00680	Methane metabolism - Caldicellulosiruptor obsidiansis
+path:cob00730	Thiamine metabolism - Caldicellulosiruptor obsidiansis
+path:cob00740	Riboflavin metabolism - Caldicellulosiruptor obsidiansis
+path:cob00750	Vitamin B6 metabolism - Caldicellulosiruptor obsidiansis
+path:cob00760	Nicotinate and nicotinamide metabolism - Caldicellulosiruptor obsidiansis
+path:cob00770	Pantothenate and CoA biosynthesis - Caldicellulosiruptor obsidiansis
+path:cob00780	Biotin metabolism - Caldicellulosiruptor obsidiansis
+path:cob00785	Lipoic acid metabolism - Caldicellulosiruptor obsidiansis
+path:cob00790	Folate biosynthesis - Caldicellulosiruptor obsidiansis
+path:cob00860	Porphyrin and chlorophyll metabolism - Caldicellulosiruptor obsidiansis
+path:cob00900	Terpenoid backbone biosynthesis - Caldicellulosiruptor obsidiansis
+path:cob00910	Nitrogen metabolism - Caldicellulosiruptor obsidiansis
+path:cob00920	Sulfur metabolism - Caldicellulosiruptor obsidiansis
+path:cob00970	Aminoacyl-tRNA biosynthesis - Caldicellulosiruptor obsidiansis
+path:cob01040	Biosynthesis of unsaturated fatty acids - Caldicellulosiruptor obsidiansis
+path:cob01100	Metabolic pathways - Caldicellulosiruptor obsidiansis
+path:cob01110	Biosynthesis of secondary metabolites - Caldicellulosiruptor obsidiansis
+path:cob01120	Microbial metabolism in diverse environments - Caldicellulosiruptor obsidiansis
+path:cob01130	Biosynthesis of antibiotics - Caldicellulosiruptor obsidiansis
+path:cob01200	Carbon metabolism - Caldicellulosiruptor obsidiansis
+path:cob01210	2-Oxocarboxylic acid metabolism - Caldicellulosiruptor obsidiansis
+path:cob01212	Fatty acid metabolism - Caldicellulosiruptor obsidiansis
+path:cob01220	Degradation of aromatic compounds - Caldicellulosiruptor obsidiansis
+path:cob01230	Biosynthesis of amino acids - Caldicellulosiruptor obsidiansis
+path:cob01501	beta-Lactam resistance - Caldicellulosiruptor obsidiansis
+path:cob01502	Vancomycin resistance - Caldicellulosiruptor obsidiansis
+path:cob01503	Cationic antimicrobial peptide (CAMP) resistance - Caldicellulosiruptor obsidiansis
+path:cob02010	ABC transporters - Caldicellulosiruptor obsidiansis
+path:cob02020	Two-component system - Caldicellulosiruptor obsidiansis
+path:cob02024	Quorum sensing - Caldicellulosiruptor obsidiansis
+path:cob02030	Bacterial chemotaxis - Caldicellulosiruptor obsidiansis
+path:cob02040	Flagellar assembly - Caldicellulosiruptor obsidiansis
+path:cob03010	Ribosome - Caldicellulosiruptor obsidiansis
+path:cob03018	RNA degradation - Caldicellulosiruptor obsidiansis
+path:cob03020	RNA polymerase - Caldicellulosiruptor obsidiansis
+path:cob03030	DNA replication - Caldicellulosiruptor obsidiansis
+path:cob03060	Protein export - Caldicellulosiruptor obsidiansis
+path:cob03070	Bacterial secretion system - Caldicellulosiruptor obsidiansis
+path:cob03410	Base excision repair - Caldicellulosiruptor obsidiansis
+path:cob03420	Nucleotide excision repair - Caldicellulosiruptor obsidiansis
+path:cob03430	Mismatch repair - Caldicellulosiruptor obsidiansis
+path:cob03440	Homologous recombination - Caldicellulosiruptor obsidiansis
+path:cob04122	Sulfur relay system - Caldicellulosiruptor obsidiansis
+path:chd00010	Glycolysis / Gluconeogenesis - Caldicellulosiruptor hydrothermalis
+path:chd00020	Citrate cycle (TCA cycle) - Caldicellulosiruptor hydrothermalis
+path:chd00030	Pentose phosphate pathway - Caldicellulosiruptor hydrothermalis
+path:chd00040	Pentose and glucuronate interconversions - Caldicellulosiruptor hydrothermalis
+path:chd00051	Fructose and mannose metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00052	Galactose metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00061	Fatty acid biosynthesis - Caldicellulosiruptor hydrothermalis
+path:chd00130	Ubiquinone and other terpenoid-quinone biosynthesis - Caldicellulosiruptor hydrothermalis
+path:chd00190	Oxidative phosphorylation - Caldicellulosiruptor hydrothermalis
+path:chd00220	Arginine biosynthesis - Caldicellulosiruptor hydrothermalis
+path:chd00230	Purine metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00240	Pyrimidine metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00250	Alanine, aspartate and glutamate metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00260	Glycine, serine and threonine metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00261	Monobactam biosynthesis - Caldicellulosiruptor hydrothermalis
+path:chd00270	Cysteine and methionine metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00280	Valine, leucine and isoleucine degradation - Caldicellulosiruptor hydrothermalis
+path:chd00290	Valine, leucine and isoleucine biosynthesis - Caldicellulosiruptor hydrothermalis
+path:chd00300	Lysine biosynthesis - Caldicellulosiruptor hydrothermalis
+path:chd00330	Arginine and proline metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00332	Carbapenem biosynthesis - Caldicellulosiruptor hydrothermalis
+path:chd00340	Histidine metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00350	Tyrosine metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00360	Phenylalanine metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00380	Tryptophan metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Caldicellulosiruptor hydrothermalis
+path:chd00401	Novobiocin biosynthesis - Caldicellulosiruptor hydrothermalis
+path:chd00410	beta-Alanine metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00430	Taurine and hypotaurine metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00440	Phosphonate and phosphinate metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00450	Selenocompound metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00460	Cyanoamino acid metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00471	D-Glutamine and D-glutamate metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00473	D-Alanine metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00480	Glutathione metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00500	Starch and sucrose metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00511	Other glycan degradation - Caldicellulosiruptor hydrothermalis
+path:chd00520	Amino sugar and nucleotide sugar metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00521	Streptomycin biosynthesis - Caldicellulosiruptor hydrothermalis
+path:chd00550	Peptidoglycan biosynthesis - Caldicellulosiruptor hydrothermalis
+path:chd00561	Glycerolipid metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00564	Glycerophospholipid metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00600	Sphingolipid metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00620	Pyruvate metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00625	Chloroalkane and chloroalkene degradation - Caldicellulosiruptor hydrothermalis
+path:chd00626	Naphthalene degradation - Caldicellulosiruptor hydrothermalis
+path:chd00630	Glyoxylate and dicarboxylate metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00633	Nitrotoluene degradation - Caldicellulosiruptor hydrothermalis
+path:chd00640	Propanoate metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00650	Butanoate metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00660	C5-Branched dibasic acid metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00670	One carbon pool by folate - Caldicellulosiruptor hydrothermalis
+path:chd00680	Methane metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00730	Thiamine metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00740	Riboflavin metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00750	Vitamin B6 metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00760	Nicotinate and nicotinamide metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00770	Pantothenate and CoA biosynthesis - Caldicellulosiruptor hydrothermalis
+path:chd00780	Biotin metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00785	Lipoic acid metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00790	Folate biosynthesis - Caldicellulosiruptor hydrothermalis
+path:chd00860	Porphyrin and chlorophyll metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00900	Terpenoid backbone biosynthesis - Caldicellulosiruptor hydrothermalis
+path:chd00910	Nitrogen metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00920	Sulfur metabolism - Caldicellulosiruptor hydrothermalis
+path:chd00970	Aminoacyl-tRNA biosynthesis - Caldicellulosiruptor hydrothermalis
+path:chd01040	Biosynthesis of unsaturated fatty acids - Caldicellulosiruptor hydrothermalis
+path:chd01100	Metabolic pathways - Caldicellulosiruptor hydrothermalis
+path:chd01110	Biosynthesis of secondary metabolites - Caldicellulosiruptor hydrothermalis
+path:chd01120	Microbial metabolism in diverse environments - Caldicellulosiruptor hydrothermalis
+path:chd01130	Biosynthesis of antibiotics - Caldicellulosiruptor hydrothermalis
+path:chd01200	Carbon metabolism - Caldicellulosiruptor hydrothermalis
+path:chd01210	2-Oxocarboxylic acid metabolism - Caldicellulosiruptor hydrothermalis
+path:chd01212	Fatty acid metabolism - Caldicellulosiruptor hydrothermalis
+path:chd01220	Degradation of aromatic compounds - Caldicellulosiruptor hydrothermalis
+path:chd01230	Biosynthesis of amino acids - Caldicellulosiruptor hydrothermalis
+path:chd01501	beta-Lactam resistance - Caldicellulosiruptor hydrothermalis
+path:chd01502	Vancomycin resistance - Caldicellulosiruptor hydrothermalis
+path:chd01503	Cationic antimicrobial peptide (CAMP) resistance - Caldicellulosiruptor hydrothermalis
+path:chd02010	ABC transporters - Caldicellulosiruptor hydrothermalis
+path:chd02020	Two-component system - Caldicellulosiruptor hydrothermalis
+path:chd02024	Quorum sensing - Caldicellulosiruptor hydrothermalis
+path:chd02030	Bacterial chemotaxis - Caldicellulosiruptor hydrothermalis
+path:chd02040	Flagellar assembly - Caldicellulosiruptor hydrothermalis
+path:chd02060	Phosphotransferase system (PTS) - Caldicellulosiruptor hydrothermalis
+path:chd03010	Ribosome - Caldicellulosiruptor hydrothermalis
+path:chd03018	RNA degradation - Caldicellulosiruptor hydrothermalis
+path:chd03020	RNA polymerase - Caldicellulosiruptor hydrothermalis
+path:chd03030	DNA replication - Caldicellulosiruptor hydrothermalis
+path:chd03060	Protein export - Caldicellulosiruptor hydrothermalis
+path:chd03070	Bacterial secretion system - Caldicellulosiruptor hydrothermalis
+path:chd03410	Base excision repair - Caldicellulosiruptor hydrothermalis
+path:chd03420	Nucleotide excision repair - Caldicellulosiruptor hydrothermalis
+path:chd03430	Mismatch repair - Caldicellulosiruptor hydrothermalis
+path:chd03440	Homologous recombination - Caldicellulosiruptor hydrothermalis
+path:chd04122	Sulfur relay system - Caldicellulosiruptor hydrothermalis
+path:cow00010	Glycolysis / Gluconeogenesis - Caldicellulosiruptor owensensis
+path:cow00020	Citrate cycle (TCA cycle) - Caldicellulosiruptor owensensis
+path:cow00030	Pentose phosphate pathway - Caldicellulosiruptor owensensis
+path:cow00040	Pentose and glucuronate interconversions - Caldicellulosiruptor owensensis
+path:cow00051	Fructose and mannose metabolism - Caldicellulosiruptor owensensis
+path:cow00052	Galactose metabolism - Caldicellulosiruptor owensensis
+path:cow00061	Fatty acid biosynthesis - Caldicellulosiruptor owensensis
+path:cow00190	Oxidative phosphorylation - Caldicellulosiruptor owensensis
+path:cow00220	Arginine biosynthesis - Caldicellulosiruptor owensensis
+path:cow00230	Purine metabolism - Caldicellulosiruptor owensensis
+path:cow00240	Pyrimidine metabolism - Caldicellulosiruptor owensensis
+path:cow00250	Alanine, aspartate and glutamate metabolism - Caldicellulosiruptor owensensis
+path:cow00260	Glycine, serine and threonine metabolism - Caldicellulosiruptor owensensis
+path:cow00261	Monobactam biosynthesis - Caldicellulosiruptor owensensis
+path:cow00270	Cysteine and methionine metabolism - Caldicellulosiruptor owensensis
+path:cow00280	Valine, leucine and isoleucine degradation - Caldicellulosiruptor owensensis
+path:cow00290	Valine, leucine and isoleucine biosynthesis - Caldicellulosiruptor owensensis
+path:cow00300	Lysine biosynthesis - Caldicellulosiruptor owensensis
+path:cow00330	Arginine and proline metabolism - Caldicellulosiruptor owensensis
+path:cow00332	Carbapenem biosynthesis - Caldicellulosiruptor owensensis
+path:cow00340	Histidine metabolism - Caldicellulosiruptor owensensis
+path:cow00350	Tyrosine metabolism - Caldicellulosiruptor owensensis
+path:cow00360	Phenylalanine metabolism - Caldicellulosiruptor owensensis
+path:cow00380	Tryptophan metabolism - Caldicellulosiruptor owensensis
+path:cow00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Caldicellulosiruptor owensensis
+path:cow00401	Novobiocin biosynthesis - Caldicellulosiruptor owensensis
+path:cow00410	beta-Alanine metabolism - Caldicellulosiruptor owensensis
+path:cow00430	Taurine and hypotaurine metabolism - Caldicellulosiruptor owensensis
+path:cow00440	Phosphonate and phosphinate metabolism - Caldicellulosiruptor owensensis
+path:cow00450	Selenocompound metabolism - Caldicellulosiruptor owensensis
+path:cow00460	Cyanoamino acid metabolism - Caldicellulosiruptor owensensis
+path:cow00471	D-Glutamine and D-glutamate metabolism - Caldicellulosiruptor owensensis
+path:cow00473	D-Alanine metabolism - Caldicellulosiruptor owensensis
+path:cow00480	Glutathione metabolism - Caldicellulosiruptor owensensis
+path:cow00500	Starch and sucrose metabolism - Caldicellulosiruptor owensensis
+path:cow00511	Other glycan degradation - Caldicellulosiruptor owensensis
+path:cow00520	Amino sugar and nucleotide sugar metabolism - Caldicellulosiruptor owensensis
+path:cow00550	Peptidoglycan biosynthesis - Caldicellulosiruptor owensensis
+path:cow00561	Glycerolipid metabolism - Caldicellulosiruptor owensensis
+path:cow00564	Glycerophospholipid metabolism - Caldicellulosiruptor owensensis
+path:cow00600	Sphingolipid metabolism - Caldicellulosiruptor owensensis
+path:cow00620	Pyruvate metabolism - Caldicellulosiruptor owensensis
+path:cow00625	Chloroalkane and chloroalkene degradation - Caldicellulosiruptor owensensis
+path:cow00626	Naphthalene degradation - Caldicellulosiruptor owensensis
+path:cow00630	Glyoxylate and dicarboxylate metabolism - Caldicellulosiruptor owensensis
+path:cow00633	Nitrotoluene degradation - Caldicellulosiruptor owensensis
+path:cow00640	Propanoate metabolism - Caldicellulosiruptor owensensis
+path:cow00650	Butanoate metabolism - Caldicellulosiruptor owensensis
+path:cow00660	C5-Branched dibasic acid metabolism - Caldicellulosiruptor owensensis
+path:cow00670	One carbon pool by folate - Caldicellulosiruptor owensensis
+path:cow00680	Methane metabolism - Caldicellulosiruptor owensensis
+path:cow00730	Thiamine metabolism - Caldicellulosiruptor owensensis
+path:cow00740	Riboflavin metabolism - Caldicellulosiruptor owensensis
+path:cow00750	Vitamin B6 metabolism - Caldicellulosiruptor owensensis
+path:cow00760	Nicotinate and nicotinamide metabolism - Caldicellulosiruptor owensensis
+path:cow00770	Pantothenate and CoA biosynthesis - Caldicellulosiruptor owensensis
+path:cow00780	Biotin metabolism - Caldicellulosiruptor owensensis
+path:cow00785	Lipoic acid metabolism - Caldicellulosiruptor owensensis
+path:cow00790	Folate biosynthesis - Caldicellulosiruptor owensensis
+path:cow00860	Porphyrin and chlorophyll metabolism - Caldicellulosiruptor owensensis
+path:cow00900	Terpenoid backbone biosynthesis - Caldicellulosiruptor owensensis
+path:cow00910	Nitrogen metabolism - Caldicellulosiruptor owensensis
+path:cow00920	Sulfur metabolism - Caldicellulosiruptor owensensis
+path:cow00970	Aminoacyl-tRNA biosynthesis - Caldicellulosiruptor owensensis
+path:cow01040	Biosynthesis of unsaturated fatty acids - Caldicellulosiruptor owensensis
+path:cow01100	Metabolic pathways - Caldicellulosiruptor owensensis
+path:cow01110	Biosynthesis of secondary metabolites - Caldicellulosiruptor owensensis
+path:cow01120	Microbial metabolism in diverse environments - Caldicellulosiruptor owensensis
+path:cow01130	Biosynthesis of antibiotics - Caldicellulosiruptor owensensis
+path:cow01200	Carbon metabolism - Caldicellulosiruptor owensensis
+path:cow01210	2-Oxocarboxylic acid metabolism - Caldicellulosiruptor owensensis
+path:cow01212	Fatty acid metabolism - Caldicellulosiruptor owensensis
+path:cow01220	Degradation of aromatic compounds - Caldicellulosiruptor owensensis
+path:cow01230	Biosynthesis of amino acids - Caldicellulosiruptor owensensis
+path:cow01501	beta-Lactam resistance - Caldicellulosiruptor owensensis
+path:cow01502	Vancomycin resistance - Caldicellulosiruptor owensensis
+path:cow01503	Cationic antimicrobial peptide (CAMP) resistance - Caldicellulosiruptor owensensis
+path:cow02010	ABC transporters - Caldicellulosiruptor owensensis
+path:cow02020	Two-component system - Caldicellulosiruptor owensensis
+path:cow02024	Quorum sensing - Caldicellulosiruptor owensensis
+path:cow02030	Bacterial chemotaxis - Caldicellulosiruptor owensensis
+path:cow02040	Flagellar assembly - Caldicellulosiruptor owensensis
+path:cow02060	Phosphotransferase system (PTS) - Caldicellulosiruptor owensensis
+path:cow03010	Ribosome - Caldicellulosiruptor owensensis
+path:cow03018	RNA degradation - Caldicellulosiruptor owensensis
+path:cow03020	RNA polymerase - Caldicellulosiruptor owensensis
+path:cow03030	DNA replication - Caldicellulosiruptor owensensis
+path:cow03060	Protein export - Caldicellulosiruptor owensensis
+path:cow03070	Bacterial secretion system - Caldicellulosiruptor owensensis
+path:cow03410	Base excision repair - Caldicellulosiruptor owensensis
+path:cow03420	Nucleotide excision repair - Caldicellulosiruptor owensensis
+path:cow03430	Mismatch repair - Caldicellulosiruptor owensensis
+path:cow03440	Homologous recombination - Caldicellulosiruptor owensensis
+path:cow04122	Sulfur relay system - Caldicellulosiruptor owensensis
+path:cki00010	Glycolysis / Gluconeogenesis - Caldicellulosiruptor kristjanssonii
+path:cki00020	Citrate cycle (TCA cycle) - Caldicellulosiruptor kristjanssonii
+path:cki00030	Pentose phosphate pathway - Caldicellulosiruptor kristjanssonii
+path:cki00040	Pentose and glucuronate interconversions - Caldicellulosiruptor kristjanssonii
+path:cki00051	Fructose and mannose metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00052	Galactose metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00061	Fatty acid biosynthesis - Caldicellulosiruptor kristjanssonii
+path:cki00130	Ubiquinone and other terpenoid-quinone biosynthesis - Caldicellulosiruptor kristjanssonii
+path:cki00190	Oxidative phosphorylation - Caldicellulosiruptor kristjanssonii
+path:cki00220	Arginine biosynthesis - Caldicellulosiruptor kristjanssonii
+path:cki00230	Purine metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00240	Pyrimidine metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00250	Alanine, aspartate and glutamate metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00260	Glycine, serine and threonine metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00261	Monobactam biosynthesis - Caldicellulosiruptor kristjanssonii
+path:cki00270	Cysteine and methionine metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00280	Valine, leucine and isoleucine degradation - Caldicellulosiruptor kristjanssonii
+path:cki00290	Valine, leucine and isoleucine biosynthesis - Caldicellulosiruptor kristjanssonii
+path:cki00300	Lysine biosynthesis - Caldicellulosiruptor kristjanssonii
+path:cki00330	Arginine and proline metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00332	Carbapenem biosynthesis - Caldicellulosiruptor kristjanssonii
+path:cki00340	Histidine metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00350	Tyrosine metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00360	Phenylalanine metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00380	Tryptophan metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Caldicellulosiruptor kristjanssonii
+path:cki00401	Novobiocin biosynthesis - Caldicellulosiruptor kristjanssonii
+path:cki00410	beta-Alanine metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00430	Taurine and hypotaurine metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00440	Phosphonate and phosphinate metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00450	Selenocompound metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00460	Cyanoamino acid metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00471	D-Glutamine and D-glutamate metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00473	D-Alanine metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00480	Glutathione metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00500	Starch and sucrose metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00511	Other glycan degradation - Caldicellulosiruptor kristjanssonii
+path:cki00520	Amino sugar and nucleotide sugar metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00550	Peptidoglycan biosynthesis - Caldicellulosiruptor kristjanssonii
+path:cki00561	Glycerolipid metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00564	Glycerophospholipid metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00600	Sphingolipid metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00620	Pyruvate metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00625	Chloroalkane and chloroalkene degradation - Caldicellulosiruptor kristjanssonii
+path:cki00626	Naphthalene degradation - Caldicellulosiruptor kristjanssonii
+path:cki00630	Glyoxylate and dicarboxylate metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00633	Nitrotoluene degradation - Caldicellulosiruptor kristjanssonii
+path:cki00640	Propanoate metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00650	Butanoate metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00660	C5-Branched dibasic acid metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00670	One carbon pool by folate - Caldicellulosiruptor kristjanssonii
+path:cki00680	Methane metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00730	Thiamine metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00740	Riboflavin metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00750	Vitamin B6 metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00760	Nicotinate and nicotinamide metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00770	Pantothenate and CoA biosynthesis - Caldicellulosiruptor kristjanssonii
+path:cki00780	Biotin metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00790	Folate biosynthesis - Caldicellulosiruptor kristjanssonii
+path:cki00860	Porphyrin and chlorophyll metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00900	Terpenoid backbone biosynthesis - Caldicellulosiruptor kristjanssonii
+path:cki00910	Nitrogen metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00920	Sulfur metabolism - Caldicellulosiruptor kristjanssonii
+path:cki00970	Aminoacyl-tRNA biosynthesis - Caldicellulosiruptor kristjanssonii
+path:cki01040	Biosynthesis of unsaturated fatty acids - Caldicellulosiruptor kristjanssonii
+path:cki01100	Metabolic pathways - Caldicellulosiruptor kristjanssonii
+path:cki01110	Biosynthesis of secondary metabolites - Caldicellulosiruptor kristjanssonii
+path:cki01120	Microbial metabolism in diverse environments - Caldicellulosiruptor kristjanssonii
+path:cki01130	Biosynthesis of antibiotics - Caldicellulosiruptor kristjanssonii
+path:cki01200	Carbon metabolism - Caldicellulosiruptor kristjanssonii
+path:cki01210	2-Oxocarboxylic acid metabolism - Caldicellulosiruptor kristjanssonii
+path:cki01212	Fatty acid metabolism - Caldicellulosiruptor kristjanssonii
+path:cki01220	Degradation of aromatic compounds - Caldicellulosiruptor kristjanssonii
+path:cki01230	Biosynthesis of amino acids - Caldicellulosiruptor kristjanssonii
+path:cki01501	beta-Lactam resistance - Caldicellulosiruptor kristjanssonii
+path:cki01502	Vancomycin resistance - Caldicellulosiruptor kristjanssonii
+path:cki01503	Cationic antimicrobial peptide (CAMP) resistance - Caldicellulosiruptor kristjanssonii
+path:cki02010	ABC transporters - Caldicellulosiruptor kristjanssonii
+path:cki02020	Two-component system - Caldicellulosiruptor kristjanssonii
+path:cki02024	Quorum sensing - Caldicellulosiruptor kristjanssonii
+path:cki02030	Bacterial chemotaxis - Caldicellulosiruptor kristjanssonii
+path:cki02040	Flagellar assembly - Caldicellulosiruptor kristjanssonii
+path:cki02060	Phosphotransferase system (PTS) - Caldicellulosiruptor kristjanssonii
+path:cki03010	Ribosome - Caldicellulosiruptor kristjanssonii
+path:cki03018	RNA degradation - Caldicellulosiruptor kristjanssonii
+path:cki03020	RNA polymerase - Caldicellulosiruptor kristjanssonii
+path:cki03030	DNA replication - Caldicellulosiruptor kristjanssonii
+path:cki03060	Protein export - Caldicellulosiruptor kristjanssonii
+path:cki03070	Bacterial secretion system - Caldicellulosiruptor kristjanssonii
+path:cki03410	Base excision repair - Caldicellulosiruptor kristjanssonii
+path:cki03420	Nucleotide excision repair - Caldicellulosiruptor kristjanssonii
+path:cki03430	Mismatch repair - Caldicellulosiruptor kristjanssonii
+path:cki03440	Homologous recombination - Caldicellulosiruptor kristjanssonii
+path:cki04122	Sulfur relay system - Caldicellulosiruptor kristjanssonii
+path:ckn00010	Glycolysis / Gluconeogenesis - Caldicellulosiruptor kronotskyensis
+path:ckn00020	Citrate cycle (TCA cycle) - Caldicellulosiruptor kronotskyensis
+path:ckn00030	Pentose phosphate pathway - Caldicellulosiruptor kronotskyensis
+path:ckn00040	Pentose and glucuronate interconversions - Caldicellulosiruptor kronotskyensis
+path:ckn00051	Fructose and mannose metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00052	Galactose metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00061	Fatty acid biosynthesis - Caldicellulosiruptor kronotskyensis
+path:ckn00130	Ubiquinone and other terpenoid-quinone biosynthesis - Caldicellulosiruptor kronotskyensis
+path:ckn00190	Oxidative phosphorylation - Caldicellulosiruptor kronotskyensis
+path:ckn00220	Arginine biosynthesis - Caldicellulosiruptor kronotskyensis
+path:ckn00230	Purine metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00240	Pyrimidine metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00250	Alanine, aspartate and glutamate metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00260	Glycine, serine and threonine metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00261	Monobactam biosynthesis - Caldicellulosiruptor kronotskyensis
+path:ckn00270	Cysteine and methionine metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00280	Valine, leucine and isoleucine degradation - Caldicellulosiruptor kronotskyensis
+path:ckn00290	Valine, leucine and isoleucine biosynthesis - Caldicellulosiruptor kronotskyensis
+path:ckn00300	Lysine biosynthesis - Caldicellulosiruptor kronotskyensis
+path:ckn00330	Arginine and proline metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00332	Carbapenem biosynthesis - Caldicellulosiruptor kronotskyensis
+path:ckn00340	Histidine metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00350	Tyrosine metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00360	Phenylalanine metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00380	Tryptophan metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Caldicellulosiruptor kronotskyensis
+path:ckn00401	Novobiocin biosynthesis - Caldicellulosiruptor kronotskyensis
+path:ckn00410	beta-Alanine metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00430	Taurine and hypotaurine metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00440	Phosphonate and phosphinate metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00450	Selenocompound metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00460	Cyanoamino acid metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00471	D-Glutamine and D-glutamate metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00473	D-Alanine metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00480	Glutathione metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00500	Starch and sucrose metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00511	Other glycan degradation - Caldicellulosiruptor kronotskyensis
+path:ckn00520	Amino sugar and nucleotide sugar metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00521	Streptomycin biosynthesis - Caldicellulosiruptor kronotskyensis
+path:ckn00550	Peptidoglycan biosynthesis - Caldicellulosiruptor kronotskyensis
+path:ckn00561	Glycerolipid metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00564	Glycerophospholipid metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00600	Sphingolipid metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00620	Pyruvate metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00625	Chloroalkane and chloroalkene degradation - Caldicellulosiruptor kronotskyensis
+path:ckn00626	Naphthalene degradation - Caldicellulosiruptor kronotskyensis
+path:ckn00630	Glyoxylate and dicarboxylate metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00633	Nitrotoluene degradation - Caldicellulosiruptor kronotskyensis
+path:ckn00640	Propanoate metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00650	Butanoate metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00660	C5-Branched dibasic acid metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00670	One carbon pool by folate - Caldicellulosiruptor kronotskyensis
+path:ckn00680	Methane metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00730	Thiamine metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00740	Riboflavin metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00750	Vitamin B6 metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00760	Nicotinate and nicotinamide metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00770	Pantothenate and CoA biosynthesis - Caldicellulosiruptor kronotskyensis
+path:ckn00780	Biotin metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00785	Lipoic acid metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00790	Folate biosynthesis - Caldicellulosiruptor kronotskyensis
+path:ckn00860	Porphyrin and chlorophyll metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00900	Terpenoid backbone biosynthesis - Caldicellulosiruptor kronotskyensis
+path:ckn00910	Nitrogen metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00920	Sulfur metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn00970	Aminoacyl-tRNA biosynthesis - Caldicellulosiruptor kronotskyensis
+path:ckn01040	Biosynthesis of unsaturated fatty acids - Caldicellulosiruptor kronotskyensis
+path:ckn01100	Metabolic pathways - Caldicellulosiruptor kronotskyensis
+path:ckn01110	Biosynthesis of secondary metabolites - Caldicellulosiruptor kronotskyensis
+path:ckn01120	Microbial metabolism in diverse environments - Caldicellulosiruptor kronotskyensis
+path:ckn01130	Biosynthesis of antibiotics - Caldicellulosiruptor kronotskyensis
+path:ckn01200	Carbon metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn01210	2-Oxocarboxylic acid metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn01212	Fatty acid metabolism - Caldicellulosiruptor kronotskyensis
+path:ckn01220	Degradation of aromatic compounds - Caldicellulosiruptor kronotskyensis
+path:ckn01230	Biosynthesis of amino acids - Caldicellulosiruptor kronotskyensis
+path:ckn01501	beta-Lactam resistance - Caldicellulosiruptor kronotskyensis
+path:ckn01502	Vancomycin resistance - Caldicellulosiruptor kronotskyensis
+path:ckn01503	Cationic antimicrobial peptide (CAMP) resistance - Caldicellulosiruptor kronotskyensis
+path:ckn02010	ABC transporters - Caldicellulosiruptor kronotskyensis
+path:ckn02020	Two-component system - Caldicellulosiruptor kronotskyensis
+path:ckn02024	Quorum sensing - Caldicellulosiruptor kronotskyensis
+path:ckn02030	Bacterial chemotaxis - Caldicellulosiruptor kronotskyensis
+path:ckn02040	Flagellar assembly - Caldicellulosiruptor kronotskyensis
+path:ckn02060	Phosphotransferase system (PTS) - Caldicellulosiruptor kronotskyensis
+path:ckn03010	Ribosome - Caldicellulosiruptor kronotskyensis
+path:ckn03018	RNA degradation - Caldicellulosiruptor kronotskyensis
+path:ckn03020	RNA polymerase - Caldicellulosiruptor kronotskyensis
+path:ckn03030	DNA replication - Caldicellulosiruptor kronotskyensis
+path:ckn03060	Protein export - Caldicellulosiruptor kronotskyensis
+path:ckn03070	Bacterial secretion system - Caldicellulosiruptor kronotskyensis
+path:ckn03410	Base excision repair - Caldicellulosiruptor kronotskyensis
+path:ckn03420	Nucleotide excision repair - Caldicellulosiruptor kronotskyensis
+path:ckn03430	Mismatch repair - Caldicellulosiruptor kronotskyensis
+path:ckn03440	Homologous recombination - Caldicellulosiruptor kronotskyensis
+path:ckn04122	Sulfur relay system - Caldicellulosiruptor kronotskyensis
+path:clc00010	Glycolysis / Gluconeogenesis - Caldicellulosiruptor lactoaceticus
+path:clc00020	Citrate cycle (TCA cycle) - Caldicellulosiruptor lactoaceticus
+path:clc00030	Pentose phosphate pathway - Caldicellulosiruptor lactoaceticus
+path:clc00040	Pentose and glucuronate interconversions - Caldicellulosiruptor lactoaceticus
+path:clc00051	Fructose and mannose metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00052	Galactose metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00061	Fatty acid biosynthesis - Caldicellulosiruptor lactoaceticus
+path:clc00130	Ubiquinone and other terpenoid-quinone biosynthesis - Caldicellulosiruptor lactoaceticus
+path:clc00190	Oxidative phosphorylation - Caldicellulosiruptor lactoaceticus
+path:clc00220	Arginine biosynthesis - Caldicellulosiruptor lactoaceticus
+path:clc00230	Purine metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00240	Pyrimidine metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00250	Alanine, aspartate and glutamate metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00260	Glycine, serine and threonine metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00261	Monobactam biosynthesis - Caldicellulosiruptor lactoaceticus
+path:clc00270	Cysteine and methionine metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00280	Valine, leucine and isoleucine degradation - Caldicellulosiruptor lactoaceticus
+path:clc00290	Valine, leucine and isoleucine biosynthesis - Caldicellulosiruptor lactoaceticus
+path:clc00300	Lysine biosynthesis - Caldicellulosiruptor lactoaceticus
+path:clc00330	Arginine and proline metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00332	Carbapenem biosynthesis - Caldicellulosiruptor lactoaceticus
+path:clc00340	Histidine metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00350	Tyrosine metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00360	Phenylalanine metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00380	Tryptophan metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Caldicellulosiruptor lactoaceticus
+path:clc00401	Novobiocin biosynthesis - Caldicellulosiruptor lactoaceticus
+path:clc00410	beta-Alanine metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00430	Taurine and hypotaurine metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00440	Phosphonate and phosphinate metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00450	Selenocompound metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00460	Cyanoamino acid metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00471	D-Glutamine and D-glutamate metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00473	D-Alanine metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00480	Glutathione metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00500	Starch and sucrose metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00511	Other glycan degradation - Caldicellulosiruptor lactoaceticus
+path:clc00520	Amino sugar and nucleotide sugar metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00521	Streptomycin biosynthesis - Caldicellulosiruptor lactoaceticus
+path:clc00523	Polyketide sugar unit biosynthesis - Caldicellulosiruptor lactoaceticus
+path:clc00525	Acarbose and validamycin biosynthesis - Caldicellulosiruptor lactoaceticus
+path:clc00550	Peptidoglycan biosynthesis - Caldicellulosiruptor lactoaceticus
+path:clc00561	Glycerolipid metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00564	Glycerophospholipid metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00600	Sphingolipid metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00620	Pyruvate metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00625	Chloroalkane and chloroalkene degradation - Caldicellulosiruptor lactoaceticus
+path:clc00626	Naphthalene degradation - Caldicellulosiruptor lactoaceticus
+path:clc00630	Glyoxylate and dicarboxylate metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00633	Nitrotoluene degradation - Caldicellulosiruptor lactoaceticus
+path:clc00640	Propanoate metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00650	Butanoate metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00660	C5-Branched dibasic acid metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00670	One carbon pool by folate - Caldicellulosiruptor lactoaceticus
+path:clc00680	Methane metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00730	Thiamine metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00740	Riboflavin metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00750	Vitamin B6 metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00760	Nicotinate and nicotinamide metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00770	Pantothenate and CoA biosynthesis - Caldicellulosiruptor lactoaceticus
+path:clc00780	Biotin metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00790	Folate biosynthesis - Caldicellulosiruptor lactoaceticus
+path:clc00860	Porphyrin and chlorophyll metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00900	Terpenoid backbone biosynthesis - Caldicellulosiruptor lactoaceticus
+path:clc00910	Nitrogen metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00920	Sulfur metabolism - Caldicellulosiruptor lactoaceticus
+path:clc00970	Aminoacyl-tRNA biosynthesis - Caldicellulosiruptor lactoaceticus
+path:clc01040	Biosynthesis of unsaturated fatty acids - Caldicellulosiruptor lactoaceticus
+path:clc01100	Metabolic pathways - Caldicellulosiruptor lactoaceticus
+path:clc01110	Biosynthesis of secondary metabolites - Caldicellulosiruptor lactoaceticus
+path:clc01120	Microbial metabolism in diverse environments - Caldicellulosiruptor lactoaceticus
+path:clc01130	Biosynthesis of antibiotics - Caldicellulosiruptor lactoaceticus
+path:clc01200	Carbon metabolism - Caldicellulosiruptor lactoaceticus
+path:clc01210	2-Oxocarboxylic acid metabolism - Caldicellulosiruptor lactoaceticus
+path:clc01212	Fatty acid metabolism - Caldicellulosiruptor lactoaceticus
+path:clc01220	Degradation of aromatic compounds - Caldicellulosiruptor lactoaceticus
+path:clc01230	Biosynthesis of amino acids - Caldicellulosiruptor lactoaceticus
+path:clc01501	beta-Lactam resistance - Caldicellulosiruptor lactoaceticus
+path:clc01502	Vancomycin resistance - Caldicellulosiruptor lactoaceticus
+path:clc01503	Cationic antimicrobial peptide (CAMP) resistance - Caldicellulosiruptor lactoaceticus
+path:clc02010	ABC transporters - Caldicellulosiruptor lactoaceticus
+path:clc02020	Two-component system - Caldicellulosiruptor lactoaceticus
+path:clc02024	Quorum sensing - Caldicellulosiruptor lactoaceticus
+path:clc02030	Bacterial chemotaxis - Caldicellulosiruptor lactoaceticus
+path:clc02040	Flagellar assembly - Caldicellulosiruptor lactoaceticus
+path:clc02060	Phosphotransferase system (PTS) - Caldicellulosiruptor lactoaceticus
+path:clc03010	Ribosome - Caldicellulosiruptor lactoaceticus
+path:clc03018	RNA degradation - Caldicellulosiruptor lactoaceticus
+path:clc03020	RNA polymerase - Caldicellulosiruptor lactoaceticus
+path:clc03030	DNA replication - Caldicellulosiruptor lactoaceticus
+path:clc03060	Protein export - Caldicellulosiruptor lactoaceticus
+path:clc03070	Bacterial secretion system - Caldicellulosiruptor lactoaceticus
+path:clc03410	Base excision repair - Caldicellulosiruptor lactoaceticus
+path:clc03420	Nucleotide excision repair - Caldicellulosiruptor lactoaceticus
+path:clc03430	Mismatch repair - Caldicellulosiruptor lactoaceticus
+path:clc03440	Homologous recombination - Caldicellulosiruptor lactoaceticus
+path:clc04122	Sulfur relay system - Caldicellulosiruptor lactoaceticus

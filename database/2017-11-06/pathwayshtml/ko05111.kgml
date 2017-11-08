@@ -1,0 +1,360 @@
+<html>
+<!---
+ENTRY       ko05111
+DEFINITION  Biofilm formation - Vibrio cholerae
+--->
+<head>
+<title>
+KEGG PATHWAY: Biofilm formation - Vibrio cholerae
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Biofilm formation - Vibrio cholerae</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=05111&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map05111.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko05111">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko05111&format=kgml">Download KGML</a>
+| <a id="descLink" href="javascript:switchDescription()">Show description</a>
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+<table id="description" cellpadding="10" width="800" style="display: none;"><tr><td>
+Surface colonization and subsequent biofilm formation and development provide numerous advantages to microorganisms. On the other hand, biofilm formation is an energetically costly process and therefore must be tightly regulated and plastic, enabling biofilm bacteria to be responsive to the various environmental cues. The quorum sensing (QS) pathway of Vibrio cholerae activates the expression of VpsR, VpsT and AphA (the main activators of biofilm formation) at low cell density and HapR (the main repressor) at high cell density. At low cell density, biofilm genes, including Vibrio polysaccharide (VPS) biosynthesis genes and the major extracellular matrix genes RbmA, RbmC, and Bap1, are expressed. The QS pathway also leads to induction of virulence factors such as toxin coregulated pilus (TCP) and cholera toxin (CTX), essential for colonization of the host and enterotoxicity, respectively. The VarS/VarA signaling system responds to an unknown environmental cue and represses biofilm production by process which involves the regulatory sRNAs CsrB, CsrC and CsrD and the RNA-binding protein CsrA, interfering with LuxO of the QS pathway. The second messenger cAMP acts as a repressor of biofilm formation. cAMP is generated by adenylate cyclase CyaA, and in complex with cAMP receptor protein (CRP), this nucleotide has been shown to upregulate HapR production through the positive regulation of the CAI-I synthase CqsA and the negative regulation of Fis. The second messenger c-di-GMP is a key signalling molecule controlling motility and biofilm matrix production. High cellular levels of c-di-GMP promote enhanced transcription of genes involved in biofilm formation, possibly by promoting VpsT-mediated transcriptional activation of vps genes.</td></tr></table>
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="vch">Vibrio cholerae O1 biovar El Tor N16961</option>
+<option value="vcf">Vibrio cholerae O1 biovar El Tor FJ147</option>
+<option value="vce">Vibrio cholerae O1 2010EL-1786</option>
+<option value="vcj">Vibrio cholerae MJ-1236</option>
+<option value="vco">Vibrio cholerae O395</option>
+<option value="vcr">Vibrio cholerae O395</option>
+<option value="vcm">Vibrio cholerae M66-2</option>
+<option value="vci">Vibrio cholerae IEC224</option>
+<option value="vcl">Vibrio cholerae LMA3984-4</option>
+<option value="vcq">Vibrio cholerae 2012EL-2176</option>
+<option value="vcs">Vibrio cholerae MS6</option>
+<option value="vcx">Vibrio cholerae 1154-74</option>
+<option value="vcz">Vibrio cholerae 10432-62</option>
+<option value="vvu">Vibrio vulnificus CMCP6</option>
+<option value="vvy">Vibrio vulnificus YJ016</option>
+<option value="vvm">Vibrio vulnificus MO6-24/O</option>
+<option value="vvl">Vibrio vulnificus 93U204</option>
+<option value="vpa">Vibrio parahaemolyticus RIMD 2210633</option>
+<option value="vpb">Vibrio parahaemolyticus BB22OP</option>
+<option value="vpk">Vibrio parahaemolyticus O1:K33 CDC_K4557</option>
+<option value="vpf">Vibrio parahaemolyticus O1:Kuk FDA_R31</option>
+<option value="vph">Vibrio parahaemolyticus UCM-V493</option>
+<option value="vha">Vibrio campbellii</option>
+<option value="vca">Vibrio campbellii</option>
+<option value="vag">Vibrio alginolyticus</option>
+<option value="vex">Vibrio antiquarius</option>
+<option value="vhr">Vibrio harveyi</option>
+<option value="vna">Vibrio natriegens</option>
+<option value="vow">Vibrio owensii</option>
+<option value="vsp">Vibrio tasmaniensis</option>
+<option value="vej">Vibrio sp. EJY3</option>
+<option value="vfu">Vibrio furnissii</option>
+<option value="vni">Vibrio nigripulchritudo</option>
+<option value="van">Vibrio anguillarum 775</option>
+<option value="lag">Vibrio anguillarum M3</option>
+<option value="vau">Vibrio anguillarum NB10</option>
+<option value="vcy">Vibrio coralliilyticus RE98</option>
+<option value="vct">Vibrio coralliilyticus OCN014</option>
+<option value="vtu">Vibrio tubiashii</option>
+<option value="vfl">Vibrio fluvialis</option>
+<option value="vmi">Vibrio mimicus</option>
+<option value="vbr">Vibrio breoganii</option>
+<option value="vsc">Vibrio scophthalmi</option>
+<option value="vga">Vibrio gazogenes</option>
+<option value="vsh">Vibrio shilonii</option>
+</select>
+<input type="hidden" name="mapno" value="05111" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko05111" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko05111.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=353,687,4	href="/dbget-bin/www_bget?C00575"	title="C00575 (3',5'-Cyclic AMP)" onmouseover="popupTimer(&quot;C00575&quot;, &quot;C00575 (3',5'-Cyclic AMP)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=495,896,4	href="/dbget-bin/www_bget?C16463"	title="C16463 (3',5'-Cyclic diGMP)" onmouseover="popupTimer(&quot;C16463&quot;, &quot;C16463 (3',5'-Cyclic diGMP)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=495,785,4	href="/dbget-bin/www_bget?C00044"	title="C00044 (GTP)" onmouseover="popupTimer(&quot;C00044&quot;, &quot;C00044 (GTP)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=495,1007,4	href="/dbget-bin/www_bget?C18076"	title="C18076 (5'-Phosphoguanylyl(3'-&gt;5')guanosine)" onmouseover="popupTimer(&quot;C18076&quot;, &quot;C18076 (5'-Phosphoguanylyl(3'-&gt;5')guanosine)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=199,595,4	href="/dbget-bin/www_bget?C16640"	title="C16640 (CAI-1)" onmouseover="popupTimer(&quot;C16640&quot;, &quot;C16640 (CAI-1)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=199,507,4	href="/dbget-bin/www_bget?C16421"	title="C16421 (AI-2)" onmouseover="popupTimer(&quot;C16421&quot;, &quot;C16421 (AI-2)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=218,751,4	href="/dbget-bin/www_bget?C00031"	title="C00031 (D-Glucose)" onmouseover="popupTimer(&quot;C00031&quot;, &quot;C00031 (D-Glucose)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=333,751,4	href="/dbget-bin/www_bget?C00092"	title="C00092 (D-Glucose 6-phosphate)" onmouseover="popupTimer(&quot;C00092&quot;, &quot;C00092 (D-Glucose 6-phosphate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=245,679,291,696	href="/dbget-bin/www_bget?K05851"	title="K05851 (cyaA)" />
+<area shape=rect	coords=415,679,461,696	href="/dbget-bin/www_bget?K10914"	title="K10914 (crp)" />
+<area shape=rect	coords=245,317,291,334	href="/dbget-bin/www_bget?K07678"	title="K07678 (barA)" />
+<area shape=rect	coords=316,317,362,334	href="/dbget-bin/www_bget?K07689"	title="K07689 (uvrY)" />
+<area shape=rect	coords=391,317,437,334	href="/dbget-bin/www_bget?K18515"	title="K18515 (csrB)" />
+<area shape=rect	coords=392,373,438,390	href="/dbget-bin/www_bget?K03563"	title="K03563 (csrA)" />
+<area shape=rect	coords=398,836,444,853	href="/dbget-bin/www_bget?K20958"	title="K20958 (cdgL)" />
+<area shape=rect	coords=447,836,493,853	href="/dbget-bin/www_bget?K20959"	title="K20959 (cdgM)" />
+<area shape=rect	coords=398,855,444,872	href="/dbget-bin/www_bget?K20960"	title="K20960 (K20960)" />
+<area shape=rect	coords=447,798,493,815	href="/dbget-bin/www_bget?K20955"	title="K20955 (cdgK)" />
+<area shape=rect	coords=447,817,493,834	href="/dbget-bin/www_bget?K20957"	title="K20957 (cdgH)" />
+<area shape=rect	coords=423,910,469,927	href="/dbget-bin/www_bget?K20962"	title="K20962 (cdgC)" />
+<area shape=rect	coords=398,798,444,815	href="/dbget-bin/www_bget?K20954"	title="K20954 (acgB)" />
+<area shape=rect	coords=398,817,444,834	href="/dbget-bin/www_bget?K20956"	title="K20956 (cdgA)" />
+<area shape=rect	coords=424,170,470,187	href="/dbget-bin/www_bget?K03092"	title="K03092 (SIG54)" />
+<area shape=rect	coords=424,139,470,156	href="/dbget-bin/www_bget?K10941"	title="K10941 (fleQ)" />
+<area shape=rect	coords=391,545,437,562	href="/dbget-bin/www_bget?K10912"	title="K10912 (luxO)" />
+<area shape=rect	coords=219,542,265,559	href="/dbget-bin/www_bget?K10910"	title="K10910 (luxP)" />
+<area shape=rect	coords=306,600,352,617	href="/dbget-bin/www_bget?K10915"	title="K10915 (cqsA)" />
+<area shape=rect	coords=245,525,291,542	href="/dbget-bin/www_bget?K10909"	title="K10909 (luxQ)" />
+<area shape=rect	coords=522,121,568,138	href="/dbget-bin/www_bget?K10942"	title="K10942 (flrB)" />
+<area shape=rect	coords=1062,735,1108,752	href="/dbget-bin/www_bget?K08604"	title="K08604 (hap)" />
+<area shape=rect	coords=568,216,614,233	href="/dbget-bin/www_bget?K02405"	title="K02405 (fliA)" />
+<area shape=rect	coords=473,251,519,268	href="/dbget-bin/www_bget?K03087"	title="K03087 (SIG2)" />
+<area shape=rect	coords=319,545,365,562	href="/dbget-bin/www_bget?K10911"	title="K10911 (luxU)" />
+<area shape=rect	coords=568,155,614,172	href="/dbget-bin/www_bget?K10943"	title="K10943 (flrC)" />
+<area shape=rect	coords=245,565,291,582	href="/dbget-bin/www_bget?K10916"	title="K10916 (cqsS)" />
+<area shape=rect	coords=306,498,352,515	href="/dbget-bin/www_bget?K07173"	title="K07173 (luxS)" />
+<area shape=rect	coords=491,545,537,562	href="/dbget-bin/www_bget?K15851"	title="K15851 (qrr)" />
+<area shape=rect	coords=447,855,493,872	href="/dbget-bin/www_bget?K20961"	title="K20961 (vpvC)" />
+<area shape=rect	coords=398,967,444,984	href="/dbget-bin/www_bget?K20965"	title="K20965 (rocS)" />
+<area shape=rect	coords=447,967,493,984	href="/dbget-bin/www_bget?K20966"	title="K20966 (mbaA)" />
+<area shape=rect	coords=447,929,493,946	href="/dbget-bin/www_bget?K13246"	title="K13246 (vieA)" />
+<area shape=rect	coords=447,948,493,965	href="/dbget-bin/www_bget?K20964"	title="K20964 (cdpA)" />
+<area shape=rect	coords=398,929,444,946	href="/dbget-bin/www_bget?K20963"	title="K20963 (acgA)" />
+<area shape=rect	coords=398,948,444,965	href="/dbget-bin/www_bget?K07181"	title="K07181 (cdgJ)" />
+<area shape=rect	coords=436,574,482,591	href="/dbget-bin/www_bget?K03557"	title="K03557 (fis)" />
+<area shape=rect	coords=684,736,730,753	href="/dbget-bin/www_bget?K10913"	title="K10913 (hapR)" />
+<area shape=rect	coords=510,497,556,514	href="/dbget-bin/www_bget?K03666"	title="K03666 (hfq)" />
+<area shape=rect	coords=684,546,730,563	href="/dbget-bin/www_bget?K10917"	title="K10917 (aphA)" />
+<area shape=rect	coords=846,546,892,563	href="/dbget-bin/www_bget?K20919"	title="K20919 (vpsR)" />
+<area shape=rect	coords=846,669,892,686	href="/dbget-bin/www_bget?K20918"	title="K20918 (vpsT)" />
+<area shape=rect	coords=1062,629,1108,646	href="/dbget-bin/www_bget?K20951"	title="K20951 (bap1)" />
+<area shape=rect	coords=1062,648,1108,665	href="/dbget-bin/www_bget?K20952"	title="K20952 (rbmC)" />
+<area shape=rect	coords=1062,669,1108,686	href="/dbget-bin/www_bget?K20953"	title="K20953 (rbmA)" />
+<area shape=rect	coords=1062,447,1108,464	href="/dbget-bin/www_bget?K10928"	title="K10928 (ctxA)" />
+<area shape=rect	coords=1062,464,1108,481	href="/dbget-bin/www_bget?K10929"	title="K10929 (ctxB)" />
+<area shape=rect	coords=1062,349,1108,366	href="/dbget-bin/www_bget?K10930+K10931+K10932+K10933+K10934+K10935+K10961+K10962+K10963+K10964+K10965"	title="K10930 (tcpA), K10931 (tcpB), K10932 (tcpC), K10933 (tcpD), K10934 (tcpE), K10935 (tcpF), K10961 (tcpI), K10962 (tcpQ), K10963 (tcpR), K10964 (tcpS), K10965 (tcpT)" />
+<area shape=rect	coords=1062,871,1108,888	href="/dbget-bin/www_bget?K10924"	title="K10924 (mshA)" />
+<area shape=rect	coords=1062,890,1108,907	href="/dbget-bin/www_bget?K10926"	title="K10926 (mshC)" />
+<area shape=rect	coords=1111,388,1157,405	href="/dbget-bin/www_bget?K10937"	title="K10937 (acfB)" />
+<area shape=rect	coords=1111,890,1157,907	href="/dbget-bin/www_bget?K10927"	title="K10927 (mshD)" />
+<area shape=rect	coords=1062,388,1108,405	href="/dbget-bin/www_bget?K10936"	title="K10936 (acfA)" />
+<area shape=rect	coords=1111,407,1157,424	href="/dbget-bin/www_bget?K10939"	title="K10939 (acfD)" />
+<area shape=rect	coords=1111,871,1157,888	href="/dbget-bin/www_bget?K10925"	title="K10925 (mshB)" />
+<area shape=rect	coords=1062,407,1108,424	href="/dbget-bin/www_bget?K10938"	title="K10938 (acfC)" />
+<area shape=rect	coords=846,375,892,392	href="/dbget-bin/www_bget?K10919"	title="K10919 (tcpH)" />
+<area shape=rect	coords=846,358,892,375	href="/dbget-bin/www_bget?K10920"	title="K10920 (tcpP)" />
+<area shape=rect	coords=846,335,892,352	href="/dbget-bin/www_bget?K10921"	title="K10921 (toxR)" />
+<area shape=rect	coords=846,318,892,335	href="/dbget-bin/www_bget?K10922"	title="K10922 (toxS)" />
+<area shape=rect	coords=849,888,895,905	href="/dbget-bin/www_bget?K12276"	title="K12276 (mshE)" />
+<area shape=rect	coords=924,349,970,366	href="/dbget-bin/www_bget?K10923"	title="K10923 (tcpN)" />
+<area shape=rect	coords=770,392,816,409	href="/dbget-bin/www_bget?K10918"	title="K10918 (aphB)" />
+<area shape=rect	coords=1062,287,1108,304	href="/dbget-bin/www_bget?K10940"	title="K10940 (ompT)" />
+<area shape=rect	coords=1062,306,1108,323	href="/dbget-bin/www_bget?K08720"	title="K08720 (ompU)" />
+<area shape=rect	coords=1062,586,1108,603	href="/dbget-bin/www_bget?K02452+K02453+K02454+K02455+K02456+K02457+K02458+K02459+K02460+K02461+K02462+K02463"	title="K02452 (gspC), K02453 (gspD), K02454 (gspE), K02455 (gspF), K02456 (gspG), K02457 (gspH), K02458 (gspI), K02459 (gspJ), K02460 (gspK), K02461 (gspL), K02462 (gspM), K02463 (gspN)" />
+<area shape=rect	coords=1062,546,1108,563	href="/dbget-bin/www_bget?K20945+K01791+K02472+K00640+K20921+K20946+K20947+K01912+K20922+K20948+K05946+K03606+K20920+K20988+K16554+K20949+K20950"	title="K20945 (vpsU), K01791 (wecB), K02472 (wecC), K00640 (cysE), K20921 (vpsD), K20946 (vpsE), K20947 (vpsF), K01912 (paaK), K20922 (vpsI), K20948 (vpsJ), K05946 (tagA), K03606 (wcaJ), K20920 (vpsM), K20988 (vpsN), K16554 (exoP), K20949 (vpsP), K20950 (vpsQ)" />
+<area shape=rect	coords=245,743,291,760	href="/dbget-bin/www_bget?K02777+K02778+K02779"	title="K02777 (PTS-Glc-EIIA), K02778 (PTS-Glc-EIIB), K02779 (PTS-Glc-EIIC)" />
+<area shape=rect	coords=40,45,372,70	href="/dbget-bin/www_bget?ko05111"	title="ko05111: Biofilm formation - Vibrio cholerae" onmouseover="popupTimer(&quot;ko05111&quot;, &quot;ko05111: Biofilm formation - Vibrio cholerae&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=796,92,922,117	href="/kegg-bin/show_pathway?ko02040"	title="ko02040: Flagellar assembly" onmouseover="popupTimer(&quot;ko02040&quot;, &quot;ko02040: Flagellar assembly&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=244,450,346,473	href="/kegg-bin/show_pathway?ko02024"	title="ko02024: Quorum sensing" onmouseover="popupTimer(&quot;ko02024&quot;, &quot;ko02024: Quorum sensing&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=1058,488,1208,513	href="/kegg-bin/show_pathway?ko05110"	title="ko05110: Vibrio cholerae infection" onmouseover="popupTimer(&quot;ko05110&quot;, &quot;ko05110: Vibrio cholerae infection&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=1169,571,1284,605	href="/kegg-bin/show_pathway?ko03070"	title="ko03070: Bacterial secretion system" onmouseover="popupTimer(&quot;ko03070&quot;, &quot;ko03070: Bacterial secretion system&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

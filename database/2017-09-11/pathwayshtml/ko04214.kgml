@@ -1,0 +1,347 @@
+<html>
+<!---
+ENTRY       ko04214
+DEFINITION  Apoptosis - fly
+--->
+<head>
+<title>
+KEGG PATHWAY: Apoptosis - fly
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Apoptosis - fly</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=04214&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map04214.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko04214">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko04214&format=kgml">Download KGML</a>
+| <a id="descLink" href="javascript:switchDescription()">Show description</a>
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+<table id="description" cellpadding="10" width="800" style="display: none;"><tr><td>
+Apoptosis, or programmed cell death, is a critical factor in homeostasis in all multicellular organisms, playing a crucial role in removing excess unwanted cells without stimulation of an immune response. Caspases are the central components of the apoptotic response.  In Drosophila, Dark promotes activation of the initiator caspase Dronc. Drosophila inhibitor of apoptosis protein 1 (DIAP1) inhibits Dronc and the effector caspases Drice and Dcp-1. RHG family proteins such as Rpr, Hid, Grim, Sickle, and Jafrac-2 promote cell death, in part by disrupting DIAP1's ability to inhibit caspase activity. Proapoptotic proteins such as caspases and RHG proteins are regulated through multiple pathways. The Drosophila steroid hormone ecdysone mediates cell death by controling the up-regulation of a number of proapoptotic genes.  Cytotoxic stress such as DNA damage can activate P53, which in turn induces the expression of RHG genes. Eiger can initiate cell death through an IAP-sensitive cell death pathway via JNK signaling. Hid, a member of the RHG family, is negatively regulated by the epidermal growth factor (EGF) receptor-dependent survival signaling and positively regulated by the tumor suppressors Hippo, Salvador, and Warts.</td></tr></table>
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="dme">Drosophila melanogaster (fruit fly)</option>
+<option value="dpo">Drosophila pseudoobscura pseudoobscura</option>
+<option value="dan">Drosophila ananassae</option>
+<option value="der">Drosophila erecta</option>
+<option value="dpe">Drosophila persimilis</option>
+<option value="dse">Drosophila sechellia</option>
+<option value="dsi">Drosophila simulans</option>
+<option value="dwi">Drosophila willistoni</option>
+<option value="dya">Drosophila yakuba</option>
+<option value="dgr">Drosophila grimshawi</option>
+<option value="dmo">Drosophila mojavensis</option>
+<option value="dvi">Drosophila virilis</option>
+<option value="mde">Musca domestica (house fly)</option>
+<option value="aga">Anopheles gambiae (mosquito)</option>
+<option value="aag">Aedes aegypti (yellow fever mosquito)</option>
+<option value="cqu">Culex quinquefasciatus (southern house mosquito)</option>
+<option value="ame">Apis mellifera (honey bee)</option>
+<option value="bim">Bombus impatiens (common eastern bumble bee)</option>
+<option value="bter">Bombus terrestris (buff-tailed bumblebee)</option>
+<option value="soc">Solenopsis invicta (red fire ant)</option>
+<option value="aec">Acromyrmex echinatior (Panamanian leafcutter ant)</option>
+<option value="acep">Atta cephalotes (leaf cutting ant)</option>
+<option value="pbar">Pogonomyrmex barbatus (red harvester ant)</option>
+<option value="hst">Harpegnathos saltator (Jerdon's jumping ant)</option>
+<option value="cfo">Camponotus floridanus (Florida carpenter ant)</option>
+<option value="lhu">Linepithema humile (Argentine ant)</option>
+<option value="nvi">Nasonia vitripennis (jewel wasp)</option>
+<option value="tca">Tribolium castaneum (red flour beetle)</option>
+<option value="dpa">Dendroctonus ponderosae (mountain pine beetle)</option>
+<option value="nvl">Nicrophorus vespilloides</option>
+<option value="bmor">Bombyx mori (domestic silkworm)</option>
+<option value="dpl">Danaus plexippus (monarch butterfly)</option>
+<option value="pxy">Plutella xylostella (diamondback moth)</option>
+<option value="api">Acyrthosiphon pisum (pea aphid)</option>
+<option value="dnx">Diuraphis noxia (Russian wheat aphid)</option>
+<option value="phu">Pediculus humanus corporis (human body louse)</option>
+</select>
+<input type="hidden" name="mapno" value="04214" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko04214" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko04214.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=93,134,4	href="/dbget-bin/www_bget?C00477"	title="C00477 (Ecdysone)" onmouseover="popupTimer(&quot;C00477&quot;, &quot;C00477 (Ecdysone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=50,764,96,781	href="/dbget-bin/www_bget?K16678"	title="K16678 (EGR)" />
+<area shape=rect	coords=437,764,483,781	href="/dbget-bin/www_bget?K04427"	title="K04427 (MAP3K7)" />
+<area shape=rect	coords=568,764,614,781	href="/dbget-bin/www_bget?K04431"	title="K04431 (MAP2K7)" />
+<area shape=rect	coords=699,764,745,781	href="/dbget-bin/www_bget?K04440"	title="K04440 (JNK)" />
+<area shape=rect	coords=402,532,448,549	href="/dbget-bin/www_bget?K04725"	title="K04725 (XIAP)" />
+<area shape=rect	coords=556,627,602,644	href="/dbget-bin/www_bget?K09848"	title="K09848 (TRAF4)" />
+<area shape=rect	coords=627,691,673,708	href="/dbget-bin/www_bget?K04426"	title="K04426 (MAP3K5)" />
+<area shape=rect	coords=505,410,551,427	href="/dbget-bin/www_bget?K20009"	title="K20009 (DRONC)" />
+<area shape=rect	coords=505,473,551,490	href="/dbget-bin/www_bget?K04397"	title="K04397 (CASP7)" />
+<area shape=rect	coords=306,464,352,481	href="/dbget-bin/www_bget?K20018"	title="K20018 (GRIM)" />
+<area shape=rect	coords=306,489,352,506	href="/dbget-bin/www_bget?K20014"	title="K20014 (RPR)" />
+<area shape=rect	coords=306,432,352,449	href="/dbget-bin/www_bget?K03386"	title="K03386 (PRDX2_4)" />
+<area shape=rect	coords=306,521,352,538	href="/dbget-bin/www_bget?K20019"	title="K20019 (SKL)" />
+<area shape=rect	coords=306,545,352,562	href="/dbget-bin/www_bget?K20016"	title="K20016 (HID)" />
+<area shape=rect	coords=505,696,551,713	href="/dbget-bin/www_bget?K04412"	title="K04412 (STK3)" />
+<area shape=rect	coords=551,696,597,713	href="/dbget-bin/www_bget?K16686"	title="K16686 (SAV1)" />
+<area shape=rect	coords=530,713,576,730	href="/dbget-bin/www_bget?K08791"	title="K08791 (LATS1_2)" />
+<area shape=rect	coords=505,367,551,384	href="/dbget-bin/www_bget?K02084"	title="K02084 (APAF1)" />
+<area shape=rect	coords=1024,746,1070,763	href="/dbget-bin/www_bget?K20016"	title="K20016 (HID)" />
+<area shape=rect	coords=1024,779,1070,796	href="/dbget-bin/www_bget?K20216"	title="K20216 (DUSP10)" />
+<area shape=rect	coords=140,672,186,689	href="/dbget-bin/www_bget?K04361"	title="K04361 (EGFR)" />
+<area shape=rect	coords=222,673,268,690	href="/dbget-bin/www_bget?K07827"	title="K07827 (KRAS)" />
+<area shape=rect	coords=306,674,352,691	href="/dbget-bin/www_bget?K04365"	title="K04365 (BRAF)" />
+<area shape=rect	coords=389,674,435,691	href="/dbget-bin/www_bget?K04371"	title="K04371 (MAPK1_3)" />
+<area shape=rect	coords=731,126,777,143	href="/dbget-bin/www_bget?K14034+K14030"	title="K14034 (NR1H1), K14030 (NR2B4)" />
+<area shape=rect	coords=201,443,247,460	href="/dbget-bin/www_bget?K10586"	title="K10586 (BIRC6)" />
+<area shape=rect	coords=875,689,921,706	href="/dbget-bin/www_bget?K10149"	title="K10149 (TP63)" />
+<area shape=rect	coords=505,495,551,512	href="/dbget-bin/www_bget?K20008"	title="K20008 (DCP1)" />
+<area shape=rect	coords=999,118,1045,135	href="/dbget-bin/www_bget?K20014"	title="K20014 (RPR)" />
+<area shape=rect	coords=999,140,1045,157	href="/dbget-bin/www_bget?K20009"	title="K20009 (DRONC)" />
+<area shape=rect	coords=999,210,1045,227	href="/dbget-bin/www_bget?K02174"	title="K02174 (BR-C)" />
+<area shape=rect	coords=999,237,1045,254	href="/dbget-bin/www_bget?K20015"	title="K20015 (EIP93F)" />
+<area shape=rect	coords=999,321,1045,338	href="/dbget-bin/www_bget?K20016"	title="K20016 (HID)" />
+<area shape=rect	coords=999,345,1045,362	href="/dbget-bin/www_bget?K04397"	title="K04397 (CASP7)" />
+<area shape=rect	coords=999,386,1045,403	href="/dbget-bin/www_bget?K20014"	title="K20014 (RPR)" />
+<area shape=rect	coords=1054,386,1100,403	href="/dbget-bin/www_bget?K20009"	title="K20009 (DRONC)" />
+<area shape=rect	coords=999,409,1045,426	href="/dbget-bin/www_bget?K20016"	title="K20016 (HID)" />
+<area shape=rect	coords=1054,409,1100,426	href="/dbget-bin/www_bget?K04397"	title="K04397 (CASP7)" />
+<area shape=rect	coords=999,455,1045,472	href="/dbget-bin/www_bget?K20016"	title="K20016 (HID)" />
+<area shape=rect	coords=1054,455,1100,472	href="/dbget-bin/www_bget?K02084"	title="K02084 (APAF1)" />
+<area shape=rect	coords=999,478,1045,495	href="/dbget-bin/www_bget?K20009"	title="K20009 (DRONC)" />
+<area shape=rect	coords=1054,478,1100,495	href="/dbget-bin/www_bget?K04397"	title="K04397 (CASP7)" />
+<area shape=rect	coords=999,501,1045,518	href="/dbget-bin/www_bget?K20010"	title="K20010 (STRICA)" />
+<area shape=rect	coords=1024,664,1070,681	href="/dbget-bin/www_bget?K20018"	title="K20018 (GRIM)" />
+<area shape=rect	coords=1024,690,1070,707	href="/dbget-bin/www_bget?K20014"	title="K20014 (RPR)" />
+<area shape=rect	coords=1024,716,1070,733	href="/dbget-bin/www_bget?K20016"	title="K20016 (HID)" />
+<area shape=rect	coords=316,323,362,340	href="/dbget-bin/www_bget?K08860"	title="K08860 (EIF2AK3)" />
+<area shape=rect	coords=360,395,406,412	href="/dbget-bin/www_bget?K04374"	title="K04374 (ATF4)" />
+<area shape=rect	coords=593,465,639,482	href="/dbget-bin/www_bget?K01527"	title="K01527 (EGD1)" />
+<area shape=rect	coords=646,465,692,482	href="/dbget-bin/www_bget?K07611"	title="K07611 (LMNB)" />
+<area shape=rect	coords=593,487,639,504	href="/dbget-bin/www_bget?K03262"	title="K03262 (EIF5)" />
+<area shape=rect	coords=434,309,480,326	href="/dbget-bin/www_bget?K08669"	title="K08669 (HTRA2)" />
+<area shape=rect	coords=551,327,597,344	href="/dbget-bin/www_bget?K05770"	title="K05770 (TSPO)" />
+<area shape=rect	coords=598,307,644,324	href="/dbget-bin/www_bget?K04727"	title="K04727 (PDCD8)" />
+<area shape=rect	coords=647,326,693,343	href="/dbget-bin/www_bget?K07870"	title="K07870 (RHOT1)" />
+<area shape=rect	coords=686,216,732,233	href="/dbget-bin/www_bget?K20017"	title="K20017 (BUFFY)" />
+<area shape=rect	coords=686,244,732,261	href="/dbget-bin/www_bget?K17065"	title="K17065 (DNM1L)" />
+<area shape=rect	coords=686,261,732,278	href="/dbget-bin/www_bget?K02561"	title="K02561 (BOK)" />
+<area shape=rect	coords=686,286,732,303	href="/dbget-bin/www_bget?K20014"	title="K20014 (RPR)" />
+<area shape=rect	coords=686,308,732,325	href="/dbget-bin/www_bget?K06030"	title="K06030 (MFN2)" />
+<area shape=rect	coords=686,187,732,204	href="/dbget-bin/www_bget?K17065"	title="K17065 (DNM1L)" />
+<area shape=rect	coords=646,487,692,504	href="/dbget-bin/www_bget?K10798"	title="K10798 (PARP)" />
+<area shape=rect	coords=287,764,333,781	href="/dbget-bin/www_bget?K03175"	title="K03175 (TRAF6)" />
+<area shape=rect	coords=437,781,483,798	href="/dbget-bin/www_bget?K04404"	title="K04404 (MAP3K7IP2)" />
+<area shape=rect	coords=903,647,949,664	href="/dbget-bin/www_bget?K06640"	title="K06640 (ATR)" />
+<area shape=rect	coords=850,647,896,664	href="/dbget-bin/www_bget?K04728"	title="K04728 (ATM)" />
+<area shape=rect	coords=875,752,921,769	href="/dbget-bin/www_bget?K04448"	title="K04448 (JUN)" />
+<area shape=rect	coords=875,773,921,790	href="/dbget-bin/www_bget?K09031"	title="K09031 (FOSLN)" />
+<area shape=rect	coords=140,764,186,781	href="/dbget-bin/www_bget?K16679"	title="K16679 (WGN)" />
+<area shape=rect	coords=476,346,522,363	href="/dbget-bin/www_bget?K08738"	title="K08738 (CYC)" />
+<area shape=rect	coords=561,410,607,427	href="/dbget-bin/www_bget?K04398"	title="K04398 (CASP8)" />
+<area shape=rect	coords=999,183,1045,200	href="/dbget-bin/www_bget?K09428"	title="K09428 (ELF1_2_4)" />
+<area shape=rect	coords=273,592,319,609	href="/dbget-bin/www_bget?K16736"	title="K16736 (BAN)" />
+<area shape=rect	coords=1024,638,1070,655	href="/dbget-bin/www_bget?K20019"	title="K20019 (SKL)" />
+<area shape=rect	coords=40,45,208,70	href="/dbget-bin/www_bget?ko04214"	title="ko04214: Apoptosis - fly" onmouseover="popupTimer(&quot;ko04214&quot;, &quot;ko04214: Apoptosis - fly&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=374,705,496,739	href="/kegg-bin/show_pathway?ko04391"	title="ko04391: Hippo signaling pathway - fly" onmouseover="popupTimer(&quot;ko04391&quot;, &quot;ko04391: Hippo signaling pathway - fly&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

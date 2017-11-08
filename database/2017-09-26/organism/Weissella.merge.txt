@@ -1,0 +1,519 @@
+path:wko00010	Glycolysis / Gluconeogenesis - Weissella koreensis
+path:wko00020	Citrate cycle (TCA cycle) - Weissella koreensis
+path:wko00030	Pentose phosphate pathway - Weissella koreensis
+path:wko00040	Pentose and glucuronate interconversions - Weissella koreensis
+path:wko00051	Fructose and mannose metabolism - Weissella koreensis
+path:wko00052	Galactose metabolism - Weissella koreensis
+path:wko00061	Fatty acid biosynthesis - Weissella koreensis
+path:wko00071	Fatty acid degradation - Weissella koreensis
+path:wko00072	Synthesis and degradation of ketone bodies - Weissella koreensis
+path:wko00121	Secondary bile acid biosynthesis - Weissella koreensis
+path:wko00130	Ubiquinone and other terpenoid-quinone biosynthesis - Weissella koreensis
+path:wko00190	Oxidative phosphorylation - Weissella koreensis
+path:wko00220	Arginine biosynthesis - Weissella koreensis
+path:wko00230	Purine metabolism - Weissella koreensis
+path:wko00240	Pyrimidine metabolism - Weissella koreensis
+path:wko00250	Alanine, aspartate and glutamate metabolism - Weissella koreensis
+path:wko00260	Glycine, serine and threonine metabolism - Weissella koreensis
+path:wko00270	Cysteine and methionine metabolism - Weissella koreensis
+path:wko00280	Valine, leucine and isoleucine degradation - Weissella koreensis
+path:wko00300	Lysine biosynthesis - Weissella koreensis
+path:wko00330	Arginine and proline metabolism - Weissella koreensis
+path:wko00362	Benzoate degradation - Weissella koreensis
+path:wko00430	Taurine and hypotaurine metabolism - Weissella koreensis
+path:wko00450	Selenocompound metabolism - Weissella koreensis
+path:wko00460	Cyanoamino acid metabolism - Weissella koreensis
+path:wko00471	D-Glutamine and D-glutamate metabolism - Weissella koreensis
+path:wko00473	D-Alanine metabolism - Weissella koreensis
+path:wko00480	Glutathione metabolism - Weissella koreensis
+path:wko00500	Starch and sucrose metabolism - Weissella koreensis
+path:wko00511	Other glycan degradation - Weissella koreensis
+path:wko00520	Amino sugar and nucleotide sugar metabolism - Weissella koreensis
+path:wko00521	Streptomycin biosynthesis - Weissella koreensis
+path:wko00523	Polyketide sugar unit biosynthesis - Weissella koreensis
+path:wko00525	Acarbose and validamycin biosynthesis - Weissella koreensis
+path:wko00550	Peptidoglycan biosynthesis - Weissella koreensis
+path:wko00561	Glycerolipid metabolism - Weissella koreensis
+path:wko00562	Inositol phosphate metabolism - Weissella koreensis
+path:wko00564	Glycerophospholipid metabolism - Weissella koreensis
+path:wko00620	Pyruvate metabolism - Weissella koreensis
+path:wko00625	Chloroalkane and chloroalkene degradation - Weissella koreensis
+path:wko00626	Naphthalene degradation - Weissella koreensis
+path:wko00627	Aminobenzoate degradation - Weissella koreensis
+path:wko00630	Glyoxylate and dicarboxylate metabolism - Weissella koreensis
+path:wko00640	Propanoate metabolism - Weissella koreensis
+path:wko00650	Butanoate metabolism - Weissella koreensis
+path:wko00670	One carbon pool by folate - Weissella koreensis
+path:wko00680	Methane metabolism - Weissella koreensis
+path:wko00730	Thiamine metabolism - Weissella koreensis
+path:wko00740	Riboflavin metabolism - Weissella koreensis
+path:wko00750	Vitamin B6 metabolism - Weissella koreensis
+path:wko00760	Nicotinate and nicotinamide metabolism - Weissella koreensis
+path:wko00770	Pantothenate and CoA biosynthesis - Weissella koreensis
+path:wko00780	Biotin metabolism - Weissella koreensis
+path:wko00790	Folate biosynthesis - Weissella koreensis
+path:wko00900	Terpenoid backbone biosynthesis - Weissella koreensis
+path:wko00910	Nitrogen metabolism - Weissella koreensis
+path:wko00970	Aminoacyl-tRNA biosynthesis - Weissella koreensis
+path:wko01040	Biosynthesis of unsaturated fatty acids - Weissella koreensis
+path:wko01100	Metabolic pathways - Weissella koreensis
+path:wko01110	Biosynthesis of secondary metabolites - Weissella koreensis
+path:wko01120	Microbial metabolism in diverse environments - Weissella koreensis
+path:wko01130	Biosynthesis of antibiotics - Weissella koreensis
+path:wko01200	Carbon metabolism - Weissella koreensis
+path:wko01212	Fatty acid metabolism - Weissella koreensis
+path:wko01220	Degradation of aromatic compounds - Weissella koreensis
+path:wko01230	Biosynthesis of amino acids - Weissella koreensis
+path:wko01501	beta-Lactam resistance - Weissella koreensis
+path:wko01502	Vancomycin resistance - Weissella koreensis
+path:wko01503	Cationic antimicrobial peptide (CAMP) resistance - Weissella koreensis
+path:wko02010	ABC transporters - Weissella koreensis
+path:wko02020	Two-component system - Weissella koreensis
+path:wko02024	Quorum sensing - Weissella koreensis
+path:wko02060	Phosphotransferase system (PTS) - Weissella koreensis
+path:wko03010	Ribosome - Weissella koreensis
+path:wko03018	RNA degradation - Weissella koreensis
+path:wko03020	RNA polymerase - Weissella koreensis
+path:wko03030	DNA replication - Weissella koreensis
+path:wko03060	Protein export - Weissella koreensis
+path:wko03070	Bacterial secretion system - Weissella koreensis
+path:wko03410	Base excision repair - Weissella koreensis
+path:wko03420	Nucleotide excision repair - Weissella koreensis
+path:wko03430	Mismatch repair - Weissella koreensis
+path:wko03440	Homologous recombination - Weissella koreensis
+path:wce00010	Glycolysis / Gluconeogenesis - Weissella ceti WS08
+path:wce00020	Citrate cycle (TCA cycle) - Weissella ceti WS08
+path:wce00030	Pentose phosphate pathway - Weissella ceti WS08
+path:wce00040	Pentose and glucuronate interconversions - Weissella ceti WS08
+path:wce00051	Fructose and mannose metabolism - Weissella ceti WS08
+path:wce00052	Galactose metabolism - Weissella ceti WS08
+path:wce00061	Fatty acid biosynthesis - Weissella ceti WS08
+path:wce00071	Fatty acid degradation - Weissella ceti WS08
+path:wce00072	Synthesis and degradation of ketone bodies - Weissella ceti WS08
+path:wce00121	Secondary bile acid biosynthesis - Weissella ceti WS08
+path:wce00130	Ubiquinone and other terpenoid-quinone biosynthesis - Weissella ceti WS08
+path:wce00190	Oxidative phosphorylation - Weissella ceti WS08
+path:wce00220	Arginine biosynthesis - Weissella ceti WS08
+path:wce00230	Purine metabolism - Weissella ceti WS08
+path:wce00240	Pyrimidine metabolism - Weissella ceti WS08
+path:wce00250	Alanine, aspartate and glutamate metabolism - Weissella ceti WS08
+path:wce00260	Glycine, serine and threonine metabolism - Weissella ceti WS08
+path:wce00270	Cysteine and methionine metabolism - Weissella ceti WS08
+path:wce00280	Valine, leucine and isoleucine degradation - Weissella ceti WS08
+path:wce00290	Valine, leucine and isoleucine biosynthesis - Weissella ceti WS08
+path:wce00300	Lysine biosynthesis - Weissella ceti WS08
+path:wce00330	Arginine and proline metabolism - Weissella ceti WS08
+path:wce00362	Benzoate degradation - Weissella ceti WS08
+path:wce00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Weissella ceti WS08
+path:wce00430	Taurine and hypotaurine metabolism - Weissella ceti WS08
+path:wce00450	Selenocompound metabolism - Weissella ceti WS08
+path:wce00460	Cyanoamino acid metabolism - Weissella ceti WS08
+path:wce00471	D-Glutamine and D-glutamate metabolism - Weissella ceti WS08
+path:wce00473	D-Alanine metabolism - Weissella ceti WS08
+path:wce00480	Glutathione metabolism - Weissella ceti WS08
+path:wce00500	Starch and sucrose metabolism - Weissella ceti WS08
+path:wce00520	Amino sugar and nucleotide sugar metabolism - Weissella ceti WS08
+path:wce00521	Streptomycin biosynthesis - Weissella ceti WS08
+path:wce00550	Peptidoglycan biosynthesis - Weissella ceti WS08
+path:wce00561	Glycerolipid metabolism - Weissella ceti WS08
+path:wce00562	Inositol phosphate metabolism - Weissella ceti WS08
+path:wce00564	Glycerophospholipid metabolism - Weissella ceti WS08
+path:wce00620	Pyruvate metabolism - Weissella ceti WS08
+path:wce00625	Chloroalkane and chloroalkene degradation - Weissella ceti WS08
+path:wce00626	Naphthalene degradation - Weissella ceti WS08
+path:wce00630	Glyoxylate and dicarboxylate metabolism - Weissella ceti WS08
+path:wce00640	Propanoate metabolism - Weissella ceti WS08
+path:wce00650	Butanoate metabolism - Weissella ceti WS08
+path:wce00660	C5-Branched dibasic acid metabolism - Weissella ceti WS08
+path:wce00670	One carbon pool by folate - Weissella ceti WS08
+path:wce00680	Methane metabolism - Weissella ceti WS08
+path:wce00730	Thiamine metabolism - Weissella ceti WS08
+path:wce00740	Riboflavin metabolism - Weissella ceti WS08
+path:wce00750	Vitamin B6 metabolism - Weissella ceti WS08
+path:wce00760	Nicotinate and nicotinamide metabolism - Weissella ceti WS08
+path:wce00770	Pantothenate and CoA biosynthesis - Weissella ceti WS08
+path:wce00780	Biotin metabolism - Weissella ceti WS08
+path:wce00790	Folate biosynthesis - Weissella ceti WS08
+path:wce00900	Terpenoid backbone biosynthesis - Weissella ceti WS08
+path:wce00910	Nitrogen metabolism - Weissella ceti WS08
+path:wce00920	Sulfur metabolism - Weissella ceti WS08
+path:wce00970	Aminoacyl-tRNA biosynthesis - Weissella ceti WS08
+path:wce01040	Biosynthesis of unsaturated fatty acids - Weissella ceti WS08
+path:wce01100	Metabolic pathways - Weissella ceti WS08
+path:wce01110	Biosynthesis of secondary metabolites - Weissella ceti WS08
+path:wce01120	Microbial metabolism in diverse environments - Weissella ceti WS08
+path:wce01130	Biosynthesis of antibiotics - Weissella ceti WS08
+path:wce01200	Carbon metabolism - Weissella ceti WS08
+path:wce01210	2-Oxocarboxylic acid metabolism - Weissella ceti WS08
+path:wce01212	Fatty acid metabolism - Weissella ceti WS08
+path:wce01220	Degradation of aromatic compounds - Weissella ceti WS08
+path:wce01230	Biosynthesis of amino acids - Weissella ceti WS08
+path:wce01501	beta-Lactam resistance - Weissella ceti WS08
+path:wce01502	Vancomycin resistance - Weissella ceti WS08
+path:wce01503	Cationic antimicrobial peptide (CAMP) resistance - Weissella ceti WS08
+path:wce02010	ABC transporters - Weissella ceti WS08
+path:wce02020	Two-component system - Weissella ceti WS08
+path:wce02024	Quorum sensing - Weissella ceti WS08
+path:wce02060	Phosphotransferase system (PTS) - Weissella ceti WS08
+path:wce03010	Ribosome - Weissella ceti WS08
+path:wce03018	RNA degradation - Weissella ceti WS08
+path:wce03020	RNA polymerase - Weissella ceti WS08
+path:wce03030	DNA replication - Weissella ceti WS08
+path:wce03060	Protein export - Weissella ceti WS08
+path:wce03070	Bacterial secretion system - Weissella ceti WS08
+path:wce03410	Base excision repair - Weissella ceti WS08
+path:wce03420	Nucleotide excision repair - Weissella ceti WS08
+path:wce03430	Mismatch repair - Weissella ceti WS08
+path:wce03440	Homologous recombination - Weissella ceti WS08
+path:wct00010	Glycolysis / Gluconeogenesis - Weissella ceti WS74
+path:wct00020	Citrate cycle (TCA cycle) - Weissella ceti WS74
+path:wct00030	Pentose phosphate pathway - Weissella ceti WS74
+path:wct00040	Pentose and glucuronate interconversions - Weissella ceti WS74
+path:wct00051	Fructose and mannose metabolism - Weissella ceti WS74
+path:wct00052	Galactose metabolism - Weissella ceti WS74
+path:wct00061	Fatty acid biosynthesis - Weissella ceti WS74
+path:wct00071	Fatty acid degradation - Weissella ceti WS74
+path:wct00072	Synthesis and degradation of ketone bodies - Weissella ceti WS74
+path:wct00121	Secondary bile acid biosynthesis - Weissella ceti WS74
+path:wct00130	Ubiquinone and other terpenoid-quinone biosynthesis - Weissella ceti WS74
+path:wct00190	Oxidative phosphorylation - Weissella ceti WS74
+path:wct00220	Arginine biosynthesis - Weissella ceti WS74
+path:wct00230	Purine metabolism - Weissella ceti WS74
+path:wct00240	Pyrimidine metabolism - Weissella ceti WS74
+path:wct00250	Alanine, aspartate and glutamate metabolism - Weissella ceti WS74
+path:wct00260	Glycine, serine and threonine metabolism - Weissella ceti WS74
+path:wct00270	Cysteine and methionine metabolism - Weissella ceti WS74
+path:wct00280	Valine, leucine and isoleucine degradation - Weissella ceti WS74
+path:wct00290	Valine, leucine and isoleucine biosynthesis - Weissella ceti WS74
+path:wct00300	Lysine biosynthesis - Weissella ceti WS74
+path:wct00330	Arginine and proline metabolism - Weissella ceti WS74
+path:wct00362	Benzoate degradation - Weissella ceti WS74
+path:wct00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Weissella ceti WS74
+path:wct00430	Taurine and hypotaurine metabolism - Weissella ceti WS74
+path:wct00450	Selenocompound metabolism - Weissella ceti WS74
+path:wct00460	Cyanoamino acid metabolism - Weissella ceti WS74
+path:wct00471	D-Glutamine and D-glutamate metabolism - Weissella ceti WS74
+path:wct00473	D-Alanine metabolism - Weissella ceti WS74
+path:wct00480	Glutathione metabolism - Weissella ceti WS74
+path:wct00500	Starch and sucrose metabolism - Weissella ceti WS74
+path:wct00520	Amino sugar and nucleotide sugar metabolism - Weissella ceti WS74
+path:wct00521	Streptomycin biosynthesis - Weissella ceti WS74
+path:wct00550	Peptidoglycan biosynthesis - Weissella ceti WS74
+path:wct00561	Glycerolipid metabolism - Weissella ceti WS74
+path:wct00562	Inositol phosphate metabolism - Weissella ceti WS74
+path:wct00564	Glycerophospholipid metabolism - Weissella ceti WS74
+path:wct00620	Pyruvate metabolism - Weissella ceti WS74
+path:wct00625	Chloroalkane and chloroalkene degradation - Weissella ceti WS74
+path:wct00626	Naphthalene degradation - Weissella ceti WS74
+path:wct00630	Glyoxylate and dicarboxylate metabolism - Weissella ceti WS74
+path:wct00640	Propanoate metabolism - Weissella ceti WS74
+path:wct00650	Butanoate metabolism - Weissella ceti WS74
+path:wct00660	C5-Branched dibasic acid metabolism - Weissella ceti WS74
+path:wct00670	One carbon pool by folate - Weissella ceti WS74
+path:wct00680	Methane metabolism - Weissella ceti WS74
+path:wct00730	Thiamine metabolism - Weissella ceti WS74
+path:wct00740	Riboflavin metabolism - Weissella ceti WS74
+path:wct00750	Vitamin B6 metabolism - Weissella ceti WS74
+path:wct00760	Nicotinate and nicotinamide metabolism - Weissella ceti WS74
+path:wct00770	Pantothenate and CoA biosynthesis - Weissella ceti WS74
+path:wct00780	Biotin metabolism - Weissella ceti WS74
+path:wct00790	Folate biosynthesis - Weissella ceti WS74
+path:wct00900	Terpenoid backbone biosynthesis - Weissella ceti WS74
+path:wct00910	Nitrogen metabolism - Weissella ceti WS74
+path:wct00920	Sulfur metabolism - Weissella ceti WS74
+path:wct00970	Aminoacyl-tRNA biosynthesis - Weissella ceti WS74
+path:wct01040	Biosynthesis of unsaturated fatty acids - Weissella ceti WS74
+path:wct01100	Metabolic pathways - Weissella ceti WS74
+path:wct01110	Biosynthesis of secondary metabolites - Weissella ceti WS74
+path:wct01120	Microbial metabolism in diverse environments - Weissella ceti WS74
+path:wct01130	Biosynthesis of antibiotics - Weissella ceti WS74
+path:wct01200	Carbon metabolism - Weissella ceti WS74
+path:wct01210	2-Oxocarboxylic acid metabolism - Weissella ceti WS74
+path:wct01212	Fatty acid metabolism - Weissella ceti WS74
+path:wct01220	Degradation of aromatic compounds - Weissella ceti WS74
+path:wct01230	Biosynthesis of amino acids - Weissella ceti WS74
+path:wct01501	beta-Lactam resistance - Weissella ceti WS74
+path:wct01502	Vancomycin resistance - Weissella ceti WS74
+path:wct01503	Cationic antimicrobial peptide (CAMP) resistance - Weissella ceti WS74
+path:wct02010	ABC transporters - Weissella ceti WS74
+path:wct02020	Two-component system - Weissella ceti WS74
+path:wct02024	Quorum sensing - Weissella ceti WS74
+path:wct02060	Phosphotransferase system (PTS) - Weissella ceti WS74
+path:wct03010	Ribosome - Weissella ceti WS74
+path:wct03018	RNA degradation - Weissella ceti WS74
+path:wct03020	RNA polymerase - Weissella ceti WS74
+path:wct03030	DNA replication - Weissella ceti WS74
+path:wct03060	Protein export - Weissella ceti WS74
+path:wct03070	Bacterial secretion system - Weissella ceti WS74
+path:wct03410	Base excision repair - Weissella ceti WS74
+path:wct03420	Nucleotide excision repair - Weissella ceti WS74
+path:wct03430	Mismatch repair - Weissella ceti WS74
+path:wct03440	Homologous recombination - Weissella ceti WS74
+path:wci00010	Glycolysis / Gluconeogenesis - Weissella ceti WS105
+path:wci00020	Citrate cycle (TCA cycle) - Weissella ceti WS105
+path:wci00030	Pentose phosphate pathway - Weissella ceti WS105
+path:wci00040	Pentose and glucuronate interconversions - Weissella ceti WS105
+path:wci00051	Fructose and mannose metabolism - Weissella ceti WS105
+path:wci00052	Galactose metabolism - Weissella ceti WS105
+path:wci00061	Fatty acid biosynthesis - Weissella ceti WS105
+path:wci00071	Fatty acid degradation - Weissella ceti WS105
+path:wci00072	Synthesis and degradation of ketone bodies - Weissella ceti WS105
+path:wci00121	Secondary bile acid biosynthesis - Weissella ceti WS105
+path:wci00130	Ubiquinone and other terpenoid-quinone biosynthesis - Weissella ceti WS105
+path:wci00190	Oxidative phosphorylation - Weissella ceti WS105
+path:wci00220	Arginine biosynthesis - Weissella ceti WS105
+path:wci00230	Purine metabolism - Weissella ceti WS105
+path:wci00240	Pyrimidine metabolism - Weissella ceti WS105
+path:wci00250	Alanine, aspartate and glutamate metabolism - Weissella ceti WS105
+path:wci00260	Glycine, serine and threonine metabolism - Weissella ceti WS105
+path:wci00270	Cysteine and methionine metabolism - Weissella ceti WS105
+path:wci00280	Valine, leucine and isoleucine degradation - Weissella ceti WS105
+path:wci00290	Valine, leucine and isoleucine biosynthesis - Weissella ceti WS105
+path:wci00300	Lysine biosynthesis - Weissella ceti WS105
+path:wci00330	Arginine and proline metabolism - Weissella ceti WS105
+path:wci00362	Benzoate degradation - Weissella ceti WS105
+path:wci00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Weissella ceti WS105
+path:wci00430	Taurine and hypotaurine metabolism - Weissella ceti WS105
+path:wci00450	Selenocompound metabolism - Weissella ceti WS105
+path:wci00460	Cyanoamino acid metabolism - Weissella ceti WS105
+path:wci00471	D-Glutamine and D-glutamate metabolism - Weissella ceti WS105
+path:wci00473	D-Alanine metabolism - Weissella ceti WS105
+path:wci00480	Glutathione metabolism - Weissella ceti WS105
+path:wci00500	Starch and sucrose metabolism - Weissella ceti WS105
+path:wci00520	Amino sugar and nucleotide sugar metabolism - Weissella ceti WS105
+path:wci00521	Streptomycin biosynthesis - Weissella ceti WS105
+path:wci00550	Peptidoglycan biosynthesis - Weissella ceti WS105
+path:wci00561	Glycerolipid metabolism - Weissella ceti WS105
+path:wci00562	Inositol phosphate metabolism - Weissella ceti WS105
+path:wci00564	Glycerophospholipid metabolism - Weissella ceti WS105
+path:wci00620	Pyruvate metabolism - Weissella ceti WS105
+path:wci00625	Chloroalkane and chloroalkene degradation - Weissella ceti WS105
+path:wci00626	Naphthalene degradation - Weissella ceti WS105
+path:wci00630	Glyoxylate and dicarboxylate metabolism - Weissella ceti WS105
+path:wci00640	Propanoate metabolism - Weissella ceti WS105
+path:wci00650	Butanoate metabolism - Weissella ceti WS105
+path:wci00660	C5-Branched dibasic acid metabolism - Weissella ceti WS105
+path:wci00670	One carbon pool by folate - Weissella ceti WS105
+path:wci00680	Methane metabolism - Weissella ceti WS105
+path:wci00730	Thiamine metabolism - Weissella ceti WS105
+path:wci00740	Riboflavin metabolism - Weissella ceti WS105
+path:wci00750	Vitamin B6 metabolism - Weissella ceti WS105
+path:wci00760	Nicotinate and nicotinamide metabolism - Weissella ceti WS105
+path:wci00770	Pantothenate and CoA biosynthesis - Weissella ceti WS105
+path:wci00780	Biotin metabolism - Weissella ceti WS105
+path:wci00790	Folate biosynthesis - Weissella ceti WS105
+path:wci00900	Terpenoid backbone biosynthesis - Weissella ceti WS105
+path:wci00910	Nitrogen metabolism - Weissella ceti WS105
+path:wci00920	Sulfur metabolism - Weissella ceti WS105
+path:wci00970	Aminoacyl-tRNA biosynthesis - Weissella ceti WS105
+path:wci01040	Biosynthesis of unsaturated fatty acids - Weissella ceti WS105
+path:wci01100	Metabolic pathways - Weissella ceti WS105
+path:wci01110	Biosynthesis of secondary metabolites - Weissella ceti WS105
+path:wci01120	Microbial metabolism in diverse environments - Weissella ceti WS105
+path:wci01130	Biosynthesis of antibiotics - Weissella ceti WS105
+path:wci01200	Carbon metabolism - Weissella ceti WS105
+path:wci01210	2-Oxocarboxylic acid metabolism - Weissella ceti WS105
+path:wci01212	Fatty acid metabolism - Weissella ceti WS105
+path:wci01220	Degradation of aromatic compounds - Weissella ceti WS105
+path:wci01230	Biosynthesis of amino acids - Weissella ceti WS105
+path:wci01501	beta-Lactam resistance - Weissella ceti WS105
+path:wci01502	Vancomycin resistance - Weissella ceti WS105
+path:wci01503	Cationic antimicrobial peptide (CAMP) resistance - Weissella ceti WS105
+path:wci02010	ABC transporters - Weissella ceti WS105
+path:wci02020	Two-component system - Weissella ceti WS105
+path:wci02024	Quorum sensing - Weissella ceti WS105
+path:wci02060	Phosphotransferase system (PTS) - Weissella ceti WS105
+path:wci03010	Ribosome - Weissella ceti WS105
+path:wci03018	RNA degradation - Weissella ceti WS105
+path:wci03020	RNA polymerase - Weissella ceti WS105
+path:wci03030	DNA replication - Weissella ceti WS105
+path:wci03060	Protein export - Weissella ceti WS105
+path:wci03070	Bacterial secretion system - Weissella ceti WS105
+path:wci03410	Base excision repair - Weissella ceti WS105
+path:wci03420	Nucleotide excision repair - Weissella ceti WS105
+path:wci03430	Mismatch repair - Weissella ceti WS105
+path:wci03440	Homologous recombination - Weissella ceti WS105
+path:wcb00010	Glycolysis / Gluconeogenesis - Weissella cibaria
+path:wcb00020	Citrate cycle (TCA cycle) - Weissella cibaria
+path:wcb00030	Pentose phosphate pathway - Weissella cibaria
+path:wcb00040	Pentose and glucuronate interconversions - Weissella cibaria
+path:wcb00051	Fructose and mannose metabolism - Weissella cibaria
+path:wcb00052	Galactose metabolism - Weissella cibaria
+path:wcb00061	Fatty acid biosynthesis - Weissella cibaria
+path:wcb00130	Ubiquinone and other terpenoid-quinone biosynthesis - Weissella cibaria
+path:wcb00190	Oxidative phosphorylation - Weissella cibaria
+path:wcb00220	Arginine biosynthesis - Weissella cibaria
+path:wcb00230	Purine metabolism - Weissella cibaria
+path:wcb00240	Pyrimidine metabolism - Weissella cibaria
+path:wcb00250	Alanine, aspartate and glutamate metabolism - Weissella cibaria
+path:wcb00260	Glycine, serine and threonine metabolism - Weissella cibaria
+path:wcb00261	Monobactam biosynthesis - Weissella cibaria
+path:wcb00270	Cysteine and methionine metabolism - Weissella cibaria
+path:wcb00280	Valine, leucine and isoleucine degradation - Weissella cibaria
+path:wcb00290	Valine, leucine and isoleucine biosynthesis - Weissella cibaria
+path:wcb00300	Lysine biosynthesis - Weissella cibaria
+path:wcb00330	Arginine and proline metabolism - Weissella cibaria
+path:wcb00360	Phenylalanine metabolism - Weissella cibaria
+path:wcb00362	Benzoate degradation - Weissella cibaria
+path:wcb00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Weissella cibaria
+path:wcb00430	Taurine and hypotaurine metabolism - Weissella cibaria
+path:wcb00450	Selenocompound metabolism - Weissella cibaria
+path:wcb00460	Cyanoamino acid metabolism - Weissella cibaria
+path:wcb00471	D-Glutamine and D-glutamate metabolism - Weissella cibaria
+path:wcb00472	D-Arginine and D-ornithine metabolism - Weissella cibaria
+path:wcb00473	D-Alanine metabolism - Weissella cibaria
+path:wcb00480	Glutathione metabolism - Weissella cibaria
+path:wcb00500	Starch and sucrose metabolism - Weissella cibaria
+path:wcb00511	Other glycan degradation - Weissella cibaria
+path:wcb00520	Amino sugar and nucleotide sugar metabolism - Weissella cibaria
+path:wcb00521	Streptomycin biosynthesis - Weissella cibaria
+path:wcb00550	Peptidoglycan biosynthesis - Weissella cibaria
+path:wcb00561	Glycerolipid metabolism - Weissella cibaria
+path:wcb00562	Inositol phosphate metabolism - Weissella cibaria
+path:wcb00564	Glycerophospholipid metabolism - Weissella cibaria
+path:wcb00590	Arachidonic acid metabolism - Weissella cibaria
+path:wcb00620	Pyruvate metabolism - Weissella cibaria
+path:wcb00625	Chloroalkane and chloroalkene degradation - Weissella cibaria
+path:wcb00626	Naphthalene degradation - Weissella cibaria
+path:wcb00627	Aminobenzoate degradation - Weissella cibaria
+path:wcb00630	Glyoxylate and dicarboxylate metabolism - Weissella cibaria
+path:wcb00640	Propanoate metabolism - Weissella cibaria
+path:wcb00643	Styrene degradation - Weissella cibaria
+path:wcb00650	Butanoate metabolism - Weissella cibaria
+path:wcb00660	C5-Branched dibasic acid metabolism - Weissella cibaria
+path:wcb00670	One carbon pool by folate - Weissella cibaria
+path:wcb00680	Methane metabolism - Weissella cibaria
+path:wcb00730	Thiamine metabolism - Weissella cibaria
+path:wcb00740	Riboflavin metabolism - Weissella cibaria
+path:wcb00750	Vitamin B6 metabolism - Weissella cibaria
+path:wcb00760	Nicotinate and nicotinamide metabolism - Weissella cibaria
+path:wcb00770	Pantothenate and CoA biosynthesis - Weissella cibaria
+path:wcb00780	Biotin metabolism - Weissella cibaria
+path:wcb00790	Folate biosynthesis - Weissella cibaria
+path:wcb00900	Terpenoid backbone biosynthesis - Weissella cibaria
+path:wcb00910	Nitrogen metabolism - Weissella cibaria
+path:wcb00920	Sulfur metabolism - Weissella cibaria
+path:wcb00970	Aminoacyl-tRNA biosynthesis - Weissella cibaria
+path:wcb01040	Biosynthesis of unsaturated fatty acids - Weissella cibaria
+path:wcb01100	Metabolic pathways - Weissella cibaria
+path:wcb01110	Biosynthesis of secondary metabolites - Weissella cibaria
+path:wcb01120	Microbial metabolism in diverse environments - Weissella cibaria
+path:wcb01130	Biosynthesis of antibiotics - Weissella cibaria
+path:wcb01200	Carbon metabolism - Weissella cibaria
+path:wcb01210	2-Oxocarboxylic acid metabolism - Weissella cibaria
+path:wcb01212	Fatty acid metabolism - Weissella cibaria
+path:wcb01220	Degradation of aromatic compounds - Weissella cibaria
+path:wcb01230	Biosynthesis of amino acids - Weissella cibaria
+path:wcb01501	beta-Lactam resistance - Weissella cibaria
+path:wcb01502	Vancomycin resistance - Weissella cibaria
+path:wcb01503	Cationic antimicrobial peptide (CAMP) resistance - Weissella cibaria
+path:wcb02010	ABC transporters - Weissella cibaria
+path:wcb02020	Two-component system - Weissella cibaria
+path:wcb02024	Quorum sensing - Weissella cibaria
+path:wcb02060	Phosphotransferase system (PTS) - Weissella cibaria
+path:wcb03010	Ribosome - Weissella cibaria
+path:wcb03018	RNA degradation - Weissella cibaria
+path:wcb03020	RNA polymerase - Weissella cibaria
+path:wcb03030	DNA replication - Weissella cibaria
+path:wcb03060	Protein export - Weissella cibaria
+path:wcb03070	Bacterial secretion system - Weissella cibaria
+path:wcb03410	Base excision repair - Weissella cibaria
+path:wcb03420	Nucleotide excision repair - Weissella cibaria
+path:wcb03430	Mismatch repair - Weissella cibaria
+path:wcb03440	Homologous recombination - Weissella cibaria
+path:wjo00010	Glycolysis / Gluconeogenesis - Weissella jogaejeotgali
+path:wjo00020	Citrate cycle (TCA cycle) - Weissella jogaejeotgali
+path:wjo00030	Pentose phosphate pathway - Weissella jogaejeotgali
+path:wjo00040	Pentose and glucuronate interconversions - Weissella jogaejeotgali
+path:wjo00051	Fructose and mannose metabolism - Weissella jogaejeotgali
+path:wjo00052	Galactose metabolism - Weissella jogaejeotgali
+path:wjo00061	Fatty acid biosynthesis - Weissella jogaejeotgali
+path:wjo00121	Secondary bile acid biosynthesis - Weissella jogaejeotgali
+path:wjo00130	Ubiquinone and other terpenoid-quinone biosynthesis - Weissella jogaejeotgali
+path:wjo00190	Oxidative phosphorylation - Weissella jogaejeotgali
+path:wjo00220	Arginine biosynthesis - Weissella jogaejeotgali
+path:wjo00230	Purine metabolism - Weissella jogaejeotgali
+path:wjo00240	Pyrimidine metabolism - Weissella jogaejeotgali
+path:wjo00250	Alanine, aspartate and glutamate metabolism - Weissella jogaejeotgali
+path:wjo00260	Glycine, serine and threonine metabolism - Weissella jogaejeotgali
+path:wjo00261	Monobactam biosynthesis - Weissella jogaejeotgali
+path:wjo00270	Cysteine and methionine metabolism - Weissella jogaejeotgali
+path:wjo00280	Valine, leucine and isoleucine degradation - Weissella jogaejeotgali
+path:wjo00290	Valine, leucine and isoleucine biosynthesis - Weissella jogaejeotgali
+path:wjo00300	Lysine biosynthesis - Weissella jogaejeotgali
+path:wjo00330	Arginine and proline metabolism - Weissella jogaejeotgali
+path:wjo00332	Carbapenem biosynthesis - Weissella jogaejeotgali
+path:wjo00350	Tyrosine metabolism - Weissella jogaejeotgali
+path:wjo00362	Benzoate degradation - Weissella jogaejeotgali
+path:wjo00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Weissella jogaejeotgali
+path:wjo00430	Taurine and hypotaurine metabolism - Weissella jogaejeotgali
+path:wjo00440	Phosphonate and phosphinate metabolism - Weissella jogaejeotgali
+path:wjo00450	Selenocompound metabolism - Weissella jogaejeotgali
+path:wjo00460	Cyanoamino acid metabolism - Weissella jogaejeotgali
+path:wjo00471	D-Glutamine and D-glutamate metabolism - Weissella jogaejeotgali
+path:wjo00473	D-Alanine metabolism - Weissella jogaejeotgali
+path:wjo00480	Glutathione metabolism - Weissella jogaejeotgali
+path:wjo00500	Starch and sucrose metabolism - Weissella jogaejeotgali
+path:wjo00511	Other glycan degradation - Weissella jogaejeotgali
+path:wjo00520	Amino sugar and nucleotide sugar metabolism - Weissella jogaejeotgali
+path:wjo00521	Streptomycin biosynthesis - Weissella jogaejeotgali
+path:wjo00523	Polyketide sugar unit biosynthesis - Weissella jogaejeotgali
+path:wjo00525	Acarbose and validamycin biosynthesis - Weissella jogaejeotgali
+path:wjo00540	Lipopolysaccharide biosynthesis - Weissella jogaejeotgali
+path:wjo00550	Peptidoglycan biosynthesis - Weissella jogaejeotgali
+path:wjo00561	Glycerolipid metabolism - Weissella jogaejeotgali
+path:wjo00562	Inositol phosphate metabolism - Weissella jogaejeotgali
+path:wjo00564	Glycerophospholipid metabolism - Weissella jogaejeotgali
+path:wjo00590	Arachidonic acid metabolism - Weissella jogaejeotgali
+path:wjo00600	Sphingolipid metabolism - Weissella jogaejeotgali
+path:wjo00620	Pyruvate metabolism - Weissella jogaejeotgali
+path:wjo00622	Xylene degradation - Weissella jogaejeotgali
+path:wjo00625	Chloroalkane and chloroalkene degradation - Weissella jogaejeotgali
+path:wjo00626	Naphthalene degradation - Weissella jogaejeotgali
+path:wjo00627	Aminobenzoate degradation - Weissella jogaejeotgali
+path:wjo00630	Glyoxylate and dicarboxylate metabolism - Weissella jogaejeotgali
+path:wjo00640	Propanoate metabolism - Weissella jogaejeotgali
+path:wjo00650	Butanoate metabolism - Weissella jogaejeotgali
+path:wjo00660	C5-Branched dibasic acid metabolism - Weissella jogaejeotgali
+path:wjo00670	One carbon pool by folate - Weissella jogaejeotgali
+path:wjo00680	Methane metabolism - Weissella jogaejeotgali
+path:wjo00730	Thiamine metabolism - Weissella jogaejeotgali
+path:wjo00740	Riboflavin metabolism - Weissella jogaejeotgali
+path:wjo00750	Vitamin B6 metabolism - Weissella jogaejeotgali
+path:wjo00760	Nicotinate and nicotinamide metabolism - Weissella jogaejeotgali
+path:wjo00770	Pantothenate and CoA biosynthesis - Weissella jogaejeotgali
+path:wjo00780	Biotin metabolism - Weissella jogaejeotgali
+path:wjo00790	Folate biosynthesis - Weissella jogaejeotgali
+path:wjo00900	Terpenoid backbone biosynthesis - Weissella jogaejeotgali
+path:wjo00910	Nitrogen metabolism - Weissella jogaejeotgali
+path:wjo00920	Sulfur metabolism - Weissella jogaejeotgali
+path:wjo00970	Aminoacyl-tRNA biosynthesis - Weissella jogaejeotgali
+path:wjo01040	Biosynthesis of unsaturated fatty acids - Weissella jogaejeotgali
+path:wjo01054	Nonribosomal peptide structures - Weissella jogaejeotgali
+path:wjo01100	Metabolic pathways - Weissella jogaejeotgali
+path:wjo01110	Biosynthesis of secondary metabolites - Weissella jogaejeotgali
+path:wjo01120	Microbial metabolism in diverse environments - Weissella jogaejeotgali
+path:wjo01130	Biosynthesis of antibiotics - Weissella jogaejeotgali
+path:wjo01200	Carbon metabolism - Weissella jogaejeotgali
+path:wjo01210	2-Oxocarboxylic acid metabolism - Weissella jogaejeotgali
+path:wjo01212	Fatty acid metabolism - Weissella jogaejeotgali
+path:wjo01220	Degradation of aromatic compounds - Weissella jogaejeotgali
+path:wjo01230	Biosynthesis of amino acids - Weissella jogaejeotgali
+path:wjo01501	beta-Lactam resistance - Weissella jogaejeotgali
+path:wjo01502	Vancomycin resistance - Weissella jogaejeotgali
+path:wjo01503	Cationic antimicrobial peptide (CAMP) resistance - Weissella jogaejeotgali
+path:wjo02010	ABC transporters - Weissella jogaejeotgali
+path:wjo02020	Two-component system - Weissella jogaejeotgali
+path:wjo02024	Quorum sensing - Weissella jogaejeotgali
+path:wjo02060	Phosphotransferase system (PTS) - Weissella jogaejeotgali
+path:wjo03010	Ribosome - Weissella jogaejeotgali
+path:wjo03018	RNA degradation - Weissella jogaejeotgali
+path:wjo03020	RNA polymerase - Weissella jogaejeotgali
+path:wjo03030	DNA replication - Weissella jogaejeotgali
+path:wjo03060	Protein export - Weissella jogaejeotgali
+path:wjo03070	Bacterial secretion system - Weissella jogaejeotgali
+path:wjo03410	Base excision repair - Weissella jogaejeotgali
+path:wjo03420	Nucleotide excision repair - Weissella jogaejeotgali
+path:wjo03430	Mismatch repair - Weissella jogaejeotgali
+path:wjo03440	Homologous recombination - Weissella jogaejeotgali
+path:wjo04122	Sulfur relay system - Weissella jogaejeotgali

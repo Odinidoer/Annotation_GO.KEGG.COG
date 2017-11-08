@@ -1,0 +1,859 @@
+path:eic00010	Glycolysis / Gluconeogenesis - Edwardsiella ictaluri
+path:eic00020	Citrate cycle (TCA cycle) - Edwardsiella ictaluri
+path:eic00030	Pentose phosphate pathway - Edwardsiella ictaluri
+path:eic00040	Pentose and glucuronate interconversions - Edwardsiella ictaluri
+path:eic00051	Fructose and mannose metabolism - Edwardsiella ictaluri
+path:eic00052	Galactose metabolism - Edwardsiella ictaluri
+path:eic00053	Ascorbate and aldarate metabolism - Edwardsiella ictaluri
+path:eic00061	Fatty acid biosynthesis - Edwardsiella ictaluri
+path:eic00071	Fatty acid degradation - Edwardsiella ictaluri
+path:eic00072	Synthesis and degradation of ketone bodies - Edwardsiella ictaluri
+path:eic00130	Ubiquinone and other terpenoid-quinone biosynthesis - Edwardsiella ictaluri
+path:eic00190	Oxidative phosphorylation - Edwardsiella ictaluri
+path:eic00220	Arginine biosynthesis - Edwardsiella ictaluri
+path:eic00230	Purine metabolism - Edwardsiella ictaluri
+path:eic00240	Pyrimidine metabolism - Edwardsiella ictaluri
+path:eic00250	Alanine, aspartate and glutamate metabolism - Edwardsiella ictaluri
+path:eic00260	Glycine, serine and threonine metabolism - Edwardsiella ictaluri
+path:eic00261	Monobactam biosynthesis - Edwardsiella ictaluri
+path:eic00270	Cysteine and methionine metabolism - Edwardsiella ictaluri
+path:eic00280	Valine, leucine and isoleucine degradation - Edwardsiella ictaluri
+path:eic00290	Valine, leucine and isoleucine biosynthesis - Edwardsiella ictaluri
+path:eic00300	Lysine biosynthesis - Edwardsiella ictaluri
+path:eic00310	Lysine degradation - Edwardsiella ictaluri
+path:eic00330	Arginine and proline metabolism - Edwardsiella ictaluri
+path:eic00340	Histidine metabolism - Edwardsiella ictaluri
+path:eic00350	Tyrosine metabolism - Edwardsiella ictaluri
+path:eic00360	Phenylalanine metabolism - Edwardsiella ictaluri
+path:eic00380	Tryptophan metabolism - Edwardsiella ictaluri
+path:eic00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Edwardsiella ictaluri
+path:eic00401	Novobiocin biosynthesis - Edwardsiella ictaluri
+path:eic00410	beta-Alanine metabolism - Edwardsiella ictaluri
+path:eic00430	Taurine and hypotaurine metabolism - Edwardsiella ictaluri
+path:eic00440	Phosphonate and phosphinate metabolism - Edwardsiella ictaluri
+path:eic00450	Selenocompound metabolism - Edwardsiella ictaluri
+path:eic00460	Cyanoamino acid metabolism - Edwardsiella ictaluri
+path:eic00471	D-Glutamine and D-glutamate metabolism - Edwardsiella ictaluri
+path:eic00473	D-Alanine metabolism - Edwardsiella ictaluri
+path:eic00480	Glutathione metabolism - Edwardsiella ictaluri
+path:eic00500	Starch and sucrose metabolism - Edwardsiella ictaluri
+path:eic00511	Other glycan degradation - Edwardsiella ictaluri
+path:eic00520	Amino sugar and nucleotide sugar metabolism - Edwardsiella ictaluri
+path:eic00521	Streptomycin biosynthesis - Edwardsiella ictaluri
+path:eic00523	Polyketide sugar unit biosynthesis - Edwardsiella ictaluri
+path:eic00525	Acarbose and validamycin biosynthesis - Edwardsiella ictaluri
+path:eic00540	Lipopolysaccharide biosynthesis - Edwardsiella ictaluri
+path:eic00550	Peptidoglycan biosynthesis - Edwardsiella ictaluri
+path:eic00561	Glycerolipid metabolism - Edwardsiella ictaluri
+path:eic00562	Inositol phosphate metabolism - Edwardsiella ictaluri
+path:eic00564	Glycerophospholipid metabolism - Edwardsiella ictaluri
+path:eic00565	Ether lipid metabolism - Edwardsiella ictaluri
+path:eic00592	alpha-Linolenic acid metabolism - Edwardsiella ictaluri
+path:eic00620	Pyruvate metabolism - Edwardsiella ictaluri
+path:eic00625	Chloroalkane and chloroalkene degradation - Edwardsiella ictaluri
+path:eic00626	Naphthalene degradation - Edwardsiella ictaluri
+path:eic00627	Aminobenzoate degradation - Edwardsiella ictaluri
+path:eic00630	Glyoxylate and dicarboxylate metabolism - Edwardsiella ictaluri
+path:eic00633	Nitrotoluene degradation - Edwardsiella ictaluri
+path:eic00640	Propanoate metabolism - Edwardsiella ictaluri
+path:eic00650	Butanoate metabolism - Edwardsiella ictaluri
+path:eic00660	C5-Branched dibasic acid metabolism - Edwardsiella ictaluri
+path:eic00670	One carbon pool by folate - Edwardsiella ictaluri
+path:eic00680	Methane metabolism - Edwardsiella ictaluri
+path:eic00730	Thiamine metabolism - Edwardsiella ictaluri
+path:eic00740	Riboflavin metabolism - Edwardsiella ictaluri
+path:eic00750	Vitamin B6 metabolism - Edwardsiella ictaluri
+path:eic00760	Nicotinate and nicotinamide metabolism - Edwardsiella ictaluri
+path:eic00770	Pantothenate and CoA biosynthesis - Edwardsiella ictaluri
+path:eic00780	Biotin metabolism - Edwardsiella ictaluri
+path:eic00785	Lipoic acid metabolism - Edwardsiella ictaluri
+path:eic00790	Folate biosynthesis - Edwardsiella ictaluri
+path:eic00860	Porphyrin and chlorophyll metabolism - Edwardsiella ictaluri
+path:eic00900	Terpenoid backbone biosynthesis - Edwardsiella ictaluri
+path:eic00910	Nitrogen metabolism - Edwardsiella ictaluri
+path:eic00920	Sulfur metabolism - Edwardsiella ictaluri
+path:eic00970	Aminoacyl-tRNA biosynthesis - Edwardsiella ictaluri
+path:eic01040	Biosynthesis of unsaturated fatty acids - Edwardsiella ictaluri
+path:eic01054	Nonribosomal peptide structures - Edwardsiella ictaluri
+path:eic01100	Metabolic pathways - Edwardsiella ictaluri
+path:eic01110	Biosynthesis of secondary metabolites - Edwardsiella ictaluri
+path:eic01120	Microbial metabolism in diverse environments - Edwardsiella ictaluri
+path:eic01130	Biosynthesis of antibiotics - Edwardsiella ictaluri
+path:eic01200	Carbon metabolism - Edwardsiella ictaluri
+path:eic01210	2-Oxocarboxylic acid metabolism - Edwardsiella ictaluri
+path:eic01212	Fatty acid metabolism - Edwardsiella ictaluri
+path:eic01220	Degradation of aromatic compounds - Edwardsiella ictaluri
+path:eic01230	Biosynthesis of amino acids - Edwardsiella ictaluri
+path:eic01501	beta-Lactam resistance - Edwardsiella ictaluri
+path:eic01502	Vancomycin resistance - Edwardsiella ictaluri
+path:eic01503	Cationic antimicrobial peptide (CAMP) resistance - Edwardsiella ictaluri
+path:eic02010	ABC transporters - Edwardsiella ictaluri
+path:eic02020	Two-component system - Edwardsiella ictaluri
+path:eic02024	Quorum sensing - Edwardsiella ictaluri
+path:eic02030	Bacterial chemotaxis - Edwardsiella ictaluri
+path:eic02040	Flagellar assembly - Edwardsiella ictaluri
+path:eic02060	Phosphotransferase system (PTS) - Edwardsiella ictaluri
+path:eic03010	Ribosome - Edwardsiella ictaluri
+path:eic03018	RNA degradation - Edwardsiella ictaluri
+path:eic03020	RNA polymerase - Edwardsiella ictaluri
+path:eic03030	DNA replication - Edwardsiella ictaluri
+path:eic03060	Protein export - Edwardsiella ictaluri
+path:eic03070	Bacterial secretion system - Edwardsiella ictaluri
+path:eic03410	Base excision repair - Edwardsiella ictaluri
+path:eic03420	Nucleotide excision repair - Edwardsiella ictaluri
+path:eic03430	Mismatch repair - Edwardsiella ictaluri
+path:eic03440	Homologous recombination - Edwardsiella ictaluri
+path:eic04122	Sulfur relay system - Edwardsiella ictaluri
+path:etr00010	Glycolysis / Gluconeogenesis - Edwardsiella tarda EIB202
+path:etr00020	Citrate cycle (TCA cycle) - Edwardsiella tarda EIB202
+path:etr00030	Pentose phosphate pathway - Edwardsiella tarda EIB202
+path:etr00040	Pentose and glucuronate interconversions - Edwardsiella tarda EIB202
+path:etr00051	Fructose and mannose metabolism - Edwardsiella tarda EIB202
+path:etr00052	Galactose metabolism - Edwardsiella tarda EIB202
+path:etr00053	Ascorbate and aldarate metabolism - Edwardsiella tarda EIB202
+path:etr00061	Fatty acid biosynthesis - Edwardsiella tarda EIB202
+path:etr00071	Fatty acid degradation - Edwardsiella tarda EIB202
+path:etr00072	Synthesis and degradation of ketone bodies - Edwardsiella tarda EIB202
+path:etr00130	Ubiquinone and other terpenoid-quinone biosynthesis - Edwardsiella tarda EIB202
+path:etr00190	Oxidative phosphorylation - Edwardsiella tarda EIB202
+path:etr00220	Arginine biosynthesis - Edwardsiella tarda EIB202
+path:etr00230	Purine metabolism - Edwardsiella tarda EIB202
+path:etr00240	Pyrimidine metabolism - Edwardsiella tarda EIB202
+path:etr00250	Alanine, aspartate and glutamate metabolism - Edwardsiella tarda EIB202
+path:etr00260	Glycine, serine and threonine metabolism - Edwardsiella tarda EIB202
+path:etr00261	Monobactam biosynthesis - Edwardsiella tarda EIB202
+path:etr00270	Cysteine and methionine metabolism - Edwardsiella tarda EIB202
+path:etr00280	Valine, leucine and isoleucine degradation - Edwardsiella tarda EIB202
+path:etr00290	Valine, leucine and isoleucine biosynthesis - Edwardsiella tarda EIB202
+path:etr00300	Lysine biosynthesis - Edwardsiella tarda EIB202
+path:etr00310	Lysine degradation - Edwardsiella tarda EIB202
+path:etr00330	Arginine and proline metabolism - Edwardsiella tarda EIB202
+path:etr00332	Carbapenem biosynthesis - Edwardsiella tarda EIB202
+path:etr00340	Histidine metabolism - Edwardsiella tarda EIB202
+path:etr00350	Tyrosine metabolism - Edwardsiella tarda EIB202
+path:etr00360	Phenylalanine metabolism - Edwardsiella tarda EIB202
+path:etr00380	Tryptophan metabolism - Edwardsiella tarda EIB202
+path:etr00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Edwardsiella tarda EIB202
+path:etr00401	Novobiocin biosynthesis - Edwardsiella tarda EIB202
+path:etr00410	beta-Alanine metabolism - Edwardsiella tarda EIB202
+path:etr00430	Taurine and hypotaurine metabolism - Edwardsiella tarda EIB202
+path:etr00450	Selenocompound metabolism - Edwardsiella tarda EIB202
+path:etr00460	Cyanoamino acid metabolism - Edwardsiella tarda EIB202
+path:etr00471	D-Glutamine and D-glutamate metabolism - Edwardsiella tarda EIB202
+path:etr00473	D-Alanine metabolism - Edwardsiella tarda EIB202
+path:etr00480	Glutathione metabolism - Edwardsiella tarda EIB202
+path:etr00500	Starch and sucrose metabolism - Edwardsiella tarda EIB202
+path:etr00511	Other glycan degradation - Edwardsiella tarda EIB202
+path:etr00520	Amino sugar and nucleotide sugar metabolism - Edwardsiella tarda EIB202
+path:etr00521	Streptomycin biosynthesis - Edwardsiella tarda EIB202
+path:etr00523	Polyketide sugar unit biosynthesis - Edwardsiella tarda EIB202
+path:etr00525	Acarbose and validamycin biosynthesis - Edwardsiella tarda EIB202
+path:etr00540	Lipopolysaccharide biosynthesis - Edwardsiella tarda EIB202
+path:etr00550	Peptidoglycan biosynthesis - Edwardsiella tarda EIB202
+path:etr00561	Glycerolipid metabolism - Edwardsiella tarda EIB202
+path:etr00562	Inositol phosphate metabolism - Edwardsiella tarda EIB202
+path:etr00564	Glycerophospholipid metabolism - Edwardsiella tarda EIB202
+path:etr00565	Ether lipid metabolism - Edwardsiella tarda EIB202
+path:etr00592	alpha-Linolenic acid metabolism - Edwardsiella tarda EIB202
+path:etr00600	Sphingolipid metabolism - Edwardsiella tarda EIB202
+path:etr00620	Pyruvate metabolism - Edwardsiella tarda EIB202
+path:etr00625	Chloroalkane and chloroalkene degradation - Edwardsiella tarda EIB202
+path:etr00626	Naphthalene degradation - Edwardsiella tarda EIB202
+path:etr00627	Aminobenzoate degradation - Edwardsiella tarda EIB202
+path:etr00630	Glyoxylate and dicarboxylate metabolism - Edwardsiella tarda EIB202
+path:etr00633	Nitrotoluene degradation - Edwardsiella tarda EIB202
+path:etr00640	Propanoate metabolism - Edwardsiella tarda EIB202
+path:etr00650	Butanoate metabolism - Edwardsiella tarda EIB202
+path:etr00660	C5-Branched dibasic acid metabolism - Edwardsiella tarda EIB202
+path:etr00670	One carbon pool by folate - Edwardsiella tarda EIB202
+path:etr00680	Methane metabolism - Edwardsiella tarda EIB202
+path:etr00730	Thiamine metabolism - Edwardsiella tarda EIB202
+path:etr00740	Riboflavin metabolism - Edwardsiella tarda EIB202
+path:etr00750	Vitamin B6 metabolism - Edwardsiella tarda EIB202
+path:etr00760	Nicotinate and nicotinamide metabolism - Edwardsiella tarda EIB202
+path:etr00770	Pantothenate and CoA biosynthesis - Edwardsiella tarda EIB202
+path:etr00780	Biotin metabolism - Edwardsiella tarda EIB202
+path:etr00785	Lipoic acid metabolism - Edwardsiella tarda EIB202
+path:etr00790	Folate biosynthesis - Edwardsiella tarda EIB202
+path:etr00860	Porphyrin and chlorophyll metabolism - Edwardsiella tarda EIB202
+path:etr00900	Terpenoid backbone biosynthesis - Edwardsiella tarda EIB202
+path:etr00910	Nitrogen metabolism - Edwardsiella tarda EIB202
+path:etr00920	Sulfur metabolism - Edwardsiella tarda EIB202
+path:etr00970	Aminoacyl-tRNA biosynthesis - Edwardsiella tarda EIB202
+path:etr01040	Biosynthesis of unsaturated fatty acids - Edwardsiella tarda EIB202
+path:etr01054	Nonribosomal peptide structures - Edwardsiella tarda EIB202
+path:etr01100	Metabolic pathways - Edwardsiella tarda EIB202
+path:etr01110	Biosynthesis of secondary metabolites - Edwardsiella tarda EIB202
+path:etr01120	Microbial metabolism in diverse environments - Edwardsiella tarda EIB202
+path:etr01130	Biosynthesis of antibiotics - Edwardsiella tarda EIB202
+path:etr01200	Carbon metabolism - Edwardsiella tarda EIB202
+path:etr01210	2-Oxocarboxylic acid metabolism - Edwardsiella tarda EIB202
+path:etr01212	Fatty acid metabolism - Edwardsiella tarda EIB202
+path:etr01220	Degradation of aromatic compounds - Edwardsiella tarda EIB202
+path:etr01230	Biosynthesis of amino acids - Edwardsiella tarda EIB202
+path:etr01501	beta-Lactam resistance - Edwardsiella tarda EIB202
+path:etr01502	Vancomycin resistance - Edwardsiella tarda EIB202
+path:etr01503	Cationic antimicrobial peptide (CAMP) resistance - Edwardsiella tarda EIB202
+path:etr02010	ABC transporters - Edwardsiella tarda EIB202
+path:etr02020	Two-component system - Edwardsiella tarda EIB202
+path:etr02024	Quorum sensing - Edwardsiella tarda EIB202
+path:etr02030	Bacterial chemotaxis - Edwardsiella tarda EIB202
+path:etr02040	Flagellar assembly - Edwardsiella tarda EIB202
+path:etr02060	Phosphotransferase system (PTS) - Edwardsiella tarda EIB202
+path:etr03010	Ribosome - Edwardsiella tarda EIB202
+path:etr03018	RNA degradation - Edwardsiella tarda EIB202
+path:etr03020	RNA polymerase - Edwardsiella tarda EIB202
+path:etr03030	DNA replication - Edwardsiella tarda EIB202
+path:etr03060	Protein export - Edwardsiella tarda EIB202
+path:etr03070	Bacterial secretion system - Edwardsiella tarda EIB202
+path:etr03410	Base excision repair - Edwardsiella tarda EIB202
+path:etr03420	Nucleotide excision repair - Edwardsiella tarda EIB202
+path:etr03430	Mismatch repair - Edwardsiella tarda EIB202
+path:etr03440	Homologous recombination - Edwardsiella tarda EIB202
+path:etr04122	Sulfur relay system - Edwardsiella tarda EIB202
+path:etd00010	Glycolysis / Gluconeogenesis - Edwardsiella tarda FL6-60
+path:etd00020	Citrate cycle (TCA cycle) - Edwardsiella tarda FL6-60
+path:etd00030	Pentose phosphate pathway - Edwardsiella tarda FL6-60
+path:etd00040	Pentose and glucuronate interconversions - Edwardsiella tarda FL6-60
+path:etd00051	Fructose and mannose metabolism - Edwardsiella tarda FL6-60
+path:etd00052	Galactose metabolism - Edwardsiella tarda FL6-60
+path:etd00053	Ascorbate and aldarate metabolism - Edwardsiella tarda FL6-60
+path:etd00061	Fatty acid biosynthesis - Edwardsiella tarda FL6-60
+path:etd00071	Fatty acid degradation - Edwardsiella tarda FL6-60
+path:etd00072	Synthesis and degradation of ketone bodies - Edwardsiella tarda FL6-60
+path:etd00130	Ubiquinone and other terpenoid-quinone biosynthesis - Edwardsiella tarda FL6-60
+path:etd00190	Oxidative phosphorylation - Edwardsiella tarda FL6-60
+path:etd00220	Arginine biosynthesis - Edwardsiella tarda FL6-60
+path:etd00230	Purine metabolism - Edwardsiella tarda FL6-60
+path:etd00240	Pyrimidine metabolism - Edwardsiella tarda FL6-60
+path:etd00250	Alanine, aspartate and glutamate metabolism - Edwardsiella tarda FL6-60
+path:etd00260	Glycine, serine and threonine metabolism - Edwardsiella tarda FL6-60
+path:etd00261	Monobactam biosynthesis - Edwardsiella tarda FL6-60
+path:etd00270	Cysteine and methionine metabolism - Edwardsiella tarda FL6-60
+path:etd00280	Valine, leucine and isoleucine degradation - Edwardsiella tarda FL6-60
+path:etd00290	Valine, leucine and isoleucine biosynthesis - Edwardsiella tarda FL6-60
+path:etd00300	Lysine biosynthesis - Edwardsiella tarda FL6-60
+path:etd00310	Lysine degradation - Edwardsiella tarda FL6-60
+path:etd00330	Arginine and proline metabolism - Edwardsiella tarda FL6-60
+path:etd00332	Carbapenem biosynthesis - Edwardsiella tarda FL6-60
+path:etd00340	Histidine metabolism - Edwardsiella tarda FL6-60
+path:etd00350	Tyrosine metabolism - Edwardsiella tarda FL6-60
+path:etd00360	Phenylalanine metabolism - Edwardsiella tarda FL6-60
+path:etd00380	Tryptophan metabolism - Edwardsiella tarda FL6-60
+path:etd00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Edwardsiella tarda FL6-60
+path:etd00401	Novobiocin biosynthesis - Edwardsiella tarda FL6-60
+path:etd00410	beta-Alanine metabolism - Edwardsiella tarda FL6-60
+path:etd00430	Taurine and hypotaurine metabolism - Edwardsiella tarda FL6-60
+path:etd00450	Selenocompound metabolism - Edwardsiella tarda FL6-60
+path:etd00460	Cyanoamino acid metabolism - Edwardsiella tarda FL6-60
+path:etd00471	D-Glutamine and D-glutamate metabolism - Edwardsiella tarda FL6-60
+path:etd00473	D-Alanine metabolism - Edwardsiella tarda FL6-60
+path:etd00480	Glutathione metabolism - Edwardsiella tarda FL6-60
+path:etd00500	Starch and sucrose metabolism - Edwardsiella tarda FL6-60
+path:etd00511	Other glycan degradation - Edwardsiella tarda FL6-60
+path:etd00520	Amino sugar and nucleotide sugar metabolism - Edwardsiella tarda FL6-60
+path:etd00521	Streptomycin biosynthesis - Edwardsiella tarda FL6-60
+path:etd00523	Polyketide sugar unit biosynthesis - Edwardsiella tarda FL6-60
+path:etd00525	Acarbose and validamycin biosynthesis - Edwardsiella tarda FL6-60
+path:etd00540	Lipopolysaccharide biosynthesis - Edwardsiella tarda FL6-60
+path:etd00550	Peptidoglycan biosynthesis - Edwardsiella tarda FL6-60
+path:etd00561	Glycerolipid metabolism - Edwardsiella tarda FL6-60
+path:etd00562	Inositol phosphate metabolism - Edwardsiella tarda FL6-60
+path:etd00564	Glycerophospholipid metabolism - Edwardsiella tarda FL6-60
+path:etd00565	Ether lipid metabolism - Edwardsiella tarda FL6-60
+path:etd00592	alpha-Linolenic acid metabolism - Edwardsiella tarda FL6-60
+path:etd00600	Sphingolipid metabolism - Edwardsiella tarda FL6-60
+path:etd00620	Pyruvate metabolism - Edwardsiella tarda FL6-60
+path:etd00625	Chloroalkane and chloroalkene degradation - Edwardsiella tarda FL6-60
+path:etd00626	Naphthalene degradation - Edwardsiella tarda FL6-60
+path:etd00627	Aminobenzoate degradation - Edwardsiella tarda FL6-60
+path:etd00630	Glyoxylate and dicarboxylate metabolism - Edwardsiella tarda FL6-60
+path:etd00633	Nitrotoluene degradation - Edwardsiella tarda FL6-60
+path:etd00640	Propanoate metabolism - Edwardsiella tarda FL6-60
+path:etd00650	Butanoate metabolism - Edwardsiella tarda FL6-60
+path:etd00660	C5-Branched dibasic acid metabolism - Edwardsiella tarda FL6-60
+path:etd00670	One carbon pool by folate - Edwardsiella tarda FL6-60
+path:etd00680	Methane metabolism - Edwardsiella tarda FL6-60
+path:etd00730	Thiamine metabolism - Edwardsiella tarda FL6-60
+path:etd00740	Riboflavin metabolism - Edwardsiella tarda FL6-60
+path:etd00750	Vitamin B6 metabolism - Edwardsiella tarda FL6-60
+path:etd00760	Nicotinate and nicotinamide metabolism - Edwardsiella tarda FL6-60
+path:etd00770	Pantothenate and CoA biosynthesis - Edwardsiella tarda FL6-60
+path:etd00780	Biotin metabolism - Edwardsiella tarda FL6-60
+path:etd00785	Lipoic acid metabolism - Edwardsiella tarda FL6-60
+path:etd00790	Folate biosynthesis - Edwardsiella tarda FL6-60
+path:etd00860	Porphyrin and chlorophyll metabolism - Edwardsiella tarda FL6-60
+path:etd00900	Terpenoid backbone biosynthesis - Edwardsiella tarda FL6-60
+path:etd00910	Nitrogen metabolism - Edwardsiella tarda FL6-60
+path:etd00920	Sulfur metabolism - Edwardsiella tarda FL6-60
+path:etd00970	Aminoacyl-tRNA biosynthesis - Edwardsiella tarda FL6-60
+path:etd01040	Biosynthesis of unsaturated fatty acids - Edwardsiella tarda FL6-60
+path:etd01054	Nonribosomal peptide structures - Edwardsiella tarda FL6-60
+path:etd01100	Metabolic pathways - Edwardsiella tarda FL6-60
+path:etd01110	Biosynthesis of secondary metabolites - Edwardsiella tarda FL6-60
+path:etd01120	Microbial metabolism in diverse environments - Edwardsiella tarda FL6-60
+path:etd01130	Biosynthesis of antibiotics - Edwardsiella tarda FL6-60
+path:etd01200	Carbon metabolism - Edwardsiella tarda FL6-60
+path:etd01210	2-Oxocarboxylic acid metabolism - Edwardsiella tarda FL6-60
+path:etd01212	Fatty acid metabolism - Edwardsiella tarda FL6-60
+path:etd01220	Degradation of aromatic compounds - Edwardsiella tarda FL6-60
+path:etd01230	Biosynthesis of amino acids - Edwardsiella tarda FL6-60
+path:etd01501	beta-Lactam resistance - Edwardsiella tarda FL6-60
+path:etd01502	Vancomycin resistance - Edwardsiella tarda FL6-60
+path:etd01503	Cationic antimicrobial peptide (CAMP) resistance - Edwardsiella tarda FL6-60
+path:etd02010	ABC transporters - Edwardsiella tarda FL6-60
+path:etd02020	Two-component system - Edwardsiella tarda FL6-60
+path:etd02024	Quorum sensing - Edwardsiella tarda FL6-60
+path:etd02030	Bacterial chemotaxis - Edwardsiella tarda FL6-60
+path:etd02040	Flagellar assembly - Edwardsiella tarda FL6-60
+path:etd02060	Phosphotransferase system (PTS) - Edwardsiella tarda FL6-60
+path:etd03010	Ribosome - Edwardsiella tarda FL6-60
+path:etd03018	RNA degradation - Edwardsiella tarda FL6-60
+path:etd03020	RNA polymerase - Edwardsiella tarda FL6-60
+path:etd03030	DNA replication - Edwardsiella tarda FL6-60
+path:etd03060	Protein export - Edwardsiella tarda FL6-60
+path:etd03070	Bacterial secretion system - Edwardsiella tarda FL6-60
+path:etd03410	Base excision repair - Edwardsiella tarda FL6-60
+path:etd03420	Nucleotide excision repair - Edwardsiella tarda FL6-60
+path:etd03430	Mismatch repair - Edwardsiella tarda FL6-60
+path:etd03440	Homologous recombination - Edwardsiella tarda FL6-60
+path:etd04122	Sulfur relay system - Edwardsiella tarda FL6-60
+path:ete00010	Glycolysis / Gluconeogenesis - Edwardsiella anguillarum
+path:ete00020	Citrate cycle (TCA cycle) - Edwardsiella anguillarum
+path:ete00030	Pentose phosphate pathway - Edwardsiella anguillarum
+path:ete00040	Pentose and glucuronate interconversions - Edwardsiella anguillarum
+path:ete00051	Fructose and mannose metabolism - Edwardsiella anguillarum
+path:ete00052	Galactose metabolism - Edwardsiella anguillarum
+path:ete00053	Ascorbate and aldarate metabolism - Edwardsiella anguillarum
+path:ete00061	Fatty acid biosynthesis - Edwardsiella anguillarum
+path:ete00071	Fatty acid degradation - Edwardsiella anguillarum
+path:ete00072	Synthesis and degradation of ketone bodies - Edwardsiella anguillarum
+path:ete00130	Ubiquinone and other terpenoid-quinone biosynthesis - Edwardsiella anguillarum
+path:ete00190	Oxidative phosphorylation - Edwardsiella anguillarum
+path:ete00220	Arginine biosynthesis - Edwardsiella anguillarum
+path:ete00230	Purine metabolism - Edwardsiella anguillarum
+path:ete00240	Pyrimidine metabolism - Edwardsiella anguillarum
+path:ete00250	Alanine, aspartate and glutamate metabolism - Edwardsiella anguillarum
+path:ete00260	Glycine, serine and threonine metabolism - Edwardsiella anguillarum
+path:ete00261	Monobactam biosynthesis - Edwardsiella anguillarum
+path:ete00270	Cysteine and methionine metabolism - Edwardsiella anguillarum
+path:ete00280	Valine, leucine and isoleucine degradation - Edwardsiella anguillarum
+path:ete00290	Valine, leucine and isoleucine biosynthesis - Edwardsiella anguillarum
+path:ete00300	Lysine biosynthesis - Edwardsiella anguillarum
+path:ete00310	Lysine degradation - Edwardsiella anguillarum
+path:ete00330	Arginine and proline metabolism - Edwardsiella anguillarum
+path:ete00332	Carbapenem biosynthesis - Edwardsiella anguillarum
+path:ete00340	Histidine metabolism - Edwardsiella anguillarum
+path:ete00350	Tyrosine metabolism - Edwardsiella anguillarum
+path:ete00360	Phenylalanine metabolism - Edwardsiella anguillarum
+path:ete00380	Tryptophan metabolism - Edwardsiella anguillarum
+path:ete00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Edwardsiella anguillarum
+path:ete00401	Novobiocin biosynthesis - Edwardsiella anguillarum
+path:ete00410	beta-Alanine metabolism - Edwardsiella anguillarum
+path:ete00430	Taurine and hypotaurine metabolism - Edwardsiella anguillarum
+path:ete00440	Phosphonate and phosphinate metabolism - Edwardsiella anguillarum
+path:ete00450	Selenocompound metabolism - Edwardsiella anguillarum
+path:ete00460	Cyanoamino acid metabolism - Edwardsiella anguillarum
+path:ete00471	D-Glutamine and D-glutamate metabolism - Edwardsiella anguillarum
+path:ete00473	D-Alanine metabolism - Edwardsiella anguillarum
+path:ete00480	Glutathione metabolism - Edwardsiella anguillarum
+path:ete00500	Starch and sucrose metabolism - Edwardsiella anguillarum
+path:ete00511	Other glycan degradation - Edwardsiella anguillarum
+path:ete00520	Amino sugar and nucleotide sugar metabolism - Edwardsiella anguillarum
+path:ete00521	Streptomycin biosynthesis - Edwardsiella anguillarum
+path:ete00523	Polyketide sugar unit biosynthesis - Edwardsiella anguillarum
+path:ete00525	Acarbose and validamycin biosynthesis - Edwardsiella anguillarum
+path:ete00540	Lipopolysaccharide biosynthesis - Edwardsiella anguillarum
+path:ete00550	Peptidoglycan biosynthesis - Edwardsiella anguillarum
+path:ete00561	Glycerolipid metabolism - Edwardsiella anguillarum
+path:ete00562	Inositol phosphate metabolism - Edwardsiella anguillarum
+path:ete00564	Glycerophospholipid metabolism - Edwardsiella anguillarum
+path:ete00565	Ether lipid metabolism - Edwardsiella anguillarum
+path:ete00592	alpha-Linolenic acid metabolism - Edwardsiella anguillarum
+path:ete00600	Sphingolipid metabolism - Edwardsiella anguillarum
+path:ete00620	Pyruvate metabolism - Edwardsiella anguillarum
+path:ete00625	Chloroalkane and chloroalkene degradation - Edwardsiella anguillarum
+path:ete00626	Naphthalene degradation - Edwardsiella anguillarum
+path:ete00627	Aminobenzoate degradation - Edwardsiella anguillarum
+path:ete00630	Glyoxylate and dicarboxylate metabolism - Edwardsiella anguillarum
+path:ete00633	Nitrotoluene degradation - Edwardsiella anguillarum
+path:ete00640	Propanoate metabolism - Edwardsiella anguillarum
+path:ete00650	Butanoate metabolism - Edwardsiella anguillarum
+path:ete00660	C5-Branched dibasic acid metabolism - Edwardsiella anguillarum
+path:ete00670	One carbon pool by folate - Edwardsiella anguillarum
+path:ete00680	Methane metabolism - Edwardsiella anguillarum
+path:ete00730	Thiamine metabolism - Edwardsiella anguillarum
+path:ete00740	Riboflavin metabolism - Edwardsiella anguillarum
+path:ete00750	Vitamin B6 metabolism - Edwardsiella anguillarum
+path:ete00760	Nicotinate and nicotinamide metabolism - Edwardsiella anguillarum
+path:ete00770	Pantothenate and CoA biosynthesis - Edwardsiella anguillarum
+path:ete00780	Biotin metabolism - Edwardsiella anguillarum
+path:ete00785	Lipoic acid metabolism - Edwardsiella anguillarum
+path:ete00790	Folate biosynthesis - Edwardsiella anguillarum
+path:ete00860	Porphyrin and chlorophyll metabolism - Edwardsiella anguillarum
+path:ete00900	Terpenoid backbone biosynthesis - Edwardsiella anguillarum
+path:ete00910	Nitrogen metabolism - Edwardsiella anguillarum
+path:ete00920	Sulfur metabolism - Edwardsiella anguillarum
+path:ete00970	Aminoacyl-tRNA biosynthesis - Edwardsiella anguillarum
+path:ete01040	Biosynthesis of unsaturated fatty acids - Edwardsiella anguillarum
+path:ete01054	Nonribosomal peptide structures - Edwardsiella anguillarum
+path:ete01100	Metabolic pathways - Edwardsiella anguillarum
+path:ete01110	Biosynthesis of secondary metabolites - Edwardsiella anguillarum
+path:ete01120	Microbial metabolism in diverse environments - Edwardsiella anguillarum
+path:ete01130	Biosynthesis of antibiotics - Edwardsiella anguillarum
+path:ete01200	Carbon metabolism - Edwardsiella anguillarum
+path:ete01210	2-Oxocarboxylic acid metabolism - Edwardsiella anguillarum
+path:ete01212	Fatty acid metabolism - Edwardsiella anguillarum
+path:ete01220	Degradation of aromatic compounds - Edwardsiella anguillarum
+path:ete01230	Biosynthesis of amino acids - Edwardsiella anguillarum
+path:ete01501	beta-Lactam resistance - Edwardsiella anguillarum
+path:ete01502	Vancomycin resistance - Edwardsiella anguillarum
+path:ete01503	Cationic antimicrobial peptide (CAMP) resistance - Edwardsiella anguillarum
+path:ete02010	ABC transporters - Edwardsiella anguillarum
+path:ete02020	Two-component system - Edwardsiella anguillarum
+path:ete02024	Quorum sensing - Edwardsiella anguillarum
+path:ete02030	Bacterial chemotaxis - Edwardsiella anguillarum
+path:ete02040	Flagellar assembly - Edwardsiella anguillarum
+path:ete02060	Phosphotransferase system (PTS) - Edwardsiella anguillarum
+path:ete03010	Ribosome - Edwardsiella anguillarum
+path:ete03018	RNA degradation - Edwardsiella anguillarum
+path:ete03020	RNA polymerase - Edwardsiella anguillarum
+path:ete03030	DNA replication - Edwardsiella anguillarum
+path:ete03060	Protein export - Edwardsiella anguillarum
+path:ete03070	Bacterial secretion system - Edwardsiella anguillarum
+path:ete03410	Base excision repair - Edwardsiella anguillarum
+path:ete03420	Nucleotide excision repair - Edwardsiella anguillarum
+path:ete03430	Mismatch repair - Edwardsiella anguillarum
+path:ete03440	Homologous recombination - Edwardsiella anguillarum
+path:ete04122	Sulfur relay system - Edwardsiella anguillarum
+path:etc00010	Glycolysis / Gluconeogenesis - Edwardsiella piscicida C07-087
+path:etc00020	Citrate cycle (TCA cycle) - Edwardsiella piscicida C07-087
+path:etc00030	Pentose phosphate pathway - Edwardsiella piscicida C07-087
+path:etc00040	Pentose and glucuronate interconversions - Edwardsiella piscicida C07-087
+path:etc00051	Fructose and mannose metabolism - Edwardsiella piscicida C07-087
+path:etc00052	Galactose metabolism - Edwardsiella piscicida C07-087
+path:etc00053	Ascorbate and aldarate metabolism - Edwardsiella piscicida C07-087
+path:etc00061	Fatty acid biosynthesis - Edwardsiella piscicida C07-087
+path:etc00071	Fatty acid degradation - Edwardsiella piscicida C07-087
+path:etc00072	Synthesis and degradation of ketone bodies - Edwardsiella piscicida C07-087
+path:etc00130	Ubiquinone and other terpenoid-quinone biosynthesis - Edwardsiella piscicida C07-087
+path:etc00190	Oxidative phosphorylation - Edwardsiella piscicida C07-087
+path:etc00220	Arginine biosynthesis - Edwardsiella piscicida C07-087
+path:etc00230	Purine metabolism - Edwardsiella piscicida C07-087
+path:etc00240	Pyrimidine metabolism - Edwardsiella piscicida C07-087
+path:etc00250	Alanine, aspartate and glutamate metabolism - Edwardsiella piscicida C07-087
+path:etc00260	Glycine, serine and threonine metabolism - Edwardsiella piscicida C07-087
+path:etc00261	Monobactam biosynthesis - Edwardsiella piscicida C07-087
+path:etc00270	Cysteine and methionine metabolism - Edwardsiella piscicida C07-087
+path:etc00280	Valine, leucine and isoleucine degradation - Edwardsiella piscicida C07-087
+path:etc00290	Valine, leucine and isoleucine biosynthesis - Edwardsiella piscicida C07-087
+path:etc00300	Lysine biosynthesis - Edwardsiella piscicida C07-087
+path:etc00310	Lysine degradation - Edwardsiella piscicida C07-087
+path:etc00330	Arginine and proline metabolism - Edwardsiella piscicida C07-087
+path:etc00332	Carbapenem biosynthesis - Edwardsiella piscicida C07-087
+path:etc00340	Histidine metabolism - Edwardsiella piscicida C07-087
+path:etc00350	Tyrosine metabolism - Edwardsiella piscicida C07-087
+path:etc00360	Phenylalanine metabolism - Edwardsiella piscicida C07-087
+path:etc00380	Tryptophan metabolism - Edwardsiella piscicida C07-087
+path:etc00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Edwardsiella piscicida C07-087
+path:etc00401	Novobiocin biosynthesis - Edwardsiella piscicida C07-087
+path:etc00410	beta-Alanine metabolism - Edwardsiella piscicida C07-087
+path:etc00430	Taurine and hypotaurine metabolism - Edwardsiella piscicida C07-087
+path:etc00450	Selenocompound metabolism - Edwardsiella piscicida C07-087
+path:etc00460	Cyanoamino acid metabolism - Edwardsiella piscicida C07-087
+path:etc00471	D-Glutamine and D-glutamate metabolism - Edwardsiella piscicida C07-087
+path:etc00473	D-Alanine metabolism - Edwardsiella piscicida C07-087
+path:etc00480	Glutathione metabolism - Edwardsiella piscicida C07-087
+path:etc00500	Starch and sucrose metabolism - Edwardsiella piscicida C07-087
+path:etc00511	Other glycan degradation - Edwardsiella piscicida C07-087
+path:etc00520	Amino sugar and nucleotide sugar metabolism - Edwardsiella piscicida C07-087
+path:etc00521	Streptomycin biosynthesis - Edwardsiella piscicida C07-087
+path:etc00523	Polyketide sugar unit biosynthesis - Edwardsiella piscicida C07-087
+path:etc00525	Acarbose and validamycin biosynthesis - Edwardsiella piscicida C07-087
+path:etc00540	Lipopolysaccharide biosynthesis - Edwardsiella piscicida C07-087
+path:etc00550	Peptidoglycan biosynthesis - Edwardsiella piscicida C07-087
+path:etc00561	Glycerolipid metabolism - Edwardsiella piscicida C07-087
+path:etc00562	Inositol phosphate metabolism - Edwardsiella piscicida C07-087
+path:etc00564	Glycerophospholipid metabolism - Edwardsiella piscicida C07-087
+path:etc00565	Ether lipid metabolism - Edwardsiella piscicida C07-087
+path:etc00592	alpha-Linolenic acid metabolism - Edwardsiella piscicida C07-087
+path:etc00600	Sphingolipid metabolism - Edwardsiella piscicida C07-087
+path:etc00620	Pyruvate metabolism - Edwardsiella piscicida C07-087
+path:etc00625	Chloroalkane and chloroalkene degradation - Edwardsiella piscicida C07-087
+path:etc00626	Naphthalene degradation - Edwardsiella piscicida C07-087
+path:etc00627	Aminobenzoate degradation - Edwardsiella piscicida C07-087
+path:etc00630	Glyoxylate and dicarboxylate metabolism - Edwardsiella piscicida C07-087
+path:etc00633	Nitrotoluene degradation - Edwardsiella piscicida C07-087
+path:etc00640	Propanoate metabolism - Edwardsiella piscicida C07-087
+path:etc00650	Butanoate metabolism - Edwardsiella piscicida C07-087
+path:etc00660	C5-Branched dibasic acid metabolism - Edwardsiella piscicida C07-087
+path:etc00670	One carbon pool by folate - Edwardsiella piscicida C07-087
+path:etc00680	Methane metabolism - Edwardsiella piscicida C07-087
+path:etc00730	Thiamine metabolism - Edwardsiella piscicida C07-087
+path:etc00740	Riboflavin metabolism - Edwardsiella piscicida C07-087
+path:etc00750	Vitamin B6 metabolism - Edwardsiella piscicida C07-087
+path:etc00760	Nicotinate and nicotinamide metabolism - Edwardsiella piscicida C07-087
+path:etc00770	Pantothenate and CoA biosynthesis - Edwardsiella piscicida C07-087
+path:etc00780	Biotin metabolism - Edwardsiella piscicida C07-087
+path:etc00785	Lipoic acid metabolism - Edwardsiella piscicida C07-087
+path:etc00790	Folate biosynthesis - Edwardsiella piscicida C07-087
+path:etc00860	Porphyrin and chlorophyll metabolism - Edwardsiella piscicida C07-087
+path:etc00900	Terpenoid backbone biosynthesis - Edwardsiella piscicida C07-087
+path:etc00910	Nitrogen metabolism - Edwardsiella piscicida C07-087
+path:etc00920	Sulfur metabolism - Edwardsiella piscicida C07-087
+path:etc00970	Aminoacyl-tRNA biosynthesis - Edwardsiella piscicida C07-087
+path:etc01040	Biosynthesis of unsaturated fatty acids - Edwardsiella piscicida C07-087
+path:etc01054	Nonribosomal peptide structures - Edwardsiella piscicida C07-087
+path:etc01100	Metabolic pathways - Edwardsiella piscicida C07-087
+path:etc01110	Biosynthesis of secondary metabolites - Edwardsiella piscicida C07-087
+path:etc01120	Microbial metabolism in diverse environments - Edwardsiella piscicida C07-087
+path:etc01130	Biosynthesis of antibiotics - Edwardsiella piscicida C07-087
+path:etc01200	Carbon metabolism - Edwardsiella piscicida C07-087
+path:etc01210	2-Oxocarboxylic acid metabolism - Edwardsiella piscicida C07-087
+path:etc01212	Fatty acid metabolism - Edwardsiella piscicida C07-087
+path:etc01220	Degradation of aromatic compounds - Edwardsiella piscicida C07-087
+path:etc01230	Biosynthesis of amino acids - Edwardsiella piscicida C07-087
+path:etc01501	beta-Lactam resistance - Edwardsiella piscicida C07-087
+path:etc01502	Vancomycin resistance - Edwardsiella piscicida C07-087
+path:etc01503	Cationic antimicrobial peptide (CAMP) resistance - Edwardsiella piscicida C07-087
+path:etc02010	ABC transporters - Edwardsiella piscicida C07-087
+path:etc02020	Two-component system - Edwardsiella piscicida C07-087
+path:etc02024	Quorum sensing - Edwardsiella piscicida C07-087
+path:etc02030	Bacterial chemotaxis - Edwardsiella piscicida C07-087
+path:etc02040	Flagellar assembly - Edwardsiella piscicida C07-087
+path:etc02060	Phosphotransferase system (PTS) - Edwardsiella piscicida C07-087
+path:etc03010	Ribosome - Edwardsiella piscicida C07-087
+path:etc03018	RNA degradation - Edwardsiella piscicida C07-087
+path:etc03020	RNA polymerase - Edwardsiella piscicida C07-087
+path:etc03030	DNA replication - Edwardsiella piscicida C07-087
+path:etc03060	Protein export - Edwardsiella piscicida C07-087
+path:etc03070	Bacterial secretion system - Edwardsiella piscicida C07-087
+path:etc03410	Base excision repair - Edwardsiella piscicida C07-087
+path:etc03420	Nucleotide excision repair - Edwardsiella piscicida C07-087
+path:etc03430	Mismatch repair - Edwardsiella piscicida C07-087
+path:etc03440	Homologous recombination - Edwardsiella piscicida C07-087
+path:etc04122	Sulfur relay system - Edwardsiella piscicida C07-087
+path:edw00010	Glycolysis / Gluconeogenesis - Edwardsiella sp. EA181011
+path:edw00020	Citrate cycle (TCA cycle) - Edwardsiella sp. EA181011
+path:edw00030	Pentose phosphate pathway - Edwardsiella sp. EA181011
+path:edw00040	Pentose and glucuronate interconversions - Edwardsiella sp. EA181011
+path:edw00051	Fructose and mannose metabolism - Edwardsiella sp. EA181011
+path:edw00052	Galactose metabolism - Edwardsiella sp. EA181011
+path:edw00053	Ascorbate and aldarate metabolism - Edwardsiella sp. EA181011
+path:edw00061	Fatty acid biosynthesis - Edwardsiella sp. EA181011
+path:edw00071	Fatty acid degradation - Edwardsiella sp. EA181011
+path:edw00072	Synthesis and degradation of ketone bodies - Edwardsiella sp. EA181011
+path:edw00130	Ubiquinone and other terpenoid-quinone biosynthesis - Edwardsiella sp. EA181011
+path:edw00190	Oxidative phosphorylation - Edwardsiella sp. EA181011
+path:edw00220	Arginine biosynthesis - Edwardsiella sp. EA181011
+path:edw00230	Purine metabolism - Edwardsiella sp. EA181011
+path:edw00240	Pyrimidine metabolism - Edwardsiella sp. EA181011
+path:edw00250	Alanine, aspartate and glutamate metabolism - Edwardsiella sp. EA181011
+path:edw00260	Glycine, serine and threonine metabolism - Edwardsiella sp. EA181011
+path:edw00261	Monobactam biosynthesis - Edwardsiella sp. EA181011
+path:edw00270	Cysteine and methionine metabolism - Edwardsiella sp. EA181011
+path:edw00280	Valine, leucine and isoleucine degradation - Edwardsiella sp. EA181011
+path:edw00290	Valine, leucine and isoleucine biosynthesis - Edwardsiella sp. EA181011
+path:edw00300	Lysine biosynthesis - Edwardsiella sp. EA181011
+path:edw00310	Lysine degradation - Edwardsiella sp. EA181011
+path:edw00330	Arginine and proline metabolism - Edwardsiella sp. EA181011
+path:edw00332	Carbapenem biosynthesis - Edwardsiella sp. EA181011
+path:edw00340	Histidine metabolism - Edwardsiella sp. EA181011
+path:edw00350	Tyrosine metabolism - Edwardsiella sp. EA181011
+path:edw00360	Phenylalanine metabolism - Edwardsiella sp. EA181011
+path:edw00380	Tryptophan metabolism - Edwardsiella sp. EA181011
+path:edw00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Edwardsiella sp. EA181011
+path:edw00401	Novobiocin biosynthesis - Edwardsiella sp. EA181011
+path:edw00410	beta-Alanine metabolism - Edwardsiella sp. EA181011
+path:edw00430	Taurine and hypotaurine metabolism - Edwardsiella sp. EA181011
+path:edw00440	Phosphonate and phosphinate metabolism - Edwardsiella sp. EA181011
+path:edw00450	Selenocompound metabolism - Edwardsiella sp. EA181011
+path:edw00460	Cyanoamino acid metabolism - Edwardsiella sp. EA181011
+path:edw00471	D-Glutamine and D-glutamate metabolism - Edwardsiella sp. EA181011
+path:edw00473	D-Alanine metabolism - Edwardsiella sp. EA181011
+path:edw00480	Glutathione metabolism - Edwardsiella sp. EA181011
+path:edw00500	Starch and sucrose metabolism - Edwardsiella sp. EA181011
+path:edw00511	Other glycan degradation - Edwardsiella sp. EA181011
+path:edw00520	Amino sugar and nucleotide sugar metabolism - Edwardsiella sp. EA181011
+path:edw00521	Streptomycin biosynthesis - Edwardsiella sp. EA181011
+path:edw00523	Polyketide sugar unit biosynthesis - Edwardsiella sp. EA181011
+path:edw00525	Acarbose and validamycin biosynthesis - Edwardsiella sp. EA181011
+path:edw00540	Lipopolysaccharide biosynthesis - Edwardsiella sp. EA181011
+path:edw00550	Peptidoglycan biosynthesis - Edwardsiella sp. EA181011
+path:edw00561	Glycerolipid metabolism - Edwardsiella sp. EA181011
+path:edw00562	Inositol phosphate metabolism - Edwardsiella sp. EA181011
+path:edw00564	Glycerophospholipid metabolism - Edwardsiella sp. EA181011
+path:edw00565	Ether lipid metabolism - Edwardsiella sp. EA181011
+path:edw00592	alpha-Linolenic acid metabolism - Edwardsiella sp. EA181011
+path:edw00600	Sphingolipid metabolism - Edwardsiella sp. EA181011
+path:edw00620	Pyruvate metabolism - Edwardsiella sp. EA181011
+path:edw00625	Chloroalkane and chloroalkene degradation - Edwardsiella sp. EA181011
+path:edw00626	Naphthalene degradation - Edwardsiella sp. EA181011
+path:edw00627	Aminobenzoate degradation - Edwardsiella sp. EA181011
+path:edw00630	Glyoxylate and dicarboxylate metabolism - Edwardsiella sp. EA181011
+path:edw00633	Nitrotoluene degradation - Edwardsiella sp. EA181011
+path:edw00640	Propanoate metabolism - Edwardsiella sp. EA181011
+path:edw00650	Butanoate metabolism - Edwardsiella sp. EA181011
+path:edw00660	C5-Branched dibasic acid metabolism - Edwardsiella sp. EA181011
+path:edw00670	One carbon pool by folate - Edwardsiella sp. EA181011
+path:edw00680	Methane metabolism - Edwardsiella sp. EA181011
+path:edw00730	Thiamine metabolism - Edwardsiella sp. EA181011
+path:edw00740	Riboflavin metabolism - Edwardsiella sp. EA181011
+path:edw00750	Vitamin B6 metabolism - Edwardsiella sp. EA181011
+path:edw00760	Nicotinate and nicotinamide metabolism - Edwardsiella sp. EA181011
+path:edw00770	Pantothenate and CoA biosynthesis - Edwardsiella sp. EA181011
+path:edw00780	Biotin metabolism - Edwardsiella sp. EA181011
+path:edw00785	Lipoic acid metabolism - Edwardsiella sp. EA181011
+path:edw00790	Folate biosynthesis - Edwardsiella sp. EA181011
+path:edw00860	Porphyrin and chlorophyll metabolism - Edwardsiella sp. EA181011
+path:edw00900	Terpenoid backbone biosynthesis - Edwardsiella sp. EA181011
+path:edw00910	Nitrogen metabolism - Edwardsiella sp. EA181011
+path:edw00920	Sulfur metabolism - Edwardsiella sp. EA181011
+path:edw00970	Aminoacyl-tRNA biosynthesis - Edwardsiella sp. EA181011
+path:edw01040	Biosynthesis of unsaturated fatty acids - Edwardsiella sp. EA181011
+path:edw01054	Nonribosomal peptide structures - Edwardsiella sp. EA181011
+path:edw01100	Metabolic pathways - Edwardsiella sp. EA181011
+path:edw01110	Biosynthesis of secondary metabolites - Edwardsiella sp. EA181011
+path:edw01120	Microbial metabolism in diverse environments - Edwardsiella sp. EA181011
+path:edw01130	Biosynthesis of antibiotics - Edwardsiella sp. EA181011
+path:edw01200	Carbon metabolism - Edwardsiella sp. EA181011
+path:edw01210	2-Oxocarboxylic acid metabolism - Edwardsiella sp. EA181011
+path:edw01212	Fatty acid metabolism - Edwardsiella sp. EA181011
+path:edw01220	Degradation of aromatic compounds - Edwardsiella sp. EA181011
+path:edw01230	Biosynthesis of amino acids - Edwardsiella sp. EA181011
+path:edw01501	beta-Lactam resistance - Edwardsiella sp. EA181011
+path:edw01502	Vancomycin resistance - Edwardsiella sp. EA181011
+path:edw01503	Cationic antimicrobial peptide (CAMP) resistance - Edwardsiella sp. EA181011
+path:edw02010	ABC transporters - Edwardsiella sp. EA181011
+path:edw02020	Two-component system - Edwardsiella sp. EA181011
+path:edw02024	Quorum sensing - Edwardsiella sp. EA181011
+path:edw02030	Bacterial chemotaxis - Edwardsiella sp. EA181011
+path:edw02040	Flagellar assembly - Edwardsiella sp. EA181011
+path:edw02060	Phosphotransferase system (PTS) - Edwardsiella sp. EA181011
+path:edw03010	Ribosome - Edwardsiella sp. EA181011
+path:edw03018	RNA degradation - Edwardsiella sp. EA181011
+path:edw03020	RNA polymerase - Edwardsiella sp. EA181011
+path:edw03030	DNA replication - Edwardsiella sp. EA181011
+path:edw03060	Protein export - Edwardsiella sp. EA181011
+path:edw03070	Bacterial secretion system - Edwardsiella sp. EA181011
+path:edw03410	Base excision repair - Edwardsiella sp. EA181011
+path:edw03420	Nucleotide excision repair - Edwardsiella sp. EA181011
+path:edw03430	Mismatch repair - Edwardsiella sp. EA181011
+path:edw03440	Homologous recombination - Edwardsiella sp. EA181011
+path:edw04122	Sulfur relay system - Edwardsiella sp. EA181011
+path:edl00010	Glycolysis / Gluconeogenesis - Edwardsiella sp. LADL05-105
+path:edl00020	Citrate cycle (TCA cycle) - Edwardsiella sp. LADL05-105
+path:edl00030	Pentose phosphate pathway - Edwardsiella sp. LADL05-105
+path:edl00040	Pentose and glucuronate interconversions - Edwardsiella sp. LADL05-105
+path:edl00051	Fructose and mannose metabolism - Edwardsiella sp. LADL05-105
+path:edl00052	Galactose metabolism - Edwardsiella sp. LADL05-105
+path:edl00053	Ascorbate and aldarate metabolism - Edwardsiella sp. LADL05-105
+path:edl00061	Fatty acid biosynthesis - Edwardsiella sp. LADL05-105
+path:edl00071	Fatty acid degradation - Edwardsiella sp. LADL05-105
+path:edl00072	Synthesis and degradation of ketone bodies - Edwardsiella sp. LADL05-105
+path:edl00130	Ubiquinone and other terpenoid-quinone biosynthesis - Edwardsiella sp. LADL05-105
+path:edl00190	Oxidative phosphorylation - Edwardsiella sp. LADL05-105
+path:edl00220	Arginine biosynthesis - Edwardsiella sp. LADL05-105
+path:edl00230	Purine metabolism - Edwardsiella sp. LADL05-105
+path:edl00240	Pyrimidine metabolism - Edwardsiella sp. LADL05-105
+path:edl00250	Alanine, aspartate and glutamate metabolism - Edwardsiella sp. LADL05-105
+path:edl00260	Glycine, serine and threonine metabolism - Edwardsiella sp. LADL05-105
+path:edl00261	Monobactam biosynthesis - Edwardsiella sp. LADL05-105
+path:edl00270	Cysteine and methionine metabolism - Edwardsiella sp. LADL05-105
+path:edl00280	Valine, leucine and isoleucine degradation - Edwardsiella sp. LADL05-105
+path:edl00290	Valine, leucine and isoleucine biosynthesis - Edwardsiella sp. LADL05-105
+path:edl00300	Lysine biosynthesis - Edwardsiella sp. LADL05-105
+path:edl00310	Lysine degradation - Edwardsiella sp. LADL05-105
+path:edl00330	Arginine and proline metabolism - Edwardsiella sp. LADL05-105
+path:edl00332	Carbapenem biosynthesis - Edwardsiella sp. LADL05-105
+path:edl00340	Histidine metabolism - Edwardsiella sp. LADL05-105
+path:edl00350	Tyrosine metabolism - Edwardsiella sp. LADL05-105
+path:edl00360	Phenylalanine metabolism - Edwardsiella sp. LADL05-105
+path:edl00380	Tryptophan metabolism - Edwardsiella sp. LADL05-105
+path:edl00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Edwardsiella sp. LADL05-105
+path:edl00401	Novobiocin biosynthesis - Edwardsiella sp. LADL05-105
+path:edl00410	beta-Alanine metabolism - Edwardsiella sp. LADL05-105
+path:edl00430	Taurine and hypotaurine metabolism - Edwardsiella sp. LADL05-105
+path:edl00440	Phosphonate and phosphinate metabolism - Edwardsiella sp. LADL05-105
+path:edl00450	Selenocompound metabolism - Edwardsiella sp. LADL05-105
+path:edl00460	Cyanoamino acid metabolism - Edwardsiella sp. LADL05-105
+path:edl00471	D-Glutamine and D-glutamate metabolism - Edwardsiella sp. LADL05-105
+path:edl00473	D-Alanine metabolism - Edwardsiella sp. LADL05-105
+path:edl00480	Glutathione metabolism - Edwardsiella sp. LADL05-105
+path:edl00500	Starch and sucrose metabolism - Edwardsiella sp. LADL05-105
+path:edl00511	Other glycan degradation - Edwardsiella sp. LADL05-105
+path:edl00520	Amino sugar and nucleotide sugar metabolism - Edwardsiella sp. LADL05-105
+path:edl00521	Streptomycin biosynthesis - Edwardsiella sp. LADL05-105
+path:edl00523	Polyketide sugar unit biosynthesis - Edwardsiella sp. LADL05-105
+path:edl00525	Acarbose and validamycin biosynthesis - Edwardsiella sp. LADL05-105
+path:edl00540	Lipopolysaccharide biosynthesis - Edwardsiella sp. LADL05-105
+path:edl00550	Peptidoglycan biosynthesis - Edwardsiella sp. LADL05-105
+path:edl00561	Glycerolipid metabolism - Edwardsiella sp. LADL05-105
+path:edl00562	Inositol phosphate metabolism - Edwardsiella sp. LADL05-105
+path:edl00564	Glycerophospholipid metabolism - Edwardsiella sp. LADL05-105
+path:edl00565	Ether lipid metabolism - Edwardsiella sp. LADL05-105
+path:edl00592	alpha-Linolenic acid metabolism - Edwardsiella sp. LADL05-105
+path:edl00600	Sphingolipid metabolism - Edwardsiella sp. LADL05-105
+path:edl00620	Pyruvate metabolism - Edwardsiella sp. LADL05-105
+path:edl00625	Chloroalkane and chloroalkene degradation - Edwardsiella sp. LADL05-105
+path:edl00626	Naphthalene degradation - Edwardsiella sp. LADL05-105
+path:edl00627	Aminobenzoate degradation - Edwardsiella sp. LADL05-105
+path:edl00630	Glyoxylate and dicarboxylate metabolism - Edwardsiella sp. LADL05-105
+path:edl00633	Nitrotoluene degradation - Edwardsiella sp. LADL05-105
+path:edl00640	Propanoate metabolism - Edwardsiella sp. LADL05-105
+path:edl00650	Butanoate metabolism - Edwardsiella sp. LADL05-105
+path:edl00660	C5-Branched dibasic acid metabolism - Edwardsiella sp. LADL05-105
+path:edl00670	One carbon pool by folate - Edwardsiella sp. LADL05-105
+path:edl00680	Methane metabolism - Edwardsiella sp. LADL05-105
+path:edl00730	Thiamine metabolism - Edwardsiella sp. LADL05-105
+path:edl00740	Riboflavin metabolism - Edwardsiella sp. LADL05-105
+path:edl00750	Vitamin B6 metabolism - Edwardsiella sp. LADL05-105
+path:edl00760	Nicotinate and nicotinamide metabolism - Edwardsiella sp. LADL05-105
+path:edl00770	Pantothenate and CoA biosynthesis - Edwardsiella sp. LADL05-105
+path:edl00780	Biotin metabolism - Edwardsiella sp. LADL05-105
+path:edl00785	Lipoic acid metabolism - Edwardsiella sp. LADL05-105
+path:edl00790	Folate biosynthesis - Edwardsiella sp. LADL05-105
+path:edl00860	Porphyrin and chlorophyll metabolism - Edwardsiella sp. LADL05-105
+path:edl00900	Terpenoid backbone biosynthesis - Edwardsiella sp. LADL05-105
+path:edl00910	Nitrogen metabolism - Edwardsiella sp. LADL05-105
+path:edl00920	Sulfur metabolism - Edwardsiella sp. LADL05-105
+path:edl00970	Aminoacyl-tRNA biosynthesis - Edwardsiella sp. LADL05-105
+path:edl01040	Biosynthesis of unsaturated fatty acids - Edwardsiella sp. LADL05-105
+path:edl01054	Nonribosomal peptide structures - Edwardsiella sp. LADL05-105
+path:edl01100	Metabolic pathways - Edwardsiella sp. LADL05-105
+path:edl01110	Biosynthesis of secondary metabolites - Edwardsiella sp. LADL05-105
+path:edl01120	Microbial metabolism in diverse environments - Edwardsiella sp. LADL05-105
+path:edl01130	Biosynthesis of antibiotics - Edwardsiella sp. LADL05-105
+path:edl01200	Carbon metabolism - Edwardsiella sp. LADL05-105
+path:edl01210	2-Oxocarboxylic acid metabolism - Edwardsiella sp. LADL05-105
+path:edl01212	Fatty acid metabolism - Edwardsiella sp. LADL05-105
+path:edl01220	Degradation of aromatic compounds - Edwardsiella sp. LADL05-105
+path:edl01230	Biosynthesis of amino acids - Edwardsiella sp. LADL05-105
+path:edl01501	beta-Lactam resistance - Edwardsiella sp. LADL05-105
+path:edl01502	Vancomycin resistance - Edwardsiella sp. LADL05-105
+path:edl01503	Cationic antimicrobial peptide (CAMP) resistance - Edwardsiella sp. LADL05-105
+path:edl02010	ABC transporters - Edwardsiella sp. LADL05-105
+path:edl02020	Two-component system - Edwardsiella sp. LADL05-105
+path:edl02024	Quorum sensing - Edwardsiella sp. LADL05-105
+path:edl02030	Bacterial chemotaxis - Edwardsiella sp. LADL05-105
+path:edl02040	Flagellar assembly - Edwardsiella sp. LADL05-105
+path:edl02060	Phosphotransferase system (PTS) - Edwardsiella sp. LADL05-105
+path:edl03010	Ribosome - Edwardsiella sp. LADL05-105
+path:edl03018	RNA degradation - Edwardsiella sp. LADL05-105
+path:edl03020	RNA polymerase - Edwardsiella sp. LADL05-105
+path:edl03030	DNA replication - Edwardsiella sp. LADL05-105
+path:edl03060	Protein export - Edwardsiella sp. LADL05-105
+path:edl03070	Bacterial secretion system - Edwardsiella sp. LADL05-105
+path:edl03410	Base excision repair - Edwardsiella sp. LADL05-105
+path:edl03420	Nucleotide excision repair - Edwardsiella sp. LADL05-105
+path:edl03430	Mismatch repair - Edwardsiella sp. LADL05-105
+path:edl03440	Homologous recombination - Edwardsiella sp. LADL05-105
+path:edl04122	Sulfur relay system - Edwardsiella sp. LADL05-105
+path:eho00010	Glycolysis / Gluconeogenesis - Edwardsiella hoshinae
+path:eho00020	Citrate cycle (TCA cycle) - Edwardsiella hoshinae
+path:eho00030	Pentose phosphate pathway - Edwardsiella hoshinae
+path:eho00040	Pentose and glucuronate interconversions - Edwardsiella hoshinae
+path:eho00051	Fructose and mannose metabolism - Edwardsiella hoshinae
+path:eho00052	Galactose metabolism - Edwardsiella hoshinae
+path:eho00053	Ascorbate and aldarate metabolism - Edwardsiella hoshinae
+path:eho00061	Fatty acid biosynthesis - Edwardsiella hoshinae
+path:eho00071	Fatty acid degradation - Edwardsiella hoshinae
+path:eho00072	Synthesis and degradation of ketone bodies - Edwardsiella hoshinae
+path:eho00130	Ubiquinone and other terpenoid-quinone biosynthesis - Edwardsiella hoshinae
+path:eho00190	Oxidative phosphorylation - Edwardsiella hoshinae
+path:eho00220	Arginine biosynthesis - Edwardsiella hoshinae
+path:eho00230	Purine metabolism - Edwardsiella hoshinae
+path:eho00240	Pyrimidine metabolism - Edwardsiella hoshinae
+path:eho00250	Alanine, aspartate and glutamate metabolism - Edwardsiella hoshinae
+path:eho00260	Glycine, serine and threonine metabolism - Edwardsiella hoshinae
+path:eho00261	Monobactam biosynthesis - Edwardsiella hoshinae
+path:eho00270	Cysteine and methionine metabolism - Edwardsiella hoshinae
+path:eho00280	Valine, leucine and isoleucine degradation - Edwardsiella hoshinae
+path:eho00290	Valine, leucine and isoleucine biosynthesis - Edwardsiella hoshinae
+path:eho00300	Lysine biosynthesis - Edwardsiella hoshinae
+path:eho00310	Lysine degradation - Edwardsiella hoshinae
+path:eho00330	Arginine and proline metabolism - Edwardsiella hoshinae
+path:eho00332	Carbapenem biosynthesis - Edwardsiella hoshinae
+path:eho00340	Histidine metabolism - Edwardsiella hoshinae
+path:eho00350	Tyrosine metabolism - Edwardsiella hoshinae
+path:eho00360	Phenylalanine metabolism - Edwardsiella hoshinae
+path:eho00380	Tryptophan metabolism - Edwardsiella hoshinae
+path:eho00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Edwardsiella hoshinae
+path:eho00401	Novobiocin biosynthesis - Edwardsiella hoshinae
+path:eho00410	beta-Alanine metabolism - Edwardsiella hoshinae
+path:eho00430	Taurine and hypotaurine metabolism - Edwardsiella hoshinae
+path:eho00440	Phosphonate and phosphinate metabolism - Edwardsiella hoshinae
+path:eho00450	Selenocompound metabolism - Edwardsiella hoshinae
+path:eho00460	Cyanoamino acid metabolism - Edwardsiella hoshinae
+path:eho00471	D-Glutamine and D-glutamate metabolism - Edwardsiella hoshinae
+path:eho00473	D-Alanine metabolism - Edwardsiella hoshinae
+path:eho00480	Glutathione metabolism - Edwardsiella hoshinae
+path:eho00500	Starch and sucrose metabolism - Edwardsiella hoshinae
+path:eho00511	Other glycan degradation - Edwardsiella hoshinae
+path:eho00520	Amino sugar and nucleotide sugar metabolism - Edwardsiella hoshinae
+path:eho00521	Streptomycin biosynthesis - Edwardsiella hoshinae
+path:eho00523	Polyketide sugar unit biosynthesis - Edwardsiella hoshinae
+path:eho00525	Acarbose and validamycin biosynthesis - Edwardsiella hoshinae
+path:eho00540	Lipopolysaccharide biosynthesis - Edwardsiella hoshinae
+path:eho00550	Peptidoglycan biosynthesis - Edwardsiella hoshinae
+path:eho00561	Glycerolipid metabolism - Edwardsiella hoshinae
+path:eho00562	Inositol phosphate metabolism - Edwardsiella hoshinae
+path:eho00564	Glycerophospholipid metabolism - Edwardsiella hoshinae
+path:eho00565	Ether lipid metabolism - Edwardsiella hoshinae
+path:eho00592	alpha-Linolenic acid metabolism - Edwardsiella hoshinae
+path:eho00600	Sphingolipid metabolism - Edwardsiella hoshinae
+path:eho00620	Pyruvate metabolism - Edwardsiella hoshinae
+path:eho00625	Chloroalkane and chloroalkene degradation - Edwardsiella hoshinae
+path:eho00626	Naphthalene degradation - Edwardsiella hoshinae
+path:eho00627	Aminobenzoate degradation - Edwardsiella hoshinae
+path:eho00630	Glyoxylate and dicarboxylate metabolism - Edwardsiella hoshinae
+path:eho00633	Nitrotoluene degradation - Edwardsiella hoshinae
+path:eho00640	Propanoate metabolism - Edwardsiella hoshinae
+path:eho00650	Butanoate metabolism - Edwardsiella hoshinae
+path:eho00660	C5-Branched dibasic acid metabolism - Edwardsiella hoshinae
+path:eho00670	One carbon pool by folate - Edwardsiella hoshinae
+path:eho00680	Methane metabolism - Edwardsiella hoshinae
+path:eho00730	Thiamine metabolism - Edwardsiella hoshinae
+path:eho00740	Riboflavin metabolism - Edwardsiella hoshinae
+path:eho00750	Vitamin B6 metabolism - Edwardsiella hoshinae
+path:eho00760	Nicotinate and nicotinamide metabolism - Edwardsiella hoshinae
+path:eho00770	Pantothenate and CoA biosynthesis - Edwardsiella hoshinae
+path:eho00780	Biotin metabolism - Edwardsiella hoshinae
+path:eho00785	Lipoic acid metabolism - Edwardsiella hoshinae
+path:eho00790	Folate biosynthesis - Edwardsiella hoshinae
+path:eho00860	Porphyrin and chlorophyll metabolism - Edwardsiella hoshinae
+path:eho00900	Terpenoid backbone biosynthesis - Edwardsiella hoshinae
+path:eho00910	Nitrogen metabolism - Edwardsiella hoshinae
+path:eho00920	Sulfur metabolism - Edwardsiella hoshinae
+path:eho00970	Aminoacyl-tRNA biosynthesis - Edwardsiella hoshinae
+path:eho01040	Biosynthesis of unsaturated fatty acids - Edwardsiella hoshinae
+path:eho01054	Nonribosomal peptide structures - Edwardsiella hoshinae
+path:eho01100	Metabolic pathways - Edwardsiella hoshinae
+path:eho01110	Biosynthesis of secondary metabolites - Edwardsiella hoshinae
+path:eho01120	Microbial metabolism in diverse environments - Edwardsiella hoshinae
+path:eho01130	Biosynthesis of antibiotics - Edwardsiella hoshinae
+path:eho01200	Carbon metabolism - Edwardsiella hoshinae
+path:eho01210	2-Oxocarboxylic acid metabolism - Edwardsiella hoshinae
+path:eho01212	Fatty acid metabolism - Edwardsiella hoshinae
+path:eho01220	Degradation of aromatic compounds - Edwardsiella hoshinae
+path:eho01230	Biosynthesis of amino acids - Edwardsiella hoshinae
+path:eho01501	beta-Lactam resistance - Edwardsiella hoshinae
+path:eho01502	Vancomycin resistance - Edwardsiella hoshinae
+path:eho01503	Cationic antimicrobial peptide (CAMP) resistance - Edwardsiella hoshinae
+path:eho02010	ABC transporters - Edwardsiella hoshinae
+path:eho02020	Two-component system - Edwardsiella hoshinae
+path:eho02024	Quorum sensing - Edwardsiella hoshinae
+path:eho02030	Bacterial chemotaxis - Edwardsiella hoshinae
+path:eho02040	Flagellar assembly - Edwardsiella hoshinae
+path:eho02060	Phosphotransferase system (PTS) - Edwardsiella hoshinae
+path:eho03010	Ribosome - Edwardsiella hoshinae
+path:eho03018	RNA degradation - Edwardsiella hoshinae
+path:eho03020	RNA polymerase - Edwardsiella hoshinae
+path:eho03030	DNA replication - Edwardsiella hoshinae
+path:eho03060	Protein export - Edwardsiella hoshinae
+path:eho03070	Bacterial secretion system - Edwardsiella hoshinae
+path:eho03410	Base excision repair - Edwardsiella hoshinae
+path:eho03420	Nucleotide excision repair - Edwardsiella hoshinae
+path:eho03430	Mismatch repair - Edwardsiella hoshinae
+path:eho03440	Homologous recombination - Edwardsiella hoshinae
+path:eho04122	Sulfur relay system - Edwardsiella hoshinae

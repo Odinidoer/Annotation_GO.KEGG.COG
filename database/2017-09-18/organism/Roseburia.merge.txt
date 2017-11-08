@@ -1,0 +1,290 @@
+path:rho00010	Glycolysis / Gluconeogenesis - Roseburia hominis
+path:rho00020	Citrate cycle (TCA cycle) - Roseburia hominis
+path:rho00030	Pentose phosphate pathway - Roseburia hominis
+path:rho00040	Pentose and glucuronate interconversions - Roseburia hominis
+path:rho00051	Fructose and mannose metabolism - Roseburia hominis
+path:rho00052	Galactose metabolism - Roseburia hominis
+path:rho00061	Fatty acid biosynthesis - Roseburia hominis
+path:rho00071	Fatty acid degradation - Roseburia hominis
+path:rho00121	Secondary bile acid biosynthesis - Roseburia hominis
+path:rho00190	Oxidative phosphorylation - Roseburia hominis
+path:rho00220	Arginine biosynthesis - Roseburia hominis
+path:rho00230	Purine metabolism - Roseburia hominis
+path:rho00240	Pyrimidine metabolism - Roseburia hominis
+path:rho00250	Alanine, aspartate and glutamate metabolism - Roseburia hominis
+path:rho00260	Glycine, serine and threonine metabolism - Roseburia hominis
+path:rho00261	Monobactam biosynthesis - Roseburia hominis
+path:rho00270	Cysteine and methionine metabolism - Roseburia hominis
+path:rho00280	Valine, leucine and isoleucine degradation - Roseburia hominis
+path:rho00290	Valine, leucine and isoleucine biosynthesis - Roseburia hominis
+path:rho00300	Lysine biosynthesis - Roseburia hominis
+path:rho00310	Lysine degradation - Roseburia hominis
+path:rho00330	Arginine and proline metabolism - Roseburia hominis
+path:rho00332	Carbapenem biosynthesis - Roseburia hominis
+path:rho00340	Histidine metabolism - Roseburia hominis
+path:rho00350	Tyrosine metabolism - Roseburia hominis
+path:rho00360	Phenylalanine metabolism - Roseburia hominis
+path:rho00362	Benzoate degradation - Roseburia hominis
+path:rho00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Roseburia hominis
+path:rho00401	Novobiocin biosynthesis - Roseburia hominis
+path:rho00410	beta-Alanine metabolism - Roseburia hominis
+path:rho00430	Taurine and hypotaurine metabolism - Roseburia hominis
+path:rho00440	Phosphonate and phosphinate metabolism - Roseburia hominis
+path:rho00450	Selenocompound metabolism - Roseburia hominis
+path:rho00460	Cyanoamino acid metabolism - Roseburia hominis
+path:rho00471	D-Glutamine and D-glutamate metabolism - Roseburia hominis
+path:rho00473	D-Alanine metabolism - Roseburia hominis
+path:rho00480	Glutathione metabolism - Roseburia hominis
+path:rho00500	Starch and sucrose metabolism - Roseburia hominis
+path:rho00511	Other glycan degradation - Roseburia hominis
+path:rho00520	Amino sugar and nucleotide sugar metabolism - Roseburia hominis
+path:rho00521	Streptomycin biosynthesis - Roseburia hominis
+path:rho00523	Polyketide sugar unit biosynthesis - Roseburia hominis
+path:rho00525	Acarbose and validamycin biosynthesis - Roseburia hominis
+path:rho00540	Lipopolysaccharide biosynthesis - Roseburia hominis
+path:rho00550	Peptidoglycan biosynthesis - Roseburia hominis
+path:rho00561	Glycerolipid metabolism - Roseburia hominis
+path:rho00564	Glycerophospholipid metabolism - Roseburia hominis
+path:rho00590	Arachidonic acid metabolism - Roseburia hominis
+path:rho00600	Sphingolipid metabolism - Roseburia hominis
+path:rho00620	Pyruvate metabolism - Roseburia hominis
+path:rho00625	Chloroalkane and chloroalkene degradation - Roseburia hominis
+path:rho00626	Naphthalene degradation - Roseburia hominis
+path:rho00630	Glyoxylate and dicarboxylate metabolism - Roseburia hominis
+path:rho00640	Propanoate metabolism - Roseburia hominis
+path:rho00650	Butanoate metabolism - Roseburia hominis
+path:rho00660	C5-Branched dibasic acid metabolism - Roseburia hominis
+path:rho00670	One carbon pool by folate - Roseburia hominis
+path:rho00680	Methane metabolism - Roseburia hominis
+path:rho00730	Thiamine metabolism - Roseburia hominis
+path:rho00740	Riboflavin metabolism - Roseburia hominis
+path:rho00750	Vitamin B6 metabolism - Roseburia hominis
+path:rho00760	Nicotinate and nicotinamide metabolism - Roseburia hominis
+path:rho00770	Pantothenate and CoA biosynthesis - Roseburia hominis
+path:rho00780	Biotin metabolism - Roseburia hominis
+path:rho00790	Folate biosynthesis - Roseburia hominis
+path:rho00860	Porphyrin and chlorophyll metabolism - Roseburia hominis
+path:rho00900	Terpenoid backbone biosynthesis - Roseburia hominis
+path:rho00910	Nitrogen metabolism - Roseburia hominis
+path:rho00920	Sulfur metabolism - Roseburia hominis
+path:rho00970	Aminoacyl-tRNA biosynthesis - Roseburia hominis
+path:rho01040	Biosynthesis of unsaturated fatty acids - Roseburia hominis
+path:rho01100	Metabolic pathways - Roseburia hominis
+path:rho01110	Biosynthesis of secondary metabolites - Roseburia hominis
+path:rho01120	Microbial metabolism in diverse environments - Roseburia hominis
+path:rho01130	Biosynthesis of antibiotics - Roseburia hominis
+path:rho01200	Carbon metabolism - Roseburia hominis
+path:rho01210	2-Oxocarboxylic acid metabolism - Roseburia hominis
+path:rho01212	Fatty acid metabolism - Roseburia hominis
+path:rho01220	Degradation of aromatic compounds - Roseburia hominis
+path:rho01230	Biosynthesis of amino acids - Roseburia hominis
+path:rho01501	beta-Lactam resistance - Roseburia hominis
+path:rho01502	Vancomycin resistance - Roseburia hominis
+path:rho01503	Cationic antimicrobial peptide (CAMP) resistance - Roseburia hominis
+path:rho02010	ABC transporters - Roseburia hominis
+path:rho02020	Two-component system - Roseburia hominis
+path:rho02024	Quorum sensing - Roseburia hominis
+path:rho02030	Bacterial chemotaxis - Roseburia hominis
+path:rho02040	Flagellar assembly - Roseburia hominis
+path:rho02060	Phosphotransferase system (PTS) - Roseburia hominis
+path:rho03010	Ribosome - Roseburia hominis
+path:rho03018	RNA degradation - Roseburia hominis
+path:rho03020	RNA polymerase - Roseburia hominis
+path:rho03030	DNA replication - Roseburia hominis
+path:rho03060	Protein export - Roseburia hominis
+path:rho03070	Bacterial secretion system - Roseburia hominis
+path:rho03410	Base excision repair - Roseburia hominis
+path:rho03420	Nucleotide excision repair - Roseburia hominis
+path:rho03430	Mismatch repair - Roseburia hominis
+path:rho03440	Homologous recombination - Roseburia hominis
+path:rho04122	Sulfur relay system - Roseburia hominis
+path:rix00010	Glycolysis / Gluconeogenesis - Roseburia intestinalis XB6B4
+path:rix00020	Citrate cycle (TCA cycle) - Roseburia intestinalis XB6B4
+path:rix00030	Pentose phosphate pathway - Roseburia intestinalis XB6B4
+path:rix00040	Pentose and glucuronate interconversions - Roseburia intestinalis XB6B4
+path:rix00051	Fructose and mannose metabolism - Roseburia intestinalis XB6B4
+path:rix00052	Galactose metabolism - Roseburia intestinalis XB6B4
+path:rix00061	Fatty acid biosynthesis - Roseburia intestinalis XB6B4
+path:rix00121	Secondary bile acid biosynthesis - Roseburia intestinalis XB6B4
+path:rix00190	Oxidative phosphorylation - Roseburia intestinalis XB6B4
+path:rix00220	Arginine biosynthesis - Roseburia intestinalis XB6B4
+path:rix00230	Purine metabolism - Roseburia intestinalis XB6B4
+path:rix00240	Pyrimidine metabolism - Roseburia intestinalis XB6B4
+path:rix00250	Alanine, aspartate and glutamate metabolism - Roseburia intestinalis XB6B4
+path:rix00260	Glycine, serine and threonine metabolism - Roseburia intestinalis XB6B4
+path:rix00261	Monobactam biosynthesis - Roseburia intestinalis XB6B4
+path:rix00270	Cysteine and methionine metabolism - Roseburia intestinalis XB6B4
+path:rix00280	Valine, leucine and isoleucine degradation - Roseburia intestinalis XB6B4
+path:rix00290	Valine, leucine and isoleucine biosynthesis - Roseburia intestinalis XB6B4
+path:rix00300	Lysine biosynthesis - Roseburia intestinalis XB6B4
+path:rix00330	Arginine and proline metabolism - Roseburia intestinalis XB6B4
+path:rix00332	Carbapenem biosynthesis - Roseburia intestinalis XB6B4
+path:rix00340	Histidine metabolism - Roseburia intestinalis XB6B4
+path:rix00350	Tyrosine metabolism - Roseburia intestinalis XB6B4
+path:rix00360	Phenylalanine metabolism - Roseburia intestinalis XB6B4
+path:rix00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Roseburia intestinalis XB6B4
+path:rix00401	Novobiocin biosynthesis - Roseburia intestinalis XB6B4
+path:rix00410	beta-Alanine metabolism - Roseburia intestinalis XB6B4
+path:rix00430	Taurine and hypotaurine metabolism - Roseburia intestinalis XB6B4
+path:rix00440	Phosphonate and phosphinate metabolism - Roseburia intestinalis XB6B4
+path:rix00450	Selenocompound metabolism - Roseburia intestinalis XB6B4
+path:rix00460	Cyanoamino acid metabolism - Roseburia intestinalis XB6B4
+path:rix00471	D-Glutamine and D-glutamate metabolism - Roseburia intestinalis XB6B4
+path:rix00473	D-Alanine metabolism - Roseburia intestinalis XB6B4
+path:rix00480	Glutathione metabolism - Roseburia intestinalis XB6B4
+path:rix00500	Starch and sucrose metabolism - Roseburia intestinalis XB6B4
+path:rix00511	Other glycan degradation - Roseburia intestinalis XB6B4
+path:rix00520	Amino sugar and nucleotide sugar metabolism - Roseburia intestinalis XB6B4
+path:rix00521	Streptomycin biosynthesis - Roseburia intestinalis XB6B4
+path:rix00523	Polyketide sugar unit biosynthesis - Roseburia intestinalis XB6B4
+path:rix00525	Acarbose and validamycin biosynthesis - Roseburia intestinalis XB6B4
+path:rix00550	Peptidoglycan biosynthesis - Roseburia intestinalis XB6B4
+path:rix00561	Glycerolipid metabolism - Roseburia intestinalis XB6B4
+path:rix00562	Inositol phosphate metabolism - Roseburia intestinalis XB6B4
+path:rix00564	Glycerophospholipid metabolism - Roseburia intestinalis XB6B4
+path:rix00600	Sphingolipid metabolism - Roseburia intestinalis XB6B4
+path:rix00620	Pyruvate metabolism - Roseburia intestinalis XB6B4
+path:rix00627	Aminobenzoate degradation - Roseburia intestinalis XB6B4
+path:rix00630	Glyoxylate and dicarboxylate metabolism - Roseburia intestinalis XB6B4
+path:rix00640	Propanoate metabolism - Roseburia intestinalis XB6B4
+path:rix00650	Butanoate metabolism - Roseburia intestinalis XB6B4
+path:rix00660	C5-Branched dibasic acid metabolism - Roseburia intestinalis XB6B4
+path:rix00670	One carbon pool by folate - Roseburia intestinalis XB6B4
+path:rix00680	Methane metabolism - Roseburia intestinalis XB6B4
+path:rix00730	Thiamine metabolism - Roseburia intestinalis XB6B4
+path:rix00740	Riboflavin metabolism - Roseburia intestinalis XB6B4
+path:rix00750	Vitamin B6 metabolism - Roseburia intestinalis XB6B4
+path:rix00760	Nicotinate and nicotinamide metabolism - Roseburia intestinalis XB6B4
+path:rix00770	Pantothenate and CoA biosynthesis - Roseburia intestinalis XB6B4
+path:rix00780	Biotin metabolism - Roseburia intestinalis XB6B4
+path:rix00790	Folate biosynthesis - Roseburia intestinalis XB6B4
+path:rix00791	Atrazine degradation - Roseburia intestinalis XB6B4
+path:rix00860	Porphyrin and chlorophyll metabolism - Roseburia intestinalis XB6B4
+path:rix00900	Terpenoid backbone biosynthesis - Roseburia intestinalis XB6B4
+path:rix00910	Nitrogen metabolism - Roseburia intestinalis XB6B4
+path:rix00920	Sulfur metabolism - Roseburia intestinalis XB6B4
+path:rix00970	Aminoacyl-tRNA biosynthesis - Roseburia intestinalis XB6B4
+path:rix01040	Biosynthesis of unsaturated fatty acids - Roseburia intestinalis XB6B4
+path:rix01100	Metabolic pathways - Roseburia intestinalis XB6B4
+path:rix01110	Biosynthesis of secondary metabolites - Roseburia intestinalis XB6B4
+path:rix01120	Microbial metabolism in diverse environments - Roseburia intestinalis XB6B4
+path:rix01130	Biosynthesis of antibiotics - Roseburia intestinalis XB6B4
+path:rix01200	Carbon metabolism - Roseburia intestinalis XB6B4
+path:rix01210	2-Oxocarboxylic acid metabolism - Roseburia intestinalis XB6B4
+path:rix01212	Fatty acid metabolism - Roseburia intestinalis XB6B4
+path:rix01230	Biosynthesis of amino acids - Roseburia intestinalis XB6B4
+path:rix01501	beta-Lactam resistance - Roseburia intestinalis XB6B4
+path:rix01502	Vancomycin resistance - Roseburia intestinalis XB6B4
+path:rix01503	Cationic antimicrobial peptide (CAMP) resistance - Roseburia intestinalis XB6B4
+path:rix02010	ABC transporters - Roseburia intestinalis XB6B4
+path:rix02020	Two-component system - Roseburia intestinalis XB6B4
+path:rix02024	Quorum sensing - Roseburia intestinalis XB6B4
+path:rix02030	Bacterial chemotaxis - Roseburia intestinalis XB6B4
+path:rix02040	Flagellar assembly - Roseburia intestinalis XB6B4
+path:rix02060	Phosphotransferase system (PTS) - Roseburia intestinalis XB6B4
+path:rix03010	Ribosome - Roseburia intestinalis XB6B4
+path:rix03018	RNA degradation - Roseburia intestinalis XB6B4
+path:rix03020	RNA polymerase - Roseburia intestinalis XB6B4
+path:rix03030	DNA replication - Roseburia intestinalis XB6B4
+path:rix03060	Protein export - Roseburia intestinalis XB6B4
+path:rix03070	Bacterial secretion system - Roseburia intestinalis XB6B4
+path:rix03410	Base excision repair - Roseburia intestinalis XB6B4
+path:rix03420	Nucleotide excision repair - Roseburia intestinalis XB6B4
+path:rix03430	Mismatch repair - Roseburia intestinalis XB6B4
+path:rix03440	Homologous recombination - Roseburia intestinalis XB6B4
+path:rix04122	Sulfur relay system - Roseburia intestinalis XB6B4
+path:rim00010	Glycolysis / Gluconeogenesis - Roseburia intestinalis M50/1
+path:rim00020	Citrate cycle (TCA cycle) - Roseburia intestinalis M50/1
+path:rim00030	Pentose phosphate pathway - Roseburia intestinalis M50/1
+path:rim00040	Pentose and glucuronate interconversions - Roseburia intestinalis M50/1
+path:rim00051	Fructose and mannose metabolism - Roseburia intestinalis M50/1
+path:rim00052	Galactose metabolism - Roseburia intestinalis M50/1
+path:rim00061	Fatty acid biosynthesis - Roseburia intestinalis M50/1
+path:rim00071	Fatty acid degradation - Roseburia intestinalis M50/1
+path:rim00121	Secondary bile acid biosynthesis - Roseburia intestinalis M50/1
+path:rim00190	Oxidative phosphorylation - Roseburia intestinalis M50/1
+path:rim00220	Arginine biosynthesis - Roseburia intestinalis M50/1
+path:rim00230	Purine metabolism - Roseburia intestinalis M50/1
+path:rim00240	Pyrimidine metabolism - Roseburia intestinalis M50/1
+path:rim00250	Alanine, aspartate and glutamate metabolism - Roseburia intestinalis M50/1
+path:rim00260	Glycine, serine and threonine metabolism - Roseburia intestinalis M50/1
+path:rim00261	Monobactam biosynthesis - Roseburia intestinalis M50/1
+path:rim00270	Cysteine and methionine metabolism - Roseburia intestinalis M50/1
+path:rim00280	Valine, leucine and isoleucine degradation - Roseburia intestinalis M50/1
+path:rim00290	Valine, leucine and isoleucine biosynthesis - Roseburia intestinalis M50/1
+path:rim00300	Lysine biosynthesis - Roseburia intestinalis M50/1
+path:rim00310	Lysine degradation - Roseburia intestinalis M50/1
+path:rim00330	Arginine and proline metabolism - Roseburia intestinalis M50/1
+path:rim00340	Histidine metabolism - Roseburia intestinalis M50/1
+path:rim00350	Tyrosine metabolism - Roseburia intestinalis M50/1
+path:rim00360	Phenylalanine metabolism - Roseburia intestinalis M50/1
+path:rim00362	Benzoate degradation - Roseburia intestinalis M50/1
+path:rim00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Roseburia intestinalis M50/1
+path:rim00401	Novobiocin biosynthesis - Roseburia intestinalis M50/1
+path:rim00410	beta-Alanine metabolism - Roseburia intestinalis M50/1
+path:rim00430	Taurine and hypotaurine metabolism - Roseburia intestinalis M50/1
+path:rim00440	Phosphonate and phosphinate metabolism - Roseburia intestinalis M50/1
+path:rim00450	Selenocompound metabolism - Roseburia intestinalis M50/1
+path:rim00460	Cyanoamino acid metabolism - Roseburia intestinalis M50/1
+path:rim00471	D-Glutamine and D-glutamate metabolism - Roseburia intestinalis M50/1
+path:rim00480	Glutathione metabolism - Roseburia intestinalis M50/1
+path:rim00500	Starch and sucrose metabolism - Roseburia intestinalis M50/1
+path:rim00511	Other glycan degradation - Roseburia intestinalis M50/1
+path:rim00520	Amino sugar and nucleotide sugar metabolism - Roseburia intestinalis M50/1
+path:rim00521	Streptomycin biosynthesis - Roseburia intestinalis M50/1
+path:rim00523	Polyketide sugar unit biosynthesis - Roseburia intestinalis M50/1
+path:rim00525	Acarbose and validamycin biosynthesis - Roseburia intestinalis M50/1
+path:rim00550	Peptidoglycan biosynthesis - Roseburia intestinalis M50/1
+path:rim00561	Glycerolipid metabolism - Roseburia intestinalis M50/1
+path:rim00562	Inositol phosphate metabolism - Roseburia intestinalis M50/1
+path:rim00564	Glycerophospholipid metabolism - Roseburia intestinalis M50/1
+path:rim00600	Sphingolipid metabolism - Roseburia intestinalis M50/1
+path:rim00620	Pyruvate metabolism - Roseburia intestinalis M50/1
+path:rim00630	Glyoxylate and dicarboxylate metabolism - Roseburia intestinalis M50/1
+path:rim00640	Propanoate metabolism - Roseburia intestinalis M50/1
+path:rim00650	Butanoate metabolism - Roseburia intestinalis M50/1
+path:rim00660	C5-Branched dibasic acid metabolism - Roseburia intestinalis M50/1
+path:rim00670	One carbon pool by folate - Roseburia intestinalis M50/1
+path:rim00680	Methane metabolism - Roseburia intestinalis M50/1
+path:rim00730	Thiamine metabolism - Roseburia intestinalis M50/1
+path:rim00740	Riboflavin metabolism - Roseburia intestinalis M50/1
+path:rim00750	Vitamin B6 metabolism - Roseburia intestinalis M50/1
+path:rim00760	Nicotinate and nicotinamide metabolism - Roseburia intestinalis M50/1
+path:rim00770	Pantothenate and CoA biosynthesis - Roseburia intestinalis M50/1
+path:rim00780	Biotin metabolism - Roseburia intestinalis M50/1
+path:rim00790	Folate biosynthesis - Roseburia intestinalis M50/1
+path:rim00791	Atrazine degradation - Roseburia intestinalis M50/1
+path:rim00860	Porphyrin and chlorophyll metabolism - Roseburia intestinalis M50/1
+path:rim00900	Terpenoid backbone biosynthesis - Roseburia intestinalis M50/1
+path:rim00910	Nitrogen metabolism - Roseburia intestinalis M50/1
+path:rim00920	Sulfur metabolism - Roseburia intestinalis M50/1
+path:rim00970	Aminoacyl-tRNA biosynthesis - Roseburia intestinalis M50/1
+path:rim01040	Biosynthesis of unsaturated fatty acids - Roseburia intestinalis M50/1
+path:rim01100	Metabolic pathways - Roseburia intestinalis M50/1
+path:rim01110	Biosynthesis of secondary metabolites - Roseburia intestinalis M50/1
+path:rim01120	Microbial metabolism in diverse environments - Roseburia intestinalis M50/1
+path:rim01130	Biosynthesis of antibiotics - Roseburia intestinalis M50/1
+path:rim01200	Carbon metabolism - Roseburia intestinalis M50/1
+path:rim01210	2-Oxocarboxylic acid metabolism - Roseburia intestinalis M50/1
+path:rim01212	Fatty acid metabolism - Roseburia intestinalis M50/1
+path:rim01230	Biosynthesis of amino acids - Roseburia intestinalis M50/1
+path:rim01501	beta-Lactam resistance - Roseburia intestinalis M50/1
+path:rim01502	Vancomycin resistance - Roseburia intestinalis M50/1
+path:rim01503	Cationic antimicrobial peptide (CAMP) resistance - Roseburia intestinalis M50/1
+path:rim02010	ABC transporters - Roseburia intestinalis M50/1
+path:rim02020	Two-component system - Roseburia intestinalis M50/1
+path:rim02024	Quorum sensing - Roseburia intestinalis M50/1
+path:rim02030	Bacterial chemotaxis - Roseburia intestinalis M50/1
+path:rim02040	Flagellar assembly - Roseburia intestinalis M50/1
+path:rim02060	Phosphotransferase system (PTS) - Roseburia intestinalis M50/1
+path:rim03010	Ribosome - Roseburia intestinalis M50/1
+path:rim03018	RNA degradation - Roseburia intestinalis M50/1
+path:rim03020	RNA polymerase - Roseburia intestinalis M50/1
+path:rim03030	DNA replication - Roseburia intestinalis M50/1
+path:rim03060	Protein export - Roseburia intestinalis M50/1
+path:rim03070	Bacterial secretion system - Roseburia intestinalis M50/1
+path:rim03410	Base excision repair - Roseburia intestinalis M50/1
+path:rim03420	Nucleotide excision repair - Roseburia intestinalis M50/1
+path:rim03430	Mismatch repair - Roseburia intestinalis M50/1
+path:rim03440	Homologous recombination - Roseburia intestinalis M50/1
+path:rim04122	Sulfur relay system - Roseburia intestinalis M50/1

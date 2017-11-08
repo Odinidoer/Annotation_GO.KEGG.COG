@@ -1,0 +1,257 @@
+<html>
+<!---
+ENTRY       ko00402
+DEFINITION  Benzoxazinoid biosynthesis
+--->
+<head>
+<title>
+KEGG PATHWAY: Benzoxazinoid biosynthesis
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Benzoxazinoid biosynthesis</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=00402&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map00402.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko00402">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko00402&format=kgml">Download KGML</a>
+| <a id="descLink" href="javascript:switchDescription()">Show description</a>
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+<table id="description" cellpadding="10" width="800" style="display: none;"><tr><td>
+Benzoxazinoids (hydroxamic acids) are plant secondary metabolites that serve as important factors for host resistance against microbial pathogens and insects and for allelopathic effects. They are found in grass family and some eudicot families. The predominant benzoxazinoids are DIBOA and its 7-methoxy derivative DIMBOA, which are stored as glucosides in vacuoles. In maize, benzoxazinoid biosynthesis branches off from tryptophan biosynthesis at indole-3-glycerol phosphate, which is converted to indole by indole-3-glycerol phosphate lyase, BX1. Subsequently four cytochrome P450 monooxygenases (BX2-BX5) catalyze the introduction of four oxygen atoms into the indole moiety, yielding DIBOA. After glucosylation by UDP-glucosyltransferase (BX8/BX9), the glucoside is further modified by hydroxylation and O-methylation at C-7 to form DIMBOA-glucoside.</td></tr></table>
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="ec">Reference pathway (EC)</option>
+<option value="rn">Reference pathway (Reaction)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="ats">Aegilops tauschii (wheat D)</option>
+<option value="zma">Zea mays (maize)</option>
+</select>
+<input type="hidden" name="mapno" value="00402" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko00402" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko00402.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=376,568,4	href="/dbget-bin/www_bget?C04831"	title="C04831 (DIMBOA-glucoside)" onmouseover="popupTimer(&quot;C04831&quot;, &quot;C04831 (DIMBOA-glucoside)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=139,568,4	href="/dbget-bin/www_bget?C15772"	title="C15772 (DIBOA-glucoside)" onmouseover="popupTimer(&quot;C15772&quot;, &quot;C15772 (DIBOA-glucoside)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=258,568,4	href="/dbget-bin/www_bget?C18062"	title="C18062 (TRIBOA-glucoside)" onmouseover="popupTimer(&quot;C18062&quot;, &quot;C18062 (TRIBOA-glucoside)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=139,501,4	href="/dbget-bin/www_bget?C15770"	title="C15770 (DIBOA)" onmouseover="popupTimer(&quot;C15770&quot;, &quot;C15770 (DIBOA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=139,434,4	href="/dbget-bin/www_bget?C15769"	title="C15769 (HBOA)" onmouseover="popupTimer(&quot;C15769&quot;, &quot;C15769 (HBOA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=139,368,4	href="/dbget-bin/www_bget?C11130"	title="C11130 (3-Hydroxyindolin-2-one)" onmouseover="popupTimer(&quot;C11130&quot;, &quot;C11130 (3-Hydroxyindolin-2-one)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=139,302,4	href="/dbget-bin/www_bget?C12312"	title="C12312 (Indolin-2-one)" onmouseover="popupTimer(&quot;C12312&quot;, &quot;C12312 (Indolin-2-one)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=139,235,4	href="/dbget-bin/www_bget?C00463"	title="C00463 (Indole)" onmouseover="popupTimer(&quot;C00463&quot;, &quot;C00463 (Indole)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=139,168,4	href="/dbget-bin/www_bget?C03506"	title="C03506 (Indoleglycerol phosphate)" onmouseover="popupTimer(&quot;C03506&quot;, &quot;C03506 (Indoleglycerol phosphate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=173,560,219,577	href="/dbget-bin/www_bget?K13229"	title="K13229 (BX6)" />
+<area shape=rect	coords=117,523,163,540	href="/dbget-bin/www_bget?K13227"	title="K13227 (BX8_9)" />
+<area shape=rect	coords=117,456,163,473	href="/dbget-bin/www_bget?K13226"	title="K13226 (BX5)" />
+<area shape=rect	coords=117,390,163,407	href="/dbget-bin/www_bget?K13225"	title="K13225 (BX4)" />
+<area shape=rect	coords=117,324,163,341	href="/dbget-bin/www_bget?K13224"	title="K13224 (BX3)" />
+<area shape=rect	coords=117,257,163,274	href="/dbget-bin/www_bget?K13223"	title="K13223 (BX2)" />
+<area shape=rect	coords=117,190,163,207	href="/dbget-bin/www_bget?K13222"	title="K13222 (BX1)" />
+<area shape=rect	coords=292,560,338,577	href="/dbget-bin/www_bget?K13230"	title="K13230 (BX7)" />
+<area shape=rect	coords=40,45,280,70	href="/dbget-bin/www_bget?ko00402"	title="ko00402: Benzoxazinoid biosynthesis" onmouseover="popupTimer(&quot;ko00402&quot;, &quot;ko00402: Benzoxazinoid biosynthesis&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=70,102,212,127	href="/kegg-bin/show_pathway?ko00400"	title="ko00400: Phenylalanine, tyrosine and tryptophan biosynthesis" onmouseover="popupTimer(&quot;ko00400&quot;, &quot;ko00400: Phenylalanine, tyrosine and tryptophan biosynthesis&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

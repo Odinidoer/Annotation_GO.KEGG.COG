@@ -1,0 +1,938 @@
+path:hel00010	Glycolysis / Gluconeogenesis - Halomonas elongata
+path:hel00020	Citrate cycle (TCA cycle) - Halomonas elongata
+path:hel00030	Pentose phosphate pathway - Halomonas elongata
+path:hel00040	Pentose and glucuronate interconversions - Halomonas elongata
+path:hel00051	Fructose and mannose metabolism - Halomonas elongata
+path:hel00052	Galactose metabolism - Halomonas elongata
+path:hel00053	Ascorbate and aldarate metabolism - Halomonas elongata
+path:hel00061	Fatty acid biosynthesis - Halomonas elongata
+path:hel00071	Fatty acid degradation - Halomonas elongata
+path:hel00072	Synthesis and degradation of ketone bodies - Halomonas elongata
+path:hel00121	Secondary bile acid biosynthesis - Halomonas elongata
+path:hel00130	Ubiquinone and other terpenoid-quinone biosynthesis - Halomonas elongata
+path:hel00190	Oxidative phosphorylation - Halomonas elongata
+path:hel00220	Arginine biosynthesis - Halomonas elongata
+path:hel00230	Purine metabolism - Halomonas elongata
+path:hel00240	Pyrimidine metabolism - Halomonas elongata
+path:hel00250	Alanine, aspartate and glutamate metabolism - Halomonas elongata
+path:hel00260	Glycine, serine and threonine metabolism - Halomonas elongata
+path:hel00261	Monobactam biosynthesis - Halomonas elongata
+path:hel00270	Cysteine and methionine metabolism - Halomonas elongata
+path:hel00280	Valine, leucine and isoleucine degradation - Halomonas elongata
+path:hel00281	Geraniol degradation - Halomonas elongata
+path:hel00290	Valine, leucine and isoleucine biosynthesis - Halomonas elongata
+path:hel00300	Lysine biosynthesis - Halomonas elongata
+path:hel00310	Lysine degradation - Halomonas elongata
+path:hel00330	Arginine and proline metabolism - Halomonas elongata
+path:hel00332	Carbapenem biosynthesis - Halomonas elongata
+path:hel00340	Histidine metabolism - Halomonas elongata
+path:hel00350	Tyrosine metabolism - Halomonas elongata
+path:hel00360	Phenylalanine metabolism - Halomonas elongata
+path:hel00361	Chlorocyclohexane and chlorobenzene degradation - Halomonas elongata
+path:hel00362	Benzoate degradation - Halomonas elongata
+path:hel00364	Fluorobenzoate degradation - Halomonas elongata
+path:hel00380	Tryptophan metabolism - Halomonas elongata
+path:hel00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Halomonas elongata
+path:hel00401	Novobiocin biosynthesis - Halomonas elongata
+path:hel00405	Phenazine biosynthesis - Halomonas elongata
+path:hel00410	beta-Alanine metabolism - Halomonas elongata
+path:hel00430	Taurine and hypotaurine metabolism - Halomonas elongata
+path:hel00450	Selenocompound metabolism - Halomonas elongata
+path:hel00460	Cyanoamino acid metabolism - Halomonas elongata
+path:hel00471	D-Glutamine and D-glutamate metabolism - Halomonas elongata
+path:hel00473	D-Alanine metabolism - Halomonas elongata
+path:hel00480	Glutathione metabolism - Halomonas elongata
+path:hel00500	Starch and sucrose metabolism - Halomonas elongata
+path:hel00520	Amino sugar and nucleotide sugar metabolism - Halomonas elongata
+path:hel00521	Streptomycin biosynthesis - Halomonas elongata
+path:hel00523	Polyketide sugar unit biosynthesis - Halomonas elongata
+path:hel00525	Acarbose and validamycin biosynthesis - Halomonas elongata
+path:hel00540	Lipopolysaccharide biosynthesis - Halomonas elongata
+path:hel00550	Peptidoglycan biosynthesis - Halomonas elongata
+path:hel00561	Glycerolipid metabolism - Halomonas elongata
+path:hel00562	Inositol phosphate metabolism - Halomonas elongata
+path:hel00564	Glycerophospholipid metabolism - Halomonas elongata
+path:hel00565	Ether lipid metabolism - Halomonas elongata
+path:hel00590	Arachidonic acid metabolism - Halomonas elongata
+path:hel00592	alpha-Linolenic acid metabolism - Halomonas elongata
+path:hel00620	Pyruvate metabolism - Halomonas elongata
+path:hel00623	Toluene degradation - Halomonas elongata
+path:hel00625	Chloroalkane and chloroalkene degradation - Halomonas elongata
+path:hel00626	Naphthalene degradation - Halomonas elongata
+path:hel00627	Aminobenzoate degradation - Halomonas elongata
+path:hel00630	Glyoxylate and dicarboxylate metabolism - Halomonas elongata
+path:hel00633	Nitrotoluene degradation - Halomonas elongata
+path:hel00640	Propanoate metabolism - Halomonas elongata
+path:hel00643	Styrene degradation - Halomonas elongata
+path:hel00650	Butanoate metabolism - Halomonas elongata
+path:hel00660	C5-Branched dibasic acid metabolism - Halomonas elongata
+path:hel00670	One carbon pool by folate - Halomonas elongata
+path:hel00680	Methane metabolism - Halomonas elongata
+path:hel00730	Thiamine metabolism - Halomonas elongata
+path:hel00740	Riboflavin metabolism - Halomonas elongata
+path:hel00750	Vitamin B6 metabolism - Halomonas elongata
+path:hel00760	Nicotinate and nicotinamide metabolism - Halomonas elongata
+path:hel00770	Pantothenate and CoA biosynthesis - Halomonas elongata
+path:hel00780	Biotin metabolism - Halomonas elongata
+path:hel00785	Lipoic acid metabolism - Halomonas elongata
+path:hel00790	Folate biosynthesis - Halomonas elongata
+path:hel00860	Porphyrin and chlorophyll metabolism - Halomonas elongata
+path:hel00900	Terpenoid backbone biosynthesis - Halomonas elongata
+path:hel00903	Limonene and pinene degradation - Halomonas elongata
+path:hel00910	Nitrogen metabolism - Halomonas elongata
+path:hel00920	Sulfur metabolism - Halomonas elongata
+path:hel00930	Caprolactam degradation - Halomonas elongata
+path:hel00970	Aminoacyl-tRNA biosynthesis - Halomonas elongata
+path:hel01040	Biosynthesis of unsaturated fatty acids - Halomonas elongata
+path:hel01053	Biosynthesis of siderophore group nonribosomal peptides - Halomonas elongata
+path:hel01054	Nonribosomal peptide structures - Halomonas elongata
+path:hel01100	Metabolic pathways - Halomonas elongata
+path:hel01110	Biosynthesis of secondary metabolites - Halomonas elongata
+path:hel01120	Microbial metabolism in diverse environments - Halomonas elongata
+path:hel01130	Biosynthesis of antibiotics - Halomonas elongata
+path:hel01200	Carbon metabolism - Halomonas elongata
+path:hel01210	2-Oxocarboxylic acid metabolism - Halomonas elongata
+path:hel01212	Fatty acid metabolism - Halomonas elongata
+path:hel01220	Degradation of aromatic compounds - Halomonas elongata
+path:hel01230	Biosynthesis of amino acids - Halomonas elongata
+path:hel01501	beta-Lactam resistance - Halomonas elongata
+path:hel01502	Vancomycin resistance - Halomonas elongata
+path:hel01503	Cationic antimicrobial peptide (CAMP) resistance - Halomonas elongata
+path:hel02010	ABC transporters - Halomonas elongata
+path:hel02020	Two-component system - Halomonas elongata
+path:hel02024	Quorum sensing - Halomonas elongata
+path:hel02030	Bacterial chemotaxis - Halomonas elongata
+path:hel02040	Flagellar assembly - Halomonas elongata
+path:hel02060	Phosphotransferase system (PTS) - Halomonas elongata
+path:hel03010	Ribosome - Halomonas elongata
+path:hel03018	RNA degradation - Halomonas elongata
+path:hel03020	RNA polymerase - Halomonas elongata
+path:hel03030	DNA replication - Halomonas elongata
+path:hel03060	Protein export - Halomonas elongata
+path:hel03070	Bacterial secretion system - Halomonas elongata
+path:hel03410	Base excision repair - Halomonas elongata
+path:hel03420	Nucleotide excision repair - Halomonas elongata
+path:hel03430	Mismatch repair - Halomonas elongata
+path:hel03440	Homologous recombination - Halomonas elongata
+path:hel04122	Sulfur relay system - Halomonas elongata
+path:hcs00010	Glycolysis / Gluconeogenesis - Halomonas campaniensis
+path:hcs00020	Citrate cycle (TCA cycle) - Halomonas campaniensis
+path:hcs00030	Pentose phosphate pathway - Halomonas campaniensis
+path:hcs00040	Pentose and glucuronate interconversions - Halomonas campaniensis
+path:hcs00051	Fructose and mannose metabolism - Halomonas campaniensis
+path:hcs00052	Galactose metabolism - Halomonas campaniensis
+path:hcs00053	Ascorbate and aldarate metabolism - Halomonas campaniensis
+path:hcs00061	Fatty acid biosynthesis - Halomonas campaniensis
+path:hcs00071	Fatty acid degradation - Halomonas campaniensis
+path:hcs00072	Synthesis and degradation of ketone bodies - Halomonas campaniensis
+path:hcs00121	Secondary bile acid biosynthesis - Halomonas campaniensis
+path:hcs00130	Ubiquinone and other terpenoid-quinone biosynthesis - Halomonas campaniensis
+path:hcs00190	Oxidative phosphorylation - Halomonas campaniensis
+path:hcs00220	Arginine biosynthesis - Halomonas campaniensis
+path:hcs00230	Purine metabolism - Halomonas campaniensis
+path:hcs00240	Pyrimidine metabolism - Halomonas campaniensis
+path:hcs00250	Alanine, aspartate and glutamate metabolism - Halomonas campaniensis
+path:hcs00260	Glycine, serine and threonine metabolism - Halomonas campaniensis
+path:hcs00261	Monobactam biosynthesis - Halomonas campaniensis
+path:hcs00270	Cysteine and methionine metabolism - Halomonas campaniensis
+path:hcs00280	Valine, leucine and isoleucine degradation - Halomonas campaniensis
+path:hcs00281	Geraniol degradation - Halomonas campaniensis
+path:hcs00290	Valine, leucine and isoleucine biosynthesis - Halomonas campaniensis
+path:hcs00300	Lysine biosynthesis - Halomonas campaniensis
+path:hcs00310	Lysine degradation - Halomonas campaniensis
+path:hcs00330	Arginine and proline metabolism - Halomonas campaniensis
+path:hcs00332	Carbapenem biosynthesis - Halomonas campaniensis
+path:hcs00340	Histidine metabolism - Halomonas campaniensis
+path:hcs00350	Tyrosine metabolism - Halomonas campaniensis
+path:hcs00360	Phenylalanine metabolism - Halomonas campaniensis
+path:hcs00361	Chlorocyclohexane and chlorobenzene degradation - Halomonas campaniensis
+path:hcs00362	Benzoate degradation - Halomonas campaniensis
+path:hcs00364	Fluorobenzoate degradation - Halomonas campaniensis
+path:hcs00380	Tryptophan metabolism - Halomonas campaniensis
+path:hcs00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Halomonas campaniensis
+path:hcs00401	Novobiocin biosynthesis - Halomonas campaniensis
+path:hcs00405	Phenazine biosynthesis - Halomonas campaniensis
+path:hcs00410	beta-Alanine metabolism - Halomonas campaniensis
+path:hcs00430	Taurine and hypotaurine metabolism - Halomonas campaniensis
+path:hcs00440	Phosphonate and phosphinate metabolism - Halomonas campaniensis
+path:hcs00450	Selenocompound metabolism - Halomonas campaniensis
+path:hcs00460	Cyanoamino acid metabolism - Halomonas campaniensis
+path:hcs00471	D-Glutamine and D-glutamate metabolism - Halomonas campaniensis
+path:hcs00473	D-Alanine metabolism - Halomonas campaniensis
+path:hcs00480	Glutathione metabolism - Halomonas campaniensis
+path:hcs00500	Starch and sucrose metabolism - Halomonas campaniensis
+path:hcs00511	Other glycan degradation - Halomonas campaniensis
+path:hcs00520	Amino sugar and nucleotide sugar metabolism - Halomonas campaniensis
+path:hcs00521	Streptomycin biosynthesis - Halomonas campaniensis
+path:hcs00523	Polyketide sugar unit biosynthesis - Halomonas campaniensis
+path:hcs00525	Acarbose and validamycin biosynthesis - Halomonas campaniensis
+path:hcs00540	Lipopolysaccharide biosynthesis - Halomonas campaniensis
+path:hcs00550	Peptidoglycan biosynthesis - Halomonas campaniensis
+path:hcs00561	Glycerolipid metabolism - Halomonas campaniensis
+path:hcs00562	Inositol phosphate metabolism - Halomonas campaniensis
+path:hcs00564	Glycerophospholipid metabolism - Halomonas campaniensis
+path:hcs00565	Ether lipid metabolism - Halomonas campaniensis
+path:hcs00590	Arachidonic acid metabolism - Halomonas campaniensis
+path:hcs00592	alpha-Linolenic acid metabolism - Halomonas campaniensis
+path:hcs00620	Pyruvate metabolism - Halomonas campaniensis
+path:hcs00621	Dioxin degradation - Halomonas campaniensis
+path:hcs00622	Xylene degradation - Halomonas campaniensis
+path:hcs00623	Toluene degradation - Halomonas campaniensis
+path:hcs00625	Chloroalkane and chloroalkene degradation - Halomonas campaniensis
+path:hcs00626	Naphthalene degradation - Halomonas campaniensis
+path:hcs00627	Aminobenzoate degradation - Halomonas campaniensis
+path:hcs00630	Glyoxylate and dicarboxylate metabolism - Halomonas campaniensis
+path:hcs00633	Nitrotoluene degradation - Halomonas campaniensis
+path:hcs00640	Propanoate metabolism - Halomonas campaniensis
+path:hcs00643	Styrene degradation - Halomonas campaniensis
+path:hcs00650	Butanoate metabolism - Halomonas campaniensis
+path:hcs00660	C5-Branched dibasic acid metabolism - Halomonas campaniensis
+path:hcs00670	One carbon pool by folate - Halomonas campaniensis
+path:hcs00680	Methane metabolism - Halomonas campaniensis
+path:hcs00730	Thiamine metabolism - Halomonas campaniensis
+path:hcs00740	Riboflavin metabolism - Halomonas campaniensis
+path:hcs00750	Vitamin B6 metabolism - Halomonas campaniensis
+path:hcs00760	Nicotinate and nicotinamide metabolism - Halomonas campaniensis
+path:hcs00770	Pantothenate and CoA biosynthesis - Halomonas campaniensis
+path:hcs00780	Biotin metabolism - Halomonas campaniensis
+path:hcs00785	Lipoic acid metabolism - Halomonas campaniensis
+path:hcs00790	Folate biosynthesis - Halomonas campaniensis
+path:hcs00860	Porphyrin and chlorophyll metabolism - Halomonas campaniensis
+path:hcs00900	Terpenoid backbone biosynthesis - Halomonas campaniensis
+path:hcs00903	Limonene and pinene degradation - Halomonas campaniensis
+path:hcs00910	Nitrogen metabolism - Halomonas campaniensis
+path:hcs00920	Sulfur metabolism - Halomonas campaniensis
+path:hcs00930	Caprolactam degradation - Halomonas campaniensis
+path:hcs00970	Aminoacyl-tRNA biosynthesis - Halomonas campaniensis
+path:hcs01040	Biosynthesis of unsaturated fatty acids - Halomonas campaniensis
+path:hcs01054	Nonribosomal peptide structures - Halomonas campaniensis
+path:hcs01100	Metabolic pathways - Halomonas campaniensis
+path:hcs01110	Biosynthesis of secondary metabolites - Halomonas campaniensis
+path:hcs01120	Microbial metabolism in diverse environments - Halomonas campaniensis
+path:hcs01130	Biosynthesis of antibiotics - Halomonas campaniensis
+path:hcs01200	Carbon metabolism - Halomonas campaniensis
+path:hcs01210	2-Oxocarboxylic acid metabolism - Halomonas campaniensis
+path:hcs01212	Fatty acid metabolism - Halomonas campaniensis
+path:hcs01220	Degradation of aromatic compounds - Halomonas campaniensis
+path:hcs01230	Biosynthesis of amino acids - Halomonas campaniensis
+path:hcs01501	beta-Lactam resistance - Halomonas campaniensis
+path:hcs01502	Vancomycin resistance - Halomonas campaniensis
+path:hcs01503	Cationic antimicrobial peptide (CAMP) resistance - Halomonas campaniensis
+path:hcs02010	ABC transporters - Halomonas campaniensis
+path:hcs02020	Two-component system - Halomonas campaniensis
+path:hcs02024	Quorum sensing - Halomonas campaniensis
+path:hcs02030	Bacterial chemotaxis - Halomonas campaniensis
+path:hcs02040	Flagellar assembly - Halomonas campaniensis
+path:hcs02060	Phosphotransferase system (PTS) - Halomonas campaniensis
+path:hcs03010	Ribosome - Halomonas campaniensis
+path:hcs03018	RNA degradation - Halomonas campaniensis
+path:hcs03020	RNA polymerase - Halomonas campaniensis
+path:hcs03030	DNA replication - Halomonas campaniensis
+path:hcs03060	Protein export - Halomonas campaniensis
+path:hcs03070	Bacterial secretion system - Halomonas campaniensis
+path:hcs03410	Base excision repair - Halomonas campaniensis
+path:hcs03420	Nucleotide excision repair - Halomonas campaniensis
+path:hcs03430	Mismatch repair - Halomonas campaniensis
+path:hcs03440	Homologous recombination - Halomonas campaniensis
+path:hcs04122	Sulfur relay system - Halomonas campaniensis
+path:hak00010	Glycolysis / Gluconeogenesis - Halomonas sp. KO116
+path:hak00020	Citrate cycle (TCA cycle) - Halomonas sp. KO116
+path:hak00030	Pentose phosphate pathway - Halomonas sp. KO116
+path:hak00040	Pentose and glucuronate interconversions - Halomonas sp. KO116
+path:hak00051	Fructose and mannose metabolism - Halomonas sp. KO116
+path:hak00052	Galactose metabolism - Halomonas sp. KO116
+path:hak00053	Ascorbate and aldarate metabolism - Halomonas sp. KO116
+path:hak00061	Fatty acid biosynthesis - Halomonas sp. KO116
+path:hak00071	Fatty acid degradation - Halomonas sp. KO116
+path:hak00072	Synthesis and degradation of ketone bodies - Halomonas sp. KO116
+path:hak00130	Ubiquinone and other terpenoid-quinone biosynthesis - Halomonas sp. KO116
+path:hak00190	Oxidative phosphorylation - Halomonas sp. KO116
+path:hak00220	Arginine biosynthesis - Halomonas sp. KO116
+path:hak00230	Purine metabolism - Halomonas sp. KO116
+path:hak00240	Pyrimidine metabolism - Halomonas sp. KO116
+path:hak00250	Alanine, aspartate and glutamate metabolism - Halomonas sp. KO116
+path:hak00260	Glycine, serine and threonine metabolism - Halomonas sp. KO116
+path:hak00261	Monobactam biosynthesis - Halomonas sp. KO116
+path:hak00270	Cysteine and methionine metabolism - Halomonas sp. KO116
+path:hak00280	Valine, leucine and isoleucine degradation - Halomonas sp. KO116
+path:hak00281	Geraniol degradation - Halomonas sp. KO116
+path:hak00290	Valine, leucine and isoleucine biosynthesis - Halomonas sp. KO116
+path:hak00300	Lysine biosynthesis - Halomonas sp. KO116
+path:hak00310	Lysine degradation - Halomonas sp. KO116
+path:hak00330	Arginine and proline metabolism - Halomonas sp. KO116
+path:hak00332	Carbapenem biosynthesis - Halomonas sp. KO116
+path:hak00340	Histidine metabolism - Halomonas sp. KO116
+path:hak00350	Tyrosine metabolism - Halomonas sp. KO116
+path:hak00360	Phenylalanine metabolism - Halomonas sp. KO116
+path:hak00361	Chlorocyclohexane and chlorobenzene degradation - Halomonas sp. KO116
+path:hak00362	Benzoate degradation - Halomonas sp. KO116
+path:hak00364	Fluorobenzoate degradation - Halomonas sp. KO116
+path:hak00365	Furfural degradation - Halomonas sp. KO116
+path:hak00380	Tryptophan metabolism - Halomonas sp. KO116
+path:hak00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Halomonas sp. KO116
+path:hak00401	Novobiocin biosynthesis - Halomonas sp. KO116
+path:hak00405	Phenazine biosynthesis - Halomonas sp. KO116
+path:hak00410	beta-Alanine metabolism - Halomonas sp. KO116
+path:hak00430	Taurine and hypotaurine metabolism - Halomonas sp. KO116
+path:hak00440	Phosphonate and phosphinate metabolism - Halomonas sp. KO116
+path:hak00450	Selenocompound metabolism - Halomonas sp. KO116
+path:hak00460	Cyanoamino acid metabolism - Halomonas sp. KO116
+path:hak00471	D-Glutamine and D-glutamate metabolism - Halomonas sp. KO116
+path:hak00473	D-Alanine metabolism - Halomonas sp. KO116
+path:hak00480	Glutathione metabolism - Halomonas sp. KO116
+path:hak00500	Starch and sucrose metabolism - Halomonas sp. KO116
+path:hak00520	Amino sugar and nucleotide sugar metabolism - Halomonas sp. KO116
+path:hak00521	Streptomycin biosynthesis - Halomonas sp. KO116
+path:hak00523	Polyketide sugar unit biosynthesis - Halomonas sp. KO116
+path:hak00525	Acarbose and validamycin biosynthesis - Halomonas sp. KO116
+path:hak00540	Lipopolysaccharide biosynthesis - Halomonas sp. KO116
+path:hak00550	Peptidoglycan biosynthesis - Halomonas sp. KO116
+path:hak00561	Glycerolipid metabolism - Halomonas sp. KO116
+path:hak00562	Inositol phosphate metabolism - Halomonas sp. KO116
+path:hak00564	Glycerophospholipid metabolism - Halomonas sp. KO116
+path:hak00565	Ether lipid metabolism - Halomonas sp. KO116
+path:hak00590	Arachidonic acid metabolism - Halomonas sp. KO116
+path:hak00592	alpha-Linolenic acid metabolism - Halomonas sp. KO116
+path:hak00620	Pyruvate metabolism - Halomonas sp. KO116
+path:hak00621	Dioxin degradation - Halomonas sp. KO116
+path:hak00622	Xylene degradation - Halomonas sp. KO116
+path:hak00623	Toluene degradation - Halomonas sp. KO116
+path:hak00624	Polycyclic aromatic hydrocarbon degradation - Halomonas sp. KO116
+path:hak00625	Chloroalkane and chloroalkene degradation - Halomonas sp. KO116
+path:hak00626	Naphthalene degradation - Halomonas sp. KO116
+path:hak00627	Aminobenzoate degradation - Halomonas sp. KO116
+path:hak00630	Glyoxylate and dicarboxylate metabolism - Halomonas sp. KO116
+path:hak00633	Nitrotoluene degradation - Halomonas sp. KO116
+path:hak00640	Propanoate metabolism - Halomonas sp. KO116
+path:hak00643	Styrene degradation - Halomonas sp. KO116
+path:hak00650	Butanoate metabolism - Halomonas sp. KO116
+path:hak00660	C5-Branched dibasic acid metabolism - Halomonas sp. KO116
+path:hak00670	One carbon pool by folate - Halomonas sp. KO116
+path:hak00680	Methane metabolism - Halomonas sp. KO116
+path:hak00730	Thiamine metabolism - Halomonas sp. KO116
+path:hak00740	Riboflavin metabolism - Halomonas sp. KO116
+path:hak00750	Vitamin B6 metabolism - Halomonas sp. KO116
+path:hak00760	Nicotinate and nicotinamide metabolism - Halomonas sp. KO116
+path:hak00770	Pantothenate and CoA biosynthesis - Halomonas sp. KO116
+path:hak00780	Biotin metabolism - Halomonas sp. KO116
+path:hak00785	Lipoic acid metabolism - Halomonas sp. KO116
+path:hak00790	Folate biosynthesis - Halomonas sp. KO116
+path:hak00791	Atrazine degradation - Halomonas sp. KO116
+path:hak00860	Porphyrin and chlorophyll metabolism - Halomonas sp. KO116
+path:hak00900	Terpenoid backbone biosynthesis - Halomonas sp. KO116
+path:hak00903	Limonene and pinene degradation - Halomonas sp. KO116
+path:hak00910	Nitrogen metabolism - Halomonas sp. KO116
+path:hak00920	Sulfur metabolism - Halomonas sp. KO116
+path:hak00930	Caprolactam degradation - Halomonas sp. KO116
+path:hak00970	Aminoacyl-tRNA biosynthesis - Halomonas sp. KO116
+path:hak01040	Biosynthesis of unsaturated fatty acids - Halomonas sp. KO116
+path:hak01054	Nonribosomal peptide structures - Halomonas sp. KO116
+path:hak01100	Metabolic pathways - Halomonas sp. KO116
+path:hak01110	Biosynthesis of secondary metabolites - Halomonas sp. KO116
+path:hak01120	Microbial metabolism in diverse environments - Halomonas sp. KO116
+path:hak01130	Biosynthesis of antibiotics - Halomonas sp. KO116
+path:hak01200	Carbon metabolism - Halomonas sp. KO116
+path:hak01210	2-Oxocarboxylic acid metabolism - Halomonas sp. KO116
+path:hak01212	Fatty acid metabolism - Halomonas sp. KO116
+path:hak01220	Degradation of aromatic compounds - Halomonas sp. KO116
+path:hak01230	Biosynthesis of amino acids - Halomonas sp. KO116
+path:hak01501	beta-Lactam resistance - Halomonas sp. KO116
+path:hak01502	Vancomycin resistance - Halomonas sp. KO116
+path:hak01503	Cationic antimicrobial peptide (CAMP) resistance - Halomonas sp. KO116
+path:hak02010	ABC transporters - Halomonas sp. KO116
+path:hak02020	Two-component system - Halomonas sp. KO116
+path:hak02024	Quorum sensing - Halomonas sp. KO116
+path:hak02030	Bacterial chemotaxis - Halomonas sp. KO116
+path:hak02040	Flagellar assembly - Halomonas sp. KO116
+path:hak02060	Phosphotransferase system (PTS) - Halomonas sp. KO116
+path:hak03010	Ribosome - Halomonas sp. KO116
+path:hak03018	RNA degradation - Halomonas sp. KO116
+path:hak03020	RNA polymerase - Halomonas sp. KO116
+path:hak03030	DNA replication - Halomonas sp. KO116
+path:hak03060	Protein export - Halomonas sp. KO116
+path:hak03070	Bacterial secretion system - Halomonas sp. KO116
+path:hak03410	Base excision repair - Halomonas sp. KO116
+path:hak03420	Nucleotide excision repair - Halomonas sp. KO116
+path:hak03430	Mismatch repair - Halomonas sp. KO116
+path:hak03440	Homologous recombination - Halomonas sp. KO116
+path:hak04122	Sulfur relay system - Halomonas sp. KO116
+path:ham00010	Glycolysis / Gluconeogenesis - Halomonas sp. R57-5
+path:ham00020	Citrate cycle (TCA cycle) - Halomonas sp. R57-5
+path:ham00030	Pentose phosphate pathway - Halomonas sp. R57-5
+path:ham00040	Pentose and glucuronate interconversions - Halomonas sp. R57-5
+path:ham00051	Fructose and mannose metabolism - Halomonas sp. R57-5
+path:ham00052	Galactose metabolism - Halomonas sp. R57-5
+path:ham00053	Ascorbate and aldarate metabolism - Halomonas sp. R57-5
+path:ham00061	Fatty acid biosynthesis - Halomonas sp. R57-5
+path:ham00071	Fatty acid degradation - Halomonas sp. R57-5
+path:ham00072	Synthesis and degradation of ketone bodies - Halomonas sp. R57-5
+path:ham00130	Ubiquinone and other terpenoid-quinone biosynthesis - Halomonas sp. R57-5
+path:ham00190	Oxidative phosphorylation - Halomonas sp. R57-5
+path:ham00220	Arginine biosynthesis - Halomonas sp. R57-5
+path:ham00230	Purine metabolism - Halomonas sp. R57-5
+path:ham00240	Pyrimidine metabolism - Halomonas sp. R57-5
+path:ham00250	Alanine, aspartate and glutamate metabolism - Halomonas sp. R57-5
+path:ham00260	Glycine, serine and threonine metabolism - Halomonas sp. R57-5
+path:ham00261	Monobactam biosynthesis - Halomonas sp. R57-5
+path:ham00270	Cysteine and methionine metabolism - Halomonas sp. R57-5
+path:ham00280	Valine, leucine and isoleucine degradation - Halomonas sp. R57-5
+path:ham00281	Geraniol degradation - Halomonas sp. R57-5
+path:ham00290	Valine, leucine and isoleucine biosynthesis - Halomonas sp. R57-5
+path:ham00300	Lysine biosynthesis - Halomonas sp. R57-5
+path:ham00310	Lysine degradation - Halomonas sp. R57-5
+path:ham00311	Penicillin and cephalosporin biosynthesis - Halomonas sp. R57-5
+path:ham00330	Arginine and proline metabolism - Halomonas sp. R57-5
+path:ham00332	Carbapenem biosynthesis - Halomonas sp. R57-5
+path:ham00340	Histidine metabolism - Halomonas sp. R57-5
+path:ham00350	Tyrosine metabolism - Halomonas sp. R57-5
+path:ham00360	Phenylalanine metabolism - Halomonas sp. R57-5
+path:ham00361	Chlorocyclohexane and chlorobenzene degradation - Halomonas sp. R57-5
+path:ham00362	Benzoate degradation - Halomonas sp. R57-5
+path:ham00364	Fluorobenzoate degradation - Halomonas sp. R57-5
+path:ham00380	Tryptophan metabolism - Halomonas sp. R57-5
+path:ham00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Halomonas sp. R57-5
+path:ham00401	Novobiocin biosynthesis - Halomonas sp. R57-5
+path:ham00405	Phenazine biosynthesis - Halomonas sp. R57-5
+path:ham00410	beta-Alanine metabolism - Halomonas sp. R57-5
+path:ham00430	Taurine and hypotaurine metabolism - Halomonas sp. R57-5
+path:ham00440	Phosphonate and phosphinate metabolism - Halomonas sp. R57-5
+path:ham00450	Selenocompound metabolism - Halomonas sp. R57-5
+path:ham00460	Cyanoamino acid metabolism - Halomonas sp. R57-5
+path:ham00471	D-Glutamine and D-glutamate metabolism - Halomonas sp. R57-5
+path:ham00473	D-Alanine metabolism - Halomonas sp. R57-5
+path:ham00480	Glutathione metabolism - Halomonas sp. R57-5
+path:ham00500	Starch and sucrose metabolism - Halomonas sp. R57-5
+path:ham00520	Amino sugar and nucleotide sugar metabolism - Halomonas sp. R57-5
+path:ham00521	Streptomycin biosynthesis - Halomonas sp. R57-5
+path:ham00523	Polyketide sugar unit biosynthesis - Halomonas sp. R57-5
+path:ham00525	Acarbose and validamycin biosynthesis - Halomonas sp. R57-5
+path:ham00540	Lipopolysaccharide biosynthesis - Halomonas sp. R57-5
+path:ham00550	Peptidoglycan biosynthesis - Halomonas sp. R57-5
+path:ham00561	Glycerolipid metabolism - Halomonas sp. R57-5
+path:ham00562	Inositol phosphate metabolism - Halomonas sp. R57-5
+path:ham00564	Glycerophospholipid metabolism - Halomonas sp. R57-5
+path:ham00565	Ether lipid metabolism - Halomonas sp. R57-5
+path:ham00590	Arachidonic acid metabolism - Halomonas sp. R57-5
+path:ham00592	alpha-Linolenic acid metabolism - Halomonas sp. R57-5
+path:ham00620	Pyruvate metabolism - Halomonas sp. R57-5
+path:ham00623	Toluene degradation - Halomonas sp. R57-5
+path:ham00624	Polycyclic aromatic hydrocarbon degradation - Halomonas sp. R57-5
+path:ham00625	Chloroalkane and chloroalkene degradation - Halomonas sp. R57-5
+path:ham00626	Naphthalene degradation - Halomonas sp. R57-5
+path:ham00627	Aminobenzoate degradation - Halomonas sp. R57-5
+path:ham00630	Glyoxylate and dicarboxylate metabolism - Halomonas sp. R57-5
+path:ham00633	Nitrotoluene degradation - Halomonas sp. R57-5
+path:ham00640	Propanoate metabolism - Halomonas sp. R57-5
+path:ham00643	Styrene degradation - Halomonas sp. R57-5
+path:ham00650	Butanoate metabolism - Halomonas sp. R57-5
+path:ham00660	C5-Branched dibasic acid metabolism - Halomonas sp. R57-5
+path:ham00670	One carbon pool by folate - Halomonas sp. R57-5
+path:ham00680	Methane metabolism - Halomonas sp. R57-5
+path:ham00730	Thiamine metabolism - Halomonas sp. R57-5
+path:ham00740	Riboflavin metabolism - Halomonas sp. R57-5
+path:ham00750	Vitamin B6 metabolism - Halomonas sp. R57-5
+path:ham00760	Nicotinate and nicotinamide metabolism - Halomonas sp. R57-5
+path:ham00770	Pantothenate and CoA biosynthesis - Halomonas sp. R57-5
+path:ham00780	Biotin metabolism - Halomonas sp. R57-5
+path:ham00785	Lipoic acid metabolism - Halomonas sp. R57-5
+path:ham00790	Folate biosynthesis - Halomonas sp. R57-5
+path:ham00791	Atrazine degradation - Halomonas sp. R57-5
+path:ham00860	Porphyrin and chlorophyll metabolism - Halomonas sp. R57-5
+path:ham00900	Terpenoid backbone biosynthesis - Halomonas sp. R57-5
+path:ham00903	Limonene and pinene degradation - Halomonas sp. R57-5
+path:ham00910	Nitrogen metabolism - Halomonas sp. R57-5
+path:ham00920	Sulfur metabolism - Halomonas sp. R57-5
+path:ham00930	Caprolactam degradation - Halomonas sp. R57-5
+path:ham00970	Aminoacyl-tRNA biosynthesis - Halomonas sp. R57-5
+path:ham01040	Biosynthesis of unsaturated fatty acids - Halomonas sp. R57-5
+path:ham01054	Nonribosomal peptide structures - Halomonas sp. R57-5
+path:ham01100	Metabolic pathways - Halomonas sp. R57-5
+path:ham01110	Biosynthesis of secondary metabolites - Halomonas sp. R57-5
+path:ham01120	Microbial metabolism in diverse environments - Halomonas sp. R57-5
+path:ham01130	Biosynthesis of antibiotics - Halomonas sp. R57-5
+path:ham01200	Carbon metabolism - Halomonas sp. R57-5
+path:ham01210	2-Oxocarboxylic acid metabolism - Halomonas sp. R57-5
+path:ham01212	Fatty acid metabolism - Halomonas sp. R57-5
+path:ham01220	Degradation of aromatic compounds - Halomonas sp. R57-5
+path:ham01230	Biosynthesis of amino acids - Halomonas sp. R57-5
+path:ham01501	beta-Lactam resistance - Halomonas sp. R57-5
+path:ham01502	Vancomycin resistance - Halomonas sp. R57-5
+path:ham01503	Cationic antimicrobial peptide (CAMP) resistance - Halomonas sp. R57-5
+path:ham02010	ABC transporters - Halomonas sp. R57-5
+path:ham02020	Two-component system - Halomonas sp. R57-5
+path:ham02024	Quorum sensing - Halomonas sp. R57-5
+path:ham02030	Bacterial chemotaxis - Halomonas sp. R57-5
+path:ham02040	Flagellar assembly - Halomonas sp. R57-5
+path:ham02060	Phosphotransferase system (PTS) - Halomonas sp. R57-5
+path:ham03010	Ribosome - Halomonas sp. R57-5
+path:ham03018	RNA degradation - Halomonas sp. R57-5
+path:ham03020	RNA polymerase - Halomonas sp. R57-5
+path:ham03030	DNA replication - Halomonas sp. R57-5
+path:ham03060	Protein export - Halomonas sp. R57-5
+path:ham03070	Bacterial secretion system - Halomonas sp. R57-5
+path:ham03410	Base excision repair - Halomonas sp. R57-5
+path:ham03420	Nucleotide excision repair - Halomonas sp. R57-5
+path:ham03430	Mismatch repair - Halomonas sp. R57-5
+path:ham03440	Homologous recombination - Halomonas sp. R57-5
+path:ham04122	Sulfur relay system - Halomonas sp. R57-5
+path:hhu00010	Glycolysis / Gluconeogenesis - Halomonas huangheensis
+path:hhu00020	Citrate cycle (TCA cycle) - Halomonas huangheensis
+path:hhu00030	Pentose phosphate pathway - Halomonas huangheensis
+path:hhu00040	Pentose and glucuronate interconversions - Halomonas huangheensis
+path:hhu00051	Fructose and mannose metabolism - Halomonas huangheensis
+path:hhu00052	Galactose metabolism - Halomonas huangheensis
+path:hhu00053	Ascorbate and aldarate metabolism - Halomonas huangheensis
+path:hhu00061	Fatty acid biosynthesis - Halomonas huangheensis
+path:hhu00071	Fatty acid degradation - Halomonas huangheensis
+path:hhu00072	Synthesis and degradation of ketone bodies - Halomonas huangheensis
+path:hhu00130	Ubiquinone and other terpenoid-quinone biosynthesis - Halomonas huangheensis
+path:hhu00190	Oxidative phosphorylation - Halomonas huangheensis
+path:hhu00220	Arginine biosynthesis - Halomonas huangheensis
+path:hhu00230	Purine metabolism - Halomonas huangheensis
+path:hhu00240	Pyrimidine metabolism - Halomonas huangheensis
+path:hhu00250	Alanine, aspartate and glutamate metabolism - Halomonas huangheensis
+path:hhu00260	Glycine, serine and threonine metabolism - Halomonas huangheensis
+path:hhu00261	Monobactam biosynthesis - Halomonas huangheensis
+path:hhu00270	Cysteine and methionine metabolism - Halomonas huangheensis
+path:hhu00280	Valine, leucine and isoleucine degradation - Halomonas huangheensis
+path:hhu00281	Geraniol degradation - Halomonas huangheensis
+path:hhu00290	Valine, leucine and isoleucine biosynthesis - Halomonas huangheensis
+path:hhu00300	Lysine biosynthesis - Halomonas huangheensis
+path:hhu00310	Lysine degradation - Halomonas huangheensis
+path:hhu00311	Penicillin and cephalosporin biosynthesis - Halomonas huangheensis
+path:hhu00330	Arginine and proline metabolism - Halomonas huangheensis
+path:hhu00332	Carbapenem biosynthesis - Halomonas huangheensis
+path:hhu00340	Histidine metabolism - Halomonas huangheensis
+path:hhu00350	Tyrosine metabolism - Halomonas huangheensis
+path:hhu00360	Phenylalanine metabolism - Halomonas huangheensis
+path:hhu00361	Chlorocyclohexane and chlorobenzene degradation - Halomonas huangheensis
+path:hhu00362	Benzoate degradation - Halomonas huangheensis
+path:hhu00364	Fluorobenzoate degradation - Halomonas huangheensis
+path:hhu00380	Tryptophan metabolism - Halomonas huangheensis
+path:hhu00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Halomonas huangheensis
+path:hhu00401	Novobiocin biosynthesis - Halomonas huangheensis
+path:hhu00405	Phenazine biosynthesis - Halomonas huangheensis
+path:hhu00410	beta-Alanine metabolism - Halomonas huangheensis
+path:hhu00430	Taurine and hypotaurine metabolism - Halomonas huangheensis
+path:hhu00440	Phosphonate and phosphinate metabolism - Halomonas huangheensis
+path:hhu00450	Selenocompound metabolism - Halomonas huangheensis
+path:hhu00460	Cyanoamino acid metabolism - Halomonas huangheensis
+path:hhu00471	D-Glutamine and D-glutamate metabolism - Halomonas huangheensis
+path:hhu00473	D-Alanine metabolism - Halomonas huangheensis
+path:hhu00480	Glutathione metabolism - Halomonas huangheensis
+path:hhu00500	Starch and sucrose metabolism - Halomonas huangheensis
+path:hhu00520	Amino sugar and nucleotide sugar metabolism - Halomonas huangheensis
+path:hhu00521	Streptomycin biosynthesis - Halomonas huangheensis
+path:hhu00523	Polyketide sugar unit biosynthesis - Halomonas huangheensis
+path:hhu00525	Acarbose and validamycin biosynthesis - Halomonas huangheensis
+path:hhu00540	Lipopolysaccharide biosynthesis - Halomonas huangheensis
+path:hhu00550	Peptidoglycan biosynthesis - Halomonas huangheensis
+path:hhu00561	Glycerolipid metabolism - Halomonas huangheensis
+path:hhu00562	Inositol phosphate metabolism - Halomonas huangheensis
+path:hhu00564	Glycerophospholipid metabolism - Halomonas huangheensis
+path:hhu00565	Ether lipid metabolism - Halomonas huangheensis
+path:hhu00590	Arachidonic acid metabolism - Halomonas huangheensis
+path:hhu00592	alpha-Linolenic acid metabolism - Halomonas huangheensis
+path:hhu00620	Pyruvate metabolism - Halomonas huangheensis
+path:hhu00622	Xylene degradation - Halomonas huangheensis
+path:hhu00623	Toluene degradation - Halomonas huangheensis
+path:hhu00625	Chloroalkane and chloroalkene degradation - Halomonas huangheensis
+path:hhu00626	Naphthalene degradation - Halomonas huangheensis
+path:hhu00627	Aminobenzoate degradation - Halomonas huangheensis
+path:hhu00630	Glyoxylate and dicarboxylate metabolism - Halomonas huangheensis
+path:hhu00633	Nitrotoluene degradation - Halomonas huangheensis
+path:hhu00640	Propanoate metabolism - Halomonas huangheensis
+path:hhu00643	Styrene degradation - Halomonas huangheensis
+path:hhu00650	Butanoate metabolism - Halomonas huangheensis
+path:hhu00660	C5-Branched dibasic acid metabolism - Halomonas huangheensis
+path:hhu00670	One carbon pool by folate - Halomonas huangheensis
+path:hhu00680	Methane metabolism - Halomonas huangheensis
+path:hhu00730	Thiamine metabolism - Halomonas huangheensis
+path:hhu00740	Riboflavin metabolism - Halomonas huangheensis
+path:hhu00750	Vitamin B6 metabolism - Halomonas huangheensis
+path:hhu00760	Nicotinate and nicotinamide metabolism - Halomonas huangheensis
+path:hhu00770	Pantothenate and CoA biosynthesis - Halomonas huangheensis
+path:hhu00780	Biotin metabolism - Halomonas huangheensis
+path:hhu00785	Lipoic acid metabolism - Halomonas huangheensis
+path:hhu00790	Folate biosynthesis - Halomonas huangheensis
+path:hhu00860	Porphyrin and chlorophyll metabolism - Halomonas huangheensis
+path:hhu00900	Terpenoid backbone biosynthesis - Halomonas huangheensis
+path:hhu00903	Limonene and pinene degradation - Halomonas huangheensis
+path:hhu00910	Nitrogen metabolism - Halomonas huangheensis
+path:hhu00920	Sulfur metabolism - Halomonas huangheensis
+path:hhu00930	Caprolactam degradation - Halomonas huangheensis
+path:hhu00970	Aminoacyl-tRNA biosynthesis - Halomonas huangheensis
+path:hhu01040	Biosynthesis of unsaturated fatty acids - Halomonas huangheensis
+path:hhu01054	Nonribosomal peptide structures - Halomonas huangheensis
+path:hhu01100	Metabolic pathways - Halomonas huangheensis
+path:hhu01110	Biosynthesis of secondary metabolites - Halomonas huangheensis
+path:hhu01120	Microbial metabolism in diverse environments - Halomonas huangheensis
+path:hhu01130	Biosynthesis of antibiotics - Halomonas huangheensis
+path:hhu01200	Carbon metabolism - Halomonas huangheensis
+path:hhu01210	2-Oxocarboxylic acid metabolism - Halomonas huangheensis
+path:hhu01212	Fatty acid metabolism - Halomonas huangheensis
+path:hhu01220	Degradation of aromatic compounds - Halomonas huangheensis
+path:hhu01230	Biosynthesis of amino acids - Halomonas huangheensis
+path:hhu01501	beta-Lactam resistance - Halomonas huangheensis
+path:hhu01502	Vancomycin resistance - Halomonas huangheensis
+path:hhu01503	Cationic antimicrobial peptide (CAMP) resistance - Halomonas huangheensis
+path:hhu02010	ABC transporters - Halomonas huangheensis
+path:hhu02020	Two-component system - Halomonas huangheensis
+path:hhu02024	Quorum sensing - Halomonas huangheensis
+path:hhu02030	Bacterial chemotaxis - Halomonas huangheensis
+path:hhu02040	Flagellar assembly - Halomonas huangheensis
+path:hhu02060	Phosphotransferase system (PTS) - Halomonas huangheensis
+path:hhu03010	Ribosome - Halomonas huangheensis
+path:hhu03018	RNA degradation - Halomonas huangheensis
+path:hhu03020	RNA polymerase - Halomonas huangheensis
+path:hhu03030	DNA replication - Halomonas huangheensis
+path:hhu03060	Protein export - Halomonas huangheensis
+path:hhu03070	Bacterial secretion system - Halomonas huangheensis
+path:hhu03410	Base excision repair - Halomonas huangheensis
+path:hhu03420	Nucleotide excision repair - Halomonas huangheensis
+path:hhu03430	Mismatch repair - Halomonas huangheensis
+path:hhu03440	Homologous recombination - Halomonas huangheensis
+path:hhu04122	Sulfur relay system - Halomonas huangheensis
+path:hco00010	Glycolysis / Gluconeogenesis - Halomonas chromatireducens
+path:hco00020	Citrate cycle (TCA cycle) - Halomonas chromatireducens
+path:hco00030	Pentose phosphate pathway - Halomonas chromatireducens
+path:hco00040	Pentose and glucuronate interconversions - Halomonas chromatireducens
+path:hco00051	Fructose and mannose metabolism - Halomonas chromatireducens
+path:hco00052	Galactose metabolism - Halomonas chromatireducens
+path:hco00053	Ascorbate and aldarate metabolism - Halomonas chromatireducens
+path:hco00061	Fatty acid biosynthesis - Halomonas chromatireducens
+path:hco00071	Fatty acid degradation - Halomonas chromatireducens
+path:hco00072	Synthesis and degradation of ketone bodies - Halomonas chromatireducens
+path:hco00100	Steroid biosynthesis - Halomonas chromatireducens
+path:hco00130	Ubiquinone and other terpenoid-quinone biosynthesis - Halomonas chromatireducens
+path:hco00190	Oxidative phosphorylation - Halomonas chromatireducens
+path:hco00220	Arginine biosynthesis - Halomonas chromatireducens
+path:hco00230	Purine metabolism - Halomonas chromatireducens
+path:hco00240	Pyrimidine metabolism - Halomonas chromatireducens
+path:hco00250	Alanine, aspartate and glutamate metabolism - Halomonas chromatireducens
+path:hco00260	Glycine, serine and threonine metabolism - Halomonas chromatireducens
+path:hco00261	Monobactam biosynthesis - Halomonas chromatireducens
+path:hco00270	Cysteine and methionine metabolism - Halomonas chromatireducens
+path:hco00280	Valine, leucine and isoleucine degradation - Halomonas chromatireducens
+path:hco00281	Geraniol degradation - Halomonas chromatireducens
+path:hco00290	Valine, leucine and isoleucine biosynthesis - Halomonas chromatireducens
+path:hco00300	Lysine biosynthesis - Halomonas chromatireducens
+path:hco00310	Lysine degradation - Halomonas chromatireducens
+path:hco00311	Penicillin and cephalosporin biosynthesis - Halomonas chromatireducens
+path:hco00330	Arginine and proline metabolism - Halomonas chromatireducens
+path:hco00332	Carbapenem biosynthesis - Halomonas chromatireducens
+path:hco00340	Histidine metabolism - Halomonas chromatireducens
+path:hco00350	Tyrosine metabolism - Halomonas chromatireducens
+path:hco00360	Phenylalanine metabolism - Halomonas chromatireducens
+path:hco00361	Chlorocyclohexane and chlorobenzene degradation - Halomonas chromatireducens
+path:hco00362	Benzoate degradation - Halomonas chromatireducens
+path:hco00364	Fluorobenzoate degradation - Halomonas chromatireducens
+path:hco00380	Tryptophan metabolism - Halomonas chromatireducens
+path:hco00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Halomonas chromatireducens
+path:hco00401	Novobiocin biosynthesis - Halomonas chromatireducens
+path:hco00405	Phenazine biosynthesis - Halomonas chromatireducens
+path:hco00410	beta-Alanine metabolism - Halomonas chromatireducens
+path:hco00430	Taurine and hypotaurine metabolism - Halomonas chromatireducens
+path:hco00450	Selenocompound metabolism - Halomonas chromatireducens
+path:hco00460	Cyanoamino acid metabolism - Halomonas chromatireducens
+path:hco00471	D-Glutamine and D-glutamate metabolism - Halomonas chromatireducens
+path:hco00473	D-Alanine metabolism - Halomonas chromatireducens
+path:hco00480	Glutathione metabolism - Halomonas chromatireducens
+path:hco00500	Starch and sucrose metabolism - Halomonas chromatireducens
+path:hco00520	Amino sugar and nucleotide sugar metabolism - Halomonas chromatireducens
+path:hco00521	Streptomycin biosynthesis - Halomonas chromatireducens
+path:hco00540	Lipopolysaccharide biosynthesis - Halomonas chromatireducens
+path:hco00550	Peptidoglycan biosynthesis - Halomonas chromatireducens
+path:hco00561	Glycerolipid metabolism - Halomonas chromatireducens
+path:hco00562	Inositol phosphate metabolism - Halomonas chromatireducens
+path:hco00564	Glycerophospholipid metabolism - Halomonas chromatireducens
+path:hco00565	Ether lipid metabolism - Halomonas chromatireducens
+path:hco00590	Arachidonic acid metabolism - Halomonas chromatireducens
+path:hco00592	alpha-Linolenic acid metabolism - Halomonas chromatireducens
+path:hco00620	Pyruvate metabolism - Halomonas chromatireducens
+path:hco00623	Toluene degradation - Halomonas chromatireducens
+path:hco00625	Chloroalkane and chloroalkene degradation - Halomonas chromatireducens
+path:hco00626	Naphthalene degradation - Halomonas chromatireducens
+path:hco00627	Aminobenzoate degradation - Halomonas chromatireducens
+path:hco00630	Glyoxylate and dicarboxylate metabolism - Halomonas chromatireducens
+path:hco00633	Nitrotoluene degradation - Halomonas chromatireducens
+path:hco00640	Propanoate metabolism - Halomonas chromatireducens
+path:hco00643	Styrene degradation - Halomonas chromatireducens
+path:hco00650	Butanoate metabolism - Halomonas chromatireducens
+path:hco00660	C5-Branched dibasic acid metabolism - Halomonas chromatireducens
+path:hco00670	One carbon pool by folate - Halomonas chromatireducens
+path:hco00680	Methane metabolism - Halomonas chromatireducens
+path:hco00730	Thiamine metabolism - Halomonas chromatireducens
+path:hco00740	Riboflavin metabolism - Halomonas chromatireducens
+path:hco00750	Vitamin B6 metabolism - Halomonas chromatireducens
+path:hco00760	Nicotinate and nicotinamide metabolism - Halomonas chromatireducens
+path:hco00770	Pantothenate and CoA biosynthesis - Halomonas chromatireducens
+path:hco00780	Biotin metabolism - Halomonas chromatireducens
+path:hco00785	Lipoic acid metabolism - Halomonas chromatireducens
+path:hco00790	Folate biosynthesis - Halomonas chromatireducens
+path:hco00860	Porphyrin and chlorophyll metabolism - Halomonas chromatireducens
+path:hco00900	Terpenoid backbone biosynthesis - Halomonas chromatireducens
+path:hco00903	Limonene and pinene degradation - Halomonas chromatireducens
+path:hco00909	Sesquiterpenoid and triterpenoid biosynthesis - Halomonas chromatireducens
+path:hco00910	Nitrogen metabolism - Halomonas chromatireducens
+path:hco00920	Sulfur metabolism - Halomonas chromatireducens
+path:hco00930	Caprolactam degradation - Halomonas chromatireducens
+path:hco00970	Aminoacyl-tRNA biosynthesis - Halomonas chromatireducens
+path:hco01040	Biosynthesis of unsaturated fatty acids - Halomonas chromatireducens
+path:hco01054	Nonribosomal peptide structures - Halomonas chromatireducens
+path:hco01100	Metabolic pathways - Halomonas chromatireducens
+path:hco01110	Biosynthesis of secondary metabolites - Halomonas chromatireducens
+path:hco01120	Microbial metabolism in diverse environments - Halomonas chromatireducens
+path:hco01130	Biosynthesis of antibiotics - Halomonas chromatireducens
+path:hco01200	Carbon metabolism - Halomonas chromatireducens
+path:hco01210	2-Oxocarboxylic acid metabolism - Halomonas chromatireducens
+path:hco01212	Fatty acid metabolism - Halomonas chromatireducens
+path:hco01220	Degradation of aromatic compounds - Halomonas chromatireducens
+path:hco01230	Biosynthesis of amino acids - Halomonas chromatireducens
+path:hco01501	beta-Lactam resistance - Halomonas chromatireducens
+path:hco01502	Vancomycin resistance - Halomonas chromatireducens
+path:hco01503	Cationic antimicrobial peptide (CAMP) resistance - Halomonas chromatireducens
+path:hco02010	ABC transporters - Halomonas chromatireducens
+path:hco02020	Two-component system - Halomonas chromatireducens
+path:hco02024	Quorum sensing - Halomonas chromatireducens
+path:hco02030	Bacterial chemotaxis - Halomonas chromatireducens
+path:hco02040	Flagellar assembly - Halomonas chromatireducens
+path:hco02060	Phosphotransferase system (PTS) - Halomonas chromatireducens
+path:hco03010	Ribosome - Halomonas chromatireducens
+path:hco03018	RNA degradation - Halomonas chromatireducens
+path:hco03020	RNA polymerase - Halomonas chromatireducens
+path:hco03030	DNA replication - Halomonas chromatireducens
+path:hco03060	Protein export - Halomonas chromatireducens
+path:hco03070	Bacterial secretion system - Halomonas chromatireducens
+path:hco03410	Base excision repair - Halomonas chromatireducens
+path:hco03420	Nucleotide excision repair - Halomonas chromatireducens
+path:hco03430	Mismatch repair - Halomonas chromatireducens
+path:hco03440	Homologous recombination - Halomonas chromatireducens
+path:hco03450	Non-homologous end-joining - Halomonas chromatireducens
+path:hco04122	Sulfur relay system - Halomonas chromatireducens
+path:hsi00010	Glycolysis / Gluconeogenesis - Halomonas aestuarii
+path:hsi00020	Citrate cycle (TCA cycle) - Halomonas aestuarii
+path:hsi00030	Pentose phosphate pathway - Halomonas aestuarii
+path:hsi00040	Pentose and glucuronate interconversions - Halomonas aestuarii
+path:hsi00051	Fructose and mannose metabolism - Halomonas aestuarii
+path:hsi00052	Galactose metabolism - Halomonas aestuarii
+path:hsi00053	Ascorbate and aldarate metabolism - Halomonas aestuarii
+path:hsi00061	Fatty acid biosynthesis - Halomonas aestuarii
+path:hsi00071	Fatty acid degradation - Halomonas aestuarii
+path:hsi00072	Synthesis and degradation of ketone bodies - Halomonas aestuarii
+path:hsi00130	Ubiquinone and other terpenoid-quinone biosynthesis - Halomonas aestuarii
+path:hsi00190	Oxidative phosphorylation - Halomonas aestuarii
+path:hsi00220	Arginine biosynthesis - Halomonas aestuarii
+path:hsi00230	Purine metabolism - Halomonas aestuarii
+path:hsi00240	Pyrimidine metabolism - Halomonas aestuarii
+path:hsi00250	Alanine, aspartate and glutamate metabolism - Halomonas aestuarii
+path:hsi00260	Glycine, serine and threonine metabolism - Halomonas aestuarii
+path:hsi00261	Monobactam biosynthesis - Halomonas aestuarii
+path:hsi00270	Cysteine and methionine metabolism - Halomonas aestuarii
+path:hsi00280	Valine, leucine and isoleucine degradation - Halomonas aestuarii
+path:hsi00281	Geraniol degradation - Halomonas aestuarii
+path:hsi00290	Valine, leucine and isoleucine biosynthesis - Halomonas aestuarii
+path:hsi00300	Lysine biosynthesis - Halomonas aestuarii
+path:hsi00310	Lysine degradation - Halomonas aestuarii
+path:hsi00330	Arginine and proline metabolism - Halomonas aestuarii
+path:hsi00332	Carbapenem biosynthesis - Halomonas aestuarii
+path:hsi00340	Histidine metabolism - Halomonas aestuarii
+path:hsi00350	Tyrosine metabolism - Halomonas aestuarii
+path:hsi00360	Phenylalanine metabolism - Halomonas aestuarii
+path:hsi00361	Chlorocyclohexane and chlorobenzene degradation - Halomonas aestuarii
+path:hsi00362	Benzoate degradation - Halomonas aestuarii
+path:hsi00364	Fluorobenzoate degradation - Halomonas aestuarii
+path:hsi00380	Tryptophan metabolism - Halomonas aestuarii
+path:hsi00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Halomonas aestuarii
+path:hsi00401	Novobiocin biosynthesis - Halomonas aestuarii
+path:hsi00410	beta-Alanine metabolism - Halomonas aestuarii
+path:hsi00430	Taurine and hypotaurine metabolism - Halomonas aestuarii
+path:hsi00450	Selenocompound metabolism - Halomonas aestuarii
+path:hsi00460	Cyanoamino acid metabolism - Halomonas aestuarii
+path:hsi00471	D-Glutamine and D-glutamate metabolism - Halomonas aestuarii
+path:hsi00473	D-Alanine metabolism - Halomonas aestuarii
+path:hsi00480	Glutathione metabolism - Halomonas aestuarii
+path:hsi00500	Starch and sucrose metabolism - Halomonas aestuarii
+path:hsi00520	Amino sugar and nucleotide sugar metabolism - Halomonas aestuarii
+path:hsi00521	Streptomycin biosynthesis - Halomonas aestuarii
+path:hsi00523	Polyketide sugar unit biosynthesis - Halomonas aestuarii
+path:hsi00525	Acarbose and validamycin biosynthesis - Halomonas aestuarii
+path:hsi00540	Lipopolysaccharide biosynthesis - Halomonas aestuarii
+path:hsi00550	Peptidoglycan biosynthesis - Halomonas aestuarii
+path:hsi00561	Glycerolipid metabolism - Halomonas aestuarii
+path:hsi00562	Inositol phosphate metabolism - Halomonas aestuarii
+path:hsi00564	Glycerophospholipid metabolism - Halomonas aestuarii
+path:hsi00565	Ether lipid metabolism - Halomonas aestuarii
+path:hsi00590	Arachidonic acid metabolism - Halomonas aestuarii
+path:hsi00592	alpha-Linolenic acid metabolism - Halomonas aestuarii
+path:hsi00620	Pyruvate metabolism - Halomonas aestuarii
+path:hsi00622	Xylene degradation - Halomonas aestuarii
+path:hsi00623	Toluene degradation - Halomonas aestuarii
+path:hsi00625	Chloroalkane and chloroalkene degradation - Halomonas aestuarii
+path:hsi00626	Naphthalene degradation - Halomonas aestuarii
+path:hsi00627	Aminobenzoate degradation - Halomonas aestuarii
+path:hsi00630	Glyoxylate and dicarboxylate metabolism - Halomonas aestuarii
+path:hsi00633	Nitrotoluene degradation - Halomonas aestuarii
+path:hsi00640	Propanoate metabolism - Halomonas aestuarii
+path:hsi00643	Styrene degradation - Halomonas aestuarii
+path:hsi00650	Butanoate metabolism - Halomonas aestuarii
+path:hsi00660	C5-Branched dibasic acid metabolism - Halomonas aestuarii
+path:hsi00670	One carbon pool by folate - Halomonas aestuarii
+path:hsi00680	Methane metabolism - Halomonas aestuarii
+path:hsi00730	Thiamine metabolism - Halomonas aestuarii
+path:hsi00740	Riboflavin metabolism - Halomonas aestuarii
+path:hsi00750	Vitamin B6 metabolism - Halomonas aestuarii
+path:hsi00760	Nicotinate and nicotinamide metabolism - Halomonas aestuarii
+path:hsi00770	Pantothenate and CoA biosynthesis - Halomonas aestuarii
+path:hsi00780	Biotin metabolism - Halomonas aestuarii
+path:hsi00785	Lipoic acid metabolism - Halomonas aestuarii
+path:hsi00790	Folate biosynthesis - Halomonas aestuarii
+path:hsi00860	Porphyrin and chlorophyll metabolism - Halomonas aestuarii
+path:hsi00900	Terpenoid backbone biosynthesis - Halomonas aestuarii
+path:hsi00903	Limonene and pinene degradation - Halomonas aestuarii
+path:hsi00910	Nitrogen metabolism - Halomonas aestuarii
+path:hsi00920	Sulfur metabolism - Halomonas aestuarii
+path:hsi00930	Caprolactam degradation - Halomonas aestuarii
+path:hsi00970	Aminoacyl-tRNA biosynthesis - Halomonas aestuarii
+path:hsi01040	Biosynthesis of unsaturated fatty acids - Halomonas aestuarii
+path:hsi01054	Nonribosomal peptide structures - Halomonas aestuarii
+path:hsi01100	Metabolic pathways - Halomonas aestuarii
+path:hsi01110	Biosynthesis of secondary metabolites - Halomonas aestuarii
+path:hsi01120	Microbial metabolism in diverse environments - Halomonas aestuarii
+path:hsi01130	Biosynthesis of antibiotics - Halomonas aestuarii
+path:hsi01200	Carbon metabolism - Halomonas aestuarii
+path:hsi01210	2-Oxocarboxylic acid metabolism - Halomonas aestuarii
+path:hsi01212	Fatty acid metabolism - Halomonas aestuarii
+path:hsi01220	Degradation of aromatic compounds - Halomonas aestuarii
+path:hsi01230	Biosynthesis of amino acids - Halomonas aestuarii
+path:hsi01501	beta-Lactam resistance - Halomonas aestuarii
+path:hsi01502	Vancomycin resistance - Halomonas aestuarii
+path:hsi01503	Cationic antimicrobial peptide (CAMP) resistance - Halomonas aestuarii
+path:hsi02010	ABC transporters - Halomonas aestuarii
+path:hsi02020	Two-component system - Halomonas aestuarii
+path:hsi02024	Quorum sensing - Halomonas aestuarii
+path:hsi02060	Phosphotransferase system (PTS) - Halomonas aestuarii
+path:hsi03010	Ribosome - Halomonas aestuarii
+path:hsi03018	RNA degradation - Halomonas aestuarii
+path:hsi03020	RNA polymerase - Halomonas aestuarii
+path:hsi03030	DNA replication - Halomonas aestuarii
+path:hsi03060	Protein export - Halomonas aestuarii
+path:hsi03070	Bacterial secretion system - Halomonas aestuarii
+path:hsi03410	Base excision repair - Halomonas aestuarii
+path:hsi03420	Nucleotide excision repair - Halomonas aestuarii
+path:hsi03430	Mismatch repair - Halomonas aestuarii
+path:hsi03440	Homologous recombination - Halomonas aestuarii
+path:hsi04122	Sulfur relay system - Halomonas aestuarii
+path:halo00010	Glycolysis / Gluconeogenesis - Halomonas sp. 1513
+path:halo00020	Citrate cycle (TCA cycle) - Halomonas sp. 1513
+path:halo00030	Pentose phosphate pathway - Halomonas sp. 1513
+path:halo00040	Pentose and glucuronate interconversions - Halomonas sp. 1513
+path:halo00051	Fructose and mannose metabolism - Halomonas sp. 1513
+path:halo00052	Galactose metabolism - Halomonas sp. 1513
+path:halo00053	Ascorbate and aldarate metabolism - Halomonas sp. 1513
+path:halo00061	Fatty acid biosynthesis - Halomonas sp. 1513
+path:halo00071	Fatty acid degradation - Halomonas sp. 1513
+path:halo00072	Synthesis and degradation of ketone bodies - Halomonas sp. 1513
+path:halo00100	Steroid biosynthesis - Halomonas sp. 1513
+path:halo00130	Ubiquinone and other terpenoid-quinone biosynthesis - Halomonas sp. 1513
+path:halo00190	Oxidative phosphorylation - Halomonas sp. 1513
+path:halo00220	Arginine biosynthesis - Halomonas sp. 1513
+path:halo00230	Purine metabolism - Halomonas sp. 1513
+path:halo00240	Pyrimidine metabolism - Halomonas sp. 1513
+path:halo00250	Alanine, aspartate and glutamate metabolism - Halomonas sp. 1513
+path:halo00260	Glycine, serine and threonine metabolism - Halomonas sp. 1513
+path:halo00261	Monobactam biosynthesis - Halomonas sp. 1513
+path:halo00270	Cysteine and methionine metabolism - Halomonas sp. 1513
+path:halo00280	Valine, leucine and isoleucine degradation - Halomonas sp. 1513
+path:halo00281	Geraniol degradation - Halomonas sp. 1513
+path:halo00290	Valine, leucine and isoleucine biosynthesis - Halomonas sp. 1513
+path:halo00300	Lysine biosynthesis - Halomonas sp. 1513
+path:halo00310	Lysine degradation - Halomonas sp. 1513
+path:halo00311	Penicillin and cephalosporin biosynthesis - Halomonas sp. 1513
+path:halo00330	Arginine and proline metabolism - Halomonas sp. 1513
+path:halo00332	Carbapenem biosynthesis - Halomonas sp. 1513
+path:halo00340	Histidine metabolism - Halomonas sp. 1513
+path:halo00350	Tyrosine metabolism - Halomonas sp. 1513
+path:halo00360	Phenylalanine metabolism - Halomonas sp. 1513
+path:halo00361	Chlorocyclohexane and chlorobenzene degradation - Halomonas sp. 1513
+path:halo00362	Benzoate degradation - Halomonas sp. 1513
+path:halo00380	Tryptophan metabolism - Halomonas sp. 1513
+path:halo00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Halomonas sp. 1513
+path:halo00401	Novobiocin biosynthesis - Halomonas sp. 1513
+path:halo00410	beta-Alanine metabolism - Halomonas sp. 1513
+path:halo00430	Taurine and hypotaurine metabolism - Halomonas sp. 1513
+path:halo00450	Selenocompound metabolism - Halomonas sp. 1513
+path:halo00460	Cyanoamino acid metabolism - Halomonas sp. 1513
+path:halo00471	D-Glutamine and D-glutamate metabolism - Halomonas sp. 1513
+path:halo00473	D-Alanine metabolism - Halomonas sp. 1513
+path:halo00480	Glutathione metabolism - Halomonas sp. 1513
+path:halo00500	Starch and sucrose metabolism - Halomonas sp. 1513
+path:halo00520	Amino sugar and nucleotide sugar metabolism - Halomonas sp. 1513
+path:halo00521	Streptomycin biosynthesis - Halomonas sp. 1513
+path:halo00540	Lipopolysaccharide biosynthesis - Halomonas sp. 1513
+path:halo00550	Peptidoglycan biosynthesis - Halomonas sp. 1513
+path:halo00561	Glycerolipid metabolism - Halomonas sp. 1513
+path:halo00562	Inositol phosphate metabolism - Halomonas sp. 1513
+path:halo00564	Glycerophospholipid metabolism - Halomonas sp. 1513
+path:halo00565	Ether lipid metabolism - Halomonas sp. 1513
+path:halo00590	Arachidonic acid metabolism - Halomonas sp. 1513
+path:halo00592	alpha-Linolenic acid metabolism - Halomonas sp. 1513
+path:halo00620	Pyruvate metabolism - Halomonas sp. 1513
+path:halo00625	Chloroalkane and chloroalkene degradation - Halomonas sp. 1513
+path:halo00626	Naphthalene degradation - Halomonas sp. 1513
+path:halo00627	Aminobenzoate degradation - Halomonas sp. 1513
+path:halo00630	Glyoxylate and dicarboxylate metabolism - Halomonas sp. 1513
+path:halo00633	Nitrotoluene degradation - Halomonas sp. 1513
+path:halo00640	Propanoate metabolism - Halomonas sp. 1513
+path:halo00643	Styrene degradation - Halomonas sp. 1513
+path:halo00650	Butanoate metabolism - Halomonas sp. 1513
+path:halo00660	C5-Branched dibasic acid metabolism - Halomonas sp. 1513
+path:halo00670	One carbon pool by folate - Halomonas sp. 1513
+path:halo00680	Methane metabolism - Halomonas sp. 1513
+path:halo00730	Thiamine metabolism - Halomonas sp. 1513
+path:halo00740	Riboflavin metabolism - Halomonas sp. 1513
+path:halo00750	Vitamin B6 metabolism - Halomonas sp. 1513
+path:halo00760	Nicotinate and nicotinamide metabolism - Halomonas sp. 1513
+path:halo00770	Pantothenate and CoA biosynthesis - Halomonas sp. 1513
+path:halo00780	Biotin metabolism - Halomonas sp. 1513
+path:halo00785	Lipoic acid metabolism - Halomonas sp. 1513
+path:halo00790	Folate biosynthesis - Halomonas sp. 1513
+path:halo00791	Atrazine degradation - Halomonas sp. 1513
+path:halo00860	Porphyrin and chlorophyll metabolism - Halomonas sp. 1513
+path:halo00900	Terpenoid backbone biosynthesis - Halomonas sp. 1513
+path:halo00903	Limonene and pinene degradation - Halomonas sp. 1513
+path:halo00909	Sesquiterpenoid and triterpenoid biosynthesis - Halomonas sp. 1513
+path:halo00910	Nitrogen metabolism - Halomonas sp. 1513
+path:halo00920	Sulfur metabolism - Halomonas sp. 1513
+path:halo00930	Caprolactam degradation - Halomonas sp. 1513
+path:halo00970	Aminoacyl-tRNA biosynthesis - Halomonas sp. 1513
+path:halo01040	Biosynthesis of unsaturated fatty acids - Halomonas sp. 1513
+path:halo01100	Metabolic pathways - Halomonas sp. 1513
+path:halo01110	Biosynthesis of secondary metabolites - Halomonas sp. 1513
+path:halo01120	Microbial metabolism in diverse environments - Halomonas sp. 1513
+path:halo01130	Biosynthesis of antibiotics - Halomonas sp. 1513
+path:halo01200	Carbon metabolism - Halomonas sp. 1513
+path:halo01210	2-Oxocarboxylic acid metabolism - Halomonas sp. 1513
+path:halo01212	Fatty acid metabolism - Halomonas sp. 1513
+path:halo01220	Degradation of aromatic compounds - Halomonas sp. 1513
+path:halo01230	Biosynthesis of amino acids - Halomonas sp. 1513
+path:halo01501	beta-Lactam resistance - Halomonas sp. 1513
+path:halo01502	Vancomycin resistance - Halomonas sp. 1513
+path:halo01503	Cationic antimicrobial peptide (CAMP) resistance - Halomonas sp. 1513
+path:halo02010	ABC transporters - Halomonas sp. 1513
+path:halo02020	Two-component system - Halomonas sp. 1513
+path:halo02024	Quorum sensing - Halomonas sp. 1513
+path:halo02030	Bacterial chemotaxis - Halomonas sp. 1513
+path:halo02040	Flagellar assembly - Halomonas sp. 1513
+path:halo02060	Phosphotransferase system (PTS) - Halomonas sp. 1513
+path:halo03010	Ribosome - Halomonas sp. 1513
+path:halo03018	RNA degradation - Halomonas sp. 1513
+path:halo03020	RNA polymerase - Halomonas sp. 1513
+path:halo03030	DNA replication - Halomonas sp. 1513
+path:halo03060	Protein export - Halomonas sp. 1513
+path:halo03070	Bacterial secretion system - Halomonas sp. 1513
+path:halo03410	Base excision repair - Halomonas sp. 1513
+path:halo03420	Nucleotide excision repair - Halomonas sp. 1513
+path:halo03430	Mismatch repair - Halomonas sp. 1513
+path:halo03440	Homologous recombination - Halomonas sp. 1513
+path:halo04122	Sulfur relay system - Halomonas sp. 1513

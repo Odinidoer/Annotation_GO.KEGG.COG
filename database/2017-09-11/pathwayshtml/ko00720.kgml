@@ -1,0 +1,658 @@
+<html>
+<!---
+ENTRY       ko00720
+DEFINITION  Carbon fixation pathways in prokaryotes
+--->
+<head>
+<title>
+KEGG PATHWAY: Carbon fixation pathways in prokaryotes
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Carbon fixation pathways in prokaryotes</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=00720&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map00720.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko00720">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko00720&format=kgml">Download KGML</a>
+| <a id="descLink" href="javascript:switchDescription()">Show description</a>
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+<table id="description" cellpadding="10" width="800" style="display: none;"><tr><td>
+Carbon fixation is an important pathway for autotrophs living in various environments. Plants and cyanobacteria fix CO2 as organic compounds using solar energy mainly by the reductive pentose phosphate cycle (also called Calvin cycle, Calvin-Benson cycle, or Calvin-Benson-Bassham cycle) [MD:<a href="/kegg-bin/show_module?M00165">M00165</a>]. There are, at least, five additional carbon fixation pathways known to exist in autotrophic bacteria and archaea, which differ in reducing compounds, energy source, and oxygen sensitivity of enzymes. (i) The reductive citric acid cycle (Arnon-Buchanan cycle) [MD:<a href="/kegg-bin/show_module?M00173">M00173</a>] is found in microaerophiles and anaerobes, such as green sulfur bacteria. In one complete turn of this cycle, four molecules of CO2 are fixed by the enzymes that are sensitive to oxygen, resulting in the production of one molecule of oxaloacetate, which is itself an intermediate of the cycle. (ii) The reductive acetyl-CoA pathway (Wood-Ljungdahl pathway) [MD:<a href="/kegg-bin/show_module?M00377">M00377</a>] is found in strictly anaerobic bacteria and archaea (Proteobacteria, Planctomycetes, Spirochaetes, and Euryarchaeota), some of which are methane-forming. A bifunctional enzyme, carbon monoxide dehydrogenase/acetyl-CoA synthase, catalyzes the reactions from CO2 to CO and from CO2 to a methyl group, and then to generate acetyl-CoA. (iii) The 3-hydroxypropionate bicycle [MD:<a href="/kegg-bin/show_module?M00376">M00376</a>] is found in some green non-sulphur bacteria of the family Chloroflexaceae. In one complete turn of this bicycle, three molecules of bicarbonate are converted into one molecule of pyruvate. In addition, this bicycle provides the secondary benefit of useful intermediates for biosynthesis: acetyl-CoA, glyoxylate, and succinyl-CoA. (iv) The hydroxypropionate-hydroxybutyrate cycle [MD:<a href="/kegg-bin/show_module?M00375">M00375</a>] is found in aerobic Crenarchaeota, Acidianus, Metallosphaera, and Sulfolobales. Some of the intermediates and the carboxylation reactions are the same as in the 3-hydroxypropionate bicycle. One complete turn of this cycle generates two molecules of acetyl-CoA, one of which is reutilized in the the cycle and the other is removed for cell material biosynthesis. (v) The dicarboxylate-hydroxybutyrate cycle [MD:<a href="/kegg-bin/show_module?M00374">M00374</a>] was named after its intermediates: succinate (a kind of dicarboxylate) and hydroxybutyrate. This cycle has been found only in Ignicoccus hospitals, a strictly anaerobic hyperthermophilic archaea. Recent genome study suggests that this cycle may exist in Desulfurococcales (to which Ignicoccus belongs) and Thermoproteales (a taxon close to the origin of archaea). The first half of the cycle, from acetyl-CoA to succinate-CoA, corresponds to the reductive citric acid cycle and the latter half of the cycle, from succinate-CoA to two molecules of acetyl-CoA, corresponds to the hydroxypropionate-hydroxybutyrate cycle.</td></tr></table>
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="ec">Reference pathway (EC)</option>
+<option value="rn">Reference pathway (Reaction)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="tdn">Sulfurimonas denitrificans</option>
+<option value="sua">Sulfurimonas autotrophica</option>
+<option value="sku">Sulfuricurvum kujiense</option>
+<option value="sulr">Candidatus Sulfuricurvum sp. RIFRC-1</option>
+<option value="amt">Alkaliphilus metalliredigens</option>
+<option value="aoe">Alkaliphilus oremlandii</option>
+<option value="dsy">Desulfitobacterium hafniense Y51</option>
+<option value="dhd">Desulfitobacterium hafniense DCB-2</option>
+<option value="ddh">Desulfitobacterium dehalogenans</option>
+<option value="ddl">Desulfitobacterium dichloroeliminans</option>
+<option value="dmt">Desulfitobacterium metallireducens</option>
+<option value="drm">Desulfotomaculum reducens</option>
+<option value="dae">Desulfotomaculum acetoxidans</option>
+<option value="dca">Desulfotomaculum nigrificans</option>
+<option value="dku">Desulfotomaculum kuznetsovii</option>
+<option value="dru">Desulfotomaculum ruminis</option>
+<option value="dgi">Desulfotomaculum gibsoniae</option>
+<option value="dfg">Desulfotomaculum ferrireducens</option>
+<option value="dau">Candidatus Desulforudis audaxviator</option>
+<option value="tjr">Thermincola potens</option>
+<option value="chy">Carboxydothermus hydrogenoformans</option>
+<option value="mta">Moorella thermoacetica</option>
+<option value="adg">Ammonifex degensii</option>
+<option value="toc">Thermosediminibacter oceani</option>
+<option value="aar">Acetohalobium arabaticum</option>
+<option value="rrs">Roseiflexus sp. RS-1</option>
+<option value="rca">Roseiflexus castenholzii</option>
+<option value="cau">Chloroflexus aurantiacus</option>
+<option value="cag">Chloroflexus aggregans</option>
+<option value="chl">Chloroflexus sp. Y-400-fl</option>
+<option value="cte">Chlorobium tepidum</option>
+<option value="cpc">Chlorobaculum parvum</option>
+<option value="clz">Chlorobaculum limnaeum</option>
+<option value="cch">Chlorobium chlorochromatii</option>
+<option value="cph">Chlorobium phaeobacteroides DSM 266</option>
+<option value="cpb">Chlorobium phaeobacteroides BS1</option>
+<option value="cli">Chlorobium limicola</option>
+<option value="pvi">Chlorobium phaeovibrioides</option>
+<option value="plt">Chlorobium luteolum</option>
+<option value="pph">Pelodictyon phaeoclathratiforme</option>
+<option value="paa">Prosthecochloris aestuarii</option>
+<option value="proc">Prosthecochloris sp. CIB 2401</option>
+<option value="prs">Prosthecochloris sp. HL-130-GSB</option>
+<option value="pros">Prosthecochloris sp. GSB1</option>
+<option value="cts">Chloroherpeton thalassium</option>
+<option value="aae">Aquifex aeolicus</option>
+<option value="hya">Hydrogenobaculum sp. Y04AAS1</option>
+<option value="hho">Hydrogenobaculum sp. HO</option>
+<option value="hys">Hydrogenobaculum sp. SN</option>
+<option value="hth">Hydrogenobacter thermophilus</option>
+<option value="hte">Hydrogenobacter thermophilus</option>
+<option value="tal">Thermocrinis albus</option>
+<option value="trd">Thermocrinis ruber</option>
+<option value="sul">Sulfurihydrogenibium sp. YO3AOP1</option>
+<option value="saf">Sulfurihydrogenibium azorense</option>
+<option value="pmx">Persephonella marina</option>
+<option value="tam">Thermovibrio ammonificans</option>
+<option value="dte">Desulfurobacterium thermolithotrophum</option>
+<option value="mja">Methanocaldococcus jannaschii</option>
+<option value="mfe">Methanocaldococcus fervens</option>
+<option value="mvu">Methanocaldococcus vulcanius</option>
+<option value="mfs">Methanocaldococcus sp. FS406-22</option>
+<option value="mif">Methanocaldococcus infernus</option>
+<option value="mjh">Methanocaldococcus bathoardescens</option>
+<option value="mig">Methanotorris igneus</option>
+<option value="mmp">Methanococcus maripaludis S2</option>
+<option value="mmq">Methanococcus maripaludis C5</option>
+<option value="mmx">Methanococcus maripaludis C6</option>
+<option value="mmz">Methanococcus maripaludis C7</option>
+<option value="mmd">Methanococcus maripaludis X1</option>
+<option value="mmak">Methanococcus maripaludis KA1</option>
+<option value="mmao">Methanococcus maripaludis OS7</option>
+<option value="mae">Methanococcus aeolicus</option>
+<option value="mvn">Methanococcus vannielii</option>
+<option value="mvo">Methanococcus voltae</option>
+<option value="mok">Methanothermococcus okinawensis</option>
+<option value="mac">Methanosarcina acetivorans</option>
+<option value="mba">Methanosarcina barkeri Fusaro</option>
+<option value="mby">Methanosarcina barkeri MS</option>
+<option value="mbw">Methanosarcina barkeri Wiesmoor</option>
+<option value="mbar">Methanosarcina barkeri 227</option>
+<option value="mbak">Methanosarcina barkeri 3</option>
+<option value="mma">Methanosarcina mazei Go1</option>
+<option value="mmaz">Methanosarcina mazei Tuc01</option>
+<option value="mmj">Methanosarcina mazei S-6</option>
+<option value="mmac">Methanosarcina mazei C16</option>
+<option value="mvc">Methanosarcina vacuolata</option>
+<option value="mek">Methanosarcina sp. Kolksee</option>
+<option value="mls">Methanosarcina lacustris</option>
+<option value="metm">Methanosarcina sp. MTP4</option>
+<option value="mef">Methanosarcina sp. WH1</option>
+<option value="meq">Methanosarcina sp. WWM596</option>
+<option value="msj">Methanosarcina siciliae C2J</option>
+<option value="msz">Methanosarcina siciliae HI350</option>
+<option value="msw">Methanosarcina siciliae T4/M</option>
+<option value="mthe">Methanosarcina thermophila CHTI-55</option>
+<option value="mthr">Methanosarcina thermophila TM-1</option>
+<option value="mhor">Methanosarcina horonobensis</option>
+<option value="mbu">Methanococcoides burtonii</option>
+<option value="mmet">Methanococcoides methylutens</option>
+<option value="mmh">Methanohalophilus mahii</option>
+<option value="mhaz">Methanohalophilus halophilus</option>
+<option value="mev">Methanohalobium evestigatum</option>
+<option value="mzh">Methanosalsum zhilinae</option>
+<option value="mpy">Methanolobus psychrophilus</option>
+<option value="mhz">Methanomethylovorans hollandica</option>
+<option value="mtp">Methanosaeta thermophila</option>
+<option value="mcj">Methanosaeta concilii</option>
+<option value="mhi">Methanosaeta harundinacea</option>
+<option value="mhu">Methanospirillum hungatei</option>
+<option value="mla">Methanocorpusculum labreanum</option>
+<option value="mem">Methanoculleus marisnigri</option>
+<option value="mbg">Methanoculleus bourgensis</option>
+<option value="mema">Methanoculleus sp. MAB1</option>
+<option value="mpi">Methanolacinia petrolearia</option>
+<option value="mbn">Methanoregula boonei</option>
+<option value="mfo">Methanoregula formicica</option>
+<option value="mpl">Candidatus Methanosphaerula palustris</option>
+<option value="mpd">Methanocella paludicola</option>
+<option value="mez">Methanocella conradii</option>
+<option value="rci">Methanocella arvoryzae</option>
+<option value="mth">Methanothermobacter thermautotrophicus</option>
+<option value="mmg">Methanothermobacter marburgensis</option>
+<option value="metc">Methanothermobacter sp. CaT2</option>
+<option value="mwo">Methanothermobacter wolfeii</option>
+<option value="mst">Methanosphaera stadtmanae</option>
+<option value="msi">Methanobrevibacter smithii</option>
+<option value="mru">Methanobrevibacter ruminantium</option>
+<option value="meb">Methanobrevibacter sp. AbM4</option>
+<option value="mmil">Methanobrevibacter millerae</option>
+<option value="meye">Methanobrevibacter sp. YE315</option>
+<option value="mol">Methanobrevibacter olleyae</option>
+<option value="mel">Methanobacterium lacus</option>
+<option value="mew">Methanobacterium paludis</option>
+<option value="meth">Methanobacterium sp. MB1</option>
+<option value="mfc">Methanobacterium formicicum BRM9</option>
+<option value="mfi">Methanobacterium formicicum DSM1535</option>
+<option value="mcub">Methanobacterium curvum</option>
+<option value="mfv">Methanothermus fervidus</option>
+<option value="mka">Methanopyrus kandleri</option>
+<option value="afu">Archaeoglobus fulgidus DSM 4304</option>
+<option value="afg">Archaeoglobus fulgidus DSM 8774</option>
+<option value="apo">Archaeoglobus profundus</option>
+<option value="ave">Archaeoglobus veneficus</option>
+<option value="ast">Archaeoglobus sulfaticallidus</option>
+<option value="fpl">Ferroglobus placidus</option>
+<option value="gac">Geoglobus acetivorans</option>
+<option value="gah">Geoglobus ahangari</option>
+<option value="hal">Halobacterium salinarum NRC-1</option>
+<option value="hsl">Halobacterium salinarum</option>
+<option value="hdl">Halobacterium sp. DL1</option>
+<option value="hhb">Halobacterium hubeiense</option>
+<option value="hje">Halalkalicoccus jeotgali</option>
+<option value="halh">Haloarchaeon HTSR1</option>
+<option value="hhsr">Haloarchaeon HSR6</option>
+<option value="hsu">Halanaeroarchaeum sulfurireducens HSR2</option>
+<option value="hsf">Halanaeroarchaeum sulfurireducens M27-SA2</option>
+<option value="hma">Haloarcula marismortui</option>
+<option value="hhi">Haloarcula hispanica ATCC 33960</option>
+<option value="hhn">Haloarcula hispanica N601</option>
+<option value="hab">Haloarcula sp. CBA1115</option>
+<option value="nph">Natronomonas pharaonis</option>
+<option value="nmo">Natronomonas moolapensis</option>
+<option value="hut">Halorhabdus utahensis</option>
+<option value="hti">Halorhabdus tiamatea</option>
+<option value="hmu">Halomicrobium mukohataei</option>
+<option value="hali">Halorientalis sp. IM1011</option>
+<option value="hwa">Haloquadratum walsbyi DSM 16790</option>
+<option value="hwc">Haloquadratum walsbyi C23</option>
+<option value="hvo">Haloferax volcanii</option>
+<option value="hme">Haloferax mediterranei</option>
+<option value="hgi">Haloferax gibbonsii</option>
+<option value="hbo">Halogeometricum borinquense</option>
+<option value="hla">Halorubrum lacusprofundi</option>
+<option value="hsi">Halolamina sediminis</option>
+<option value="htu">Haloterrigena turkmenica</option>
+<option value="hda">Haloterrigena daqingensis</option>
+<option value="nmg">Natrialba magadii</option>
+<option value="hxa">Halopiger xanaduensis</option>
+<option value="nat">Natrinema sp. J7-2</option>
+<option value="npe">Natrinema pellirubrum</option>
+<option value="nge">Natronobacterium gregoryi</option>
+<option value="hru">Halovivax ruber</option>
+<option value="nou">Natronococcus occultus</option>
+<option value="sali">Salinarchaeum sp. Harcht-Bsk1</option>
+<option value="hlr">Halostagnicola larsenii</option>
+<option value="hlc">Halobiforma lacisalsi</option>
+<option value="naj">Natrialbaceae archaeon JW/NM-HA 15</option>
+<option value="tac">Thermoplasma acidophilum</option>
+<option value="tvo">Thermoplasma volcanium</option>
+<option value="pto">Picrophilus torridus</option>
+<option value="fac">Ferroplasma acidarmanus</option>
+<option value="fai">Ferroplasma acidiphilum</option>
+<option value="cdiv">Cuniculiplasma divulgatum</option>
+<option value="tar">Thermoplasmatales archaeon BRNA1</option>
+<option value="max">Candidatus Methanomethylophilus alvus</option>
+<option value="mer">Candidatus Methanomassiliicoccus intestinalis Issoire-Mx1</option>
+<option value="mear">Candidatus Methanoplasma termitum</option>
+<option value="marc">Methanogenic archaeon ISO4-H5</option>
+<option value="pho">Pyrococcus horikoshii</option>
+<option value="pab">Pyrococcus abyssi</option>
+<option value="pfu">Pyrococcus furiosus DSM 3638</option>
+<option value="pfi">Pyrococcus furiosus COM1</option>
+<option value="pyn">Pyrococcus sp. NA2</option>
+<option value="pya">Pyrococcus yayanosii</option>
+<option value="pys">Pyrococcus sp. ST04</option>
+<option value="pyc">Pyrococcus kukulkanii</option>
+<option value="tko">Thermococcus kodakarensis</option>
+<option value="ton">Thermococcus onnurineus</option>
+<option value="tga">Thermococcus gammatolerans</option>
+<option value="tsi">Thermococcus sibiricus</option>
+<option value="tba">Thermococcus barophilus</option>
+<option value="the">Thermococcus sp. 4557</option>
+<option value="tha">Thermococcus sp. AM4</option>
+<option value="thm">Thermococcus cleftensis</option>
+<option value="tlt">Thermococcus litoralis</option>
+<option value="ths">Thermococcus paralvinellae</option>
+<option value="tnu">Thermococcus nautili</option>
+<option value="teu">Thermococcus eurythermalis</option>
+<option value="tgy">Thermococcus guaymasensis</option>
+<option value="thv">Thermococcus sp. 2319x1</option>
+<option value="tch">Thermococcus chitonophagus</option>
+<option value="tpep">Thermococcus peptonophilus</option>
+<option value="tpie">Thermococcus piezophilus</option>
+<option value="ppac">Palaeococcus pacificus</option>
+<option value="abi">Aciduliprofundum boonei</option>
+<option value="acf">Aciduliprofundum sp. MAR08-339</option>
+<option value="ape">Aeropyrum pernix</option>
+<option value="acj">Aeropyrum camini</option>
+<option value="smr">Staphylothermus marinus</option>
+<option value="shc">Staphylothermus hellenicus</option>
+<option value="iho">Ignicoccus hospitalis</option>
+<option value="iis">Ignicoccus islandicus</option>
+<option value="dka">Desulfurococcus amylolyticus 1221n</option>
+<option value="dfd">Desulfurococcus amylolyticus DSM 16532</option>
+<option value="dmu">Desulfurococcus mucosus</option>
+<option value="tag">Thermosphaera aggregans</option>
+<option value="iag">Ignisphaera aggregans</option>
+<option value="thg">Thermogladius calderae</option>
+<option value="hbu">Hyperthermus butylicus</option>
+<option value="pfm">Pyrolobus fumarii</option>
+<option value="pdl">Pyrodictium delaneyi</option>
+<option value="sso">Sulfolobus solfataricus P2</option>
+<option value="sol">Sulfolobus solfataricus 98/2</option>
+<option value="ssoa">Sulfolobus solfataricus SULA</option>
+<option value="ssol">Sulfolobus solfataricus SULB</option>
+<option value="ssof">Sulfolobus solfataricus SULC</option>
+<option value="sto">Sulfolobus tokodaii</option>
+<option value="sai">Sulfolobus acidocaldarius DSM 639</option>
+<option value="sacn">Sulfolobus acidocaldarius N8</option>
+<option value="sacr">Sulfolobus acidocaldarius Ron12/I</option>
+<option value="sacs">Sulfolobus acidocaldarius SUSAZ</option>
+<option value="sis">Sulfolobus islandicus L.S.2.15</option>
+<option value="sia">Sulfolobus islandicus M.14.25</option>
+<option value="sim">Sulfolobus islandicus M.16.27</option>
+<option value="sid">Sulfolobus islandicus M.16.4</option>
+<option value="siy">Sulfolobus islandicus Y.G.57.14</option>
+<option value="sin">Sulfolobus islandicus Y.N.15.51</option>
+<option value="sii">Sulfolobus islandicus L.D.8.5</option>
+<option value="sih">Sulfolobus islandicus HVE10/4</option>
+<option value="sir">Sulfolobus islandicus REY15A</option>
+<option value="sic">Sulfolobus islandicus LAL14/1</option>
+<option value="sula">Sulfolobus sp. A20</option>
+<option value="mse">Metallosphaera sedula</option>
+<option value="mcn">Metallosphaera cuprina</option>
+<option value="aho">Acidianus hospitalis</option>
+<option value="aman">Acidianus manzaensis</option>
+<option value="pai">Pyrobaculum aerophilum</option>
+<option value="pis">Pyrobaculum islandicum</option>
+<option value="pcl">Pyrobaculum calidifontis</option>
+<option value="pas">Pyrobaculum arsenaticum</option>
+<option value="pyr">Pyrobaculum ferrireducens</option>
+<option value="pog">Pyrobaculum oguniense</option>
+<option value="tne">Pyrobaculum neutrophilum</option>
+<option value="pyw">Pyrobaculum sp. WP30</option>
+<option value="cma">Caldivirga maquilingensis</option>
+<option value="tuz">Thermoproteus uzoniensis</option>
+<option value="ttn">Thermoproteus tenax</option>
+<option value="vdi">Vulcanisaeta distributa</option>
+<option value="vmo">Vulcanisaeta moutnovskia</option>
+<option value="tpe">Thermofilum pendens</option>
+<option value="thb">Thermofilum adornatus</option>
+<option value="tcb">Thermofilum carboxyditrophus</option>
+<option value="thf">Thermofilum uzonense</option>
+<option value="asc">Acidilobus saccharovorans</option>
+<option value="clg">Caldisphaera lagunensis</option>
+<option value="ffo">Fervidicoccus fontis</option>
+<option value="nmr">Nitrosopumilus maritimus</option>
+<option value="nir">Candidatus Nitrosopumilus sp. AR2</option>
+<option value="nid">Candidatus Nitrosopumilus piranensis</option>
+<option value="nin">Candidatus Nitrosopumilus adriaticus</option>
+<option value="nkr">Candidatus Nitrosopumilus koreensis</option>
+<option value="nct">Candidatus Nitrosomarinus catalina</option>
+<option value="csy">Cenarchaeum symbiosum</option>
+<option value="nga">Candidatus Nitrososphaera gargensis</option>
+<option value="nvn">Nitrososphaera viennensis</option>
+<option value="nev">Candidatus Nitrososphaera evergladensis</option>
+<option value="taa">Candidatus Nitrocosmicus oleophilus</option>
+<option value="csu">Candidatus Caldiarchaeum subterraneum</option>
+<option value="nbv">Candidatus Nitrosopelagicus brevis</option>
+<option value="tah">Candidatus Nitrosotenuis cloacae</option>
+<option value="ndv">Candidatus Nitrosotalea devanaterra</option>
+<option value="naa">Candidatus Nanopusillus acidilobi</option>
+<option value="nac">Nanohaloarchaea archaeon SG9</option>
+<option value="marh">Candidatus Micrarchaeota archaeon Mia14</option>
+<option value="kcr">Candidatus Korarchaeum cryptofilum</option>
+<option value="barc">Bathyarchaeota archaeon BA1</option>
+<option value="barb">Bathyarchaeota archaeon BA2</option>
+<option value="loki">Lokiarchaeum sp. GC14_75</option>
+<option value="hah">Halophilic archaeon DL31</option>
+<option value="agw">Archaeon GW2011_AR10</option>
+</select>
+<input type="hidden" name="mapno" value="00720" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko00720" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko00720.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=953,359,4	href="/dbget-bin/www_bget?C01144"	title="C01144 ((S)-3-Hydroxybutanoyl-CoA)" onmouseover="popupTimer(&quot;C01144&quot;, &quot;C01144 ((S)-3-Hydroxybutanoyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=953,229,4	href="/dbget-bin/www_bget?C00332"	title="C00332 (Acetoacetyl-CoA)" onmouseover="popupTimer(&quot;C00332&quot;, &quot;C00332 (Acetoacetyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=953,746,4	href="/dbget-bin/www_bget?C00989"	title="C00989 (4-Hydroxybutanoic acid)" onmouseover="popupTimer(&quot;C00989&quot;, &quot;C00989 (4-Hydroxybutanoic acid)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=953,875,4	href="/dbget-bin/www_bget?C00232"	title="C00232 (Succinate semialdehyde)" onmouseover="popupTimer(&quot;C00232&quot;, &quot;C00232 (Succinate semialdehyde)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=481,875,4	href="/dbget-bin/www_bget?C00042"	title="C00042 (Succinate)" onmouseover="popupTimer(&quot;C00042&quot;, &quot;C00042 (Succinate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=241,875,4	href="/dbget-bin/www_bget?C00122"	title="C00122 (Fumarate)" onmouseover="popupTimer(&quot;C00122&quot;, &quot;C00122 (Fumarate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=953,488,4	href="/dbget-bin/www_bget?C00877"	title="C00877 (Crotonoyl-CoA)" onmouseover="popupTimer(&quot;C00877&quot;, &quot;C00877 (Crotonoyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=953,617,4	href="/dbget-bin/www_bget?C11062"	title="C11062 (4-Hydroxybutyryl-CoA)" onmouseover="popupTimer(&quot;C11062&quot;, &quot;C11062 (4-Hydroxybutyryl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=241,737,4	href="/dbget-bin/www_bget?C00149"	title="C00149 ((S)-Malate)" onmouseover="popupTimer(&quot;C00149&quot;, &quot;C00149 ((S)-Malate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=585,737,4	href="/dbget-bin/www_bget?C04348"	title="C04348 (L-Malyl-CoA)" onmouseover="popupTimer(&quot;C04348&quot;, &quot;C04348 (L-Malyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=539,678,4	href="/dbget-bin/www_bget?C00048"	title="C00048 (Glyoxylate)" onmouseover="popupTimer(&quot;C00048&quot;, &quot;C00048 (Glyoxylate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=795,413,4	href="/dbget-bin/www_bget?C18323"	title="C18323 (3-Methylfumaryl-CoA)" onmouseover="popupTimer(&quot;C18323&quot;, &quot;C18323 (3-Methylfumaryl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=795,541,4	href="/dbget-bin/www_bget?C06028"	title="C06028 (2-Methylfumaryl-CoA)" onmouseover="popupTimer(&quot;C06028&quot;, &quot;C06028 (2-Methylfumaryl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=795,667,4	href="/dbget-bin/www_bget?C06027"	title="C06027 (L-erythro-3-Methylmalyl-CoA)" onmouseover="popupTimer(&quot;C06027&quot;, &quot;C06027 (L-erythro-3-Methylmalyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=450,370,4	href="/dbget-bin/www_bget?C00440"	title="C00440 (5-Methyltetrahydrofolate)" onmouseover="popupTimer(&quot;C00440&quot;, &quot;C00440 (5-Methyltetrahydrofolate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=652,810,4	href="/dbget-bin/www_bget?C01213"	title="C01213 ((R)-Methylmalonyl-CoA)" onmouseover="popupTimer(&quot;C01213&quot;, &quot;C01213 ((R)-Methylmalonyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=352,314,4	href="/dbget-bin/www_bget?C00011"	title="C00011 (CO2)" onmouseover="popupTimer(&quot;C00011&quot;, &quot;C00011 (CO2)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=549,370,4	href="/dbget-bin/www_bget?C00101"	title="C00101 (Tetrahydrofolate)" onmouseover="popupTimer(&quot;C00101&quot;, &quot;C00101 (Tetrahydrofolate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=241,351,4	href="/dbget-bin/www_bget?C00074"	title="C00074 (Phosphoenolpyruvate)" onmouseover="popupTimer(&quot;C00074&quot;, &quot;C00074 (Phosphoenolpyruvate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=736,160,4	href="/dbget-bin/www_bget?C00033"	title="C00033 (Acetate)" onmouseover="popupTimer(&quot;C00033&quot;, &quot;C00033 (Acetate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=121,412,4	href="/dbget-bin/www_bget?C00417"	title="C00417 (cis-Aconitate)" onmouseover="popupTimer(&quot;C00417&quot;, &quot;C00417 (cis-Aconitate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=121,539,4	href="/dbget-bin/www_bget?C00311"	title="C00311 (Isocitrate)" onmouseover="popupTimer(&quot;C00311&quot;, &quot;C00311 (Isocitrate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=121,716,4	href="/dbget-bin/www_bget?C00026"	title="C00026 (2-Oxoglutarate)" onmouseover="popupTimer(&quot;C00026&quot;, &quot;C00026 (2-Oxoglutarate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=678,252,4	href="/dbget-bin/www_bget?C00288"	title="C00288 (HCO3-)" onmouseover="popupTimer(&quot;C00288&quot;, &quot;C00288 (HCO3-)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=678,688,4	href="/dbget-bin/www_bget?C00288"	title="C00288 (HCO3-)" onmouseover="popupTimer(&quot;C00288&quot;, &quot;C00288 (HCO3-)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=223,393,4	href="/dbget-bin/www_bget?C00011"	title="C00011 (CO2)" onmouseover="popupTimer(&quot;C00011&quot;, &quot;C00011 (CO2)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=146,623,4	href="/dbget-bin/www_bget?C00011"	title="C00011 (CO2)" onmouseover="popupTimer(&quot;C00011&quot;, &quot;C00011 (CO2)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=146,839,4	href="/dbget-bin/www_bget?C00011"	title="C00011 (CO2)" onmouseover="popupTimer(&quot;C00011&quot;, &quot;C00011 (CO2)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=652,875,4	href="/dbget-bin/www_bget?C00091"	title="C00091 (Succinyl-CoA)" onmouseover="popupTimer(&quot;C00091&quot;, &quot;C00091 (Succinyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=652,229,4	href="/dbget-bin/www_bget?C00024"	title="C00024 (Acetyl-CoA)" onmouseover="popupTimer(&quot;C00024&quot;, &quot;C00024 (Acetyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=652,377,4	href="/dbget-bin/www_bget?C00222"	title="C00222 (3-Oxopropanoate)" onmouseover="popupTimer(&quot;C00222&quot;, &quot;C00222 (3-Oxopropanoate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=652,596,4	href="/dbget-bin/www_bget?C00894"	title="C00894 (Propenoyl-CoA)" onmouseover="popupTimer(&quot;C00894&quot;, &quot;C00894 (Propenoyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=652,667,4	href="/dbget-bin/www_bget?C00100"	title="C00100 (Propanoyl-CoA)" onmouseover="popupTimer(&quot;C00100&quot;, &quot;C00100 (Propanoyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=652,305,4	href="/dbget-bin/www_bget?C00083"	title="C00083 (Malonyl-CoA)" onmouseover="popupTimer(&quot;C00083&quot;, &quot;C00083 (Malonyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=652,523,4	href="/dbget-bin/www_bget?C05668"	title="C05668 (3-Hydroxypropionyl-CoA)" onmouseover="popupTimer(&quot;C05668&quot;, &quot;C05668 (3-Hydroxypropionyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=795,286,4	href="/dbget-bin/www_bget?C01011"	title="C01011 ((3S)-Citramalyl-CoA)" onmouseover="popupTimer(&quot;C01011&quot;, &quot;C01011 ((3S)-Citramalyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=836,160,4	href="/dbget-bin/www_bget?C00227"	title="C00227 (Acetyl phosphate)" onmouseover="popupTimer(&quot;C00227&quot;, &quot;C00227 (Acetyl phosphate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=241,474,4	href="/dbget-bin/www_bget?C00036"	title="C00036 (Oxaloacetate)" onmouseover="popupTimer(&quot;C00036&quot;, &quot;C00036 (Oxaloacetate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=241,224,4	href="/dbget-bin/www_bget?C00022"	title="C00022 (Pyruvate)" onmouseover="popupTimer(&quot;C00022&quot;, &quot;C00022 (Pyruvate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=744,275,4	href="/dbget-bin/www_bget?C00022"	title="C00022 (Pyruvate)" onmouseover="popupTimer(&quot;C00022&quot;, &quot;C00022 (Pyruvate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=450,525,4	href="/dbget-bin/www_bget?C00445"	title="C00445 (5,10-Methenyltetrahydrofolate)" onmouseover="popupTimer(&quot;C00445&quot;, &quot;C00445 (5,10-Methenyltetrahydrofolate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=450,448,4	href="/dbget-bin/www_bget?C00143"	title="C00143 (5,10-Methylenetetrahydrofolate)" onmouseover="popupTimer(&quot;C00143&quot;, &quot;C00143 (5,10-Methylenetetrahydrofolate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=450,607,4	href="/dbget-bin/www_bget?C00234"	title="C00234 (10-Formyltetrahydrofolate)" onmouseover="popupTimer(&quot;C00234&quot;, &quot;C00234 (10-Formyltetrahydrofolate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=549,647,4	href="/dbget-bin/www_bget?C00058"	title="C00058 (Formate)" onmouseover="popupTimer(&quot;C00058&quot;, &quot;C00058 (Formate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=652,447,4	href="/dbget-bin/www_bget?C01013"	title="C01013 (3-Hydroxypropanoate)" onmouseover="popupTimer(&quot;C01013&quot;, &quot;C01013 (3-Hydroxypropanoate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=652,741,4	href="/dbget-bin/www_bget?C00683"	title="C00683 ((S)-Methylmalonyl-CoA)" onmouseover="popupTimer(&quot;C00683&quot;, &quot;C00683 ((S)-Methylmalonyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=245,118,4	href="/dbget-bin/www_bget?C00566"	title="C00566 ((3S)-Citryl-CoA)" onmouseover="popupTimer(&quot;C00566&quot;, &quot;C00566 ((3S)-Citryl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=121,164,4	href="/dbget-bin/www_bget?C00158"	title="C00158 (Citrate)" onmouseover="popupTimer(&quot;C00158&quot;, &quot;C00158 (Citrate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=441,314,4	href="/dbget-bin/www_bget?C00237"	title="C00237 (CO)" onmouseover="popupTimer(&quot;C00237&quot;, &quot;C00237 (CO)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=432,192,4	href="/dbget-bin/www_bget?C00011"	title="C00011 (CO2)" onmouseover="popupTimer(&quot;C00011&quot;, &quot;C00011 (CO2)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=699,642,4	href="/dbget-bin/www_bget?C00048"	title="C00048 (Glyoxylate)" onmouseover="popupTimer(&quot;C00048&quot;, &quot;C00048 (Glyoxylate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=860,222,906,239	href="/dbget-bin/www_bget?K00626"	title="K00626 (E2.3.1.9)" />
+<area shape=rect	coords=367,204,413,221	href="/dbget-bin/www_bget?K00169+K00170+K00171+K00172+K03737"	title="K00169 (porA), K00170 (porB), K00171 (porD), K00172 (porG), K03737 (por)" />
+<area shape=rect	coords=243,274,289,291	href="/dbget-bin/www_bget?K01007"	title="K01007 (pps)" />
+<area shape=rect	coords=219,407,265,424	href="/dbget-bin/www_bget?K01595"	title="K01595 (ppc)" />
+<area shape=rect	coords=219,589,265,606	href="/dbget-bin/www_bget?K00024"	title="K00024 (mdh)" />
+<area shape=rect	coords=219,797,265,814	href="/dbget-bin/www_bget?K01676+K01677+K01678+K01679"	title="K01676 (E4.2.1.2A), K01677 (E4.2.1.2AA), K01678 (E4.2.1.2AB), K01679 (E4.2.1.2B)" />
+<area shape=rect	coords=313,856,359,873	href="/dbget-bin/www_bget?K00239+K00240+K00241+K00242+K18859+K18860"	title="K00239 (sdhA), K00240 (sdhB), K00241 (sdhC), K00242 (sdhD), K18859 (sdhD), K18860 (sdhD)" />
+<area shape=rect	coords=540,867,586,884	href="/dbget-bin/www_bget?K01902+K01903"	title="K01902 (sucD), K01903 (sucC)" />
+<area shape=rect	coords=771,867,817,884	href="/dbget-bin/www_bget?K15038+K15017"	title="K15038 (K15038), K15017 (K15017)" />
+<area shape=rect	coords=931,802,977,819	href="/dbget-bin/www_bget?K14465"	title="K14465 (K14465)" />
+<area shape=rect	coords=905,673,951,690	href="/dbget-bin/www_bget?K14466+K14467+K18861"	title="K14466 (K14466), K14467 (4hbl), K18861 (K18861)" />
+<area shape=rect	coords=931,544,977,561	href="/dbget-bin/www_bget?K14534"	title="K14534 (abfD)" />
+<area shape=rect	coords=931,415,977,432	href="/dbget-bin/www_bget?K15016"	title="K15016 (K15016)" />
+<area shape=rect	coords=931,286,977,303	href="/dbget-bin/www_bget?K15016"	title="K15016 (K15016)" />
+<area shape=rect	coords=98,797,144,814	href="/dbget-bin/www_bget?K00174+K00175+K00176+K00177"	title="K00174 (korA), K00175 (korB), K00176 (korD), K00177 (korC)" />
+<area shape=rect	coords=98,589,144,606	href="/dbget-bin/www_bget?K00031"	title="K00031 (IDH1)" />
+<area shape=rect	coords=98,469,144,486	href="/dbget-bin/www_bget?K01681+K01682"	title="K01681 (ACO), K01682 (acnB)" />
+<area shape=rect	coords=98,269,144,286	href="/dbget-bin/www_bget?K01681+K01682"	title="K01681 (ACO), K01682 (acnB)" />
+<area shape=rect	coords=131,154,177,171	href="/dbget-bin/www_bget?K01648+K15230+K15231"	title="K01648 (ACLY), K15230 (aclA), K15231 (aclB)" />
+<area shape=rect	coords=667,152,713,169	href="/dbget-bin/www_bget?K01895"	title="K01895 (ACSS)" />
+<area shape=rect	coords=630,267,676,284	href="/dbget-bin/www_bget?K02160+K01961+K01962+K01963+K01964+K15037+K15036+K18603+K18604+K18605"	title="K02160 (accB), K01961 (accC), K01962 (accA), K01963 (accD), K01964 (K01964), K15037 (K15037), K15036 (K15036), K18603 (K18603), K18604 (K18604), K18605 (K18605)" />
+<area shape=rect	coords=630,327,676,344	href="/dbget-bin/www_bget?K14468+K15017"	title="K14468 (mcr), K15017 (K15017)" />
+<area shape=rect	coords=604,400,650,417	href="/dbget-bin/www_bget?K14468+K15039"	title="K14468 (mcr), K15039 (K15039)" />
+<area shape=rect	coords=604,472,650,489	href="/dbget-bin/www_bget?K14469+K15018"	title="K14469 (K14469), K15018 (K15018)" />
+<area shape=rect	coords=630,549,676,566	href="/dbget-bin/www_bget?K14469+K15019"	title="K14469 (K14469), K15019 (K15019)" />
+<area shape=rect	coords=630,616,676,633	href="/dbget-bin/www_bget?K14469+K15020"	title="K14469 (K14469), K15020 (K15020)" />
+<area shape=rect	coords=630,703,676,720	href="/dbget-bin/www_bget?K15052+K15036+K15037+K01964+K18603+K18604+K18605"	title="K15052 (K15052), K15036 (K15036), K15037 (K15037), K01964 (K01964), K18603 (K18603), K18604 (K18604), K18605 (K18605)" />
+<area shape=rect	coords=630,763,676,780	href="/dbget-bin/www_bget?K05606"	title="K05606 (MCEE)" />
+<area shape=rect	coords=630,821,676,838	href="/dbget-bin/www_bget?K01847+K01848+K01849"	title="K01847 (MUT), K01848 (E5.4.99.2A), K01849 (E5.4.99.2B)" />
+<area shape=rect	coords=560,693,606,710	href="/dbget-bin/www_bget?K08691"	title="K08691 (mcl)" />
+<area shape=rect	coords=773,342,819,359	href="/dbget-bin/www_bget?K09709"	title="K09709 (meh)" />
+<area shape=rect	coords=773,470,819,487	href="/dbget-bin/www_bget?K14470"	title="K14470 (mct)" />
+<area shape=rect	coords=773,588,819,605	href="/dbget-bin/www_bget?K14449"	title="K14449 (mch)" />
+<area shape=rect	coords=329,480,375,497	href="/dbget-bin/www_bget?K05299+K15022"	title="K05299 (fdhA), K15022 (fdhB)" />
+<area shape=rect	coords=479,599,525,616	href="/dbget-bin/www_bget?K01938"	title="K01938 (fhs)" />
+<area shape=rect	coords=428,558,474,575	href="/dbget-bin/www_bget?K01491"	title="K01491 (folD)" />
+<area shape=rect	coords=428,481,474,498	href="/dbget-bin/www_bget?K01491"	title="K01491 (folD)" />
+<area shape=rect	coords=428,406,474,423	href="/dbget-bin/www_bget?K00297"	title="K00297 (metF)" />
+<area shape=rect	coords=814,185,860,202	href="/dbget-bin/www_bget?K00625+K13788+K15024"	title="K00625 (E2.3.1.8), K13788 (pta), K15024 (K15024)" />
+<area shape=rect	coords=765,152,811,169	href="/dbget-bin/www_bget?K00925"	title="K00925 (ackA)" />
+<area shape=rect	coords=773,251,819,268	href="/dbget-bin/www_bget?K08691"	title="K08691 (mcl)" />
+<area shape=rect	coords=540,835,586,852	href="/dbget-bin/www_bget?K14471+K14472"	title="K14471 (smtA1), K14472 (smtB)" />
+<area shape=rect	coords=377,729,423,746	href="/dbget-bin/www_bget?K14471+K14472"	title="K14471 (smtA1), K14472 (smtB)" />
+<area shape=rect	coords=367,225,413,242	href="/dbget-bin/www_bget?K03737"	title="K03737 (por)" />
+<area shape=rect	coords=160,110,206,127	href="/dbget-bin/www_bget?K15232+K15233"	title="K15232 (ccsA), K15233 (ccsB)" />
+<area shape=rect	coords=264,110,310,127	href="/dbget-bin/www_bget?K15234"	title="K15234 (ccl)" />
+<area shape=rect	coords=271,344,317,361	href="/dbget-bin/www_bget?K01958+K01959+K01960"	title="K01958 (PC), K01959 (pycA), K01960 (pycB)" />
+<area shape=rect	coords=477,362,523,379	href="/dbget-bin/www_bget?K15023"	title="K15023 (acsE)" />
+<area shape=rect	coords=477,306,523,323	href="/dbget-bin/www_bget?K14138+K00197+K00194"	title="K14138 (acsB), K00197 (cdhE), K00194 (cdhD)" />
+<area shape=rect	coords=370,306,416,323	href="/dbget-bin/www_bget?K00198+K00196"	title="K00198 (cooS), K00196 (cooF)" />
+<area shape=rect	coords=193,274,239,291	href="/dbget-bin/www_bget?K01006"	title="K01006 (ppdK)" />
+<area shape=rect	coords=313,877,359,894	href="/dbget-bin/www_bget?K18209+K18210"	title="K18209 (tfrA), K18210 (tfrB)" />
+<area shape=rect	coords=361,856,407,873	href="/dbget-bin/www_bget?K00244+K00245+K00246+K00247+K00239+K00240+K00241+K00242+K18859+K18860"	title="K00244 (frdA), K00245 (frdB), K00246 (frdC), K00247 (frdD), K00239 (sdhA), K00240 (sdhB), K00241 (sdhC), K00242 (sdhD), K18859 (sdhD), K18860 (sdhD)" />
+<area shape=rect	coords=361,877,407,894	href="/dbget-bin/www_bget?K18556+K18557+K18558+K18559+K18560"	title="K18556 (frdA), K18557 (frdB), K18558 (frdC), K18559 (frdD), K18560 (frdE)" />
+<area shape=rect	coords=654,472,700,489	href="/dbget-bin/www_bget?K18594"	title="K18594 (K18594)" />
+<area shape=rect	coords=955,673,1001,690	href="/dbget-bin/www_bget?K18593"	title="K18593 (K18593)" />
+<area shape=rect	coords=707,659,753,676	href="/dbget-bin/www_bget?K08691"	title="K08691 (mcl)" />
+<area shape=rect	coords=654,400,700,417	href="/dbget-bin/www_bget?K18602"	title="K18602 (K18602)" />
+<area shape=rect	coords=370,130,601,155	href="/kegg-bin/show_pathway?ko00710"	title="ko00710: Carbon fixation in photosynthetic organisms" onmouseover="popupTimer(&quot;ko00710&quot;, &quot;ko00710: Carbon fixation in photosynthetic organisms&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=40,45,403,70	href="/dbget-bin/www_bget?ko00720"	title="ko00720: Carbon fixation pathways in prokaryotes" onmouseover="popupTimer(&quot;ko00720&quot;, &quot;ko00720: Carbon fixation pathways in prokaryotes&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

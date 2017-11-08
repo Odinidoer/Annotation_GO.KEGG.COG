@@ -1,0 +1,594 @@
+path:ccr00010	Glycolysis / Gluconeogenesis - Caulobacter crescentus CB15
+path:ccr00020	Citrate cycle (TCA cycle) - Caulobacter crescentus CB15
+path:ccr00030	Pentose phosphate pathway - Caulobacter crescentus CB15
+path:ccr00040	Pentose and glucuronate interconversions - Caulobacter crescentus CB15
+path:ccr00051	Fructose and mannose metabolism - Caulobacter crescentus CB15
+path:ccr00052	Galactose metabolism - Caulobacter crescentus CB15
+path:ccr00053	Ascorbate and aldarate metabolism - Caulobacter crescentus CB15
+path:ccr00061	Fatty acid biosynthesis - Caulobacter crescentus CB15
+path:ccr00071	Fatty acid degradation - Caulobacter crescentus CB15
+path:ccr00072	Synthesis and degradation of ketone bodies - Caulobacter crescentus CB15
+path:ccr00130	Ubiquinone and other terpenoid-quinone biosynthesis - Caulobacter crescentus CB15
+path:ccr00190	Oxidative phosphorylation - Caulobacter crescentus CB15
+path:ccr00220	Arginine biosynthesis - Caulobacter crescentus CB15
+path:ccr00230	Purine metabolism - Caulobacter crescentus CB15
+path:ccr00240	Pyrimidine metabolism - Caulobacter crescentus CB15
+path:ccr00250	Alanine, aspartate and glutamate metabolism - Caulobacter crescentus CB15
+path:ccr00260	Glycine, serine and threonine metabolism - Caulobacter crescentus CB15
+path:ccr00261	Monobactam biosynthesis - Caulobacter crescentus CB15
+path:ccr00270	Cysteine and methionine metabolism - Caulobacter crescentus CB15
+path:ccr00280	Valine, leucine and isoleucine degradation - Caulobacter crescentus CB15
+path:ccr00281	Geraniol degradation - Caulobacter crescentus CB15
+path:ccr00290	Valine, leucine and isoleucine biosynthesis - Caulobacter crescentus CB15
+path:ccr00300	Lysine biosynthesis - Caulobacter crescentus CB15
+path:ccr00310	Lysine degradation - Caulobacter crescentus CB15
+path:ccr00330	Arginine and proline metabolism - Caulobacter crescentus CB15
+path:ccr00332	Carbapenem biosynthesis - Caulobacter crescentus CB15
+path:ccr00340	Histidine metabolism - Caulobacter crescentus CB15
+path:ccr00350	Tyrosine metabolism - Caulobacter crescentus CB15
+path:ccr00360	Phenylalanine metabolism - Caulobacter crescentus CB15
+path:ccr00361	Chlorocyclohexane and chlorobenzene degradation - Caulobacter crescentus CB15
+path:ccr00362	Benzoate degradation - Caulobacter crescentus CB15
+path:ccr00364	Fluorobenzoate degradation - Caulobacter crescentus CB15
+path:ccr00380	Tryptophan metabolism - Caulobacter crescentus CB15
+path:ccr00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Caulobacter crescentus CB15
+path:ccr00401	Novobiocin biosynthesis - Caulobacter crescentus CB15
+path:ccr00410	beta-Alanine metabolism - Caulobacter crescentus CB15
+path:ccr00430	Taurine and hypotaurine metabolism - Caulobacter crescentus CB15
+path:ccr00440	Phosphonate and phosphinate metabolism - Caulobacter crescentus CB15
+path:ccr00450	Selenocompound metabolism - Caulobacter crescentus CB15
+path:ccr00460	Cyanoamino acid metabolism - Caulobacter crescentus CB15
+path:ccr00471	D-Glutamine and D-glutamate metabolism - Caulobacter crescentus CB15
+path:ccr00472	D-Arginine and D-ornithine metabolism - Caulobacter crescentus CB15
+path:ccr00473	D-Alanine metabolism - Caulobacter crescentus CB15
+path:ccr00480	Glutathione metabolism - Caulobacter crescentus CB15
+path:ccr00500	Starch and sucrose metabolism - Caulobacter crescentus CB15
+path:ccr00511	Other glycan degradation - Caulobacter crescentus CB15
+path:ccr00520	Amino sugar and nucleotide sugar metabolism - Caulobacter crescentus CB15
+path:ccr00521	Streptomycin biosynthesis - Caulobacter crescentus CB15
+path:ccr00523	Polyketide sugar unit biosynthesis - Caulobacter crescentus CB15
+path:ccr00525	Acarbose and validamycin biosynthesis - Caulobacter crescentus CB15
+path:ccr00540	Lipopolysaccharide biosynthesis - Caulobacter crescentus CB15
+path:ccr00550	Peptidoglycan biosynthesis - Caulobacter crescentus CB15
+path:ccr00561	Glycerolipid metabolism - Caulobacter crescentus CB15
+path:ccr00562	Inositol phosphate metabolism - Caulobacter crescentus CB15
+path:ccr00564	Glycerophospholipid metabolism - Caulobacter crescentus CB15
+path:ccr00590	Arachidonic acid metabolism - Caulobacter crescentus CB15
+path:ccr00620	Pyruvate metabolism - Caulobacter crescentus CB15
+path:ccr00621	Dioxin degradation - Caulobacter crescentus CB15
+path:ccr00622	Xylene degradation - Caulobacter crescentus CB15
+path:ccr00623	Toluene degradation - Caulobacter crescentus CB15
+path:ccr00625	Chloroalkane and chloroalkene degradation - Caulobacter crescentus CB15
+path:ccr00626	Naphthalene degradation - Caulobacter crescentus CB15
+path:ccr00627	Aminobenzoate degradation - Caulobacter crescentus CB15
+path:ccr00630	Glyoxylate and dicarboxylate metabolism - Caulobacter crescentus CB15
+path:ccr00640	Propanoate metabolism - Caulobacter crescentus CB15
+path:ccr00643	Styrene degradation - Caulobacter crescentus CB15
+path:ccr00650	Butanoate metabolism - Caulobacter crescentus CB15
+path:ccr00660	C5-Branched dibasic acid metabolism - Caulobacter crescentus CB15
+path:ccr00670	One carbon pool by folate - Caulobacter crescentus CB15
+path:ccr00680	Methane metabolism - Caulobacter crescentus CB15
+path:ccr00730	Thiamine metabolism - Caulobacter crescentus CB15
+path:ccr00740	Riboflavin metabolism - Caulobacter crescentus CB15
+path:ccr00750	Vitamin B6 metabolism - Caulobacter crescentus CB15
+path:ccr00760	Nicotinate and nicotinamide metabolism - Caulobacter crescentus CB15
+path:ccr00770	Pantothenate and CoA biosynthesis - Caulobacter crescentus CB15
+path:ccr00780	Biotin metabolism - Caulobacter crescentus CB15
+path:ccr00785	Lipoic acid metabolism - Caulobacter crescentus CB15
+path:ccr00790	Folate biosynthesis - Caulobacter crescentus CB15
+path:ccr00791	Atrazine degradation - Caulobacter crescentus CB15
+path:ccr00860	Porphyrin and chlorophyll metabolism - Caulobacter crescentus CB15
+path:ccr00900	Terpenoid backbone biosynthesis - Caulobacter crescentus CB15
+path:ccr00903	Limonene and pinene degradation - Caulobacter crescentus CB15
+path:ccr00910	Nitrogen metabolism - Caulobacter crescentus CB15
+path:ccr00920	Sulfur metabolism - Caulobacter crescentus CB15
+path:ccr00930	Caprolactam degradation - Caulobacter crescentus CB15
+path:ccr00970	Aminoacyl-tRNA biosynthesis - Caulobacter crescentus CB15
+path:ccr01040	Biosynthesis of unsaturated fatty acids - Caulobacter crescentus CB15
+path:ccr01054	Nonribosomal peptide structures - Caulobacter crescentus CB15
+path:ccr01100	Metabolic pathways - Caulobacter crescentus CB15
+path:ccr01110	Biosynthesis of secondary metabolites - Caulobacter crescentus CB15
+path:ccr01120	Microbial metabolism in diverse environments - Caulobacter crescentus CB15
+path:ccr01130	Biosynthesis of antibiotics - Caulobacter crescentus CB15
+path:ccr01200	Carbon metabolism - Caulobacter crescentus CB15
+path:ccr01210	2-Oxocarboxylic acid metabolism - Caulobacter crescentus CB15
+path:ccr01212	Fatty acid metabolism - Caulobacter crescentus CB15
+path:ccr01220	Degradation of aromatic compounds - Caulobacter crescentus CB15
+path:ccr01230	Biosynthesis of amino acids - Caulobacter crescentus CB15
+path:ccr01501	beta-Lactam resistance - Caulobacter crescentus CB15
+path:ccr01502	Vancomycin resistance - Caulobacter crescentus CB15
+path:ccr01503	Cationic antimicrobial peptide (CAMP) resistance - Caulobacter crescentus CB15
+path:ccr02010	ABC transporters - Caulobacter crescentus CB15
+path:ccr02020	Two-component system - Caulobacter crescentus CB15
+path:ccr02024	Quorum sensing - Caulobacter crescentus CB15
+path:ccr02030	Bacterial chemotaxis - Caulobacter crescentus CB15
+path:ccr02040	Flagellar assembly - Caulobacter crescentus CB15
+path:ccr02060	Phosphotransferase system (PTS) - Caulobacter crescentus CB15
+path:ccr03010	Ribosome - Caulobacter crescentus CB15
+path:ccr03018	RNA degradation - Caulobacter crescentus CB15
+path:ccr03020	RNA polymerase - Caulobacter crescentus CB15
+path:ccr03030	DNA replication - Caulobacter crescentus CB15
+path:ccr03060	Protein export - Caulobacter crescentus CB15
+path:ccr03070	Bacterial secretion system - Caulobacter crescentus CB15
+path:ccr03410	Base excision repair - Caulobacter crescentus CB15
+path:ccr03420	Nucleotide excision repair - Caulobacter crescentus CB15
+path:ccr03430	Mismatch repair - Caulobacter crescentus CB15
+path:ccr03440	Homologous recombination - Caulobacter crescentus CB15
+path:ccr04112	Cell cycle - Caulobacter - Caulobacter crescentus CB15
+path:ccr04122	Sulfur relay system - Caulobacter crescentus CB15
+path:ccs00010	Glycolysis / Gluconeogenesis - Caulobacter crescentus NA1000
+path:ccs00020	Citrate cycle (TCA cycle) - Caulobacter crescentus NA1000
+path:ccs00030	Pentose phosphate pathway - Caulobacter crescentus NA1000
+path:ccs00040	Pentose and glucuronate interconversions - Caulobacter crescentus NA1000
+path:ccs00051	Fructose and mannose metabolism - Caulobacter crescentus NA1000
+path:ccs00052	Galactose metabolism - Caulobacter crescentus NA1000
+path:ccs00053	Ascorbate and aldarate metabolism - Caulobacter crescentus NA1000
+path:ccs00061	Fatty acid biosynthesis - Caulobacter crescentus NA1000
+path:ccs00071	Fatty acid degradation - Caulobacter crescentus NA1000
+path:ccs00072	Synthesis and degradation of ketone bodies - Caulobacter crescentus NA1000
+path:ccs00130	Ubiquinone and other terpenoid-quinone biosynthesis - Caulobacter crescentus NA1000
+path:ccs00190	Oxidative phosphorylation - Caulobacter crescentus NA1000
+path:ccs00220	Arginine biosynthesis - Caulobacter crescentus NA1000
+path:ccs00230	Purine metabolism - Caulobacter crescentus NA1000
+path:ccs00240	Pyrimidine metabolism - Caulobacter crescentus NA1000
+path:ccs00250	Alanine, aspartate and glutamate metabolism - Caulobacter crescentus NA1000
+path:ccs00260	Glycine, serine and threonine metabolism - Caulobacter crescentus NA1000
+path:ccs00261	Monobactam biosynthesis - Caulobacter crescentus NA1000
+path:ccs00270	Cysteine and methionine metabolism - Caulobacter crescentus NA1000
+path:ccs00280	Valine, leucine and isoleucine degradation - Caulobacter crescentus NA1000
+path:ccs00281	Geraniol degradation - Caulobacter crescentus NA1000
+path:ccs00290	Valine, leucine and isoleucine biosynthesis - Caulobacter crescentus NA1000
+path:ccs00300	Lysine biosynthesis - Caulobacter crescentus NA1000
+path:ccs00310	Lysine degradation - Caulobacter crescentus NA1000
+path:ccs00330	Arginine and proline metabolism - Caulobacter crescentus NA1000
+path:ccs00332	Carbapenem biosynthesis - Caulobacter crescentus NA1000
+path:ccs00340	Histidine metabolism - Caulobacter crescentus NA1000
+path:ccs00350	Tyrosine metabolism - Caulobacter crescentus NA1000
+path:ccs00360	Phenylalanine metabolism - Caulobacter crescentus NA1000
+path:ccs00361	Chlorocyclohexane and chlorobenzene degradation - Caulobacter crescentus NA1000
+path:ccs00362	Benzoate degradation - Caulobacter crescentus NA1000
+path:ccs00364	Fluorobenzoate degradation - Caulobacter crescentus NA1000
+path:ccs00380	Tryptophan metabolism - Caulobacter crescentus NA1000
+path:ccs00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Caulobacter crescentus NA1000
+path:ccs00401	Novobiocin biosynthesis - Caulobacter crescentus NA1000
+path:ccs00410	beta-Alanine metabolism - Caulobacter crescentus NA1000
+path:ccs00430	Taurine and hypotaurine metabolism - Caulobacter crescentus NA1000
+path:ccs00440	Phosphonate and phosphinate metabolism - Caulobacter crescentus NA1000
+path:ccs00450	Selenocompound metabolism - Caulobacter crescentus NA1000
+path:ccs00460	Cyanoamino acid metabolism - Caulobacter crescentus NA1000
+path:ccs00471	D-Glutamine and D-glutamate metabolism - Caulobacter crescentus NA1000
+path:ccs00472	D-Arginine and D-ornithine metabolism - Caulobacter crescentus NA1000
+path:ccs00473	D-Alanine metabolism - Caulobacter crescentus NA1000
+path:ccs00480	Glutathione metabolism - Caulobacter crescentus NA1000
+path:ccs00500	Starch and sucrose metabolism - Caulobacter crescentus NA1000
+path:ccs00511	Other glycan degradation - Caulobacter crescentus NA1000
+path:ccs00520	Amino sugar and nucleotide sugar metabolism - Caulobacter crescentus NA1000
+path:ccs00521	Streptomycin biosynthesis - Caulobacter crescentus NA1000
+path:ccs00523	Polyketide sugar unit biosynthesis - Caulobacter crescentus NA1000
+path:ccs00525	Acarbose and validamycin biosynthesis - Caulobacter crescentus NA1000
+path:ccs00540	Lipopolysaccharide biosynthesis - Caulobacter crescentus NA1000
+path:ccs00550	Peptidoglycan biosynthesis - Caulobacter crescentus NA1000
+path:ccs00561	Glycerolipid metabolism - Caulobacter crescentus NA1000
+path:ccs00562	Inositol phosphate metabolism - Caulobacter crescentus NA1000
+path:ccs00564	Glycerophospholipid metabolism - Caulobacter crescentus NA1000
+path:ccs00590	Arachidonic acid metabolism - Caulobacter crescentus NA1000
+path:ccs00620	Pyruvate metabolism - Caulobacter crescentus NA1000
+path:ccs00621	Dioxin degradation - Caulobacter crescentus NA1000
+path:ccs00622	Xylene degradation - Caulobacter crescentus NA1000
+path:ccs00623	Toluene degradation - Caulobacter crescentus NA1000
+path:ccs00625	Chloroalkane and chloroalkene degradation - Caulobacter crescentus NA1000
+path:ccs00626	Naphthalene degradation - Caulobacter crescentus NA1000
+path:ccs00627	Aminobenzoate degradation - Caulobacter crescentus NA1000
+path:ccs00630	Glyoxylate and dicarboxylate metabolism - Caulobacter crescentus NA1000
+path:ccs00640	Propanoate metabolism - Caulobacter crescentus NA1000
+path:ccs00643	Styrene degradation - Caulobacter crescentus NA1000
+path:ccs00650	Butanoate metabolism - Caulobacter crescentus NA1000
+path:ccs00660	C5-Branched dibasic acid metabolism - Caulobacter crescentus NA1000
+path:ccs00670	One carbon pool by folate - Caulobacter crescentus NA1000
+path:ccs00680	Methane metabolism - Caulobacter crescentus NA1000
+path:ccs00730	Thiamine metabolism - Caulobacter crescentus NA1000
+path:ccs00740	Riboflavin metabolism - Caulobacter crescentus NA1000
+path:ccs00750	Vitamin B6 metabolism - Caulobacter crescentus NA1000
+path:ccs00760	Nicotinate and nicotinamide metabolism - Caulobacter crescentus NA1000
+path:ccs00770	Pantothenate and CoA biosynthesis - Caulobacter crescentus NA1000
+path:ccs00780	Biotin metabolism - Caulobacter crescentus NA1000
+path:ccs00785	Lipoic acid metabolism - Caulobacter crescentus NA1000
+path:ccs00790	Folate biosynthesis - Caulobacter crescentus NA1000
+path:ccs00791	Atrazine degradation - Caulobacter crescentus NA1000
+path:ccs00860	Porphyrin and chlorophyll metabolism - Caulobacter crescentus NA1000
+path:ccs00900	Terpenoid backbone biosynthesis - Caulobacter crescentus NA1000
+path:ccs00903	Limonene and pinene degradation - Caulobacter crescentus NA1000
+path:ccs00906	Carotenoid biosynthesis - Caulobacter crescentus NA1000
+path:ccs00910	Nitrogen metabolism - Caulobacter crescentus NA1000
+path:ccs00920	Sulfur metabolism - Caulobacter crescentus NA1000
+path:ccs00930	Caprolactam degradation - Caulobacter crescentus NA1000
+path:ccs00970	Aminoacyl-tRNA biosynthesis - Caulobacter crescentus NA1000
+path:ccs01040	Biosynthesis of unsaturated fatty acids - Caulobacter crescentus NA1000
+path:ccs01054	Nonribosomal peptide structures - Caulobacter crescentus NA1000
+path:ccs01100	Metabolic pathways - Caulobacter crescentus NA1000
+path:ccs01110	Biosynthesis of secondary metabolites - Caulobacter crescentus NA1000
+path:ccs01120	Microbial metabolism in diverse environments - Caulobacter crescentus NA1000
+path:ccs01130	Biosynthesis of antibiotics - Caulobacter crescentus NA1000
+path:ccs01200	Carbon metabolism - Caulobacter crescentus NA1000
+path:ccs01210	2-Oxocarboxylic acid metabolism - Caulobacter crescentus NA1000
+path:ccs01212	Fatty acid metabolism - Caulobacter crescentus NA1000
+path:ccs01220	Degradation of aromatic compounds - Caulobacter crescentus NA1000
+path:ccs01230	Biosynthesis of amino acids - Caulobacter crescentus NA1000
+path:ccs01501	beta-Lactam resistance - Caulobacter crescentus NA1000
+path:ccs01502	Vancomycin resistance - Caulobacter crescentus NA1000
+path:ccs01503	Cationic antimicrobial peptide (CAMP) resistance - Caulobacter crescentus NA1000
+path:ccs02010	ABC transporters - Caulobacter crescentus NA1000
+path:ccs02020	Two-component system - Caulobacter crescentus NA1000
+path:ccs02024	Quorum sensing - Caulobacter crescentus NA1000
+path:ccs02030	Bacterial chemotaxis - Caulobacter crescentus NA1000
+path:ccs02040	Flagellar assembly - Caulobacter crescentus NA1000
+path:ccs02060	Phosphotransferase system (PTS) - Caulobacter crescentus NA1000
+path:ccs03010	Ribosome - Caulobacter crescentus NA1000
+path:ccs03018	RNA degradation - Caulobacter crescentus NA1000
+path:ccs03020	RNA polymerase - Caulobacter crescentus NA1000
+path:ccs03030	DNA replication - Caulobacter crescentus NA1000
+path:ccs03060	Protein export - Caulobacter crescentus NA1000
+path:ccs03070	Bacterial secretion system - Caulobacter crescentus NA1000
+path:ccs03410	Base excision repair - Caulobacter crescentus NA1000
+path:ccs03420	Nucleotide excision repair - Caulobacter crescentus NA1000
+path:ccs03430	Mismatch repair - Caulobacter crescentus NA1000
+path:ccs03440	Homologous recombination - Caulobacter crescentus NA1000
+path:ccs04112	Cell cycle - Caulobacter - Caulobacter crescentus NA1000
+path:ccs04122	Sulfur relay system - Caulobacter crescentus NA1000
+path:cak00010	Glycolysis / Gluconeogenesis - Caulobacter sp. K31
+path:cak00020	Citrate cycle (TCA cycle) - Caulobacter sp. K31
+path:cak00030	Pentose phosphate pathway - Caulobacter sp. K31
+path:cak00040	Pentose and glucuronate interconversions - Caulobacter sp. K31
+path:cak00051	Fructose and mannose metabolism - Caulobacter sp. K31
+path:cak00052	Galactose metabolism - Caulobacter sp. K31
+path:cak00053	Ascorbate and aldarate metabolism - Caulobacter sp. K31
+path:cak00061	Fatty acid biosynthesis - Caulobacter sp. K31
+path:cak00071	Fatty acid degradation - Caulobacter sp. K31
+path:cak00072	Synthesis and degradation of ketone bodies - Caulobacter sp. K31
+path:cak00121	Secondary bile acid biosynthesis - Caulobacter sp. K31
+path:cak00130	Ubiquinone and other terpenoid-quinone biosynthesis - Caulobacter sp. K31
+path:cak00190	Oxidative phosphorylation - Caulobacter sp. K31
+path:cak00220	Arginine biosynthesis - Caulobacter sp. K31
+path:cak00230	Purine metabolism - Caulobacter sp. K31
+path:cak00240	Pyrimidine metabolism - Caulobacter sp. K31
+path:cak00250	Alanine, aspartate and glutamate metabolism - Caulobacter sp. K31
+path:cak00260	Glycine, serine and threonine metabolism - Caulobacter sp. K31
+path:cak00261	Monobactam biosynthesis - Caulobacter sp. K31
+path:cak00270	Cysteine and methionine metabolism - Caulobacter sp. K31
+path:cak00280	Valine, leucine and isoleucine degradation - Caulobacter sp. K31
+path:cak00281	Geraniol degradation - Caulobacter sp. K31
+path:cak00290	Valine, leucine and isoleucine biosynthesis - Caulobacter sp. K31
+path:cak00300	Lysine biosynthesis - Caulobacter sp. K31
+path:cak00310	Lysine degradation - Caulobacter sp. K31
+path:cak00311	Penicillin and cephalosporin biosynthesis - Caulobacter sp. K31
+path:cak00330	Arginine and proline metabolism - Caulobacter sp. K31
+path:cak00332	Carbapenem biosynthesis - Caulobacter sp. K31
+path:cak00340	Histidine metabolism - Caulobacter sp. K31
+path:cak00350	Tyrosine metabolism - Caulobacter sp. K31
+path:cak00360	Phenylalanine metabolism - Caulobacter sp. K31
+path:cak00361	Chlorocyclohexane and chlorobenzene degradation - Caulobacter sp. K31
+path:cak00362	Benzoate degradation - Caulobacter sp. K31
+path:cak00364	Fluorobenzoate degradation - Caulobacter sp. K31
+path:cak00380	Tryptophan metabolism - Caulobacter sp. K31
+path:cak00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Caulobacter sp. K31
+path:cak00401	Novobiocin biosynthesis - Caulobacter sp. K31
+path:cak00410	beta-Alanine metabolism - Caulobacter sp. K31
+path:cak00430	Taurine and hypotaurine metabolism - Caulobacter sp. K31
+path:cak00440	Phosphonate and phosphinate metabolism - Caulobacter sp. K31
+path:cak00450	Selenocompound metabolism - Caulobacter sp. K31
+path:cak00460	Cyanoamino acid metabolism - Caulobacter sp. K31
+path:cak00471	D-Glutamine and D-glutamate metabolism - Caulobacter sp. K31
+path:cak00472	D-Arginine and D-ornithine metabolism - Caulobacter sp. K31
+path:cak00473	D-Alanine metabolism - Caulobacter sp. K31
+path:cak00480	Glutathione metabolism - Caulobacter sp. K31
+path:cak00500	Starch and sucrose metabolism - Caulobacter sp. K31
+path:cak00511	Other glycan degradation - Caulobacter sp. K31
+path:cak00520	Amino sugar and nucleotide sugar metabolism - Caulobacter sp. K31
+path:cak00521	Streptomycin biosynthesis - Caulobacter sp. K31
+path:cak00523	Polyketide sugar unit biosynthesis - Caulobacter sp. K31
+path:cak00525	Acarbose and validamycin biosynthesis - Caulobacter sp. K31
+path:cak00540	Lipopolysaccharide biosynthesis - Caulobacter sp. K31
+path:cak00550	Peptidoglycan biosynthesis - Caulobacter sp. K31
+path:cak00561	Glycerolipid metabolism - Caulobacter sp. K31
+path:cak00562	Inositol phosphate metabolism - Caulobacter sp. K31
+path:cak00564	Glycerophospholipid metabolism - Caulobacter sp. K31
+path:cak00590	Arachidonic acid metabolism - Caulobacter sp. K31
+path:cak00592	alpha-Linolenic acid metabolism - Caulobacter sp. K31
+path:cak00600	Sphingolipid metabolism - Caulobacter sp. K31
+path:cak00620	Pyruvate metabolism - Caulobacter sp. K31
+path:cak00623	Toluene degradation - Caulobacter sp. K31
+path:cak00625	Chloroalkane and chloroalkene degradation - Caulobacter sp. K31
+path:cak00626	Naphthalene degradation - Caulobacter sp. K31
+path:cak00627	Aminobenzoate degradation - Caulobacter sp. K31
+path:cak00630	Glyoxylate and dicarboxylate metabolism - Caulobacter sp. K31
+path:cak00633	Nitrotoluene degradation - Caulobacter sp. K31
+path:cak00640	Propanoate metabolism - Caulobacter sp. K31
+path:cak00643	Styrene degradation - Caulobacter sp. K31
+path:cak00650	Butanoate metabolism - Caulobacter sp. K31
+path:cak00660	C5-Branched dibasic acid metabolism - Caulobacter sp. K31
+path:cak00670	One carbon pool by folate - Caulobacter sp. K31
+path:cak00680	Methane metabolism - Caulobacter sp. K31
+path:cak00730	Thiamine metabolism - Caulobacter sp. K31
+path:cak00740	Riboflavin metabolism - Caulobacter sp. K31
+path:cak00750	Vitamin B6 metabolism - Caulobacter sp. K31
+path:cak00760	Nicotinate and nicotinamide metabolism - Caulobacter sp. K31
+path:cak00770	Pantothenate and CoA biosynthesis - Caulobacter sp. K31
+path:cak00780	Biotin metabolism - Caulobacter sp. K31
+path:cak00785	Lipoic acid metabolism - Caulobacter sp. K31
+path:cak00790	Folate biosynthesis - Caulobacter sp. K31
+path:cak00791	Atrazine degradation - Caulobacter sp. K31
+path:cak00860	Porphyrin and chlorophyll metabolism - Caulobacter sp. K31
+path:cak00900	Terpenoid backbone biosynthesis - Caulobacter sp. K31
+path:cak00903	Limonene and pinene degradation - Caulobacter sp. K31
+path:cak00906	Carotenoid biosynthesis - Caulobacter sp. K31
+path:cak00910	Nitrogen metabolism - Caulobacter sp. K31
+path:cak00920	Sulfur metabolism - Caulobacter sp. K31
+path:cak00930	Caprolactam degradation - Caulobacter sp. K31
+path:cak00970	Aminoacyl-tRNA biosynthesis - Caulobacter sp. K31
+path:cak01040	Biosynthesis of unsaturated fatty acids - Caulobacter sp. K31
+path:cak01054	Nonribosomal peptide structures - Caulobacter sp. K31
+path:cak01100	Metabolic pathways - Caulobacter sp. K31
+path:cak01110	Biosynthesis of secondary metabolites - Caulobacter sp. K31
+path:cak01120	Microbial metabolism in diverse environments - Caulobacter sp. K31
+path:cak01130	Biosynthesis of antibiotics - Caulobacter sp. K31
+path:cak01200	Carbon metabolism - Caulobacter sp. K31
+path:cak01210	2-Oxocarboxylic acid metabolism - Caulobacter sp. K31
+path:cak01212	Fatty acid metabolism - Caulobacter sp. K31
+path:cak01220	Degradation of aromatic compounds - Caulobacter sp. K31
+path:cak01230	Biosynthesis of amino acids - Caulobacter sp. K31
+path:cak01501	beta-Lactam resistance - Caulobacter sp. K31
+path:cak01502	Vancomycin resistance - Caulobacter sp. K31
+path:cak01503	Cationic antimicrobial peptide (CAMP) resistance - Caulobacter sp. K31
+path:cak02010	ABC transporters - Caulobacter sp. K31
+path:cak02020	Two-component system - Caulobacter sp. K31
+path:cak02024	Quorum sensing - Caulobacter sp. K31
+path:cak02030	Bacterial chemotaxis - Caulobacter sp. K31
+path:cak02040	Flagellar assembly - Caulobacter sp. K31
+path:cak02060	Phosphotransferase system (PTS) - Caulobacter sp. K31
+path:cak03010	Ribosome - Caulobacter sp. K31
+path:cak03018	RNA degradation - Caulobacter sp. K31
+path:cak03020	RNA polymerase - Caulobacter sp. K31
+path:cak03030	DNA replication - Caulobacter sp. K31
+path:cak03060	Protein export - Caulobacter sp. K31
+path:cak03070	Bacterial secretion system - Caulobacter sp. K31
+path:cak03410	Base excision repair - Caulobacter sp. K31
+path:cak03420	Nucleotide excision repair - Caulobacter sp. K31
+path:cak03430	Mismatch repair - Caulobacter sp. K31
+path:cak03440	Homologous recombination - Caulobacter sp. K31
+path:cak03450	Non-homologous end-joining - Caulobacter sp. K31
+path:cak04112	Cell cycle - Caulobacter - Caulobacter sp. K31
+path:cak04122	Sulfur relay system - Caulobacter sp. K31
+path:cse00010	Glycolysis / Gluconeogenesis - Caulobacter segnis
+path:cse00020	Citrate cycle (TCA cycle) - Caulobacter segnis
+path:cse00030	Pentose phosphate pathway - Caulobacter segnis
+path:cse00040	Pentose and glucuronate interconversions - Caulobacter segnis
+path:cse00051	Fructose and mannose metabolism - Caulobacter segnis
+path:cse00052	Galactose metabolism - Caulobacter segnis
+path:cse00053	Ascorbate and aldarate metabolism - Caulobacter segnis
+path:cse00061	Fatty acid biosynthesis - Caulobacter segnis
+path:cse00071	Fatty acid degradation - Caulobacter segnis
+path:cse00072	Synthesis and degradation of ketone bodies - Caulobacter segnis
+path:cse00130	Ubiquinone and other terpenoid-quinone biosynthesis - Caulobacter segnis
+path:cse00190	Oxidative phosphorylation - Caulobacter segnis
+path:cse00220	Arginine biosynthesis - Caulobacter segnis
+path:cse00230	Purine metabolism - Caulobacter segnis
+path:cse00240	Pyrimidine metabolism - Caulobacter segnis
+path:cse00250	Alanine, aspartate and glutamate metabolism - Caulobacter segnis
+path:cse00260	Glycine, serine and threonine metabolism - Caulobacter segnis
+path:cse00261	Monobactam biosynthesis - Caulobacter segnis
+path:cse00270	Cysteine and methionine metabolism - Caulobacter segnis
+path:cse00280	Valine, leucine and isoleucine degradation - Caulobacter segnis
+path:cse00281	Geraniol degradation - Caulobacter segnis
+path:cse00290	Valine, leucine and isoleucine biosynthesis - Caulobacter segnis
+path:cse00300	Lysine biosynthesis - Caulobacter segnis
+path:cse00310	Lysine degradation - Caulobacter segnis
+path:cse00330	Arginine and proline metabolism - Caulobacter segnis
+path:cse00332	Carbapenem biosynthesis - Caulobacter segnis
+path:cse00340	Histidine metabolism - Caulobacter segnis
+path:cse00350	Tyrosine metabolism - Caulobacter segnis
+path:cse00360	Phenylalanine metabolism - Caulobacter segnis
+path:cse00361	Chlorocyclohexane and chlorobenzene degradation - Caulobacter segnis
+path:cse00362	Benzoate degradation - Caulobacter segnis
+path:cse00364	Fluorobenzoate degradation - Caulobacter segnis
+path:cse00380	Tryptophan metabolism - Caulobacter segnis
+path:cse00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Caulobacter segnis
+path:cse00401	Novobiocin biosynthesis - Caulobacter segnis
+path:cse00410	beta-Alanine metabolism - Caulobacter segnis
+path:cse00430	Taurine and hypotaurine metabolism - Caulobacter segnis
+path:cse00440	Phosphonate and phosphinate metabolism - Caulobacter segnis
+path:cse00450	Selenocompound metabolism - Caulobacter segnis
+path:cse00460	Cyanoamino acid metabolism - Caulobacter segnis
+path:cse00471	D-Glutamine and D-glutamate metabolism - Caulobacter segnis
+path:cse00472	D-Arginine and D-ornithine metabolism - Caulobacter segnis
+path:cse00473	D-Alanine metabolism - Caulobacter segnis
+path:cse00480	Glutathione metabolism - Caulobacter segnis
+path:cse00500	Starch and sucrose metabolism - Caulobacter segnis
+path:cse00511	Other glycan degradation - Caulobacter segnis
+path:cse00520	Amino sugar and nucleotide sugar metabolism - Caulobacter segnis
+path:cse00521	Streptomycin biosynthesis - Caulobacter segnis
+path:cse00523	Polyketide sugar unit biosynthesis - Caulobacter segnis
+path:cse00525	Acarbose and validamycin biosynthesis - Caulobacter segnis
+path:cse00540	Lipopolysaccharide biosynthesis - Caulobacter segnis
+path:cse00550	Peptidoglycan biosynthesis - Caulobacter segnis
+path:cse00561	Glycerolipid metabolism - Caulobacter segnis
+path:cse00562	Inositol phosphate metabolism - Caulobacter segnis
+path:cse00564	Glycerophospholipid metabolism - Caulobacter segnis
+path:cse00590	Arachidonic acid metabolism - Caulobacter segnis
+path:cse00620	Pyruvate metabolism - Caulobacter segnis
+path:cse00622	Xylene degradation - Caulobacter segnis
+path:cse00623	Toluene degradation - Caulobacter segnis
+path:cse00625	Chloroalkane and chloroalkene degradation - Caulobacter segnis
+path:cse00626	Naphthalene degradation - Caulobacter segnis
+path:cse00627	Aminobenzoate degradation - Caulobacter segnis
+path:cse00630	Glyoxylate and dicarboxylate metabolism - Caulobacter segnis
+path:cse00640	Propanoate metabolism - Caulobacter segnis
+path:cse00643	Styrene degradation - Caulobacter segnis
+path:cse00650	Butanoate metabolism - Caulobacter segnis
+path:cse00660	C5-Branched dibasic acid metabolism - Caulobacter segnis
+path:cse00670	One carbon pool by folate - Caulobacter segnis
+path:cse00680	Methane metabolism - Caulobacter segnis
+path:cse00730	Thiamine metabolism - Caulobacter segnis
+path:cse00740	Riboflavin metabolism - Caulobacter segnis
+path:cse00750	Vitamin B6 metabolism - Caulobacter segnis
+path:cse00760	Nicotinate and nicotinamide metabolism - Caulobacter segnis
+path:cse00770	Pantothenate and CoA biosynthesis - Caulobacter segnis
+path:cse00780	Biotin metabolism - Caulobacter segnis
+path:cse00785	Lipoic acid metabolism - Caulobacter segnis
+path:cse00790	Folate biosynthesis - Caulobacter segnis
+path:cse00860	Porphyrin and chlorophyll metabolism - Caulobacter segnis
+path:cse00900	Terpenoid backbone biosynthesis - Caulobacter segnis
+path:cse00903	Limonene and pinene degradation - Caulobacter segnis
+path:cse00906	Carotenoid biosynthesis - Caulobacter segnis
+path:cse00910	Nitrogen metabolism - Caulobacter segnis
+path:cse00920	Sulfur metabolism - Caulobacter segnis
+path:cse00930	Caprolactam degradation - Caulobacter segnis
+path:cse00970	Aminoacyl-tRNA biosynthesis - Caulobacter segnis
+path:cse01040	Biosynthesis of unsaturated fatty acids - Caulobacter segnis
+path:cse01054	Nonribosomal peptide structures - Caulobacter segnis
+path:cse01100	Metabolic pathways - Caulobacter segnis
+path:cse01110	Biosynthesis of secondary metabolites - Caulobacter segnis
+path:cse01120	Microbial metabolism in diverse environments - Caulobacter segnis
+path:cse01130	Biosynthesis of antibiotics - Caulobacter segnis
+path:cse01200	Carbon metabolism - Caulobacter segnis
+path:cse01210	2-Oxocarboxylic acid metabolism - Caulobacter segnis
+path:cse01212	Fatty acid metabolism - Caulobacter segnis
+path:cse01220	Degradation of aromatic compounds - Caulobacter segnis
+path:cse01230	Biosynthesis of amino acids - Caulobacter segnis
+path:cse01501	beta-Lactam resistance - Caulobacter segnis
+path:cse01502	Vancomycin resistance - Caulobacter segnis
+path:cse01503	Cationic antimicrobial peptide (CAMP) resistance - Caulobacter segnis
+path:cse02010	ABC transporters - Caulobacter segnis
+path:cse02020	Two-component system - Caulobacter segnis
+path:cse02024	Quorum sensing - Caulobacter segnis
+path:cse02030	Bacterial chemotaxis - Caulobacter segnis
+path:cse02040	Flagellar assembly - Caulobacter segnis
+path:cse02060	Phosphotransferase system (PTS) - Caulobacter segnis
+path:cse03010	Ribosome - Caulobacter segnis
+path:cse03018	RNA degradation - Caulobacter segnis
+path:cse03020	RNA polymerase - Caulobacter segnis
+path:cse03030	DNA replication - Caulobacter segnis
+path:cse03060	Protein export - Caulobacter segnis
+path:cse03070	Bacterial secretion system - Caulobacter segnis
+path:cse03410	Base excision repair - Caulobacter segnis
+path:cse03420	Nucleotide excision repair - Caulobacter segnis
+path:cse03430	Mismatch repair - Caulobacter segnis
+path:cse03440	Homologous recombination - Caulobacter segnis
+path:cse03450	Non-homologous end-joining - Caulobacter segnis
+path:cse04112	Cell cycle - Caulobacter - Caulobacter segnis
+path:cse04122	Sulfur relay system - Caulobacter segnis
+path:chq00010	Glycolysis / Gluconeogenesis - Caulobacter henricii
+path:chq00020	Citrate cycle (TCA cycle) - Caulobacter henricii
+path:chq00030	Pentose phosphate pathway - Caulobacter henricii
+path:chq00040	Pentose and glucuronate interconversions - Caulobacter henricii
+path:chq00051	Fructose and mannose metabolism - Caulobacter henricii
+path:chq00052	Galactose metabolism - Caulobacter henricii
+path:chq00053	Ascorbate and aldarate metabolism - Caulobacter henricii
+path:chq00061	Fatty acid biosynthesis - Caulobacter henricii
+path:chq00071	Fatty acid degradation - Caulobacter henricii
+path:chq00072	Synthesis and degradation of ketone bodies - Caulobacter henricii
+path:chq00130	Ubiquinone and other terpenoid-quinone biosynthesis - Caulobacter henricii
+path:chq00190	Oxidative phosphorylation - Caulobacter henricii
+path:chq00220	Arginine biosynthesis - Caulobacter henricii
+path:chq00230	Purine metabolism - Caulobacter henricii
+path:chq00240	Pyrimidine metabolism - Caulobacter henricii
+path:chq00250	Alanine, aspartate and glutamate metabolism - Caulobacter henricii
+path:chq00260	Glycine, serine and threonine metabolism - Caulobacter henricii
+path:chq00261	Monobactam biosynthesis - Caulobacter henricii
+path:chq00270	Cysteine and methionine metabolism - Caulobacter henricii
+path:chq00280	Valine, leucine and isoleucine degradation - Caulobacter henricii
+path:chq00281	Geraniol degradation - Caulobacter henricii
+path:chq00290	Valine, leucine and isoleucine biosynthesis - Caulobacter henricii
+path:chq00300	Lysine biosynthesis - Caulobacter henricii
+path:chq00310	Lysine degradation - Caulobacter henricii
+path:chq00330	Arginine and proline metabolism - Caulobacter henricii
+path:chq00332	Carbapenem biosynthesis - Caulobacter henricii
+path:chq00340	Histidine metabolism - Caulobacter henricii
+path:chq00350	Tyrosine metabolism - Caulobacter henricii
+path:chq00360	Phenylalanine metabolism - Caulobacter henricii
+path:chq00361	Chlorocyclohexane and chlorobenzene degradation - Caulobacter henricii
+path:chq00362	Benzoate degradation - Caulobacter henricii
+path:chq00364	Fluorobenzoate degradation - Caulobacter henricii
+path:chq00380	Tryptophan metabolism - Caulobacter henricii
+path:chq00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Caulobacter henricii
+path:chq00401	Novobiocin biosynthesis - Caulobacter henricii
+path:chq00410	beta-Alanine metabolism - Caulobacter henricii
+path:chq00430	Taurine and hypotaurine metabolism - Caulobacter henricii
+path:chq00440	Phosphonate and phosphinate metabolism - Caulobacter henricii
+path:chq00450	Selenocompound metabolism - Caulobacter henricii
+path:chq00460	Cyanoamino acid metabolism - Caulobacter henricii
+path:chq00471	D-Glutamine and D-glutamate metabolism - Caulobacter henricii
+path:chq00472	D-Arginine and D-ornithine metabolism - Caulobacter henricii
+path:chq00473	D-Alanine metabolism - Caulobacter henricii
+path:chq00480	Glutathione metabolism - Caulobacter henricii
+path:chq00500	Starch and sucrose metabolism - Caulobacter henricii
+path:chq00511	Other glycan degradation - Caulobacter henricii
+path:chq00520	Amino sugar and nucleotide sugar metabolism - Caulobacter henricii
+path:chq00521	Streptomycin biosynthesis - Caulobacter henricii
+path:chq00523	Polyketide sugar unit biosynthesis - Caulobacter henricii
+path:chq00525	Acarbose and validamycin biosynthesis - Caulobacter henricii
+path:chq00540	Lipopolysaccharide biosynthesis - Caulobacter henricii
+path:chq00550	Peptidoglycan biosynthesis - Caulobacter henricii
+path:chq00561	Glycerolipid metabolism - Caulobacter henricii
+path:chq00562	Inositol phosphate metabolism - Caulobacter henricii
+path:chq00564	Glycerophospholipid metabolism - Caulobacter henricii
+path:chq00590	Arachidonic acid metabolism - Caulobacter henricii
+path:chq00620	Pyruvate metabolism - Caulobacter henricii
+path:chq00623	Toluene degradation - Caulobacter henricii
+path:chq00625	Chloroalkane and chloroalkene degradation - Caulobacter henricii
+path:chq00626	Naphthalene degradation - Caulobacter henricii
+path:chq00627	Aminobenzoate degradation - Caulobacter henricii
+path:chq00630	Glyoxylate and dicarboxylate metabolism - Caulobacter henricii
+path:chq00640	Propanoate metabolism - Caulobacter henricii
+path:chq00643	Styrene degradation - Caulobacter henricii
+path:chq00650	Butanoate metabolism - Caulobacter henricii
+path:chq00660	C5-Branched dibasic acid metabolism - Caulobacter henricii
+path:chq00670	One carbon pool by folate - Caulobacter henricii
+path:chq00680	Methane metabolism - Caulobacter henricii
+path:chq00730	Thiamine metabolism - Caulobacter henricii
+path:chq00740	Riboflavin metabolism - Caulobacter henricii
+path:chq00750	Vitamin B6 metabolism - Caulobacter henricii
+path:chq00760	Nicotinate and nicotinamide metabolism - Caulobacter henricii
+path:chq00770	Pantothenate and CoA biosynthesis - Caulobacter henricii
+path:chq00780	Biotin metabolism - Caulobacter henricii
+path:chq00785	Lipoic acid metabolism - Caulobacter henricii
+path:chq00790	Folate biosynthesis - Caulobacter henricii
+path:chq00860	Porphyrin and chlorophyll metabolism - Caulobacter henricii
+path:chq00900	Terpenoid backbone biosynthesis - Caulobacter henricii
+path:chq00903	Limonene and pinene degradation - Caulobacter henricii
+path:chq00906	Carotenoid biosynthesis - Caulobacter henricii
+path:chq00910	Nitrogen metabolism - Caulobacter henricii
+path:chq00920	Sulfur metabolism - Caulobacter henricii
+path:chq00930	Caprolactam degradation - Caulobacter henricii
+path:chq00970	Aminoacyl-tRNA biosynthesis - Caulobacter henricii
+path:chq01040	Biosynthesis of unsaturated fatty acids - Caulobacter henricii
+path:chq01054	Nonribosomal peptide structures - Caulobacter henricii
+path:chq01100	Metabolic pathways - Caulobacter henricii
+path:chq01110	Biosynthesis of secondary metabolites - Caulobacter henricii
+path:chq01120	Microbial metabolism in diverse environments - Caulobacter henricii
+path:chq01130	Biosynthesis of antibiotics - Caulobacter henricii
+path:chq01200	Carbon metabolism - Caulobacter henricii
+path:chq01210	2-Oxocarboxylic acid metabolism - Caulobacter henricii
+path:chq01212	Fatty acid metabolism - Caulobacter henricii
+path:chq01220	Degradation of aromatic compounds - Caulobacter henricii
+path:chq01230	Biosynthesis of amino acids - Caulobacter henricii
+path:chq01501	beta-Lactam resistance - Caulobacter henricii
+path:chq01502	Vancomycin resistance - Caulobacter henricii
+path:chq01503	Cationic antimicrobial peptide (CAMP) resistance - Caulobacter henricii
+path:chq02010	ABC transporters - Caulobacter henricii
+path:chq02020	Two-component system - Caulobacter henricii
+path:chq02024	Quorum sensing - Caulobacter henricii
+path:chq02030	Bacterial chemotaxis - Caulobacter henricii
+path:chq02040	Flagellar assembly - Caulobacter henricii
+path:chq02060	Phosphotransferase system (PTS) - Caulobacter henricii
+path:chq03010	Ribosome - Caulobacter henricii
+path:chq03018	RNA degradation - Caulobacter henricii
+path:chq03020	RNA polymerase - Caulobacter henricii
+path:chq03030	DNA replication - Caulobacter henricii
+path:chq03060	Protein export - Caulobacter henricii
+path:chq03070	Bacterial secretion system - Caulobacter henricii
+path:chq03410	Base excision repair - Caulobacter henricii
+path:chq03420	Nucleotide excision repair - Caulobacter henricii
+path:chq03430	Mismatch repair - Caulobacter henricii
+path:chq03440	Homologous recombination - Caulobacter henricii
+path:chq04112	Cell cycle - Caulobacter - Caulobacter henricii
+path:chq04122	Sulfur relay system - Caulobacter henricii

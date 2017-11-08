@@ -1,0 +1,2536 @@
+path:bpe00010	Glycolysis / Gluconeogenesis - Bordetella pertussis Tohama I
+path:bpe00020	Citrate cycle (TCA cycle) - Bordetella pertussis Tohama I
+path:bpe00030	Pentose phosphate pathway - Bordetella pertussis Tohama I
+path:bpe00040	Pentose and glucuronate interconversions - Bordetella pertussis Tohama I
+path:bpe00051	Fructose and mannose metabolism - Bordetella pertussis Tohama I
+path:bpe00052	Galactose metabolism - Bordetella pertussis Tohama I
+path:bpe00053	Ascorbate and aldarate metabolism - Bordetella pertussis Tohama I
+path:bpe00061	Fatty acid biosynthesis - Bordetella pertussis Tohama I
+path:bpe00071	Fatty acid degradation - Bordetella pertussis Tohama I
+path:bpe00072	Synthesis and degradation of ketone bodies - Bordetella pertussis Tohama I
+path:bpe00121	Secondary bile acid biosynthesis - Bordetella pertussis Tohama I
+path:bpe00130	Ubiquinone and other terpenoid-quinone biosynthesis - Bordetella pertussis Tohama I
+path:bpe00190	Oxidative phosphorylation - Bordetella pertussis Tohama I
+path:bpe00220	Arginine biosynthesis - Bordetella pertussis Tohama I
+path:bpe00230	Purine metabolism - Bordetella pertussis Tohama I
+path:bpe00240	Pyrimidine metabolism - Bordetella pertussis Tohama I
+path:bpe00250	Alanine, aspartate and glutamate metabolism - Bordetella pertussis Tohama I
+path:bpe00260	Glycine, serine and threonine metabolism - Bordetella pertussis Tohama I
+path:bpe00261	Monobactam biosynthesis - Bordetella pertussis Tohama I
+path:bpe00270	Cysteine and methionine metabolism - Bordetella pertussis Tohama I
+path:bpe00280	Valine, leucine and isoleucine degradation - Bordetella pertussis Tohama I
+path:bpe00281	Geraniol degradation - Bordetella pertussis Tohama I
+path:bpe00290	Valine, leucine and isoleucine biosynthesis - Bordetella pertussis Tohama I
+path:bpe00300	Lysine biosynthesis - Bordetella pertussis Tohama I
+path:bpe00310	Lysine degradation - Bordetella pertussis Tohama I
+path:bpe00330	Arginine and proline metabolism - Bordetella pertussis Tohama I
+path:bpe00332	Carbapenem biosynthesis - Bordetella pertussis Tohama I
+path:bpe00340	Histidine metabolism - Bordetella pertussis Tohama I
+path:bpe00350	Tyrosine metabolism - Bordetella pertussis Tohama I
+path:bpe00360	Phenylalanine metabolism - Bordetella pertussis Tohama I
+path:bpe00361	Chlorocyclohexane and chlorobenzene degradation - Bordetella pertussis Tohama I
+path:bpe00362	Benzoate degradation - Bordetella pertussis Tohama I
+path:bpe00364	Fluorobenzoate degradation - Bordetella pertussis Tohama I
+path:bpe00380	Tryptophan metabolism - Bordetella pertussis Tohama I
+path:bpe00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Bordetella pertussis Tohama I
+path:bpe00401	Novobiocin biosynthesis - Bordetella pertussis Tohama I
+path:bpe00410	beta-Alanine metabolism - Bordetella pertussis Tohama I
+path:bpe00430	Taurine and hypotaurine metabolism - Bordetella pertussis Tohama I
+path:bpe00440	Phosphonate and phosphinate metabolism - Bordetella pertussis Tohama I
+path:bpe00450	Selenocompound metabolism - Bordetella pertussis Tohama I
+path:bpe00460	Cyanoamino acid metabolism - Bordetella pertussis Tohama I
+path:bpe00471	D-Glutamine and D-glutamate metabolism - Bordetella pertussis Tohama I
+path:bpe00472	D-Arginine and D-ornithine metabolism - Bordetella pertussis Tohama I
+path:bpe00473	D-Alanine metabolism - Bordetella pertussis Tohama I
+path:bpe00480	Glutathione metabolism - Bordetella pertussis Tohama I
+path:bpe00500	Starch and sucrose metabolism - Bordetella pertussis Tohama I
+path:bpe00520	Amino sugar and nucleotide sugar metabolism - Bordetella pertussis Tohama I
+path:bpe00521	Streptomycin biosynthesis - Bordetella pertussis Tohama I
+path:bpe00523	Polyketide sugar unit biosynthesis - Bordetella pertussis Tohama I
+path:bpe00540	Lipopolysaccharide biosynthesis - Bordetella pertussis Tohama I
+path:bpe00550	Peptidoglycan biosynthesis - Bordetella pertussis Tohama I
+path:bpe00561	Glycerolipid metabolism - Bordetella pertussis Tohama I
+path:bpe00562	Inositol phosphate metabolism - Bordetella pertussis Tohama I
+path:bpe00564	Glycerophospholipid metabolism - Bordetella pertussis Tohama I
+path:bpe00590	Arachidonic acid metabolism - Bordetella pertussis Tohama I
+path:bpe00592	alpha-Linolenic acid metabolism - Bordetella pertussis Tohama I
+path:bpe00620	Pyruvate metabolism - Bordetella pertussis Tohama I
+path:bpe00623	Toluene degradation - Bordetella pertussis Tohama I
+path:bpe00624	Polycyclic aromatic hydrocarbon degradation - Bordetella pertussis Tohama I
+path:bpe00625	Chloroalkane and chloroalkene degradation - Bordetella pertussis Tohama I
+path:bpe00626	Naphthalene degradation - Bordetella pertussis Tohama I
+path:bpe00627	Aminobenzoate degradation - Bordetella pertussis Tohama I
+path:bpe00630	Glyoxylate and dicarboxylate metabolism - Bordetella pertussis Tohama I
+path:bpe00633	Nitrotoluene degradation - Bordetella pertussis Tohama I
+path:bpe00640	Propanoate metabolism - Bordetella pertussis Tohama I
+path:bpe00643	Styrene degradation - Bordetella pertussis Tohama I
+path:bpe00650	Butanoate metabolism - Bordetella pertussis Tohama I
+path:bpe00660	C5-Branched dibasic acid metabolism - Bordetella pertussis Tohama I
+path:bpe00670	One carbon pool by folate - Bordetella pertussis Tohama I
+path:bpe00680	Methane metabolism - Bordetella pertussis Tohama I
+path:bpe00730	Thiamine metabolism - Bordetella pertussis Tohama I
+path:bpe00740	Riboflavin metabolism - Bordetella pertussis Tohama I
+path:bpe00750	Vitamin B6 metabolism - Bordetella pertussis Tohama I
+path:bpe00760	Nicotinate and nicotinamide metabolism - Bordetella pertussis Tohama I
+path:bpe00770	Pantothenate and CoA biosynthesis - Bordetella pertussis Tohama I
+path:bpe00780	Biotin metabolism - Bordetella pertussis Tohama I
+path:bpe00785	Lipoic acid metabolism - Bordetella pertussis Tohama I
+path:bpe00790	Folate biosynthesis - Bordetella pertussis Tohama I
+path:bpe00860	Porphyrin and chlorophyll metabolism - Bordetella pertussis Tohama I
+path:bpe00900	Terpenoid backbone biosynthesis - Bordetella pertussis Tohama I
+path:bpe00903	Limonene and pinene degradation - Bordetella pertussis Tohama I
+path:bpe00906	Carotenoid biosynthesis - Bordetella pertussis Tohama I
+path:bpe00910	Nitrogen metabolism - Bordetella pertussis Tohama I
+path:bpe00920	Sulfur metabolism - Bordetella pertussis Tohama I
+path:bpe00930	Caprolactam degradation - Bordetella pertussis Tohama I
+path:bpe00970	Aminoacyl-tRNA biosynthesis - Bordetella pertussis Tohama I
+path:bpe01040	Biosynthesis of unsaturated fatty acids - Bordetella pertussis Tohama I
+path:bpe01054	Nonribosomal peptide structures - Bordetella pertussis Tohama I
+path:bpe01100	Metabolic pathways - Bordetella pertussis Tohama I
+path:bpe01110	Biosynthesis of secondary metabolites - Bordetella pertussis Tohama I
+path:bpe01120	Microbial metabolism in diverse environments - Bordetella pertussis Tohama I
+path:bpe01130	Biosynthesis of antibiotics - Bordetella pertussis Tohama I
+path:bpe01200	Carbon metabolism - Bordetella pertussis Tohama I
+path:bpe01210	2-Oxocarboxylic acid metabolism - Bordetella pertussis Tohama I
+path:bpe01212	Fatty acid metabolism - Bordetella pertussis Tohama I
+path:bpe01220	Degradation of aromatic compounds - Bordetella pertussis Tohama I
+path:bpe01230	Biosynthesis of amino acids - Bordetella pertussis Tohama I
+path:bpe01501	beta-Lactam resistance - Bordetella pertussis Tohama I
+path:bpe01502	Vancomycin resistance - Bordetella pertussis Tohama I
+path:bpe01503	Cationic antimicrobial peptide (CAMP) resistance - Bordetella pertussis Tohama I
+path:bpe02010	ABC transporters - Bordetella pertussis Tohama I
+path:bpe02020	Two-component system - Bordetella pertussis Tohama I
+path:bpe02024	Quorum sensing - Bordetella pertussis Tohama I
+path:bpe02030	Bacterial chemotaxis - Bordetella pertussis Tohama I
+path:bpe02040	Flagellar assembly - Bordetella pertussis Tohama I
+path:bpe02060	Phosphotransferase system (PTS) - Bordetella pertussis Tohama I
+path:bpe03010	Ribosome - Bordetella pertussis Tohama I
+path:bpe03018	RNA degradation - Bordetella pertussis Tohama I
+path:bpe03020	RNA polymerase - Bordetella pertussis Tohama I
+path:bpe03030	DNA replication - Bordetella pertussis Tohama I
+path:bpe03060	Protein export - Bordetella pertussis Tohama I
+path:bpe03070	Bacterial secretion system - Bordetella pertussis Tohama I
+path:bpe03410	Base excision repair - Bordetella pertussis Tohama I
+path:bpe03420	Nucleotide excision repair - Bordetella pertussis Tohama I
+path:bpe03430	Mismatch repair - Bordetella pertussis Tohama I
+path:bpe03440	Homologous recombination - Bordetella pertussis Tohama I
+path:bpe04122	Sulfur relay system - Bordetella pertussis Tohama I
+path:bpe05133	Pertussis - Bordetella pertussis Tohama I
+path:bpc00010	Glycolysis / Gluconeogenesis - Bordetella pertussis CS
+path:bpc00020	Citrate cycle (TCA cycle) - Bordetella pertussis CS
+path:bpc00030	Pentose phosphate pathway - Bordetella pertussis CS
+path:bpc00040	Pentose and glucuronate interconversions - Bordetella pertussis CS
+path:bpc00051	Fructose and mannose metabolism - Bordetella pertussis CS
+path:bpc00052	Galactose metabolism - Bordetella pertussis CS
+path:bpc00053	Ascorbate and aldarate metabolism - Bordetella pertussis CS
+path:bpc00061	Fatty acid biosynthesis - Bordetella pertussis CS
+path:bpc00071	Fatty acid degradation - Bordetella pertussis CS
+path:bpc00072	Synthesis and degradation of ketone bodies - Bordetella pertussis CS
+path:bpc00121	Secondary bile acid biosynthesis - Bordetella pertussis CS
+path:bpc00130	Ubiquinone and other terpenoid-quinone biosynthesis - Bordetella pertussis CS
+path:bpc00190	Oxidative phosphorylation - Bordetella pertussis CS
+path:bpc00220	Arginine biosynthesis - Bordetella pertussis CS
+path:bpc00230	Purine metabolism - Bordetella pertussis CS
+path:bpc00240	Pyrimidine metabolism - Bordetella pertussis CS
+path:bpc00250	Alanine, aspartate and glutamate metabolism - Bordetella pertussis CS
+path:bpc00260	Glycine, serine and threonine metabolism - Bordetella pertussis CS
+path:bpc00261	Monobactam biosynthesis - Bordetella pertussis CS
+path:bpc00270	Cysteine and methionine metabolism - Bordetella pertussis CS
+path:bpc00280	Valine, leucine and isoleucine degradation - Bordetella pertussis CS
+path:bpc00281	Geraniol degradation - Bordetella pertussis CS
+path:bpc00290	Valine, leucine and isoleucine biosynthesis - Bordetella pertussis CS
+path:bpc00300	Lysine biosynthesis - Bordetella pertussis CS
+path:bpc00310	Lysine degradation - Bordetella pertussis CS
+path:bpc00330	Arginine and proline metabolism - Bordetella pertussis CS
+path:bpc00332	Carbapenem biosynthesis - Bordetella pertussis CS
+path:bpc00340	Histidine metabolism - Bordetella pertussis CS
+path:bpc00350	Tyrosine metabolism - Bordetella pertussis CS
+path:bpc00360	Phenylalanine metabolism - Bordetella pertussis CS
+path:bpc00361	Chlorocyclohexane and chlorobenzene degradation - Bordetella pertussis CS
+path:bpc00362	Benzoate degradation - Bordetella pertussis CS
+path:bpc00364	Fluorobenzoate degradation - Bordetella pertussis CS
+path:bpc00380	Tryptophan metabolism - Bordetella pertussis CS
+path:bpc00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Bordetella pertussis CS
+path:bpc00401	Novobiocin biosynthesis - Bordetella pertussis CS
+path:bpc00410	beta-Alanine metabolism - Bordetella pertussis CS
+path:bpc00430	Taurine and hypotaurine metabolism - Bordetella pertussis CS
+path:bpc00440	Phosphonate and phosphinate metabolism - Bordetella pertussis CS
+path:bpc00450	Selenocompound metabolism - Bordetella pertussis CS
+path:bpc00460	Cyanoamino acid metabolism - Bordetella pertussis CS
+path:bpc00471	D-Glutamine and D-glutamate metabolism - Bordetella pertussis CS
+path:bpc00472	D-Arginine and D-ornithine metabolism - Bordetella pertussis CS
+path:bpc00473	D-Alanine metabolism - Bordetella pertussis CS
+path:bpc00480	Glutathione metabolism - Bordetella pertussis CS
+path:bpc00500	Starch and sucrose metabolism - Bordetella pertussis CS
+path:bpc00520	Amino sugar and nucleotide sugar metabolism - Bordetella pertussis CS
+path:bpc00521	Streptomycin biosynthesis - Bordetella pertussis CS
+path:bpc00523	Polyketide sugar unit biosynthesis - Bordetella pertussis CS
+path:bpc00540	Lipopolysaccharide biosynthesis - Bordetella pertussis CS
+path:bpc00550	Peptidoglycan biosynthesis - Bordetella pertussis CS
+path:bpc00561	Glycerolipid metabolism - Bordetella pertussis CS
+path:bpc00562	Inositol phosphate metabolism - Bordetella pertussis CS
+path:bpc00564	Glycerophospholipid metabolism - Bordetella pertussis CS
+path:bpc00590	Arachidonic acid metabolism - Bordetella pertussis CS
+path:bpc00592	alpha-Linolenic acid metabolism - Bordetella pertussis CS
+path:bpc00620	Pyruvate metabolism - Bordetella pertussis CS
+path:bpc00623	Toluene degradation - Bordetella pertussis CS
+path:bpc00624	Polycyclic aromatic hydrocarbon degradation - Bordetella pertussis CS
+path:bpc00625	Chloroalkane and chloroalkene degradation - Bordetella pertussis CS
+path:bpc00626	Naphthalene degradation - Bordetella pertussis CS
+path:bpc00627	Aminobenzoate degradation - Bordetella pertussis CS
+path:bpc00630	Glyoxylate and dicarboxylate metabolism - Bordetella pertussis CS
+path:bpc00633	Nitrotoluene degradation - Bordetella pertussis CS
+path:bpc00640	Propanoate metabolism - Bordetella pertussis CS
+path:bpc00643	Styrene degradation - Bordetella pertussis CS
+path:bpc00650	Butanoate metabolism - Bordetella pertussis CS
+path:bpc00660	C5-Branched dibasic acid metabolism - Bordetella pertussis CS
+path:bpc00670	One carbon pool by folate - Bordetella pertussis CS
+path:bpc00680	Methane metabolism - Bordetella pertussis CS
+path:bpc00730	Thiamine metabolism - Bordetella pertussis CS
+path:bpc00740	Riboflavin metabolism - Bordetella pertussis CS
+path:bpc00750	Vitamin B6 metabolism - Bordetella pertussis CS
+path:bpc00760	Nicotinate and nicotinamide metabolism - Bordetella pertussis CS
+path:bpc00770	Pantothenate and CoA biosynthesis - Bordetella pertussis CS
+path:bpc00780	Biotin metabolism - Bordetella pertussis CS
+path:bpc00785	Lipoic acid metabolism - Bordetella pertussis CS
+path:bpc00790	Folate biosynthesis - Bordetella pertussis CS
+path:bpc00860	Porphyrin and chlorophyll metabolism - Bordetella pertussis CS
+path:bpc00900	Terpenoid backbone biosynthesis - Bordetella pertussis CS
+path:bpc00903	Limonene and pinene degradation - Bordetella pertussis CS
+path:bpc00906	Carotenoid biosynthesis - Bordetella pertussis CS
+path:bpc00910	Nitrogen metabolism - Bordetella pertussis CS
+path:bpc00920	Sulfur metabolism - Bordetella pertussis CS
+path:bpc00930	Caprolactam degradation - Bordetella pertussis CS
+path:bpc00970	Aminoacyl-tRNA biosynthesis - Bordetella pertussis CS
+path:bpc01040	Biosynthesis of unsaturated fatty acids - Bordetella pertussis CS
+path:bpc01054	Nonribosomal peptide structures - Bordetella pertussis CS
+path:bpc01100	Metabolic pathways - Bordetella pertussis CS
+path:bpc01110	Biosynthesis of secondary metabolites - Bordetella pertussis CS
+path:bpc01120	Microbial metabolism in diverse environments - Bordetella pertussis CS
+path:bpc01130	Biosynthesis of antibiotics - Bordetella pertussis CS
+path:bpc01200	Carbon metabolism - Bordetella pertussis CS
+path:bpc01210	2-Oxocarboxylic acid metabolism - Bordetella pertussis CS
+path:bpc01212	Fatty acid metabolism - Bordetella pertussis CS
+path:bpc01220	Degradation of aromatic compounds - Bordetella pertussis CS
+path:bpc01230	Biosynthesis of amino acids - Bordetella pertussis CS
+path:bpc01501	beta-Lactam resistance - Bordetella pertussis CS
+path:bpc01502	Vancomycin resistance - Bordetella pertussis CS
+path:bpc01503	Cationic antimicrobial peptide (CAMP) resistance - Bordetella pertussis CS
+path:bpc02010	ABC transporters - Bordetella pertussis CS
+path:bpc02020	Two-component system - Bordetella pertussis CS
+path:bpc02024	Quorum sensing - Bordetella pertussis CS
+path:bpc02030	Bacterial chemotaxis - Bordetella pertussis CS
+path:bpc02040	Flagellar assembly - Bordetella pertussis CS
+path:bpc02060	Phosphotransferase system (PTS) - Bordetella pertussis CS
+path:bpc03010	Ribosome - Bordetella pertussis CS
+path:bpc03018	RNA degradation - Bordetella pertussis CS
+path:bpc03020	RNA polymerase - Bordetella pertussis CS
+path:bpc03030	DNA replication - Bordetella pertussis CS
+path:bpc03060	Protein export - Bordetella pertussis CS
+path:bpc03070	Bacterial secretion system - Bordetella pertussis CS
+path:bpc03410	Base excision repair - Bordetella pertussis CS
+path:bpc03420	Nucleotide excision repair - Bordetella pertussis CS
+path:bpc03430	Mismatch repair - Bordetella pertussis CS
+path:bpc03440	Homologous recombination - Bordetella pertussis CS
+path:bpc04122	Sulfur relay system - Bordetella pertussis CS
+path:bpc05133	Pertussis - Bordetella pertussis CS
+path:bper00010	Glycolysis / Gluconeogenesis - Bordetella pertussis 18323
+path:bper00020	Citrate cycle (TCA cycle) - Bordetella pertussis 18323
+path:bper00030	Pentose phosphate pathway - Bordetella pertussis 18323
+path:bper00040	Pentose and glucuronate interconversions - Bordetella pertussis 18323
+path:bper00051	Fructose and mannose metabolism - Bordetella pertussis 18323
+path:bper00052	Galactose metabolism - Bordetella pertussis 18323
+path:bper00053	Ascorbate and aldarate metabolism - Bordetella pertussis 18323
+path:bper00061	Fatty acid biosynthesis - Bordetella pertussis 18323
+path:bper00071	Fatty acid degradation - Bordetella pertussis 18323
+path:bper00072	Synthesis and degradation of ketone bodies - Bordetella pertussis 18323
+path:bper00121	Secondary bile acid biosynthesis - Bordetella pertussis 18323
+path:bper00130	Ubiquinone and other terpenoid-quinone biosynthesis - Bordetella pertussis 18323
+path:bper00190	Oxidative phosphorylation - Bordetella pertussis 18323
+path:bper00220	Arginine biosynthesis - Bordetella pertussis 18323
+path:bper00230	Purine metabolism - Bordetella pertussis 18323
+path:bper00240	Pyrimidine metabolism - Bordetella pertussis 18323
+path:bper00250	Alanine, aspartate and glutamate metabolism - Bordetella pertussis 18323
+path:bper00260	Glycine, serine and threonine metabolism - Bordetella pertussis 18323
+path:bper00261	Monobactam biosynthesis - Bordetella pertussis 18323
+path:bper00270	Cysteine and methionine metabolism - Bordetella pertussis 18323
+path:bper00280	Valine, leucine and isoleucine degradation - Bordetella pertussis 18323
+path:bper00281	Geraniol degradation - Bordetella pertussis 18323
+path:bper00290	Valine, leucine and isoleucine biosynthesis - Bordetella pertussis 18323
+path:bper00300	Lysine biosynthesis - Bordetella pertussis 18323
+path:bper00310	Lysine degradation - Bordetella pertussis 18323
+path:bper00330	Arginine and proline metabolism - Bordetella pertussis 18323
+path:bper00332	Carbapenem biosynthesis - Bordetella pertussis 18323
+path:bper00340	Histidine metabolism - Bordetella pertussis 18323
+path:bper00350	Tyrosine metabolism - Bordetella pertussis 18323
+path:bper00360	Phenylalanine metabolism - Bordetella pertussis 18323
+path:bper00361	Chlorocyclohexane and chlorobenzene degradation - Bordetella pertussis 18323
+path:bper00362	Benzoate degradation - Bordetella pertussis 18323
+path:bper00364	Fluorobenzoate degradation - Bordetella pertussis 18323
+path:bper00380	Tryptophan metabolism - Bordetella pertussis 18323
+path:bper00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Bordetella pertussis 18323
+path:bper00401	Novobiocin biosynthesis - Bordetella pertussis 18323
+path:bper00410	beta-Alanine metabolism - Bordetella pertussis 18323
+path:bper00430	Taurine and hypotaurine metabolism - Bordetella pertussis 18323
+path:bper00440	Phosphonate and phosphinate metabolism - Bordetella pertussis 18323
+path:bper00450	Selenocompound metabolism - Bordetella pertussis 18323
+path:bper00460	Cyanoamino acid metabolism - Bordetella pertussis 18323
+path:bper00471	D-Glutamine and D-glutamate metabolism - Bordetella pertussis 18323
+path:bper00472	D-Arginine and D-ornithine metabolism - Bordetella pertussis 18323
+path:bper00473	D-Alanine metabolism - Bordetella pertussis 18323
+path:bper00480	Glutathione metabolism - Bordetella pertussis 18323
+path:bper00500	Starch and sucrose metabolism - Bordetella pertussis 18323
+path:bper00520	Amino sugar and nucleotide sugar metabolism - Bordetella pertussis 18323
+path:bper00521	Streptomycin biosynthesis - Bordetella pertussis 18323
+path:bper00523	Polyketide sugar unit biosynthesis - Bordetella pertussis 18323
+path:bper00540	Lipopolysaccharide biosynthesis - Bordetella pertussis 18323
+path:bper00550	Peptidoglycan biosynthesis - Bordetella pertussis 18323
+path:bper00561	Glycerolipid metabolism - Bordetella pertussis 18323
+path:bper00562	Inositol phosphate metabolism - Bordetella pertussis 18323
+path:bper00564	Glycerophospholipid metabolism - Bordetella pertussis 18323
+path:bper00590	Arachidonic acid metabolism - Bordetella pertussis 18323
+path:bper00592	alpha-Linolenic acid metabolism - Bordetella pertussis 18323
+path:bper00620	Pyruvate metabolism - Bordetella pertussis 18323
+path:bper00621	Dioxin degradation - Bordetella pertussis 18323
+path:bper00623	Toluene degradation - Bordetella pertussis 18323
+path:bper00624	Polycyclic aromatic hydrocarbon degradation - Bordetella pertussis 18323
+path:bper00625	Chloroalkane and chloroalkene degradation - Bordetella pertussis 18323
+path:bper00626	Naphthalene degradation - Bordetella pertussis 18323
+path:bper00627	Aminobenzoate degradation - Bordetella pertussis 18323
+path:bper00630	Glyoxylate and dicarboxylate metabolism - Bordetella pertussis 18323
+path:bper00633	Nitrotoluene degradation - Bordetella pertussis 18323
+path:bper00640	Propanoate metabolism - Bordetella pertussis 18323
+path:bper00643	Styrene degradation - Bordetella pertussis 18323
+path:bper00650	Butanoate metabolism - Bordetella pertussis 18323
+path:bper00660	C5-Branched dibasic acid metabolism - Bordetella pertussis 18323
+path:bper00670	One carbon pool by folate - Bordetella pertussis 18323
+path:bper00680	Methane metabolism - Bordetella pertussis 18323
+path:bper00730	Thiamine metabolism - Bordetella pertussis 18323
+path:bper00740	Riboflavin metabolism - Bordetella pertussis 18323
+path:bper00750	Vitamin B6 metabolism - Bordetella pertussis 18323
+path:bper00760	Nicotinate and nicotinamide metabolism - Bordetella pertussis 18323
+path:bper00770	Pantothenate and CoA biosynthesis - Bordetella pertussis 18323
+path:bper00780	Biotin metabolism - Bordetella pertussis 18323
+path:bper00785	Lipoic acid metabolism - Bordetella pertussis 18323
+path:bper00790	Folate biosynthesis - Bordetella pertussis 18323
+path:bper00860	Porphyrin and chlorophyll metabolism - Bordetella pertussis 18323
+path:bper00900	Terpenoid backbone biosynthesis - Bordetella pertussis 18323
+path:bper00903	Limonene and pinene degradation - Bordetella pertussis 18323
+path:bper00906	Carotenoid biosynthesis - Bordetella pertussis 18323
+path:bper00910	Nitrogen metabolism - Bordetella pertussis 18323
+path:bper00920	Sulfur metabolism - Bordetella pertussis 18323
+path:bper00930	Caprolactam degradation - Bordetella pertussis 18323
+path:bper00970	Aminoacyl-tRNA biosynthesis - Bordetella pertussis 18323
+path:bper01040	Biosynthesis of unsaturated fatty acids - Bordetella pertussis 18323
+path:bper01054	Nonribosomal peptide structures - Bordetella pertussis 18323
+path:bper01100	Metabolic pathways - Bordetella pertussis 18323
+path:bper01110	Biosynthesis of secondary metabolites - Bordetella pertussis 18323
+path:bper01120	Microbial metabolism in diverse environments - Bordetella pertussis 18323
+path:bper01130	Biosynthesis of antibiotics - Bordetella pertussis 18323
+path:bper01200	Carbon metabolism - Bordetella pertussis 18323
+path:bper01210	2-Oxocarboxylic acid metabolism - Bordetella pertussis 18323
+path:bper01212	Fatty acid metabolism - Bordetella pertussis 18323
+path:bper01220	Degradation of aromatic compounds - Bordetella pertussis 18323
+path:bper01230	Biosynthesis of amino acids - Bordetella pertussis 18323
+path:bper01501	beta-Lactam resistance - Bordetella pertussis 18323
+path:bper01502	Vancomycin resistance - Bordetella pertussis 18323
+path:bper01503	Cationic antimicrobial peptide (CAMP) resistance - Bordetella pertussis 18323
+path:bper02010	ABC transporters - Bordetella pertussis 18323
+path:bper02020	Two-component system - Bordetella pertussis 18323
+path:bper02024	Quorum sensing - Bordetella pertussis 18323
+path:bper02030	Bacterial chemotaxis - Bordetella pertussis 18323
+path:bper02040	Flagellar assembly - Bordetella pertussis 18323
+path:bper02060	Phosphotransferase system (PTS) - Bordetella pertussis 18323
+path:bper03010	Ribosome - Bordetella pertussis 18323
+path:bper03018	RNA degradation - Bordetella pertussis 18323
+path:bper03020	RNA polymerase - Bordetella pertussis 18323
+path:bper03030	DNA replication - Bordetella pertussis 18323
+path:bper03060	Protein export - Bordetella pertussis 18323
+path:bper03070	Bacterial secretion system - Bordetella pertussis 18323
+path:bper03410	Base excision repair - Bordetella pertussis 18323
+path:bper03420	Nucleotide excision repair - Bordetella pertussis 18323
+path:bper03430	Mismatch repair - Bordetella pertussis 18323
+path:bper03440	Homologous recombination - Bordetella pertussis 18323
+path:bper04122	Sulfur relay system - Bordetella pertussis 18323
+path:bper05133	Pertussis - Bordetella pertussis 18323
+path:bpet00010	Glycolysis / Gluconeogenesis - Bordetella pertussis B1917
+path:bpet00020	Citrate cycle (TCA cycle) - Bordetella pertussis B1917
+path:bpet00030	Pentose phosphate pathway - Bordetella pertussis B1917
+path:bpet00040	Pentose and glucuronate interconversions - Bordetella pertussis B1917
+path:bpet00051	Fructose and mannose metabolism - Bordetella pertussis B1917
+path:bpet00052	Galactose metabolism - Bordetella pertussis B1917
+path:bpet00053	Ascorbate and aldarate metabolism - Bordetella pertussis B1917
+path:bpet00061	Fatty acid biosynthesis - Bordetella pertussis B1917
+path:bpet00071	Fatty acid degradation - Bordetella pertussis B1917
+path:bpet00072	Synthesis and degradation of ketone bodies - Bordetella pertussis B1917
+path:bpet00121	Secondary bile acid biosynthesis - Bordetella pertussis B1917
+path:bpet00130	Ubiquinone and other terpenoid-quinone biosynthesis - Bordetella pertussis B1917
+path:bpet00190	Oxidative phosphorylation - Bordetella pertussis B1917
+path:bpet00220	Arginine biosynthesis - Bordetella pertussis B1917
+path:bpet00230	Purine metabolism - Bordetella pertussis B1917
+path:bpet00240	Pyrimidine metabolism - Bordetella pertussis B1917
+path:bpet00250	Alanine, aspartate and glutamate metabolism - Bordetella pertussis B1917
+path:bpet00260	Glycine, serine and threonine metabolism - Bordetella pertussis B1917
+path:bpet00261	Monobactam biosynthesis - Bordetella pertussis B1917
+path:bpet00270	Cysteine and methionine metabolism - Bordetella pertussis B1917
+path:bpet00280	Valine, leucine and isoleucine degradation - Bordetella pertussis B1917
+path:bpet00281	Geraniol degradation - Bordetella pertussis B1917
+path:bpet00290	Valine, leucine and isoleucine biosynthesis - Bordetella pertussis B1917
+path:bpet00300	Lysine biosynthesis - Bordetella pertussis B1917
+path:bpet00310	Lysine degradation - Bordetella pertussis B1917
+path:bpet00330	Arginine and proline metabolism - Bordetella pertussis B1917
+path:bpet00332	Carbapenem biosynthesis - Bordetella pertussis B1917
+path:bpet00340	Histidine metabolism - Bordetella pertussis B1917
+path:bpet00350	Tyrosine metabolism - Bordetella pertussis B1917
+path:bpet00360	Phenylalanine metabolism - Bordetella pertussis B1917
+path:bpet00361	Chlorocyclohexane and chlorobenzene degradation - Bordetella pertussis B1917
+path:bpet00362	Benzoate degradation - Bordetella pertussis B1917
+path:bpet00364	Fluorobenzoate degradation - Bordetella pertussis B1917
+path:bpet00380	Tryptophan metabolism - Bordetella pertussis B1917
+path:bpet00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Bordetella pertussis B1917
+path:bpet00401	Novobiocin biosynthesis - Bordetella pertussis B1917
+path:bpet00410	beta-Alanine metabolism - Bordetella pertussis B1917
+path:bpet00430	Taurine and hypotaurine metabolism - Bordetella pertussis B1917
+path:bpet00440	Phosphonate and phosphinate metabolism - Bordetella pertussis B1917
+path:bpet00450	Selenocompound metabolism - Bordetella pertussis B1917
+path:bpet00460	Cyanoamino acid metabolism - Bordetella pertussis B1917
+path:bpet00471	D-Glutamine and D-glutamate metabolism - Bordetella pertussis B1917
+path:bpet00472	D-Arginine and D-ornithine metabolism - Bordetella pertussis B1917
+path:bpet00473	D-Alanine metabolism - Bordetella pertussis B1917
+path:bpet00480	Glutathione metabolism - Bordetella pertussis B1917
+path:bpet00500	Starch and sucrose metabolism - Bordetella pertussis B1917
+path:bpet00520	Amino sugar and nucleotide sugar metabolism - Bordetella pertussis B1917
+path:bpet00521	Streptomycin biosynthesis - Bordetella pertussis B1917
+path:bpet00523	Polyketide sugar unit biosynthesis - Bordetella pertussis B1917
+path:bpet00540	Lipopolysaccharide biosynthesis - Bordetella pertussis B1917
+path:bpet00550	Peptidoglycan biosynthesis - Bordetella pertussis B1917
+path:bpet00561	Glycerolipid metabolism - Bordetella pertussis B1917
+path:bpet00562	Inositol phosphate metabolism - Bordetella pertussis B1917
+path:bpet00564	Glycerophospholipid metabolism - Bordetella pertussis B1917
+path:bpet00590	Arachidonic acid metabolism - Bordetella pertussis B1917
+path:bpet00592	alpha-Linolenic acid metabolism - Bordetella pertussis B1917
+path:bpet00620	Pyruvate metabolism - Bordetella pertussis B1917
+path:bpet00623	Toluene degradation - Bordetella pertussis B1917
+path:bpet00624	Polycyclic aromatic hydrocarbon degradation - Bordetella pertussis B1917
+path:bpet00625	Chloroalkane and chloroalkene degradation - Bordetella pertussis B1917
+path:bpet00626	Naphthalene degradation - Bordetella pertussis B1917
+path:bpet00627	Aminobenzoate degradation - Bordetella pertussis B1917
+path:bpet00630	Glyoxylate and dicarboxylate metabolism - Bordetella pertussis B1917
+path:bpet00633	Nitrotoluene degradation - Bordetella pertussis B1917
+path:bpet00640	Propanoate metabolism - Bordetella pertussis B1917
+path:bpet00643	Styrene degradation - Bordetella pertussis B1917
+path:bpet00650	Butanoate metabolism - Bordetella pertussis B1917
+path:bpet00660	C5-Branched dibasic acid metabolism - Bordetella pertussis B1917
+path:bpet00670	One carbon pool by folate - Bordetella pertussis B1917
+path:bpet00680	Methane metabolism - Bordetella pertussis B1917
+path:bpet00730	Thiamine metabolism - Bordetella pertussis B1917
+path:bpet00740	Riboflavin metabolism - Bordetella pertussis B1917
+path:bpet00750	Vitamin B6 metabolism - Bordetella pertussis B1917
+path:bpet00760	Nicotinate and nicotinamide metabolism - Bordetella pertussis B1917
+path:bpet00770	Pantothenate and CoA biosynthesis - Bordetella pertussis B1917
+path:bpet00780	Biotin metabolism - Bordetella pertussis B1917
+path:bpet00785	Lipoic acid metabolism - Bordetella pertussis B1917
+path:bpet00790	Folate biosynthesis - Bordetella pertussis B1917
+path:bpet00860	Porphyrin and chlorophyll metabolism - Bordetella pertussis B1917
+path:bpet00900	Terpenoid backbone biosynthesis - Bordetella pertussis B1917
+path:bpet00903	Limonene and pinene degradation - Bordetella pertussis B1917
+path:bpet00906	Carotenoid biosynthesis - Bordetella pertussis B1917
+path:bpet00910	Nitrogen metabolism - Bordetella pertussis B1917
+path:bpet00920	Sulfur metabolism - Bordetella pertussis B1917
+path:bpet00930	Caprolactam degradation - Bordetella pertussis B1917
+path:bpet00970	Aminoacyl-tRNA biosynthesis - Bordetella pertussis B1917
+path:bpet01040	Biosynthesis of unsaturated fatty acids - Bordetella pertussis B1917
+path:bpet01054	Nonribosomal peptide structures - Bordetella pertussis B1917
+path:bpet01100	Metabolic pathways - Bordetella pertussis B1917
+path:bpet01110	Biosynthesis of secondary metabolites - Bordetella pertussis B1917
+path:bpet01120	Microbial metabolism in diverse environments - Bordetella pertussis B1917
+path:bpet01130	Biosynthesis of antibiotics - Bordetella pertussis B1917
+path:bpet01200	Carbon metabolism - Bordetella pertussis B1917
+path:bpet01210	2-Oxocarboxylic acid metabolism - Bordetella pertussis B1917
+path:bpet01212	Fatty acid metabolism - Bordetella pertussis B1917
+path:bpet01220	Degradation of aromatic compounds - Bordetella pertussis B1917
+path:bpet01230	Biosynthesis of amino acids - Bordetella pertussis B1917
+path:bpet01501	beta-Lactam resistance - Bordetella pertussis B1917
+path:bpet01502	Vancomycin resistance - Bordetella pertussis B1917
+path:bpet01503	Cationic antimicrobial peptide (CAMP) resistance - Bordetella pertussis B1917
+path:bpet02010	ABC transporters - Bordetella pertussis B1917
+path:bpet02020	Two-component system - Bordetella pertussis B1917
+path:bpet02024	Quorum sensing - Bordetella pertussis B1917
+path:bpet02030	Bacterial chemotaxis - Bordetella pertussis B1917
+path:bpet02040	Flagellar assembly - Bordetella pertussis B1917
+path:bpet02060	Phosphotransferase system (PTS) - Bordetella pertussis B1917
+path:bpet03010	Ribosome - Bordetella pertussis B1917
+path:bpet03018	RNA degradation - Bordetella pertussis B1917
+path:bpet03020	RNA polymerase - Bordetella pertussis B1917
+path:bpet03030	DNA replication - Bordetella pertussis B1917
+path:bpet03060	Protein export - Bordetella pertussis B1917
+path:bpet03070	Bacterial secretion system - Bordetella pertussis B1917
+path:bpet03410	Base excision repair - Bordetella pertussis B1917
+path:bpet03420	Nucleotide excision repair - Bordetella pertussis B1917
+path:bpet03430	Mismatch repair - Bordetella pertussis B1917
+path:bpet03440	Homologous recombination - Bordetella pertussis B1917
+path:bpet04122	Sulfur relay system - Bordetella pertussis B1917
+path:bpet05133	Pertussis - Bordetella pertussis B1917
+path:bpeu00010	Glycolysis / Gluconeogenesis - Bordetella pertussis 137
+path:bpeu00020	Citrate cycle (TCA cycle) - Bordetella pertussis 137
+path:bpeu00030	Pentose phosphate pathway - Bordetella pertussis 137
+path:bpeu00040	Pentose and glucuronate interconversions - Bordetella pertussis 137
+path:bpeu00051	Fructose and mannose metabolism - Bordetella pertussis 137
+path:bpeu00052	Galactose metabolism - Bordetella pertussis 137
+path:bpeu00053	Ascorbate and aldarate metabolism - Bordetella pertussis 137
+path:bpeu00061	Fatty acid biosynthesis - Bordetella pertussis 137
+path:bpeu00071	Fatty acid degradation - Bordetella pertussis 137
+path:bpeu00072	Synthesis and degradation of ketone bodies - Bordetella pertussis 137
+path:bpeu00121	Secondary bile acid biosynthesis - Bordetella pertussis 137
+path:bpeu00130	Ubiquinone and other terpenoid-quinone biosynthesis - Bordetella pertussis 137
+path:bpeu00190	Oxidative phosphorylation - Bordetella pertussis 137
+path:bpeu00220	Arginine biosynthesis - Bordetella pertussis 137
+path:bpeu00230	Purine metabolism - Bordetella pertussis 137
+path:bpeu00240	Pyrimidine metabolism - Bordetella pertussis 137
+path:bpeu00250	Alanine, aspartate and glutamate metabolism - Bordetella pertussis 137
+path:bpeu00260	Glycine, serine and threonine metabolism - Bordetella pertussis 137
+path:bpeu00261	Monobactam biosynthesis - Bordetella pertussis 137
+path:bpeu00270	Cysteine and methionine metabolism - Bordetella pertussis 137
+path:bpeu00280	Valine, leucine and isoleucine degradation - Bordetella pertussis 137
+path:bpeu00281	Geraniol degradation - Bordetella pertussis 137
+path:bpeu00290	Valine, leucine and isoleucine biosynthesis - Bordetella pertussis 137
+path:bpeu00300	Lysine biosynthesis - Bordetella pertussis 137
+path:bpeu00310	Lysine degradation - Bordetella pertussis 137
+path:bpeu00330	Arginine and proline metabolism - Bordetella pertussis 137
+path:bpeu00332	Carbapenem biosynthesis - Bordetella pertussis 137
+path:bpeu00340	Histidine metabolism - Bordetella pertussis 137
+path:bpeu00350	Tyrosine metabolism - Bordetella pertussis 137
+path:bpeu00360	Phenylalanine metabolism - Bordetella pertussis 137
+path:bpeu00361	Chlorocyclohexane and chlorobenzene degradation - Bordetella pertussis 137
+path:bpeu00362	Benzoate degradation - Bordetella pertussis 137
+path:bpeu00364	Fluorobenzoate degradation - Bordetella pertussis 137
+path:bpeu00380	Tryptophan metabolism - Bordetella pertussis 137
+path:bpeu00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Bordetella pertussis 137
+path:bpeu00401	Novobiocin biosynthesis - Bordetella pertussis 137
+path:bpeu00410	beta-Alanine metabolism - Bordetella pertussis 137
+path:bpeu00430	Taurine and hypotaurine metabolism - Bordetella pertussis 137
+path:bpeu00440	Phosphonate and phosphinate metabolism - Bordetella pertussis 137
+path:bpeu00450	Selenocompound metabolism - Bordetella pertussis 137
+path:bpeu00460	Cyanoamino acid metabolism - Bordetella pertussis 137
+path:bpeu00471	D-Glutamine and D-glutamate metabolism - Bordetella pertussis 137
+path:bpeu00472	D-Arginine and D-ornithine metabolism - Bordetella pertussis 137
+path:bpeu00473	D-Alanine metabolism - Bordetella pertussis 137
+path:bpeu00480	Glutathione metabolism - Bordetella pertussis 137
+path:bpeu00500	Starch and sucrose metabolism - Bordetella pertussis 137
+path:bpeu00520	Amino sugar and nucleotide sugar metabolism - Bordetella pertussis 137
+path:bpeu00521	Streptomycin biosynthesis - Bordetella pertussis 137
+path:bpeu00523	Polyketide sugar unit biosynthesis - Bordetella pertussis 137
+path:bpeu00540	Lipopolysaccharide biosynthesis - Bordetella pertussis 137
+path:bpeu00550	Peptidoglycan biosynthesis - Bordetella pertussis 137
+path:bpeu00561	Glycerolipid metabolism - Bordetella pertussis 137
+path:bpeu00562	Inositol phosphate metabolism - Bordetella pertussis 137
+path:bpeu00564	Glycerophospholipid metabolism - Bordetella pertussis 137
+path:bpeu00590	Arachidonic acid metabolism - Bordetella pertussis 137
+path:bpeu00592	alpha-Linolenic acid metabolism - Bordetella pertussis 137
+path:bpeu00620	Pyruvate metabolism - Bordetella pertussis 137
+path:bpeu00623	Toluene degradation - Bordetella pertussis 137
+path:bpeu00624	Polycyclic aromatic hydrocarbon degradation - Bordetella pertussis 137
+path:bpeu00625	Chloroalkane and chloroalkene degradation - Bordetella pertussis 137
+path:bpeu00626	Naphthalene degradation - Bordetella pertussis 137
+path:bpeu00627	Aminobenzoate degradation - Bordetella pertussis 137
+path:bpeu00630	Glyoxylate and dicarboxylate metabolism - Bordetella pertussis 137
+path:bpeu00633	Nitrotoluene degradation - Bordetella pertussis 137
+path:bpeu00640	Propanoate metabolism - Bordetella pertussis 137
+path:bpeu00643	Styrene degradation - Bordetella pertussis 137
+path:bpeu00650	Butanoate metabolism - Bordetella pertussis 137
+path:bpeu00660	C5-Branched dibasic acid metabolism - Bordetella pertussis 137
+path:bpeu00670	One carbon pool by folate - Bordetella pertussis 137
+path:bpeu00680	Methane metabolism - Bordetella pertussis 137
+path:bpeu00730	Thiamine metabolism - Bordetella pertussis 137
+path:bpeu00740	Riboflavin metabolism - Bordetella pertussis 137
+path:bpeu00750	Vitamin B6 metabolism - Bordetella pertussis 137
+path:bpeu00760	Nicotinate and nicotinamide metabolism - Bordetella pertussis 137
+path:bpeu00770	Pantothenate and CoA biosynthesis - Bordetella pertussis 137
+path:bpeu00780	Biotin metabolism - Bordetella pertussis 137
+path:bpeu00785	Lipoic acid metabolism - Bordetella pertussis 137
+path:bpeu00790	Folate biosynthesis - Bordetella pertussis 137
+path:bpeu00860	Porphyrin and chlorophyll metabolism - Bordetella pertussis 137
+path:bpeu00900	Terpenoid backbone biosynthesis - Bordetella pertussis 137
+path:bpeu00903	Limonene and pinene degradation - Bordetella pertussis 137
+path:bpeu00906	Carotenoid biosynthesis - Bordetella pertussis 137
+path:bpeu00910	Nitrogen metabolism - Bordetella pertussis 137
+path:bpeu00920	Sulfur metabolism - Bordetella pertussis 137
+path:bpeu00930	Caprolactam degradation - Bordetella pertussis 137
+path:bpeu00970	Aminoacyl-tRNA biosynthesis - Bordetella pertussis 137
+path:bpeu01040	Biosynthesis of unsaturated fatty acids - Bordetella pertussis 137
+path:bpeu01054	Nonribosomal peptide structures - Bordetella pertussis 137
+path:bpeu01100	Metabolic pathways - Bordetella pertussis 137
+path:bpeu01110	Biosynthesis of secondary metabolites - Bordetella pertussis 137
+path:bpeu01120	Microbial metabolism in diverse environments - Bordetella pertussis 137
+path:bpeu01130	Biosynthesis of antibiotics - Bordetella pertussis 137
+path:bpeu01200	Carbon metabolism - Bordetella pertussis 137
+path:bpeu01210	2-Oxocarboxylic acid metabolism - Bordetella pertussis 137
+path:bpeu01212	Fatty acid metabolism - Bordetella pertussis 137
+path:bpeu01220	Degradation of aromatic compounds - Bordetella pertussis 137
+path:bpeu01230	Biosynthesis of amino acids - Bordetella pertussis 137
+path:bpeu01501	beta-Lactam resistance - Bordetella pertussis 137
+path:bpeu01502	Vancomycin resistance - Bordetella pertussis 137
+path:bpeu01503	Cationic antimicrobial peptide (CAMP) resistance - Bordetella pertussis 137
+path:bpeu02010	ABC transporters - Bordetella pertussis 137
+path:bpeu02020	Two-component system - Bordetella pertussis 137
+path:bpeu02024	Quorum sensing - Bordetella pertussis 137
+path:bpeu02030	Bacterial chemotaxis - Bordetella pertussis 137
+path:bpeu02040	Flagellar assembly - Bordetella pertussis 137
+path:bpeu02060	Phosphotransferase system (PTS) - Bordetella pertussis 137
+path:bpeu03010	Ribosome - Bordetella pertussis 137
+path:bpeu03018	RNA degradation - Bordetella pertussis 137
+path:bpeu03020	RNA polymerase - Bordetella pertussis 137
+path:bpeu03030	DNA replication - Bordetella pertussis 137
+path:bpeu03060	Protein export - Bordetella pertussis 137
+path:bpeu03070	Bacterial secretion system - Bordetella pertussis 137
+path:bpeu03410	Base excision repair - Bordetella pertussis 137
+path:bpeu03420	Nucleotide excision repair - Bordetella pertussis 137
+path:bpeu03430	Mismatch repair - Bordetella pertussis 137
+path:bpeu03440	Homologous recombination - Bordetella pertussis 137
+path:bpeu04122	Sulfur relay system - Bordetella pertussis 137
+path:bpeu05133	Pertussis - Bordetella pertussis 137
+path:bpa00010	Glycolysis / Gluconeogenesis - Bordetella parapertussis 12822
+path:bpa00020	Citrate cycle (TCA cycle) - Bordetella parapertussis 12822
+path:bpa00030	Pentose phosphate pathway - Bordetella parapertussis 12822
+path:bpa00040	Pentose and glucuronate interconversions - Bordetella parapertussis 12822
+path:bpa00051	Fructose and mannose metabolism - Bordetella parapertussis 12822
+path:bpa00052	Galactose metabolism - Bordetella parapertussis 12822
+path:bpa00053	Ascorbate and aldarate metabolism - Bordetella parapertussis 12822
+path:bpa00061	Fatty acid biosynthesis - Bordetella parapertussis 12822
+path:bpa00071	Fatty acid degradation - Bordetella parapertussis 12822
+path:bpa00072	Synthesis and degradation of ketone bodies - Bordetella parapertussis 12822
+path:bpa00121	Secondary bile acid biosynthesis - Bordetella parapertussis 12822
+path:bpa00130	Ubiquinone and other terpenoid-quinone biosynthesis - Bordetella parapertussis 12822
+path:bpa00190	Oxidative phosphorylation - Bordetella parapertussis 12822
+path:bpa00220	Arginine biosynthesis - Bordetella parapertussis 12822
+path:bpa00230	Purine metabolism - Bordetella parapertussis 12822
+path:bpa00240	Pyrimidine metabolism - Bordetella parapertussis 12822
+path:bpa00250	Alanine, aspartate and glutamate metabolism - Bordetella parapertussis 12822
+path:bpa00260	Glycine, serine and threonine metabolism - Bordetella parapertussis 12822
+path:bpa00261	Monobactam biosynthesis - Bordetella parapertussis 12822
+path:bpa00270	Cysteine and methionine metabolism - Bordetella parapertussis 12822
+path:bpa00280	Valine, leucine and isoleucine degradation - Bordetella parapertussis 12822
+path:bpa00281	Geraniol degradation - Bordetella parapertussis 12822
+path:bpa00290	Valine, leucine and isoleucine biosynthesis - Bordetella parapertussis 12822
+path:bpa00300	Lysine biosynthesis - Bordetella parapertussis 12822
+path:bpa00310	Lysine degradation - Bordetella parapertussis 12822
+path:bpa00330	Arginine and proline metabolism - Bordetella parapertussis 12822
+path:bpa00332	Carbapenem biosynthesis - Bordetella parapertussis 12822
+path:bpa00340	Histidine metabolism - Bordetella parapertussis 12822
+path:bpa00350	Tyrosine metabolism - Bordetella parapertussis 12822
+path:bpa00360	Phenylalanine metabolism - Bordetella parapertussis 12822
+path:bpa00361	Chlorocyclohexane and chlorobenzene degradation - Bordetella parapertussis 12822
+path:bpa00362	Benzoate degradation - Bordetella parapertussis 12822
+path:bpa00364	Fluorobenzoate degradation - Bordetella parapertussis 12822
+path:bpa00380	Tryptophan metabolism - Bordetella parapertussis 12822
+path:bpa00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Bordetella parapertussis 12822
+path:bpa00401	Novobiocin biosynthesis - Bordetella parapertussis 12822
+path:bpa00410	beta-Alanine metabolism - Bordetella parapertussis 12822
+path:bpa00430	Taurine and hypotaurine metabolism - Bordetella parapertussis 12822
+path:bpa00440	Phosphonate and phosphinate metabolism - Bordetella parapertussis 12822
+path:bpa00450	Selenocompound metabolism - Bordetella parapertussis 12822
+path:bpa00460	Cyanoamino acid metabolism - Bordetella parapertussis 12822
+path:bpa00471	D-Glutamine and D-glutamate metabolism - Bordetella parapertussis 12822
+path:bpa00472	D-Arginine and D-ornithine metabolism - Bordetella parapertussis 12822
+path:bpa00473	D-Alanine metabolism - Bordetella parapertussis 12822
+path:bpa00480	Glutathione metabolism - Bordetella parapertussis 12822
+path:bpa00500	Starch and sucrose metabolism - Bordetella parapertussis 12822
+path:bpa00520	Amino sugar and nucleotide sugar metabolism - Bordetella parapertussis 12822
+path:bpa00521	Streptomycin biosynthesis - Bordetella parapertussis 12822
+path:bpa00523	Polyketide sugar unit biosynthesis - Bordetella parapertussis 12822
+path:bpa00540	Lipopolysaccharide biosynthesis - Bordetella parapertussis 12822
+path:bpa00550	Peptidoglycan biosynthesis - Bordetella parapertussis 12822
+path:bpa00561	Glycerolipid metabolism - Bordetella parapertussis 12822
+path:bpa00562	Inositol phosphate metabolism - Bordetella parapertussis 12822
+path:bpa00564	Glycerophospholipid metabolism - Bordetella parapertussis 12822
+path:bpa00590	Arachidonic acid metabolism - Bordetella parapertussis 12822
+path:bpa00592	alpha-Linolenic acid metabolism - Bordetella parapertussis 12822
+path:bpa00620	Pyruvate metabolism - Bordetella parapertussis 12822
+path:bpa00621	Dioxin degradation - Bordetella parapertussis 12822
+path:bpa00623	Toluene degradation - Bordetella parapertussis 12822
+path:bpa00624	Polycyclic aromatic hydrocarbon degradation - Bordetella parapertussis 12822
+path:bpa00625	Chloroalkane and chloroalkene degradation - Bordetella parapertussis 12822
+path:bpa00626	Naphthalene degradation - Bordetella parapertussis 12822
+path:bpa00627	Aminobenzoate degradation - Bordetella parapertussis 12822
+path:bpa00630	Glyoxylate and dicarboxylate metabolism - Bordetella parapertussis 12822
+path:bpa00633	Nitrotoluene degradation - Bordetella parapertussis 12822
+path:bpa00640	Propanoate metabolism - Bordetella parapertussis 12822
+path:bpa00642	Ethylbenzene degradation - Bordetella parapertussis 12822
+path:bpa00643	Styrene degradation - Bordetella parapertussis 12822
+path:bpa00650	Butanoate metabolism - Bordetella parapertussis 12822
+path:bpa00660	C5-Branched dibasic acid metabolism - Bordetella parapertussis 12822
+path:bpa00670	One carbon pool by folate - Bordetella parapertussis 12822
+path:bpa00680	Methane metabolism - Bordetella parapertussis 12822
+path:bpa00730	Thiamine metabolism - Bordetella parapertussis 12822
+path:bpa00740	Riboflavin metabolism - Bordetella parapertussis 12822
+path:bpa00750	Vitamin B6 metabolism - Bordetella parapertussis 12822
+path:bpa00760	Nicotinate and nicotinamide metabolism - Bordetella parapertussis 12822
+path:bpa00770	Pantothenate and CoA biosynthesis - Bordetella parapertussis 12822
+path:bpa00780	Biotin metabolism - Bordetella parapertussis 12822
+path:bpa00785	Lipoic acid metabolism - Bordetella parapertussis 12822
+path:bpa00790	Folate biosynthesis - Bordetella parapertussis 12822
+path:bpa00860	Porphyrin and chlorophyll metabolism - Bordetella parapertussis 12822
+path:bpa00900	Terpenoid backbone biosynthesis - Bordetella parapertussis 12822
+path:bpa00903	Limonene and pinene degradation - Bordetella parapertussis 12822
+path:bpa00906	Carotenoid biosynthesis - Bordetella parapertussis 12822
+path:bpa00910	Nitrogen metabolism - Bordetella parapertussis 12822
+path:bpa00920	Sulfur metabolism - Bordetella parapertussis 12822
+path:bpa00930	Caprolactam degradation - Bordetella parapertussis 12822
+path:bpa00970	Aminoacyl-tRNA biosynthesis - Bordetella parapertussis 12822
+path:bpa01040	Biosynthesis of unsaturated fatty acids - Bordetella parapertussis 12822
+path:bpa01054	Nonribosomal peptide structures - Bordetella parapertussis 12822
+path:bpa01100	Metabolic pathways - Bordetella parapertussis 12822
+path:bpa01110	Biosynthesis of secondary metabolites - Bordetella parapertussis 12822
+path:bpa01120	Microbial metabolism in diverse environments - Bordetella parapertussis 12822
+path:bpa01130	Biosynthesis of antibiotics - Bordetella parapertussis 12822
+path:bpa01200	Carbon metabolism - Bordetella parapertussis 12822
+path:bpa01210	2-Oxocarboxylic acid metabolism - Bordetella parapertussis 12822
+path:bpa01212	Fatty acid metabolism - Bordetella parapertussis 12822
+path:bpa01220	Degradation of aromatic compounds - Bordetella parapertussis 12822
+path:bpa01230	Biosynthesis of amino acids - Bordetella parapertussis 12822
+path:bpa01501	beta-Lactam resistance - Bordetella parapertussis 12822
+path:bpa01502	Vancomycin resistance - Bordetella parapertussis 12822
+path:bpa01503	Cationic antimicrobial peptide (CAMP) resistance - Bordetella parapertussis 12822
+path:bpa02010	ABC transporters - Bordetella parapertussis 12822
+path:bpa02020	Two-component system - Bordetella parapertussis 12822
+path:bpa02024	Quorum sensing - Bordetella parapertussis 12822
+path:bpa02030	Bacterial chemotaxis - Bordetella parapertussis 12822
+path:bpa02040	Flagellar assembly - Bordetella parapertussis 12822
+path:bpa02060	Phosphotransferase system (PTS) - Bordetella parapertussis 12822
+path:bpa03010	Ribosome - Bordetella parapertussis 12822
+path:bpa03018	RNA degradation - Bordetella parapertussis 12822
+path:bpa03020	RNA polymerase - Bordetella parapertussis 12822
+path:bpa03030	DNA replication - Bordetella parapertussis 12822
+path:bpa03060	Protein export - Bordetella parapertussis 12822
+path:bpa03070	Bacterial secretion system - Bordetella parapertussis 12822
+path:bpa03410	Base excision repair - Bordetella parapertussis 12822
+path:bpa03420	Nucleotide excision repair - Bordetella parapertussis 12822
+path:bpa03430	Mismatch repair - Bordetella parapertussis 12822
+path:bpa03440	Homologous recombination - Bordetella parapertussis 12822
+path:bpa04122	Sulfur relay system - Bordetella parapertussis 12822
+path:bpa05133	Pertussis - Bordetella parapertussis 12822
+path:bpar00010	Glycolysis / Gluconeogenesis - Bordetella parapertussis Bpp5
+path:bpar00020	Citrate cycle (TCA cycle) - Bordetella parapertussis Bpp5
+path:bpar00030	Pentose phosphate pathway - Bordetella parapertussis Bpp5
+path:bpar00040	Pentose and glucuronate interconversions - Bordetella parapertussis Bpp5
+path:bpar00051	Fructose and mannose metabolism - Bordetella parapertussis Bpp5
+path:bpar00052	Galactose metabolism - Bordetella parapertussis Bpp5
+path:bpar00053	Ascorbate and aldarate metabolism - Bordetella parapertussis Bpp5
+path:bpar00061	Fatty acid biosynthesis - Bordetella parapertussis Bpp5
+path:bpar00071	Fatty acid degradation - Bordetella parapertussis Bpp5
+path:bpar00072	Synthesis and degradation of ketone bodies - Bordetella parapertussis Bpp5
+path:bpar00121	Secondary bile acid biosynthesis - Bordetella parapertussis Bpp5
+path:bpar00130	Ubiquinone and other terpenoid-quinone biosynthesis - Bordetella parapertussis Bpp5
+path:bpar00190	Oxidative phosphorylation - Bordetella parapertussis Bpp5
+path:bpar00220	Arginine biosynthesis - Bordetella parapertussis Bpp5
+path:bpar00230	Purine metabolism - Bordetella parapertussis Bpp5
+path:bpar00240	Pyrimidine metabolism - Bordetella parapertussis Bpp5
+path:bpar00250	Alanine, aspartate and glutamate metabolism - Bordetella parapertussis Bpp5
+path:bpar00260	Glycine, serine and threonine metabolism - Bordetella parapertussis Bpp5
+path:bpar00261	Monobactam biosynthesis - Bordetella parapertussis Bpp5
+path:bpar00270	Cysteine and methionine metabolism - Bordetella parapertussis Bpp5
+path:bpar00280	Valine, leucine and isoleucine degradation - Bordetella parapertussis Bpp5
+path:bpar00281	Geraniol degradation - Bordetella parapertussis Bpp5
+path:bpar00290	Valine, leucine and isoleucine biosynthesis - Bordetella parapertussis Bpp5
+path:bpar00300	Lysine biosynthesis - Bordetella parapertussis Bpp5
+path:bpar00310	Lysine degradation - Bordetella parapertussis Bpp5
+path:bpar00330	Arginine and proline metabolism - Bordetella parapertussis Bpp5
+path:bpar00332	Carbapenem biosynthesis - Bordetella parapertussis Bpp5
+path:bpar00340	Histidine metabolism - Bordetella parapertussis Bpp5
+path:bpar00350	Tyrosine metabolism - Bordetella parapertussis Bpp5
+path:bpar00360	Phenylalanine metabolism - Bordetella parapertussis Bpp5
+path:bpar00361	Chlorocyclohexane and chlorobenzene degradation - Bordetella parapertussis Bpp5
+path:bpar00362	Benzoate degradation - Bordetella parapertussis Bpp5
+path:bpar00364	Fluorobenzoate degradation - Bordetella parapertussis Bpp5
+path:bpar00380	Tryptophan metabolism - Bordetella parapertussis Bpp5
+path:bpar00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Bordetella parapertussis Bpp5
+path:bpar00401	Novobiocin biosynthesis - Bordetella parapertussis Bpp5
+path:bpar00410	beta-Alanine metabolism - Bordetella parapertussis Bpp5
+path:bpar00430	Taurine and hypotaurine metabolism - Bordetella parapertussis Bpp5
+path:bpar00440	Phosphonate and phosphinate metabolism - Bordetella parapertussis Bpp5
+path:bpar00450	Selenocompound metabolism - Bordetella parapertussis Bpp5
+path:bpar00460	Cyanoamino acid metabolism - Bordetella parapertussis Bpp5
+path:bpar00471	D-Glutamine and D-glutamate metabolism - Bordetella parapertussis Bpp5
+path:bpar00472	D-Arginine and D-ornithine metabolism - Bordetella parapertussis Bpp5
+path:bpar00473	D-Alanine metabolism - Bordetella parapertussis Bpp5
+path:bpar00480	Glutathione metabolism - Bordetella parapertussis Bpp5
+path:bpar00500	Starch and sucrose metabolism - Bordetella parapertussis Bpp5
+path:bpar00520	Amino sugar and nucleotide sugar metabolism - Bordetella parapertussis Bpp5
+path:bpar00521	Streptomycin biosynthesis - Bordetella parapertussis Bpp5
+path:bpar00523	Polyketide sugar unit biosynthesis - Bordetella parapertussis Bpp5
+path:bpar00540	Lipopolysaccharide biosynthesis - Bordetella parapertussis Bpp5
+path:bpar00550	Peptidoglycan biosynthesis - Bordetella parapertussis Bpp5
+path:bpar00561	Glycerolipid metabolism - Bordetella parapertussis Bpp5
+path:bpar00562	Inositol phosphate metabolism - Bordetella parapertussis Bpp5
+path:bpar00564	Glycerophospholipid metabolism - Bordetella parapertussis Bpp5
+path:bpar00590	Arachidonic acid metabolism - Bordetella parapertussis Bpp5
+path:bpar00592	alpha-Linolenic acid metabolism - Bordetella parapertussis Bpp5
+path:bpar00620	Pyruvate metabolism - Bordetella parapertussis Bpp5
+path:bpar00621	Dioxin degradation - Bordetella parapertussis Bpp5
+path:bpar00622	Xylene degradation - Bordetella parapertussis Bpp5
+path:bpar00623	Toluene degradation - Bordetella parapertussis Bpp5
+path:bpar00624	Polycyclic aromatic hydrocarbon degradation - Bordetella parapertussis Bpp5
+path:bpar00625	Chloroalkane and chloroalkene degradation - Bordetella parapertussis Bpp5
+path:bpar00626	Naphthalene degradation - Bordetella parapertussis Bpp5
+path:bpar00627	Aminobenzoate degradation - Bordetella parapertussis Bpp5
+path:bpar00630	Glyoxylate and dicarboxylate metabolism - Bordetella parapertussis Bpp5
+path:bpar00633	Nitrotoluene degradation - Bordetella parapertussis Bpp5
+path:bpar00640	Propanoate metabolism - Bordetella parapertussis Bpp5
+path:bpar00642	Ethylbenzene degradation - Bordetella parapertussis Bpp5
+path:bpar00643	Styrene degradation - Bordetella parapertussis Bpp5
+path:bpar00650	Butanoate metabolism - Bordetella parapertussis Bpp5
+path:bpar00660	C5-Branched dibasic acid metabolism - Bordetella parapertussis Bpp5
+path:bpar00670	One carbon pool by folate - Bordetella parapertussis Bpp5
+path:bpar00680	Methane metabolism - Bordetella parapertussis Bpp5
+path:bpar00730	Thiamine metabolism - Bordetella parapertussis Bpp5
+path:bpar00740	Riboflavin metabolism - Bordetella parapertussis Bpp5
+path:bpar00750	Vitamin B6 metabolism - Bordetella parapertussis Bpp5
+path:bpar00760	Nicotinate and nicotinamide metabolism - Bordetella parapertussis Bpp5
+path:bpar00770	Pantothenate and CoA biosynthesis - Bordetella parapertussis Bpp5
+path:bpar00780	Biotin metabolism - Bordetella parapertussis Bpp5
+path:bpar00785	Lipoic acid metabolism - Bordetella parapertussis Bpp5
+path:bpar00790	Folate biosynthesis - Bordetella parapertussis Bpp5
+path:bpar00860	Porphyrin and chlorophyll metabolism - Bordetella parapertussis Bpp5
+path:bpar00900	Terpenoid backbone biosynthesis - Bordetella parapertussis Bpp5
+path:bpar00903	Limonene and pinene degradation - Bordetella parapertussis Bpp5
+path:bpar00906	Carotenoid biosynthesis - Bordetella parapertussis Bpp5
+path:bpar00910	Nitrogen metabolism - Bordetella parapertussis Bpp5
+path:bpar00920	Sulfur metabolism - Bordetella parapertussis Bpp5
+path:bpar00930	Caprolactam degradation - Bordetella parapertussis Bpp5
+path:bpar00970	Aminoacyl-tRNA biosynthesis - Bordetella parapertussis Bpp5
+path:bpar01040	Biosynthesis of unsaturated fatty acids - Bordetella parapertussis Bpp5
+path:bpar01054	Nonribosomal peptide structures - Bordetella parapertussis Bpp5
+path:bpar01100	Metabolic pathways - Bordetella parapertussis Bpp5
+path:bpar01110	Biosynthesis of secondary metabolites - Bordetella parapertussis Bpp5
+path:bpar01120	Microbial metabolism in diverse environments - Bordetella parapertussis Bpp5
+path:bpar01130	Biosynthesis of antibiotics - Bordetella parapertussis Bpp5
+path:bpar01200	Carbon metabolism - Bordetella parapertussis Bpp5
+path:bpar01210	2-Oxocarboxylic acid metabolism - Bordetella parapertussis Bpp5
+path:bpar01212	Fatty acid metabolism - Bordetella parapertussis Bpp5
+path:bpar01220	Degradation of aromatic compounds - Bordetella parapertussis Bpp5
+path:bpar01230	Biosynthesis of amino acids - Bordetella parapertussis Bpp5
+path:bpar01501	beta-Lactam resistance - Bordetella parapertussis Bpp5
+path:bpar01502	Vancomycin resistance - Bordetella parapertussis Bpp5
+path:bpar01503	Cationic antimicrobial peptide (CAMP) resistance - Bordetella parapertussis Bpp5
+path:bpar02010	ABC transporters - Bordetella parapertussis Bpp5
+path:bpar02020	Two-component system - Bordetella parapertussis Bpp5
+path:bpar02024	Quorum sensing - Bordetella parapertussis Bpp5
+path:bpar02030	Bacterial chemotaxis - Bordetella parapertussis Bpp5
+path:bpar02040	Flagellar assembly - Bordetella parapertussis Bpp5
+path:bpar02060	Phosphotransferase system (PTS) - Bordetella parapertussis Bpp5
+path:bpar03010	Ribosome - Bordetella parapertussis Bpp5
+path:bpar03018	RNA degradation - Bordetella parapertussis Bpp5
+path:bpar03020	RNA polymerase - Bordetella parapertussis Bpp5
+path:bpar03030	DNA replication - Bordetella parapertussis Bpp5
+path:bpar03060	Protein export - Bordetella parapertussis Bpp5
+path:bpar03070	Bacterial secretion system - Bordetella parapertussis Bpp5
+path:bpar03410	Base excision repair - Bordetella parapertussis Bpp5
+path:bpar03420	Nucleotide excision repair - Bordetella parapertussis Bpp5
+path:bpar03430	Mismatch repair - Bordetella parapertussis Bpp5
+path:bpar03440	Homologous recombination - Bordetella parapertussis Bpp5
+path:bpar04122	Sulfur relay system - Bordetella parapertussis Bpp5
+path:bpar05133	Pertussis - Bordetella parapertussis Bpp5
+path:bbr00010	Glycolysis / Gluconeogenesis - Bordetella bronchiseptica RB50
+path:bbr00020	Citrate cycle (TCA cycle) - Bordetella bronchiseptica RB50
+path:bbr00030	Pentose phosphate pathway - Bordetella bronchiseptica RB50
+path:bbr00040	Pentose and glucuronate interconversions - Bordetella bronchiseptica RB50
+path:bbr00051	Fructose and mannose metabolism - Bordetella bronchiseptica RB50
+path:bbr00052	Galactose metabolism - Bordetella bronchiseptica RB50
+path:bbr00053	Ascorbate and aldarate metabolism - Bordetella bronchiseptica RB50
+path:bbr00061	Fatty acid biosynthesis - Bordetella bronchiseptica RB50
+path:bbr00071	Fatty acid degradation - Bordetella bronchiseptica RB50
+path:bbr00072	Synthesis and degradation of ketone bodies - Bordetella bronchiseptica RB50
+path:bbr00121	Secondary bile acid biosynthesis - Bordetella bronchiseptica RB50
+path:bbr00130	Ubiquinone and other terpenoid-quinone biosynthesis - Bordetella bronchiseptica RB50
+path:bbr00190	Oxidative phosphorylation - Bordetella bronchiseptica RB50
+path:bbr00220	Arginine biosynthesis - Bordetella bronchiseptica RB50
+path:bbr00230	Purine metabolism - Bordetella bronchiseptica RB50
+path:bbr00240	Pyrimidine metabolism - Bordetella bronchiseptica RB50
+path:bbr00250	Alanine, aspartate and glutamate metabolism - Bordetella bronchiseptica RB50
+path:bbr00260	Glycine, serine and threonine metabolism - Bordetella bronchiseptica RB50
+path:bbr00261	Monobactam biosynthesis - Bordetella bronchiseptica RB50
+path:bbr00270	Cysteine and methionine metabolism - Bordetella bronchiseptica RB50
+path:bbr00280	Valine, leucine and isoleucine degradation - Bordetella bronchiseptica RB50
+path:bbr00281	Geraniol degradation - Bordetella bronchiseptica RB50
+path:bbr00290	Valine, leucine and isoleucine biosynthesis - Bordetella bronchiseptica RB50
+path:bbr00300	Lysine biosynthesis - Bordetella bronchiseptica RB50
+path:bbr00310	Lysine degradation - Bordetella bronchiseptica RB50
+path:bbr00330	Arginine and proline metabolism - Bordetella bronchiseptica RB50
+path:bbr00332	Carbapenem biosynthesis - Bordetella bronchiseptica RB50
+path:bbr00340	Histidine metabolism - Bordetella bronchiseptica RB50
+path:bbr00350	Tyrosine metabolism - Bordetella bronchiseptica RB50
+path:bbr00360	Phenylalanine metabolism - Bordetella bronchiseptica RB50
+path:bbr00361	Chlorocyclohexane and chlorobenzene degradation - Bordetella bronchiseptica RB50
+path:bbr00362	Benzoate degradation - Bordetella bronchiseptica RB50
+path:bbr00364	Fluorobenzoate degradation - Bordetella bronchiseptica RB50
+path:bbr00380	Tryptophan metabolism - Bordetella bronchiseptica RB50
+path:bbr00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Bordetella bronchiseptica RB50
+path:bbr00401	Novobiocin biosynthesis - Bordetella bronchiseptica RB50
+path:bbr00410	beta-Alanine metabolism - Bordetella bronchiseptica RB50
+path:bbr00430	Taurine and hypotaurine metabolism - Bordetella bronchiseptica RB50
+path:bbr00440	Phosphonate and phosphinate metabolism - Bordetella bronchiseptica RB50
+path:bbr00450	Selenocompound metabolism - Bordetella bronchiseptica RB50
+path:bbr00460	Cyanoamino acid metabolism - Bordetella bronchiseptica RB50
+path:bbr00471	D-Glutamine and D-glutamate metabolism - Bordetella bronchiseptica RB50
+path:bbr00472	D-Arginine and D-ornithine metabolism - Bordetella bronchiseptica RB50
+path:bbr00473	D-Alanine metabolism - Bordetella bronchiseptica RB50
+path:bbr00480	Glutathione metabolism - Bordetella bronchiseptica RB50
+path:bbr00500	Starch and sucrose metabolism - Bordetella bronchiseptica RB50
+path:bbr00520	Amino sugar and nucleotide sugar metabolism - Bordetella bronchiseptica RB50
+path:bbr00521	Streptomycin biosynthesis - Bordetella bronchiseptica RB50
+path:bbr00523	Polyketide sugar unit biosynthesis - Bordetella bronchiseptica RB50
+path:bbr00540	Lipopolysaccharide biosynthesis - Bordetella bronchiseptica RB50
+path:bbr00550	Peptidoglycan biosynthesis - Bordetella bronchiseptica RB50
+path:bbr00561	Glycerolipid metabolism - Bordetella bronchiseptica RB50
+path:bbr00562	Inositol phosphate metabolism - Bordetella bronchiseptica RB50
+path:bbr00564	Glycerophospholipid metabolism - Bordetella bronchiseptica RB50
+path:bbr00590	Arachidonic acid metabolism - Bordetella bronchiseptica RB50
+path:bbr00592	alpha-Linolenic acid metabolism - Bordetella bronchiseptica RB50
+path:bbr00620	Pyruvate metabolism - Bordetella bronchiseptica RB50
+path:bbr00621	Dioxin degradation - Bordetella bronchiseptica RB50
+path:bbr00622	Xylene degradation - Bordetella bronchiseptica RB50
+path:bbr00623	Toluene degradation - Bordetella bronchiseptica RB50
+path:bbr00624	Polycyclic aromatic hydrocarbon degradation - Bordetella bronchiseptica RB50
+path:bbr00625	Chloroalkane and chloroalkene degradation - Bordetella bronchiseptica RB50
+path:bbr00626	Naphthalene degradation - Bordetella bronchiseptica RB50
+path:bbr00627	Aminobenzoate degradation - Bordetella bronchiseptica RB50
+path:bbr00630	Glyoxylate and dicarboxylate metabolism - Bordetella bronchiseptica RB50
+path:bbr00633	Nitrotoluene degradation - Bordetella bronchiseptica RB50
+path:bbr00640	Propanoate metabolism - Bordetella bronchiseptica RB50
+path:bbr00642	Ethylbenzene degradation - Bordetella bronchiseptica RB50
+path:bbr00643	Styrene degradation - Bordetella bronchiseptica RB50
+path:bbr00650	Butanoate metabolism - Bordetella bronchiseptica RB50
+path:bbr00660	C5-Branched dibasic acid metabolism - Bordetella bronchiseptica RB50
+path:bbr00670	One carbon pool by folate - Bordetella bronchiseptica RB50
+path:bbr00680	Methane metabolism - Bordetella bronchiseptica RB50
+path:bbr00730	Thiamine metabolism - Bordetella bronchiseptica RB50
+path:bbr00740	Riboflavin metabolism - Bordetella bronchiseptica RB50
+path:bbr00750	Vitamin B6 metabolism - Bordetella bronchiseptica RB50
+path:bbr00760	Nicotinate and nicotinamide metabolism - Bordetella bronchiseptica RB50
+path:bbr00770	Pantothenate and CoA biosynthesis - Bordetella bronchiseptica RB50
+path:bbr00780	Biotin metabolism - Bordetella bronchiseptica RB50
+path:bbr00785	Lipoic acid metabolism - Bordetella bronchiseptica RB50
+path:bbr00790	Folate biosynthesis - Bordetella bronchiseptica RB50
+path:bbr00860	Porphyrin and chlorophyll metabolism - Bordetella bronchiseptica RB50
+path:bbr00900	Terpenoid backbone biosynthesis - Bordetella bronchiseptica RB50
+path:bbr00903	Limonene and pinene degradation - Bordetella bronchiseptica RB50
+path:bbr00906	Carotenoid biosynthesis - Bordetella bronchiseptica RB50
+path:bbr00910	Nitrogen metabolism - Bordetella bronchiseptica RB50
+path:bbr00920	Sulfur metabolism - Bordetella bronchiseptica RB50
+path:bbr00930	Caprolactam degradation - Bordetella bronchiseptica RB50
+path:bbr00970	Aminoacyl-tRNA biosynthesis - Bordetella bronchiseptica RB50
+path:bbr01040	Biosynthesis of unsaturated fatty acids - Bordetella bronchiseptica RB50
+path:bbr01054	Nonribosomal peptide structures - Bordetella bronchiseptica RB50
+path:bbr01100	Metabolic pathways - Bordetella bronchiseptica RB50
+path:bbr01110	Biosynthesis of secondary metabolites - Bordetella bronchiseptica RB50
+path:bbr01120	Microbial metabolism in diverse environments - Bordetella bronchiseptica RB50
+path:bbr01130	Biosynthesis of antibiotics - Bordetella bronchiseptica RB50
+path:bbr01200	Carbon metabolism - Bordetella bronchiseptica RB50
+path:bbr01210	2-Oxocarboxylic acid metabolism - Bordetella bronchiseptica RB50
+path:bbr01212	Fatty acid metabolism - Bordetella bronchiseptica RB50
+path:bbr01220	Degradation of aromatic compounds - Bordetella bronchiseptica RB50
+path:bbr01230	Biosynthesis of amino acids - Bordetella bronchiseptica RB50
+path:bbr01501	beta-Lactam resistance - Bordetella bronchiseptica RB50
+path:bbr01502	Vancomycin resistance - Bordetella bronchiseptica RB50
+path:bbr01503	Cationic antimicrobial peptide (CAMP) resistance - Bordetella bronchiseptica RB50
+path:bbr02010	ABC transporters - Bordetella bronchiseptica RB50
+path:bbr02020	Two-component system - Bordetella bronchiseptica RB50
+path:bbr02024	Quorum sensing - Bordetella bronchiseptica RB50
+path:bbr02030	Bacterial chemotaxis - Bordetella bronchiseptica RB50
+path:bbr02040	Flagellar assembly - Bordetella bronchiseptica RB50
+path:bbr02060	Phosphotransferase system (PTS) - Bordetella bronchiseptica RB50
+path:bbr03010	Ribosome - Bordetella bronchiseptica RB50
+path:bbr03018	RNA degradation - Bordetella bronchiseptica RB50
+path:bbr03020	RNA polymerase - Bordetella bronchiseptica RB50
+path:bbr03030	DNA replication - Bordetella bronchiseptica RB50
+path:bbr03060	Protein export - Bordetella bronchiseptica RB50
+path:bbr03070	Bacterial secretion system - Bordetella bronchiseptica RB50
+path:bbr03410	Base excision repair - Bordetella bronchiseptica RB50
+path:bbr03420	Nucleotide excision repair - Bordetella bronchiseptica RB50
+path:bbr03430	Mismatch repair - Bordetella bronchiseptica RB50
+path:bbr03440	Homologous recombination - Bordetella bronchiseptica RB50
+path:bbr03450	Non-homologous end-joining - Bordetella bronchiseptica RB50
+path:bbr04122	Sulfur relay system - Bordetella bronchiseptica RB50
+path:bbr05133	Pertussis - Bordetella bronchiseptica RB50
+path:bbm00010	Glycolysis / Gluconeogenesis - Bordetella bronchiseptica MO149
+path:bbm00020	Citrate cycle (TCA cycle) - Bordetella bronchiseptica MO149
+path:bbm00030	Pentose phosphate pathway - Bordetella bronchiseptica MO149
+path:bbm00040	Pentose and glucuronate interconversions - Bordetella bronchiseptica MO149
+path:bbm00051	Fructose and mannose metabolism - Bordetella bronchiseptica MO149
+path:bbm00052	Galactose metabolism - Bordetella bronchiseptica MO149
+path:bbm00053	Ascorbate and aldarate metabolism - Bordetella bronchiseptica MO149
+path:bbm00061	Fatty acid biosynthesis - Bordetella bronchiseptica MO149
+path:bbm00071	Fatty acid degradation - Bordetella bronchiseptica MO149
+path:bbm00072	Synthesis and degradation of ketone bodies - Bordetella bronchiseptica MO149
+path:bbm00121	Secondary bile acid biosynthesis - Bordetella bronchiseptica MO149
+path:bbm00130	Ubiquinone and other terpenoid-quinone biosynthesis - Bordetella bronchiseptica MO149
+path:bbm00190	Oxidative phosphorylation - Bordetella bronchiseptica MO149
+path:bbm00220	Arginine biosynthesis - Bordetella bronchiseptica MO149
+path:bbm00230	Purine metabolism - Bordetella bronchiseptica MO149
+path:bbm00240	Pyrimidine metabolism - Bordetella bronchiseptica MO149
+path:bbm00250	Alanine, aspartate and glutamate metabolism - Bordetella bronchiseptica MO149
+path:bbm00260	Glycine, serine and threonine metabolism - Bordetella bronchiseptica MO149
+path:bbm00261	Monobactam biosynthesis - Bordetella bronchiseptica MO149
+path:bbm00270	Cysteine and methionine metabolism - Bordetella bronchiseptica MO149
+path:bbm00280	Valine, leucine and isoleucine degradation - Bordetella bronchiseptica MO149
+path:bbm00281	Geraniol degradation - Bordetella bronchiseptica MO149
+path:bbm00290	Valine, leucine and isoleucine biosynthesis - Bordetella bronchiseptica MO149
+path:bbm00300	Lysine biosynthesis - Bordetella bronchiseptica MO149
+path:bbm00310	Lysine degradation - Bordetella bronchiseptica MO149
+path:bbm00330	Arginine and proline metabolism - Bordetella bronchiseptica MO149
+path:bbm00332	Carbapenem biosynthesis - Bordetella bronchiseptica MO149
+path:bbm00340	Histidine metabolism - Bordetella bronchiseptica MO149
+path:bbm00350	Tyrosine metabolism - Bordetella bronchiseptica MO149
+path:bbm00360	Phenylalanine metabolism - Bordetella bronchiseptica MO149
+path:bbm00361	Chlorocyclohexane and chlorobenzene degradation - Bordetella bronchiseptica MO149
+path:bbm00362	Benzoate degradation - Bordetella bronchiseptica MO149
+path:bbm00364	Fluorobenzoate degradation - Bordetella bronchiseptica MO149
+path:bbm00380	Tryptophan metabolism - Bordetella bronchiseptica MO149
+path:bbm00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Bordetella bronchiseptica MO149
+path:bbm00401	Novobiocin biosynthesis - Bordetella bronchiseptica MO149
+path:bbm00410	beta-Alanine metabolism - Bordetella bronchiseptica MO149
+path:bbm00430	Taurine and hypotaurine metabolism - Bordetella bronchiseptica MO149
+path:bbm00440	Phosphonate and phosphinate metabolism - Bordetella bronchiseptica MO149
+path:bbm00450	Selenocompound metabolism - Bordetella bronchiseptica MO149
+path:bbm00460	Cyanoamino acid metabolism - Bordetella bronchiseptica MO149
+path:bbm00471	D-Glutamine and D-glutamate metabolism - Bordetella bronchiseptica MO149
+path:bbm00472	D-Arginine and D-ornithine metabolism - Bordetella bronchiseptica MO149
+path:bbm00473	D-Alanine metabolism - Bordetella bronchiseptica MO149
+path:bbm00480	Glutathione metabolism - Bordetella bronchiseptica MO149
+path:bbm00500	Starch and sucrose metabolism - Bordetella bronchiseptica MO149
+path:bbm00520	Amino sugar and nucleotide sugar metabolism - Bordetella bronchiseptica MO149
+path:bbm00521	Streptomycin biosynthesis - Bordetella bronchiseptica MO149
+path:bbm00523	Polyketide sugar unit biosynthesis - Bordetella bronchiseptica MO149
+path:bbm00540	Lipopolysaccharide biosynthesis - Bordetella bronchiseptica MO149
+path:bbm00550	Peptidoglycan biosynthesis - Bordetella bronchiseptica MO149
+path:bbm00561	Glycerolipid metabolism - Bordetella bronchiseptica MO149
+path:bbm00562	Inositol phosphate metabolism - Bordetella bronchiseptica MO149
+path:bbm00564	Glycerophospholipid metabolism - Bordetella bronchiseptica MO149
+path:bbm00590	Arachidonic acid metabolism - Bordetella bronchiseptica MO149
+path:bbm00592	alpha-Linolenic acid metabolism - Bordetella bronchiseptica MO149
+path:bbm00620	Pyruvate metabolism - Bordetella bronchiseptica MO149
+path:bbm00621	Dioxin degradation - Bordetella bronchiseptica MO149
+path:bbm00622	Xylene degradation - Bordetella bronchiseptica MO149
+path:bbm00623	Toluene degradation - Bordetella bronchiseptica MO149
+path:bbm00624	Polycyclic aromatic hydrocarbon degradation - Bordetella bronchiseptica MO149
+path:bbm00625	Chloroalkane and chloroalkene degradation - Bordetella bronchiseptica MO149
+path:bbm00626	Naphthalene degradation - Bordetella bronchiseptica MO149
+path:bbm00627	Aminobenzoate degradation - Bordetella bronchiseptica MO149
+path:bbm00630	Glyoxylate and dicarboxylate metabolism - Bordetella bronchiseptica MO149
+path:bbm00633	Nitrotoluene degradation - Bordetella bronchiseptica MO149
+path:bbm00640	Propanoate metabolism - Bordetella bronchiseptica MO149
+path:bbm00642	Ethylbenzene degradation - Bordetella bronchiseptica MO149
+path:bbm00643	Styrene degradation - Bordetella bronchiseptica MO149
+path:bbm00650	Butanoate metabolism - Bordetella bronchiseptica MO149
+path:bbm00660	C5-Branched dibasic acid metabolism - Bordetella bronchiseptica MO149
+path:bbm00670	One carbon pool by folate - Bordetella bronchiseptica MO149
+path:bbm00680	Methane metabolism - Bordetella bronchiseptica MO149
+path:bbm00730	Thiamine metabolism - Bordetella bronchiseptica MO149
+path:bbm00740	Riboflavin metabolism - Bordetella bronchiseptica MO149
+path:bbm00750	Vitamin B6 metabolism - Bordetella bronchiseptica MO149
+path:bbm00760	Nicotinate and nicotinamide metabolism - Bordetella bronchiseptica MO149
+path:bbm00770	Pantothenate and CoA biosynthesis - Bordetella bronchiseptica MO149
+path:bbm00780	Biotin metabolism - Bordetella bronchiseptica MO149
+path:bbm00785	Lipoic acid metabolism - Bordetella bronchiseptica MO149
+path:bbm00790	Folate biosynthesis - Bordetella bronchiseptica MO149
+path:bbm00860	Porphyrin and chlorophyll metabolism - Bordetella bronchiseptica MO149
+path:bbm00900	Terpenoid backbone biosynthesis - Bordetella bronchiseptica MO149
+path:bbm00903	Limonene and pinene degradation - Bordetella bronchiseptica MO149
+path:bbm00906	Carotenoid biosynthesis - Bordetella bronchiseptica MO149
+path:bbm00910	Nitrogen metabolism - Bordetella bronchiseptica MO149
+path:bbm00920	Sulfur metabolism - Bordetella bronchiseptica MO149
+path:bbm00930	Caprolactam degradation - Bordetella bronchiseptica MO149
+path:bbm00970	Aminoacyl-tRNA biosynthesis - Bordetella bronchiseptica MO149
+path:bbm01040	Biosynthesis of unsaturated fatty acids - Bordetella bronchiseptica MO149
+path:bbm01054	Nonribosomal peptide structures - Bordetella bronchiseptica MO149
+path:bbm01100	Metabolic pathways - Bordetella bronchiseptica MO149
+path:bbm01110	Biosynthesis of secondary metabolites - Bordetella bronchiseptica MO149
+path:bbm01120	Microbial metabolism in diverse environments - Bordetella bronchiseptica MO149
+path:bbm01130	Biosynthesis of antibiotics - Bordetella bronchiseptica MO149
+path:bbm01200	Carbon metabolism - Bordetella bronchiseptica MO149
+path:bbm01210	2-Oxocarboxylic acid metabolism - Bordetella bronchiseptica MO149
+path:bbm01212	Fatty acid metabolism - Bordetella bronchiseptica MO149
+path:bbm01220	Degradation of aromatic compounds - Bordetella bronchiseptica MO149
+path:bbm01230	Biosynthesis of amino acids - Bordetella bronchiseptica MO149
+path:bbm01501	beta-Lactam resistance - Bordetella bronchiseptica MO149
+path:bbm01502	Vancomycin resistance - Bordetella bronchiseptica MO149
+path:bbm01503	Cationic antimicrobial peptide (CAMP) resistance - Bordetella bronchiseptica MO149
+path:bbm02010	ABC transporters - Bordetella bronchiseptica MO149
+path:bbm02020	Two-component system - Bordetella bronchiseptica MO149
+path:bbm02024	Quorum sensing - Bordetella bronchiseptica MO149
+path:bbm02030	Bacterial chemotaxis - Bordetella bronchiseptica MO149
+path:bbm02040	Flagellar assembly - Bordetella bronchiseptica MO149
+path:bbm02060	Phosphotransferase system (PTS) - Bordetella bronchiseptica MO149
+path:bbm03010	Ribosome - Bordetella bronchiseptica MO149
+path:bbm03018	RNA degradation - Bordetella bronchiseptica MO149
+path:bbm03020	RNA polymerase - Bordetella bronchiseptica MO149
+path:bbm03030	DNA replication - Bordetella bronchiseptica MO149
+path:bbm03060	Protein export - Bordetella bronchiseptica MO149
+path:bbm03070	Bacterial secretion system - Bordetella bronchiseptica MO149
+path:bbm03410	Base excision repair - Bordetella bronchiseptica MO149
+path:bbm03420	Nucleotide excision repair - Bordetella bronchiseptica MO149
+path:bbm03430	Mismatch repair - Bordetella bronchiseptica MO149
+path:bbm03440	Homologous recombination - Bordetella bronchiseptica MO149
+path:bbm03450	Non-homologous end-joining - Bordetella bronchiseptica MO149
+path:bbm04122	Sulfur relay system - Bordetella bronchiseptica MO149
+path:bbm05133	Pertussis - Bordetella bronchiseptica MO149
+path:bbh00010	Glycolysis / Gluconeogenesis - Bordetella bronchiseptica 253
+path:bbh00020	Citrate cycle (TCA cycle) - Bordetella bronchiseptica 253
+path:bbh00030	Pentose phosphate pathway - Bordetella bronchiseptica 253
+path:bbh00040	Pentose and glucuronate interconversions - Bordetella bronchiseptica 253
+path:bbh00051	Fructose and mannose metabolism - Bordetella bronchiseptica 253
+path:bbh00052	Galactose metabolism - Bordetella bronchiseptica 253
+path:bbh00053	Ascorbate and aldarate metabolism - Bordetella bronchiseptica 253
+path:bbh00061	Fatty acid biosynthesis - Bordetella bronchiseptica 253
+path:bbh00071	Fatty acid degradation - Bordetella bronchiseptica 253
+path:bbh00072	Synthesis and degradation of ketone bodies - Bordetella bronchiseptica 253
+path:bbh00121	Secondary bile acid biosynthesis - Bordetella bronchiseptica 253
+path:bbh00130	Ubiquinone and other terpenoid-quinone biosynthesis - Bordetella bronchiseptica 253
+path:bbh00190	Oxidative phosphorylation - Bordetella bronchiseptica 253
+path:bbh00220	Arginine biosynthesis - Bordetella bronchiseptica 253
+path:bbh00230	Purine metabolism - Bordetella bronchiseptica 253
+path:bbh00240	Pyrimidine metabolism - Bordetella bronchiseptica 253
+path:bbh00250	Alanine, aspartate and glutamate metabolism - Bordetella bronchiseptica 253
+path:bbh00260	Glycine, serine and threonine metabolism - Bordetella bronchiseptica 253
+path:bbh00261	Monobactam biosynthesis - Bordetella bronchiseptica 253
+path:bbh00270	Cysteine and methionine metabolism - Bordetella bronchiseptica 253
+path:bbh00280	Valine, leucine and isoleucine degradation - Bordetella bronchiseptica 253
+path:bbh00281	Geraniol degradation - Bordetella bronchiseptica 253
+path:bbh00290	Valine, leucine and isoleucine biosynthesis - Bordetella bronchiseptica 253
+path:bbh00300	Lysine biosynthesis - Bordetella bronchiseptica 253
+path:bbh00310	Lysine degradation - Bordetella bronchiseptica 253
+path:bbh00330	Arginine and proline metabolism - Bordetella bronchiseptica 253
+path:bbh00332	Carbapenem biosynthesis - Bordetella bronchiseptica 253
+path:bbh00340	Histidine metabolism - Bordetella bronchiseptica 253
+path:bbh00350	Tyrosine metabolism - Bordetella bronchiseptica 253
+path:bbh00360	Phenylalanine metabolism - Bordetella bronchiseptica 253
+path:bbh00361	Chlorocyclohexane and chlorobenzene degradation - Bordetella bronchiseptica 253
+path:bbh00362	Benzoate degradation - Bordetella bronchiseptica 253
+path:bbh00364	Fluorobenzoate degradation - Bordetella bronchiseptica 253
+path:bbh00380	Tryptophan metabolism - Bordetella bronchiseptica 253
+path:bbh00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Bordetella bronchiseptica 253
+path:bbh00401	Novobiocin biosynthesis - Bordetella bronchiseptica 253
+path:bbh00410	beta-Alanine metabolism - Bordetella bronchiseptica 253
+path:bbh00430	Taurine and hypotaurine metabolism - Bordetella bronchiseptica 253
+path:bbh00440	Phosphonate and phosphinate metabolism - Bordetella bronchiseptica 253
+path:bbh00450	Selenocompound metabolism - Bordetella bronchiseptica 253
+path:bbh00460	Cyanoamino acid metabolism - Bordetella bronchiseptica 253
+path:bbh00471	D-Glutamine and D-glutamate metabolism - Bordetella bronchiseptica 253
+path:bbh00472	D-Arginine and D-ornithine metabolism - Bordetella bronchiseptica 253
+path:bbh00473	D-Alanine metabolism - Bordetella bronchiseptica 253
+path:bbh00480	Glutathione metabolism - Bordetella bronchiseptica 253
+path:bbh00500	Starch and sucrose metabolism - Bordetella bronchiseptica 253
+path:bbh00520	Amino sugar and nucleotide sugar metabolism - Bordetella bronchiseptica 253
+path:bbh00521	Streptomycin biosynthesis - Bordetella bronchiseptica 253
+path:bbh00523	Polyketide sugar unit biosynthesis - Bordetella bronchiseptica 253
+path:bbh00540	Lipopolysaccharide biosynthesis - Bordetella bronchiseptica 253
+path:bbh00550	Peptidoglycan biosynthesis - Bordetella bronchiseptica 253
+path:bbh00561	Glycerolipid metabolism - Bordetella bronchiseptica 253
+path:bbh00562	Inositol phosphate metabolism - Bordetella bronchiseptica 253
+path:bbh00564	Glycerophospholipid metabolism - Bordetella bronchiseptica 253
+path:bbh00590	Arachidonic acid metabolism - Bordetella bronchiseptica 253
+path:bbh00592	alpha-Linolenic acid metabolism - Bordetella bronchiseptica 253
+path:bbh00620	Pyruvate metabolism - Bordetella bronchiseptica 253
+path:bbh00621	Dioxin degradation - Bordetella bronchiseptica 253
+path:bbh00622	Xylene degradation - Bordetella bronchiseptica 253
+path:bbh00623	Toluene degradation - Bordetella bronchiseptica 253
+path:bbh00624	Polycyclic aromatic hydrocarbon degradation - Bordetella bronchiseptica 253
+path:bbh00625	Chloroalkane and chloroalkene degradation - Bordetella bronchiseptica 253
+path:bbh00626	Naphthalene degradation - Bordetella bronchiseptica 253
+path:bbh00627	Aminobenzoate degradation - Bordetella bronchiseptica 253
+path:bbh00630	Glyoxylate and dicarboxylate metabolism - Bordetella bronchiseptica 253
+path:bbh00633	Nitrotoluene degradation - Bordetella bronchiseptica 253
+path:bbh00640	Propanoate metabolism - Bordetella bronchiseptica 253
+path:bbh00642	Ethylbenzene degradation - Bordetella bronchiseptica 253
+path:bbh00643	Styrene degradation - Bordetella bronchiseptica 253
+path:bbh00650	Butanoate metabolism - Bordetella bronchiseptica 253
+path:bbh00660	C5-Branched dibasic acid metabolism - Bordetella bronchiseptica 253
+path:bbh00670	One carbon pool by folate - Bordetella bronchiseptica 253
+path:bbh00680	Methane metabolism - Bordetella bronchiseptica 253
+path:bbh00730	Thiamine metabolism - Bordetella bronchiseptica 253
+path:bbh00740	Riboflavin metabolism - Bordetella bronchiseptica 253
+path:bbh00750	Vitamin B6 metabolism - Bordetella bronchiseptica 253
+path:bbh00760	Nicotinate and nicotinamide metabolism - Bordetella bronchiseptica 253
+path:bbh00770	Pantothenate and CoA biosynthesis - Bordetella bronchiseptica 253
+path:bbh00780	Biotin metabolism - Bordetella bronchiseptica 253
+path:bbh00785	Lipoic acid metabolism - Bordetella bronchiseptica 253
+path:bbh00790	Folate biosynthesis - Bordetella bronchiseptica 253
+path:bbh00860	Porphyrin and chlorophyll metabolism - Bordetella bronchiseptica 253
+path:bbh00900	Terpenoid backbone biosynthesis - Bordetella bronchiseptica 253
+path:bbh00903	Limonene and pinene degradation - Bordetella bronchiseptica 253
+path:bbh00906	Carotenoid biosynthesis - Bordetella bronchiseptica 253
+path:bbh00910	Nitrogen metabolism - Bordetella bronchiseptica 253
+path:bbh00920	Sulfur metabolism - Bordetella bronchiseptica 253
+path:bbh00930	Caprolactam degradation - Bordetella bronchiseptica 253
+path:bbh00970	Aminoacyl-tRNA biosynthesis - Bordetella bronchiseptica 253
+path:bbh01040	Biosynthesis of unsaturated fatty acids - Bordetella bronchiseptica 253
+path:bbh01054	Nonribosomal peptide structures - Bordetella bronchiseptica 253
+path:bbh01100	Metabolic pathways - Bordetella bronchiseptica 253
+path:bbh01110	Biosynthesis of secondary metabolites - Bordetella bronchiseptica 253
+path:bbh01120	Microbial metabolism in diverse environments - Bordetella bronchiseptica 253
+path:bbh01130	Biosynthesis of antibiotics - Bordetella bronchiseptica 253
+path:bbh01200	Carbon metabolism - Bordetella bronchiseptica 253
+path:bbh01210	2-Oxocarboxylic acid metabolism - Bordetella bronchiseptica 253
+path:bbh01212	Fatty acid metabolism - Bordetella bronchiseptica 253
+path:bbh01220	Degradation of aromatic compounds - Bordetella bronchiseptica 253
+path:bbh01230	Biosynthesis of amino acids - Bordetella bronchiseptica 253
+path:bbh01501	beta-Lactam resistance - Bordetella bronchiseptica 253
+path:bbh01502	Vancomycin resistance - Bordetella bronchiseptica 253
+path:bbh01503	Cationic antimicrobial peptide (CAMP) resistance - Bordetella bronchiseptica 253
+path:bbh02010	ABC transporters - Bordetella bronchiseptica 253
+path:bbh02020	Two-component system - Bordetella bronchiseptica 253
+path:bbh02024	Quorum sensing - Bordetella bronchiseptica 253
+path:bbh02030	Bacterial chemotaxis - Bordetella bronchiseptica 253
+path:bbh02040	Flagellar assembly - Bordetella bronchiseptica 253
+path:bbh02060	Phosphotransferase system (PTS) - Bordetella bronchiseptica 253
+path:bbh03010	Ribosome - Bordetella bronchiseptica 253
+path:bbh03018	RNA degradation - Bordetella bronchiseptica 253
+path:bbh03020	RNA polymerase - Bordetella bronchiseptica 253
+path:bbh03030	DNA replication - Bordetella bronchiseptica 253
+path:bbh03060	Protein export - Bordetella bronchiseptica 253
+path:bbh03070	Bacterial secretion system - Bordetella bronchiseptica 253
+path:bbh03410	Base excision repair - Bordetella bronchiseptica 253
+path:bbh03420	Nucleotide excision repair - Bordetella bronchiseptica 253
+path:bbh03430	Mismatch repair - Bordetella bronchiseptica 253
+path:bbh03440	Homologous recombination - Bordetella bronchiseptica 253
+path:bbh03450	Non-homologous end-joining - Bordetella bronchiseptica 253
+path:bbh04122	Sulfur relay system - Bordetella bronchiseptica 253
+path:bbh05133	Pertussis - Bordetella bronchiseptica 253
+path:bbx00010	Glycolysis / Gluconeogenesis - Bordetella bronchiseptica S798
+path:bbx00020	Citrate cycle (TCA cycle) - Bordetella bronchiseptica S798
+path:bbx00030	Pentose phosphate pathway - Bordetella bronchiseptica S798
+path:bbx00040	Pentose and glucuronate interconversions - Bordetella bronchiseptica S798
+path:bbx00051	Fructose and mannose metabolism - Bordetella bronchiseptica S798
+path:bbx00052	Galactose metabolism - Bordetella bronchiseptica S798
+path:bbx00053	Ascorbate and aldarate metabolism - Bordetella bronchiseptica S798
+path:bbx00061	Fatty acid biosynthesis - Bordetella bronchiseptica S798
+path:bbx00071	Fatty acid degradation - Bordetella bronchiseptica S798
+path:bbx00072	Synthesis and degradation of ketone bodies - Bordetella bronchiseptica S798
+path:bbx00121	Secondary bile acid biosynthesis - Bordetella bronchiseptica S798
+path:bbx00130	Ubiquinone and other terpenoid-quinone biosynthesis - Bordetella bronchiseptica S798
+path:bbx00190	Oxidative phosphorylation - Bordetella bronchiseptica S798
+path:bbx00220	Arginine biosynthesis - Bordetella bronchiseptica S798
+path:bbx00230	Purine metabolism - Bordetella bronchiseptica S798
+path:bbx00240	Pyrimidine metabolism - Bordetella bronchiseptica S798
+path:bbx00250	Alanine, aspartate and glutamate metabolism - Bordetella bronchiseptica S798
+path:bbx00260	Glycine, serine and threonine metabolism - Bordetella bronchiseptica S798
+path:bbx00261	Monobactam biosynthesis - Bordetella bronchiseptica S798
+path:bbx00270	Cysteine and methionine metabolism - Bordetella bronchiseptica S798
+path:bbx00280	Valine, leucine and isoleucine degradation - Bordetella bronchiseptica S798
+path:bbx00281	Geraniol degradation - Bordetella bronchiseptica S798
+path:bbx00290	Valine, leucine and isoleucine biosynthesis - Bordetella bronchiseptica S798
+path:bbx00300	Lysine biosynthesis - Bordetella bronchiseptica S798
+path:bbx00310	Lysine degradation - Bordetella bronchiseptica S798
+path:bbx00330	Arginine and proline metabolism - Bordetella bronchiseptica S798
+path:bbx00332	Carbapenem biosynthesis - Bordetella bronchiseptica S798
+path:bbx00340	Histidine metabolism - Bordetella bronchiseptica S798
+path:bbx00350	Tyrosine metabolism - Bordetella bronchiseptica S798
+path:bbx00360	Phenylalanine metabolism - Bordetella bronchiseptica S798
+path:bbx00361	Chlorocyclohexane and chlorobenzene degradation - Bordetella bronchiseptica S798
+path:bbx00362	Benzoate degradation - Bordetella bronchiseptica S798
+path:bbx00364	Fluorobenzoate degradation - Bordetella bronchiseptica S798
+path:bbx00380	Tryptophan metabolism - Bordetella bronchiseptica S798
+path:bbx00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Bordetella bronchiseptica S798
+path:bbx00401	Novobiocin biosynthesis - Bordetella bronchiseptica S798
+path:bbx00410	beta-Alanine metabolism - Bordetella bronchiseptica S798
+path:bbx00430	Taurine and hypotaurine metabolism - Bordetella bronchiseptica S798
+path:bbx00440	Phosphonate and phosphinate metabolism - Bordetella bronchiseptica S798
+path:bbx00450	Selenocompound metabolism - Bordetella bronchiseptica S798
+path:bbx00460	Cyanoamino acid metabolism - Bordetella bronchiseptica S798
+path:bbx00471	D-Glutamine and D-glutamate metabolism - Bordetella bronchiseptica S798
+path:bbx00472	D-Arginine and D-ornithine metabolism - Bordetella bronchiseptica S798
+path:bbx00473	D-Alanine metabolism - Bordetella bronchiseptica S798
+path:bbx00480	Glutathione metabolism - Bordetella bronchiseptica S798
+path:bbx00500	Starch and sucrose metabolism - Bordetella bronchiseptica S798
+path:bbx00520	Amino sugar and nucleotide sugar metabolism - Bordetella bronchiseptica S798
+path:bbx00521	Streptomycin biosynthesis - Bordetella bronchiseptica S798
+path:bbx00523	Polyketide sugar unit biosynthesis - Bordetella bronchiseptica S798
+path:bbx00540	Lipopolysaccharide biosynthesis - Bordetella bronchiseptica S798
+path:bbx00550	Peptidoglycan biosynthesis - Bordetella bronchiseptica S798
+path:bbx00561	Glycerolipid metabolism - Bordetella bronchiseptica S798
+path:bbx00562	Inositol phosphate metabolism - Bordetella bronchiseptica S798
+path:bbx00564	Glycerophospholipid metabolism - Bordetella bronchiseptica S798
+path:bbx00590	Arachidonic acid metabolism - Bordetella bronchiseptica S798
+path:bbx00592	alpha-Linolenic acid metabolism - Bordetella bronchiseptica S798
+path:bbx00620	Pyruvate metabolism - Bordetella bronchiseptica S798
+path:bbx00621	Dioxin degradation - Bordetella bronchiseptica S798
+path:bbx00622	Xylene degradation - Bordetella bronchiseptica S798
+path:bbx00623	Toluene degradation - Bordetella bronchiseptica S798
+path:bbx00624	Polycyclic aromatic hydrocarbon degradation - Bordetella bronchiseptica S798
+path:bbx00625	Chloroalkane and chloroalkene degradation - Bordetella bronchiseptica S798
+path:bbx00626	Naphthalene degradation - Bordetella bronchiseptica S798
+path:bbx00627	Aminobenzoate degradation - Bordetella bronchiseptica S798
+path:bbx00630	Glyoxylate and dicarboxylate metabolism - Bordetella bronchiseptica S798
+path:bbx00633	Nitrotoluene degradation - Bordetella bronchiseptica S798
+path:bbx00640	Propanoate metabolism - Bordetella bronchiseptica S798
+path:bbx00642	Ethylbenzene degradation - Bordetella bronchiseptica S798
+path:bbx00643	Styrene degradation - Bordetella bronchiseptica S798
+path:bbx00650	Butanoate metabolism - Bordetella bronchiseptica S798
+path:bbx00660	C5-Branched dibasic acid metabolism - Bordetella bronchiseptica S798
+path:bbx00670	One carbon pool by folate - Bordetella bronchiseptica S798
+path:bbx00680	Methane metabolism - Bordetella bronchiseptica S798
+path:bbx00730	Thiamine metabolism - Bordetella bronchiseptica S798
+path:bbx00740	Riboflavin metabolism - Bordetella bronchiseptica S798
+path:bbx00750	Vitamin B6 metabolism - Bordetella bronchiseptica S798
+path:bbx00760	Nicotinate and nicotinamide metabolism - Bordetella bronchiseptica S798
+path:bbx00770	Pantothenate and CoA biosynthesis - Bordetella bronchiseptica S798
+path:bbx00780	Biotin metabolism - Bordetella bronchiseptica S798
+path:bbx00785	Lipoic acid metabolism - Bordetella bronchiseptica S798
+path:bbx00790	Folate biosynthesis - Bordetella bronchiseptica S798
+path:bbx00860	Porphyrin and chlorophyll metabolism - Bordetella bronchiseptica S798
+path:bbx00900	Terpenoid backbone biosynthesis - Bordetella bronchiseptica S798
+path:bbx00903	Limonene and pinene degradation - Bordetella bronchiseptica S798
+path:bbx00906	Carotenoid biosynthesis - Bordetella bronchiseptica S798
+path:bbx00910	Nitrogen metabolism - Bordetella bronchiseptica S798
+path:bbx00920	Sulfur metabolism - Bordetella bronchiseptica S798
+path:bbx00930	Caprolactam degradation - Bordetella bronchiseptica S798
+path:bbx00970	Aminoacyl-tRNA biosynthesis - Bordetella bronchiseptica S798
+path:bbx01040	Biosynthesis of unsaturated fatty acids - Bordetella bronchiseptica S798
+path:bbx01054	Nonribosomal peptide structures - Bordetella bronchiseptica S798
+path:bbx01100	Metabolic pathways - Bordetella bronchiseptica S798
+path:bbx01110	Biosynthesis of secondary metabolites - Bordetella bronchiseptica S798
+path:bbx01120	Microbial metabolism in diverse environments - Bordetella bronchiseptica S798
+path:bbx01130	Biosynthesis of antibiotics - Bordetella bronchiseptica S798
+path:bbx01200	Carbon metabolism - Bordetella bronchiseptica S798
+path:bbx01210	2-Oxocarboxylic acid metabolism - Bordetella bronchiseptica S798
+path:bbx01212	Fatty acid metabolism - Bordetella bronchiseptica S798
+path:bbx01220	Degradation of aromatic compounds - Bordetella bronchiseptica S798
+path:bbx01230	Biosynthesis of amino acids - Bordetella bronchiseptica S798
+path:bbx01501	beta-Lactam resistance - Bordetella bronchiseptica S798
+path:bbx01502	Vancomycin resistance - Bordetella bronchiseptica S798
+path:bbx01503	Cationic antimicrobial peptide (CAMP) resistance - Bordetella bronchiseptica S798
+path:bbx02010	ABC transporters - Bordetella bronchiseptica S798
+path:bbx02020	Two-component system - Bordetella bronchiseptica S798
+path:bbx02024	Quorum sensing - Bordetella bronchiseptica S798
+path:bbx02030	Bacterial chemotaxis - Bordetella bronchiseptica S798
+path:bbx02040	Flagellar assembly - Bordetella bronchiseptica S798
+path:bbx02060	Phosphotransferase system (PTS) - Bordetella bronchiseptica S798
+path:bbx03010	Ribosome - Bordetella bronchiseptica S798
+path:bbx03018	RNA degradation - Bordetella bronchiseptica S798
+path:bbx03020	RNA polymerase - Bordetella bronchiseptica S798
+path:bbx03030	DNA replication - Bordetella bronchiseptica S798
+path:bbx03060	Protein export - Bordetella bronchiseptica S798
+path:bbx03070	Bacterial secretion system - Bordetella bronchiseptica S798
+path:bbx03410	Base excision repair - Bordetella bronchiseptica S798
+path:bbx03420	Nucleotide excision repair - Bordetella bronchiseptica S798
+path:bbx03430	Mismatch repair - Bordetella bronchiseptica S798
+path:bbx03440	Homologous recombination - Bordetella bronchiseptica S798
+path:bbx03450	Non-homologous end-joining - Bordetella bronchiseptica S798
+path:bbx04122	Sulfur relay system - Bordetella bronchiseptica S798
+path:bbx05133	Pertussis - Bordetella bronchiseptica S798
+path:bpt00010	Glycolysis / Gluconeogenesis - Bordetella petrii
+path:bpt00020	Citrate cycle (TCA cycle) - Bordetella petrii
+path:bpt00030	Pentose phosphate pathway - Bordetella petrii
+path:bpt00040	Pentose and glucuronate interconversions - Bordetella petrii
+path:bpt00051	Fructose and mannose metabolism - Bordetella petrii
+path:bpt00052	Galactose metabolism - Bordetella petrii
+path:bpt00053	Ascorbate and aldarate metabolism - Bordetella petrii
+path:bpt00061	Fatty acid biosynthesis - Bordetella petrii
+path:bpt00071	Fatty acid degradation - Bordetella petrii
+path:bpt00072	Synthesis and degradation of ketone bodies - Bordetella petrii
+path:bpt00130	Ubiquinone and other terpenoid-quinone biosynthesis - Bordetella petrii
+path:bpt00190	Oxidative phosphorylation - Bordetella petrii
+path:bpt00220	Arginine biosynthesis - Bordetella petrii
+path:bpt00230	Purine metabolism - Bordetella petrii
+path:bpt00240	Pyrimidine metabolism - Bordetella petrii
+path:bpt00250	Alanine, aspartate and glutamate metabolism - Bordetella petrii
+path:bpt00260	Glycine, serine and threonine metabolism - Bordetella petrii
+path:bpt00261	Monobactam biosynthesis - Bordetella petrii
+path:bpt00270	Cysteine and methionine metabolism - Bordetella petrii
+path:bpt00280	Valine, leucine and isoleucine degradation - Bordetella petrii
+path:bpt00281	Geraniol degradation - Bordetella petrii
+path:bpt00290	Valine, leucine and isoleucine biosynthesis - Bordetella petrii
+path:bpt00300	Lysine biosynthesis - Bordetella petrii
+path:bpt00310	Lysine degradation - Bordetella petrii
+path:bpt00330	Arginine and proline metabolism - Bordetella petrii
+path:bpt00332	Carbapenem biosynthesis - Bordetella petrii
+path:bpt00340	Histidine metabolism - Bordetella petrii
+path:bpt00350	Tyrosine metabolism - Bordetella petrii
+path:bpt00360	Phenylalanine metabolism - Bordetella petrii
+path:bpt00361	Chlorocyclohexane and chlorobenzene degradation - Bordetella petrii
+path:bpt00362	Benzoate degradation - Bordetella petrii
+path:bpt00364	Fluorobenzoate degradation - Bordetella petrii
+path:bpt00380	Tryptophan metabolism - Bordetella petrii
+path:bpt00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Bordetella petrii
+path:bpt00401	Novobiocin biosynthesis - Bordetella petrii
+path:bpt00405	Phenazine biosynthesis - Bordetella petrii
+path:bpt00410	beta-Alanine metabolism - Bordetella petrii
+path:bpt00430	Taurine and hypotaurine metabolism - Bordetella petrii
+path:bpt00440	Phosphonate and phosphinate metabolism - Bordetella petrii
+path:bpt00450	Selenocompound metabolism - Bordetella petrii
+path:bpt00460	Cyanoamino acid metabolism - Bordetella petrii
+path:bpt00471	D-Glutamine and D-glutamate metabolism - Bordetella petrii
+path:bpt00472	D-Arginine and D-ornithine metabolism - Bordetella petrii
+path:bpt00473	D-Alanine metabolism - Bordetella petrii
+path:bpt00480	Glutathione metabolism - Bordetella petrii
+path:bpt00500	Starch and sucrose metabolism - Bordetella petrii
+path:bpt00520	Amino sugar and nucleotide sugar metabolism - Bordetella petrii
+path:bpt00521	Streptomycin biosynthesis - Bordetella petrii
+path:bpt00523	Polyketide sugar unit biosynthesis - Bordetella petrii
+path:bpt00540	Lipopolysaccharide biosynthesis - Bordetella petrii
+path:bpt00550	Peptidoglycan biosynthesis - Bordetella petrii
+path:bpt00561	Glycerolipid metabolism - Bordetella petrii
+path:bpt00562	Inositol phosphate metabolism - Bordetella petrii
+path:bpt00564	Glycerophospholipid metabolism - Bordetella petrii
+path:bpt00590	Arachidonic acid metabolism - Bordetella petrii
+path:bpt00592	alpha-Linolenic acid metabolism - Bordetella petrii
+path:bpt00620	Pyruvate metabolism - Bordetella petrii
+path:bpt00621	Dioxin degradation - Bordetella petrii
+path:bpt00622	Xylene degradation - Bordetella petrii
+path:bpt00623	Toluene degradation - Bordetella petrii
+path:bpt00624	Polycyclic aromatic hydrocarbon degradation - Bordetella petrii
+path:bpt00625	Chloroalkane and chloroalkene degradation - Bordetella petrii
+path:bpt00626	Naphthalene degradation - Bordetella petrii
+path:bpt00627	Aminobenzoate degradation - Bordetella petrii
+path:bpt00630	Glyoxylate and dicarboxylate metabolism - Bordetella petrii
+path:bpt00633	Nitrotoluene degradation - Bordetella petrii
+path:bpt00640	Propanoate metabolism - Bordetella petrii
+path:bpt00642	Ethylbenzene degradation - Bordetella petrii
+path:bpt00643	Styrene degradation - Bordetella petrii
+path:bpt00650	Butanoate metabolism - Bordetella petrii
+path:bpt00660	C5-Branched dibasic acid metabolism - Bordetella petrii
+path:bpt00670	One carbon pool by folate - Bordetella petrii
+path:bpt00680	Methane metabolism - Bordetella petrii
+path:bpt00730	Thiamine metabolism - Bordetella petrii
+path:bpt00740	Riboflavin metabolism - Bordetella petrii
+path:bpt00750	Vitamin B6 metabolism - Bordetella petrii
+path:bpt00760	Nicotinate and nicotinamide metabolism - Bordetella petrii
+path:bpt00770	Pantothenate and CoA biosynthesis - Bordetella petrii
+path:bpt00780	Biotin metabolism - Bordetella petrii
+path:bpt00785	Lipoic acid metabolism - Bordetella petrii
+path:bpt00790	Folate biosynthesis - Bordetella petrii
+path:bpt00791	Atrazine degradation - Bordetella petrii
+path:bpt00860	Porphyrin and chlorophyll metabolism - Bordetella petrii
+path:bpt00900	Terpenoid backbone biosynthesis - Bordetella petrii
+path:bpt00903	Limonene and pinene degradation - Bordetella petrii
+path:bpt00906	Carotenoid biosynthesis - Bordetella petrii
+path:bpt00910	Nitrogen metabolism - Bordetella petrii
+path:bpt00920	Sulfur metabolism - Bordetella petrii
+path:bpt00930	Caprolactam degradation - Bordetella petrii
+path:bpt00970	Aminoacyl-tRNA biosynthesis - Bordetella petrii
+path:bpt01040	Biosynthesis of unsaturated fatty acids - Bordetella petrii
+path:bpt01054	Nonribosomal peptide structures - Bordetella petrii
+path:bpt01100	Metabolic pathways - Bordetella petrii
+path:bpt01110	Biosynthesis of secondary metabolites - Bordetella petrii
+path:bpt01120	Microbial metabolism in diverse environments - Bordetella petrii
+path:bpt01130	Biosynthesis of antibiotics - Bordetella petrii
+path:bpt01200	Carbon metabolism - Bordetella petrii
+path:bpt01210	2-Oxocarboxylic acid metabolism - Bordetella petrii
+path:bpt01212	Fatty acid metabolism - Bordetella petrii
+path:bpt01220	Degradation of aromatic compounds - Bordetella petrii
+path:bpt01230	Biosynthesis of amino acids - Bordetella petrii
+path:bpt01501	beta-Lactam resistance - Bordetella petrii
+path:bpt01502	Vancomycin resistance - Bordetella petrii
+path:bpt01503	Cationic antimicrobial peptide (CAMP) resistance - Bordetella petrii
+path:bpt02010	ABC transporters - Bordetella petrii
+path:bpt02020	Two-component system - Bordetella petrii
+path:bpt02024	Quorum sensing - Bordetella petrii
+path:bpt02030	Bacterial chemotaxis - Bordetella petrii
+path:bpt02040	Flagellar assembly - Bordetella petrii
+path:bpt02060	Phosphotransferase system (PTS) - Bordetella petrii
+path:bpt03010	Ribosome - Bordetella petrii
+path:bpt03018	RNA degradation - Bordetella petrii
+path:bpt03020	RNA polymerase - Bordetella petrii
+path:bpt03030	DNA replication - Bordetella petrii
+path:bpt03060	Protein export - Bordetella petrii
+path:bpt03070	Bacterial secretion system - Bordetella petrii
+path:bpt03410	Base excision repair - Bordetella petrii
+path:bpt03420	Nucleotide excision repair - Bordetella petrii
+path:bpt03430	Mismatch repair - Bordetella petrii
+path:bpt03440	Homologous recombination - Bordetella petrii
+path:bpt03450	Non-homologous end-joining - Bordetella petrii
+path:bpt04122	Sulfur relay system - Bordetella petrii
+path:bpt05133	Pertussis - Bordetella petrii
+path:bav00010	Glycolysis / Gluconeogenesis - Bordetella avium
+path:bav00020	Citrate cycle (TCA cycle) - Bordetella avium
+path:bav00030	Pentose phosphate pathway - Bordetella avium
+path:bav00040	Pentose and glucuronate interconversions - Bordetella avium
+path:bav00051	Fructose and mannose metabolism - Bordetella avium
+path:bav00052	Galactose metabolism - Bordetella avium
+path:bav00053	Ascorbate and aldarate metabolism - Bordetella avium
+path:bav00061	Fatty acid biosynthesis - Bordetella avium
+path:bav00071	Fatty acid degradation - Bordetella avium
+path:bav00072	Synthesis and degradation of ketone bodies - Bordetella avium
+path:bav00121	Secondary bile acid biosynthesis - Bordetella avium
+path:bav00130	Ubiquinone and other terpenoid-quinone biosynthesis - Bordetella avium
+path:bav00190	Oxidative phosphorylation - Bordetella avium
+path:bav00220	Arginine biosynthesis - Bordetella avium
+path:bav00230	Purine metabolism - Bordetella avium
+path:bav00240	Pyrimidine metabolism - Bordetella avium
+path:bav00250	Alanine, aspartate and glutamate metabolism - Bordetella avium
+path:bav00260	Glycine, serine and threonine metabolism - Bordetella avium
+path:bav00261	Monobactam biosynthesis - Bordetella avium
+path:bav00270	Cysteine and methionine metabolism - Bordetella avium
+path:bav00280	Valine, leucine and isoleucine degradation - Bordetella avium
+path:bav00281	Geraniol degradation - Bordetella avium
+path:bav00290	Valine, leucine and isoleucine biosynthesis - Bordetella avium
+path:bav00300	Lysine biosynthesis - Bordetella avium
+path:bav00310	Lysine degradation - Bordetella avium
+path:bav00330	Arginine and proline metabolism - Bordetella avium
+path:bav00332	Carbapenem biosynthesis - Bordetella avium
+path:bav00340	Histidine metabolism - Bordetella avium
+path:bav00350	Tyrosine metabolism - Bordetella avium
+path:bav00360	Phenylalanine metabolism - Bordetella avium
+path:bav00361	Chlorocyclohexane and chlorobenzene degradation - Bordetella avium
+path:bav00362	Benzoate degradation - Bordetella avium
+path:bav00364	Fluorobenzoate degradation - Bordetella avium
+path:bav00380	Tryptophan metabolism - Bordetella avium
+path:bav00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Bordetella avium
+path:bav00401	Novobiocin biosynthesis - Bordetella avium
+path:bav00410	beta-Alanine metabolism - Bordetella avium
+path:bav00430	Taurine and hypotaurine metabolism - Bordetella avium
+path:bav00440	Phosphonate and phosphinate metabolism - Bordetella avium
+path:bav00450	Selenocompound metabolism - Bordetella avium
+path:bav00460	Cyanoamino acid metabolism - Bordetella avium
+path:bav00471	D-Glutamine and D-glutamate metabolism - Bordetella avium
+path:bav00472	D-Arginine and D-ornithine metabolism - Bordetella avium
+path:bav00473	D-Alanine metabolism - Bordetella avium
+path:bav00480	Glutathione metabolism - Bordetella avium
+path:bav00500	Starch and sucrose metabolism - Bordetella avium
+path:bav00520	Amino sugar and nucleotide sugar metabolism - Bordetella avium
+path:bav00521	Streptomycin biosynthesis - Bordetella avium
+path:bav00523	Polyketide sugar unit biosynthesis - Bordetella avium
+path:bav00525	Acarbose and validamycin biosynthesis - Bordetella avium
+path:bav00540	Lipopolysaccharide biosynthesis - Bordetella avium
+path:bav00550	Peptidoglycan biosynthesis - Bordetella avium
+path:bav00561	Glycerolipid metabolism - Bordetella avium
+path:bav00562	Inositol phosphate metabolism - Bordetella avium
+path:bav00564	Glycerophospholipid metabolism - Bordetella avium
+path:bav00590	Arachidonic acid metabolism - Bordetella avium
+path:bav00592	alpha-Linolenic acid metabolism - Bordetella avium
+path:bav00620	Pyruvate metabolism - Bordetella avium
+path:bav00621	Dioxin degradation - Bordetella avium
+path:bav00622	Xylene degradation - Bordetella avium
+path:bav00623	Toluene degradation - Bordetella avium
+path:bav00624	Polycyclic aromatic hydrocarbon degradation - Bordetella avium
+path:bav00625	Chloroalkane and chloroalkene degradation - Bordetella avium
+path:bav00626	Naphthalene degradation - Bordetella avium
+path:bav00627	Aminobenzoate degradation - Bordetella avium
+path:bav00630	Glyoxylate and dicarboxylate metabolism - Bordetella avium
+path:bav00633	Nitrotoluene degradation - Bordetella avium
+path:bav00640	Propanoate metabolism - Bordetella avium
+path:bav00643	Styrene degradation - Bordetella avium
+path:bav00650	Butanoate metabolism - Bordetella avium
+path:bav00660	C5-Branched dibasic acid metabolism - Bordetella avium
+path:bav00670	One carbon pool by folate - Bordetella avium
+path:bav00680	Methane metabolism - Bordetella avium
+path:bav00730	Thiamine metabolism - Bordetella avium
+path:bav00740	Riboflavin metabolism - Bordetella avium
+path:bav00750	Vitamin B6 metabolism - Bordetella avium
+path:bav00760	Nicotinate and nicotinamide metabolism - Bordetella avium
+path:bav00770	Pantothenate and CoA biosynthesis - Bordetella avium
+path:bav00780	Biotin metabolism - Bordetella avium
+path:bav00785	Lipoic acid metabolism - Bordetella avium
+path:bav00790	Folate biosynthesis - Bordetella avium
+path:bav00791	Atrazine degradation - Bordetella avium
+path:bav00860	Porphyrin and chlorophyll metabolism - Bordetella avium
+path:bav00900	Terpenoid backbone biosynthesis - Bordetella avium
+path:bav00903	Limonene and pinene degradation - Bordetella avium
+path:bav00906	Carotenoid biosynthesis - Bordetella avium
+path:bav00910	Nitrogen metabolism - Bordetella avium
+path:bav00920	Sulfur metabolism - Bordetella avium
+path:bav00930	Caprolactam degradation - Bordetella avium
+path:bav00970	Aminoacyl-tRNA biosynthesis - Bordetella avium
+path:bav01040	Biosynthesis of unsaturated fatty acids - Bordetella avium
+path:bav01054	Nonribosomal peptide structures - Bordetella avium
+path:bav01100	Metabolic pathways - Bordetella avium
+path:bav01110	Biosynthesis of secondary metabolites - Bordetella avium
+path:bav01120	Microbial metabolism in diverse environments - Bordetella avium
+path:bav01130	Biosynthesis of antibiotics - Bordetella avium
+path:bav01200	Carbon metabolism - Bordetella avium
+path:bav01210	2-Oxocarboxylic acid metabolism - Bordetella avium
+path:bav01212	Fatty acid metabolism - Bordetella avium
+path:bav01220	Degradation of aromatic compounds - Bordetella avium
+path:bav01230	Biosynthesis of amino acids - Bordetella avium
+path:bav01501	beta-Lactam resistance - Bordetella avium
+path:bav01502	Vancomycin resistance - Bordetella avium
+path:bav01503	Cationic antimicrobial peptide (CAMP) resistance - Bordetella avium
+path:bav02010	ABC transporters - Bordetella avium
+path:bav02020	Two-component system - Bordetella avium
+path:bav02024	Quorum sensing - Bordetella avium
+path:bav02030	Bacterial chemotaxis - Bordetella avium
+path:bav02040	Flagellar assembly - Bordetella avium
+path:bav02060	Phosphotransferase system (PTS) - Bordetella avium
+path:bav03010	Ribosome - Bordetella avium
+path:bav03018	RNA degradation - Bordetella avium
+path:bav03020	RNA polymerase - Bordetella avium
+path:bav03030	DNA replication - Bordetella avium
+path:bav03060	Protein export - Bordetella avium
+path:bav03070	Bacterial secretion system - Bordetella avium
+path:bav03410	Base excision repair - Bordetella avium
+path:bav03420	Nucleotide excision repair - Bordetella avium
+path:bav03430	Mismatch repair - Bordetella avium
+path:bav03440	Homologous recombination - Bordetella avium
+path:bav04122	Sulfur relay system - Bordetella avium
+path:bav05133	Pertussis - Bordetella avium
+path:bho00010	Glycolysis / Gluconeogenesis - Bordetella holmesii ATCC 51541
+path:bho00020	Citrate cycle (TCA cycle) - Bordetella holmesii ATCC 51541
+path:bho00030	Pentose phosphate pathway - Bordetella holmesii ATCC 51541
+path:bho00040	Pentose and glucuronate interconversions - Bordetella holmesii ATCC 51541
+path:bho00051	Fructose and mannose metabolism - Bordetella holmesii ATCC 51541
+path:bho00052	Galactose metabolism - Bordetella holmesii ATCC 51541
+path:bho00053	Ascorbate and aldarate metabolism - Bordetella holmesii ATCC 51541
+path:bho00061	Fatty acid biosynthesis - Bordetella holmesii ATCC 51541
+path:bho00071	Fatty acid degradation - Bordetella holmesii ATCC 51541
+path:bho00072	Synthesis and degradation of ketone bodies - Bordetella holmesii ATCC 51541
+path:bho00130	Ubiquinone and other terpenoid-quinone biosynthesis - Bordetella holmesii ATCC 51541
+path:bho00190	Oxidative phosphorylation - Bordetella holmesii ATCC 51541
+path:bho00220	Arginine biosynthesis - Bordetella holmesii ATCC 51541
+path:bho00230	Purine metabolism - Bordetella holmesii ATCC 51541
+path:bho00240	Pyrimidine metabolism - Bordetella holmesii ATCC 51541
+path:bho00250	Alanine, aspartate and glutamate metabolism - Bordetella holmesii ATCC 51541
+path:bho00260	Glycine, serine and threonine metabolism - Bordetella holmesii ATCC 51541
+path:bho00261	Monobactam biosynthesis - Bordetella holmesii ATCC 51541
+path:bho00270	Cysteine and methionine metabolism - Bordetella holmesii ATCC 51541
+path:bho00280	Valine, leucine and isoleucine degradation - Bordetella holmesii ATCC 51541
+path:bho00281	Geraniol degradation - Bordetella holmesii ATCC 51541
+path:bho00290	Valine, leucine and isoleucine biosynthesis - Bordetella holmesii ATCC 51541
+path:bho00300	Lysine biosynthesis - Bordetella holmesii ATCC 51541
+path:bho00310	Lysine degradation - Bordetella holmesii ATCC 51541
+path:bho00330	Arginine and proline metabolism - Bordetella holmesii ATCC 51541
+path:bho00332	Carbapenem biosynthesis - Bordetella holmesii ATCC 51541
+path:bho00340	Histidine metabolism - Bordetella holmesii ATCC 51541
+path:bho00350	Tyrosine metabolism - Bordetella holmesii ATCC 51541
+path:bho00360	Phenylalanine metabolism - Bordetella holmesii ATCC 51541
+path:bho00361	Chlorocyclohexane and chlorobenzene degradation - Bordetella holmesii ATCC 51541
+path:bho00362	Benzoate degradation - Bordetella holmesii ATCC 51541
+path:bho00364	Fluorobenzoate degradation - Bordetella holmesii ATCC 51541
+path:bho00380	Tryptophan metabolism - Bordetella holmesii ATCC 51541
+path:bho00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Bordetella holmesii ATCC 51541
+path:bho00401	Novobiocin biosynthesis - Bordetella holmesii ATCC 51541
+path:bho00410	beta-Alanine metabolism - Bordetella holmesii ATCC 51541
+path:bho00430	Taurine and hypotaurine metabolism - Bordetella holmesii ATCC 51541
+path:bho00440	Phosphonate and phosphinate metabolism - Bordetella holmesii ATCC 51541
+path:bho00450	Selenocompound metabolism - Bordetella holmesii ATCC 51541
+path:bho00460	Cyanoamino acid metabolism - Bordetella holmesii ATCC 51541
+path:bho00471	D-Glutamine and D-glutamate metabolism - Bordetella holmesii ATCC 51541
+path:bho00472	D-Arginine and D-ornithine metabolism - Bordetella holmesii ATCC 51541
+path:bho00473	D-Alanine metabolism - Bordetella holmesii ATCC 51541
+path:bho00480	Glutathione metabolism - Bordetella holmesii ATCC 51541
+path:bho00500	Starch and sucrose metabolism - Bordetella holmesii ATCC 51541
+path:bho00520	Amino sugar and nucleotide sugar metabolism - Bordetella holmesii ATCC 51541
+path:bho00521	Streptomycin biosynthesis - Bordetella holmesii ATCC 51541
+path:bho00523	Polyketide sugar unit biosynthesis - Bordetella holmesii ATCC 51541
+path:bho00525	Acarbose and validamycin biosynthesis - Bordetella holmesii ATCC 51541
+path:bho00540	Lipopolysaccharide biosynthesis - Bordetella holmesii ATCC 51541
+path:bho00550	Peptidoglycan biosynthesis - Bordetella holmesii ATCC 51541
+path:bho00561	Glycerolipid metabolism - Bordetella holmesii ATCC 51541
+path:bho00562	Inositol phosphate metabolism - Bordetella holmesii ATCC 51541
+path:bho00564	Glycerophospholipid metabolism - Bordetella holmesii ATCC 51541
+path:bho00590	Arachidonic acid metabolism - Bordetella holmesii ATCC 51541
+path:bho00592	alpha-Linolenic acid metabolism - Bordetella holmesii ATCC 51541
+path:bho00620	Pyruvate metabolism - Bordetella holmesii ATCC 51541
+path:bho00622	Xylene degradation - Bordetella holmesii ATCC 51541
+path:bho00623	Toluene degradation - Bordetella holmesii ATCC 51541
+path:bho00625	Chloroalkane and chloroalkene degradation - Bordetella holmesii ATCC 51541
+path:bho00626	Naphthalene degradation - Bordetella holmesii ATCC 51541
+path:bho00627	Aminobenzoate degradation - Bordetella holmesii ATCC 51541
+path:bho00630	Glyoxylate and dicarboxylate metabolism - Bordetella holmesii ATCC 51541
+path:bho00640	Propanoate metabolism - Bordetella holmesii ATCC 51541
+path:bho00643	Styrene degradation - Bordetella holmesii ATCC 51541
+path:bho00650	Butanoate metabolism - Bordetella holmesii ATCC 51541
+path:bho00660	C5-Branched dibasic acid metabolism - Bordetella holmesii ATCC 51541
+path:bho00670	One carbon pool by folate - Bordetella holmesii ATCC 51541
+path:bho00680	Methane metabolism - Bordetella holmesii ATCC 51541
+path:bho00730	Thiamine metabolism - Bordetella holmesii ATCC 51541
+path:bho00740	Riboflavin metabolism - Bordetella holmesii ATCC 51541
+path:bho00750	Vitamin B6 metabolism - Bordetella holmesii ATCC 51541
+path:bho00760	Nicotinate and nicotinamide metabolism - Bordetella holmesii ATCC 51541
+path:bho00770	Pantothenate and CoA biosynthesis - Bordetella holmesii ATCC 51541
+path:bho00780	Biotin metabolism - Bordetella holmesii ATCC 51541
+path:bho00785	Lipoic acid metabolism - Bordetella holmesii ATCC 51541
+path:bho00790	Folate biosynthesis - Bordetella holmesii ATCC 51541
+path:bho00791	Atrazine degradation - Bordetella holmesii ATCC 51541
+path:bho00860	Porphyrin and chlorophyll metabolism - Bordetella holmesii ATCC 51541
+path:bho00900	Terpenoid backbone biosynthesis - Bordetella holmesii ATCC 51541
+path:bho00903	Limonene and pinene degradation - Bordetella holmesii ATCC 51541
+path:bho00906	Carotenoid biosynthesis - Bordetella holmesii ATCC 51541
+path:bho00910	Nitrogen metabolism - Bordetella holmesii ATCC 51541
+path:bho00920	Sulfur metabolism - Bordetella holmesii ATCC 51541
+path:bho00930	Caprolactam degradation - Bordetella holmesii ATCC 51541
+path:bho00970	Aminoacyl-tRNA biosynthesis - Bordetella holmesii ATCC 51541
+path:bho01040	Biosynthesis of unsaturated fatty acids - Bordetella holmesii ATCC 51541
+path:bho01054	Nonribosomal peptide structures - Bordetella holmesii ATCC 51541
+path:bho01100	Metabolic pathways - Bordetella holmesii ATCC 51541
+path:bho01110	Biosynthesis of secondary metabolites - Bordetella holmesii ATCC 51541
+path:bho01120	Microbial metabolism in diverse environments - Bordetella holmesii ATCC 51541
+path:bho01130	Biosynthesis of antibiotics - Bordetella holmesii ATCC 51541
+path:bho01200	Carbon metabolism - Bordetella holmesii ATCC 51541
+path:bho01210	2-Oxocarboxylic acid metabolism - Bordetella holmesii ATCC 51541
+path:bho01212	Fatty acid metabolism - Bordetella holmesii ATCC 51541
+path:bho01220	Degradation of aromatic compounds - Bordetella holmesii ATCC 51541
+path:bho01230	Biosynthesis of amino acids - Bordetella holmesii ATCC 51541
+path:bho01501	beta-Lactam resistance - Bordetella holmesii ATCC 51541
+path:bho01502	Vancomycin resistance - Bordetella holmesii ATCC 51541
+path:bho01503	Cationic antimicrobial peptide (CAMP) resistance - Bordetella holmesii ATCC 51541
+path:bho02010	ABC transporters - Bordetella holmesii ATCC 51541
+path:bho02020	Two-component system - Bordetella holmesii ATCC 51541
+path:bho02024	Quorum sensing - Bordetella holmesii ATCC 51541
+path:bho02030	Bacterial chemotaxis - Bordetella holmesii ATCC 51541
+path:bho02040	Flagellar assembly - Bordetella holmesii ATCC 51541
+path:bho02060	Phosphotransferase system (PTS) - Bordetella holmesii ATCC 51541
+path:bho03010	Ribosome - Bordetella holmesii ATCC 51541
+path:bho03018	RNA degradation - Bordetella holmesii ATCC 51541
+path:bho03020	RNA polymerase - Bordetella holmesii ATCC 51541
+path:bho03030	DNA replication - Bordetella holmesii ATCC 51541
+path:bho03060	Protein export - Bordetella holmesii ATCC 51541
+path:bho03070	Bacterial secretion system - Bordetella holmesii ATCC 51541
+path:bho03410	Base excision repair - Bordetella holmesii ATCC 51541
+path:bho03420	Nucleotide excision repair - Bordetella holmesii ATCC 51541
+path:bho03430	Mismatch repair - Bordetella holmesii ATCC 51541
+path:bho03440	Homologous recombination - Bordetella holmesii ATCC 51541
+path:bho04122	Sulfur relay system - Bordetella holmesii ATCC 51541
+path:bho05133	Pertussis - Bordetella holmesii ATCC 51541
+path:bhm00010	Glycolysis / Gluconeogenesis - Bordetella holmesii 44057
+path:bhm00020	Citrate cycle (TCA cycle) - Bordetella holmesii 44057
+path:bhm00030	Pentose phosphate pathway - Bordetella holmesii 44057
+path:bhm00040	Pentose and glucuronate interconversions - Bordetella holmesii 44057
+path:bhm00051	Fructose and mannose metabolism - Bordetella holmesii 44057
+path:bhm00052	Galactose metabolism - Bordetella holmesii 44057
+path:bhm00053	Ascorbate and aldarate metabolism - Bordetella holmesii 44057
+path:bhm00061	Fatty acid biosynthesis - Bordetella holmesii 44057
+path:bhm00071	Fatty acid degradation - Bordetella holmesii 44057
+path:bhm00072	Synthesis and degradation of ketone bodies - Bordetella holmesii 44057
+path:bhm00130	Ubiquinone and other terpenoid-quinone biosynthesis - Bordetella holmesii 44057
+path:bhm00190	Oxidative phosphorylation - Bordetella holmesii 44057
+path:bhm00220	Arginine biosynthesis - Bordetella holmesii 44057
+path:bhm00230	Purine metabolism - Bordetella holmesii 44057
+path:bhm00240	Pyrimidine metabolism - Bordetella holmesii 44057
+path:bhm00250	Alanine, aspartate and glutamate metabolism - Bordetella holmesii 44057
+path:bhm00260	Glycine, serine and threonine metabolism - Bordetella holmesii 44057
+path:bhm00261	Monobactam biosynthesis - Bordetella holmesii 44057
+path:bhm00270	Cysteine and methionine metabolism - Bordetella holmesii 44057
+path:bhm00280	Valine, leucine and isoleucine degradation - Bordetella holmesii 44057
+path:bhm00281	Geraniol degradation - Bordetella holmesii 44057
+path:bhm00290	Valine, leucine and isoleucine biosynthesis - Bordetella holmesii 44057
+path:bhm00300	Lysine biosynthesis - Bordetella holmesii 44057
+path:bhm00310	Lysine degradation - Bordetella holmesii 44057
+path:bhm00330	Arginine and proline metabolism - Bordetella holmesii 44057
+path:bhm00332	Carbapenem biosynthesis - Bordetella holmesii 44057
+path:bhm00340	Histidine metabolism - Bordetella holmesii 44057
+path:bhm00350	Tyrosine metabolism - Bordetella holmesii 44057
+path:bhm00360	Phenylalanine metabolism - Bordetella holmesii 44057
+path:bhm00361	Chlorocyclohexane and chlorobenzene degradation - Bordetella holmesii 44057
+path:bhm00362	Benzoate degradation - Bordetella holmesii 44057
+path:bhm00364	Fluorobenzoate degradation - Bordetella holmesii 44057
+path:bhm00380	Tryptophan metabolism - Bordetella holmesii 44057
+path:bhm00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Bordetella holmesii 44057
+path:bhm00401	Novobiocin biosynthesis - Bordetella holmesii 44057
+path:bhm00410	beta-Alanine metabolism - Bordetella holmesii 44057
+path:bhm00430	Taurine and hypotaurine metabolism - Bordetella holmesii 44057
+path:bhm00440	Phosphonate and phosphinate metabolism - Bordetella holmesii 44057
+path:bhm00450	Selenocompound metabolism - Bordetella holmesii 44057
+path:bhm00460	Cyanoamino acid metabolism - Bordetella holmesii 44057
+path:bhm00471	D-Glutamine and D-glutamate metabolism - Bordetella holmesii 44057
+path:bhm00472	D-Arginine and D-ornithine metabolism - Bordetella holmesii 44057
+path:bhm00473	D-Alanine metabolism - Bordetella holmesii 44057
+path:bhm00480	Glutathione metabolism - Bordetella holmesii 44057
+path:bhm00500	Starch and sucrose metabolism - Bordetella holmesii 44057
+path:bhm00520	Amino sugar and nucleotide sugar metabolism - Bordetella holmesii 44057
+path:bhm00521	Streptomycin biosynthesis - Bordetella holmesii 44057
+path:bhm00523	Polyketide sugar unit biosynthesis - Bordetella holmesii 44057
+path:bhm00525	Acarbose and validamycin biosynthesis - Bordetella holmesii 44057
+path:bhm00540	Lipopolysaccharide biosynthesis - Bordetella holmesii 44057
+path:bhm00550	Peptidoglycan biosynthesis - Bordetella holmesii 44057
+path:bhm00561	Glycerolipid metabolism - Bordetella holmesii 44057
+path:bhm00562	Inositol phosphate metabolism - Bordetella holmesii 44057
+path:bhm00564	Glycerophospholipid metabolism - Bordetella holmesii 44057
+path:bhm00590	Arachidonic acid metabolism - Bordetella holmesii 44057
+path:bhm00592	alpha-Linolenic acid metabolism - Bordetella holmesii 44057
+path:bhm00620	Pyruvate metabolism - Bordetella holmesii 44057
+path:bhm00622	Xylene degradation - Bordetella holmesii 44057
+path:bhm00623	Toluene degradation - Bordetella holmesii 44057
+path:bhm00625	Chloroalkane and chloroalkene degradation - Bordetella holmesii 44057
+path:bhm00626	Naphthalene degradation - Bordetella holmesii 44057
+path:bhm00627	Aminobenzoate degradation - Bordetella holmesii 44057
+path:bhm00630	Glyoxylate and dicarboxylate metabolism - Bordetella holmesii 44057
+path:bhm00640	Propanoate metabolism - Bordetella holmesii 44057
+path:bhm00643	Styrene degradation - Bordetella holmesii 44057
+path:bhm00650	Butanoate metabolism - Bordetella holmesii 44057
+path:bhm00660	C5-Branched dibasic acid metabolism - Bordetella holmesii 44057
+path:bhm00670	One carbon pool by folate - Bordetella holmesii 44057
+path:bhm00680	Methane metabolism - Bordetella holmesii 44057
+path:bhm00730	Thiamine metabolism - Bordetella holmesii 44057
+path:bhm00740	Riboflavin metabolism - Bordetella holmesii 44057
+path:bhm00750	Vitamin B6 metabolism - Bordetella holmesii 44057
+path:bhm00760	Nicotinate and nicotinamide metabolism - Bordetella holmesii 44057
+path:bhm00770	Pantothenate and CoA biosynthesis - Bordetella holmesii 44057
+path:bhm00780	Biotin metabolism - Bordetella holmesii 44057
+path:bhm00785	Lipoic acid metabolism - Bordetella holmesii 44057
+path:bhm00790	Folate biosynthesis - Bordetella holmesii 44057
+path:bhm00791	Atrazine degradation - Bordetella holmesii 44057
+path:bhm00860	Porphyrin and chlorophyll metabolism - Bordetella holmesii 44057
+path:bhm00900	Terpenoid backbone biosynthesis - Bordetella holmesii 44057
+path:bhm00903	Limonene and pinene degradation - Bordetella holmesii 44057
+path:bhm00906	Carotenoid biosynthesis - Bordetella holmesii 44057
+path:bhm00910	Nitrogen metabolism - Bordetella holmesii 44057
+path:bhm00920	Sulfur metabolism - Bordetella holmesii 44057
+path:bhm00930	Caprolactam degradation - Bordetella holmesii 44057
+path:bhm00970	Aminoacyl-tRNA biosynthesis - Bordetella holmesii 44057
+path:bhm01040	Biosynthesis of unsaturated fatty acids - Bordetella holmesii 44057
+path:bhm01054	Nonribosomal peptide structures - Bordetella holmesii 44057
+path:bhm01100	Metabolic pathways - Bordetella holmesii 44057
+path:bhm01110	Biosynthesis of secondary metabolites - Bordetella holmesii 44057
+path:bhm01120	Microbial metabolism in diverse environments - Bordetella holmesii 44057
+path:bhm01130	Biosynthesis of antibiotics - Bordetella holmesii 44057
+path:bhm01200	Carbon metabolism - Bordetella holmesii 44057
+path:bhm01210	2-Oxocarboxylic acid metabolism - Bordetella holmesii 44057
+path:bhm01212	Fatty acid metabolism - Bordetella holmesii 44057
+path:bhm01220	Degradation of aromatic compounds - Bordetella holmesii 44057
+path:bhm01230	Biosynthesis of amino acids - Bordetella holmesii 44057
+path:bhm01501	beta-Lactam resistance - Bordetella holmesii 44057
+path:bhm01502	Vancomycin resistance - Bordetella holmesii 44057
+path:bhm01503	Cationic antimicrobial peptide (CAMP) resistance - Bordetella holmesii 44057
+path:bhm02010	ABC transporters - Bordetella holmesii 44057
+path:bhm02020	Two-component system - Bordetella holmesii 44057
+path:bhm02024	Quorum sensing - Bordetella holmesii 44057
+path:bhm02030	Bacterial chemotaxis - Bordetella holmesii 44057
+path:bhm02040	Flagellar assembly - Bordetella holmesii 44057
+path:bhm02060	Phosphotransferase system (PTS) - Bordetella holmesii 44057
+path:bhm03010	Ribosome - Bordetella holmesii 44057
+path:bhm03018	RNA degradation - Bordetella holmesii 44057
+path:bhm03020	RNA polymerase - Bordetella holmesii 44057
+path:bhm03030	DNA replication - Bordetella holmesii 44057
+path:bhm03060	Protein export - Bordetella holmesii 44057
+path:bhm03070	Bacterial secretion system - Bordetella holmesii 44057
+path:bhm03410	Base excision repair - Bordetella holmesii 44057
+path:bhm03420	Nucleotide excision repair - Bordetella holmesii 44057
+path:bhm03430	Mismatch repair - Bordetella holmesii 44057
+path:bhm03440	Homologous recombination - Bordetella holmesii 44057
+path:bhm04122	Sulfur relay system - Bordetella holmesii 44057
+path:bhm05133	Pertussis - Bordetella holmesii 44057
+path:bhz00010	Glycolysis / Gluconeogenesis - Bordetella hinzii
+path:bhz00020	Citrate cycle (TCA cycle) - Bordetella hinzii
+path:bhz00030	Pentose phosphate pathway - Bordetella hinzii
+path:bhz00040	Pentose and glucuronate interconversions - Bordetella hinzii
+path:bhz00051	Fructose and mannose metabolism - Bordetella hinzii
+path:bhz00052	Galactose metabolism - Bordetella hinzii
+path:bhz00053	Ascorbate and aldarate metabolism - Bordetella hinzii
+path:bhz00061	Fatty acid biosynthesis - Bordetella hinzii
+path:bhz00071	Fatty acid degradation - Bordetella hinzii
+path:bhz00072	Synthesis and degradation of ketone bodies - Bordetella hinzii
+path:bhz00121	Secondary bile acid biosynthesis - Bordetella hinzii
+path:bhz00130	Ubiquinone and other terpenoid-quinone biosynthesis - Bordetella hinzii
+path:bhz00190	Oxidative phosphorylation - Bordetella hinzii
+path:bhz00220	Arginine biosynthesis - Bordetella hinzii
+path:bhz00230	Purine metabolism - Bordetella hinzii
+path:bhz00240	Pyrimidine metabolism - Bordetella hinzii
+path:bhz00250	Alanine, aspartate and glutamate metabolism - Bordetella hinzii
+path:bhz00260	Glycine, serine and threonine metabolism - Bordetella hinzii
+path:bhz00261	Monobactam biosynthesis - Bordetella hinzii
+path:bhz00270	Cysteine and methionine metabolism - Bordetella hinzii
+path:bhz00280	Valine, leucine and isoleucine degradation - Bordetella hinzii
+path:bhz00281	Geraniol degradation - Bordetella hinzii
+path:bhz00290	Valine, leucine and isoleucine biosynthesis - Bordetella hinzii
+path:bhz00300	Lysine biosynthesis - Bordetella hinzii
+path:bhz00310	Lysine degradation - Bordetella hinzii
+path:bhz00311	Penicillin and cephalosporin biosynthesis - Bordetella hinzii
+path:bhz00330	Arginine and proline metabolism - Bordetella hinzii
+path:bhz00332	Carbapenem biosynthesis - Bordetella hinzii
+path:bhz00340	Histidine metabolism - Bordetella hinzii
+path:bhz00350	Tyrosine metabolism - Bordetella hinzii
+path:bhz00360	Phenylalanine metabolism - Bordetella hinzii
+path:bhz00361	Chlorocyclohexane and chlorobenzene degradation - Bordetella hinzii
+path:bhz00362	Benzoate degradation - Bordetella hinzii
+path:bhz00364	Fluorobenzoate degradation - Bordetella hinzii
+path:bhz00380	Tryptophan metabolism - Bordetella hinzii
+path:bhz00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Bordetella hinzii
+path:bhz00401	Novobiocin biosynthesis - Bordetella hinzii
+path:bhz00410	beta-Alanine metabolism - Bordetella hinzii
+path:bhz00430	Taurine and hypotaurine metabolism - Bordetella hinzii
+path:bhz00440	Phosphonate and phosphinate metabolism - Bordetella hinzii
+path:bhz00450	Selenocompound metabolism - Bordetella hinzii
+path:bhz00460	Cyanoamino acid metabolism - Bordetella hinzii
+path:bhz00471	D-Glutamine and D-glutamate metabolism - Bordetella hinzii
+path:bhz00472	D-Arginine and D-ornithine metabolism - Bordetella hinzii
+path:bhz00473	D-Alanine metabolism - Bordetella hinzii
+path:bhz00480	Glutathione metabolism - Bordetella hinzii
+path:bhz00500	Starch and sucrose metabolism - Bordetella hinzii
+path:bhz00520	Amino sugar and nucleotide sugar metabolism - Bordetella hinzii
+path:bhz00521	Streptomycin biosynthesis - Bordetella hinzii
+path:bhz00523	Polyketide sugar unit biosynthesis - Bordetella hinzii
+path:bhz00525	Acarbose and validamycin biosynthesis - Bordetella hinzii
+path:bhz00540	Lipopolysaccharide biosynthesis - Bordetella hinzii
+path:bhz00550	Peptidoglycan biosynthesis - Bordetella hinzii
+path:bhz00561	Glycerolipid metabolism - Bordetella hinzii
+path:bhz00562	Inositol phosphate metabolism - Bordetella hinzii
+path:bhz00564	Glycerophospholipid metabolism - Bordetella hinzii
+path:bhz00590	Arachidonic acid metabolism - Bordetella hinzii
+path:bhz00592	alpha-Linolenic acid metabolism - Bordetella hinzii
+path:bhz00620	Pyruvate metabolism - Bordetella hinzii
+path:bhz00621	Dioxin degradation - Bordetella hinzii
+path:bhz00622	Xylene degradation - Bordetella hinzii
+path:bhz00623	Toluene degradation - Bordetella hinzii
+path:bhz00624	Polycyclic aromatic hydrocarbon degradation - Bordetella hinzii
+path:bhz00625	Chloroalkane and chloroalkene degradation - Bordetella hinzii
+path:bhz00626	Naphthalene degradation - Bordetella hinzii
+path:bhz00627	Aminobenzoate degradation - Bordetella hinzii
+path:bhz00630	Glyoxylate and dicarboxylate metabolism - Bordetella hinzii
+path:bhz00633	Nitrotoluene degradation - Bordetella hinzii
+path:bhz00640	Propanoate metabolism - Bordetella hinzii
+path:bhz00643	Styrene degradation - Bordetella hinzii
+path:bhz00650	Butanoate metabolism - Bordetella hinzii
+path:bhz00660	C5-Branched dibasic acid metabolism - Bordetella hinzii
+path:bhz00670	One carbon pool by folate - Bordetella hinzii
+path:bhz00680	Methane metabolism - Bordetella hinzii
+path:bhz00730	Thiamine metabolism - Bordetella hinzii
+path:bhz00740	Riboflavin metabolism - Bordetella hinzii
+path:bhz00750	Vitamin B6 metabolism - Bordetella hinzii
+path:bhz00760	Nicotinate and nicotinamide metabolism - Bordetella hinzii
+path:bhz00770	Pantothenate and CoA biosynthesis - Bordetella hinzii
+path:bhz00780	Biotin metabolism - Bordetella hinzii
+path:bhz00785	Lipoic acid metabolism - Bordetella hinzii
+path:bhz00790	Folate biosynthesis - Bordetella hinzii
+path:bhz00791	Atrazine degradation - Bordetella hinzii
+path:bhz00860	Porphyrin and chlorophyll metabolism - Bordetella hinzii
+path:bhz00900	Terpenoid backbone biosynthesis - Bordetella hinzii
+path:bhz00903	Limonene and pinene degradation - Bordetella hinzii
+path:bhz00906	Carotenoid biosynthesis - Bordetella hinzii
+path:bhz00910	Nitrogen metabolism - Bordetella hinzii
+path:bhz00920	Sulfur metabolism - Bordetella hinzii
+path:bhz00930	Caprolactam degradation - Bordetella hinzii
+path:bhz00970	Aminoacyl-tRNA biosynthesis - Bordetella hinzii
+path:bhz01040	Biosynthesis of unsaturated fatty acids - Bordetella hinzii
+path:bhz01054	Nonribosomal peptide structures - Bordetella hinzii
+path:bhz01100	Metabolic pathways - Bordetella hinzii
+path:bhz01110	Biosynthesis of secondary metabolites - Bordetella hinzii
+path:bhz01120	Microbial metabolism in diverse environments - Bordetella hinzii
+path:bhz01130	Biosynthesis of antibiotics - Bordetella hinzii
+path:bhz01200	Carbon metabolism - Bordetella hinzii
+path:bhz01210	2-Oxocarboxylic acid metabolism - Bordetella hinzii
+path:bhz01212	Fatty acid metabolism - Bordetella hinzii
+path:bhz01220	Degradation of aromatic compounds - Bordetella hinzii
+path:bhz01230	Biosynthesis of amino acids - Bordetella hinzii
+path:bhz01501	beta-Lactam resistance - Bordetella hinzii
+path:bhz01502	Vancomycin resistance - Bordetella hinzii
+path:bhz01503	Cationic antimicrobial peptide (CAMP) resistance - Bordetella hinzii
+path:bhz02010	ABC transporters - Bordetella hinzii
+path:bhz02020	Two-component system - Bordetella hinzii
+path:bhz02024	Quorum sensing - Bordetella hinzii
+path:bhz02030	Bacterial chemotaxis - Bordetella hinzii
+path:bhz02040	Flagellar assembly - Bordetella hinzii
+path:bhz02060	Phosphotransferase system (PTS) - Bordetella hinzii
+path:bhz03010	Ribosome - Bordetella hinzii
+path:bhz03018	RNA degradation - Bordetella hinzii
+path:bhz03020	RNA polymerase - Bordetella hinzii
+path:bhz03030	DNA replication - Bordetella hinzii
+path:bhz03060	Protein export - Bordetella hinzii
+path:bhz03070	Bacterial secretion system - Bordetella hinzii
+path:bhz03410	Base excision repair - Bordetella hinzii
+path:bhz03420	Nucleotide excision repair - Bordetella hinzii
+path:bhz03430	Mismatch repair - Bordetella hinzii
+path:bhz03440	Homologous recombination - Bordetella hinzii
+path:bhz03450	Non-homologous end-joining - Bordetella hinzii
+path:bhz04122	Sulfur relay system - Bordetella hinzii
+path:bhz05133	Pertussis - Bordetella hinzii
+path:btrm00010	Glycolysis / Gluconeogenesis - Bordetella trematum
+path:btrm00020	Citrate cycle (TCA cycle) - Bordetella trematum
+path:btrm00030	Pentose phosphate pathway - Bordetella trematum
+path:btrm00040	Pentose and glucuronate interconversions - Bordetella trematum
+path:btrm00051	Fructose and mannose metabolism - Bordetella trematum
+path:btrm00052	Galactose metabolism - Bordetella trematum
+path:btrm00053	Ascorbate and aldarate metabolism - Bordetella trematum
+path:btrm00061	Fatty acid biosynthesis - Bordetella trematum
+path:btrm00071	Fatty acid degradation - Bordetella trematum
+path:btrm00072	Synthesis and degradation of ketone bodies - Bordetella trematum
+path:btrm00121	Secondary bile acid biosynthesis - Bordetella trematum
+path:btrm00130	Ubiquinone and other terpenoid-quinone biosynthesis - Bordetella trematum
+path:btrm00190	Oxidative phosphorylation - Bordetella trematum
+path:btrm00220	Arginine biosynthesis - Bordetella trematum
+path:btrm00230	Purine metabolism - Bordetella trematum
+path:btrm00240	Pyrimidine metabolism - Bordetella trematum
+path:btrm00250	Alanine, aspartate and glutamate metabolism - Bordetella trematum
+path:btrm00260	Glycine, serine and threonine metabolism - Bordetella trematum
+path:btrm00261	Monobactam biosynthesis - Bordetella trematum
+path:btrm00270	Cysteine and methionine metabolism - Bordetella trematum
+path:btrm00280	Valine, leucine and isoleucine degradation - Bordetella trematum
+path:btrm00281	Geraniol degradation - Bordetella trematum
+path:btrm00290	Valine, leucine and isoleucine biosynthesis - Bordetella trematum
+path:btrm00300	Lysine biosynthesis - Bordetella trematum
+path:btrm00310	Lysine degradation - Bordetella trematum
+path:btrm00330	Arginine and proline metabolism - Bordetella trematum
+path:btrm00332	Carbapenem biosynthesis - Bordetella trematum
+path:btrm00340	Histidine metabolism - Bordetella trematum
+path:btrm00350	Tyrosine metabolism - Bordetella trematum
+path:btrm00360	Phenylalanine metabolism - Bordetella trematum
+path:btrm00361	Chlorocyclohexane and chlorobenzene degradation - Bordetella trematum
+path:btrm00362	Benzoate degradation - Bordetella trematum
+path:btrm00364	Fluorobenzoate degradation - Bordetella trematum
+path:btrm00380	Tryptophan metabolism - Bordetella trematum
+path:btrm00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Bordetella trematum
+path:btrm00401	Novobiocin biosynthesis - Bordetella trematum
+path:btrm00410	beta-Alanine metabolism - Bordetella trematum
+path:btrm00430	Taurine and hypotaurine metabolism - Bordetella trematum
+path:btrm00440	Phosphonate and phosphinate metabolism - Bordetella trematum
+path:btrm00450	Selenocompound metabolism - Bordetella trematum
+path:btrm00460	Cyanoamino acid metabolism - Bordetella trematum
+path:btrm00471	D-Glutamine and D-glutamate metabolism - Bordetella trematum
+path:btrm00472	D-Arginine and D-ornithine metabolism - Bordetella trematum
+path:btrm00473	D-Alanine metabolism - Bordetella trematum
+path:btrm00480	Glutathione metabolism - Bordetella trematum
+path:btrm00500	Starch and sucrose metabolism - Bordetella trematum
+path:btrm00520	Amino sugar and nucleotide sugar metabolism - Bordetella trematum
+path:btrm00521	Streptomycin biosynthesis - Bordetella trematum
+path:btrm00523	Polyketide sugar unit biosynthesis - Bordetella trematum
+path:btrm00525	Acarbose and validamycin biosynthesis - Bordetella trematum
+path:btrm00540	Lipopolysaccharide biosynthesis - Bordetella trematum
+path:btrm00550	Peptidoglycan biosynthesis - Bordetella trematum
+path:btrm00561	Glycerolipid metabolism - Bordetella trematum
+path:btrm00562	Inositol phosphate metabolism - Bordetella trematum
+path:btrm00564	Glycerophospholipid metabolism - Bordetella trematum
+path:btrm00590	Arachidonic acid metabolism - Bordetella trematum
+path:btrm00592	alpha-Linolenic acid metabolism - Bordetella trematum
+path:btrm00620	Pyruvate metabolism - Bordetella trematum
+path:btrm00622	Xylene degradation - Bordetella trematum
+path:btrm00623	Toluene degradation - Bordetella trematum
+path:btrm00625	Chloroalkane and chloroalkene degradation - Bordetella trematum
+path:btrm00626	Naphthalene degradation - Bordetella trematum
+path:btrm00627	Aminobenzoate degradation - Bordetella trematum
+path:btrm00630	Glyoxylate and dicarboxylate metabolism - Bordetella trematum
+path:btrm00633	Nitrotoluene degradation - Bordetella trematum
+path:btrm00640	Propanoate metabolism - Bordetella trematum
+path:btrm00643	Styrene degradation - Bordetella trematum
+path:btrm00650	Butanoate metabolism - Bordetella trematum
+path:btrm00660	C5-Branched dibasic acid metabolism - Bordetella trematum
+path:btrm00670	One carbon pool by folate - Bordetella trematum
+path:btrm00680	Methane metabolism - Bordetella trematum
+path:btrm00730	Thiamine metabolism - Bordetella trematum
+path:btrm00740	Riboflavin metabolism - Bordetella trematum
+path:btrm00750	Vitamin B6 metabolism - Bordetella trematum
+path:btrm00760	Nicotinate and nicotinamide metabolism - Bordetella trematum
+path:btrm00770	Pantothenate and CoA biosynthesis - Bordetella trematum
+path:btrm00780	Biotin metabolism - Bordetella trematum
+path:btrm00785	Lipoic acid metabolism - Bordetella trematum
+path:btrm00790	Folate biosynthesis - Bordetella trematum
+path:btrm00860	Porphyrin and chlorophyll metabolism - Bordetella trematum
+path:btrm00900	Terpenoid backbone biosynthesis - Bordetella trematum
+path:btrm00903	Limonene and pinene degradation - Bordetella trematum
+path:btrm00906	Carotenoid biosynthesis - Bordetella trematum
+path:btrm00910	Nitrogen metabolism - Bordetella trematum
+path:btrm00920	Sulfur metabolism - Bordetella trematum
+path:btrm00930	Caprolactam degradation - Bordetella trematum
+path:btrm00970	Aminoacyl-tRNA biosynthesis - Bordetella trematum
+path:btrm01040	Biosynthesis of unsaturated fatty acids - Bordetella trematum
+path:btrm01054	Nonribosomal peptide structures - Bordetella trematum
+path:btrm01100	Metabolic pathways - Bordetella trematum
+path:btrm01110	Biosynthesis of secondary metabolites - Bordetella trematum
+path:btrm01120	Microbial metabolism in diverse environments - Bordetella trematum
+path:btrm01130	Biosynthesis of antibiotics - Bordetella trematum
+path:btrm01200	Carbon metabolism - Bordetella trematum
+path:btrm01210	2-Oxocarboxylic acid metabolism - Bordetella trematum
+path:btrm01212	Fatty acid metabolism - Bordetella trematum
+path:btrm01220	Degradation of aromatic compounds - Bordetella trematum
+path:btrm01230	Biosynthesis of amino acids - Bordetella trematum
+path:btrm01501	beta-Lactam resistance - Bordetella trematum
+path:btrm01502	Vancomycin resistance - Bordetella trematum
+path:btrm01503	Cationic antimicrobial peptide (CAMP) resistance - Bordetella trematum
+path:btrm02010	ABC transporters - Bordetella trematum
+path:btrm02020	Two-component system - Bordetella trematum
+path:btrm02024	Quorum sensing - Bordetella trematum
+path:btrm02030	Bacterial chemotaxis - Bordetella trematum
+path:btrm02040	Flagellar assembly - Bordetella trematum
+path:btrm02060	Phosphotransferase system (PTS) - Bordetella trematum
+path:btrm03010	Ribosome - Bordetella trematum
+path:btrm03018	RNA degradation - Bordetella trematum
+path:btrm03020	RNA polymerase - Bordetella trematum
+path:btrm03030	DNA replication - Bordetella trematum
+path:btrm03060	Protein export - Bordetella trematum
+path:btrm03070	Bacterial secretion system - Bordetella trematum
+path:btrm03410	Base excision repair - Bordetella trematum
+path:btrm03420	Nucleotide excision repair - Bordetella trematum
+path:btrm03430	Mismatch repair - Bordetella trematum
+path:btrm03440	Homologous recombination - Bordetella trematum
+path:btrm04122	Sulfur relay system - Bordetella trematum
+path:btrm05133	Pertussis - Bordetella trematum
+path:bbro00010	Glycolysis / Gluconeogenesis - Bordetella bronchialis
+path:bbro00020	Citrate cycle (TCA cycle) - Bordetella bronchialis
+path:bbro00030	Pentose phosphate pathway - Bordetella bronchialis
+path:bbro00040	Pentose and glucuronate interconversions - Bordetella bronchialis
+path:bbro00051	Fructose and mannose metabolism - Bordetella bronchialis
+path:bbro00052	Galactose metabolism - Bordetella bronchialis
+path:bbro00053	Ascorbate and aldarate metabolism - Bordetella bronchialis
+path:bbro00061	Fatty acid biosynthesis - Bordetella bronchialis
+path:bbro00071	Fatty acid degradation - Bordetella bronchialis
+path:bbro00072	Synthesis and degradation of ketone bodies - Bordetella bronchialis
+path:bbro00130	Ubiquinone and other terpenoid-quinone biosynthesis - Bordetella bronchialis
+path:bbro00190	Oxidative phosphorylation - Bordetella bronchialis
+path:bbro00220	Arginine biosynthesis - Bordetella bronchialis
+path:bbro00230	Purine metabolism - Bordetella bronchialis
+path:bbro00240	Pyrimidine metabolism - Bordetella bronchialis
+path:bbro00250	Alanine, aspartate and glutamate metabolism - Bordetella bronchialis
+path:bbro00260	Glycine, serine and threonine metabolism - Bordetella bronchialis
+path:bbro00261	Monobactam biosynthesis - Bordetella bronchialis
+path:bbro00270	Cysteine and methionine metabolism - Bordetella bronchialis
+path:bbro00280	Valine, leucine and isoleucine degradation - Bordetella bronchialis
+path:bbro00281	Geraniol degradation - Bordetella bronchialis
+path:bbro00290	Valine, leucine and isoleucine biosynthesis - Bordetella bronchialis
+path:bbro00300	Lysine biosynthesis - Bordetella bronchialis
+path:bbro00310	Lysine degradation - Bordetella bronchialis
+path:bbro00311	Penicillin and cephalosporin biosynthesis - Bordetella bronchialis
+path:bbro00330	Arginine and proline metabolism - Bordetella bronchialis
+path:bbro00332	Carbapenem biosynthesis - Bordetella bronchialis
+path:bbro00340	Histidine metabolism - Bordetella bronchialis
+path:bbro00350	Tyrosine metabolism - Bordetella bronchialis
+path:bbro00360	Phenylalanine metabolism - Bordetella bronchialis
+path:bbro00361	Chlorocyclohexane and chlorobenzene degradation - Bordetella bronchialis
+path:bbro00362	Benzoate degradation - Bordetella bronchialis
+path:bbro00364	Fluorobenzoate degradation - Bordetella bronchialis
+path:bbro00365	Furfural degradation - Bordetella bronchialis
+path:bbro00380	Tryptophan metabolism - Bordetella bronchialis
+path:bbro00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Bordetella bronchialis
+path:bbro00401	Novobiocin biosynthesis - Bordetella bronchialis
+path:bbro00405	Phenazine biosynthesis - Bordetella bronchialis
+path:bbro00410	beta-Alanine metabolism - Bordetella bronchialis
+path:bbro00430	Taurine and hypotaurine metabolism - Bordetella bronchialis
+path:bbro00440	Phosphonate and phosphinate metabolism - Bordetella bronchialis
+path:bbro00450	Selenocompound metabolism - Bordetella bronchialis
+path:bbro00460	Cyanoamino acid metabolism - Bordetella bronchialis
+path:bbro00471	D-Glutamine and D-glutamate metabolism - Bordetella bronchialis
+path:bbro00472	D-Arginine and D-ornithine metabolism - Bordetella bronchialis
+path:bbro00473	D-Alanine metabolism - Bordetella bronchialis
+path:bbro00480	Glutathione metabolism - Bordetella bronchialis
+path:bbro00500	Starch and sucrose metabolism - Bordetella bronchialis
+path:bbro00520	Amino sugar and nucleotide sugar metabolism - Bordetella bronchialis
+path:bbro00521	Streptomycin biosynthesis - Bordetella bronchialis
+path:bbro00523	Polyketide sugar unit biosynthesis - Bordetella bronchialis
+path:bbro00525	Acarbose and validamycin biosynthesis - Bordetella bronchialis
+path:bbro00540	Lipopolysaccharide biosynthesis - Bordetella bronchialis
+path:bbro00550	Peptidoglycan biosynthesis - Bordetella bronchialis
+path:bbro00561	Glycerolipid metabolism - Bordetella bronchialis
+path:bbro00562	Inositol phosphate metabolism - Bordetella bronchialis
+path:bbro00564	Glycerophospholipid metabolism - Bordetella bronchialis
+path:bbro00590	Arachidonic acid metabolism - Bordetella bronchialis
+path:bbro00592	alpha-Linolenic acid metabolism - Bordetella bronchialis
+path:bbro00620	Pyruvate metabolism - Bordetella bronchialis
+path:bbro00621	Dioxin degradation - Bordetella bronchialis
+path:bbro00623	Toluene degradation - Bordetella bronchialis
+path:bbro00624	Polycyclic aromatic hydrocarbon degradation - Bordetella bronchialis
+path:bbro00625	Chloroalkane and chloroalkene degradation - Bordetella bronchialis
+path:bbro00626	Naphthalene degradation - Bordetella bronchialis
+path:bbro00627	Aminobenzoate degradation - Bordetella bronchialis
+path:bbro00630	Glyoxylate and dicarboxylate metabolism - Bordetella bronchialis
+path:bbro00633	Nitrotoluene degradation - Bordetella bronchialis
+path:bbro00640	Propanoate metabolism - Bordetella bronchialis
+path:bbro00643	Styrene degradation - Bordetella bronchialis
+path:bbro00650	Butanoate metabolism - Bordetella bronchialis
+path:bbro00660	C5-Branched dibasic acid metabolism - Bordetella bronchialis
+path:bbro00670	One carbon pool by folate - Bordetella bronchialis
+path:bbro00680	Methane metabolism - Bordetella bronchialis
+path:bbro00730	Thiamine metabolism - Bordetella bronchialis
+path:bbro00740	Riboflavin metabolism - Bordetella bronchialis
+path:bbro00750	Vitamin B6 metabolism - Bordetella bronchialis
+path:bbro00760	Nicotinate and nicotinamide metabolism - Bordetella bronchialis
+path:bbro00770	Pantothenate and CoA biosynthesis - Bordetella bronchialis
+path:bbro00780	Biotin metabolism - Bordetella bronchialis
+path:bbro00785	Lipoic acid metabolism - Bordetella bronchialis
+path:bbro00790	Folate biosynthesis - Bordetella bronchialis
+path:bbro00860	Porphyrin and chlorophyll metabolism - Bordetella bronchialis
+path:bbro00900	Terpenoid backbone biosynthesis - Bordetella bronchialis
+path:bbro00903	Limonene and pinene degradation - Bordetella bronchialis
+path:bbro00906	Carotenoid biosynthesis - Bordetella bronchialis
+path:bbro00910	Nitrogen metabolism - Bordetella bronchialis
+path:bbro00920	Sulfur metabolism - Bordetella bronchialis
+path:bbro00930	Caprolactam degradation - Bordetella bronchialis
+path:bbro00970	Aminoacyl-tRNA biosynthesis - Bordetella bronchialis
+path:bbro01040	Biosynthesis of unsaturated fatty acids - Bordetella bronchialis
+path:bbro01054	Nonribosomal peptide structures - Bordetella bronchialis
+path:bbro01100	Metabolic pathways - Bordetella bronchialis
+path:bbro01110	Biosynthesis of secondary metabolites - Bordetella bronchialis
+path:bbro01120	Microbial metabolism in diverse environments - Bordetella bronchialis
+path:bbro01130	Biosynthesis of antibiotics - Bordetella bronchialis
+path:bbro01200	Carbon metabolism - Bordetella bronchialis
+path:bbro01210	2-Oxocarboxylic acid metabolism - Bordetella bronchialis
+path:bbro01212	Fatty acid metabolism - Bordetella bronchialis
+path:bbro01220	Degradation of aromatic compounds - Bordetella bronchialis
+path:bbro01230	Biosynthesis of amino acids - Bordetella bronchialis
+path:bbro01501	beta-Lactam resistance - Bordetella bronchialis
+path:bbro01502	Vancomycin resistance - Bordetella bronchialis
+path:bbro01503	Cationic antimicrobial peptide (CAMP) resistance - Bordetella bronchialis
+path:bbro02010	ABC transporters - Bordetella bronchialis
+path:bbro02020	Two-component system - Bordetella bronchialis
+path:bbro02024	Quorum sensing - Bordetella bronchialis
+path:bbro02030	Bacterial chemotaxis - Bordetella bronchialis
+path:bbro02040	Flagellar assembly - Bordetella bronchialis
+path:bbro02060	Phosphotransferase system (PTS) - Bordetella bronchialis
+path:bbro03010	Ribosome - Bordetella bronchialis
+path:bbro03018	RNA degradation - Bordetella bronchialis
+path:bbro03020	RNA polymerase - Bordetella bronchialis
+path:bbro03030	DNA replication - Bordetella bronchialis
+path:bbro03060	Protein export - Bordetella bronchialis
+path:bbro03070	Bacterial secretion system - Bordetella bronchialis
+path:bbro03410	Base excision repair - Bordetella bronchialis
+path:bbro03420	Nucleotide excision repair - Bordetella bronchialis
+path:bbro03430	Mismatch repair - Bordetella bronchialis
+path:bbro03440	Homologous recombination - Bordetella bronchialis
+path:bbro03450	Non-homologous end-joining - Bordetella bronchialis
+path:bbro04122	Sulfur relay system - Bordetella bronchialis
+path:bbro05133	Pertussis - Bordetella bronchialis
+path:bfz00010	Glycolysis / Gluconeogenesis - Bordetella flabilis
+path:bfz00020	Citrate cycle (TCA cycle) - Bordetella flabilis
+path:bfz00030	Pentose phosphate pathway - Bordetella flabilis
+path:bfz00040	Pentose and glucuronate interconversions - Bordetella flabilis
+path:bfz00051	Fructose and mannose metabolism - Bordetella flabilis
+path:bfz00052	Galactose metabolism - Bordetella flabilis
+path:bfz00053	Ascorbate and aldarate metabolism - Bordetella flabilis
+path:bfz00061	Fatty acid biosynthesis - Bordetella flabilis
+path:bfz00071	Fatty acid degradation - Bordetella flabilis
+path:bfz00072	Synthesis and degradation of ketone bodies - Bordetella flabilis
+path:bfz00130	Ubiquinone and other terpenoid-quinone biosynthesis - Bordetella flabilis
+path:bfz00190	Oxidative phosphorylation - Bordetella flabilis
+path:bfz00220	Arginine biosynthesis - Bordetella flabilis
+path:bfz00230	Purine metabolism - Bordetella flabilis
+path:bfz00240	Pyrimidine metabolism - Bordetella flabilis
+path:bfz00250	Alanine, aspartate and glutamate metabolism - Bordetella flabilis
+path:bfz00260	Glycine, serine and threonine metabolism - Bordetella flabilis
+path:bfz00261	Monobactam biosynthesis - Bordetella flabilis
+path:bfz00270	Cysteine and methionine metabolism - Bordetella flabilis
+path:bfz00280	Valine, leucine and isoleucine degradation - Bordetella flabilis
+path:bfz00281	Geraniol degradation - Bordetella flabilis
+path:bfz00290	Valine, leucine and isoleucine biosynthesis - Bordetella flabilis
+path:bfz00300	Lysine biosynthesis - Bordetella flabilis
+path:bfz00310	Lysine degradation - Bordetella flabilis
+path:bfz00311	Penicillin and cephalosporin biosynthesis - Bordetella flabilis
+path:bfz00330	Arginine and proline metabolism - Bordetella flabilis
+path:bfz00332	Carbapenem biosynthesis - Bordetella flabilis
+path:bfz00340	Histidine metabolism - Bordetella flabilis
+path:bfz00350	Tyrosine metabolism - Bordetella flabilis
+path:bfz00360	Phenylalanine metabolism - Bordetella flabilis
+path:bfz00361	Chlorocyclohexane and chlorobenzene degradation - Bordetella flabilis
+path:bfz00362	Benzoate degradation - Bordetella flabilis
+path:bfz00364	Fluorobenzoate degradation - Bordetella flabilis
+path:bfz00365	Furfural degradation - Bordetella flabilis
+path:bfz00380	Tryptophan metabolism - Bordetella flabilis
+path:bfz00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Bordetella flabilis
+path:bfz00401	Novobiocin biosynthesis - Bordetella flabilis
+path:bfz00405	Phenazine biosynthesis - Bordetella flabilis
+path:bfz00410	beta-Alanine metabolism - Bordetella flabilis
+path:bfz00430	Taurine and hypotaurine metabolism - Bordetella flabilis
+path:bfz00440	Phosphonate and phosphinate metabolism - Bordetella flabilis
+path:bfz00450	Selenocompound metabolism - Bordetella flabilis
+path:bfz00460	Cyanoamino acid metabolism - Bordetella flabilis
+path:bfz00471	D-Glutamine and D-glutamate metabolism - Bordetella flabilis
+path:bfz00472	D-Arginine and D-ornithine metabolism - Bordetella flabilis
+path:bfz00473	D-Alanine metabolism - Bordetella flabilis
+path:bfz00480	Glutathione metabolism - Bordetella flabilis
+path:bfz00500	Starch and sucrose metabolism - Bordetella flabilis
+path:bfz00520	Amino sugar and nucleotide sugar metabolism - Bordetella flabilis
+path:bfz00521	Streptomycin biosynthesis - Bordetella flabilis
+path:bfz00523	Polyketide sugar unit biosynthesis - Bordetella flabilis
+path:bfz00525	Acarbose and validamycin biosynthesis - Bordetella flabilis
+path:bfz00540	Lipopolysaccharide biosynthesis - Bordetella flabilis
+path:bfz00550	Peptidoglycan biosynthesis - Bordetella flabilis
+path:bfz00561	Glycerolipid metabolism - Bordetella flabilis
+path:bfz00562	Inositol phosphate metabolism - Bordetella flabilis
+path:bfz00564	Glycerophospholipid metabolism - Bordetella flabilis
+path:bfz00590	Arachidonic acid metabolism - Bordetella flabilis
+path:bfz00592	alpha-Linolenic acid metabolism - Bordetella flabilis
+path:bfz00620	Pyruvate metabolism - Bordetella flabilis
+path:bfz00621	Dioxin degradation - Bordetella flabilis
+path:bfz00622	Xylene degradation - Bordetella flabilis
+path:bfz00623	Toluene degradation - Bordetella flabilis
+path:bfz00624	Polycyclic aromatic hydrocarbon degradation - Bordetella flabilis
+path:bfz00625	Chloroalkane and chloroalkene degradation - Bordetella flabilis
+path:bfz00626	Naphthalene degradation - Bordetella flabilis
+path:bfz00627	Aminobenzoate degradation - Bordetella flabilis
+path:bfz00630	Glyoxylate and dicarboxylate metabolism - Bordetella flabilis
+path:bfz00633	Nitrotoluene degradation - Bordetella flabilis
+path:bfz00640	Propanoate metabolism - Bordetella flabilis
+path:bfz00643	Styrene degradation - Bordetella flabilis
+path:bfz00650	Butanoate metabolism - Bordetella flabilis
+path:bfz00660	C5-Branched dibasic acid metabolism - Bordetella flabilis
+path:bfz00670	One carbon pool by folate - Bordetella flabilis
+path:bfz00680	Methane metabolism - Bordetella flabilis
+path:bfz00730	Thiamine metabolism - Bordetella flabilis
+path:bfz00740	Riboflavin metabolism - Bordetella flabilis
+path:bfz00750	Vitamin B6 metabolism - Bordetella flabilis
+path:bfz00760	Nicotinate and nicotinamide metabolism - Bordetella flabilis
+path:bfz00770	Pantothenate and CoA biosynthesis - Bordetella flabilis
+path:bfz00780	Biotin metabolism - Bordetella flabilis
+path:bfz00785	Lipoic acid metabolism - Bordetella flabilis
+path:bfz00790	Folate biosynthesis - Bordetella flabilis
+path:bfz00860	Porphyrin and chlorophyll metabolism - Bordetella flabilis
+path:bfz00900	Terpenoid backbone biosynthesis - Bordetella flabilis
+path:bfz00903	Limonene and pinene degradation - Bordetella flabilis
+path:bfz00906	Carotenoid biosynthesis - Bordetella flabilis
+path:bfz00910	Nitrogen metabolism - Bordetella flabilis
+path:bfz00920	Sulfur metabolism - Bordetella flabilis
+path:bfz00930	Caprolactam degradation - Bordetella flabilis
+path:bfz00970	Aminoacyl-tRNA biosynthesis - Bordetella flabilis
+path:bfz01040	Biosynthesis of unsaturated fatty acids - Bordetella flabilis
+path:bfz01054	Nonribosomal peptide structures - Bordetella flabilis
+path:bfz01100	Metabolic pathways - Bordetella flabilis
+path:bfz01110	Biosynthesis of secondary metabolites - Bordetella flabilis
+path:bfz01120	Microbial metabolism in diverse environments - Bordetella flabilis
+path:bfz01130	Biosynthesis of antibiotics - Bordetella flabilis
+path:bfz01200	Carbon metabolism - Bordetella flabilis
+path:bfz01210	2-Oxocarboxylic acid metabolism - Bordetella flabilis
+path:bfz01212	Fatty acid metabolism - Bordetella flabilis
+path:bfz01220	Degradation of aromatic compounds - Bordetella flabilis
+path:bfz01230	Biosynthesis of amino acids - Bordetella flabilis
+path:bfz01501	beta-Lactam resistance - Bordetella flabilis
+path:bfz01502	Vancomycin resistance - Bordetella flabilis
+path:bfz01503	Cationic antimicrobial peptide (CAMP) resistance - Bordetella flabilis
+path:bfz02010	ABC transporters - Bordetella flabilis
+path:bfz02020	Two-component system - Bordetella flabilis
+path:bfz02024	Quorum sensing - Bordetella flabilis
+path:bfz02030	Bacterial chemotaxis - Bordetella flabilis
+path:bfz02040	Flagellar assembly - Bordetella flabilis
+path:bfz02060	Phosphotransferase system (PTS) - Bordetella flabilis
+path:bfz03010	Ribosome - Bordetella flabilis
+path:bfz03018	RNA degradation - Bordetella flabilis
+path:bfz03020	RNA polymerase - Bordetella flabilis
+path:bfz03030	DNA replication - Bordetella flabilis
+path:bfz03060	Protein export - Bordetella flabilis
+path:bfz03070	Bacterial secretion system - Bordetella flabilis
+path:bfz03410	Base excision repair - Bordetella flabilis
+path:bfz03420	Nucleotide excision repair - Bordetella flabilis
+path:bfz03430	Mismatch repair - Bordetella flabilis
+path:bfz03440	Homologous recombination - Bordetella flabilis
+path:bfz03450	Non-homologous end-joining - Bordetella flabilis
+path:bfz04122	Sulfur relay system - Bordetella flabilis
+path:bfz05133	Pertussis - Bordetella flabilis
+path:bpdz00010	Glycolysis / Gluconeogenesis - Bordetella pseudohinzii
+path:bpdz00020	Citrate cycle (TCA cycle) - Bordetella pseudohinzii
+path:bpdz00030	Pentose phosphate pathway - Bordetella pseudohinzii
+path:bpdz00040	Pentose and glucuronate interconversions - Bordetella pseudohinzii
+path:bpdz00051	Fructose and mannose metabolism - Bordetella pseudohinzii
+path:bpdz00052	Galactose metabolism - Bordetella pseudohinzii
+path:bpdz00053	Ascorbate and aldarate metabolism - Bordetella pseudohinzii
+path:bpdz00061	Fatty acid biosynthesis - Bordetella pseudohinzii
+path:bpdz00071	Fatty acid degradation - Bordetella pseudohinzii
+path:bpdz00072	Synthesis and degradation of ketone bodies - Bordetella pseudohinzii
+path:bpdz00130	Ubiquinone and other terpenoid-quinone biosynthesis - Bordetella pseudohinzii
+path:bpdz00190	Oxidative phosphorylation - Bordetella pseudohinzii
+path:bpdz00220	Arginine biosynthesis - Bordetella pseudohinzii
+path:bpdz00230	Purine metabolism - Bordetella pseudohinzii
+path:bpdz00240	Pyrimidine metabolism - Bordetella pseudohinzii
+path:bpdz00250	Alanine, aspartate and glutamate metabolism - Bordetella pseudohinzii
+path:bpdz00260	Glycine, serine and threonine metabolism - Bordetella pseudohinzii
+path:bpdz00261	Monobactam biosynthesis - Bordetella pseudohinzii
+path:bpdz00270	Cysteine and methionine metabolism - Bordetella pseudohinzii
+path:bpdz00280	Valine, leucine and isoleucine degradation - Bordetella pseudohinzii
+path:bpdz00281	Geraniol degradation - Bordetella pseudohinzii
+path:bpdz00290	Valine, leucine and isoleucine biosynthesis - Bordetella pseudohinzii
+path:bpdz00300	Lysine biosynthesis - Bordetella pseudohinzii
+path:bpdz00310	Lysine degradation - Bordetella pseudohinzii
+path:bpdz00311	Penicillin and cephalosporin biosynthesis - Bordetella pseudohinzii
+path:bpdz00330	Arginine and proline metabolism - Bordetella pseudohinzii
+path:bpdz00332	Carbapenem biosynthesis - Bordetella pseudohinzii
+path:bpdz00340	Histidine metabolism - Bordetella pseudohinzii
+path:bpdz00350	Tyrosine metabolism - Bordetella pseudohinzii
+path:bpdz00360	Phenylalanine metabolism - Bordetella pseudohinzii
+path:bpdz00361	Chlorocyclohexane and chlorobenzene degradation - Bordetella pseudohinzii
+path:bpdz00362	Benzoate degradation - Bordetella pseudohinzii
+path:bpdz00364	Fluorobenzoate degradation - Bordetella pseudohinzii
+path:bpdz00380	Tryptophan metabolism - Bordetella pseudohinzii
+path:bpdz00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Bordetella pseudohinzii
+path:bpdz00401	Novobiocin biosynthesis - Bordetella pseudohinzii
+path:bpdz00410	beta-Alanine metabolism - Bordetella pseudohinzii
+path:bpdz00430	Taurine and hypotaurine metabolism - Bordetella pseudohinzii
+path:bpdz00440	Phosphonate and phosphinate metabolism - Bordetella pseudohinzii
+path:bpdz00450	Selenocompound metabolism - Bordetella pseudohinzii
+path:bpdz00460	Cyanoamino acid metabolism - Bordetella pseudohinzii
+path:bpdz00471	D-Glutamine and D-glutamate metabolism - Bordetella pseudohinzii
+path:bpdz00472	D-Arginine and D-ornithine metabolism - Bordetella pseudohinzii
+path:bpdz00473	D-Alanine metabolism - Bordetella pseudohinzii
+path:bpdz00480	Glutathione metabolism - Bordetella pseudohinzii
+path:bpdz00500	Starch and sucrose metabolism - Bordetella pseudohinzii
+path:bpdz00520	Amino sugar and nucleotide sugar metabolism - Bordetella pseudohinzii
+path:bpdz00521	Streptomycin biosynthesis - Bordetella pseudohinzii
+path:bpdz00523	Polyketide sugar unit biosynthesis - Bordetella pseudohinzii
+path:bpdz00525	Acarbose and validamycin biosynthesis - Bordetella pseudohinzii
+path:bpdz00540	Lipopolysaccharide biosynthesis - Bordetella pseudohinzii
+path:bpdz00550	Peptidoglycan biosynthesis - Bordetella pseudohinzii
+path:bpdz00561	Glycerolipid metabolism - Bordetella pseudohinzii
+path:bpdz00562	Inositol phosphate metabolism - Bordetella pseudohinzii
+path:bpdz00564	Glycerophospholipid metabolism - Bordetella pseudohinzii
+path:bpdz00590	Arachidonic acid metabolism - Bordetella pseudohinzii
+path:bpdz00592	alpha-Linolenic acid metabolism - Bordetella pseudohinzii
+path:bpdz00620	Pyruvate metabolism - Bordetella pseudohinzii
+path:bpdz00621	Dioxin degradation - Bordetella pseudohinzii
+path:bpdz00622	Xylene degradation - Bordetella pseudohinzii
+path:bpdz00623	Toluene degradation - Bordetella pseudohinzii
+path:bpdz00624	Polycyclic aromatic hydrocarbon degradation - Bordetella pseudohinzii
+path:bpdz00625	Chloroalkane and chloroalkene degradation - Bordetella pseudohinzii
+path:bpdz00626	Naphthalene degradation - Bordetella pseudohinzii
+path:bpdz00627	Aminobenzoate degradation - Bordetella pseudohinzii
+path:bpdz00630	Glyoxylate and dicarboxylate metabolism - Bordetella pseudohinzii
+path:bpdz00633	Nitrotoluene degradation - Bordetella pseudohinzii
+path:bpdz00640	Propanoate metabolism - Bordetella pseudohinzii
+path:bpdz00643	Styrene degradation - Bordetella pseudohinzii
+path:bpdz00650	Butanoate metabolism - Bordetella pseudohinzii
+path:bpdz00660	C5-Branched dibasic acid metabolism - Bordetella pseudohinzii
+path:bpdz00670	One carbon pool by folate - Bordetella pseudohinzii
+path:bpdz00680	Methane metabolism - Bordetella pseudohinzii
+path:bpdz00730	Thiamine metabolism - Bordetella pseudohinzii
+path:bpdz00740	Riboflavin metabolism - Bordetella pseudohinzii
+path:bpdz00750	Vitamin B6 metabolism - Bordetella pseudohinzii
+path:bpdz00760	Nicotinate and nicotinamide metabolism - Bordetella pseudohinzii
+path:bpdz00770	Pantothenate and CoA biosynthesis - Bordetella pseudohinzii
+path:bpdz00780	Biotin metabolism - Bordetella pseudohinzii
+path:bpdz00785	Lipoic acid metabolism - Bordetella pseudohinzii
+path:bpdz00790	Folate biosynthesis - Bordetella pseudohinzii
+path:bpdz00791	Atrazine degradation - Bordetella pseudohinzii
+path:bpdz00860	Porphyrin and chlorophyll metabolism - Bordetella pseudohinzii
+path:bpdz00900	Terpenoid backbone biosynthesis - Bordetella pseudohinzii
+path:bpdz00903	Limonene and pinene degradation - Bordetella pseudohinzii
+path:bpdz00906	Carotenoid biosynthesis - Bordetella pseudohinzii
+path:bpdz00910	Nitrogen metabolism - Bordetella pseudohinzii
+path:bpdz00920	Sulfur metabolism - Bordetella pseudohinzii
+path:bpdz00930	Caprolactam degradation - Bordetella pseudohinzii
+path:bpdz00970	Aminoacyl-tRNA biosynthesis - Bordetella pseudohinzii
+path:bpdz01040	Biosynthesis of unsaturated fatty acids - Bordetella pseudohinzii
+path:bpdz01054	Nonribosomal peptide structures - Bordetella pseudohinzii
+path:bpdz01100	Metabolic pathways - Bordetella pseudohinzii
+path:bpdz01110	Biosynthesis of secondary metabolites - Bordetella pseudohinzii
+path:bpdz01120	Microbial metabolism in diverse environments - Bordetella pseudohinzii
+path:bpdz01130	Biosynthesis of antibiotics - Bordetella pseudohinzii
+path:bpdz01200	Carbon metabolism - Bordetella pseudohinzii
+path:bpdz01210	2-Oxocarboxylic acid metabolism - Bordetella pseudohinzii
+path:bpdz01212	Fatty acid metabolism - Bordetella pseudohinzii
+path:bpdz01220	Degradation of aromatic compounds - Bordetella pseudohinzii
+path:bpdz01230	Biosynthesis of amino acids - Bordetella pseudohinzii
+path:bpdz01501	beta-Lactam resistance - Bordetella pseudohinzii
+path:bpdz01502	Vancomycin resistance - Bordetella pseudohinzii
+path:bpdz01503	Cationic antimicrobial peptide (CAMP) resistance - Bordetella pseudohinzii
+path:bpdz02010	ABC transporters - Bordetella pseudohinzii
+path:bpdz02020	Two-component system - Bordetella pseudohinzii
+path:bpdz02024	Quorum sensing - Bordetella pseudohinzii
+path:bpdz02030	Bacterial chemotaxis - Bordetella pseudohinzii
+path:bpdz02040	Flagellar assembly - Bordetella pseudohinzii
+path:bpdz02060	Phosphotransferase system (PTS) - Bordetella pseudohinzii
+path:bpdz03010	Ribosome - Bordetella pseudohinzii
+path:bpdz03018	RNA degradation - Bordetella pseudohinzii
+path:bpdz03020	RNA polymerase - Bordetella pseudohinzii
+path:bpdz03030	DNA replication - Bordetella pseudohinzii
+path:bpdz03060	Protein export - Bordetella pseudohinzii
+path:bpdz03070	Bacterial secretion system - Bordetella pseudohinzii
+path:bpdz03410	Base excision repair - Bordetella pseudohinzii
+path:bpdz03420	Nucleotide excision repair - Bordetella pseudohinzii
+path:bpdz03430	Mismatch repair - Bordetella pseudohinzii
+path:bpdz03440	Homologous recombination - Bordetella pseudohinzii
+path:bpdz04122	Sulfur relay system - Bordetella pseudohinzii
+path:bpdz05133	Pertussis - Bordetella pseudohinzii
+path:boh00010	Glycolysis / Gluconeogenesis - Bordetella sp. H567
+path:boh00020	Citrate cycle (TCA cycle) - Bordetella sp. H567
+path:boh00030	Pentose phosphate pathway - Bordetella sp. H567
+path:boh00040	Pentose and glucuronate interconversions - Bordetella sp. H567
+path:boh00051	Fructose and mannose metabolism - Bordetella sp. H567
+path:boh00052	Galactose metabolism - Bordetella sp. H567
+path:boh00053	Ascorbate and aldarate metabolism - Bordetella sp. H567
+path:boh00061	Fatty acid biosynthesis - Bordetella sp. H567
+path:boh00071	Fatty acid degradation - Bordetella sp. H567
+path:boh00072	Synthesis and degradation of ketone bodies - Bordetella sp. H567
+path:boh00130	Ubiquinone and other terpenoid-quinone biosynthesis - Bordetella sp. H567
+path:boh00190	Oxidative phosphorylation - Bordetella sp. H567
+path:boh00220	Arginine biosynthesis - Bordetella sp. H567
+path:boh00230	Purine metabolism - Bordetella sp. H567
+path:boh00240	Pyrimidine metabolism - Bordetella sp. H567
+path:boh00250	Alanine, aspartate and glutamate metabolism - Bordetella sp. H567
+path:boh00260	Glycine, serine and threonine metabolism - Bordetella sp. H567
+path:boh00261	Monobactam biosynthesis - Bordetella sp. H567
+path:boh00270	Cysteine and methionine metabolism - Bordetella sp. H567
+path:boh00280	Valine, leucine and isoleucine degradation - Bordetella sp. H567
+path:boh00281	Geraniol degradation - Bordetella sp. H567
+path:boh00290	Valine, leucine and isoleucine biosynthesis - Bordetella sp. H567
+path:boh00300	Lysine biosynthesis - Bordetella sp. H567
+path:boh00310	Lysine degradation - Bordetella sp. H567
+path:boh00311	Penicillin and cephalosporin biosynthesis - Bordetella sp. H567
+path:boh00330	Arginine and proline metabolism - Bordetella sp. H567
+path:boh00332	Carbapenem biosynthesis - Bordetella sp. H567
+path:boh00340	Histidine metabolism - Bordetella sp. H567
+path:boh00350	Tyrosine metabolism - Bordetella sp. H567
+path:boh00360	Phenylalanine metabolism - Bordetella sp. H567
+path:boh00361	Chlorocyclohexane and chlorobenzene degradation - Bordetella sp. H567
+path:boh00362	Benzoate degradation - Bordetella sp. H567
+path:boh00364	Fluorobenzoate degradation - Bordetella sp. H567
+path:boh00365	Furfural degradation - Bordetella sp. H567
+path:boh00380	Tryptophan metabolism - Bordetella sp. H567
+path:boh00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Bordetella sp. H567
+path:boh00401	Novobiocin biosynthesis - Bordetella sp. H567
+path:boh00405	Phenazine biosynthesis - Bordetella sp. H567
+path:boh00410	beta-Alanine metabolism - Bordetella sp. H567
+path:boh00430	Taurine and hypotaurine metabolism - Bordetella sp. H567
+path:boh00440	Phosphonate and phosphinate metabolism - Bordetella sp. H567
+path:boh00450	Selenocompound metabolism - Bordetella sp. H567
+path:boh00460	Cyanoamino acid metabolism - Bordetella sp. H567
+path:boh00471	D-Glutamine and D-glutamate metabolism - Bordetella sp. H567
+path:boh00472	D-Arginine and D-ornithine metabolism - Bordetella sp. H567
+path:boh00473	D-Alanine metabolism - Bordetella sp. H567
+path:boh00480	Glutathione metabolism - Bordetella sp. H567
+path:boh00500	Starch and sucrose metabolism - Bordetella sp. H567
+path:boh00520	Amino sugar and nucleotide sugar metabolism - Bordetella sp. H567
+path:boh00521	Streptomycin biosynthesis - Bordetella sp. H567
+path:boh00523	Polyketide sugar unit biosynthesis - Bordetella sp. H567
+path:boh00525	Acarbose and validamycin biosynthesis - Bordetella sp. H567
+path:boh00540	Lipopolysaccharide biosynthesis - Bordetella sp. H567
+path:boh00550	Peptidoglycan biosynthesis - Bordetella sp. H567
+path:boh00561	Glycerolipid metabolism - Bordetella sp. H567
+path:boh00562	Inositol phosphate metabolism - Bordetella sp. H567
+path:boh00564	Glycerophospholipid metabolism - Bordetella sp. H567
+path:boh00590	Arachidonic acid metabolism - Bordetella sp. H567
+path:boh00592	alpha-Linolenic acid metabolism - Bordetella sp. H567
+path:boh00620	Pyruvate metabolism - Bordetella sp. H567
+path:boh00621	Dioxin degradation - Bordetella sp. H567
+path:boh00623	Toluene degradation - Bordetella sp. H567
+path:boh00624	Polycyclic aromatic hydrocarbon degradation - Bordetella sp. H567
+path:boh00625	Chloroalkane and chloroalkene degradation - Bordetella sp. H567
+path:boh00626	Naphthalene degradation - Bordetella sp. H567
+path:boh00627	Aminobenzoate degradation - Bordetella sp. H567
+path:boh00630	Glyoxylate and dicarboxylate metabolism - Bordetella sp. H567
+path:boh00633	Nitrotoluene degradation - Bordetella sp. H567
+path:boh00640	Propanoate metabolism - Bordetella sp. H567
+path:boh00643	Styrene degradation - Bordetella sp. H567
+path:boh00650	Butanoate metabolism - Bordetella sp. H567
+path:boh00660	C5-Branched dibasic acid metabolism - Bordetella sp. H567
+path:boh00670	One carbon pool by folate - Bordetella sp. H567
+path:boh00680	Methane metabolism - Bordetella sp. H567
+path:boh00730	Thiamine metabolism - Bordetella sp. H567
+path:boh00740	Riboflavin metabolism - Bordetella sp. H567
+path:boh00750	Vitamin B6 metabolism - Bordetella sp. H567
+path:boh00760	Nicotinate and nicotinamide metabolism - Bordetella sp. H567
+path:boh00770	Pantothenate and CoA biosynthesis - Bordetella sp. H567
+path:boh00780	Biotin metabolism - Bordetella sp. H567
+path:boh00785	Lipoic acid metabolism - Bordetella sp. H567
+path:boh00790	Folate biosynthesis - Bordetella sp. H567
+path:boh00860	Porphyrin and chlorophyll metabolism - Bordetella sp. H567
+path:boh00900	Terpenoid backbone biosynthesis - Bordetella sp. H567
+path:boh00903	Limonene and pinene degradation - Bordetella sp. H567
+path:boh00906	Carotenoid biosynthesis - Bordetella sp. H567
+path:boh00910	Nitrogen metabolism - Bordetella sp. H567
+path:boh00920	Sulfur metabolism - Bordetella sp. H567
+path:boh00930	Caprolactam degradation - Bordetella sp. H567
+path:boh00970	Aminoacyl-tRNA biosynthesis - Bordetella sp. H567
+path:boh01040	Biosynthesis of unsaturated fatty acids - Bordetella sp. H567
+path:boh01054	Nonribosomal peptide structures - Bordetella sp. H567
+path:boh01100	Metabolic pathways - Bordetella sp. H567
+path:boh01110	Biosynthesis of secondary metabolites - Bordetella sp. H567
+path:boh01120	Microbial metabolism in diverse environments - Bordetella sp. H567
+path:boh01130	Biosynthesis of antibiotics - Bordetella sp. H567
+path:boh01200	Carbon metabolism - Bordetella sp. H567
+path:boh01210	2-Oxocarboxylic acid metabolism - Bordetella sp. H567
+path:boh01212	Fatty acid metabolism - Bordetella sp. H567
+path:boh01220	Degradation of aromatic compounds - Bordetella sp. H567
+path:boh01230	Biosynthesis of amino acids - Bordetella sp. H567
+path:boh01501	beta-Lactam resistance - Bordetella sp. H567
+path:boh01502	Vancomycin resistance - Bordetella sp. H567
+path:boh01503	Cationic antimicrobial peptide (CAMP) resistance - Bordetella sp. H567
+path:boh02010	ABC transporters - Bordetella sp. H567
+path:boh02020	Two-component system - Bordetella sp. H567
+path:boh02024	Quorum sensing - Bordetella sp. H567
+path:boh02030	Bacterial chemotaxis - Bordetella sp. H567
+path:boh02040	Flagellar assembly - Bordetella sp. H567
+path:boh02060	Phosphotransferase system (PTS) - Bordetella sp. H567
+path:boh03010	Ribosome - Bordetella sp. H567
+path:boh03018	RNA degradation - Bordetella sp. H567
+path:boh03020	RNA polymerase - Bordetella sp. H567
+path:boh03030	DNA replication - Bordetella sp. H567
+path:boh03060	Protein export - Bordetella sp. H567
+path:boh03070	Bacterial secretion system - Bordetella sp. H567
+path:boh03410	Base excision repair - Bordetella sp. H567
+path:boh03420	Nucleotide excision repair - Bordetella sp. H567
+path:boh03430	Mismatch repair - Bordetella sp. H567
+path:boh03440	Homologous recombination - Bordetella sp. H567
+path:boh03450	Non-homologous end-joining - Bordetella sp. H567
+path:boh04122	Sulfur relay system - Bordetella sp. H567
+path:boh05133	Pertussis - Bordetella sp. H567

@@ -1,0 +1,393 @@
+<html>
+<!---
+ENTRY       ko04139
+DEFINITION  Mitophagy - yeast
+--->
+<head>
+<title>
+KEGG PATHWAY: Mitophagy - yeast
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Mitophagy - yeast</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=04139&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map04139.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko04139">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko04139&format=kgml">Download KGML</a>
+| <a id="descLink" href="javascript:switchDescription()">Show description</a>
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+<table id="description" cellpadding="10" width="800" style="display: none;"><tr><td>
+Mitophagy, which refers to the selective elimination of impaired or excessive mitochondria, is considered to be the main mechanism for mitochondria quality and quantity control. In yeast, oxidative stress or inhibition of TOR induces expression of Agt32, the indispensable mitochondrial outer membrane receptor. Direct phosphorylation of Atg32 by CK2 triggers mitophagy, and two mitogen-activated protein kinase (MAPK) signal transduction pathways are also important in this process. Atg11 is an adaptor protein for selective autophagy, and recruits the cargo to the phagophore assembly site (PAS), where the autophagosome is generated. Then Atg32-Atg8 interaction enhances the formation of the autophagosome surrounding the mitochondria, which finally fuses with vacuoles for degradation. Atg32-Atg11 interaction may also be regulated by Yme1-mediated processing of Atg32, as well as by mitochondrial fission machinery. Some factors have been suggested to positively or negatively regulate the mitophagy via different mechanisms, including Atg1, Atg33, Mss4, Fmc1, Mdm38, Mip1, and Ubp3-Bre5 deubiquitination complex.</td></tr></table>
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="sce">Saccharomyces cerevisiae (budding yeast)</option>
+<option value="ago">Ashbya gossypii (Eremothecium gossypii)</option>
+<option value="erc">Eremothecium cymbalariae</option>
+<option value="kla">Kluyveromyces lactis</option>
+<option value="lth">Lachancea thermotolerans</option>
+<option value="vpo">Vanderwaltozyma polyspora</option>
+<option value="zro">Zygosaccharomyces rouxii</option>
+<option value="cgr">Candida glabrata</option>
+<option value="ncs">Naumovozyma castellii</option>
+<option value="ndi">Naumovozyma dairenensis</option>
+<option value="tpf">Tetrapisispora phaffii</option>
+<option value="tbl">Tetrapisispora blattae</option>
+<option value="tdl">Torulaspora delbrueckii</option>
+<option value="kaf">Kazachstania africana</option>
+<option value="ppa">Komagataella phaffii</option>
+<option value="dha">Debaryomyces hansenii</option>
+<option value="pic">Scheffersomyces stipitis</option>
+<option value="pgu">Meyerozyma guilliermondii</option>
+<option value="spaa">Spathaspora passalidarum</option>
+<option value="lel">Lodderomyces elongisporus</option>
+<option value="cal">Candida albicans</option>
+<option value="ctp">Candida tropicalis</option>
+<option value="cot">Candida orthopsilosis</option>
+<option value="cdu">Candida dubliniensis</option>
+<option value="cten">Candida tenuis</option>
+<option value="yli">Yarrowia lipolytica</option>
+<option value="clu">Clavispora lusitaniae</option>
+<option value="caur">Candida auris</option>
+<option value="ncr">Neurospora crassa</option>
+<option value="nte">Neurospora tetrasperma</option>
+<option value="smp">Sordaria macrospora</option>
+<option value="pan">Podospora anserina</option>
+<option value="ttt">Thielavia terrestris</option>
+<option value="mtm">Thermothelomyces thermophila</option>
+<option value="cthr">Chaetomium thermophilum</option>
+<option value="mgr">Magnaporthe oryzae</option>
+<option value="tmn">Phaeoacremonium minimum</option>
+<option value="fgr">Fusarium graminearum</option>
+<option value="fpu">Fusarium pseudograminearum</option>
+<option value="fvr">Fusarium verticillioides</option>
+<option value="fox">Fusarium oxysporum</option>
+<option value="nhe">Nectria haematococca</option>
+<option value="tre">Trichoderma reesei</option>
+<option value="maw">Metarhizium acridum</option>
+<option value="maj">Metarhizium robertsii</option>
+<option value="cmt">Cordyceps militaris</option>
+<option value="plj">Purpureocillium lilacinum</option>
+<option value="val">Verticillium alfalfae</option>
+<option value="vda">Verticillium dahliae</option>
+<option value="cfj">Colletotrichum fioriniae</option>
+<option value="ela">Eutypa lata</option>
+<option value="pfy">Pestalotiopsis fici</option>
+<option value="ssl">Sclerotinia sclerotiorum</option>
+<option value="bfu">Botrytis cinerea</option>
+<option value="mbe">Marssonina brunnea</option>
+<option value="psco">Phialocephala scopiformis</option>
+<option value="glz">Glarea lozoyensis</option>
+<option value="ani">Aspergillus nidulans</option>
+<option value="afm">Aspergillus fumigatus</option>
+<option value="aor">Aspergillus oryzae</option>
+<option value="ang">Aspergillus niger</option>
+<option value="afv">Aspergillus flavus</option>
+<option value="act">Aspergillus clavatus</option>
+<option value="nfi">Aspergillus fischeri</option>
+<option value="pcs">Penicillium rubens</option>
+<option value="pdp">Penicillium digitatum</option>
+<option value="cim">Coccidioides immitis</option>
+<option value="cpw">Coccidioides posadasii</option>
+<option value="pbl">Paracoccidioides lutzii Pb01</option>
+<option value="pbn">Paracoccidioides brasiliensis Pb18</option>
+<option value="ure">Uncinocarpus reesii</option>
+<option value="abe">Trichophyton benhamiae</option>
+<option value="tve">Trichophyton verrucosum</option>
+<option value="aje">Histoplasma capsulatum</option>
+<option value="pno">Parastagonospora nodorum</option>
+<option value="pte">Pyrenophora teres</option>
+<option value="bze">Bipolaris zeicola</option>
+<option value="bsc">Bipolaris sorokiniana</option>
+<option value="bor">Bipolaris oryzae</option>
+<option value="ztr">Zymoseptoria tritici</option>
+<option value="pfj">Pseudocercospora fijiensis</option>
+<option value="bcom">Baudoinia panamericana</option>
+<option value="npa">Neofusicoccum parvum</option>
+<option value="tml">Tuber melanosporum</option>
+<option value="spo">Schizosaccharomyces pombe (fission yeast)</option>
+<option value="cne">Cryptococcus neoformans JEC21</option>
+<option value="cnb">Cryptococcus neoformans var. neoformans B-3501A</option>
+<option value="cgi">Cryptococcus gattii</option>
+<option value="tms">Tremella mesenterica</option>
+<option value="ppl">Postia placenta</option>
+<option value="tvs">Trametes versicolor</option>
+<option value="dsq">Dichomitus squalens</option>
+<option value="pco">Phanerochaete carnosa</option>
+<option value="shs">Stereum hirsutum</option>
+<option value="hir">Heterobasidion irregulare</option>
+<option value="psq">Punctularia strigosozonata</option>
+<option value="adl">Auricularia subglabra</option>
+<option value="fme">Fomitiporia mediterranea</option>
+<option value="gtr">Gloeophyllum trabeum</option>
+<option value="lbc">Laccaria bicolor</option>
+<option value="mpr">Moniliophthora perniciosa</option>
+<option value="mrr">Moniliophthora roreri</option>
+<option value="cci">Coprinopsis cinerea</option>
+<option value="scm">Schizophyllum commune</option>
+<option value="abp">Agaricus bisporus var. burnettii JB137-S8</option>
+<option value="abv">Agaricus bisporus var. bisporus H97</option>
+<option value="cput">Coniophora puteana</option>
+<option value="sla">Serpula lacrymans</option>
+<option value="wse">Wallemia mellicola</option>
+<option value="wic">Wallemia ichthyophaga</option>
+<option value="uma">Ustilago maydis</option>
+<option value="pfp">Anthracocystis flocculosa</option>
+<option value="mgl">Malassezia globosa</option>
+<option value="pgr">Puccinia graminis</option>
+<option value="mlr">Melampsora larici-populina</option>
+<option value="ecu">Encephalitozoon cuniculi</option>
+<option value="ein">Encephalitozoon intestinalis</option>
+<option value="ehe">Encephalitozoon hellem</option>
+<option value="ero">Encephalitozoon romaleae</option>
+<option value="nce">Nosema ceranae</option>
+</select>
+<input type="hidden" name="mapno" value="04139" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko04139" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko04139.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=268,111,4	href="/dbget-bin/www_bget?D00753"	title="D00753 (Sirolimus (JAN/USAN/INN))" onmouseover="popupTimer(&quot;D00753&quot;, &quot;D00753 (Sirolimus (JAN/USAN/INN))&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=31,342,77,359	href="/dbget-bin/www_bget?K11244"	title="K11244 (WSC)" />
+<area shape=rect	coords=115,342,161,359	href="/dbget-bin/www_bget?K02677"	title="K02677 (PRKCA)" />
+<area shape=rect	coords=199,342,245,359	href="/dbget-bin/www_bget?K11229"	title="K11229 (BCK1)" />
+<area shape=rect	coords=272,342,318,359	href="/dbget-bin/www_bget?K08294"	title="K08294 (MKK1_2)" />
+<area shape=rect	coords=345,342,391,359	href="/dbget-bin/www_bget?K04464"	title="K04464 (MAPK7)" />
+<area shape=rect	coords=441,392,487,409	href="/dbget-bin/www_bget?K17984"	title="K17984 (ATG32)" />
+<area shape=rect	coords=31,392,77,409	href="/dbget-bin/www_bget?K11231"	title="K11231 (SLN1)" />
+<area shape=rect	coords=368,392,414,409	href="/dbget-bin/www_bget?K03097+K03115"	title="K03097 (CSNK2A), K03115 (CSNK2B)" />
+<area shape=rect	coords=272,392,318,409	href="/dbget-bin/www_bget?K04441"	title="K04441 (P38)" />
+<area shape=rect	coords=115,392,161,409	href="/dbget-bin/www_bget?K11233"	title="K11233 (SSK1)" />
+<area shape=rect	coords=199,392,245,409	href="/dbget-bin/www_bget?K11227"	title="K11227 (PBS2)" />
+<area shape=rect	coords=368,293,414,310	href="/dbget-bin/www_bget?K08955"	title="K08955 (YME1)" />
+<area shape=rect	coords=199,137,245,154	href="/dbget-bin/www_bget?K07203"	title="K07203 (MTOR)" />
+<area shape=rect	coords=199,180,245,196	href="/dbget-bin/www_bget?K11088"	title="K11088 (SNRPD3)" />
+<area shape=rect	coords=199,196,245,213	href="/dbget-bin/www_bget?K11644"	title="K11644 (SIN3A)" />
+<area shape=rect	coords=199,213,245,230	href="/dbget-bin/www_bget?K09243"	title="K09243 (UME6)" />
+<area shape=rect	coords=441,455,487,472	href="/dbget-bin/www_bget?K08330"	title="K08330 (ATG11)" />
+<area shape=rect	coords=369,455,415,472	href="/dbget-bin/www_bget?K17065"	title="K17065 (DNM1L)" />
+<area shape=rect	coords=369,498,415,519	href="/dbget-bin/www_bget?K17775"	title="K17775 (MDM34)" />
+<area shape=rect	coords=415,498,461,515	href="/dbget-bin/www_bget?K17774"	title="K17774 (MDM10)" />
+<area shape=rect	coords=369,515,415,532	href="/dbget-bin/www_bget?K17765"	title="K17765 (MDM12)" />
+<area shape=rect	coords=415,515,461,532	href="/dbget-bin/www_bget?K17764"	title="K17764 (MMM1)" />
+<area shape=rect	coords=296,455,342,472	href="/dbget-bin/www_bget?K17969"	title="K17969 (FIS1)" />
+<area shape=rect	coords=559,432,605,449	href="/dbget-bin/www_bget?K08330"	title="K08330 (ATG11)" />
+<area shape=rect	coords=559,415,605,432	href="/dbget-bin/www_bget?K17984"	title="K17984 (ATG32)" />
+<area shape=rect	coords=656,415,702,432	href="/dbget-bin/www_bget?K08341"	title="K08341 (GABARAP)" />
+<area shape=rect	coords=559,201,605,218	href="/dbget-bin/www_bget?K08269"	title="K08269 (ULK2)" />
+<area shape=rect	coords=559,231,605,248	href="/dbget-bin/www_bget?K19717"	title="K19717 (ATG33)" />
+<area shape=rect	coords=559,261,605,278	href="/dbget-bin/www_bget?K19708"	title="K19708 (PTC6)" />
+<area shape=rect	coords=659,201,705,218	href="/dbget-bin/www_bget?K18191"	title="K18191 (FMC1)" />
+<area shape=rect	coords=659,231,705,248	href="/dbget-bin/www_bget?K02332"	title="K02332 (POLG1)" />
+<area shape=rect	coords=659,261,705,278	href="/dbget-bin/www_bget?K17800"	title="K17800 (LETM1)" />
+<area shape=rect	coords=559,291,605,308	href="/dbget-bin/www_bget?K00889"	title="K00889 (PIP5K)" />
+<area shape=rect	coords=659,291,705,308	href="/dbget-bin/www_bget?K11841"	title="K11841 (USP10)" />
+<area shape=rect	coords=659,308,705,325	href="/dbget-bin/www_bget?K19718"	title="K19718 (BRE5)" />
+<area shape=rect	coords=40,45,205,70	href="/dbget-bin/www_bget?ko04139"	title="ko04139: Mitophagy - yeast" onmouseover="popupTimer(&quot;ko04139&quot;, &quot;ko04139: Mitophagy - yeast&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=759,441,859,475	href="/kegg-bin/show_pathway?ko04138"	title="ko04138: Autophagy - yeast" onmouseover="popupTimer(&quot;ko04138&quot;, &quot;ko04138: Autophagy - yeast&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=40,291,140,325	href="/kegg-bin/show_pathway?ko04011"	title="ko04011: MAPK signaling pathway - yeast" onmouseover="popupTimer(&quot;ko04011&quot;, &quot;ko04011: MAPK signaling pathway - yeast&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

@@ -1,0 +1,855 @@
+path:azl00010	Glycolysis / Gluconeogenesis - Azospirillum sp. B510
+path:azl00020	Citrate cycle (TCA cycle) - Azospirillum sp. B510
+path:azl00030	Pentose phosphate pathway - Azospirillum sp. B510
+path:azl00040	Pentose and glucuronate interconversions - Azospirillum sp. B510
+path:azl00051	Fructose and mannose metabolism - Azospirillum sp. B510
+path:azl00052	Galactose metabolism - Azospirillum sp. B510
+path:azl00053	Ascorbate and aldarate metabolism - Azospirillum sp. B510
+path:azl00061	Fatty acid biosynthesis - Azospirillum sp. B510
+path:azl00071	Fatty acid degradation - Azospirillum sp. B510
+path:azl00072	Synthesis and degradation of ketone bodies - Azospirillum sp. B510
+path:azl00130	Ubiquinone and other terpenoid-quinone biosynthesis - Azospirillum sp. B510
+path:azl00190	Oxidative phosphorylation - Azospirillum sp. B510
+path:azl00220	Arginine biosynthesis - Azospirillum sp. B510
+path:azl00230	Purine metabolism - Azospirillum sp. B510
+path:azl00240	Pyrimidine metabolism - Azospirillum sp. B510
+path:azl00250	Alanine, aspartate and glutamate metabolism - Azospirillum sp. B510
+path:azl00260	Glycine, serine and threonine metabolism - Azospirillum sp. B510
+path:azl00261	Monobactam biosynthesis - Azospirillum sp. B510
+path:azl00270	Cysteine and methionine metabolism - Azospirillum sp. B510
+path:azl00280	Valine, leucine and isoleucine degradation - Azospirillum sp. B510
+path:azl00281	Geraniol degradation - Azospirillum sp. B510
+path:azl00290	Valine, leucine and isoleucine biosynthesis - Azospirillum sp. B510
+path:azl00300	Lysine biosynthesis - Azospirillum sp. B510
+path:azl00310	Lysine degradation - Azospirillum sp. B510
+path:azl00311	Penicillin and cephalosporin biosynthesis - Azospirillum sp. B510
+path:azl00330	Arginine and proline metabolism - Azospirillum sp. B510
+path:azl00332	Carbapenem biosynthesis - Azospirillum sp. B510
+path:azl00340	Histidine metabolism - Azospirillum sp. B510
+path:azl00350	Tyrosine metabolism - Azospirillum sp. B510
+path:azl00360	Phenylalanine metabolism - Azospirillum sp. B510
+path:azl00361	Chlorocyclohexane and chlorobenzene degradation - Azospirillum sp. B510
+path:azl00362	Benzoate degradation - Azospirillum sp. B510
+path:azl00364	Fluorobenzoate degradation - Azospirillum sp. B510
+path:azl00365	Furfural degradation - Azospirillum sp. B510
+path:azl00380	Tryptophan metabolism - Azospirillum sp. B510
+path:azl00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Azospirillum sp. B510
+path:azl00401	Novobiocin biosynthesis - Azospirillum sp. B510
+path:azl00410	beta-Alanine metabolism - Azospirillum sp. B510
+path:azl00430	Taurine and hypotaurine metabolism - Azospirillum sp. B510
+path:azl00440	Phosphonate and phosphinate metabolism - Azospirillum sp. B510
+path:azl00450	Selenocompound metabolism - Azospirillum sp. B510
+path:azl00460	Cyanoamino acid metabolism - Azospirillum sp. B510
+path:azl00471	D-Glutamine and D-glutamate metabolism - Azospirillum sp. B510
+path:azl00472	D-Arginine and D-ornithine metabolism - Azospirillum sp. B510
+path:azl00473	D-Alanine metabolism - Azospirillum sp. B510
+path:azl00480	Glutathione metabolism - Azospirillum sp. B510
+path:azl00500	Starch and sucrose metabolism - Azospirillum sp. B510
+path:azl00520	Amino sugar and nucleotide sugar metabolism - Azospirillum sp. B510
+path:azl00521	Streptomycin biosynthesis - Azospirillum sp. B510
+path:azl00523	Polyketide sugar unit biosynthesis - Azospirillum sp. B510
+path:azl00525	Acarbose and validamycin biosynthesis - Azospirillum sp. B510
+path:azl00540	Lipopolysaccharide biosynthesis - Azospirillum sp. B510
+path:azl00550	Peptidoglycan biosynthesis - Azospirillum sp. B510
+path:azl00561	Glycerolipid metabolism - Azospirillum sp. B510
+path:azl00562	Inositol phosphate metabolism - Azospirillum sp. B510
+path:azl00564	Glycerophospholipid metabolism - Azospirillum sp. B510
+path:azl00590	Arachidonic acid metabolism - Azospirillum sp. B510
+path:azl00592	alpha-Linolenic acid metabolism - Azospirillum sp. B510
+path:azl00620	Pyruvate metabolism - Azospirillum sp. B510
+path:azl00622	Xylene degradation - Azospirillum sp. B510
+path:azl00623	Toluene degradation - Azospirillum sp. B510
+path:azl00624	Polycyclic aromatic hydrocarbon degradation - Azospirillum sp. B510
+path:azl00625	Chloroalkane and chloroalkene degradation - Azospirillum sp. B510
+path:azl00626	Naphthalene degradation - Azospirillum sp. B510
+path:azl00627	Aminobenzoate degradation - Azospirillum sp. B510
+path:azl00630	Glyoxylate and dicarboxylate metabolism - Azospirillum sp. B510
+path:azl00633	Nitrotoluene degradation - Azospirillum sp. B510
+path:azl00640	Propanoate metabolism - Azospirillum sp. B510
+path:azl00642	Ethylbenzene degradation - Azospirillum sp. B510
+path:azl00643	Styrene degradation - Azospirillum sp. B510
+path:azl00650	Butanoate metabolism - Azospirillum sp. B510
+path:azl00660	C5-Branched dibasic acid metabolism - Azospirillum sp. B510
+path:azl00670	One carbon pool by folate - Azospirillum sp. B510
+path:azl00680	Methane metabolism - Azospirillum sp. B510
+path:azl00710	Carbon fixation in photosynthetic organisms - Azospirillum sp. B510
+path:azl00730	Thiamine metabolism - Azospirillum sp. B510
+path:azl00740	Riboflavin metabolism - Azospirillum sp. B510
+path:azl00750	Vitamin B6 metabolism - Azospirillum sp. B510
+path:azl00760	Nicotinate and nicotinamide metabolism - Azospirillum sp. B510
+path:azl00770	Pantothenate and CoA biosynthesis - Azospirillum sp. B510
+path:azl00780	Biotin metabolism - Azospirillum sp. B510
+path:azl00785	Lipoic acid metabolism - Azospirillum sp. B510
+path:azl00790	Folate biosynthesis - Azospirillum sp. B510
+path:azl00791	Atrazine degradation - Azospirillum sp. B510
+path:azl00860	Porphyrin and chlorophyll metabolism - Azospirillum sp. B510
+path:azl00900	Terpenoid backbone biosynthesis - Azospirillum sp. B510
+path:azl00903	Limonene and pinene degradation - Azospirillum sp. B510
+path:azl00906	Carotenoid biosynthesis - Azospirillum sp. B510
+path:azl00910	Nitrogen metabolism - Azospirillum sp. B510
+path:azl00920	Sulfur metabolism - Azospirillum sp. B510
+path:azl00930	Caprolactam degradation - Azospirillum sp. B510
+path:azl00970	Aminoacyl-tRNA biosynthesis - Azospirillum sp. B510
+path:azl01040	Biosynthesis of unsaturated fatty acids - Azospirillum sp. B510
+path:azl01054	Nonribosomal peptide structures - Azospirillum sp. B510
+path:azl01100	Metabolic pathways - Azospirillum sp. B510
+path:azl01110	Biosynthesis of secondary metabolites - Azospirillum sp. B510
+path:azl01120	Microbial metabolism in diverse environments - Azospirillum sp. B510
+path:azl01130	Biosynthesis of antibiotics - Azospirillum sp. B510
+path:azl01200	Carbon metabolism - Azospirillum sp. B510
+path:azl01210	2-Oxocarboxylic acid metabolism - Azospirillum sp. B510
+path:azl01212	Fatty acid metabolism - Azospirillum sp. B510
+path:azl01220	Degradation of aromatic compounds - Azospirillum sp. B510
+path:azl01230	Biosynthesis of amino acids - Azospirillum sp. B510
+path:azl01501	beta-Lactam resistance - Azospirillum sp. B510
+path:azl01502	Vancomycin resistance - Azospirillum sp. B510
+path:azl01503	Cationic antimicrobial peptide (CAMP) resistance - Azospirillum sp. B510
+path:azl02010	ABC transporters - Azospirillum sp. B510
+path:azl02020	Two-component system - Azospirillum sp. B510
+path:azl02024	Quorum sensing - Azospirillum sp. B510
+path:azl02030	Bacterial chemotaxis - Azospirillum sp. B510
+path:azl02040	Flagellar assembly - Azospirillum sp. B510
+path:azl02060	Phosphotransferase system (PTS) - Azospirillum sp. B510
+path:azl03010	Ribosome - Azospirillum sp. B510
+path:azl03018	RNA degradation - Azospirillum sp. B510
+path:azl03020	RNA polymerase - Azospirillum sp. B510
+path:azl03030	DNA replication - Azospirillum sp. B510
+path:azl03060	Protein export - Azospirillum sp. B510
+path:azl03070	Bacterial secretion system - Azospirillum sp. B510
+path:azl03410	Base excision repair - Azospirillum sp. B510
+path:azl03420	Nucleotide excision repair - Azospirillum sp. B510
+path:azl03430	Mismatch repair - Azospirillum sp. B510
+path:azl03440	Homologous recombination - Azospirillum sp. B510
+path:azl04122	Sulfur relay system - Azospirillum sp. B510
+path:ali00010	Glycolysis / Gluconeogenesis - Azospirillum lipoferum
+path:ali00020	Citrate cycle (TCA cycle) - Azospirillum lipoferum
+path:ali00030	Pentose phosphate pathway - Azospirillum lipoferum
+path:ali00040	Pentose and glucuronate interconversions - Azospirillum lipoferum
+path:ali00051	Fructose and mannose metabolism - Azospirillum lipoferum
+path:ali00052	Galactose metabolism - Azospirillum lipoferum
+path:ali00053	Ascorbate and aldarate metabolism - Azospirillum lipoferum
+path:ali00061	Fatty acid biosynthesis - Azospirillum lipoferum
+path:ali00071	Fatty acid degradation - Azospirillum lipoferum
+path:ali00072	Synthesis and degradation of ketone bodies - Azospirillum lipoferum
+path:ali00130	Ubiquinone and other terpenoid-quinone biosynthesis - Azospirillum lipoferum
+path:ali00190	Oxidative phosphorylation - Azospirillum lipoferum
+path:ali00220	Arginine biosynthesis - Azospirillum lipoferum
+path:ali00230	Purine metabolism - Azospirillum lipoferum
+path:ali00240	Pyrimidine metabolism - Azospirillum lipoferum
+path:ali00250	Alanine, aspartate and glutamate metabolism - Azospirillum lipoferum
+path:ali00260	Glycine, serine and threonine metabolism - Azospirillum lipoferum
+path:ali00261	Monobactam biosynthesis - Azospirillum lipoferum
+path:ali00270	Cysteine and methionine metabolism - Azospirillum lipoferum
+path:ali00280	Valine, leucine and isoleucine degradation - Azospirillum lipoferum
+path:ali00281	Geraniol degradation - Azospirillum lipoferum
+path:ali00290	Valine, leucine and isoleucine biosynthesis - Azospirillum lipoferum
+path:ali00300	Lysine biosynthesis - Azospirillum lipoferum
+path:ali00310	Lysine degradation - Azospirillum lipoferum
+path:ali00311	Penicillin and cephalosporin biosynthesis - Azospirillum lipoferum
+path:ali00330	Arginine and proline metabolism - Azospirillum lipoferum
+path:ali00332	Carbapenem biosynthesis - Azospirillum lipoferum
+path:ali00340	Histidine metabolism - Azospirillum lipoferum
+path:ali00350	Tyrosine metabolism - Azospirillum lipoferum
+path:ali00360	Phenylalanine metabolism - Azospirillum lipoferum
+path:ali00361	Chlorocyclohexane and chlorobenzene degradation - Azospirillum lipoferum
+path:ali00362	Benzoate degradation - Azospirillum lipoferum
+path:ali00364	Fluorobenzoate degradation - Azospirillum lipoferum
+path:ali00380	Tryptophan metabolism - Azospirillum lipoferum
+path:ali00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Azospirillum lipoferum
+path:ali00401	Novobiocin biosynthesis - Azospirillum lipoferum
+path:ali00410	beta-Alanine metabolism - Azospirillum lipoferum
+path:ali00430	Taurine and hypotaurine metabolism - Azospirillum lipoferum
+path:ali00440	Phosphonate and phosphinate metabolism - Azospirillum lipoferum
+path:ali00450	Selenocompound metabolism - Azospirillum lipoferum
+path:ali00460	Cyanoamino acid metabolism - Azospirillum lipoferum
+path:ali00471	D-Glutamine and D-glutamate metabolism - Azospirillum lipoferum
+path:ali00472	D-Arginine and D-ornithine metabolism - Azospirillum lipoferum
+path:ali00473	D-Alanine metabolism - Azospirillum lipoferum
+path:ali00480	Glutathione metabolism - Azospirillum lipoferum
+path:ali00500	Starch and sucrose metabolism - Azospirillum lipoferum
+path:ali00520	Amino sugar and nucleotide sugar metabolism - Azospirillum lipoferum
+path:ali00521	Streptomycin biosynthesis - Azospirillum lipoferum
+path:ali00523	Polyketide sugar unit biosynthesis - Azospirillum lipoferum
+path:ali00525	Acarbose and validamycin biosynthesis - Azospirillum lipoferum
+path:ali00540	Lipopolysaccharide biosynthesis - Azospirillum lipoferum
+path:ali00550	Peptidoglycan biosynthesis - Azospirillum lipoferum
+path:ali00561	Glycerolipid metabolism - Azospirillum lipoferum
+path:ali00562	Inositol phosphate metabolism - Azospirillum lipoferum
+path:ali00564	Glycerophospholipid metabolism - Azospirillum lipoferum
+path:ali00590	Arachidonic acid metabolism - Azospirillum lipoferum
+path:ali00592	alpha-Linolenic acid metabolism - Azospirillum lipoferum
+path:ali00620	Pyruvate metabolism - Azospirillum lipoferum
+path:ali00621	Dioxin degradation - Azospirillum lipoferum
+path:ali00622	Xylene degradation - Azospirillum lipoferum
+path:ali00623	Toluene degradation - Azospirillum lipoferum
+path:ali00624	Polycyclic aromatic hydrocarbon degradation - Azospirillum lipoferum
+path:ali00625	Chloroalkane and chloroalkene degradation - Azospirillum lipoferum
+path:ali00626	Naphthalene degradation - Azospirillum lipoferum
+path:ali00627	Aminobenzoate degradation - Azospirillum lipoferum
+path:ali00630	Glyoxylate and dicarboxylate metabolism - Azospirillum lipoferum
+path:ali00633	Nitrotoluene degradation - Azospirillum lipoferum
+path:ali00640	Propanoate metabolism - Azospirillum lipoferum
+path:ali00642	Ethylbenzene degradation - Azospirillum lipoferum
+path:ali00643	Styrene degradation - Azospirillum lipoferum
+path:ali00650	Butanoate metabolism - Azospirillum lipoferum
+path:ali00660	C5-Branched dibasic acid metabolism - Azospirillum lipoferum
+path:ali00670	One carbon pool by folate - Azospirillum lipoferum
+path:ali00680	Methane metabolism - Azospirillum lipoferum
+path:ali00710	Carbon fixation in photosynthetic organisms - Azospirillum lipoferum
+path:ali00730	Thiamine metabolism - Azospirillum lipoferum
+path:ali00740	Riboflavin metabolism - Azospirillum lipoferum
+path:ali00750	Vitamin B6 metabolism - Azospirillum lipoferum
+path:ali00760	Nicotinate and nicotinamide metabolism - Azospirillum lipoferum
+path:ali00770	Pantothenate and CoA biosynthesis - Azospirillum lipoferum
+path:ali00780	Biotin metabolism - Azospirillum lipoferum
+path:ali00785	Lipoic acid metabolism - Azospirillum lipoferum
+path:ali00790	Folate biosynthesis - Azospirillum lipoferum
+path:ali00860	Porphyrin and chlorophyll metabolism - Azospirillum lipoferum
+path:ali00900	Terpenoid backbone biosynthesis - Azospirillum lipoferum
+path:ali00903	Limonene and pinene degradation - Azospirillum lipoferum
+path:ali00906	Carotenoid biosynthesis - Azospirillum lipoferum
+path:ali00910	Nitrogen metabolism - Azospirillum lipoferum
+path:ali00920	Sulfur metabolism - Azospirillum lipoferum
+path:ali00930	Caprolactam degradation - Azospirillum lipoferum
+path:ali00970	Aminoacyl-tRNA biosynthesis - Azospirillum lipoferum
+path:ali01040	Biosynthesis of unsaturated fatty acids - Azospirillum lipoferum
+path:ali01053	Biosynthesis of siderophore group nonribosomal peptides - Azospirillum lipoferum
+path:ali01054	Nonribosomal peptide structures - Azospirillum lipoferum
+path:ali01055	Biosynthesis of vancomycin group antibiotics - Azospirillum lipoferum
+path:ali01100	Metabolic pathways - Azospirillum lipoferum
+path:ali01110	Biosynthesis of secondary metabolites - Azospirillum lipoferum
+path:ali01120	Microbial metabolism in diverse environments - Azospirillum lipoferum
+path:ali01130	Biosynthesis of antibiotics - Azospirillum lipoferum
+path:ali01200	Carbon metabolism - Azospirillum lipoferum
+path:ali01210	2-Oxocarboxylic acid metabolism - Azospirillum lipoferum
+path:ali01212	Fatty acid metabolism - Azospirillum lipoferum
+path:ali01220	Degradation of aromatic compounds - Azospirillum lipoferum
+path:ali01230	Biosynthesis of amino acids - Azospirillum lipoferum
+path:ali01501	beta-Lactam resistance - Azospirillum lipoferum
+path:ali01502	Vancomycin resistance - Azospirillum lipoferum
+path:ali01503	Cationic antimicrobial peptide (CAMP) resistance - Azospirillum lipoferum
+path:ali02010	ABC transporters - Azospirillum lipoferum
+path:ali02020	Two-component system - Azospirillum lipoferum
+path:ali02024	Quorum sensing - Azospirillum lipoferum
+path:ali02030	Bacterial chemotaxis - Azospirillum lipoferum
+path:ali02040	Flagellar assembly - Azospirillum lipoferum
+path:ali02060	Phosphotransferase system (PTS) - Azospirillum lipoferum
+path:ali03010	Ribosome - Azospirillum lipoferum
+path:ali03018	RNA degradation - Azospirillum lipoferum
+path:ali03020	RNA polymerase - Azospirillum lipoferum
+path:ali03030	DNA replication - Azospirillum lipoferum
+path:ali03060	Protein export - Azospirillum lipoferum
+path:ali03070	Bacterial secretion system - Azospirillum lipoferum
+path:ali03410	Base excision repair - Azospirillum lipoferum
+path:ali03420	Nucleotide excision repair - Azospirillum lipoferum
+path:ali03430	Mismatch repair - Azospirillum lipoferum
+path:ali03440	Homologous recombination - Azospirillum lipoferum
+path:ali04122	Sulfur relay system - Azospirillum lipoferum
+path:abs00010	Glycolysis / Gluconeogenesis - Azospirillum brasilense Sp245
+path:abs00020	Citrate cycle (TCA cycle) - Azospirillum brasilense Sp245
+path:abs00030	Pentose phosphate pathway - Azospirillum brasilense Sp245
+path:abs00040	Pentose and glucuronate interconversions - Azospirillum brasilense Sp245
+path:abs00051	Fructose and mannose metabolism - Azospirillum brasilense Sp245
+path:abs00052	Galactose metabolism - Azospirillum brasilense Sp245
+path:abs00053	Ascorbate and aldarate metabolism - Azospirillum brasilense Sp245
+path:abs00061	Fatty acid biosynthesis - Azospirillum brasilense Sp245
+path:abs00071	Fatty acid degradation - Azospirillum brasilense Sp245
+path:abs00072	Synthesis and degradation of ketone bodies - Azospirillum brasilense Sp245
+path:abs00130	Ubiquinone and other terpenoid-quinone biosynthesis - Azospirillum brasilense Sp245
+path:abs00190	Oxidative phosphorylation - Azospirillum brasilense Sp245
+path:abs00220	Arginine biosynthesis - Azospirillum brasilense Sp245
+path:abs00230	Purine metabolism - Azospirillum brasilense Sp245
+path:abs00240	Pyrimidine metabolism - Azospirillum brasilense Sp245
+path:abs00250	Alanine, aspartate and glutamate metabolism - Azospirillum brasilense Sp245
+path:abs00260	Glycine, serine and threonine metabolism - Azospirillum brasilense Sp245
+path:abs00261	Monobactam biosynthesis - Azospirillum brasilense Sp245
+path:abs00270	Cysteine and methionine metabolism - Azospirillum brasilense Sp245
+path:abs00280	Valine, leucine and isoleucine degradation - Azospirillum brasilense Sp245
+path:abs00281	Geraniol degradation - Azospirillum brasilense Sp245
+path:abs00290	Valine, leucine and isoleucine biosynthesis - Azospirillum brasilense Sp245
+path:abs00300	Lysine biosynthesis - Azospirillum brasilense Sp245
+path:abs00310	Lysine degradation - Azospirillum brasilense Sp245
+path:abs00311	Penicillin and cephalosporin biosynthesis - Azospirillum brasilense Sp245
+path:abs00330	Arginine and proline metabolism - Azospirillum brasilense Sp245
+path:abs00332	Carbapenem biosynthesis - Azospirillum brasilense Sp245
+path:abs00340	Histidine metabolism - Azospirillum brasilense Sp245
+path:abs00350	Tyrosine metabolism - Azospirillum brasilense Sp245
+path:abs00360	Phenylalanine metabolism - Azospirillum brasilense Sp245
+path:abs00361	Chlorocyclohexane and chlorobenzene degradation - Azospirillum brasilense Sp245
+path:abs00362	Benzoate degradation - Azospirillum brasilense Sp245
+path:abs00364	Fluorobenzoate degradation - Azospirillum brasilense Sp245
+path:abs00380	Tryptophan metabolism - Azospirillum brasilense Sp245
+path:abs00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Azospirillum brasilense Sp245
+path:abs00401	Novobiocin biosynthesis - Azospirillum brasilense Sp245
+path:abs00410	beta-Alanine metabolism - Azospirillum brasilense Sp245
+path:abs00430	Taurine and hypotaurine metabolism - Azospirillum brasilense Sp245
+path:abs00440	Phosphonate and phosphinate metabolism - Azospirillum brasilense Sp245
+path:abs00450	Selenocompound metabolism - Azospirillum brasilense Sp245
+path:abs00460	Cyanoamino acid metabolism - Azospirillum brasilense Sp245
+path:abs00471	D-Glutamine and D-glutamate metabolism - Azospirillum brasilense Sp245
+path:abs00472	D-Arginine and D-ornithine metabolism - Azospirillum brasilense Sp245
+path:abs00473	D-Alanine metabolism - Azospirillum brasilense Sp245
+path:abs00480	Glutathione metabolism - Azospirillum brasilense Sp245
+path:abs00500	Starch and sucrose metabolism - Azospirillum brasilense Sp245
+path:abs00520	Amino sugar and nucleotide sugar metabolism - Azospirillum brasilense Sp245
+path:abs00521	Streptomycin biosynthesis - Azospirillum brasilense Sp245
+path:abs00523	Polyketide sugar unit biosynthesis - Azospirillum brasilense Sp245
+path:abs00525	Acarbose and validamycin biosynthesis - Azospirillum brasilense Sp245
+path:abs00540	Lipopolysaccharide biosynthesis - Azospirillum brasilense Sp245
+path:abs00550	Peptidoglycan biosynthesis - Azospirillum brasilense Sp245
+path:abs00561	Glycerolipid metabolism - Azospirillum brasilense Sp245
+path:abs00562	Inositol phosphate metabolism - Azospirillum brasilense Sp245
+path:abs00564	Glycerophospholipid metabolism - Azospirillum brasilense Sp245
+path:abs00590	Arachidonic acid metabolism - Azospirillum brasilense Sp245
+path:abs00592	alpha-Linolenic acid metabolism - Azospirillum brasilense Sp245
+path:abs00600	Sphingolipid metabolism - Azospirillum brasilense Sp245
+path:abs00620	Pyruvate metabolism - Azospirillum brasilense Sp245
+path:abs00621	Dioxin degradation - Azospirillum brasilense Sp245
+path:abs00623	Toluene degradation - Azospirillum brasilense Sp245
+path:abs00624	Polycyclic aromatic hydrocarbon degradation - Azospirillum brasilense Sp245
+path:abs00625	Chloroalkane and chloroalkene degradation - Azospirillum brasilense Sp245
+path:abs00626	Naphthalene degradation - Azospirillum brasilense Sp245
+path:abs00627	Aminobenzoate degradation - Azospirillum brasilense Sp245
+path:abs00630	Glyoxylate and dicarboxylate metabolism - Azospirillum brasilense Sp245
+path:abs00633	Nitrotoluene degradation - Azospirillum brasilense Sp245
+path:abs00640	Propanoate metabolism - Azospirillum brasilense Sp245
+path:abs00643	Styrene degradation - Azospirillum brasilense Sp245
+path:abs00650	Butanoate metabolism - Azospirillum brasilense Sp245
+path:abs00660	C5-Branched dibasic acid metabolism - Azospirillum brasilense Sp245
+path:abs00670	One carbon pool by folate - Azospirillum brasilense Sp245
+path:abs00680	Methane metabolism - Azospirillum brasilense Sp245
+path:abs00710	Carbon fixation in photosynthetic organisms - Azospirillum brasilense Sp245
+path:abs00730	Thiamine metabolism - Azospirillum brasilense Sp245
+path:abs00740	Riboflavin metabolism - Azospirillum brasilense Sp245
+path:abs00750	Vitamin B6 metabolism - Azospirillum brasilense Sp245
+path:abs00760	Nicotinate and nicotinamide metabolism - Azospirillum brasilense Sp245
+path:abs00770	Pantothenate and CoA biosynthesis - Azospirillum brasilense Sp245
+path:abs00780	Biotin metabolism - Azospirillum brasilense Sp245
+path:abs00785	Lipoic acid metabolism - Azospirillum brasilense Sp245
+path:abs00790	Folate biosynthesis - Azospirillum brasilense Sp245
+path:abs00860	Porphyrin and chlorophyll metabolism - Azospirillum brasilense Sp245
+path:abs00900	Terpenoid backbone biosynthesis - Azospirillum brasilense Sp245
+path:abs00903	Limonene and pinene degradation - Azospirillum brasilense Sp245
+path:abs00906	Carotenoid biosynthesis - Azospirillum brasilense Sp245
+path:abs00909	Sesquiterpenoid and triterpenoid biosynthesis - Azospirillum brasilense Sp245
+path:abs00910	Nitrogen metabolism - Azospirillum brasilense Sp245
+path:abs00920	Sulfur metabolism - Azospirillum brasilense Sp245
+path:abs00930	Caprolactam degradation - Azospirillum brasilense Sp245
+path:abs00970	Aminoacyl-tRNA biosynthesis - Azospirillum brasilense Sp245
+path:abs01040	Biosynthesis of unsaturated fatty acids - Azospirillum brasilense Sp245
+path:abs01053	Biosynthesis of siderophore group nonribosomal peptides - Azospirillum brasilense Sp245
+path:abs01054	Nonribosomal peptide structures - Azospirillum brasilense Sp245
+path:abs01055	Biosynthesis of vancomycin group antibiotics - Azospirillum brasilense Sp245
+path:abs01100	Metabolic pathways - Azospirillum brasilense Sp245
+path:abs01110	Biosynthesis of secondary metabolites - Azospirillum brasilense Sp245
+path:abs01120	Microbial metabolism in diverse environments - Azospirillum brasilense Sp245
+path:abs01130	Biosynthesis of antibiotics - Azospirillum brasilense Sp245
+path:abs01200	Carbon metabolism - Azospirillum brasilense Sp245
+path:abs01210	2-Oxocarboxylic acid metabolism - Azospirillum brasilense Sp245
+path:abs01212	Fatty acid metabolism - Azospirillum brasilense Sp245
+path:abs01220	Degradation of aromatic compounds - Azospirillum brasilense Sp245
+path:abs01230	Biosynthesis of amino acids - Azospirillum brasilense Sp245
+path:abs01501	beta-Lactam resistance - Azospirillum brasilense Sp245
+path:abs01502	Vancomycin resistance - Azospirillum brasilense Sp245
+path:abs01503	Cationic antimicrobial peptide (CAMP) resistance - Azospirillum brasilense Sp245
+path:abs02010	ABC transporters - Azospirillum brasilense Sp245
+path:abs02020	Two-component system - Azospirillum brasilense Sp245
+path:abs02024	Quorum sensing - Azospirillum brasilense Sp245
+path:abs02030	Bacterial chemotaxis - Azospirillum brasilense Sp245
+path:abs02040	Flagellar assembly - Azospirillum brasilense Sp245
+path:abs02060	Phosphotransferase system (PTS) - Azospirillum brasilense Sp245
+path:abs03010	Ribosome - Azospirillum brasilense Sp245
+path:abs03018	RNA degradation - Azospirillum brasilense Sp245
+path:abs03020	RNA polymerase - Azospirillum brasilense Sp245
+path:abs03030	DNA replication - Azospirillum brasilense Sp245
+path:abs03060	Protein export - Azospirillum brasilense Sp245
+path:abs03070	Bacterial secretion system - Azospirillum brasilense Sp245
+path:abs03410	Base excision repair - Azospirillum brasilense Sp245
+path:abs03420	Nucleotide excision repair - Azospirillum brasilense Sp245
+path:abs03430	Mismatch repair - Azospirillum brasilense Sp245
+path:abs03440	Homologous recombination - Azospirillum brasilense Sp245
+path:abs04122	Sulfur relay system - Azospirillum brasilense Sp245
+path:abq00010	Glycolysis / Gluconeogenesis - Azospirillum brasilense Az39
+path:abq00020	Citrate cycle (TCA cycle) - Azospirillum brasilense Az39
+path:abq00030	Pentose phosphate pathway - Azospirillum brasilense Az39
+path:abq00040	Pentose and glucuronate interconversions - Azospirillum brasilense Az39
+path:abq00051	Fructose and mannose metabolism - Azospirillum brasilense Az39
+path:abq00052	Galactose metabolism - Azospirillum brasilense Az39
+path:abq00053	Ascorbate and aldarate metabolism - Azospirillum brasilense Az39
+path:abq00061	Fatty acid biosynthesis - Azospirillum brasilense Az39
+path:abq00071	Fatty acid degradation - Azospirillum brasilense Az39
+path:abq00072	Synthesis and degradation of ketone bodies - Azospirillum brasilense Az39
+path:abq00130	Ubiquinone and other terpenoid-quinone biosynthesis - Azospirillum brasilense Az39
+path:abq00190	Oxidative phosphorylation - Azospirillum brasilense Az39
+path:abq00220	Arginine biosynthesis - Azospirillum brasilense Az39
+path:abq00230	Purine metabolism - Azospirillum brasilense Az39
+path:abq00240	Pyrimidine metabolism - Azospirillum brasilense Az39
+path:abq00250	Alanine, aspartate and glutamate metabolism - Azospirillum brasilense Az39
+path:abq00260	Glycine, serine and threonine metabolism - Azospirillum brasilense Az39
+path:abq00261	Monobactam biosynthesis - Azospirillum brasilense Az39
+path:abq00270	Cysteine and methionine metabolism - Azospirillum brasilense Az39
+path:abq00280	Valine, leucine and isoleucine degradation - Azospirillum brasilense Az39
+path:abq00281	Geraniol degradation - Azospirillum brasilense Az39
+path:abq00290	Valine, leucine and isoleucine biosynthesis - Azospirillum brasilense Az39
+path:abq00300	Lysine biosynthesis - Azospirillum brasilense Az39
+path:abq00310	Lysine degradation - Azospirillum brasilense Az39
+path:abq00311	Penicillin and cephalosporin biosynthesis - Azospirillum brasilense Az39
+path:abq00330	Arginine and proline metabolism - Azospirillum brasilense Az39
+path:abq00332	Carbapenem biosynthesis - Azospirillum brasilense Az39
+path:abq00340	Histidine metabolism - Azospirillum brasilense Az39
+path:abq00350	Tyrosine metabolism - Azospirillum brasilense Az39
+path:abq00360	Phenylalanine metabolism - Azospirillum brasilense Az39
+path:abq00361	Chlorocyclohexane and chlorobenzene degradation - Azospirillum brasilense Az39
+path:abq00362	Benzoate degradation - Azospirillum brasilense Az39
+path:abq00364	Fluorobenzoate degradation - Azospirillum brasilense Az39
+path:abq00380	Tryptophan metabolism - Azospirillum brasilense Az39
+path:abq00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Azospirillum brasilense Az39
+path:abq00401	Novobiocin biosynthesis - Azospirillum brasilense Az39
+path:abq00410	beta-Alanine metabolism - Azospirillum brasilense Az39
+path:abq00430	Taurine and hypotaurine metabolism - Azospirillum brasilense Az39
+path:abq00440	Phosphonate and phosphinate metabolism - Azospirillum brasilense Az39
+path:abq00450	Selenocompound metabolism - Azospirillum brasilense Az39
+path:abq00460	Cyanoamino acid metabolism - Azospirillum brasilense Az39
+path:abq00471	D-Glutamine and D-glutamate metabolism - Azospirillum brasilense Az39
+path:abq00472	D-Arginine and D-ornithine metabolism - Azospirillum brasilense Az39
+path:abq00473	D-Alanine metabolism - Azospirillum brasilense Az39
+path:abq00480	Glutathione metabolism - Azospirillum brasilense Az39
+path:abq00500	Starch and sucrose metabolism - Azospirillum brasilense Az39
+path:abq00520	Amino sugar and nucleotide sugar metabolism - Azospirillum brasilense Az39
+path:abq00521	Streptomycin biosynthesis - Azospirillum brasilense Az39
+path:abq00523	Polyketide sugar unit biosynthesis - Azospirillum brasilense Az39
+path:abq00525	Acarbose and validamycin biosynthesis - Azospirillum brasilense Az39
+path:abq00540	Lipopolysaccharide biosynthesis - Azospirillum brasilense Az39
+path:abq00550	Peptidoglycan biosynthesis - Azospirillum brasilense Az39
+path:abq00561	Glycerolipid metabolism - Azospirillum brasilense Az39
+path:abq00562	Inositol phosphate metabolism - Azospirillum brasilense Az39
+path:abq00564	Glycerophospholipid metabolism - Azospirillum brasilense Az39
+path:abq00590	Arachidonic acid metabolism - Azospirillum brasilense Az39
+path:abq00592	alpha-Linolenic acid metabolism - Azospirillum brasilense Az39
+path:abq00600	Sphingolipid metabolism - Azospirillum brasilense Az39
+path:abq00620	Pyruvate metabolism - Azospirillum brasilense Az39
+path:abq00621	Dioxin degradation - Azospirillum brasilense Az39
+path:abq00623	Toluene degradation - Azospirillum brasilense Az39
+path:abq00624	Polycyclic aromatic hydrocarbon degradation - Azospirillum brasilense Az39
+path:abq00625	Chloroalkane and chloroalkene degradation - Azospirillum brasilense Az39
+path:abq00626	Naphthalene degradation - Azospirillum brasilense Az39
+path:abq00627	Aminobenzoate degradation - Azospirillum brasilense Az39
+path:abq00630	Glyoxylate and dicarboxylate metabolism - Azospirillum brasilense Az39
+path:abq00633	Nitrotoluene degradation - Azospirillum brasilense Az39
+path:abq00640	Propanoate metabolism - Azospirillum brasilense Az39
+path:abq00643	Styrene degradation - Azospirillum brasilense Az39
+path:abq00650	Butanoate metabolism - Azospirillum brasilense Az39
+path:abq00660	C5-Branched dibasic acid metabolism - Azospirillum brasilense Az39
+path:abq00670	One carbon pool by folate - Azospirillum brasilense Az39
+path:abq00680	Methane metabolism - Azospirillum brasilense Az39
+path:abq00710	Carbon fixation in photosynthetic organisms - Azospirillum brasilense Az39
+path:abq00730	Thiamine metabolism - Azospirillum brasilense Az39
+path:abq00740	Riboflavin metabolism - Azospirillum brasilense Az39
+path:abq00750	Vitamin B6 metabolism - Azospirillum brasilense Az39
+path:abq00760	Nicotinate and nicotinamide metabolism - Azospirillum brasilense Az39
+path:abq00770	Pantothenate and CoA biosynthesis - Azospirillum brasilense Az39
+path:abq00780	Biotin metabolism - Azospirillum brasilense Az39
+path:abq00785	Lipoic acid metabolism - Azospirillum brasilense Az39
+path:abq00790	Folate biosynthesis - Azospirillum brasilense Az39
+path:abq00860	Porphyrin and chlorophyll metabolism - Azospirillum brasilense Az39
+path:abq00900	Terpenoid backbone biosynthesis - Azospirillum brasilense Az39
+path:abq00903	Limonene and pinene degradation - Azospirillum brasilense Az39
+path:abq00906	Carotenoid biosynthesis - Azospirillum brasilense Az39
+path:abq00909	Sesquiterpenoid and triterpenoid biosynthesis - Azospirillum brasilense Az39
+path:abq00910	Nitrogen metabolism - Azospirillum brasilense Az39
+path:abq00920	Sulfur metabolism - Azospirillum brasilense Az39
+path:abq00930	Caprolactam degradation - Azospirillum brasilense Az39
+path:abq00970	Aminoacyl-tRNA biosynthesis - Azospirillum brasilense Az39
+path:abq01040	Biosynthesis of unsaturated fatty acids - Azospirillum brasilense Az39
+path:abq01053	Biosynthesis of siderophore group nonribosomal peptides - Azospirillum brasilense Az39
+path:abq01054	Nonribosomal peptide structures - Azospirillum brasilense Az39
+path:abq01055	Biosynthesis of vancomycin group antibiotics - Azospirillum brasilense Az39
+path:abq01100	Metabolic pathways - Azospirillum brasilense Az39
+path:abq01110	Biosynthesis of secondary metabolites - Azospirillum brasilense Az39
+path:abq01120	Microbial metabolism in diverse environments - Azospirillum brasilense Az39
+path:abq01130	Biosynthesis of antibiotics - Azospirillum brasilense Az39
+path:abq01200	Carbon metabolism - Azospirillum brasilense Az39
+path:abq01210	2-Oxocarboxylic acid metabolism - Azospirillum brasilense Az39
+path:abq01212	Fatty acid metabolism - Azospirillum brasilense Az39
+path:abq01220	Degradation of aromatic compounds - Azospirillum brasilense Az39
+path:abq01230	Biosynthesis of amino acids - Azospirillum brasilense Az39
+path:abq01501	beta-Lactam resistance - Azospirillum brasilense Az39
+path:abq01502	Vancomycin resistance - Azospirillum brasilense Az39
+path:abq01503	Cationic antimicrobial peptide (CAMP) resistance - Azospirillum brasilense Az39
+path:abq02010	ABC transporters - Azospirillum brasilense Az39
+path:abq02020	Two-component system - Azospirillum brasilense Az39
+path:abq02024	Quorum sensing - Azospirillum brasilense Az39
+path:abq02030	Bacterial chemotaxis - Azospirillum brasilense Az39
+path:abq02040	Flagellar assembly - Azospirillum brasilense Az39
+path:abq02060	Phosphotransferase system (PTS) - Azospirillum brasilense Az39
+path:abq03010	Ribosome - Azospirillum brasilense Az39
+path:abq03018	RNA degradation - Azospirillum brasilense Az39
+path:abq03020	RNA polymerase - Azospirillum brasilense Az39
+path:abq03030	DNA replication - Azospirillum brasilense Az39
+path:abq03060	Protein export - Azospirillum brasilense Az39
+path:abq03070	Bacterial secretion system - Azospirillum brasilense Az39
+path:abq03410	Base excision repair - Azospirillum brasilense Az39
+path:abq03420	Nucleotide excision repair - Azospirillum brasilense Az39
+path:abq03430	Mismatch repair - Azospirillum brasilense Az39
+path:abq03440	Homologous recombination - Azospirillum brasilense Az39
+path:abq04122	Sulfur relay system - Azospirillum brasilense Az39
+path:abf00010	Glycolysis / Gluconeogenesis - Azospirillum brasilense Sp7
+path:abf00020	Citrate cycle (TCA cycle) - Azospirillum brasilense Sp7
+path:abf00030	Pentose phosphate pathway - Azospirillum brasilense Sp7
+path:abf00040	Pentose and glucuronate interconversions - Azospirillum brasilense Sp7
+path:abf00051	Fructose and mannose metabolism - Azospirillum brasilense Sp7
+path:abf00052	Galactose metabolism - Azospirillum brasilense Sp7
+path:abf00053	Ascorbate and aldarate metabolism - Azospirillum brasilense Sp7
+path:abf00061	Fatty acid biosynthesis - Azospirillum brasilense Sp7
+path:abf00071	Fatty acid degradation - Azospirillum brasilense Sp7
+path:abf00072	Synthesis and degradation of ketone bodies - Azospirillum brasilense Sp7
+path:abf00130	Ubiquinone and other terpenoid-quinone biosynthesis - Azospirillum brasilense Sp7
+path:abf00190	Oxidative phosphorylation - Azospirillum brasilense Sp7
+path:abf00220	Arginine biosynthesis - Azospirillum brasilense Sp7
+path:abf00230	Purine metabolism - Azospirillum brasilense Sp7
+path:abf00240	Pyrimidine metabolism - Azospirillum brasilense Sp7
+path:abf00250	Alanine, aspartate and glutamate metabolism - Azospirillum brasilense Sp7
+path:abf00253	Tetracycline biosynthesis - Azospirillum brasilense Sp7
+path:abf00260	Glycine, serine and threonine metabolism - Azospirillum brasilense Sp7
+path:abf00261	Monobactam biosynthesis - Azospirillum brasilense Sp7
+path:abf00270	Cysteine and methionine metabolism - Azospirillum brasilense Sp7
+path:abf00280	Valine, leucine and isoleucine degradation - Azospirillum brasilense Sp7
+path:abf00281	Geraniol degradation - Azospirillum brasilense Sp7
+path:abf00290	Valine, leucine and isoleucine biosynthesis - Azospirillum brasilense Sp7
+path:abf00300	Lysine biosynthesis - Azospirillum brasilense Sp7
+path:abf00310	Lysine degradation - Azospirillum brasilense Sp7
+path:abf00311	Penicillin and cephalosporin biosynthesis - Azospirillum brasilense Sp7
+path:abf00330	Arginine and proline metabolism - Azospirillum brasilense Sp7
+path:abf00332	Carbapenem biosynthesis - Azospirillum brasilense Sp7
+path:abf00340	Histidine metabolism - Azospirillum brasilense Sp7
+path:abf00350	Tyrosine metabolism - Azospirillum brasilense Sp7
+path:abf00360	Phenylalanine metabolism - Azospirillum brasilense Sp7
+path:abf00361	Chlorocyclohexane and chlorobenzene degradation - Azospirillum brasilense Sp7
+path:abf00362	Benzoate degradation - Azospirillum brasilense Sp7
+path:abf00364	Fluorobenzoate degradation - Azospirillum brasilense Sp7
+path:abf00380	Tryptophan metabolism - Azospirillum brasilense Sp7
+path:abf00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Azospirillum brasilense Sp7
+path:abf00401	Novobiocin biosynthesis - Azospirillum brasilense Sp7
+path:abf00410	beta-Alanine metabolism - Azospirillum brasilense Sp7
+path:abf00430	Taurine and hypotaurine metabolism - Azospirillum brasilense Sp7
+path:abf00440	Phosphonate and phosphinate metabolism - Azospirillum brasilense Sp7
+path:abf00450	Selenocompound metabolism - Azospirillum brasilense Sp7
+path:abf00460	Cyanoamino acid metabolism - Azospirillum brasilense Sp7
+path:abf00471	D-Glutamine and D-glutamate metabolism - Azospirillum brasilense Sp7
+path:abf00472	D-Arginine and D-ornithine metabolism - Azospirillum brasilense Sp7
+path:abf00473	D-Alanine metabolism - Azospirillum brasilense Sp7
+path:abf00480	Glutathione metabolism - Azospirillum brasilense Sp7
+path:abf00500	Starch and sucrose metabolism - Azospirillum brasilense Sp7
+path:abf00520	Amino sugar and nucleotide sugar metabolism - Azospirillum brasilense Sp7
+path:abf00521	Streptomycin biosynthesis - Azospirillum brasilense Sp7
+path:abf00523	Polyketide sugar unit biosynthesis - Azospirillum brasilense Sp7
+path:abf00525	Acarbose and validamycin biosynthesis - Azospirillum brasilense Sp7
+path:abf00540	Lipopolysaccharide biosynthesis - Azospirillum brasilense Sp7
+path:abf00550	Peptidoglycan biosynthesis - Azospirillum brasilense Sp7
+path:abf00561	Glycerolipid metabolism - Azospirillum brasilense Sp7
+path:abf00562	Inositol phosphate metabolism - Azospirillum brasilense Sp7
+path:abf00564	Glycerophospholipid metabolism - Azospirillum brasilense Sp7
+path:abf00590	Arachidonic acid metabolism - Azospirillum brasilense Sp7
+path:abf00592	alpha-Linolenic acid metabolism - Azospirillum brasilense Sp7
+path:abf00600	Sphingolipid metabolism - Azospirillum brasilense Sp7
+path:abf00620	Pyruvate metabolism - Azospirillum brasilense Sp7
+path:abf00621	Dioxin degradation - Azospirillum brasilense Sp7
+path:abf00623	Toluene degradation - Azospirillum brasilense Sp7
+path:abf00624	Polycyclic aromatic hydrocarbon degradation - Azospirillum brasilense Sp7
+path:abf00625	Chloroalkane and chloroalkene degradation - Azospirillum brasilense Sp7
+path:abf00626	Naphthalene degradation - Azospirillum brasilense Sp7
+path:abf00627	Aminobenzoate degradation - Azospirillum brasilense Sp7
+path:abf00630	Glyoxylate and dicarboxylate metabolism - Azospirillum brasilense Sp7
+path:abf00633	Nitrotoluene degradation - Azospirillum brasilense Sp7
+path:abf00640	Propanoate metabolism - Azospirillum brasilense Sp7
+path:abf00643	Styrene degradation - Azospirillum brasilense Sp7
+path:abf00650	Butanoate metabolism - Azospirillum brasilense Sp7
+path:abf00660	C5-Branched dibasic acid metabolism - Azospirillum brasilense Sp7
+path:abf00670	One carbon pool by folate - Azospirillum brasilense Sp7
+path:abf00680	Methane metabolism - Azospirillum brasilense Sp7
+path:abf00710	Carbon fixation in photosynthetic organisms - Azospirillum brasilense Sp7
+path:abf00730	Thiamine metabolism - Azospirillum brasilense Sp7
+path:abf00740	Riboflavin metabolism - Azospirillum brasilense Sp7
+path:abf00750	Vitamin B6 metabolism - Azospirillum brasilense Sp7
+path:abf00760	Nicotinate and nicotinamide metabolism - Azospirillum brasilense Sp7
+path:abf00770	Pantothenate and CoA biosynthesis - Azospirillum brasilense Sp7
+path:abf00780	Biotin metabolism - Azospirillum brasilense Sp7
+path:abf00785	Lipoic acid metabolism - Azospirillum brasilense Sp7
+path:abf00790	Folate biosynthesis - Azospirillum brasilense Sp7
+path:abf00860	Porphyrin and chlorophyll metabolism - Azospirillum brasilense Sp7
+path:abf00900	Terpenoid backbone biosynthesis - Azospirillum brasilense Sp7
+path:abf00903	Limonene and pinene degradation - Azospirillum brasilense Sp7
+path:abf00906	Carotenoid biosynthesis - Azospirillum brasilense Sp7
+path:abf00909	Sesquiterpenoid and triterpenoid biosynthesis - Azospirillum brasilense Sp7
+path:abf00910	Nitrogen metabolism - Azospirillum brasilense Sp7
+path:abf00920	Sulfur metabolism - Azospirillum brasilense Sp7
+path:abf00930	Caprolactam degradation - Azospirillum brasilense Sp7
+path:abf00970	Aminoacyl-tRNA biosynthesis - Azospirillum brasilense Sp7
+path:abf01040	Biosynthesis of unsaturated fatty acids - Azospirillum brasilense Sp7
+path:abf01053	Biosynthesis of siderophore group nonribosomal peptides - Azospirillum brasilense Sp7
+path:abf01054	Nonribosomal peptide structures - Azospirillum brasilense Sp7
+path:abf01055	Biosynthesis of vancomycin group antibiotics - Azospirillum brasilense Sp7
+path:abf01056	Biosynthesis of type II polyketide backbone - Azospirillum brasilense Sp7
+path:abf01100	Metabolic pathways - Azospirillum brasilense Sp7
+path:abf01110	Biosynthesis of secondary metabolites - Azospirillum brasilense Sp7
+path:abf01120	Microbial metabolism in diverse environments - Azospirillum brasilense Sp7
+path:abf01130	Biosynthesis of antibiotics - Azospirillum brasilense Sp7
+path:abf01200	Carbon metabolism - Azospirillum brasilense Sp7
+path:abf01210	2-Oxocarboxylic acid metabolism - Azospirillum brasilense Sp7
+path:abf01212	Fatty acid metabolism - Azospirillum brasilense Sp7
+path:abf01220	Degradation of aromatic compounds - Azospirillum brasilense Sp7
+path:abf01230	Biosynthesis of amino acids - Azospirillum brasilense Sp7
+path:abf01501	beta-Lactam resistance - Azospirillum brasilense Sp7
+path:abf01502	Vancomycin resistance - Azospirillum brasilense Sp7
+path:abf01503	Cationic antimicrobial peptide (CAMP) resistance - Azospirillum brasilense Sp7
+path:abf02010	ABC transporters - Azospirillum brasilense Sp7
+path:abf02020	Two-component system - Azospirillum brasilense Sp7
+path:abf02024	Quorum sensing - Azospirillum brasilense Sp7
+path:abf02030	Bacterial chemotaxis - Azospirillum brasilense Sp7
+path:abf02040	Flagellar assembly - Azospirillum brasilense Sp7
+path:abf02060	Phosphotransferase system (PTS) - Azospirillum brasilense Sp7
+path:abf03010	Ribosome - Azospirillum brasilense Sp7
+path:abf03018	RNA degradation - Azospirillum brasilense Sp7
+path:abf03020	RNA polymerase - Azospirillum brasilense Sp7
+path:abf03030	DNA replication - Azospirillum brasilense Sp7
+path:abf03060	Protein export - Azospirillum brasilense Sp7
+path:abf03070	Bacterial secretion system - Azospirillum brasilense Sp7
+path:abf03410	Base excision repair - Azospirillum brasilense Sp7
+path:abf03420	Nucleotide excision repair - Azospirillum brasilense Sp7
+path:abf03430	Mismatch repair - Azospirillum brasilense Sp7
+path:abf03440	Homologous recombination - Azospirillum brasilense Sp7
+path:abf04122	Sulfur relay system - Azospirillum brasilense Sp7
+path:ati00010	Glycolysis / Gluconeogenesis - Azospirillum thiophilum
+path:ati00020	Citrate cycle (TCA cycle) - Azospirillum thiophilum
+path:ati00030	Pentose phosphate pathway - Azospirillum thiophilum
+path:ati00040	Pentose and glucuronate interconversions - Azospirillum thiophilum
+path:ati00051	Fructose and mannose metabolism - Azospirillum thiophilum
+path:ati00052	Galactose metabolism - Azospirillum thiophilum
+path:ati00053	Ascorbate and aldarate metabolism - Azospirillum thiophilum
+path:ati00061	Fatty acid biosynthesis - Azospirillum thiophilum
+path:ati00071	Fatty acid degradation - Azospirillum thiophilum
+path:ati00072	Synthesis and degradation of ketone bodies - Azospirillum thiophilum
+path:ati00130	Ubiquinone and other terpenoid-quinone biosynthesis - Azospirillum thiophilum
+path:ati00190	Oxidative phosphorylation - Azospirillum thiophilum
+path:ati00220	Arginine biosynthesis - Azospirillum thiophilum
+path:ati00230	Purine metabolism - Azospirillum thiophilum
+path:ati00240	Pyrimidine metabolism - Azospirillum thiophilum
+path:ati00250	Alanine, aspartate and glutamate metabolism - Azospirillum thiophilum
+path:ati00260	Glycine, serine and threonine metabolism - Azospirillum thiophilum
+path:ati00261	Monobactam biosynthesis - Azospirillum thiophilum
+path:ati00270	Cysteine and methionine metabolism - Azospirillum thiophilum
+path:ati00280	Valine, leucine and isoleucine degradation - Azospirillum thiophilum
+path:ati00281	Geraniol degradation - Azospirillum thiophilum
+path:ati00290	Valine, leucine and isoleucine biosynthesis - Azospirillum thiophilum
+path:ati00300	Lysine biosynthesis - Azospirillum thiophilum
+path:ati00310	Lysine degradation - Azospirillum thiophilum
+path:ati00311	Penicillin and cephalosporin biosynthesis - Azospirillum thiophilum
+path:ati00330	Arginine and proline metabolism - Azospirillum thiophilum
+path:ati00332	Carbapenem biosynthesis - Azospirillum thiophilum
+path:ati00340	Histidine metabolism - Azospirillum thiophilum
+path:ati00350	Tyrosine metabolism - Azospirillum thiophilum
+path:ati00360	Phenylalanine metabolism - Azospirillum thiophilum
+path:ati00361	Chlorocyclohexane and chlorobenzene degradation - Azospirillum thiophilum
+path:ati00362	Benzoate degradation - Azospirillum thiophilum
+path:ati00364	Fluorobenzoate degradation - Azospirillum thiophilum
+path:ati00365	Furfural degradation - Azospirillum thiophilum
+path:ati00380	Tryptophan metabolism - Azospirillum thiophilum
+path:ati00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Azospirillum thiophilum
+path:ati00401	Novobiocin biosynthesis - Azospirillum thiophilum
+path:ati00410	beta-Alanine metabolism - Azospirillum thiophilum
+path:ati00430	Taurine and hypotaurine metabolism - Azospirillum thiophilum
+path:ati00440	Phosphonate and phosphinate metabolism - Azospirillum thiophilum
+path:ati00450	Selenocompound metabolism - Azospirillum thiophilum
+path:ati00460	Cyanoamino acid metabolism - Azospirillum thiophilum
+path:ati00471	D-Glutamine and D-glutamate metabolism - Azospirillum thiophilum
+path:ati00472	D-Arginine and D-ornithine metabolism - Azospirillum thiophilum
+path:ati00473	D-Alanine metabolism - Azospirillum thiophilum
+path:ati00480	Glutathione metabolism - Azospirillum thiophilum
+path:ati00500	Starch and sucrose metabolism - Azospirillum thiophilum
+path:ati00520	Amino sugar and nucleotide sugar metabolism - Azospirillum thiophilum
+path:ati00521	Streptomycin biosynthesis - Azospirillum thiophilum
+path:ati00523	Polyketide sugar unit biosynthesis - Azospirillum thiophilum
+path:ati00525	Acarbose and validamycin biosynthesis - Azospirillum thiophilum
+path:ati00540	Lipopolysaccharide biosynthesis - Azospirillum thiophilum
+path:ati00550	Peptidoglycan biosynthesis - Azospirillum thiophilum
+path:ati00561	Glycerolipid metabolism - Azospirillum thiophilum
+path:ati00562	Inositol phosphate metabolism - Azospirillum thiophilum
+path:ati00564	Glycerophospholipid metabolism - Azospirillum thiophilum
+path:ati00590	Arachidonic acid metabolism - Azospirillum thiophilum
+path:ati00592	alpha-Linolenic acid metabolism - Azospirillum thiophilum
+path:ati00620	Pyruvate metabolism - Azospirillum thiophilum
+path:ati00621	Dioxin degradation - Azospirillum thiophilum
+path:ati00622	Xylene degradation - Azospirillum thiophilum
+path:ati00623	Toluene degradation - Azospirillum thiophilum
+path:ati00624	Polycyclic aromatic hydrocarbon degradation - Azospirillum thiophilum
+path:ati00625	Chloroalkane and chloroalkene degradation - Azospirillum thiophilum
+path:ati00626	Naphthalene degradation - Azospirillum thiophilum
+path:ati00627	Aminobenzoate degradation - Azospirillum thiophilum
+path:ati00630	Glyoxylate and dicarboxylate metabolism - Azospirillum thiophilum
+path:ati00633	Nitrotoluene degradation - Azospirillum thiophilum
+path:ati00640	Propanoate metabolism - Azospirillum thiophilum
+path:ati00643	Styrene degradation - Azospirillum thiophilum
+path:ati00650	Butanoate metabolism - Azospirillum thiophilum
+path:ati00660	C5-Branched dibasic acid metabolism - Azospirillum thiophilum
+path:ati00670	One carbon pool by folate - Azospirillum thiophilum
+path:ati00680	Methane metabolism - Azospirillum thiophilum
+path:ati00710	Carbon fixation in photosynthetic organisms - Azospirillum thiophilum
+path:ati00730	Thiamine metabolism - Azospirillum thiophilum
+path:ati00740	Riboflavin metabolism - Azospirillum thiophilum
+path:ati00750	Vitamin B6 metabolism - Azospirillum thiophilum
+path:ati00760	Nicotinate and nicotinamide metabolism - Azospirillum thiophilum
+path:ati00770	Pantothenate and CoA biosynthesis - Azospirillum thiophilum
+path:ati00780	Biotin metabolism - Azospirillum thiophilum
+path:ati00785	Lipoic acid metabolism - Azospirillum thiophilum
+path:ati00790	Folate biosynthesis - Azospirillum thiophilum
+path:ati00860	Porphyrin and chlorophyll metabolism - Azospirillum thiophilum
+path:ati00900	Terpenoid backbone biosynthesis - Azospirillum thiophilum
+path:ati00903	Limonene and pinene degradation - Azospirillum thiophilum
+path:ati00906	Carotenoid biosynthesis - Azospirillum thiophilum
+path:ati00910	Nitrogen metabolism - Azospirillum thiophilum
+path:ati00920	Sulfur metabolism - Azospirillum thiophilum
+path:ati00930	Caprolactam degradation - Azospirillum thiophilum
+path:ati00970	Aminoacyl-tRNA biosynthesis - Azospirillum thiophilum
+path:ati01040	Biosynthesis of unsaturated fatty acids - Azospirillum thiophilum
+path:ati01054	Nonribosomal peptide structures - Azospirillum thiophilum
+path:ati01055	Biosynthesis of vancomycin group antibiotics - Azospirillum thiophilum
+path:ati01100	Metabolic pathways - Azospirillum thiophilum
+path:ati01110	Biosynthesis of secondary metabolites - Azospirillum thiophilum
+path:ati01120	Microbial metabolism in diverse environments - Azospirillum thiophilum
+path:ati01130	Biosynthesis of antibiotics - Azospirillum thiophilum
+path:ati01200	Carbon metabolism - Azospirillum thiophilum
+path:ati01210	2-Oxocarboxylic acid metabolism - Azospirillum thiophilum
+path:ati01212	Fatty acid metabolism - Azospirillum thiophilum
+path:ati01220	Degradation of aromatic compounds - Azospirillum thiophilum
+path:ati01230	Biosynthesis of amino acids - Azospirillum thiophilum
+path:ati01501	beta-Lactam resistance - Azospirillum thiophilum
+path:ati01502	Vancomycin resistance - Azospirillum thiophilum
+path:ati01503	Cationic antimicrobial peptide (CAMP) resistance - Azospirillum thiophilum
+path:ati02010	ABC transporters - Azospirillum thiophilum
+path:ati02020	Two-component system - Azospirillum thiophilum
+path:ati02024	Quorum sensing - Azospirillum thiophilum
+path:ati02030	Bacterial chemotaxis - Azospirillum thiophilum
+path:ati02040	Flagellar assembly - Azospirillum thiophilum
+path:ati02060	Phosphotransferase system (PTS) - Azospirillum thiophilum
+path:ati03010	Ribosome - Azospirillum thiophilum
+path:ati03018	RNA degradation - Azospirillum thiophilum
+path:ati03020	RNA polymerase - Azospirillum thiophilum
+path:ati03030	DNA replication - Azospirillum thiophilum
+path:ati03060	Protein export - Azospirillum thiophilum
+path:ati03070	Bacterial secretion system - Azospirillum thiophilum
+path:ati03410	Base excision repair - Azospirillum thiophilum
+path:ati03420	Nucleotide excision repair - Azospirillum thiophilum
+path:ati03430	Mismatch repair - Azospirillum thiophilum
+path:ati03440	Homologous recombination - Azospirillum thiophilum
+path:ati04122	Sulfur relay system - Azospirillum thiophilum
+path:ahu00010	Glycolysis / Gluconeogenesis - Azospirillum humicireducens
+path:ahu00020	Citrate cycle (TCA cycle) - Azospirillum humicireducens
+path:ahu00030	Pentose phosphate pathway - Azospirillum humicireducens
+path:ahu00040	Pentose and glucuronate interconversions - Azospirillum humicireducens
+path:ahu00051	Fructose and mannose metabolism - Azospirillum humicireducens
+path:ahu00052	Galactose metabolism - Azospirillum humicireducens
+path:ahu00053	Ascorbate and aldarate metabolism - Azospirillum humicireducens
+path:ahu00061	Fatty acid biosynthesis - Azospirillum humicireducens
+path:ahu00071	Fatty acid degradation - Azospirillum humicireducens
+path:ahu00130	Ubiquinone and other terpenoid-quinone biosynthesis - Azospirillum humicireducens
+path:ahu00190	Oxidative phosphorylation - Azospirillum humicireducens
+path:ahu00220	Arginine biosynthesis - Azospirillum humicireducens
+path:ahu00230	Purine metabolism - Azospirillum humicireducens
+path:ahu00240	Pyrimidine metabolism - Azospirillum humicireducens
+path:ahu00250	Alanine, aspartate and glutamate metabolism - Azospirillum humicireducens
+path:ahu00260	Glycine, serine and threonine metabolism - Azospirillum humicireducens
+path:ahu00261	Monobactam biosynthesis - Azospirillum humicireducens
+path:ahu00270	Cysteine and methionine metabolism - Azospirillum humicireducens
+path:ahu00280	Valine, leucine and isoleucine degradation - Azospirillum humicireducens
+path:ahu00290	Valine, leucine and isoleucine biosynthesis - Azospirillum humicireducens
+path:ahu00300	Lysine biosynthesis - Azospirillum humicireducens
+path:ahu00310	Lysine degradation - Azospirillum humicireducens
+path:ahu00330	Arginine and proline metabolism - Azospirillum humicireducens
+path:ahu00332	Carbapenem biosynthesis - Azospirillum humicireducens
+path:ahu00340	Histidine metabolism - Azospirillum humicireducens
+path:ahu00350	Tyrosine metabolism - Azospirillum humicireducens
+path:ahu00360	Phenylalanine metabolism - Azospirillum humicireducens
+path:ahu00361	Chlorocyclohexane and chlorobenzene degradation - Azospirillum humicireducens
+path:ahu00362	Benzoate degradation - Azospirillum humicireducens
+path:ahu00364	Fluorobenzoate degradation - Azospirillum humicireducens
+path:ahu00380	Tryptophan metabolism - Azospirillum humicireducens
+path:ahu00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Azospirillum humicireducens
+path:ahu00410	beta-Alanine metabolism - Azospirillum humicireducens
+path:ahu00430	Taurine and hypotaurine metabolism - Azospirillum humicireducens
+path:ahu00440	Phosphonate and phosphinate metabolism - Azospirillum humicireducens
+path:ahu00450	Selenocompound metabolism - Azospirillum humicireducens
+path:ahu00460	Cyanoamino acid metabolism - Azospirillum humicireducens
+path:ahu00471	D-Glutamine and D-glutamate metabolism - Azospirillum humicireducens
+path:ahu00473	D-Alanine metabolism - Azospirillum humicireducens
+path:ahu00480	Glutathione metabolism - Azospirillum humicireducens
+path:ahu00500	Starch and sucrose metabolism - Azospirillum humicireducens
+path:ahu00520	Amino sugar and nucleotide sugar metabolism - Azospirillum humicireducens
+path:ahu00521	Streptomycin biosynthesis - Azospirillum humicireducens
+path:ahu00540	Lipopolysaccharide biosynthesis - Azospirillum humicireducens
+path:ahu00550	Peptidoglycan biosynthesis - Azospirillum humicireducens
+path:ahu00561	Glycerolipid metabolism - Azospirillum humicireducens
+path:ahu00562	Inositol phosphate metabolism - Azospirillum humicireducens
+path:ahu00564	Glycerophospholipid metabolism - Azospirillum humicireducens
+path:ahu00590	Arachidonic acid metabolism - Azospirillum humicireducens
+path:ahu00620	Pyruvate metabolism - Azospirillum humicireducens
+path:ahu00621	Dioxin degradation - Azospirillum humicireducens
+path:ahu00622	Xylene degradation - Azospirillum humicireducens
+path:ahu00623	Toluene degradation - Azospirillum humicireducens
+path:ahu00625	Chloroalkane and chloroalkene degradation - Azospirillum humicireducens
+path:ahu00627	Aminobenzoate degradation - Azospirillum humicireducens
+path:ahu00630	Glyoxylate and dicarboxylate metabolism - Azospirillum humicireducens
+path:ahu00633	Nitrotoluene degradation - Azospirillum humicireducens
+path:ahu00640	Propanoate metabolism - Azospirillum humicireducens
+path:ahu00643	Styrene degradation - Azospirillum humicireducens
+path:ahu00650	Butanoate metabolism - Azospirillum humicireducens
+path:ahu00660	C5-Branched dibasic acid metabolism - Azospirillum humicireducens
+path:ahu00670	One carbon pool by folate - Azospirillum humicireducens
+path:ahu00680	Methane metabolism - Azospirillum humicireducens
+path:ahu00710	Carbon fixation in photosynthetic organisms - Azospirillum humicireducens
+path:ahu00730	Thiamine metabolism - Azospirillum humicireducens
+path:ahu00740	Riboflavin metabolism - Azospirillum humicireducens
+path:ahu00750	Vitamin B6 metabolism - Azospirillum humicireducens
+path:ahu00760	Nicotinate and nicotinamide metabolism - Azospirillum humicireducens
+path:ahu00770	Pantothenate and CoA biosynthesis - Azospirillum humicireducens
+path:ahu00780	Biotin metabolism - Azospirillum humicireducens
+path:ahu00785	Lipoic acid metabolism - Azospirillum humicireducens
+path:ahu00790	Folate biosynthesis - Azospirillum humicireducens
+path:ahu00860	Porphyrin and chlorophyll metabolism - Azospirillum humicireducens
+path:ahu00900	Terpenoid backbone biosynthesis - Azospirillum humicireducens
+path:ahu00903	Limonene and pinene degradation - Azospirillum humicireducens
+path:ahu00906	Carotenoid biosynthesis - Azospirillum humicireducens
+path:ahu00910	Nitrogen metabolism - Azospirillum humicireducens
+path:ahu00920	Sulfur metabolism - Azospirillum humicireducens
+path:ahu00930	Caprolactam degradation - Azospirillum humicireducens
+path:ahu00970	Aminoacyl-tRNA biosynthesis - Azospirillum humicireducens
+path:ahu01040	Biosynthesis of unsaturated fatty acids - Azospirillum humicireducens
+path:ahu01054	Nonribosomal peptide structures - Azospirillum humicireducens
+path:ahu01100	Metabolic pathways - Azospirillum humicireducens
+path:ahu01110	Biosynthesis of secondary metabolites - Azospirillum humicireducens
+path:ahu01120	Microbial metabolism in diverse environments - Azospirillum humicireducens
+path:ahu01130	Biosynthesis of antibiotics - Azospirillum humicireducens
+path:ahu01200	Carbon metabolism - Azospirillum humicireducens
+path:ahu01210	2-Oxocarboxylic acid metabolism - Azospirillum humicireducens
+path:ahu01212	Fatty acid metabolism - Azospirillum humicireducens
+path:ahu01220	Degradation of aromatic compounds - Azospirillum humicireducens
+path:ahu01230	Biosynthesis of amino acids - Azospirillum humicireducens
+path:ahu01501	beta-Lactam resistance - Azospirillum humicireducens
+path:ahu01502	Vancomycin resistance - Azospirillum humicireducens
+path:ahu01503	Cationic antimicrobial peptide (CAMP) resistance - Azospirillum humicireducens
+path:ahu02010	ABC transporters - Azospirillum humicireducens
+path:ahu02020	Two-component system - Azospirillum humicireducens
+path:ahu02024	Quorum sensing - Azospirillum humicireducens
+path:ahu02030	Bacterial chemotaxis - Azospirillum humicireducens
+path:ahu02040	Flagellar assembly - Azospirillum humicireducens
+path:ahu02060	Phosphotransferase system (PTS) - Azospirillum humicireducens
+path:ahu03010	Ribosome - Azospirillum humicireducens
+path:ahu03018	RNA degradation - Azospirillum humicireducens
+path:ahu03020	RNA polymerase - Azospirillum humicireducens
+path:ahu03030	DNA replication - Azospirillum humicireducens
+path:ahu03060	Protein export - Azospirillum humicireducens
+path:ahu03070	Bacterial secretion system - Azospirillum humicireducens
+path:ahu03410	Base excision repair - Azospirillum humicireducens
+path:ahu03420	Nucleotide excision repair - Azospirillum humicireducens
+path:ahu03430	Mismatch repair - Azospirillum humicireducens
+path:ahu03440	Homologous recombination - Azospirillum humicireducens
+path:ahu04122	Sulfur relay system - Azospirillum humicireducens

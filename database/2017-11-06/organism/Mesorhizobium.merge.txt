@@ -1,0 +1,975 @@
+path:mlo00010	Glycolysis / Gluconeogenesis - Mesorhizobium loti MAFF303099
+path:mlo00020	Citrate cycle (TCA cycle) - Mesorhizobium loti MAFF303099
+path:mlo00030	Pentose phosphate pathway - Mesorhizobium loti MAFF303099
+path:mlo00040	Pentose and glucuronate interconversions - Mesorhizobium loti MAFF303099
+path:mlo00051	Fructose and mannose metabolism - Mesorhizobium loti MAFF303099
+path:mlo00052	Galactose metabolism - Mesorhizobium loti MAFF303099
+path:mlo00053	Ascorbate and aldarate metabolism - Mesorhizobium loti MAFF303099
+path:mlo00061	Fatty acid biosynthesis - Mesorhizobium loti MAFF303099
+path:mlo00071	Fatty acid degradation - Mesorhizobium loti MAFF303099
+path:mlo00072	Synthesis and degradation of ketone bodies - Mesorhizobium loti MAFF303099
+path:mlo00121	Secondary bile acid biosynthesis - Mesorhizobium loti MAFF303099
+path:mlo00130	Ubiquinone and other terpenoid-quinone biosynthesis - Mesorhizobium loti MAFF303099
+path:mlo00190	Oxidative phosphorylation - Mesorhizobium loti MAFF303099
+path:mlo00220	Arginine biosynthesis - Mesorhizobium loti MAFF303099
+path:mlo00230	Purine metabolism - Mesorhizobium loti MAFF303099
+path:mlo00240	Pyrimidine metabolism - Mesorhizobium loti MAFF303099
+path:mlo00250	Alanine, aspartate and glutamate metabolism - Mesorhizobium loti MAFF303099
+path:mlo00260	Glycine, serine and threonine metabolism - Mesorhizobium loti MAFF303099
+path:mlo00261	Monobactam biosynthesis - Mesorhizobium loti MAFF303099
+path:mlo00270	Cysteine and methionine metabolism - Mesorhizobium loti MAFF303099
+path:mlo00280	Valine, leucine and isoleucine degradation - Mesorhizobium loti MAFF303099
+path:mlo00281	Geraniol degradation - Mesorhizobium loti MAFF303099
+path:mlo00290	Valine, leucine and isoleucine biosynthesis - Mesorhizobium loti MAFF303099
+path:mlo00300	Lysine biosynthesis - Mesorhizobium loti MAFF303099
+path:mlo00310	Lysine degradation - Mesorhizobium loti MAFF303099
+path:mlo00311	Penicillin and cephalosporin biosynthesis - Mesorhizobium loti MAFF303099
+path:mlo00330	Arginine and proline metabolism - Mesorhizobium loti MAFF303099
+path:mlo00332	Carbapenem biosynthesis - Mesorhizobium loti MAFF303099
+path:mlo00340	Histidine metabolism - Mesorhizobium loti MAFF303099
+path:mlo00350	Tyrosine metabolism - Mesorhizobium loti MAFF303099
+path:mlo00360	Phenylalanine metabolism - Mesorhizobium loti MAFF303099
+path:mlo00361	Chlorocyclohexane and chlorobenzene degradation - Mesorhizobium loti MAFF303099
+path:mlo00362	Benzoate degradation - Mesorhizobium loti MAFF303099
+path:mlo00364	Fluorobenzoate degradation - Mesorhizobium loti MAFF303099
+path:mlo00380	Tryptophan metabolism - Mesorhizobium loti MAFF303099
+path:mlo00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Mesorhizobium loti MAFF303099
+path:mlo00401	Novobiocin biosynthesis - Mesorhizobium loti MAFF303099
+path:mlo00410	beta-Alanine metabolism - Mesorhizobium loti MAFF303099
+path:mlo00430	Taurine and hypotaurine metabolism - Mesorhizobium loti MAFF303099
+path:mlo00440	Phosphonate and phosphinate metabolism - Mesorhizobium loti MAFF303099
+path:mlo00450	Selenocompound metabolism - Mesorhizobium loti MAFF303099
+path:mlo00460	Cyanoamino acid metabolism - Mesorhizobium loti MAFF303099
+path:mlo00471	D-Glutamine and D-glutamate metabolism - Mesorhizobium loti MAFF303099
+path:mlo00472	D-Arginine and D-ornithine metabolism - Mesorhizobium loti MAFF303099
+path:mlo00473	D-Alanine metabolism - Mesorhizobium loti MAFF303099
+path:mlo00480	Glutathione metabolism - Mesorhizobium loti MAFF303099
+path:mlo00500	Starch and sucrose metabolism - Mesorhizobium loti MAFF303099
+path:mlo00520	Amino sugar and nucleotide sugar metabolism - Mesorhizobium loti MAFF303099
+path:mlo00521	Streptomycin biosynthesis - Mesorhizobium loti MAFF303099
+path:mlo00523	Polyketide sugar unit biosynthesis - Mesorhizobium loti MAFF303099
+path:mlo00525	Acarbose and validamycin biosynthesis - Mesorhizobium loti MAFF303099
+path:mlo00540	Lipopolysaccharide biosynthesis - Mesorhizobium loti MAFF303099
+path:mlo00550	Peptidoglycan biosynthesis - Mesorhizobium loti MAFF303099
+path:mlo00561	Glycerolipid metabolism - Mesorhizobium loti MAFF303099
+path:mlo00562	Inositol phosphate metabolism - Mesorhizobium loti MAFF303099
+path:mlo00564	Glycerophospholipid metabolism - Mesorhizobium loti MAFF303099
+path:mlo00592	alpha-Linolenic acid metabolism - Mesorhizobium loti MAFF303099
+path:mlo00600	Sphingolipid metabolism - Mesorhizobium loti MAFF303099
+path:mlo00620	Pyruvate metabolism - Mesorhizobium loti MAFF303099
+path:mlo00621	Dioxin degradation - Mesorhizobium loti MAFF303099
+path:mlo00622	Xylene degradation - Mesorhizobium loti MAFF303099
+path:mlo00623	Toluene degradation - Mesorhizobium loti MAFF303099
+path:mlo00624	Polycyclic aromatic hydrocarbon degradation - Mesorhizobium loti MAFF303099
+path:mlo00625	Chloroalkane and chloroalkene degradation - Mesorhizobium loti MAFF303099
+path:mlo00626	Naphthalene degradation - Mesorhizobium loti MAFF303099
+path:mlo00627	Aminobenzoate degradation - Mesorhizobium loti MAFF303099
+path:mlo00630	Glyoxylate and dicarboxylate metabolism - Mesorhizobium loti MAFF303099
+path:mlo00633	Nitrotoluene degradation - Mesorhizobium loti MAFF303099
+path:mlo00640	Propanoate metabolism - Mesorhizobium loti MAFF303099
+path:mlo00643	Styrene degradation - Mesorhizobium loti MAFF303099
+path:mlo00650	Butanoate metabolism - Mesorhizobium loti MAFF303099
+path:mlo00660	C5-Branched dibasic acid metabolism - Mesorhizobium loti MAFF303099
+path:mlo00670	One carbon pool by folate - Mesorhizobium loti MAFF303099
+path:mlo00680	Methane metabolism - Mesorhizobium loti MAFF303099
+path:mlo00710	Carbon fixation in photosynthetic organisms - Mesorhizobium loti MAFF303099
+path:mlo00730	Thiamine metabolism - Mesorhizobium loti MAFF303099
+path:mlo00740	Riboflavin metabolism - Mesorhizobium loti MAFF303099
+path:mlo00750	Vitamin B6 metabolism - Mesorhizobium loti MAFF303099
+path:mlo00760	Nicotinate and nicotinamide metabolism - Mesorhizobium loti MAFF303099
+path:mlo00770	Pantothenate and CoA biosynthesis - Mesorhizobium loti MAFF303099
+path:mlo00780	Biotin metabolism - Mesorhizobium loti MAFF303099
+path:mlo00785	Lipoic acid metabolism - Mesorhizobium loti MAFF303099
+path:mlo00790	Folate biosynthesis - Mesorhizobium loti MAFF303099
+path:mlo00791	Atrazine degradation - Mesorhizobium loti MAFF303099
+path:mlo00860	Porphyrin and chlorophyll metabolism - Mesorhizobium loti MAFF303099
+path:mlo00900	Terpenoid backbone biosynthesis - Mesorhizobium loti MAFF303099
+path:mlo00903	Limonene and pinene degradation - Mesorhizobium loti MAFF303099
+path:mlo00906	Carotenoid biosynthesis - Mesorhizobium loti MAFF303099
+path:mlo00910	Nitrogen metabolism - Mesorhizobium loti MAFF303099
+path:mlo00920	Sulfur metabolism - Mesorhizobium loti MAFF303099
+path:mlo00930	Caprolactam degradation - Mesorhizobium loti MAFF303099
+path:mlo00970	Aminoacyl-tRNA biosynthesis - Mesorhizobium loti MAFF303099
+path:mlo01040	Biosynthesis of unsaturated fatty acids - Mesorhizobium loti MAFF303099
+path:mlo01054	Nonribosomal peptide structures - Mesorhizobium loti MAFF303099
+path:mlo01100	Metabolic pathways - Mesorhizobium loti MAFF303099
+path:mlo01110	Biosynthesis of secondary metabolites - Mesorhizobium loti MAFF303099
+path:mlo01120	Microbial metabolism in diverse environments - Mesorhizobium loti MAFF303099
+path:mlo01130	Biosynthesis of antibiotics - Mesorhizobium loti MAFF303099
+path:mlo01200	Carbon metabolism - Mesorhizobium loti MAFF303099
+path:mlo01210	2-Oxocarboxylic acid metabolism - Mesorhizobium loti MAFF303099
+path:mlo01212	Fatty acid metabolism - Mesorhizobium loti MAFF303099
+path:mlo01220	Degradation of aromatic compounds - Mesorhizobium loti MAFF303099
+path:mlo01230	Biosynthesis of amino acids - Mesorhizobium loti MAFF303099
+path:mlo01501	beta-Lactam resistance - Mesorhizobium loti MAFF303099
+path:mlo01502	Vancomycin resistance - Mesorhizobium loti MAFF303099
+path:mlo01503	Cationic antimicrobial peptide (CAMP) resistance - Mesorhizobium loti MAFF303099
+path:mlo02010	ABC transporters - Mesorhizobium loti MAFF303099
+path:mlo02020	Two-component system - Mesorhizobium loti MAFF303099
+path:mlo02024	Quorum sensing - Mesorhizobium loti MAFF303099
+path:mlo02030	Bacterial chemotaxis - Mesorhizobium loti MAFF303099
+path:mlo02040	Flagellar assembly - Mesorhizobium loti MAFF303099
+path:mlo02060	Phosphotransferase system (PTS) - Mesorhizobium loti MAFF303099
+path:mlo03010	Ribosome - Mesorhizobium loti MAFF303099
+path:mlo03018	RNA degradation - Mesorhizobium loti MAFF303099
+path:mlo03020	RNA polymerase - Mesorhizobium loti MAFF303099
+path:mlo03030	DNA replication - Mesorhizobium loti MAFF303099
+path:mlo03060	Protein export - Mesorhizobium loti MAFF303099
+path:mlo03070	Bacterial secretion system - Mesorhizobium loti MAFF303099
+path:mlo03410	Base excision repair - Mesorhizobium loti MAFF303099
+path:mlo03420	Nucleotide excision repair - Mesorhizobium loti MAFF303099
+path:mlo03430	Mismatch repair - Mesorhizobium loti MAFF303099
+path:mlo03440	Homologous recombination - Mesorhizobium loti MAFF303099
+path:mlo03450	Non-homologous end-joining - Mesorhizobium loti MAFF303099
+path:mlo04122	Sulfur relay system - Mesorhizobium loti MAFF303099
+path:mln00010	Glycolysis / Gluconeogenesis - Mesorhizobium loti NZP2037
+path:mln00020	Citrate cycle (TCA cycle) - Mesorhizobium loti NZP2037
+path:mln00030	Pentose phosphate pathway - Mesorhizobium loti NZP2037
+path:mln00040	Pentose and glucuronate interconversions - Mesorhizobium loti NZP2037
+path:mln00051	Fructose and mannose metabolism - Mesorhizobium loti NZP2037
+path:mln00052	Galactose metabolism - Mesorhizobium loti NZP2037
+path:mln00053	Ascorbate and aldarate metabolism - Mesorhizobium loti NZP2037
+path:mln00061	Fatty acid biosynthesis - Mesorhizobium loti NZP2037
+path:mln00071	Fatty acid degradation - Mesorhizobium loti NZP2037
+path:mln00072	Synthesis and degradation of ketone bodies - Mesorhizobium loti NZP2037
+path:mln00130	Ubiquinone and other terpenoid-quinone biosynthesis - Mesorhizobium loti NZP2037
+path:mln00190	Oxidative phosphorylation - Mesorhizobium loti NZP2037
+path:mln00220	Arginine biosynthesis - Mesorhizobium loti NZP2037
+path:mln00230	Purine metabolism - Mesorhizobium loti NZP2037
+path:mln00240	Pyrimidine metabolism - Mesorhizobium loti NZP2037
+path:mln00250	Alanine, aspartate and glutamate metabolism - Mesorhizobium loti NZP2037
+path:mln00260	Glycine, serine and threonine metabolism - Mesorhizobium loti NZP2037
+path:mln00261	Monobactam biosynthesis - Mesorhizobium loti NZP2037
+path:mln00270	Cysteine and methionine metabolism - Mesorhizobium loti NZP2037
+path:mln00280	Valine, leucine and isoleucine degradation - Mesorhizobium loti NZP2037
+path:mln00281	Geraniol degradation - Mesorhizobium loti NZP2037
+path:mln00290	Valine, leucine and isoleucine biosynthesis - Mesorhizobium loti NZP2037
+path:mln00300	Lysine biosynthesis - Mesorhizobium loti NZP2037
+path:mln00310	Lysine degradation - Mesorhizobium loti NZP2037
+path:mln00330	Arginine and proline metabolism - Mesorhizobium loti NZP2037
+path:mln00332	Carbapenem biosynthesis - Mesorhizobium loti NZP2037
+path:mln00340	Histidine metabolism - Mesorhizobium loti NZP2037
+path:mln00350	Tyrosine metabolism - Mesorhizobium loti NZP2037
+path:mln00360	Phenylalanine metabolism - Mesorhizobium loti NZP2037
+path:mln00361	Chlorocyclohexane and chlorobenzene degradation - Mesorhizobium loti NZP2037
+path:mln00362	Benzoate degradation - Mesorhizobium loti NZP2037
+path:mln00364	Fluorobenzoate degradation - Mesorhizobium loti NZP2037
+path:mln00365	Furfural degradation - Mesorhizobium loti NZP2037
+path:mln00380	Tryptophan metabolism - Mesorhizobium loti NZP2037
+path:mln00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Mesorhizobium loti NZP2037
+path:mln00401	Novobiocin biosynthesis - Mesorhizobium loti NZP2037
+path:mln00405	Phenazine biosynthesis - Mesorhizobium loti NZP2037
+path:mln00410	beta-Alanine metabolism - Mesorhizobium loti NZP2037
+path:mln00430	Taurine and hypotaurine metabolism - Mesorhizobium loti NZP2037
+path:mln00440	Phosphonate and phosphinate metabolism - Mesorhizobium loti NZP2037
+path:mln00450	Selenocompound metabolism - Mesorhizobium loti NZP2037
+path:mln00460	Cyanoamino acid metabolism - Mesorhizobium loti NZP2037
+path:mln00471	D-Glutamine and D-glutamate metabolism - Mesorhizobium loti NZP2037
+path:mln00472	D-Arginine and D-ornithine metabolism - Mesorhizobium loti NZP2037
+path:mln00473	D-Alanine metabolism - Mesorhizobium loti NZP2037
+path:mln00480	Glutathione metabolism - Mesorhizobium loti NZP2037
+path:mln00500	Starch and sucrose metabolism - Mesorhizobium loti NZP2037
+path:mln00520	Amino sugar and nucleotide sugar metabolism - Mesorhizobium loti NZP2037
+path:mln00521	Streptomycin biosynthesis - Mesorhizobium loti NZP2037
+path:mln00523	Polyketide sugar unit biosynthesis - Mesorhizobium loti NZP2037
+path:mln00525	Acarbose and validamycin biosynthesis - Mesorhizobium loti NZP2037
+path:mln00540	Lipopolysaccharide biosynthesis - Mesorhizobium loti NZP2037
+path:mln00550	Peptidoglycan biosynthesis - Mesorhizobium loti NZP2037
+path:mln00561	Glycerolipid metabolism - Mesorhizobium loti NZP2037
+path:mln00562	Inositol phosphate metabolism - Mesorhizobium loti NZP2037
+path:mln00564	Glycerophospholipid metabolism - Mesorhizobium loti NZP2037
+path:mln00592	alpha-Linolenic acid metabolism - Mesorhizobium loti NZP2037
+path:mln00600	Sphingolipid metabolism - Mesorhizobium loti NZP2037
+path:mln00620	Pyruvate metabolism - Mesorhizobium loti NZP2037
+path:mln00621	Dioxin degradation - Mesorhizobium loti NZP2037
+path:mln00622	Xylene degradation - Mesorhizobium loti NZP2037
+path:mln00623	Toluene degradation - Mesorhizobium loti NZP2037
+path:mln00624	Polycyclic aromatic hydrocarbon degradation - Mesorhizobium loti NZP2037
+path:mln00625	Chloroalkane and chloroalkene degradation - Mesorhizobium loti NZP2037
+path:mln00626	Naphthalene degradation - Mesorhizobium loti NZP2037
+path:mln00627	Aminobenzoate degradation - Mesorhizobium loti NZP2037
+path:mln00630	Glyoxylate and dicarboxylate metabolism - Mesorhizobium loti NZP2037
+path:mln00633	Nitrotoluene degradation - Mesorhizobium loti NZP2037
+path:mln00640	Propanoate metabolism - Mesorhizobium loti NZP2037
+path:mln00643	Styrene degradation - Mesorhizobium loti NZP2037
+path:mln00650	Butanoate metabolism - Mesorhizobium loti NZP2037
+path:mln00660	C5-Branched dibasic acid metabolism - Mesorhizobium loti NZP2037
+path:mln00670	One carbon pool by folate - Mesorhizobium loti NZP2037
+path:mln00680	Methane metabolism - Mesorhizobium loti NZP2037
+path:mln00710	Carbon fixation in photosynthetic organisms - Mesorhizobium loti NZP2037
+path:mln00730	Thiamine metabolism - Mesorhizobium loti NZP2037
+path:mln00740	Riboflavin metabolism - Mesorhizobium loti NZP2037
+path:mln00750	Vitamin B6 metabolism - Mesorhizobium loti NZP2037
+path:mln00760	Nicotinate and nicotinamide metabolism - Mesorhizobium loti NZP2037
+path:mln00770	Pantothenate and CoA biosynthesis - Mesorhizobium loti NZP2037
+path:mln00780	Biotin metabolism - Mesorhizobium loti NZP2037
+path:mln00785	Lipoic acid metabolism - Mesorhizobium loti NZP2037
+path:mln00790	Folate biosynthesis - Mesorhizobium loti NZP2037
+path:mln00860	Porphyrin and chlorophyll metabolism - Mesorhizobium loti NZP2037
+path:mln00900	Terpenoid backbone biosynthesis - Mesorhizobium loti NZP2037
+path:mln00903	Limonene and pinene degradation - Mesorhizobium loti NZP2037
+path:mln00906	Carotenoid biosynthesis - Mesorhizobium loti NZP2037
+path:mln00910	Nitrogen metabolism - Mesorhizobium loti NZP2037
+path:mln00920	Sulfur metabolism - Mesorhizobium loti NZP2037
+path:mln00930	Caprolactam degradation - Mesorhizobium loti NZP2037
+path:mln00970	Aminoacyl-tRNA biosynthesis - Mesorhizobium loti NZP2037
+path:mln01040	Biosynthesis of unsaturated fatty acids - Mesorhizobium loti NZP2037
+path:mln01054	Nonribosomal peptide structures - Mesorhizobium loti NZP2037
+path:mln01100	Metabolic pathways - Mesorhizobium loti NZP2037
+path:mln01110	Biosynthesis of secondary metabolites - Mesorhizobium loti NZP2037
+path:mln01120	Microbial metabolism in diverse environments - Mesorhizobium loti NZP2037
+path:mln01130	Biosynthesis of antibiotics - Mesorhizobium loti NZP2037
+path:mln01200	Carbon metabolism - Mesorhizobium loti NZP2037
+path:mln01210	2-Oxocarboxylic acid metabolism - Mesorhizobium loti NZP2037
+path:mln01212	Fatty acid metabolism - Mesorhizobium loti NZP2037
+path:mln01220	Degradation of aromatic compounds - Mesorhizobium loti NZP2037
+path:mln01230	Biosynthesis of amino acids - Mesorhizobium loti NZP2037
+path:mln01501	beta-Lactam resistance - Mesorhizobium loti NZP2037
+path:mln01502	Vancomycin resistance - Mesorhizobium loti NZP2037
+path:mln01503	Cationic antimicrobial peptide (CAMP) resistance - Mesorhizobium loti NZP2037
+path:mln02010	ABC transporters - Mesorhizobium loti NZP2037
+path:mln02020	Two-component system - Mesorhizobium loti NZP2037
+path:mln02024	Quorum sensing - Mesorhizobium loti NZP2037
+path:mln02030	Bacterial chemotaxis - Mesorhizobium loti NZP2037
+path:mln02040	Flagellar assembly - Mesorhizobium loti NZP2037
+path:mln02060	Phosphotransferase system (PTS) - Mesorhizobium loti NZP2037
+path:mln03010	Ribosome - Mesorhizobium loti NZP2037
+path:mln03018	RNA degradation - Mesorhizobium loti NZP2037
+path:mln03020	RNA polymerase - Mesorhizobium loti NZP2037
+path:mln03030	DNA replication - Mesorhizobium loti NZP2037
+path:mln03060	Protein export - Mesorhizobium loti NZP2037
+path:mln03070	Bacterial secretion system - Mesorhizobium loti NZP2037
+path:mln03410	Base excision repair - Mesorhizobium loti NZP2037
+path:mln03420	Nucleotide excision repair - Mesorhizobium loti NZP2037
+path:mln03430	Mismatch repair - Mesorhizobium loti NZP2037
+path:mln03440	Homologous recombination - Mesorhizobium loti NZP2037
+path:mln03450	Non-homologous end-joining - Mesorhizobium loti NZP2037
+path:mln04122	Sulfur relay system - Mesorhizobium loti NZP2037
+path:mci00010	Glycolysis / Gluconeogenesis - Mesorhizobium ciceri
+path:mci00020	Citrate cycle (TCA cycle) - Mesorhizobium ciceri
+path:mci00030	Pentose phosphate pathway - Mesorhizobium ciceri
+path:mci00040	Pentose and glucuronate interconversions - Mesorhizobium ciceri
+path:mci00051	Fructose and mannose metabolism - Mesorhizobium ciceri
+path:mci00052	Galactose metabolism - Mesorhizobium ciceri
+path:mci00053	Ascorbate and aldarate metabolism - Mesorhizobium ciceri
+path:mci00061	Fatty acid biosynthesis - Mesorhizobium ciceri
+path:mci00071	Fatty acid degradation - Mesorhizobium ciceri
+path:mci00072	Synthesis and degradation of ketone bodies - Mesorhizobium ciceri
+path:mci00130	Ubiquinone and other terpenoid-quinone biosynthesis - Mesorhizobium ciceri
+path:mci00190	Oxidative phosphorylation - Mesorhizobium ciceri
+path:mci00220	Arginine biosynthesis - Mesorhizobium ciceri
+path:mci00230	Purine metabolism - Mesorhizobium ciceri
+path:mci00240	Pyrimidine metabolism - Mesorhizobium ciceri
+path:mci00250	Alanine, aspartate and glutamate metabolism - Mesorhizobium ciceri
+path:mci00260	Glycine, serine and threonine metabolism - Mesorhizobium ciceri
+path:mci00261	Monobactam biosynthesis - Mesorhizobium ciceri
+path:mci00270	Cysteine and methionine metabolism - Mesorhizobium ciceri
+path:mci00280	Valine, leucine and isoleucine degradation - Mesorhizobium ciceri
+path:mci00281	Geraniol degradation - Mesorhizobium ciceri
+path:mci00290	Valine, leucine and isoleucine biosynthesis - Mesorhizobium ciceri
+path:mci00300	Lysine biosynthesis - Mesorhizobium ciceri
+path:mci00310	Lysine degradation - Mesorhizobium ciceri
+path:mci00330	Arginine and proline metabolism - Mesorhizobium ciceri
+path:mci00332	Carbapenem biosynthesis - Mesorhizobium ciceri
+path:mci00340	Histidine metabolism - Mesorhizobium ciceri
+path:mci00350	Tyrosine metabolism - Mesorhizobium ciceri
+path:mci00360	Phenylalanine metabolism - Mesorhizobium ciceri
+path:mci00361	Chlorocyclohexane and chlorobenzene degradation - Mesorhizobium ciceri
+path:mci00362	Benzoate degradation - Mesorhizobium ciceri
+path:mci00364	Fluorobenzoate degradation - Mesorhizobium ciceri
+path:mci00380	Tryptophan metabolism - Mesorhizobium ciceri
+path:mci00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Mesorhizobium ciceri
+path:mci00401	Novobiocin biosynthesis - Mesorhizobium ciceri
+path:mci00405	Phenazine biosynthesis - Mesorhizobium ciceri
+path:mci00410	beta-Alanine metabolism - Mesorhizobium ciceri
+path:mci00430	Taurine and hypotaurine metabolism - Mesorhizobium ciceri
+path:mci00440	Phosphonate and phosphinate metabolism - Mesorhizobium ciceri
+path:mci00450	Selenocompound metabolism - Mesorhizobium ciceri
+path:mci00460	Cyanoamino acid metabolism - Mesorhizobium ciceri
+path:mci00471	D-Glutamine and D-glutamate metabolism - Mesorhizobium ciceri
+path:mci00472	D-Arginine and D-ornithine metabolism - Mesorhizobium ciceri
+path:mci00473	D-Alanine metabolism - Mesorhizobium ciceri
+path:mci00480	Glutathione metabolism - Mesorhizobium ciceri
+path:mci00500	Starch and sucrose metabolism - Mesorhizobium ciceri
+path:mci00520	Amino sugar and nucleotide sugar metabolism - Mesorhizobium ciceri
+path:mci00521	Streptomycin biosynthesis - Mesorhizobium ciceri
+path:mci00523	Polyketide sugar unit biosynthesis - Mesorhizobium ciceri
+path:mci00525	Acarbose and validamycin biosynthesis - Mesorhizobium ciceri
+path:mci00540	Lipopolysaccharide biosynthesis - Mesorhizobium ciceri
+path:mci00550	Peptidoglycan biosynthesis - Mesorhizobium ciceri
+path:mci00561	Glycerolipid metabolism - Mesorhizobium ciceri
+path:mci00562	Inositol phosphate metabolism - Mesorhizobium ciceri
+path:mci00564	Glycerophospholipid metabolism - Mesorhizobium ciceri
+path:mci00592	alpha-Linolenic acid metabolism - Mesorhizobium ciceri
+path:mci00600	Sphingolipid metabolism - Mesorhizobium ciceri
+path:mci00620	Pyruvate metabolism - Mesorhizobium ciceri
+path:mci00621	Dioxin degradation - Mesorhizobium ciceri
+path:mci00622	Xylene degradation - Mesorhizobium ciceri
+path:mci00623	Toluene degradation - Mesorhizobium ciceri
+path:mci00624	Polycyclic aromatic hydrocarbon degradation - Mesorhizobium ciceri
+path:mci00625	Chloroalkane and chloroalkene degradation - Mesorhizobium ciceri
+path:mci00626	Naphthalene degradation - Mesorhizobium ciceri
+path:mci00627	Aminobenzoate degradation - Mesorhizobium ciceri
+path:mci00630	Glyoxylate and dicarboxylate metabolism - Mesorhizobium ciceri
+path:mci00640	Propanoate metabolism - Mesorhizobium ciceri
+path:mci00643	Styrene degradation - Mesorhizobium ciceri
+path:mci00650	Butanoate metabolism - Mesorhizobium ciceri
+path:mci00660	C5-Branched dibasic acid metabolism - Mesorhizobium ciceri
+path:mci00670	One carbon pool by folate - Mesorhizobium ciceri
+path:mci00680	Methane metabolism - Mesorhizobium ciceri
+path:mci00710	Carbon fixation in photosynthetic organisms - Mesorhizobium ciceri
+path:mci00730	Thiamine metabolism - Mesorhizobium ciceri
+path:mci00740	Riboflavin metabolism - Mesorhizobium ciceri
+path:mci00750	Vitamin B6 metabolism - Mesorhizobium ciceri
+path:mci00760	Nicotinate and nicotinamide metabolism - Mesorhizobium ciceri
+path:mci00770	Pantothenate and CoA biosynthesis - Mesorhizobium ciceri
+path:mci00780	Biotin metabolism - Mesorhizobium ciceri
+path:mci00785	Lipoic acid metabolism - Mesorhizobium ciceri
+path:mci00790	Folate biosynthesis - Mesorhizobium ciceri
+path:mci00860	Porphyrin and chlorophyll metabolism - Mesorhizobium ciceri
+path:mci00900	Terpenoid backbone biosynthesis - Mesorhizobium ciceri
+path:mci00903	Limonene and pinene degradation - Mesorhizobium ciceri
+path:mci00906	Carotenoid biosynthesis - Mesorhizobium ciceri
+path:mci00910	Nitrogen metabolism - Mesorhizobium ciceri
+path:mci00920	Sulfur metabolism - Mesorhizobium ciceri
+path:mci00930	Caprolactam degradation - Mesorhizobium ciceri
+path:mci00970	Aminoacyl-tRNA biosynthesis - Mesorhizobium ciceri
+path:mci01040	Biosynthesis of unsaturated fatty acids - Mesorhizobium ciceri
+path:mci01054	Nonribosomal peptide structures - Mesorhizobium ciceri
+path:mci01100	Metabolic pathways - Mesorhizobium ciceri
+path:mci01110	Biosynthesis of secondary metabolites - Mesorhizobium ciceri
+path:mci01120	Microbial metabolism in diverse environments - Mesorhizobium ciceri
+path:mci01130	Biosynthesis of antibiotics - Mesorhizobium ciceri
+path:mci01200	Carbon metabolism - Mesorhizobium ciceri
+path:mci01210	2-Oxocarboxylic acid metabolism - Mesorhizobium ciceri
+path:mci01212	Fatty acid metabolism - Mesorhizobium ciceri
+path:mci01220	Degradation of aromatic compounds - Mesorhizobium ciceri
+path:mci01230	Biosynthesis of amino acids - Mesorhizobium ciceri
+path:mci01501	beta-Lactam resistance - Mesorhizobium ciceri
+path:mci01502	Vancomycin resistance - Mesorhizobium ciceri
+path:mci01503	Cationic antimicrobial peptide (CAMP) resistance - Mesorhizobium ciceri
+path:mci02010	ABC transporters - Mesorhizobium ciceri
+path:mci02020	Two-component system - Mesorhizobium ciceri
+path:mci02024	Quorum sensing - Mesorhizobium ciceri
+path:mci02030	Bacterial chemotaxis - Mesorhizobium ciceri
+path:mci02040	Flagellar assembly - Mesorhizobium ciceri
+path:mci02060	Phosphotransferase system (PTS) - Mesorhizobium ciceri
+path:mci03010	Ribosome - Mesorhizobium ciceri
+path:mci03018	RNA degradation - Mesorhizobium ciceri
+path:mci03020	RNA polymerase - Mesorhizobium ciceri
+path:mci03030	DNA replication - Mesorhizobium ciceri
+path:mci03060	Protein export - Mesorhizobium ciceri
+path:mci03070	Bacterial secretion system - Mesorhizobium ciceri
+path:mci03410	Base excision repair - Mesorhizobium ciceri
+path:mci03420	Nucleotide excision repair - Mesorhizobium ciceri
+path:mci03430	Mismatch repair - Mesorhizobium ciceri
+path:mci03440	Homologous recombination - Mesorhizobium ciceri
+path:mci03450	Non-homologous end-joining - Mesorhizobium ciceri
+path:mci04122	Sulfur relay system - Mesorhizobium ciceri
+path:mop00010	Glycolysis / Gluconeogenesis - Mesorhizobium opportunistum
+path:mop00020	Citrate cycle (TCA cycle) - Mesorhizobium opportunistum
+path:mop00030	Pentose phosphate pathway - Mesorhizobium opportunistum
+path:mop00040	Pentose and glucuronate interconversions - Mesorhizobium opportunistum
+path:mop00051	Fructose and mannose metabolism - Mesorhizobium opportunistum
+path:mop00052	Galactose metabolism - Mesorhizobium opportunistum
+path:mop00053	Ascorbate and aldarate metabolism - Mesorhizobium opportunistum
+path:mop00061	Fatty acid biosynthesis - Mesorhizobium opportunistum
+path:mop00071	Fatty acid degradation - Mesorhizobium opportunistum
+path:mop00072	Synthesis and degradation of ketone bodies - Mesorhizobium opportunistum
+path:mop00130	Ubiquinone and other terpenoid-quinone biosynthesis - Mesorhizobium opportunistum
+path:mop00190	Oxidative phosphorylation - Mesorhizobium opportunistum
+path:mop00220	Arginine biosynthesis - Mesorhizobium opportunistum
+path:mop00230	Purine metabolism - Mesorhizobium opportunistum
+path:mop00240	Pyrimidine metabolism - Mesorhizobium opportunistum
+path:mop00250	Alanine, aspartate and glutamate metabolism - Mesorhizobium opportunistum
+path:mop00260	Glycine, serine and threonine metabolism - Mesorhizobium opportunistum
+path:mop00261	Monobactam biosynthesis - Mesorhizobium opportunistum
+path:mop00270	Cysteine and methionine metabolism - Mesorhizobium opportunistum
+path:mop00280	Valine, leucine and isoleucine degradation - Mesorhizobium opportunistum
+path:mop00281	Geraniol degradation - Mesorhizobium opportunistum
+path:mop00290	Valine, leucine and isoleucine biosynthesis - Mesorhizobium opportunistum
+path:mop00300	Lysine biosynthesis - Mesorhizobium opportunistum
+path:mop00310	Lysine degradation - Mesorhizobium opportunistum
+path:mop00330	Arginine and proline metabolism - Mesorhizobium opportunistum
+path:mop00332	Carbapenem biosynthesis - Mesorhizobium opportunistum
+path:mop00340	Histidine metabolism - Mesorhizobium opportunistum
+path:mop00350	Tyrosine metabolism - Mesorhizobium opportunistum
+path:mop00360	Phenylalanine metabolism - Mesorhizobium opportunistum
+path:mop00361	Chlorocyclohexane and chlorobenzene degradation - Mesorhizobium opportunistum
+path:mop00362	Benzoate degradation - Mesorhizobium opportunistum
+path:mop00364	Fluorobenzoate degradation - Mesorhizobium opportunistum
+path:mop00380	Tryptophan metabolism - Mesorhizobium opportunistum
+path:mop00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Mesorhizobium opportunistum
+path:mop00401	Novobiocin biosynthesis - Mesorhizobium opportunistum
+path:mop00405	Phenazine biosynthesis - Mesorhizobium opportunistum
+path:mop00410	beta-Alanine metabolism - Mesorhizobium opportunistum
+path:mop00430	Taurine and hypotaurine metabolism - Mesorhizobium opportunistum
+path:mop00440	Phosphonate and phosphinate metabolism - Mesorhizobium opportunistum
+path:mop00450	Selenocompound metabolism - Mesorhizobium opportunistum
+path:mop00460	Cyanoamino acid metabolism - Mesorhizobium opportunistum
+path:mop00471	D-Glutamine and D-glutamate metabolism - Mesorhizobium opportunistum
+path:mop00472	D-Arginine and D-ornithine metabolism - Mesorhizobium opportunistum
+path:mop00473	D-Alanine metabolism - Mesorhizobium opportunistum
+path:mop00480	Glutathione metabolism - Mesorhizobium opportunistum
+path:mop00500	Starch and sucrose metabolism - Mesorhizobium opportunistum
+path:mop00520	Amino sugar and nucleotide sugar metabolism - Mesorhizobium opportunistum
+path:mop00521	Streptomycin biosynthesis - Mesorhizobium opportunistum
+path:mop00523	Polyketide sugar unit biosynthesis - Mesorhizobium opportunistum
+path:mop00525	Acarbose and validamycin biosynthesis - Mesorhizobium opportunistum
+path:mop00540	Lipopolysaccharide biosynthesis - Mesorhizobium opportunistum
+path:mop00550	Peptidoglycan biosynthesis - Mesorhizobium opportunistum
+path:mop00561	Glycerolipid metabolism - Mesorhizobium opportunistum
+path:mop00562	Inositol phosphate metabolism - Mesorhizobium opportunistum
+path:mop00564	Glycerophospholipid metabolism - Mesorhizobium opportunistum
+path:mop00592	alpha-Linolenic acid metabolism - Mesorhizobium opportunistum
+path:mop00600	Sphingolipid metabolism - Mesorhizobium opportunistum
+path:mop00620	Pyruvate metabolism - Mesorhizobium opportunistum
+path:mop00621	Dioxin degradation - Mesorhizobium opportunistum
+path:mop00622	Xylene degradation - Mesorhizobium opportunistum
+path:mop00623	Toluene degradation - Mesorhizobium opportunistum
+path:mop00624	Polycyclic aromatic hydrocarbon degradation - Mesorhizobium opportunistum
+path:mop00625	Chloroalkane and chloroalkene degradation - Mesorhizobium opportunistum
+path:mop00626	Naphthalene degradation - Mesorhizobium opportunistum
+path:mop00627	Aminobenzoate degradation - Mesorhizobium opportunistum
+path:mop00630	Glyoxylate and dicarboxylate metabolism - Mesorhizobium opportunistum
+path:mop00633	Nitrotoluene degradation - Mesorhizobium opportunistum
+path:mop00640	Propanoate metabolism - Mesorhizobium opportunistum
+path:mop00643	Styrene degradation - Mesorhizobium opportunistum
+path:mop00650	Butanoate metabolism - Mesorhizobium opportunistum
+path:mop00660	C5-Branched dibasic acid metabolism - Mesorhizobium opportunistum
+path:mop00670	One carbon pool by folate - Mesorhizobium opportunistum
+path:mop00680	Methane metabolism - Mesorhizobium opportunistum
+path:mop00710	Carbon fixation in photosynthetic organisms - Mesorhizobium opportunistum
+path:mop00730	Thiamine metabolism - Mesorhizobium opportunistum
+path:mop00740	Riboflavin metabolism - Mesorhizobium opportunistum
+path:mop00750	Vitamin B6 metabolism - Mesorhizobium opportunistum
+path:mop00760	Nicotinate and nicotinamide metabolism - Mesorhizobium opportunistum
+path:mop00770	Pantothenate and CoA biosynthesis - Mesorhizobium opportunistum
+path:mop00780	Biotin metabolism - Mesorhizobium opportunistum
+path:mop00785	Lipoic acid metabolism - Mesorhizobium opportunistum
+path:mop00790	Folate biosynthesis - Mesorhizobium opportunistum
+path:mop00791	Atrazine degradation - Mesorhizobium opportunistum
+path:mop00860	Porphyrin and chlorophyll metabolism - Mesorhizobium opportunistum
+path:mop00900	Terpenoid backbone biosynthesis - Mesorhizobium opportunistum
+path:mop00903	Limonene and pinene degradation - Mesorhizobium opportunistum
+path:mop00906	Carotenoid biosynthesis - Mesorhizobium opportunistum
+path:mop00910	Nitrogen metabolism - Mesorhizobium opportunistum
+path:mop00920	Sulfur metabolism - Mesorhizobium opportunistum
+path:mop00930	Caprolactam degradation - Mesorhizobium opportunistum
+path:mop00970	Aminoacyl-tRNA biosynthesis - Mesorhizobium opportunistum
+path:mop01040	Biosynthesis of unsaturated fatty acids - Mesorhizobium opportunistum
+path:mop01054	Nonribosomal peptide structures - Mesorhizobium opportunistum
+path:mop01100	Metabolic pathways - Mesorhizobium opportunistum
+path:mop01110	Biosynthesis of secondary metabolites - Mesorhizobium opportunistum
+path:mop01120	Microbial metabolism in diverse environments - Mesorhizobium opportunistum
+path:mop01130	Biosynthesis of antibiotics - Mesorhizobium opportunistum
+path:mop01200	Carbon metabolism - Mesorhizobium opportunistum
+path:mop01210	2-Oxocarboxylic acid metabolism - Mesorhizobium opportunistum
+path:mop01212	Fatty acid metabolism - Mesorhizobium opportunistum
+path:mop01220	Degradation of aromatic compounds - Mesorhizobium opportunistum
+path:mop01230	Biosynthesis of amino acids - Mesorhizobium opportunistum
+path:mop01501	beta-Lactam resistance - Mesorhizobium opportunistum
+path:mop01502	Vancomycin resistance - Mesorhizobium opportunistum
+path:mop01503	Cationic antimicrobial peptide (CAMP) resistance - Mesorhizobium opportunistum
+path:mop02010	ABC transporters - Mesorhizobium opportunistum
+path:mop02020	Two-component system - Mesorhizobium opportunistum
+path:mop02024	Quorum sensing - Mesorhizobium opportunistum
+path:mop02030	Bacterial chemotaxis - Mesorhizobium opportunistum
+path:mop02040	Flagellar assembly - Mesorhizobium opportunistum
+path:mop02060	Phosphotransferase system (PTS) - Mesorhizobium opportunistum
+path:mop03010	Ribosome - Mesorhizobium opportunistum
+path:mop03018	RNA degradation - Mesorhizobium opportunistum
+path:mop03020	RNA polymerase - Mesorhizobium opportunistum
+path:mop03030	DNA replication - Mesorhizobium opportunistum
+path:mop03060	Protein export - Mesorhizobium opportunistum
+path:mop03070	Bacterial secretion system - Mesorhizobium opportunistum
+path:mop03410	Base excision repair - Mesorhizobium opportunistum
+path:mop03420	Nucleotide excision repair - Mesorhizobium opportunistum
+path:mop03430	Mismatch repair - Mesorhizobium opportunistum
+path:mop03440	Homologous recombination - Mesorhizobium opportunistum
+path:mop03450	Non-homologous end-joining - Mesorhizobium opportunistum
+path:mop04122	Sulfur relay system - Mesorhizobium opportunistum
+path:mam00010	Glycolysis / Gluconeogenesis - Mesorhizobium australicum
+path:mam00020	Citrate cycle (TCA cycle) - Mesorhizobium australicum
+path:mam00030	Pentose phosphate pathway - Mesorhizobium australicum
+path:mam00040	Pentose and glucuronate interconversions - Mesorhizobium australicum
+path:mam00051	Fructose and mannose metabolism - Mesorhizobium australicum
+path:mam00052	Galactose metabolism - Mesorhizobium australicum
+path:mam00053	Ascorbate and aldarate metabolism - Mesorhizobium australicum
+path:mam00061	Fatty acid biosynthesis - Mesorhizobium australicum
+path:mam00071	Fatty acid degradation - Mesorhizobium australicum
+path:mam00072	Synthesis and degradation of ketone bodies - Mesorhizobium australicum
+path:mam00130	Ubiquinone and other terpenoid-quinone biosynthesis - Mesorhizobium australicum
+path:mam00190	Oxidative phosphorylation - Mesorhizobium australicum
+path:mam00220	Arginine biosynthesis - Mesorhizobium australicum
+path:mam00230	Purine metabolism - Mesorhizobium australicum
+path:mam00240	Pyrimidine metabolism - Mesorhizobium australicum
+path:mam00250	Alanine, aspartate and glutamate metabolism - Mesorhizobium australicum
+path:mam00260	Glycine, serine and threonine metabolism - Mesorhizobium australicum
+path:mam00261	Monobactam biosynthesis - Mesorhizobium australicum
+path:mam00270	Cysteine and methionine metabolism - Mesorhizobium australicum
+path:mam00280	Valine, leucine and isoleucine degradation - Mesorhizobium australicum
+path:mam00281	Geraniol degradation - Mesorhizobium australicum
+path:mam00290	Valine, leucine and isoleucine biosynthesis - Mesorhizobium australicum
+path:mam00300	Lysine biosynthesis - Mesorhizobium australicum
+path:mam00310	Lysine degradation - Mesorhizobium australicum
+path:mam00330	Arginine and proline metabolism - Mesorhizobium australicum
+path:mam00332	Carbapenem biosynthesis - Mesorhizobium australicum
+path:mam00340	Histidine metabolism - Mesorhizobium australicum
+path:mam00350	Tyrosine metabolism - Mesorhizobium australicum
+path:mam00360	Phenylalanine metabolism - Mesorhizobium australicum
+path:mam00361	Chlorocyclohexane and chlorobenzene degradation - Mesorhizobium australicum
+path:mam00362	Benzoate degradation - Mesorhizobium australicum
+path:mam00364	Fluorobenzoate degradation - Mesorhizobium australicum
+path:mam00380	Tryptophan metabolism - Mesorhizobium australicum
+path:mam00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Mesorhizobium australicum
+path:mam00401	Novobiocin biosynthesis - Mesorhizobium australicum
+path:mam00410	beta-Alanine metabolism - Mesorhizobium australicum
+path:mam00430	Taurine and hypotaurine metabolism - Mesorhizobium australicum
+path:mam00440	Phosphonate and phosphinate metabolism - Mesorhizobium australicum
+path:mam00450	Selenocompound metabolism - Mesorhizobium australicum
+path:mam00460	Cyanoamino acid metabolism - Mesorhizobium australicum
+path:mam00471	D-Glutamine and D-glutamate metabolism - Mesorhizobium australicum
+path:mam00472	D-Arginine and D-ornithine metabolism - Mesorhizobium australicum
+path:mam00473	D-Alanine metabolism - Mesorhizobium australicum
+path:mam00480	Glutathione metabolism - Mesorhizobium australicum
+path:mam00500	Starch and sucrose metabolism - Mesorhizobium australicum
+path:mam00520	Amino sugar and nucleotide sugar metabolism - Mesorhizobium australicum
+path:mam00521	Streptomycin biosynthesis - Mesorhizobium australicum
+path:mam00523	Polyketide sugar unit biosynthesis - Mesorhizobium australicum
+path:mam00525	Acarbose and validamycin biosynthesis - Mesorhizobium australicum
+path:mam00540	Lipopolysaccharide biosynthesis - Mesorhizobium australicum
+path:mam00550	Peptidoglycan biosynthesis - Mesorhizobium australicum
+path:mam00561	Glycerolipid metabolism - Mesorhizobium australicum
+path:mam00562	Inositol phosphate metabolism - Mesorhizobium australicum
+path:mam00564	Glycerophospholipid metabolism - Mesorhizobium australicum
+path:mam00592	alpha-Linolenic acid metabolism - Mesorhizobium australicum
+path:mam00600	Sphingolipid metabolism - Mesorhizobium australicum
+path:mam00620	Pyruvate metabolism - Mesorhizobium australicum
+path:mam00621	Dioxin degradation - Mesorhizobium australicum
+path:mam00622	Xylene degradation - Mesorhizobium australicum
+path:mam00623	Toluene degradation - Mesorhizobium australicum
+path:mam00624	Polycyclic aromatic hydrocarbon degradation - Mesorhizobium australicum
+path:mam00625	Chloroalkane and chloroalkene degradation - Mesorhizobium australicum
+path:mam00626	Naphthalene degradation - Mesorhizobium australicum
+path:mam00627	Aminobenzoate degradation - Mesorhizobium australicum
+path:mam00630	Glyoxylate and dicarboxylate metabolism - Mesorhizobium australicum
+path:mam00640	Propanoate metabolism - Mesorhizobium australicum
+path:mam00643	Styrene degradation - Mesorhizobium australicum
+path:mam00650	Butanoate metabolism - Mesorhizobium australicum
+path:mam00660	C5-Branched dibasic acid metabolism - Mesorhizobium australicum
+path:mam00670	One carbon pool by folate - Mesorhizobium australicum
+path:mam00680	Methane metabolism - Mesorhizobium australicum
+path:mam00710	Carbon fixation in photosynthetic organisms - Mesorhizobium australicum
+path:mam00730	Thiamine metabolism - Mesorhizobium australicum
+path:mam00740	Riboflavin metabolism - Mesorhizobium australicum
+path:mam00750	Vitamin B6 metabolism - Mesorhizobium australicum
+path:mam00760	Nicotinate and nicotinamide metabolism - Mesorhizobium australicum
+path:mam00770	Pantothenate and CoA biosynthesis - Mesorhizobium australicum
+path:mam00780	Biotin metabolism - Mesorhizobium australicum
+path:mam00785	Lipoic acid metabolism - Mesorhizobium australicum
+path:mam00790	Folate biosynthesis - Mesorhizobium australicum
+path:mam00860	Porphyrin and chlorophyll metabolism - Mesorhizobium australicum
+path:mam00900	Terpenoid backbone biosynthesis - Mesorhizobium australicum
+path:mam00903	Limonene and pinene degradation - Mesorhizobium australicum
+path:mam00906	Carotenoid biosynthesis - Mesorhizobium australicum
+path:mam00910	Nitrogen metabolism - Mesorhizobium australicum
+path:mam00920	Sulfur metabolism - Mesorhizobium australicum
+path:mam00930	Caprolactam degradation - Mesorhizobium australicum
+path:mam00970	Aminoacyl-tRNA biosynthesis - Mesorhizobium australicum
+path:mam01040	Biosynthesis of unsaturated fatty acids - Mesorhizobium australicum
+path:mam01054	Nonribosomal peptide structures - Mesorhizobium australicum
+path:mam01100	Metabolic pathways - Mesorhizobium australicum
+path:mam01110	Biosynthesis of secondary metabolites - Mesorhizobium australicum
+path:mam01120	Microbial metabolism in diverse environments - Mesorhizobium australicum
+path:mam01130	Biosynthesis of antibiotics - Mesorhizobium australicum
+path:mam01200	Carbon metabolism - Mesorhizobium australicum
+path:mam01210	2-Oxocarboxylic acid metabolism - Mesorhizobium australicum
+path:mam01212	Fatty acid metabolism - Mesorhizobium australicum
+path:mam01220	Degradation of aromatic compounds - Mesorhizobium australicum
+path:mam01230	Biosynthesis of amino acids - Mesorhizobium australicum
+path:mam01501	beta-Lactam resistance - Mesorhizobium australicum
+path:mam01502	Vancomycin resistance - Mesorhizobium australicum
+path:mam01503	Cationic antimicrobial peptide (CAMP) resistance - Mesorhizobium australicum
+path:mam02010	ABC transporters - Mesorhizobium australicum
+path:mam02020	Two-component system - Mesorhizobium australicum
+path:mam02024	Quorum sensing - Mesorhizobium australicum
+path:mam02030	Bacterial chemotaxis - Mesorhizobium australicum
+path:mam02040	Flagellar assembly - Mesorhizobium australicum
+path:mam02060	Phosphotransferase system (PTS) - Mesorhizobium australicum
+path:mam03010	Ribosome - Mesorhizobium australicum
+path:mam03018	RNA degradation - Mesorhizobium australicum
+path:mam03020	RNA polymerase - Mesorhizobium australicum
+path:mam03030	DNA replication - Mesorhizobium australicum
+path:mam03060	Protein export - Mesorhizobium australicum
+path:mam03070	Bacterial secretion system - Mesorhizobium australicum
+path:mam03410	Base excision repair - Mesorhizobium australicum
+path:mam03420	Nucleotide excision repair - Mesorhizobium australicum
+path:mam03430	Mismatch repair - Mesorhizobium australicum
+path:mam03440	Homologous recombination - Mesorhizobium australicum
+path:mam03450	Non-homologous end-joining - Mesorhizobium australicum
+path:mam04122	Sulfur relay system - Mesorhizobium australicum
+path:mamo00010	Glycolysis / Gluconeogenesis - Mesorhizobium amorphae
+path:mamo00020	Citrate cycle (TCA cycle) - Mesorhizobium amorphae
+path:mamo00030	Pentose phosphate pathway - Mesorhizobium amorphae
+path:mamo00040	Pentose and glucuronate interconversions - Mesorhizobium amorphae
+path:mamo00051	Fructose and mannose metabolism - Mesorhizobium amorphae
+path:mamo00052	Galactose metabolism - Mesorhizobium amorphae
+path:mamo00053	Ascorbate and aldarate metabolism - Mesorhizobium amorphae
+path:mamo00061	Fatty acid biosynthesis - Mesorhizobium amorphae
+path:mamo00071	Fatty acid degradation - Mesorhizobium amorphae
+path:mamo00072	Synthesis and degradation of ketone bodies - Mesorhizobium amorphae
+path:mamo00130	Ubiquinone and other terpenoid-quinone biosynthesis - Mesorhizobium amorphae
+path:mamo00190	Oxidative phosphorylation - Mesorhizobium amorphae
+path:mamo00220	Arginine biosynthesis - Mesorhizobium amorphae
+path:mamo00230	Purine metabolism - Mesorhizobium amorphae
+path:mamo00240	Pyrimidine metabolism - Mesorhizobium amorphae
+path:mamo00250	Alanine, aspartate and glutamate metabolism - Mesorhizobium amorphae
+path:mamo00260	Glycine, serine and threonine metabolism - Mesorhizobium amorphae
+path:mamo00261	Monobactam biosynthesis - Mesorhizobium amorphae
+path:mamo00270	Cysteine and methionine metabolism - Mesorhizobium amorphae
+path:mamo00280	Valine, leucine and isoleucine degradation - Mesorhizobium amorphae
+path:mamo00281	Geraniol degradation - Mesorhizobium amorphae
+path:mamo00290	Valine, leucine and isoleucine biosynthesis - Mesorhizobium amorphae
+path:mamo00300	Lysine biosynthesis - Mesorhizobium amorphae
+path:mamo00310	Lysine degradation - Mesorhizobium amorphae
+path:mamo00330	Arginine and proline metabolism - Mesorhizobium amorphae
+path:mamo00332	Carbapenem biosynthesis - Mesorhizobium amorphae
+path:mamo00340	Histidine metabolism - Mesorhizobium amorphae
+path:mamo00350	Tyrosine metabolism - Mesorhizobium amorphae
+path:mamo00360	Phenylalanine metabolism - Mesorhizobium amorphae
+path:mamo00361	Chlorocyclohexane and chlorobenzene degradation - Mesorhizobium amorphae
+path:mamo00362	Benzoate degradation - Mesorhizobium amorphae
+path:mamo00364	Fluorobenzoate degradation - Mesorhizobium amorphae
+path:mamo00380	Tryptophan metabolism - Mesorhizobium amorphae
+path:mamo00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Mesorhizobium amorphae
+path:mamo00401	Novobiocin biosynthesis - Mesorhizobium amorphae
+path:mamo00410	beta-Alanine metabolism - Mesorhizobium amorphae
+path:mamo00430	Taurine and hypotaurine metabolism - Mesorhizobium amorphae
+path:mamo00440	Phosphonate and phosphinate metabolism - Mesorhizobium amorphae
+path:mamo00450	Selenocompound metabolism - Mesorhizobium amorphae
+path:mamo00460	Cyanoamino acid metabolism - Mesorhizobium amorphae
+path:mamo00471	D-Glutamine and D-glutamate metabolism - Mesorhizobium amorphae
+path:mamo00472	D-Arginine and D-ornithine metabolism - Mesorhizobium amorphae
+path:mamo00473	D-Alanine metabolism - Mesorhizobium amorphae
+path:mamo00480	Glutathione metabolism - Mesorhizobium amorphae
+path:mamo00500	Starch and sucrose metabolism - Mesorhizobium amorphae
+path:mamo00520	Amino sugar and nucleotide sugar metabolism - Mesorhizobium amorphae
+path:mamo00521	Streptomycin biosynthesis - Mesorhizobium amorphae
+path:mamo00523	Polyketide sugar unit biosynthesis - Mesorhizobium amorphae
+path:mamo00525	Acarbose and validamycin biosynthesis - Mesorhizobium amorphae
+path:mamo00540	Lipopolysaccharide biosynthesis - Mesorhizobium amorphae
+path:mamo00550	Peptidoglycan biosynthesis - Mesorhizobium amorphae
+path:mamo00561	Glycerolipid metabolism - Mesorhizobium amorphae
+path:mamo00562	Inositol phosphate metabolism - Mesorhizobium amorphae
+path:mamo00564	Glycerophospholipid metabolism - Mesorhizobium amorphae
+path:mamo00592	alpha-Linolenic acid metabolism - Mesorhizobium amorphae
+path:mamo00600	Sphingolipid metabolism - Mesorhizobium amorphae
+path:mamo00620	Pyruvate metabolism - Mesorhizobium amorphae
+path:mamo00621	Dioxin degradation - Mesorhizobium amorphae
+path:mamo00622	Xylene degradation - Mesorhizobium amorphae
+path:mamo00623	Toluene degradation - Mesorhizobium amorphae
+path:mamo00624	Polycyclic aromatic hydrocarbon degradation - Mesorhizobium amorphae
+path:mamo00625	Chloroalkane and chloroalkene degradation - Mesorhizobium amorphae
+path:mamo00626	Naphthalene degradation - Mesorhizobium amorphae
+path:mamo00627	Aminobenzoate degradation - Mesorhizobium amorphae
+path:mamo00630	Glyoxylate and dicarboxylate metabolism - Mesorhizobium amorphae
+path:mamo00640	Propanoate metabolism - Mesorhizobium amorphae
+path:mamo00643	Styrene degradation - Mesorhizobium amorphae
+path:mamo00650	Butanoate metabolism - Mesorhizobium amorphae
+path:mamo00660	C5-Branched dibasic acid metabolism - Mesorhizobium amorphae
+path:mamo00670	One carbon pool by folate - Mesorhizobium amorphae
+path:mamo00680	Methane metabolism - Mesorhizobium amorphae
+path:mamo00710	Carbon fixation in photosynthetic organisms - Mesorhizobium amorphae
+path:mamo00730	Thiamine metabolism - Mesorhizobium amorphae
+path:mamo00740	Riboflavin metabolism - Mesorhizobium amorphae
+path:mamo00750	Vitamin B6 metabolism - Mesorhizobium amorphae
+path:mamo00760	Nicotinate and nicotinamide metabolism - Mesorhizobium amorphae
+path:mamo00770	Pantothenate and CoA biosynthesis - Mesorhizobium amorphae
+path:mamo00780	Biotin metabolism - Mesorhizobium amorphae
+path:mamo00785	Lipoic acid metabolism - Mesorhizobium amorphae
+path:mamo00790	Folate biosynthesis - Mesorhizobium amorphae
+path:mamo00791	Atrazine degradation - Mesorhizobium amorphae
+path:mamo00860	Porphyrin and chlorophyll metabolism - Mesorhizobium amorphae
+path:mamo00900	Terpenoid backbone biosynthesis - Mesorhizobium amorphae
+path:mamo00903	Limonene and pinene degradation - Mesorhizobium amorphae
+path:mamo00906	Carotenoid biosynthesis - Mesorhizobium amorphae
+path:mamo00910	Nitrogen metabolism - Mesorhizobium amorphae
+path:mamo00920	Sulfur metabolism - Mesorhizobium amorphae
+path:mamo00930	Caprolactam degradation - Mesorhizobium amorphae
+path:mamo00970	Aminoacyl-tRNA biosynthesis - Mesorhizobium amorphae
+path:mamo01040	Biosynthesis of unsaturated fatty acids - Mesorhizobium amorphae
+path:mamo01054	Nonribosomal peptide structures - Mesorhizobium amorphae
+path:mamo01100	Metabolic pathways - Mesorhizobium amorphae
+path:mamo01110	Biosynthesis of secondary metabolites - Mesorhizobium amorphae
+path:mamo01120	Microbial metabolism in diverse environments - Mesorhizobium amorphae
+path:mamo01130	Biosynthesis of antibiotics - Mesorhizobium amorphae
+path:mamo01200	Carbon metabolism - Mesorhizobium amorphae
+path:mamo01210	2-Oxocarboxylic acid metabolism - Mesorhizobium amorphae
+path:mamo01212	Fatty acid metabolism - Mesorhizobium amorphae
+path:mamo01220	Degradation of aromatic compounds - Mesorhizobium amorphae
+path:mamo01230	Biosynthesis of amino acids - Mesorhizobium amorphae
+path:mamo01501	beta-Lactam resistance - Mesorhizobium amorphae
+path:mamo01502	Vancomycin resistance - Mesorhizobium amorphae
+path:mamo01503	Cationic antimicrobial peptide (CAMP) resistance - Mesorhizobium amorphae
+path:mamo02010	ABC transporters - Mesorhizobium amorphae
+path:mamo02020	Two-component system - Mesorhizobium amorphae
+path:mamo02024	Quorum sensing - Mesorhizobium amorphae
+path:mamo02030	Bacterial chemotaxis - Mesorhizobium amorphae
+path:mamo02040	Flagellar assembly - Mesorhizobium amorphae
+path:mamo02060	Phosphotransferase system (PTS) - Mesorhizobium amorphae
+path:mamo03010	Ribosome - Mesorhizobium amorphae
+path:mamo03018	RNA degradation - Mesorhizobium amorphae
+path:mamo03020	RNA polymerase - Mesorhizobium amorphae
+path:mamo03030	DNA replication - Mesorhizobium amorphae
+path:mamo03060	Protein export - Mesorhizobium amorphae
+path:mamo03070	Bacterial secretion system - Mesorhizobium amorphae
+path:mamo03410	Base excision repair - Mesorhizobium amorphae
+path:mamo03420	Nucleotide excision repair - Mesorhizobium amorphae
+path:mamo03430	Mismatch repair - Mesorhizobium amorphae
+path:mamo03440	Homologous recombination - Mesorhizobium amorphae
+path:mamo03450	Non-homologous end-joining - Mesorhizobium amorphae
+path:mamo04122	Sulfur relay system - Mesorhizobium amorphae
+path:meso00010	Glycolysis / Gluconeogenesis - Mesorhizobium sp. B7
+path:meso00020	Citrate cycle (TCA cycle) - Mesorhizobium sp. B7
+path:meso00030	Pentose phosphate pathway - Mesorhizobium sp. B7
+path:meso00040	Pentose and glucuronate interconversions - Mesorhizobium sp. B7
+path:meso00051	Fructose and mannose metabolism - Mesorhizobium sp. B7
+path:meso00052	Galactose metabolism - Mesorhizobium sp. B7
+path:meso00053	Ascorbate and aldarate metabolism - Mesorhizobium sp. B7
+path:meso00061	Fatty acid biosynthesis - Mesorhizobium sp. B7
+path:meso00071	Fatty acid degradation - Mesorhizobium sp. B7
+path:meso00072	Synthesis and degradation of ketone bodies - Mesorhizobium sp. B7
+path:meso00130	Ubiquinone and other terpenoid-quinone biosynthesis - Mesorhizobium sp. B7
+path:meso00190	Oxidative phosphorylation - Mesorhizobium sp. B7
+path:meso00220	Arginine biosynthesis - Mesorhizobium sp. B7
+path:meso00230	Purine metabolism - Mesorhizobium sp. B7
+path:meso00240	Pyrimidine metabolism - Mesorhizobium sp. B7
+path:meso00250	Alanine, aspartate and glutamate metabolism - Mesorhizobium sp. B7
+path:meso00260	Glycine, serine and threonine metabolism - Mesorhizobium sp. B7
+path:meso00261	Monobactam biosynthesis - Mesorhizobium sp. B7
+path:meso00270	Cysteine and methionine metabolism - Mesorhizobium sp. B7
+path:meso00280	Valine, leucine and isoleucine degradation - Mesorhizobium sp. B7
+path:meso00281	Geraniol degradation - Mesorhizobium sp. B7
+path:meso00290	Valine, leucine and isoleucine biosynthesis - Mesorhizobium sp. B7
+path:meso00300	Lysine biosynthesis - Mesorhizobium sp. B7
+path:meso00310	Lysine degradation - Mesorhizobium sp. B7
+path:meso00330	Arginine and proline metabolism - Mesorhizobium sp. B7
+path:meso00332	Carbapenem biosynthesis - Mesorhizobium sp. B7
+path:meso00340	Histidine metabolism - Mesorhizobium sp. B7
+path:meso00350	Tyrosine metabolism - Mesorhizobium sp. B7
+path:meso00360	Phenylalanine metabolism - Mesorhizobium sp. B7
+path:meso00361	Chlorocyclohexane and chlorobenzene degradation - Mesorhizobium sp. B7
+path:meso00362	Benzoate degradation - Mesorhizobium sp. B7
+path:meso00364	Fluorobenzoate degradation - Mesorhizobium sp. B7
+path:meso00365	Furfural degradation - Mesorhizobium sp. B7
+path:meso00380	Tryptophan metabolism - Mesorhizobium sp. B7
+path:meso00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Mesorhizobium sp. B7
+path:meso00401	Novobiocin biosynthesis - Mesorhizobium sp. B7
+path:meso00405	Phenazine biosynthesis - Mesorhizobium sp. B7
+path:meso00410	beta-Alanine metabolism - Mesorhizobium sp. B7
+path:meso00430	Taurine and hypotaurine metabolism - Mesorhizobium sp. B7
+path:meso00440	Phosphonate and phosphinate metabolism - Mesorhizobium sp. B7
+path:meso00450	Selenocompound metabolism - Mesorhizobium sp. B7
+path:meso00460	Cyanoamino acid metabolism - Mesorhizobium sp. B7
+path:meso00471	D-Glutamine and D-glutamate metabolism - Mesorhizobium sp. B7
+path:meso00472	D-Arginine and D-ornithine metabolism - Mesorhizobium sp. B7
+path:meso00473	D-Alanine metabolism - Mesorhizobium sp. B7
+path:meso00480	Glutathione metabolism - Mesorhizobium sp. B7
+path:meso00500	Starch and sucrose metabolism - Mesorhizobium sp. B7
+path:meso00520	Amino sugar and nucleotide sugar metabolism - Mesorhizobium sp. B7
+path:meso00521	Streptomycin biosynthesis - Mesorhizobium sp. B7
+path:meso00523	Polyketide sugar unit biosynthesis - Mesorhizobium sp. B7
+path:meso00525	Acarbose and validamycin biosynthesis - Mesorhizobium sp. B7
+path:meso00540	Lipopolysaccharide biosynthesis - Mesorhizobium sp. B7
+path:meso00550	Peptidoglycan biosynthesis - Mesorhizobium sp. B7
+path:meso00561	Glycerolipid metabolism - Mesorhizobium sp. B7
+path:meso00562	Inositol phosphate metabolism - Mesorhizobium sp. B7
+path:meso00564	Glycerophospholipid metabolism - Mesorhizobium sp. B7
+path:meso00592	alpha-Linolenic acid metabolism - Mesorhizobium sp. B7
+path:meso00620	Pyruvate metabolism - Mesorhizobium sp. B7
+path:meso00621	Dioxin degradation - Mesorhizobium sp. B7
+path:meso00622	Xylene degradation - Mesorhizobium sp. B7
+path:meso00623	Toluene degradation - Mesorhizobium sp. B7
+path:meso00624	Polycyclic aromatic hydrocarbon degradation - Mesorhizobium sp. B7
+path:meso00625	Chloroalkane and chloroalkene degradation - Mesorhizobium sp. B7
+path:meso00626	Naphthalene degradation - Mesorhizobium sp. B7
+path:meso00627	Aminobenzoate degradation - Mesorhizobium sp. B7
+path:meso00630	Glyoxylate and dicarboxylate metabolism - Mesorhizobium sp. B7
+path:meso00633	Nitrotoluene degradation - Mesorhizobium sp. B7
+path:meso00640	Propanoate metabolism - Mesorhizobium sp. B7
+path:meso00643	Styrene degradation - Mesorhizobium sp. B7
+path:meso00650	Butanoate metabolism - Mesorhizobium sp. B7
+path:meso00660	C5-Branched dibasic acid metabolism - Mesorhizobium sp. B7
+path:meso00670	One carbon pool by folate - Mesorhizobium sp. B7
+path:meso00680	Methane metabolism - Mesorhizobium sp. B7
+path:meso00710	Carbon fixation in photosynthetic organisms - Mesorhizobium sp. B7
+path:meso00730	Thiamine metabolism - Mesorhizobium sp. B7
+path:meso00740	Riboflavin metabolism - Mesorhizobium sp. B7
+path:meso00750	Vitamin B6 metabolism - Mesorhizobium sp. B7
+path:meso00760	Nicotinate and nicotinamide metabolism - Mesorhizobium sp. B7
+path:meso00770	Pantothenate and CoA biosynthesis - Mesorhizobium sp. B7
+path:meso00780	Biotin metabolism - Mesorhizobium sp. B7
+path:meso00785	Lipoic acid metabolism - Mesorhizobium sp. B7
+path:meso00790	Folate biosynthesis - Mesorhizobium sp. B7
+path:meso00791	Atrazine degradation - Mesorhizobium sp. B7
+path:meso00860	Porphyrin and chlorophyll metabolism - Mesorhizobium sp. B7
+path:meso00900	Terpenoid backbone biosynthesis - Mesorhizobium sp. B7
+path:meso00903	Limonene and pinene degradation - Mesorhizobium sp. B7
+path:meso00906	Carotenoid biosynthesis - Mesorhizobium sp. B7
+path:meso00910	Nitrogen metabolism - Mesorhizobium sp. B7
+path:meso00920	Sulfur metabolism - Mesorhizobium sp. B7
+path:meso00930	Caprolactam degradation - Mesorhizobium sp. B7
+path:meso00970	Aminoacyl-tRNA biosynthesis - Mesorhizobium sp. B7
+path:meso01040	Biosynthesis of unsaturated fatty acids - Mesorhizobium sp. B7
+path:meso01100	Metabolic pathways - Mesorhizobium sp. B7
+path:meso01110	Biosynthesis of secondary metabolites - Mesorhizobium sp. B7
+path:meso01120	Microbial metabolism in diverse environments - Mesorhizobium sp. B7
+path:meso01130	Biosynthesis of antibiotics - Mesorhizobium sp. B7
+path:meso01200	Carbon metabolism - Mesorhizobium sp. B7
+path:meso01210	2-Oxocarboxylic acid metabolism - Mesorhizobium sp. B7
+path:meso01212	Fatty acid metabolism - Mesorhizobium sp. B7
+path:meso01220	Degradation of aromatic compounds - Mesorhizobium sp. B7
+path:meso01230	Biosynthesis of amino acids - Mesorhizobium sp. B7
+path:meso01501	beta-Lactam resistance - Mesorhizobium sp. B7
+path:meso01502	Vancomycin resistance - Mesorhizobium sp. B7
+path:meso01503	Cationic antimicrobial peptide (CAMP) resistance - Mesorhizobium sp. B7
+path:meso02010	ABC transporters - Mesorhizobium sp. B7
+path:meso02020	Two-component system - Mesorhizobium sp. B7
+path:meso02024	Quorum sensing - Mesorhizobium sp. B7
+path:meso02030	Bacterial chemotaxis - Mesorhizobium sp. B7
+path:meso02040	Flagellar assembly - Mesorhizobium sp. B7
+path:meso02060	Phosphotransferase system (PTS) - Mesorhizobium sp. B7
+path:meso03010	Ribosome - Mesorhizobium sp. B7
+path:meso03018	RNA degradation - Mesorhizobium sp. B7
+path:meso03020	RNA polymerase - Mesorhizobium sp. B7
+path:meso03030	DNA replication - Mesorhizobium sp. B7
+path:meso03060	Protein export - Mesorhizobium sp. B7
+path:meso03070	Bacterial secretion system - Mesorhizobium sp. B7
+path:meso03410	Base excision repair - Mesorhizobium sp. B7
+path:meso03420	Nucleotide excision repair - Mesorhizobium sp. B7
+path:meso03430	Mismatch repair - Mesorhizobium sp. B7
+path:meso03440	Homologous recombination - Mesorhizobium sp. B7
+path:meso03450	Non-homologous end-joining - Mesorhizobium sp. B7
+path:meso04122	Sulfur relay system - Mesorhizobium sp. B7
+path:mesw00010	Glycolysis / Gluconeogenesis - Mesorhizobium sp. WSM1497
+path:mesw00020	Citrate cycle (TCA cycle) - Mesorhizobium sp. WSM1497
+path:mesw00030	Pentose phosphate pathway - Mesorhizobium sp. WSM1497
+path:mesw00040	Pentose and glucuronate interconversions - Mesorhizobium sp. WSM1497
+path:mesw00051	Fructose and mannose metabolism - Mesorhizobium sp. WSM1497
+path:mesw00052	Galactose metabolism - Mesorhizobium sp. WSM1497
+path:mesw00053	Ascorbate and aldarate metabolism - Mesorhizobium sp. WSM1497
+path:mesw00061	Fatty acid biosynthesis - Mesorhizobium sp. WSM1497
+path:mesw00071	Fatty acid degradation - Mesorhizobium sp. WSM1497
+path:mesw00072	Synthesis and degradation of ketone bodies - Mesorhizobium sp. WSM1497
+path:mesw00130	Ubiquinone and other terpenoid-quinone biosynthesis - Mesorhizobium sp. WSM1497
+path:mesw00190	Oxidative phosphorylation - Mesorhizobium sp. WSM1497
+path:mesw00220	Arginine biosynthesis - Mesorhizobium sp. WSM1497
+path:mesw00230	Purine metabolism - Mesorhizobium sp. WSM1497
+path:mesw00240	Pyrimidine metabolism - Mesorhizobium sp. WSM1497
+path:mesw00250	Alanine, aspartate and glutamate metabolism - Mesorhizobium sp. WSM1497
+path:mesw00260	Glycine, serine and threonine metabolism - Mesorhizobium sp. WSM1497
+path:mesw00261	Monobactam biosynthesis - Mesorhizobium sp. WSM1497
+path:mesw00270	Cysteine and methionine metabolism - Mesorhizobium sp. WSM1497
+path:mesw00280	Valine, leucine and isoleucine degradation - Mesorhizobium sp. WSM1497
+path:mesw00281	Geraniol degradation - Mesorhizobium sp. WSM1497
+path:mesw00290	Valine, leucine and isoleucine biosynthesis - Mesorhizobium sp. WSM1497
+path:mesw00300	Lysine biosynthesis - Mesorhizobium sp. WSM1497
+path:mesw00310	Lysine degradation - Mesorhizobium sp. WSM1497
+path:mesw00330	Arginine and proline metabolism - Mesorhizobium sp. WSM1497
+path:mesw00332	Carbapenem biosynthesis - Mesorhizobium sp. WSM1497
+path:mesw00340	Histidine metabolism - Mesorhizobium sp. WSM1497
+path:mesw00350	Tyrosine metabolism - Mesorhizobium sp. WSM1497
+path:mesw00360	Phenylalanine metabolism - Mesorhizobium sp. WSM1497
+path:mesw00361	Chlorocyclohexane and chlorobenzene degradation - Mesorhizobium sp. WSM1497
+path:mesw00362	Benzoate degradation - Mesorhizobium sp. WSM1497
+path:mesw00364	Fluorobenzoate degradation - Mesorhizobium sp. WSM1497
+path:mesw00380	Tryptophan metabolism - Mesorhizobium sp. WSM1497
+path:mesw00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Mesorhizobium sp. WSM1497
+path:mesw00401	Novobiocin biosynthesis - Mesorhizobium sp. WSM1497
+path:mesw00405	Phenazine biosynthesis - Mesorhizobium sp. WSM1497
+path:mesw00410	beta-Alanine metabolism - Mesorhizobium sp. WSM1497
+path:mesw00430	Taurine and hypotaurine metabolism - Mesorhizobium sp. WSM1497
+path:mesw00440	Phosphonate and phosphinate metabolism - Mesorhizobium sp. WSM1497
+path:mesw00450	Selenocompound metabolism - Mesorhizobium sp. WSM1497
+path:mesw00460	Cyanoamino acid metabolism - Mesorhizobium sp. WSM1497
+path:mesw00471	D-Glutamine and D-glutamate metabolism - Mesorhizobium sp. WSM1497
+path:mesw00472	D-Arginine and D-ornithine metabolism - Mesorhizobium sp. WSM1497
+path:mesw00473	D-Alanine metabolism - Mesorhizobium sp. WSM1497
+path:mesw00480	Glutathione metabolism - Mesorhizobium sp. WSM1497
+path:mesw00500	Starch and sucrose metabolism - Mesorhizobium sp. WSM1497
+path:mesw00520	Amino sugar and nucleotide sugar metabolism - Mesorhizobium sp. WSM1497
+path:mesw00521	Streptomycin biosynthesis - Mesorhizobium sp. WSM1497
+path:mesw00523	Polyketide sugar unit biosynthesis - Mesorhizobium sp. WSM1497
+path:mesw00525	Acarbose and validamycin biosynthesis - Mesorhizobium sp. WSM1497
+path:mesw00540	Lipopolysaccharide biosynthesis - Mesorhizobium sp. WSM1497
+path:mesw00550	Peptidoglycan biosynthesis - Mesorhizobium sp. WSM1497
+path:mesw00561	Glycerolipid metabolism - Mesorhizobium sp. WSM1497
+path:mesw00562	Inositol phosphate metabolism - Mesorhizobium sp. WSM1497
+path:mesw00564	Glycerophospholipid metabolism - Mesorhizobium sp. WSM1497
+path:mesw00592	alpha-Linolenic acid metabolism - Mesorhizobium sp. WSM1497
+path:mesw00600	Sphingolipid metabolism - Mesorhizobium sp. WSM1497
+path:mesw00620	Pyruvate metabolism - Mesorhizobium sp. WSM1497
+path:mesw00621	Dioxin degradation - Mesorhizobium sp. WSM1497
+path:mesw00622	Xylene degradation - Mesorhizobium sp. WSM1497
+path:mesw00623	Toluene degradation - Mesorhizobium sp. WSM1497
+path:mesw00624	Polycyclic aromatic hydrocarbon degradation - Mesorhizobium sp. WSM1497
+path:mesw00625	Chloroalkane and chloroalkene degradation - Mesorhizobium sp. WSM1497
+path:mesw00626	Naphthalene degradation - Mesorhizobium sp. WSM1497
+path:mesw00627	Aminobenzoate degradation - Mesorhizobium sp. WSM1497
+path:mesw00630	Glyoxylate and dicarboxylate metabolism - Mesorhizobium sp. WSM1497
+path:mesw00640	Propanoate metabolism - Mesorhizobium sp. WSM1497
+path:mesw00643	Styrene degradation - Mesorhizobium sp. WSM1497
+path:mesw00650	Butanoate metabolism - Mesorhizobium sp. WSM1497
+path:mesw00660	C5-Branched dibasic acid metabolism - Mesorhizobium sp. WSM1497
+path:mesw00670	One carbon pool by folate - Mesorhizobium sp. WSM1497
+path:mesw00680	Methane metabolism - Mesorhizobium sp. WSM1497
+path:mesw00710	Carbon fixation in photosynthetic organisms - Mesorhizobium sp. WSM1497
+path:mesw00730	Thiamine metabolism - Mesorhizobium sp. WSM1497
+path:mesw00740	Riboflavin metabolism - Mesorhizobium sp. WSM1497
+path:mesw00750	Vitamin B6 metabolism - Mesorhizobium sp. WSM1497
+path:mesw00760	Nicotinate and nicotinamide metabolism - Mesorhizobium sp. WSM1497
+path:mesw00770	Pantothenate and CoA biosynthesis - Mesorhizobium sp. WSM1497
+path:mesw00780	Biotin metabolism - Mesorhizobium sp. WSM1497
+path:mesw00785	Lipoic acid metabolism - Mesorhizobium sp. WSM1497
+path:mesw00790	Folate biosynthesis - Mesorhizobium sp. WSM1497
+path:mesw00860	Porphyrin and chlorophyll metabolism - Mesorhizobium sp. WSM1497
+path:mesw00900	Terpenoid backbone biosynthesis - Mesorhizobium sp. WSM1497
+path:mesw00903	Limonene and pinene degradation - Mesorhizobium sp. WSM1497
+path:mesw00906	Carotenoid biosynthesis - Mesorhizobium sp. WSM1497
+path:mesw00910	Nitrogen metabolism - Mesorhizobium sp. WSM1497
+path:mesw00920	Sulfur metabolism - Mesorhizobium sp. WSM1497
+path:mesw00930	Caprolactam degradation - Mesorhizobium sp. WSM1497
+path:mesw00970	Aminoacyl-tRNA biosynthesis - Mesorhizobium sp. WSM1497
+path:mesw01040	Biosynthesis of unsaturated fatty acids - Mesorhizobium sp. WSM1497
+path:mesw01054	Nonribosomal peptide structures - Mesorhizobium sp. WSM1497
+path:mesw01100	Metabolic pathways - Mesorhizobium sp. WSM1497
+path:mesw01110	Biosynthesis of secondary metabolites - Mesorhizobium sp. WSM1497
+path:mesw01120	Microbial metabolism in diverse environments - Mesorhizobium sp. WSM1497
+path:mesw01130	Biosynthesis of antibiotics - Mesorhizobium sp. WSM1497
+path:mesw01200	Carbon metabolism - Mesorhizobium sp. WSM1497
+path:mesw01210	2-Oxocarboxylic acid metabolism - Mesorhizobium sp. WSM1497
+path:mesw01212	Fatty acid metabolism - Mesorhizobium sp. WSM1497
+path:mesw01220	Degradation of aromatic compounds - Mesorhizobium sp. WSM1497
+path:mesw01230	Biosynthesis of amino acids - Mesorhizobium sp. WSM1497
+path:mesw01501	beta-Lactam resistance - Mesorhizobium sp. WSM1497
+path:mesw01502	Vancomycin resistance - Mesorhizobium sp. WSM1497
+path:mesw01503	Cationic antimicrobial peptide (CAMP) resistance - Mesorhizobium sp. WSM1497
+path:mesw02010	ABC transporters - Mesorhizobium sp. WSM1497
+path:mesw02020	Two-component system - Mesorhizobium sp. WSM1497
+path:mesw02024	Quorum sensing - Mesorhizobium sp. WSM1497
+path:mesw02030	Bacterial chemotaxis - Mesorhizobium sp. WSM1497
+path:mesw02040	Flagellar assembly - Mesorhizobium sp. WSM1497
+path:mesw02060	Phosphotransferase system (PTS) - Mesorhizobium sp. WSM1497
+path:mesw03010	Ribosome - Mesorhizobium sp. WSM1497
+path:mesw03018	RNA degradation - Mesorhizobium sp. WSM1497
+path:mesw03020	RNA polymerase - Mesorhizobium sp. WSM1497
+path:mesw03030	DNA replication - Mesorhizobium sp. WSM1497
+path:mesw03060	Protein export - Mesorhizobium sp. WSM1497
+path:mesw03070	Bacterial secretion system - Mesorhizobium sp. WSM1497
+path:mesw03410	Base excision repair - Mesorhizobium sp. WSM1497
+path:mesw03420	Nucleotide excision repair - Mesorhizobium sp. WSM1497
+path:mesw03430	Mismatch repair - Mesorhizobium sp. WSM1497
+path:mesw03440	Homologous recombination - Mesorhizobium sp. WSM1497
+path:mesw03450	Non-homologous end-joining - Mesorhizobium sp. WSM1497
+path:mesw04122	Sulfur relay system - Mesorhizobium sp. WSM1497

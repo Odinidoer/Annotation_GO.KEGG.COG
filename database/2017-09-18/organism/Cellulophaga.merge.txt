@@ -1,0 +1,558 @@
+path:cao00010	Glycolysis / Gluconeogenesis - Cellulophaga algicola
+path:cao00020	Citrate cycle (TCA cycle) - Cellulophaga algicola
+path:cao00030	Pentose phosphate pathway - Cellulophaga algicola
+path:cao00040	Pentose and glucuronate interconversions - Cellulophaga algicola
+path:cao00051	Fructose and mannose metabolism - Cellulophaga algicola
+path:cao00052	Galactose metabolism - Cellulophaga algicola
+path:cao00053	Ascorbate and aldarate metabolism - Cellulophaga algicola
+path:cao00061	Fatty acid biosynthesis - Cellulophaga algicola
+path:cao00071	Fatty acid degradation - Cellulophaga algicola
+path:cao00072	Synthesis and degradation of ketone bodies - Cellulophaga algicola
+path:cao00130	Ubiquinone and other terpenoid-quinone biosynthesis - Cellulophaga algicola
+path:cao00190	Oxidative phosphorylation - Cellulophaga algicola
+path:cao00220	Arginine biosynthesis - Cellulophaga algicola
+path:cao00230	Purine metabolism - Cellulophaga algicola
+path:cao00240	Pyrimidine metabolism - Cellulophaga algicola
+path:cao00250	Alanine, aspartate and glutamate metabolism - Cellulophaga algicola
+path:cao00260	Glycine, serine and threonine metabolism - Cellulophaga algicola
+path:cao00261	Monobactam biosynthesis - Cellulophaga algicola
+path:cao00270	Cysteine and methionine metabolism - Cellulophaga algicola
+path:cao00280	Valine, leucine and isoleucine degradation - Cellulophaga algicola
+path:cao00281	Geraniol degradation - Cellulophaga algicola
+path:cao00290	Valine, leucine and isoleucine biosynthesis - Cellulophaga algicola
+path:cao00300	Lysine biosynthesis - Cellulophaga algicola
+path:cao00310	Lysine degradation - Cellulophaga algicola
+path:cao00311	Penicillin and cephalosporin biosynthesis - Cellulophaga algicola
+path:cao00330	Arginine and proline metabolism - Cellulophaga algicola
+path:cao00332	Carbapenem biosynthesis - Cellulophaga algicola
+path:cao00340	Histidine metabolism - Cellulophaga algicola
+path:cao00350	Tyrosine metabolism - Cellulophaga algicola
+path:cao00360	Phenylalanine metabolism - Cellulophaga algicola
+path:cao00361	Chlorocyclohexane and chlorobenzene degradation - Cellulophaga algicola
+path:cao00362	Benzoate degradation - Cellulophaga algicola
+path:cao00364	Fluorobenzoate degradation - Cellulophaga algicola
+path:cao00380	Tryptophan metabolism - Cellulophaga algicola
+path:cao00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Cellulophaga algicola
+path:cao00401	Novobiocin biosynthesis - Cellulophaga algicola
+path:cao00410	beta-Alanine metabolism - Cellulophaga algicola
+path:cao00430	Taurine and hypotaurine metabolism - Cellulophaga algicola
+path:cao00450	Selenocompound metabolism - Cellulophaga algicola
+path:cao00460	Cyanoamino acid metabolism - Cellulophaga algicola
+path:cao00471	D-Glutamine and D-glutamate metabolism - Cellulophaga algicola
+path:cao00473	D-Alanine metabolism - Cellulophaga algicola
+path:cao00480	Glutathione metabolism - Cellulophaga algicola
+path:cao00500	Starch and sucrose metabolism - Cellulophaga algicola
+path:cao00511	Other glycan degradation - Cellulophaga algicola
+path:cao00520	Amino sugar and nucleotide sugar metabolism - Cellulophaga algicola
+path:cao00521	Streptomycin biosynthesis - Cellulophaga algicola
+path:cao00523	Polyketide sugar unit biosynthesis - Cellulophaga algicola
+path:cao00525	Acarbose and validamycin biosynthesis - Cellulophaga algicola
+path:cao00540	Lipopolysaccharide biosynthesis - Cellulophaga algicola
+path:cao00550	Peptidoglycan biosynthesis - Cellulophaga algicola
+path:cao00561	Glycerolipid metabolism - Cellulophaga algicola
+path:cao00562	Inositol phosphate metabolism - Cellulophaga algicola
+path:cao00564	Glycerophospholipid metabolism - Cellulophaga algicola
+path:cao00565	Ether lipid metabolism - Cellulophaga algicola
+path:cao00590	Arachidonic acid metabolism - Cellulophaga algicola
+path:cao00591	Linoleic acid metabolism - Cellulophaga algicola
+path:cao00592	alpha-Linolenic acid metabolism - Cellulophaga algicola
+path:cao00600	Sphingolipid metabolism - Cellulophaga algicola
+path:cao00620	Pyruvate metabolism - Cellulophaga algicola
+path:cao00623	Toluene degradation - Cellulophaga algicola
+path:cao00625	Chloroalkane and chloroalkene degradation - Cellulophaga algicola
+path:cao00626	Naphthalene degradation - Cellulophaga algicola
+path:cao00627	Aminobenzoate degradation - Cellulophaga algicola
+path:cao00630	Glyoxylate and dicarboxylate metabolism - Cellulophaga algicola
+path:cao00633	Nitrotoluene degradation - Cellulophaga algicola
+path:cao00640	Propanoate metabolism - Cellulophaga algicola
+path:cao00643	Styrene degradation - Cellulophaga algicola
+path:cao00650	Butanoate metabolism - Cellulophaga algicola
+path:cao00660	C5-Branched dibasic acid metabolism - Cellulophaga algicola
+path:cao00670	One carbon pool by folate - Cellulophaga algicola
+path:cao00680	Methane metabolism - Cellulophaga algicola
+path:cao00730	Thiamine metabolism - Cellulophaga algicola
+path:cao00740	Riboflavin metabolism - Cellulophaga algicola
+path:cao00750	Vitamin B6 metabolism - Cellulophaga algicola
+path:cao00760	Nicotinate and nicotinamide metabolism - Cellulophaga algicola
+path:cao00770	Pantothenate and CoA biosynthesis - Cellulophaga algicola
+path:cao00780	Biotin metabolism - Cellulophaga algicola
+path:cao00785	Lipoic acid metabolism - Cellulophaga algicola
+path:cao00790	Folate biosynthesis - Cellulophaga algicola
+path:cao00860	Porphyrin and chlorophyll metabolism - Cellulophaga algicola
+path:cao00900	Terpenoid backbone biosynthesis - Cellulophaga algicola
+path:cao00906	Carotenoid biosynthesis - Cellulophaga algicola
+path:cao00910	Nitrogen metabolism - Cellulophaga algicola
+path:cao00920	Sulfur metabolism - Cellulophaga algicola
+path:cao00970	Aminoacyl-tRNA biosynthesis - Cellulophaga algicola
+path:cao01040	Biosynthesis of unsaturated fatty acids - Cellulophaga algicola
+path:cao01100	Metabolic pathways - Cellulophaga algicola
+path:cao01110	Biosynthesis of secondary metabolites - Cellulophaga algicola
+path:cao01120	Microbial metabolism in diverse environments - Cellulophaga algicola
+path:cao01130	Biosynthesis of antibiotics - Cellulophaga algicola
+path:cao01200	Carbon metabolism - Cellulophaga algicola
+path:cao01210	2-Oxocarboxylic acid metabolism - Cellulophaga algicola
+path:cao01212	Fatty acid metabolism - Cellulophaga algicola
+path:cao01220	Degradation of aromatic compounds - Cellulophaga algicola
+path:cao01230	Biosynthesis of amino acids - Cellulophaga algicola
+path:cao01501	beta-Lactam resistance - Cellulophaga algicola
+path:cao01502	Vancomycin resistance - Cellulophaga algicola
+path:cao01503	Cationic antimicrobial peptide (CAMP) resistance - Cellulophaga algicola
+path:cao02010	ABC transporters - Cellulophaga algicola
+path:cao02020	Two-component system - Cellulophaga algicola
+path:cao02024	Quorum sensing - Cellulophaga algicola
+path:cao02030	Bacterial chemotaxis - Cellulophaga algicola
+path:cao03010	Ribosome - Cellulophaga algicola
+path:cao03018	RNA degradation - Cellulophaga algicola
+path:cao03020	RNA polymerase - Cellulophaga algicola
+path:cao03030	DNA replication - Cellulophaga algicola
+path:cao03060	Protein export - Cellulophaga algicola
+path:cao03070	Bacterial secretion system - Cellulophaga algicola
+path:cao03410	Base excision repair - Cellulophaga algicola
+path:cao03420	Nucleotide excision repair - Cellulophaga algicola
+path:cao03430	Mismatch repair - Cellulophaga algicola
+path:cao03440	Homologous recombination - Cellulophaga algicola
+path:cao04122	Sulfur relay system - Cellulophaga algicola
+path:cly00010	Glycolysis / Gluconeogenesis - Cellulophaga lytica DSM 7489
+path:cly00020	Citrate cycle (TCA cycle) - Cellulophaga lytica DSM 7489
+path:cly00030	Pentose phosphate pathway - Cellulophaga lytica DSM 7489
+path:cly00040	Pentose and glucuronate interconversions - Cellulophaga lytica DSM 7489
+path:cly00051	Fructose and mannose metabolism - Cellulophaga lytica DSM 7489
+path:cly00052	Galactose metabolism - Cellulophaga lytica DSM 7489
+path:cly00053	Ascorbate and aldarate metabolism - Cellulophaga lytica DSM 7489
+path:cly00061	Fatty acid biosynthesis - Cellulophaga lytica DSM 7489
+path:cly00071	Fatty acid degradation - Cellulophaga lytica DSM 7489
+path:cly00072	Synthesis and degradation of ketone bodies - Cellulophaga lytica DSM 7489
+path:cly00130	Ubiquinone and other terpenoid-quinone biosynthesis - Cellulophaga lytica DSM 7489
+path:cly00190	Oxidative phosphorylation - Cellulophaga lytica DSM 7489
+path:cly00220	Arginine biosynthesis - Cellulophaga lytica DSM 7489
+path:cly00230	Purine metabolism - Cellulophaga lytica DSM 7489
+path:cly00240	Pyrimidine metabolism - Cellulophaga lytica DSM 7489
+path:cly00250	Alanine, aspartate and glutamate metabolism - Cellulophaga lytica DSM 7489
+path:cly00260	Glycine, serine and threonine metabolism - Cellulophaga lytica DSM 7489
+path:cly00261	Monobactam biosynthesis - Cellulophaga lytica DSM 7489
+path:cly00270	Cysteine and methionine metabolism - Cellulophaga lytica DSM 7489
+path:cly00280	Valine, leucine and isoleucine degradation - Cellulophaga lytica DSM 7489
+path:cly00281	Geraniol degradation - Cellulophaga lytica DSM 7489
+path:cly00290	Valine, leucine and isoleucine biosynthesis - Cellulophaga lytica DSM 7489
+path:cly00300	Lysine biosynthesis - Cellulophaga lytica DSM 7489
+path:cly00310	Lysine degradation - Cellulophaga lytica DSM 7489
+path:cly00330	Arginine and proline metabolism - Cellulophaga lytica DSM 7489
+path:cly00332	Carbapenem biosynthesis - Cellulophaga lytica DSM 7489
+path:cly00340	Histidine metabolism - Cellulophaga lytica DSM 7489
+path:cly00350	Tyrosine metabolism - Cellulophaga lytica DSM 7489
+path:cly00360	Phenylalanine metabolism - Cellulophaga lytica DSM 7489
+path:cly00362	Benzoate degradation - Cellulophaga lytica DSM 7489
+path:cly00380	Tryptophan metabolism - Cellulophaga lytica DSM 7489
+path:cly00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Cellulophaga lytica DSM 7489
+path:cly00401	Novobiocin biosynthesis - Cellulophaga lytica DSM 7489
+path:cly00410	beta-Alanine metabolism - Cellulophaga lytica DSM 7489
+path:cly00430	Taurine and hypotaurine metabolism - Cellulophaga lytica DSM 7489
+path:cly00440	Phosphonate and phosphinate metabolism - Cellulophaga lytica DSM 7489
+path:cly00450	Selenocompound metabolism - Cellulophaga lytica DSM 7489
+path:cly00460	Cyanoamino acid metabolism - Cellulophaga lytica DSM 7489
+path:cly00471	D-Glutamine and D-glutamate metabolism - Cellulophaga lytica DSM 7489
+path:cly00473	D-Alanine metabolism - Cellulophaga lytica DSM 7489
+path:cly00480	Glutathione metabolism - Cellulophaga lytica DSM 7489
+path:cly00500	Starch and sucrose metabolism - Cellulophaga lytica DSM 7489
+path:cly00511	Other glycan degradation - Cellulophaga lytica DSM 7489
+path:cly00520	Amino sugar and nucleotide sugar metabolism - Cellulophaga lytica DSM 7489
+path:cly00521	Streptomycin biosynthesis - Cellulophaga lytica DSM 7489
+path:cly00523	Polyketide sugar unit biosynthesis - Cellulophaga lytica DSM 7489
+path:cly00525	Acarbose and validamycin biosynthesis - Cellulophaga lytica DSM 7489
+path:cly00540	Lipopolysaccharide biosynthesis - Cellulophaga lytica DSM 7489
+path:cly00550	Peptidoglycan biosynthesis - Cellulophaga lytica DSM 7489
+path:cly00561	Glycerolipid metabolism - Cellulophaga lytica DSM 7489
+path:cly00562	Inositol phosphate metabolism - Cellulophaga lytica DSM 7489
+path:cly00564	Glycerophospholipid metabolism - Cellulophaga lytica DSM 7489
+path:cly00590	Arachidonic acid metabolism - Cellulophaga lytica DSM 7489
+path:cly00592	alpha-Linolenic acid metabolism - Cellulophaga lytica DSM 7489
+path:cly00620	Pyruvate metabolism - Cellulophaga lytica DSM 7489
+path:cly00625	Chloroalkane and chloroalkene degradation - Cellulophaga lytica DSM 7489
+path:cly00627	Aminobenzoate degradation - Cellulophaga lytica DSM 7489
+path:cly00630	Glyoxylate and dicarboxylate metabolism - Cellulophaga lytica DSM 7489
+path:cly00633	Nitrotoluene degradation - Cellulophaga lytica DSM 7489
+path:cly00640	Propanoate metabolism - Cellulophaga lytica DSM 7489
+path:cly00643	Styrene degradation - Cellulophaga lytica DSM 7489
+path:cly00650	Butanoate metabolism - Cellulophaga lytica DSM 7489
+path:cly00660	C5-Branched dibasic acid metabolism - Cellulophaga lytica DSM 7489
+path:cly00670	One carbon pool by folate - Cellulophaga lytica DSM 7489
+path:cly00680	Methane metabolism - Cellulophaga lytica DSM 7489
+path:cly00730	Thiamine metabolism - Cellulophaga lytica DSM 7489
+path:cly00740	Riboflavin metabolism - Cellulophaga lytica DSM 7489
+path:cly00750	Vitamin B6 metabolism - Cellulophaga lytica DSM 7489
+path:cly00760	Nicotinate and nicotinamide metabolism - Cellulophaga lytica DSM 7489
+path:cly00770	Pantothenate and CoA biosynthesis - Cellulophaga lytica DSM 7489
+path:cly00780	Biotin metabolism - Cellulophaga lytica DSM 7489
+path:cly00785	Lipoic acid metabolism - Cellulophaga lytica DSM 7489
+path:cly00790	Folate biosynthesis - Cellulophaga lytica DSM 7489
+path:cly00860	Porphyrin and chlorophyll metabolism - Cellulophaga lytica DSM 7489
+path:cly00900	Terpenoid backbone biosynthesis - Cellulophaga lytica DSM 7489
+path:cly00906	Carotenoid biosynthesis - Cellulophaga lytica DSM 7489
+path:cly00910	Nitrogen metabolism - Cellulophaga lytica DSM 7489
+path:cly00920	Sulfur metabolism - Cellulophaga lytica DSM 7489
+path:cly00970	Aminoacyl-tRNA biosynthesis - Cellulophaga lytica DSM 7489
+path:cly01040	Biosynthesis of unsaturated fatty acids - Cellulophaga lytica DSM 7489
+path:cly01054	Nonribosomal peptide structures - Cellulophaga lytica DSM 7489
+path:cly01100	Metabolic pathways - Cellulophaga lytica DSM 7489
+path:cly01110	Biosynthesis of secondary metabolites - Cellulophaga lytica DSM 7489
+path:cly01120	Microbial metabolism in diverse environments - Cellulophaga lytica DSM 7489
+path:cly01130	Biosynthesis of antibiotics - Cellulophaga lytica DSM 7489
+path:cly01200	Carbon metabolism - Cellulophaga lytica DSM 7489
+path:cly01210	2-Oxocarboxylic acid metabolism - Cellulophaga lytica DSM 7489
+path:cly01212	Fatty acid metabolism - Cellulophaga lytica DSM 7489
+path:cly01220	Degradation of aromatic compounds - Cellulophaga lytica DSM 7489
+path:cly01230	Biosynthesis of amino acids - Cellulophaga lytica DSM 7489
+path:cly01501	beta-Lactam resistance - Cellulophaga lytica DSM 7489
+path:cly01502	Vancomycin resistance - Cellulophaga lytica DSM 7489
+path:cly01503	Cationic antimicrobial peptide (CAMP) resistance - Cellulophaga lytica DSM 7489
+path:cly02010	ABC transporters - Cellulophaga lytica DSM 7489
+path:cly02020	Two-component system - Cellulophaga lytica DSM 7489
+path:cly02024	Quorum sensing - Cellulophaga lytica DSM 7489
+path:cly02030	Bacterial chemotaxis - Cellulophaga lytica DSM 7489
+path:cly03010	Ribosome - Cellulophaga lytica DSM 7489
+path:cly03018	RNA degradation - Cellulophaga lytica DSM 7489
+path:cly03020	RNA polymerase - Cellulophaga lytica DSM 7489
+path:cly03030	DNA replication - Cellulophaga lytica DSM 7489
+path:cly03060	Protein export - Cellulophaga lytica DSM 7489
+path:cly03070	Bacterial secretion system - Cellulophaga lytica DSM 7489
+path:cly03410	Base excision repair - Cellulophaga lytica DSM 7489
+path:cly03420	Nucleotide excision repair - Cellulophaga lytica DSM 7489
+path:cly03430	Mismatch repair - Cellulophaga lytica DSM 7489
+path:cly03440	Homologous recombination - Cellulophaga lytica DSM 7489
+path:cly04122	Sulfur relay system - Cellulophaga lytica DSM 7489
+path:clh00010	Glycolysis / Gluconeogenesis - Cellulophaga lytica HI1
+path:clh00020	Citrate cycle (TCA cycle) - Cellulophaga lytica HI1
+path:clh00030	Pentose phosphate pathway - Cellulophaga lytica HI1
+path:clh00040	Pentose and glucuronate interconversions - Cellulophaga lytica HI1
+path:clh00051	Fructose and mannose metabolism - Cellulophaga lytica HI1
+path:clh00052	Galactose metabolism - Cellulophaga lytica HI1
+path:clh00053	Ascorbate and aldarate metabolism - Cellulophaga lytica HI1
+path:clh00061	Fatty acid biosynthesis - Cellulophaga lytica HI1
+path:clh00071	Fatty acid degradation - Cellulophaga lytica HI1
+path:clh00072	Synthesis and degradation of ketone bodies - Cellulophaga lytica HI1
+path:clh00130	Ubiquinone and other terpenoid-quinone biosynthesis - Cellulophaga lytica HI1
+path:clh00190	Oxidative phosphorylation - Cellulophaga lytica HI1
+path:clh00220	Arginine biosynthesis - Cellulophaga lytica HI1
+path:clh00230	Purine metabolism - Cellulophaga lytica HI1
+path:clh00240	Pyrimidine metabolism - Cellulophaga lytica HI1
+path:clh00250	Alanine, aspartate and glutamate metabolism - Cellulophaga lytica HI1
+path:clh00260	Glycine, serine and threonine metabolism - Cellulophaga lytica HI1
+path:clh00261	Monobactam biosynthesis - Cellulophaga lytica HI1
+path:clh00270	Cysteine and methionine metabolism - Cellulophaga lytica HI1
+path:clh00280	Valine, leucine and isoleucine degradation - Cellulophaga lytica HI1
+path:clh00281	Geraniol degradation - Cellulophaga lytica HI1
+path:clh00290	Valine, leucine and isoleucine biosynthesis - Cellulophaga lytica HI1
+path:clh00300	Lysine biosynthesis - Cellulophaga lytica HI1
+path:clh00310	Lysine degradation - Cellulophaga lytica HI1
+path:clh00330	Arginine and proline metabolism - Cellulophaga lytica HI1
+path:clh00332	Carbapenem biosynthesis - Cellulophaga lytica HI1
+path:clh00340	Histidine metabolism - Cellulophaga lytica HI1
+path:clh00350	Tyrosine metabolism - Cellulophaga lytica HI1
+path:clh00360	Phenylalanine metabolism - Cellulophaga lytica HI1
+path:clh00362	Benzoate degradation - Cellulophaga lytica HI1
+path:clh00380	Tryptophan metabolism - Cellulophaga lytica HI1
+path:clh00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Cellulophaga lytica HI1
+path:clh00401	Novobiocin biosynthesis - Cellulophaga lytica HI1
+path:clh00410	beta-Alanine metabolism - Cellulophaga lytica HI1
+path:clh00430	Taurine and hypotaurine metabolism - Cellulophaga lytica HI1
+path:clh00440	Phosphonate and phosphinate metabolism - Cellulophaga lytica HI1
+path:clh00450	Selenocompound metabolism - Cellulophaga lytica HI1
+path:clh00460	Cyanoamino acid metabolism - Cellulophaga lytica HI1
+path:clh00471	D-Glutamine and D-glutamate metabolism - Cellulophaga lytica HI1
+path:clh00473	D-Alanine metabolism - Cellulophaga lytica HI1
+path:clh00480	Glutathione metabolism - Cellulophaga lytica HI1
+path:clh00500	Starch and sucrose metabolism - Cellulophaga lytica HI1
+path:clh00511	Other glycan degradation - Cellulophaga lytica HI1
+path:clh00520	Amino sugar and nucleotide sugar metabolism - Cellulophaga lytica HI1
+path:clh00521	Streptomycin biosynthesis - Cellulophaga lytica HI1
+path:clh00523	Polyketide sugar unit biosynthesis - Cellulophaga lytica HI1
+path:clh00525	Acarbose and validamycin biosynthesis - Cellulophaga lytica HI1
+path:clh00540	Lipopolysaccharide biosynthesis - Cellulophaga lytica HI1
+path:clh00550	Peptidoglycan biosynthesis - Cellulophaga lytica HI1
+path:clh00561	Glycerolipid metabolism - Cellulophaga lytica HI1
+path:clh00562	Inositol phosphate metabolism - Cellulophaga lytica HI1
+path:clh00564	Glycerophospholipid metabolism - Cellulophaga lytica HI1
+path:clh00590	Arachidonic acid metabolism - Cellulophaga lytica HI1
+path:clh00592	alpha-Linolenic acid metabolism - Cellulophaga lytica HI1
+path:clh00620	Pyruvate metabolism - Cellulophaga lytica HI1
+path:clh00625	Chloroalkane and chloroalkene degradation - Cellulophaga lytica HI1
+path:clh00630	Glyoxylate and dicarboxylate metabolism - Cellulophaga lytica HI1
+path:clh00633	Nitrotoluene degradation - Cellulophaga lytica HI1
+path:clh00640	Propanoate metabolism - Cellulophaga lytica HI1
+path:clh00643	Styrene degradation - Cellulophaga lytica HI1
+path:clh00650	Butanoate metabolism - Cellulophaga lytica HI1
+path:clh00660	C5-Branched dibasic acid metabolism - Cellulophaga lytica HI1
+path:clh00670	One carbon pool by folate - Cellulophaga lytica HI1
+path:clh00680	Methane metabolism - Cellulophaga lytica HI1
+path:clh00730	Thiamine metabolism - Cellulophaga lytica HI1
+path:clh00740	Riboflavin metabolism - Cellulophaga lytica HI1
+path:clh00750	Vitamin B6 metabolism - Cellulophaga lytica HI1
+path:clh00760	Nicotinate and nicotinamide metabolism - Cellulophaga lytica HI1
+path:clh00770	Pantothenate and CoA biosynthesis - Cellulophaga lytica HI1
+path:clh00780	Biotin metabolism - Cellulophaga lytica HI1
+path:clh00785	Lipoic acid metabolism - Cellulophaga lytica HI1
+path:clh00790	Folate biosynthesis - Cellulophaga lytica HI1
+path:clh00860	Porphyrin and chlorophyll metabolism - Cellulophaga lytica HI1
+path:clh00900	Terpenoid backbone biosynthesis - Cellulophaga lytica HI1
+path:clh00906	Carotenoid biosynthesis - Cellulophaga lytica HI1
+path:clh00910	Nitrogen metabolism - Cellulophaga lytica HI1
+path:clh00920	Sulfur metabolism - Cellulophaga lytica HI1
+path:clh00970	Aminoacyl-tRNA biosynthesis - Cellulophaga lytica HI1
+path:clh01040	Biosynthesis of unsaturated fatty acids - Cellulophaga lytica HI1
+path:clh01054	Nonribosomal peptide structures - Cellulophaga lytica HI1
+path:clh01100	Metabolic pathways - Cellulophaga lytica HI1
+path:clh01110	Biosynthesis of secondary metabolites - Cellulophaga lytica HI1
+path:clh01120	Microbial metabolism in diverse environments - Cellulophaga lytica HI1
+path:clh01130	Biosynthesis of antibiotics - Cellulophaga lytica HI1
+path:clh01200	Carbon metabolism - Cellulophaga lytica HI1
+path:clh01210	2-Oxocarboxylic acid metabolism - Cellulophaga lytica HI1
+path:clh01212	Fatty acid metabolism - Cellulophaga lytica HI1
+path:clh01220	Degradation of aromatic compounds - Cellulophaga lytica HI1
+path:clh01230	Biosynthesis of amino acids - Cellulophaga lytica HI1
+path:clh01501	beta-Lactam resistance - Cellulophaga lytica HI1
+path:clh01502	Vancomycin resistance - Cellulophaga lytica HI1
+path:clh01503	Cationic antimicrobial peptide (CAMP) resistance - Cellulophaga lytica HI1
+path:clh02010	ABC transporters - Cellulophaga lytica HI1
+path:clh02020	Two-component system - Cellulophaga lytica HI1
+path:clh02024	Quorum sensing - Cellulophaga lytica HI1
+path:clh02030	Bacterial chemotaxis - Cellulophaga lytica HI1
+path:clh03010	Ribosome - Cellulophaga lytica HI1
+path:clh03018	RNA degradation - Cellulophaga lytica HI1
+path:clh03020	RNA polymerase - Cellulophaga lytica HI1
+path:clh03030	DNA replication - Cellulophaga lytica HI1
+path:clh03060	Protein export - Cellulophaga lytica HI1
+path:clh03070	Bacterial secretion system - Cellulophaga lytica HI1
+path:clh03410	Base excision repair - Cellulophaga lytica HI1
+path:clh03420	Nucleotide excision repair - Cellulophaga lytica HI1
+path:clh03430	Mismatch repair - Cellulophaga lytica HI1
+path:clh03440	Homologous recombination - Cellulophaga lytica HI1
+path:clh04122	Sulfur relay system - Cellulophaga lytica HI1
+path:cbal00010	Glycolysis / Gluconeogenesis - Cellulophaga baltica NN016038
+path:cbal00020	Citrate cycle (TCA cycle) - Cellulophaga baltica NN016038
+path:cbal00030	Pentose phosphate pathway - Cellulophaga baltica NN016038
+path:cbal00040	Pentose and glucuronate interconversions - Cellulophaga baltica NN016038
+path:cbal00051	Fructose and mannose metabolism - Cellulophaga baltica NN016038
+path:cbal00052	Galactose metabolism - Cellulophaga baltica NN016038
+path:cbal00053	Ascorbate and aldarate metabolism - Cellulophaga baltica NN016038
+path:cbal00061	Fatty acid biosynthesis - Cellulophaga baltica NN016038
+path:cbal00071	Fatty acid degradation - Cellulophaga baltica NN016038
+path:cbal00072	Synthesis and degradation of ketone bodies - Cellulophaga baltica NN016038
+path:cbal00130	Ubiquinone and other terpenoid-quinone biosynthesis - Cellulophaga baltica NN016038
+path:cbal00190	Oxidative phosphorylation - Cellulophaga baltica NN016038
+path:cbal00220	Arginine biosynthesis - Cellulophaga baltica NN016038
+path:cbal00230	Purine metabolism - Cellulophaga baltica NN016038
+path:cbal00240	Pyrimidine metabolism - Cellulophaga baltica NN016038
+path:cbal00250	Alanine, aspartate and glutamate metabolism - Cellulophaga baltica NN016038
+path:cbal00260	Glycine, serine and threonine metabolism - Cellulophaga baltica NN016038
+path:cbal00261	Monobactam biosynthesis - Cellulophaga baltica NN016038
+path:cbal00270	Cysteine and methionine metabolism - Cellulophaga baltica NN016038
+path:cbal00280	Valine, leucine and isoleucine degradation - Cellulophaga baltica NN016038
+path:cbal00281	Geraniol degradation - Cellulophaga baltica NN016038
+path:cbal00290	Valine, leucine and isoleucine biosynthesis - Cellulophaga baltica NN016038
+path:cbal00300	Lysine biosynthesis - Cellulophaga baltica NN016038
+path:cbal00310	Lysine degradation - Cellulophaga baltica NN016038
+path:cbal00311	Penicillin and cephalosporin biosynthesis - Cellulophaga baltica NN016038
+path:cbal00330	Arginine and proline metabolism - Cellulophaga baltica NN016038
+path:cbal00332	Carbapenem biosynthesis - Cellulophaga baltica NN016038
+path:cbal00340	Histidine metabolism - Cellulophaga baltica NN016038
+path:cbal00350	Tyrosine metabolism - Cellulophaga baltica NN016038
+path:cbal00360	Phenylalanine metabolism - Cellulophaga baltica NN016038
+path:cbal00361	Chlorocyclohexane and chlorobenzene degradation - Cellulophaga baltica NN016038
+path:cbal00362	Benzoate degradation - Cellulophaga baltica NN016038
+path:cbal00364	Fluorobenzoate degradation - Cellulophaga baltica NN016038
+path:cbal00380	Tryptophan metabolism - Cellulophaga baltica NN016038
+path:cbal00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Cellulophaga baltica NN016038
+path:cbal00401	Novobiocin biosynthesis - Cellulophaga baltica NN016038
+path:cbal00410	beta-Alanine metabolism - Cellulophaga baltica NN016038
+path:cbal00430	Taurine and hypotaurine metabolism - Cellulophaga baltica NN016038
+path:cbal00450	Selenocompound metabolism - Cellulophaga baltica NN016038
+path:cbal00460	Cyanoamino acid metabolism - Cellulophaga baltica NN016038
+path:cbal00471	D-Glutamine and D-glutamate metabolism - Cellulophaga baltica NN016038
+path:cbal00473	D-Alanine metabolism - Cellulophaga baltica NN016038
+path:cbal00480	Glutathione metabolism - Cellulophaga baltica NN016038
+path:cbal00500	Starch and sucrose metabolism - Cellulophaga baltica NN016038
+path:cbal00511	Other glycan degradation - Cellulophaga baltica NN016038
+path:cbal00520	Amino sugar and nucleotide sugar metabolism - Cellulophaga baltica NN016038
+path:cbal00521	Streptomycin biosynthesis - Cellulophaga baltica NN016038
+path:cbal00523	Polyketide sugar unit biosynthesis - Cellulophaga baltica NN016038
+path:cbal00525	Acarbose and validamycin biosynthesis - Cellulophaga baltica NN016038
+path:cbal00540	Lipopolysaccharide biosynthesis - Cellulophaga baltica NN016038
+path:cbal00550	Peptidoglycan biosynthesis - Cellulophaga baltica NN016038
+path:cbal00561	Glycerolipid metabolism - Cellulophaga baltica NN016038
+path:cbal00562	Inositol phosphate metabolism - Cellulophaga baltica NN016038
+path:cbal00564	Glycerophospholipid metabolism - Cellulophaga baltica NN016038
+path:cbal00565	Ether lipid metabolism - Cellulophaga baltica NN016038
+path:cbal00590	Arachidonic acid metabolism - Cellulophaga baltica NN016038
+path:cbal00591	Linoleic acid metabolism - Cellulophaga baltica NN016038
+path:cbal00592	alpha-Linolenic acid metabolism - Cellulophaga baltica NN016038
+path:cbal00620	Pyruvate metabolism - Cellulophaga baltica NN016038
+path:cbal00623	Toluene degradation - Cellulophaga baltica NN016038
+path:cbal00625	Chloroalkane and chloroalkene degradation - Cellulophaga baltica NN016038
+path:cbal00626	Naphthalene degradation - Cellulophaga baltica NN016038
+path:cbal00630	Glyoxylate and dicarboxylate metabolism - Cellulophaga baltica NN016038
+path:cbal00633	Nitrotoluene degradation - Cellulophaga baltica NN016038
+path:cbal00640	Propanoate metabolism - Cellulophaga baltica NN016038
+path:cbal00643	Styrene degradation - Cellulophaga baltica NN016038
+path:cbal00650	Butanoate metabolism - Cellulophaga baltica NN016038
+path:cbal00660	C5-Branched dibasic acid metabolism - Cellulophaga baltica NN016038
+path:cbal00670	One carbon pool by folate - Cellulophaga baltica NN016038
+path:cbal00680	Methane metabolism - Cellulophaga baltica NN016038
+path:cbal00730	Thiamine metabolism - Cellulophaga baltica NN016038
+path:cbal00740	Riboflavin metabolism - Cellulophaga baltica NN016038
+path:cbal00750	Vitamin B6 metabolism - Cellulophaga baltica NN016038
+path:cbal00760	Nicotinate and nicotinamide metabolism - Cellulophaga baltica NN016038
+path:cbal00770	Pantothenate and CoA biosynthesis - Cellulophaga baltica NN016038
+path:cbal00780	Biotin metabolism - Cellulophaga baltica NN016038
+path:cbal00785	Lipoic acid metabolism - Cellulophaga baltica NN016038
+path:cbal00790	Folate biosynthesis - Cellulophaga baltica NN016038
+path:cbal00860	Porphyrin and chlorophyll metabolism - Cellulophaga baltica NN016038
+path:cbal00900	Terpenoid backbone biosynthesis - Cellulophaga baltica NN016038
+path:cbal00906	Carotenoid biosynthesis - Cellulophaga baltica NN016038
+path:cbal00910	Nitrogen metabolism - Cellulophaga baltica NN016038
+path:cbal00920	Sulfur metabolism - Cellulophaga baltica NN016038
+path:cbal00970	Aminoacyl-tRNA biosynthesis - Cellulophaga baltica NN016038
+path:cbal01040	Biosynthesis of unsaturated fatty acids - Cellulophaga baltica NN016038
+path:cbal01054	Nonribosomal peptide structures - Cellulophaga baltica NN016038
+path:cbal01100	Metabolic pathways - Cellulophaga baltica NN016038
+path:cbal01110	Biosynthesis of secondary metabolites - Cellulophaga baltica NN016038
+path:cbal01120	Microbial metabolism in diverse environments - Cellulophaga baltica NN016038
+path:cbal01130	Biosynthesis of antibiotics - Cellulophaga baltica NN016038
+path:cbal01200	Carbon metabolism - Cellulophaga baltica NN016038
+path:cbal01210	2-Oxocarboxylic acid metabolism - Cellulophaga baltica NN016038
+path:cbal01212	Fatty acid metabolism - Cellulophaga baltica NN016038
+path:cbal01220	Degradation of aromatic compounds - Cellulophaga baltica NN016038
+path:cbal01230	Biosynthesis of amino acids - Cellulophaga baltica NN016038
+path:cbal01501	beta-Lactam resistance - Cellulophaga baltica NN016038
+path:cbal01502	Vancomycin resistance - Cellulophaga baltica NN016038
+path:cbal01503	Cationic antimicrobial peptide (CAMP) resistance - Cellulophaga baltica NN016038
+path:cbal02010	ABC transporters - Cellulophaga baltica NN016038
+path:cbal02020	Two-component system - Cellulophaga baltica NN016038
+path:cbal02024	Quorum sensing - Cellulophaga baltica NN016038
+path:cbal02030	Bacterial chemotaxis - Cellulophaga baltica NN016038
+path:cbal03010	Ribosome - Cellulophaga baltica NN016038
+path:cbal03018	RNA degradation - Cellulophaga baltica NN016038
+path:cbal03020	RNA polymerase - Cellulophaga baltica NN016038
+path:cbal03030	DNA replication - Cellulophaga baltica NN016038
+path:cbal03060	Protein export - Cellulophaga baltica NN016038
+path:cbal03070	Bacterial secretion system - Cellulophaga baltica NN016038
+path:cbal03410	Base excision repair - Cellulophaga baltica NN016038
+path:cbal03420	Nucleotide excision repair - Cellulophaga baltica NN016038
+path:cbal03430	Mismatch repair - Cellulophaga baltica NN016038
+path:cbal03440	Homologous recombination - Cellulophaga baltica NN016038
+path:cbal03450	Non-homologous end-joining - Cellulophaga baltica NN016038
+path:cbal04122	Sulfur relay system - Cellulophaga baltica NN016038
+path:cbat00010	Glycolysis / Gluconeogenesis - Cellulophaga baltica 18
+path:cbat00020	Citrate cycle (TCA cycle) - Cellulophaga baltica 18
+path:cbat00030	Pentose phosphate pathway - Cellulophaga baltica 18
+path:cbat00040	Pentose and glucuronate interconversions - Cellulophaga baltica 18
+path:cbat00051	Fructose and mannose metabolism - Cellulophaga baltica 18
+path:cbat00052	Galactose metabolism - Cellulophaga baltica 18
+path:cbat00053	Ascorbate and aldarate metabolism - Cellulophaga baltica 18
+path:cbat00061	Fatty acid biosynthesis - Cellulophaga baltica 18
+path:cbat00071	Fatty acid degradation - Cellulophaga baltica 18
+path:cbat00072	Synthesis and degradation of ketone bodies - Cellulophaga baltica 18
+path:cbat00130	Ubiquinone and other terpenoid-quinone biosynthesis - Cellulophaga baltica 18
+path:cbat00190	Oxidative phosphorylation - Cellulophaga baltica 18
+path:cbat00220	Arginine biosynthesis - Cellulophaga baltica 18
+path:cbat00230	Purine metabolism - Cellulophaga baltica 18
+path:cbat00240	Pyrimidine metabolism - Cellulophaga baltica 18
+path:cbat00250	Alanine, aspartate and glutamate metabolism - Cellulophaga baltica 18
+path:cbat00260	Glycine, serine and threonine metabolism - Cellulophaga baltica 18
+path:cbat00261	Monobactam biosynthesis - Cellulophaga baltica 18
+path:cbat00270	Cysteine and methionine metabolism - Cellulophaga baltica 18
+path:cbat00280	Valine, leucine and isoleucine degradation - Cellulophaga baltica 18
+path:cbat00281	Geraniol degradation - Cellulophaga baltica 18
+path:cbat00290	Valine, leucine and isoleucine biosynthesis - Cellulophaga baltica 18
+path:cbat00300	Lysine biosynthesis - Cellulophaga baltica 18
+path:cbat00310	Lysine degradation - Cellulophaga baltica 18
+path:cbat00311	Penicillin and cephalosporin biosynthesis - Cellulophaga baltica 18
+path:cbat00330	Arginine and proline metabolism - Cellulophaga baltica 18
+path:cbat00332	Carbapenem biosynthesis - Cellulophaga baltica 18
+path:cbat00340	Histidine metabolism - Cellulophaga baltica 18
+path:cbat00350	Tyrosine metabolism - Cellulophaga baltica 18
+path:cbat00360	Phenylalanine metabolism - Cellulophaga baltica 18
+path:cbat00361	Chlorocyclohexane and chlorobenzene degradation - Cellulophaga baltica 18
+path:cbat00362	Benzoate degradation - Cellulophaga baltica 18
+path:cbat00364	Fluorobenzoate degradation - Cellulophaga baltica 18
+path:cbat00380	Tryptophan metabolism - Cellulophaga baltica 18
+path:cbat00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Cellulophaga baltica 18
+path:cbat00401	Novobiocin biosynthesis - Cellulophaga baltica 18
+path:cbat00410	beta-Alanine metabolism - Cellulophaga baltica 18
+path:cbat00430	Taurine and hypotaurine metabolism - Cellulophaga baltica 18
+path:cbat00440	Phosphonate and phosphinate metabolism - Cellulophaga baltica 18
+path:cbat00450	Selenocompound metabolism - Cellulophaga baltica 18
+path:cbat00460	Cyanoamino acid metabolism - Cellulophaga baltica 18
+path:cbat00471	D-Glutamine and D-glutamate metabolism - Cellulophaga baltica 18
+path:cbat00473	D-Alanine metabolism - Cellulophaga baltica 18
+path:cbat00480	Glutathione metabolism - Cellulophaga baltica 18
+path:cbat00500	Starch and sucrose metabolism - Cellulophaga baltica 18
+path:cbat00511	Other glycan degradation - Cellulophaga baltica 18
+path:cbat00520	Amino sugar and nucleotide sugar metabolism - Cellulophaga baltica 18
+path:cbat00521	Streptomycin biosynthesis - Cellulophaga baltica 18
+path:cbat00523	Polyketide sugar unit biosynthesis - Cellulophaga baltica 18
+path:cbat00525	Acarbose and validamycin biosynthesis - Cellulophaga baltica 18
+path:cbat00540	Lipopolysaccharide biosynthesis - Cellulophaga baltica 18
+path:cbat00550	Peptidoglycan biosynthesis - Cellulophaga baltica 18
+path:cbat00561	Glycerolipid metabolism - Cellulophaga baltica 18
+path:cbat00562	Inositol phosphate metabolism - Cellulophaga baltica 18
+path:cbat00564	Glycerophospholipid metabolism - Cellulophaga baltica 18
+path:cbat00565	Ether lipid metabolism - Cellulophaga baltica 18
+path:cbat00590	Arachidonic acid metabolism - Cellulophaga baltica 18
+path:cbat00591	Linoleic acid metabolism - Cellulophaga baltica 18
+path:cbat00592	alpha-Linolenic acid metabolism - Cellulophaga baltica 18
+path:cbat00620	Pyruvate metabolism - Cellulophaga baltica 18
+path:cbat00623	Toluene degradation - Cellulophaga baltica 18
+path:cbat00625	Chloroalkane and chloroalkene degradation - Cellulophaga baltica 18
+path:cbat00626	Naphthalene degradation - Cellulophaga baltica 18
+path:cbat00630	Glyoxylate and dicarboxylate metabolism - Cellulophaga baltica 18
+path:cbat00633	Nitrotoluene degradation - Cellulophaga baltica 18
+path:cbat00640	Propanoate metabolism - Cellulophaga baltica 18
+path:cbat00643	Styrene degradation - Cellulophaga baltica 18
+path:cbat00650	Butanoate metabolism - Cellulophaga baltica 18
+path:cbat00660	C5-Branched dibasic acid metabolism - Cellulophaga baltica 18
+path:cbat00670	One carbon pool by folate - Cellulophaga baltica 18
+path:cbat00680	Methane metabolism - Cellulophaga baltica 18
+path:cbat00730	Thiamine metabolism - Cellulophaga baltica 18
+path:cbat00740	Riboflavin metabolism - Cellulophaga baltica 18
+path:cbat00750	Vitamin B6 metabolism - Cellulophaga baltica 18
+path:cbat00760	Nicotinate and nicotinamide metabolism - Cellulophaga baltica 18
+path:cbat00770	Pantothenate and CoA biosynthesis - Cellulophaga baltica 18
+path:cbat00780	Biotin metabolism - Cellulophaga baltica 18
+path:cbat00785	Lipoic acid metabolism - Cellulophaga baltica 18
+path:cbat00790	Folate biosynthesis - Cellulophaga baltica 18
+path:cbat00860	Porphyrin and chlorophyll metabolism - Cellulophaga baltica 18
+path:cbat00900	Terpenoid backbone biosynthesis - Cellulophaga baltica 18
+path:cbat00906	Carotenoid biosynthesis - Cellulophaga baltica 18
+path:cbat00910	Nitrogen metabolism - Cellulophaga baltica 18
+path:cbat00920	Sulfur metabolism - Cellulophaga baltica 18
+path:cbat00930	Caprolactam degradation - Cellulophaga baltica 18
+path:cbat00970	Aminoacyl-tRNA biosynthesis - Cellulophaga baltica 18
+path:cbat01040	Biosynthesis of unsaturated fatty acids - Cellulophaga baltica 18
+path:cbat01054	Nonribosomal peptide structures - Cellulophaga baltica 18
+path:cbat01100	Metabolic pathways - Cellulophaga baltica 18
+path:cbat01110	Biosynthesis of secondary metabolites - Cellulophaga baltica 18
+path:cbat01120	Microbial metabolism in diverse environments - Cellulophaga baltica 18
+path:cbat01130	Biosynthesis of antibiotics - Cellulophaga baltica 18
+path:cbat01200	Carbon metabolism - Cellulophaga baltica 18
+path:cbat01210	2-Oxocarboxylic acid metabolism - Cellulophaga baltica 18
+path:cbat01212	Fatty acid metabolism - Cellulophaga baltica 18
+path:cbat01220	Degradation of aromatic compounds - Cellulophaga baltica 18
+path:cbat01230	Biosynthesis of amino acids - Cellulophaga baltica 18
+path:cbat01501	beta-Lactam resistance - Cellulophaga baltica 18
+path:cbat01502	Vancomycin resistance - Cellulophaga baltica 18
+path:cbat01503	Cationic antimicrobial peptide (CAMP) resistance - Cellulophaga baltica 18
+path:cbat02010	ABC transporters - Cellulophaga baltica 18
+path:cbat02020	Two-component system - Cellulophaga baltica 18
+path:cbat02024	Quorum sensing - Cellulophaga baltica 18
+path:cbat02030	Bacterial chemotaxis - Cellulophaga baltica 18
+path:cbat03010	Ribosome - Cellulophaga baltica 18
+path:cbat03018	RNA degradation - Cellulophaga baltica 18
+path:cbat03020	RNA polymerase - Cellulophaga baltica 18
+path:cbat03030	DNA replication - Cellulophaga baltica 18
+path:cbat03060	Protein export - Cellulophaga baltica 18
+path:cbat03070	Bacterial secretion system - Cellulophaga baltica 18
+path:cbat03410	Base excision repair - Cellulophaga baltica 18
+path:cbat03420	Nucleotide excision repair - Cellulophaga baltica 18
+path:cbat03430	Mismatch repair - Cellulophaga baltica 18
+path:cbat03440	Homologous recombination - Cellulophaga baltica 18
+path:cbat04122	Sulfur relay system - Cellulophaga baltica 18

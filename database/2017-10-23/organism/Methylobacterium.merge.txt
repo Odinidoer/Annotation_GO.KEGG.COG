@@ -1,0 +1,1586 @@
+path:mex00010	Glycolysis / Gluconeogenesis - Methylobacterium extorquens PA1
+path:mex00020	Citrate cycle (TCA cycle) - Methylobacterium extorquens PA1
+path:mex00030	Pentose phosphate pathway - Methylobacterium extorquens PA1
+path:mex00040	Pentose and glucuronate interconversions - Methylobacterium extorquens PA1
+path:mex00051	Fructose and mannose metabolism - Methylobacterium extorquens PA1
+path:mex00052	Galactose metabolism - Methylobacterium extorquens PA1
+path:mex00053	Ascorbate and aldarate metabolism - Methylobacterium extorquens PA1
+path:mex00061	Fatty acid biosynthesis - Methylobacterium extorquens PA1
+path:mex00071	Fatty acid degradation - Methylobacterium extorquens PA1
+path:mex00072	Synthesis and degradation of ketone bodies - Methylobacterium extorquens PA1
+path:mex00121	Secondary bile acid biosynthesis - Methylobacterium extorquens PA1
+path:mex00130	Ubiquinone and other terpenoid-quinone biosynthesis - Methylobacterium extorquens PA1
+path:mex00190	Oxidative phosphorylation - Methylobacterium extorquens PA1
+path:mex00220	Arginine biosynthesis - Methylobacterium extorquens PA1
+path:mex00230	Purine metabolism - Methylobacterium extorquens PA1
+path:mex00240	Pyrimidine metabolism - Methylobacterium extorquens PA1
+path:mex00250	Alanine, aspartate and glutamate metabolism - Methylobacterium extorquens PA1
+path:mex00260	Glycine, serine and threonine metabolism - Methylobacterium extorquens PA1
+path:mex00261	Monobactam biosynthesis - Methylobacterium extorquens PA1
+path:mex00270	Cysteine and methionine metabolism - Methylobacterium extorquens PA1
+path:mex00280	Valine, leucine and isoleucine degradation - Methylobacterium extorquens PA1
+path:mex00281	Geraniol degradation - Methylobacterium extorquens PA1
+path:mex00290	Valine, leucine and isoleucine biosynthesis - Methylobacterium extorquens PA1
+path:mex00300	Lysine biosynthesis - Methylobacterium extorquens PA1
+path:mex00310	Lysine degradation - Methylobacterium extorquens PA1
+path:mex00330	Arginine and proline metabolism - Methylobacterium extorquens PA1
+path:mex00332	Carbapenem biosynthesis - Methylobacterium extorquens PA1
+path:mex00340	Histidine metabolism - Methylobacterium extorquens PA1
+path:mex00350	Tyrosine metabolism - Methylobacterium extorquens PA1
+path:mex00360	Phenylalanine metabolism - Methylobacterium extorquens PA1
+path:mex00361	Chlorocyclohexane and chlorobenzene degradation - Methylobacterium extorquens PA1
+path:mex00362	Benzoate degradation - Methylobacterium extorquens PA1
+path:mex00364	Fluorobenzoate degradation - Methylobacterium extorquens PA1
+path:mex00380	Tryptophan metabolism - Methylobacterium extorquens PA1
+path:mex00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Methylobacterium extorquens PA1
+path:mex00401	Novobiocin biosynthesis - Methylobacterium extorquens PA1
+path:mex00405	Phenazine biosynthesis - Methylobacterium extorquens PA1
+path:mex00410	beta-Alanine metabolism - Methylobacterium extorquens PA1
+path:mex00430	Taurine and hypotaurine metabolism - Methylobacterium extorquens PA1
+path:mex00440	Phosphonate and phosphinate metabolism - Methylobacterium extorquens PA1
+path:mex00450	Selenocompound metabolism - Methylobacterium extorquens PA1
+path:mex00460	Cyanoamino acid metabolism - Methylobacterium extorquens PA1
+path:mex00471	D-Glutamine and D-glutamate metabolism - Methylobacterium extorquens PA1
+path:mex00472	D-Arginine and D-ornithine metabolism - Methylobacterium extorquens PA1
+path:mex00473	D-Alanine metabolism - Methylobacterium extorquens PA1
+path:mex00480	Glutathione metabolism - Methylobacterium extorquens PA1
+path:mex00500	Starch and sucrose metabolism - Methylobacterium extorquens PA1
+path:mex00520	Amino sugar and nucleotide sugar metabolism - Methylobacterium extorquens PA1
+path:mex00521	Streptomycin biosynthesis - Methylobacterium extorquens PA1
+path:mex00523	Polyketide sugar unit biosynthesis - Methylobacterium extorquens PA1
+path:mex00525	Acarbose and validamycin biosynthesis - Methylobacterium extorquens PA1
+path:mex00540	Lipopolysaccharide biosynthesis - Methylobacterium extorquens PA1
+path:mex00550	Peptidoglycan biosynthesis - Methylobacterium extorquens PA1
+path:mex00561	Glycerolipid metabolism - Methylobacterium extorquens PA1
+path:mex00562	Inositol phosphate metabolism - Methylobacterium extorquens PA1
+path:mex00564	Glycerophospholipid metabolism - Methylobacterium extorquens PA1
+path:mex00590	Arachidonic acid metabolism - Methylobacterium extorquens PA1
+path:mex00600	Sphingolipid metabolism - Methylobacterium extorquens PA1
+path:mex00620	Pyruvate metabolism - Methylobacterium extorquens PA1
+path:mex00621	Dioxin degradation - Methylobacterium extorquens PA1
+path:mex00622	Xylene degradation - Methylobacterium extorquens PA1
+path:mex00623	Toluene degradation - Methylobacterium extorquens PA1
+path:mex00624	Polycyclic aromatic hydrocarbon degradation - Methylobacterium extorquens PA1
+path:mex00625	Chloroalkane and chloroalkene degradation - Methylobacterium extorquens PA1
+path:mex00626	Naphthalene degradation - Methylobacterium extorquens PA1
+path:mex00627	Aminobenzoate degradation - Methylobacterium extorquens PA1
+path:mex00630	Glyoxylate and dicarboxylate metabolism - Methylobacterium extorquens PA1
+path:mex00640	Propanoate metabolism - Methylobacterium extorquens PA1
+path:mex00643	Styrene degradation - Methylobacterium extorquens PA1
+path:mex00650	Butanoate metabolism - Methylobacterium extorquens PA1
+path:mex00660	C5-Branched dibasic acid metabolism - Methylobacterium extorquens PA1
+path:mex00670	One carbon pool by folate - Methylobacterium extorquens PA1
+path:mex00680	Methane metabolism - Methylobacterium extorquens PA1
+path:mex00710	Carbon fixation in photosynthetic organisms - Methylobacterium extorquens PA1
+path:mex00730	Thiamine metabolism - Methylobacterium extorquens PA1
+path:mex00740	Riboflavin metabolism - Methylobacterium extorquens PA1
+path:mex00750	Vitamin B6 metabolism - Methylobacterium extorquens PA1
+path:mex00760	Nicotinate and nicotinamide metabolism - Methylobacterium extorquens PA1
+path:mex00770	Pantothenate and CoA biosynthesis - Methylobacterium extorquens PA1
+path:mex00780	Biotin metabolism - Methylobacterium extorquens PA1
+path:mex00785	Lipoic acid metabolism - Methylobacterium extorquens PA1
+path:mex00790	Folate biosynthesis - Methylobacterium extorquens PA1
+path:mex00791	Atrazine degradation - Methylobacterium extorquens PA1
+path:mex00860	Porphyrin and chlorophyll metabolism - Methylobacterium extorquens PA1
+path:mex00900	Terpenoid backbone biosynthesis - Methylobacterium extorquens PA1
+path:mex00903	Limonene and pinene degradation - Methylobacterium extorquens PA1
+path:mex00906	Carotenoid biosynthesis - Methylobacterium extorquens PA1
+path:mex00909	Sesquiterpenoid and triterpenoid biosynthesis - Methylobacterium extorquens PA1
+path:mex00910	Nitrogen metabolism - Methylobacterium extorquens PA1
+path:mex00920	Sulfur metabolism - Methylobacterium extorquens PA1
+path:mex00930	Caprolactam degradation - Methylobacterium extorquens PA1
+path:mex00970	Aminoacyl-tRNA biosynthesis - Methylobacterium extorquens PA1
+path:mex01040	Biosynthesis of unsaturated fatty acids - Methylobacterium extorquens PA1
+path:mex01100	Metabolic pathways - Methylobacterium extorquens PA1
+path:mex01110	Biosynthesis of secondary metabolites - Methylobacterium extorquens PA1
+path:mex01120	Microbial metabolism in diverse environments - Methylobacterium extorquens PA1
+path:mex01130	Biosynthesis of antibiotics - Methylobacterium extorquens PA1
+path:mex01200	Carbon metabolism - Methylobacterium extorquens PA1
+path:mex01210	2-Oxocarboxylic acid metabolism - Methylobacterium extorquens PA1
+path:mex01212	Fatty acid metabolism - Methylobacterium extorquens PA1
+path:mex01220	Degradation of aromatic compounds - Methylobacterium extorquens PA1
+path:mex01230	Biosynthesis of amino acids - Methylobacterium extorquens PA1
+path:mex01501	beta-Lactam resistance - Methylobacterium extorquens PA1
+path:mex01502	Vancomycin resistance - Methylobacterium extorquens PA1
+path:mex01503	Cationic antimicrobial peptide (CAMP) resistance - Methylobacterium extorquens PA1
+path:mex02010	ABC transporters - Methylobacterium extorquens PA1
+path:mex02020	Two-component system - Methylobacterium extorquens PA1
+path:mex02024	Quorum sensing - Methylobacterium extorquens PA1
+path:mex02030	Bacterial chemotaxis - Methylobacterium extorquens PA1
+path:mex02040	Flagellar assembly - Methylobacterium extorquens PA1
+path:mex02060	Phosphotransferase system (PTS) - Methylobacterium extorquens PA1
+path:mex03010	Ribosome - Methylobacterium extorquens PA1
+path:mex03018	RNA degradation - Methylobacterium extorquens PA1
+path:mex03020	RNA polymerase - Methylobacterium extorquens PA1
+path:mex03030	DNA replication - Methylobacterium extorquens PA1
+path:mex03060	Protein export - Methylobacterium extorquens PA1
+path:mex03070	Bacterial secretion system - Methylobacterium extorquens PA1
+path:mex03410	Base excision repair - Methylobacterium extorquens PA1
+path:mex03420	Nucleotide excision repair - Methylobacterium extorquens PA1
+path:mex03430	Mismatch repair - Methylobacterium extorquens PA1
+path:mex03440	Homologous recombination - Methylobacterium extorquens PA1
+path:mex04122	Sulfur relay system - Methylobacterium extorquens PA1
+path:mea00010	Glycolysis / Gluconeogenesis - Methylobacterium extorquens AM1
+path:mea00020	Citrate cycle (TCA cycle) - Methylobacterium extorquens AM1
+path:mea00030	Pentose phosphate pathway - Methylobacterium extorquens AM1
+path:mea00040	Pentose and glucuronate interconversions - Methylobacterium extorquens AM1
+path:mea00051	Fructose and mannose metabolism - Methylobacterium extorquens AM1
+path:mea00052	Galactose metabolism - Methylobacterium extorquens AM1
+path:mea00053	Ascorbate and aldarate metabolism - Methylobacterium extorquens AM1
+path:mea00061	Fatty acid biosynthesis - Methylobacterium extorquens AM1
+path:mea00071	Fatty acid degradation - Methylobacterium extorquens AM1
+path:mea00072	Synthesis and degradation of ketone bodies - Methylobacterium extorquens AM1
+path:mea00121	Secondary bile acid biosynthesis - Methylobacterium extorquens AM1
+path:mea00130	Ubiquinone and other terpenoid-quinone biosynthesis - Methylobacterium extorquens AM1
+path:mea00190	Oxidative phosphorylation - Methylobacterium extorquens AM1
+path:mea00220	Arginine biosynthesis - Methylobacterium extorquens AM1
+path:mea00230	Purine metabolism - Methylobacterium extorquens AM1
+path:mea00240	Pyrimidine metabolism - Methylobacterium extorquens AM1
+path:mea00250	Alanine, aspartate and glutamate metabolism - Methylobacterium extorquens AM1
+path:mea00260	Glycine, serine and threonine metabolism - Methylobacterium extorquens AM1
+path:mea00261	Monobactam biosynthesis - Methylobacterium extorquens AM1
+path:mea00270	Cysteine and methionine metabolism - Methylobacterium extorquens AM1
+path:mea00280	Valine, leucine and isoleucine degradation - Methylobacterium extorquens AM1
+path:mea00281	Geraniol degradation - Methylobacterium extorquens AM1
+path:mea00290	Valine, leucine and isoleucine biosynthesis - Methylobacterium extorquens AM1
+path:mea00300	Lysine biosynthesis - Methylobacterium extorquens AM1
+path:mea00310	Lysine degradation - Methylobacterium extorquens AM1
+path:mea00330	Arginine and proline metabolism - Methylobacterium extorquens AM1
+path:mea00332	Carbapenem biosynthesis - Methylobacterium extorquens AM1
+path:mea00340	Histidine metabolism - Methylobacterium extorquens AM1
+path:mea00350	Tyrosine metabolism - Methylobacterium extorquens AM1
+path:mea00360	Phenylalanine metabolism - Methylobacterium extorquens AM1
+path:mea00361	Chlorocyclohexane and chlorobenzene degradation - Methylobacterium extorquens AM1
+path:mea00362	Benzoate degradation - Methylobacterium extorquens AM1
+path:mea00364	Fluorobenzoate degradation - Methylobacterium extorquens AM1
+path:mea00380	Tryptophan metabolism - Methylobacterium extorquens AM1
+path:mea00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Methylobacterium extorquens AM1
+path:mea00401	Novobiocin biosynthesis - Methylobacterium extorquens AM1
+path:mea00405	Phenazine biosynthesis - Methylobacterium extorquens AM1
+path:mea00410	beta-Alanine metabolism - Methylobacterium extorquens AM1
+path:mea00430	Taurine and hypotaurine metabolism - Methylobacterium extorquens AM1
+path:mea00440	Phosphonate and phosphinate metabolism - Methylobacterium extorquens AM1
+path:mea00450	Selenocompound metabolism - Methylobacterium extorquens AM1
+path:mea00460	Cyanoamino acid metabolism - Methylobacterium extorquens AM1
+path:mea00471	D-Glutamine and D-glutamate metabolism - Methylobacterium extorquens AM1
+path:mea00472	D-Arginine and D-ornithine metabolism - Methylobacterium extorquens AM1
+path:mea00473	D-Alanine metabolism - Methylobacterium extorquens AM1
+path:mea00480	Glutathione metabolism - Methylobacterium extorquens AM1
+path:mea00500	Starch and sucrose metabolism - Methylobacterium extorquens AM1
+path:mea00520	Amino sugar and nucleotide sugar metabolism - Methylobacterium extorquens AM1
+path:mea00521	Streptomycin biosynthesis - Methylobacterium extorquens AM1
+path:mea00523	Polyketide sugar unit biosynthesis - Methylobacterium extorquens AM1
+path:mea00525	Acarbose and validamycin biosynthesis - Methylobacterium extorquens AM1
+path:mea00540	Lipopolysaccharide biosynthesis - Methylobacterium extorquens AM1
+path:mea00550	Peptidoglycan biosynthesis - Methylobacterium extorquens AM1
+path:mea00561	Glycerolipid metabolism - Methylobacterium extorquens AM1
+path:mea00562	Inositol phosphate metabolism - Methylobacterium extorquens AM1
+path:mea00564	Glycerophospholipid metabolism - Methylobacterium extorquens AM1
+path:mea00590	Arachidonic acid metabolism - Methylobacterium extorquens AM1
+path:mea00620	Pyruvate metabolism - Methylobacterium extorquens AM1
+path:mea00622	Xylene degradation - Methylobacterium extorquens AM1
+path:mea00623	Toluene degradation - Methylobacterium extorquens AM1
+path:mea00624	Polycyclic aromatic hydrocarbon degradation - Methylobacterium extorquens AM1
+path:mea00625	Chloroalkane and chloroalkene degradation - Methylobacterium extorquens AM1
+path:mea00626	Naphthalene degradation - Methylobacterium extorquens AM1
+path:mea00627	Aminobenzoate degradation - Methylobacterium extorquens AM1
+path:mea00630	Glyoxylate and dicarboxylate metabolism - Methylobacterium extorquens AM1
+path:mea00640	Propanoate metabolism - Methylobacterium extorquens AM1
+path:mea00643	Styrene degradation - Methylobacterium extorquens AM1
+path:mea00650	Butanoate metabolism - Methylobacterium extorquens AM1
+path:mea00660	C5-Branched dibasic acid metabolism - Methylobacterium extorquens AM1
+path:mea00670	One carbon pool by folate - Methylobacterium extorquens AM1
+path:mea00680	Methane metabolism - Methylobacterium extorquens AM1
+path:mea00710	Carbon fixation in photosynthetic organisms - Methylobacterium extorquens AM1
+path:mea00730	Thiamine metabolism - Methylobacterium extorquens AM1
+path:mea00740	Riboflavin metabolism - Methylobacterium extorquens AM1
+path:mea00750	Vitamin B6 metabolism - Methylobacterium extorquens AM1
+path:mea00760	Nicotinate and nicotinamide metabolism - Methylobacterium extorquens AM1
+path:mea00770	Pantothenate and CoA biosynthesis - Methylobacterium extorquens AM1
+path:mea00780	Biotin metabolism - Methylobacterium extorquens AM1
+path:mea00785	Lipoic acid metabolism - Methylobacterium extorquens AM1
+path:mea00790	Folate biosynthesis - Methylobacterium extorquens AM1
+path:mea00791	Atrazine degradation - Methylobacterium extorquens AM1
+path:mea00860	Porphyrin and chlorophyll metabolism - Methylobacterium extorquens AM1
+path:mea00900	Terpenoid backbone biosynthesis - Methylobacterium extorquens AM1
+path:mea00903	Limonene and pinene degradation - Methylobacterium extorquens AM1
+path:mea00906	Carotenoid biosynthesis - Methylobacterium extorquens AM1
+path:mea00909	Sesquiterpenoid and triterpenoid biosynthesis - Methylobacterium extorquens AM1
+path:mea00910	Nitrogen metabolism - Methylobacterium extorquens AM1
+path:mea00920	Sulfur metabolism - Methylobacterium extorquens AM1
+path:mea00930	Caprolactam degradation - Methylobacterium extorquens AM1
+path:mea00970	Aminoacyl-tRNA biosynthesis - Methylobacterium extorquens AM1
+path:mea01040	Biosynthesis of unsaturated fatty acids - Methylobacterium extorquens AM1
+path:mea01100	Metabolic pathways - Methylobacterium extorquens AM1
+path:mea01110	Biosynthesis of secondary metabolites - Methylobacterium extorquens AM1
+path:mea01120	Microbial metabolism in diverse environments - Methylobacterium extorquens AM1
+path:mea01130	Biosynthesis of antibiotics - Methylobacterium extorquens AM1
+path:mea01200	Carbon metabolism - Methylobacterium extorquens AM1
+path:mea01210	2-Oxocarboxylic acid metabolism - Methylobacterium extorquens AM1
+path:mea01212	Fatty acid metabolism - Methylobacterium extorquens AM1
+path:mea01220	Degradation of aromatic compounds - Methylobacterium extorquens AM1
+path:mea01230	Biosynthesis of amino acids - Methylobacterium extorquens AM1
+path:mea01501	beta-Lactam resistance - Methylobacterium extorquens AM1
+path:mea01502	Vancomycin resistance - Methylobacterium extorquens AM1
+path:mea01503	Cationic antimicrobial peptide (CAMP) resistance - Methylobacterium extorquens AM1
+path:mea02010	ABC transporters - Methylobacterium extorquens AM1
+path:mea02020	Two-component system - Methylobacterium extorquens AM1
+path:mea02024	Quorum sensing - Methylobacterium extorquens AM1
+path:mea02030	Bacterial chemotaxis - Methylobacterium extorquens AM1
+path:mea02040	Flagellar assembly - Methylobacterium extorquens AM1
+path:mea02060	Phosphotransferase system (PTS) - Methylobacterium extorquens AM1
+path:mea03010	Ribosome - Methylobacterium extorquens AM1
+path:mea03018	RNA degradation - Methylobacterium extorquens AM1
+path:mea03020	RNA polymerase - Methylobacterium extorquens AM1
+path:mea03030	DNA replication - Methylobacterium extorquens AM1
+path:mea03060	Protein export - Methylobacterium extorquens AM1
+path:mea03070	Bacterial secretion system - Methylobacterium extorquens AM1
+path:mea03410	Base excision repair - Methylobacterium extorquens AM1
+path:mea03420	Nucleotide excision repair - Methylobacterium extorquens AM1
+path:mea03430	Mismatch repair - Methylobacterium extorquens AM1
+path:mea03440	Homologous recombination - Methylobacterium extorquens AM1
+path:mea04122	Sulfur relay system - Methylobacterium extorquens AM1
+path:mdi00010	Glycolysis / Gluconeogenesis - Methylobacterium extorquens DM4
+path:mdi00020	Citrate cycle (TCA cycle) - Methylobacterium extorquens DM4
+path:mdi00030	Pentose phosphate pathway - Methylobacterium extorquens DM4
+path:mdi00040	Pentose and glucuronate interconversions - Methylobacterium extorquens DM4
+path:mdi00051	Fructose and mannose metabolism - Methylobacterium extorquens DM4
+path:mdi00052	Galactose metabolism - Methylobacterium extorquens DM4
+path:mdi00053	Ascorbate and aldarate metabolism - Methylobacterium extorquens DM4
+path:mdi00061	Fatty acid biosynthesis - Methylobacterium extorquens DM4
+path:mdi00071	Fatty acid degradation - Methylobacterium extorquens DM4
+path:mdi00072	Synthesis and degradation of ketone bodies - Methylobacterium extorquens DM4
+path:mdi00121	Secondary bile acid biosynthesis - Methylobacterium extorquens DM4
+path:mdi00130	Ubiquinone and other terpenoid-quinone biosynthesis - Methylobacterium extorquens DM4
+path:mdi00190	Oxidative phosphorylation - Methylobacterium extorquens DM4
+path:mdi00220	Arginine biosynthesis - Methylobacterium extorquens DM4
+path:mdi00230	Purine metabolism - Methylobacterium extorquens DM4
+path:mdi00240	Pyrimidine metabolism - Methylobacterium extorquens DM4
+path:mdi00250	Alanine, aspartate and glutamate metabolism - Methylobacterium extorquens DM4
+path:mdi00260	Glycine, serine and threonine metabolism - Methylobacterium extorquens DM4
+path:mdi00261	Monobactam biosynthesis - Methylobacterium extorquens DM4
+path:mdi00270	Cysteine and methionine metabolism - Methylobacterium extorquens DM4
+path:mdi00280	Valine, leucine and isoleucine degradation - Methylobacterium extorquens DM4
+path:mdi00281	Geraniol degradation - Methylobacterium extorquens DM4
+path:mdi00290	Valine, leucine and isoleucine biosynthesis - Methylobacterium extorquens DM4
+path:mdi00300	Lysine biosynthesis - Methylobacterium extorquens DM4
+path:mdi00310	Lysine degradation - Methylobacterium extorquens DM4
+path:mdi00330	Arginine and proline metabolism - Methylobacterium extorquens DM4
+path:mdi00332	Carbapenem biosynthesis - Methylobacterium extorquens DM4
+path:mdi00340	Histidine metabolism - Methylobacterium extorquens DM4
+path:mdi00350	Tyrosine metabolism - Methylobacterium extorquens DM4
+path:mdi00360	Phenylalanine metabolism - Methylobacterium extorquens DM4
+path:mdi00361	Chlorocyclohexane and chlorobenzene degradation - Methylobacterium extorquens DM4
+path:mdi00362	Benzoate degradation - Methylobacterium extorquens DM4
+path:mdi00364	Fluorobenzoate degradation - Methylobacterium extorquens DM4
+path:mdi00380	Tryptophan metabolism - Methylobacterium extorquens DM4
+path:mdi00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Methylobacterium extorquens DM4
+path:mdi00401	Novobiocin biosynthesis - Methylobacterium extorquens DM4
+path:mdi00405	Phenazine biosynthesis - Methylobacterium extorquens DM4
+path:mdi00410	beta-Alanine metabolism - Methylobacterium extorquens DM4
+path:mdi00430	Taurine and hypotaurine metabolism - Methylobacterium extorquens DM4
+path:mdi00440	Phosphonate and phosphinate metabolism - Methylobacterium extorquens DM4
+path:mdi00450	Selenocompound metabolism - Methylobacterium extorquens DM4
+path:mdi00460	Cyanoamino acid metabolism - Methylobacterium extorquens DM4
+path:mdi00471	D-Glutamine and D-glutamate metabolism - Methylobacterium extorquens DM4
+path:mdi00472	D-Arginine and D-ornithine metabolism - Methylobacterium extorquens DM4
+path:mdi00473	D-Alanine metabolism - Methylobacterium extorquens DM4
+path:mdi00480	Glutathione metabolism - Methylobacterium extorquens DM4
+path:mdi00500	Starch and sucrose metabolism - Methylobacterium extorquens DM4
+path:mdi00520	Amino sugar and nucleotide sugar metabolism - Methylobacterium extorquens DM4
+path:mdi00521	Streptomycin biosynthesis - Methylobacterium extorquens DM4
+path:mdi00523	Polyketide sugar unit biosynthesis - Methylobacterium extorquens DM4
+path:mdi00525	Acarbose and validamycin biosynthesis - Methylobacterium extorquens DM4
+path:mdi00540	Lipopolysaccharide biosynthesis - Methylobacterium extorquens DM4
+path:mdi00550	Peptidoglycan biosynthesis - Methylobacterium extorquens DM4
+path:mdi00561	Glycerolipid metabolism - Methylobacterium extorquens DM4
+path:mdi00562	Inositol phosphate metabolism - Methylobacterium extorquens DM4
+path:mdi00564	Glycerophospholipid metabolism - Methylobacterium extorquens DM4
+path:mdi00590	Arachidonic acid metabolism - Methylobacterium extorquens DM4
+path:mdi00620	Pyruvate metabolism - Methylobacterium extorquens DM4
+path:mdi00621	Dioxin degradation - Methylobacterium extorquens DM4
+path:mdi00622	Xylene degradation - Methylobacterium extorquens DM4
+path:mdi00623	Toluene degradation - Methylobacterium extorquens DM4
+path:mdi00624	Polycyclic aromatic hydrocarbon degradation - Methylobacterium extorquens DM4
+path:mdi00625	Chloroalkane and chloroalkene degradation - Methylobacterium extorquens DM4
+path:mdi00626	Naphthalene degradation - Methylobacterium extorquens DM4
+path:mdi00627	Aminobenzoate degradation - Methylobacterium extorquens DM4
+path:mdi00630	Glyoxylate and dicarboxylate metabolism - Methylobacterium extorquens DM4
+path:mdi00640	Propanoate metabolism - Methylobacterium extorquens DM4
+path:mdi00643	Styrene degradation - Methylobacterium extorquens DM4
+path:mdi00650	Butanoate metabolism - Methylobacterium extorquens DM4
+path:mdi00660	C5-Branched dibasic acid metabolism - Methylobacterium extorquens DM4
+path:mdi00670	One carbon pool by folate - Methylobacterium extorquens DM4
+path:mdi00680	Methane metabolism - Methylobacterium extorquens DM4
+path:mdi00710	Carbon fixation in photosynthetic organisms - Methylobacterium extorquens DM4
+path:mdi00730	Thiamine metabolism - Methylobacterium extorquens DM4
+path:mdi00740	Riboflavin metabolism - Methylobacterium extorquens DM4
+path:mdi00750	Vitamin B6 metabolism - Methylobacterium extorquens DM4
+path:mdi00760	Nicotinate and nicotinamide metabolism - Methylobacterium extorquens DM4
+path:mdi00770	Pantothenate and CoA biosynthesis - Methylobacterium extorquens DM4
+path:mdi00780	Biotin metabolism - Methylobacterium extorquens DM4
+path:mdi00785	Lipoic acid metabolism - Methylobacterium extorquens DM4
+path:mdi00790	Folate biosynthesis - Methylobacterium extorquens DM4
+path:mdi00791	Atrazine degradation - Methylobacterium extorquens DM4
+path:mdi00860	Porphyrin and chlorophyll metabolism - Methylobacterium extorquens DM4
+path:mdi00900	Terpenoid backbone biosynthesis - Methylobacterium extorquens DM4
+path:mdi00903	Limonene and pinene degradation - Methylobacterium extorquens DM4
+path:mdi00906	Carotenoid biosynthesis - Methylobacterium extorquens DM4
+path:mdi00909	Sesquiterpenoid and triterpenoid biosynthesis - Methylobacterium extorquens DM4
+path:mdi00910	Nitrogen metabolism - Methylobacterium extorquens DM4
+path:mdi00920	Sulfur metabolism - Methylobacterium extorquens DM4
+path:mdi00930	Caprolactam degradation - Methylobacterium extorquens DM4
+path:mdi00970	Aminoacyl-tRNA biosynthesis - Methylobacterium extorquens DM4
+path:mdi01040	Biosynthesis of unsaturated fatty acids - Methylobacterium extorquens DM4
+path:mdi01100	Metabolic pathways - Methylobacterium extorquens DM4
+path:mdi01110	Biosynthesis of secondary metabolites - Methylobacterium extorquens DM4
+path:mdi01120	Microbial metabolism in diverse environments - Methylobacterium extorquens DM4
+path:mdi01130	Biosynthesis of antibiotics - Methylobacterium extorquens DM4
+path:mdi01200	Carbon metabolism - Methylobacterium extorquens DM4
+path:mdi01210	2-Oxocarboxylic acid metabolism - Methylobacterium extorquens DM4
+path:mdi01212	Fatty acid metabolism - Methylobacterium extorquens DM4
+path:mdi01220	Degradation of aromatic compounds - Methylobacterium extorquens DM4
+path:mdi01230	Biosynthesis of amino acids - Methylobacterium extorquens DM4
+path:mdi01501	beta-Lactam resistance - Methylobacterium extorquens DM4
+path:mdi01502	Vancomycin resistance - Methylobacterium extorquens DM4
+path:mdi01503	Cationic antimicrobial peptide (CAMP) resistance - Methylobacterium extorquens DM4
+path:mdi02010	ABC transporters - Methylobacterium extorquens DM4
+path:mdi02020	Two-component system - Methylobacterium extorquens DM4
+path:mdi02024	Quorum sensing - Methylobacterium extorquens DM4
+path:mdi02030	Bacterial chemotaxis - Methylobacterium extorquens DM4
+path:mdi02040	Flagellar assembly - Methylobacterium extorquens DM4
+path:mdi02060	Phosphotransferase system (PTS) - Methylobacterium extorquens DM4
+path:mdi03010	Ribosome - Methylobacterium extorquens DM4
+path:mdi03018	RNA degradation - Methylobacterium extorquens DM4
+path:mdi03020	RNA polymerase - Methylobacterium extorquens DM4
+path:mdi03030	DNA replication - Methylobacterium extorquens DM4
+path:mdi03060	Protein export - Methylobacterium extorquens DM4
+path:mdi03070	Bacterial secretion system - Methylobacterium extorquens DM4
+path:mdi03410	Base excision repair - Methylobacterium extorquens DM4
+path:mdi03420	Nucleotide excision repair - Methylobacterium extorquens DM4
+path:mdi03430	Mismatch repair - Methylobacterium extorquens DM4
+path:mdi03440	Homologous recombination - Methylobacterium extorquens DM4
+path:mdi04122	Sulfur relay system - Methylobacterium extorquens DM4
+path:mch00010	Glycolysis / Gluconeogenesis - Methylobacterium extorquens CM4
+path:mch00020	Citrate cycle (TCA cycle) - Methylobacterium extorquens CM4
+path:mch00030	Pentose phosphate pathway - Methylobacterium extorquens CM4
+path:mch00040	Pentose and glucuronate interconversions - Methylobacterium extorquens CM4
+path:mch00051	Fructose and mannose metabolism - Methylobacterium extorquens CM4
+path:mch00052	Galactose metabolism - Methylobacterium extorquens CM4
+path:mch00053	Ascorbate and aldarate metabolism - Methylobacterium extorquens CM4
+path:mch00061	Fatty acid biosynthesis - Methylobacterium extorquens CM4
+path:mch00071	Fatty acid degradation - Methylobacterium extorquens CM4
+path:mch00072	Synthesis and degradation of ketone bodies - Methylobacterium extorquens CM4
+path:mch00121	Secondary bile acid biosynthesis - Methylobacterium extorquens CM4
+path:mch00130	Ubiquinone and other terpenoid-quinone biosynthesis - Methylobacterium extorquens CM4
+path:mch00190	Oxidative phosphorylation - Methylobacterium extorquens CM4
+path:mch00220	Arginine biosynthesis - Methylobacterium extorquens CM4
+path:mch00230	Purine metabolism - Methylobacterium extorquens CM4
+path:mch00240	Pyrimidine metabolism - Methylobacterium extorquens CM4
+path:mch00250	Alanine, aspartate and glutamate metabolism - Methylobacterium extorquens CM4
+path:mch00260	Glycine, serine and threonine metabolism - Methylobacterium extorquens CM4
+path:mch00261	Monobactam biosynthesis - Methylobacterium extorquens CM4
+path:mch00270	Cysteine and methionine metabolism - Methylobacterium extorquens CM4
+path:mch00280	Valine, leucine and isoleucine degradation - Methylobacterium extorquens CM4
+path:mch00281	Geraniol degradation - Methylobacterium extorquens CM4
+path:mch00290	Valine, leucine and isoleucine biosynthesis - Methylobacterium extorquens CM4
+path:mch00300	Lysine biosynthesis - Methylobacterium extorquens CM4
+path:mch00310	Lysine degradation - Methylobacterium extorquens CM4
+path:mch00330	Arginine and proline metabolism - Methylobacterium extorquens CM4
+path:mch00332	Carbapenem biosynthesis - Methylobacterium extorquens CM4
+path:mch00340	Histidine metabolism - Methylobacterium extorquens CM4
+path:mch00350	Tyrosine metabolism - Methylobacterium extorquens CM4
+path:mch00360	Phenylalanine metabolism - Methylobacterium extorquens CM4
+path:mch00361	Chlorocyclohexane and chlorobenzene degradation - Methylobacterium extorquens CM4
+path:mch00362	Benzoate degradation - Methylobacterium extorquens CM4
+path:mch00364	Fluorobenzoate degradation - Methylobacterium extorquens CM4
+path:mch00380	Tryptophan metabolism - Methylobacterium extorquens CM4
+path:mch00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Methylobacterium extorquens CM4
+path:mch00401	Novobiocin biosynthesis - Methylobacterium extorquens CM4
+path:mch00405	Phenazine biosynthesis - Methylobacterium extorquens CM4
+path:mch00410	beta-Alanine metabolism - Methylobacterium extorquens CM4
+path:mch00430	Taurine and hypotaurine metabolism - Methylobacterium extorquens CM4
+path:mch00440	Phosphonate and phosphinate metabolism - Methylobacterium extorquens CM4
+path:mch00450	Selenocompound metabolism - Methylobacterium extorquens CM4
+path:mch00460	Cyanoamino acid metabolism - Methylobacterium extorquens CM4
+path:mch00471	D-Glutamine and D-glutamate metabolism - Methylobacterium extorquens CM4
+path:mch00472	D-Arginine and D-ornithine metabolism - Methylobacterium extorquens CM4
+path:mch00473	D-Alanine metabolism - Methylobacterium extorquens CM4
+path:mch00480	Glutathione metabolism - Methylobacterium extorquens CM4
+path:mch00500	Starch and sucrose metabolism - Methylobacterium extorquens CM4
+path:mch00520	Amino sugar and nucleotide sugar metabolism - Methylobacterium extorquens CM4
+path:mch00521	Streptomycin biosynthesis - Methylobacterium extorquens CM4
+path:mch00523	Polyketide sugar unit biosynthesis - Methylobacterium extorquens CM4
+path:mch00525	Acarbose and validamycin biosynthesis - Methylobacterium extorquens CM4
+path:mch00540	Lipopolysaccharide biosynthesis - Methylobacterium extorquens CM4
+path:mch00550	Peptidoglycan biosynthesis - Methylobacterium extorquens CM4
+path:mch00561	Glycerolipid metabolism - Methylobacterium extorquens CM4
+path:mch00562	Inositol phosphate metabolism - Methylobacterium extorquens CM4
+path:mch00564	Glycerophospholipid metabolism - Methylobacterium extorquens CM4
+path:mch00590	Arachidonic acid metabolism - Methylobacterium extorquens CM4
+path:mch00620	Pyruvate metabolism - Methylobacterium extorquens CM4
+path:mch00621	Dioxin degradation - Methylobacterium extorquens CM4
+path:mch00622	Xylene degradation - Methylobacterium extorquens CM4
+path:mch00623	Toluene degradation - Methylobacterium extorquens CM4
+path:mch00624	Polycyclic aromatic hydrocarbon degradation - Methylobacterium extorquens CM4
+path:mch00625	Chloroalkane and chloroalkene degradation - Methylobacterium extorquens CM4
+path:mch00626	Naphthalene degradation - Methylobacterium extorquens CM4
+path:mch00627	Aminobenzoate degradation - Methylobacterium extorquens CM4
+path:mch00630	Glyoxylate and dicarboxylate metabolism - Methylobacterium extorquens CM4
+path:mch00640	Propanoate metabolism - Methylobacterium extorquens CM4
+path:mch00643	Styrene degradation - Methylobacterium extorquens CM4
+path:mch00650	Butanoate metabolism - Methylobacterium extorquens CM4
+path:mch00660	C5-Branched dibasic acid metabolism - Methylobacterium extorquens CM4
+path:mch00670	One carbon pool by folate - Methylobacterium extorquens CM4
+path:mch00680	Methane metabolism - Methylobacterium extorquens CM4
+path:mch00710	Carbon fixation in photosynthetic organisms - Methylobacterium extorquens CM4
+path:mch00730	Thiamine metabolism - Methylobacterium extorquens CM4
+path:mch00740	Riboflavin metabolism - Methylobacterium extorquens CM4
+path:mch00750	Vitamin B6 metabolism - Methylobacterium extorquens CM4
+path:mch00760	Nicotinate and nicotinamide metabolism - Methylobacterium extorquens CM4
+path:mch00770	Pantothenate and CoA biosynthesis - Methylobacterium extorquens CM4
+path:mch00780	Biotin metabolism - Methylobacterium extorquens CM4
+path:mch00785	Lipoic acid metabolism - Methylobacterium extorquens CM4
+path:mch00790	Folate biosynthesis - Methylobacterium extorquens CM4
+path:mch00791	Atrazine degradation - Methylobacterium extorquens CM4
+path:mch00860	Porphyrin and chlorophyll metabolism - Methylobacterium extorquens CM4
+path:mch00900	Terpenoid backbone biosynthesis - Methylobacterium extorquens CM4
+path:mch00903	Limonene and pinene degradation - Methylobacterium extorquens CM4
+path:mch00906	Carotenoid biosynthesis - Methylobacterium extorquens CM4
+path:mch00909	Sesquiterpenoid and triterpenoid biosynthesis - Methylobacterium extorquens CM4
+path:mch00910	Nitrogen metabolism - Methylobacterium extorquens CM4
+path:mch00920	Sulfur metabolism - Methylobacterium extorquens CM4
+path:mch00930	Caprolactam degradation - Methylobacterium extorquens CM4
+path:mch00970	Aminoacyl-tRNA biosynthesis - Methylobacterium extorquens CM4
+path:mch01040	Biosynthesis of unsaturated fatty acids - Methylobacterium extorquens CM4
+path:mch01100	Metabolic pathways - Methylobacterium extorquens CM4
+path:mch01110	Biosynthesis of secondary metabolites - Methylobacterium extorquens CM4
+path:mch01120	Microbial metabolism in diverse environments - Methylobacterium extorquens CM4
+path:mch01130	Biosynthesis of antibiotics - Methylobacterium extorquens CM4
+path:mch01200	Carbon metabolism - Methylobacterium extorquens CM4
+path:mch01210	2-Oxocarboxylic acid metabolism - Methylobacterium extorquens CM4
+path:mch01212	Fatty acid metabolism - Methylobacterium extorquens CM4
+path:mch01220	Degradation of aromatic compounds - Methylobacterium extorquens CM4
+path:mch01230	Biosynthesis of amino acids - Methylobacterium extorquens CM4
+path:mch01501	beta-Lactam resistance - Methylobacterium extorquens CM4
+path:mch01502	Vancomycin resistance - Methylobacterium extorquens CM4
+path:mch01503	Cationic antimicrobial peptide (CAMP) resistance - Methylobacterium extorquens CM4
+path:mch02010	ABC transporters - Methylobacterium extorquens CM4
+path:mch02020	Two-component system - Methylobacterium extorquens CM4
+path:mch02024	Quorum sensing - Methylobacterium extorquens CM4
+path:mch02030	Bacterial chemotaxis - Methylobacterium extorquens CM4
+path:mch02040	Flagellar assembly - Methylobacterium extorquens CM4
+path:mch02060	Phosphotransferase system (PTS) - Methylobacterium extorquens CM4
+path:mch03010	Ribosome - Methylobacterium extorquens CM4
+path:mch03018	RNA degradation - Methylobacterium extorquens CM4
+path:mch03020	RNA polymerase - Methylobacterium extorquens CM4
+path:mch03030	DNA replication - Methylobacterium extorquens CM4
+path:mch03060	Protein export - Methylobacterium extorquens CM4
+path:mch03070	Bacterial secretion system - Methylobacterium extorquens CM4
+path:mch03410	Base excision repair - Methylobacterium extorquens CM4
+path:mch03420	Nucleotide excision repair - Methylobacterium extorquens CM4
+path:mch03430	Mismatch repair - Methylobacterium extorquens CM4
+path:mch03440	Homologous recombination - Methylobacterium extorquens CM4
+path:mch04122	Sulfur relay system - Methylobacterium extorquens CM4
+path:mrd00010	Glycolysis / Gluconeogenesis - Methylobacterium radiotolerans
+path:mrd00020	Citrate cycle (TCA cycle) - Methylobacterium radiotolerans
+path:mrd00030	Pentose phosphate pathway - Methylobacterium radiotolerans
+path:mrd00040	Pentose and glucuronate interconversions - Methylobacterium radiotolerans
+path:mrd00051	Fructose and mannose metabolism - Methylobacterium radiotolerans
+path:mrd00052	Galactose metabolism - Methylobacterium radiotolerans
+path:mrd00053	Ascorbate and aldarate metabolism - Methylobacterium radiotolerans
+path:mrd00061	Fatty acid biosynthesis - Methylobacterium radiotolerans
+path:mrd00071	Fatty acid degradation - Methylobacterium radiotolerans
+path:mrd00072	Synthesis and degradation of ketone bodies - Methylobacterium radiotolerans
+path:mrd00130	Ubiquinone and other terpenoid-quinone biosynthesis - Methylobacterium radiotolerans
+path:mrd00190	Oxidative phosphorylation - Methylobacterium radiotolerans
+path:mrd00220	Arginine biosynthesis - Methylobacterium radiotolerans
+path:mrd00230	Purine metabolism - Methylobacterium radiotolerans
+path:mrd00240	Pyrimidine metabolism - Methylobacterium radiotolerans
+path:mrd00250	Alanine, aspartate and glutamate metabolism - Methylobacterium radiotolerans
+path:mrd00260	Glycine, serine and threonine metabolism - Methylobacterium radiotolerans
+path:mrd00261	Monobactam biosynthesis - Methylobacterium radiotolerans
+path:mrd00270	Cysteine and methionine metabolism - Methylobacterium radiotolerans
+path:mrd00280	Valine, leucine and isoleucine degradation - Methylobacterium radiotolerans
+path:mrd00281	Geraniol degradation - Methylobacterium radiotolerans
+path:mrd00290	Valine, leucine and isoleucine biosynthesis - Methylobacterium radiotolerans
+path:mrd00300	Lysine biosynthesis - Methylobacterium radiotolerans
+path:mrd00310	Lysine degradation - Methylobacterium radiotolerans
+path:mrd00311	Penicillin and cephalosporin biosynthesis - Methylobacterium radiotolerans
+path:mrd00330	Arginine and proline metabolism - Methylobacterium radiotolerans
+path:mrd00332	Carbapenem biosynthesis - Methylobacterium radiotolerans
+path:mrd00340	Histidine metabolism - Methylobacterium radiotolerans
+path:mrd00350	Tyrosine metabolism - Methylobacterium radiotolerans
+path:mrd00360	Phenylalanine metabolism - Methylobacterium radiotolerans
+path:mrd00361	Chlorocyclohexane and chlorobenzene degradation - Methylobacterium radiotolerans
+path:mrd00362	Benzoate degradation - Methylobacterium radiotolerans
+path:mrd00364	Fluorobenzoate degradation - Methylobacterium radiotolerans
+path:mrd00365	Furfural degradation - Methylobacterium radiotolerans
+path:mrd00380	Tryptophan metabolism - Methylobacterium radiotolerans
+path:mrd00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Methylobacterium radiotolerans
+path:mrd00401	Novobiocin biosynthesis - Methylobacterium radiotolerans
+path:mrd00405	Phenazine biosynthesis - Methylobacterium radiotolerans
+path:mrd00410	beta-Alanine metabolism - Methylobacterium radiotolerans
+path:mrd00430	Taurine and hypotaurine metabolism - Methylobacterium radiotolerans
+path:mrd00440	Phosphonate and phosphinate metabolism - Methylobacterium radiotolerans
+path:mrd00450	Selenocompound metabolism - Methylobacterium radiotolerans
+path:mrd00460	Cyanoamino acid metabolism - Methylobacterium radiotolerans
+path:mrd00471	D-Glutamine and D-glutamate metabolism - Methylobacterium radiotolerans
+path:mrd00472	D-Arginine and D-ornithine metabolism - Methylobacterium radiotolerans
+path:mrd00473	D-Alanine metabolism - Methylobacterium radiotolerans
+path:mrd00480	Glutathione metabolism - Methylobacterium radiotolerans
+path:mrd00500	Starch and sucrose metabolism - Methylobacterium radiotolerans
+path:mrd00520	Amino sugar and nucleotide sugar metabolism - Methylobacterium radiotolerans
+path:mrd00521	Streptomycin biosynthesis - Methylobacterium radiotolerans
+path:mrd00523	Polyketide sugar unit biosynthesis - Methylobacterium radiotolerans
+path:mrd00525	Acarbose and validamycin biosynthesis - Methylobacterium radiotolerans
+path:mrd00540	Lipopolysaccharide biosynthesis - Methylobacterium radiotolerans
+path:mrd00550	Peptidoglycan biosynthesis - Methylobacterium radiotolerans
+path:mrd00561	Glycerolipid metabolism - Methylobacterium radiotolerans
+path:mrd00562	Inositol phosphate metabolism - Methylobacterium radiotolerans
+path:mrd00564	Glycerophospholipid metabolism - Methylobacterium radiotolerans
+path:mrd00590	Arachidonic acid metabolism - Methylobacterium radiotolerans
+path:mrd00620	Pyruvate metabolism - Methylobacterium radiotolerans
+path:mrd00621	Dioxin degradation - Methylobacterium radiotolerans
+path:mrd00622	Xylene degradation - Methylobacterium radiotolerans
+path:mrd00623	Toluene degradation - Methylobacterium radiotolerans
+path:mrd00624	Polycyclic aromatic hydrocarbon degradation - Methylobacterium radiotolerans
+path:mrd00625	Chloroalkane and chloroalkene degradation - Methylobacterium radiotolerans
+path:mrd00626	Naphthalene degradation - Methylobacterium radiotolerans
+path:mrd00627	Aminobenzoate degradation - Methylobacterium radiotolerans
+path:mrd00630	Glyoxylate and dicarboxylate metabolism - Methylobacterium radiotolerans
+path:mrd00633	Nitrotoluene degradation - Methylobacterium radiotolerans
+path:mrd00640	Propanoate metabolism - Methylobacterium radiotolerans
+path:mrd00643	Styrene degradation - Methylobacterium radiotolerans
+path:mrd00650	Butanoate metabolism - Methylobacterium radiotolerans
+path:mrd00660	C5-Branched dibasic acid metabolism - Methylobacterium radiotolerans
+path:mrd00670	One carbon pool by folate - Methylobacterium radiotolerans
+path:mrd00680	Methane metabolism - Methylobacterium radiotolerans
+path:mrd00710	Carbon fixation in photosynthetic organisms - Methylobacterium radiotolerans
+path:mrd00730	Thiamine metabolism - Methylobacterium radiotolerans
+path:mrd00740	Riboflavin metabolism - Methylobacterium radiotolerans
+path:mrd00750	Vitamin B6 metabolism - Methylobacterium radiotolerans
+path:mrd00760	Nicotinate and nicotinamide metabolism - Methylobacterium radiotolerans
+path:mrd00770	Pantothenate and CoA biosynthesis - Methylobacterium radiotolerans
+path:mrd00780	Biotin metabolism - Methylobacterium radiotolerans
+path:mrd00785	Lipoic acid metabolism - Methylobacterium radiotolerans
+path:mrd00790	Folate biosynthesis - Methylobacterium radiotolerans
+path:mrd00791	Atrazine degradation - Methylobacterium radiotolerans
+path:mrd00860	Porphyrin and chlorophyll metabolism - Methylobacterium radiotolerans
+path:mrd00900	Terpenoid backbone biosynthesis - Methylobacterium radiotolerans
+path:mrd00903	Limonene and pinene degradation - Methylobacterium radiotolerans
+path:mrd00906	Carotenoid biosynthesis - Methylobacterium radiotolerans
+path:mrd00909	Sesquiterpenoid and triterpenoid biosynthesis - Methylobacterium radiotolerans
+path:mrd00910	Nitrogen metabolism - Methylobacterium radiotolerans
+path:mrd00920	Sulfur metabolism - Methylobacterium radiotolerans
+path:mrd00930	Caprolactam degradation - Methylobacterium radiotolerans
+path:mrd00970	Aminoacyl-tRNA biosynthesis - Methylobacterium radiotolerans
+path:mrd01040	Biosynthesis of unsaturated fatty acids - Methylobacterium radiotolerans
+path:mrd01054	Nonribosomal peptide structures - Methylobacterium radiotolerans
+path:mrd01100	Metabolic pathways - Methylobacterium radiotolerans
+path:mrd01110	Biosynthesis of secondary metabolites - Methylobacterium radiotolerans
+path:mrd01120	Microbial metabolism in diverse environments - Methylobacterium radiotolerans
+path:mrd01130	Biosynthesis of antibiotics - Methylobacterium radiotolerans
+path:mrd01200	Carbon metabolism - Methylobacterium radiotolerans
+path:mrd01210	2-Oxocarboxylic acid metabolism - Methylobacterium radiotolerans
+path:mrd01212	Fatty acid metabolism - Methylobacterium radiotolerans
+path:mrd01220	Degradation of aromatic compounds - Methylobacterium radiotolerans
+path:mrd01230	Biosynthesis of amino acids - Methylobacterium radiotolerans
+path:mrd01501	beta-Lactam resistance - Methylobacterium radiotolerans
+path:mrd01502	Vancomycin resistance - Methylobacterium radiotolerans
+path:mrd01503	Cationic antimicrobial peptide (CAMP) resistance - Methylobacterium radiotolerans
+path:mrd02010	ABC transporters - Methylobacterium radiotolerans
+path:mrd02020	Two-component system - Methylobacterium radiotolerans
+path:mrd02024	Quorum sensing - Methylobacterium radiotolerans
+path:mrd02030	Bacterial chemotaxis - Methylobacterium radiotolerans
+path:mrd02040	Flagellar assembly - Methylobacterium radiotolerans
+path:mrd02060	Phosphotransferase system (PTS) - Methylobacterium radiotolerans
+path:mrd03010	Ribosome - Methylobacterium radiotolerans
+path:mrd03018	RNA degradation - Methylobacterium radiotolerans
+path:mrd03020	RNA polymerase - Methylobacterium radiotolerans
+path:mrd03030	DNA replication - Methylobacterium radiotolerans
+path:mrd03060	Protein export - Methylobacterium radiotolerans
+path:mrd03070	Bacterial secretion system - Methylobacterium radiotolerans
+path:mrd03410	Base excision repair - Methylobacterium radiotolerans
+path:mrd03420	Nucleotide excision repair - Methylobacterium radiotolerans
+path:mrd03430	Mismatch repair - Methylobacterium radiotolerans
+path:mrd03440	Homologous recombination - Methylobacterium radiotolerans
+path:mrd04122	Sulfur relay system - Methylobacterium radiotolerans
+path:met00010	Glycolysis / Gluconeogenesis - Methylobacterium sp. 4-46
+path:met00020	Citrate cycle (TCA cycle) - Methylobacterium sp. 4-46
+path:met00030	Pentose phosphate pathway - Methylobacterium sp. 4-46
+path:met00040	Pentose and glucuronate interconversions - Methylobacterium sp. 4-46
+path:met00051	Fructose and mannose metabolism - Methylobacterium sp. 4-46
+path:met00052	Galactose metabolism - Methylobacterium sp. 4-46
+path:met00053	Ascorbate and aldarate metabolism - Methylobacterium sp. 4-46
+path:met00061	Fatty acid biosynthesis - Methylobacterium sp. 4-46
+path:met00071	Fatty acid degradation - Methylobacterium sp. 4-46
+path:met00072	Synthesis and degradation of ketone bodies - Methylobacterium sp. 4-46
+path:met00130	Ubiquinone and other terpenoid-quinone biosynthesis - Methylobacterium sp. 4-46
+path:met00190	Oxidative phosphorylation - Methylobacterium sp. 4-46
+path:met00220	Arginine biosynthesis - Methylobacterium sp. 4-46
+path:met00230	Purine metabolism - Methylobacterium sp. 4-46
+path:met00240	Pyrimidine metabolism - Methylobacterium sp. 4-46
+path:met00250	Alanine, aspartate and glutamate metabolism - Methylobacterium sp. 4-46
+path:met00260	Glycine, serine and threonine metabolism - Methylobacterium sp. 4-46
+path:met00261	Monobactam biosynthesis - Methylobacterium sp. 4-46
+path:met00270	Cysteine and methionine metabolism - Methylobacterium sp. 4-46
+path:met00280	Valine, leucine and isoleucine degradation - Methylobacterium sp. 4-46
+path:met00281	Geraniol degradation - Methylobacterium sp. 4-46
+path:met00290	Valine, leucine and isoleucine biosynthesis - Methylobacterium sp. 4-46
+path:met00300	Lysine biosynthesis - Methylobacterium sp. 4-46
+path:met00310	Lysine degradation - Methylobacterium sp. 4-46
+path:met00311	Penicillin and cephalosporin biosynthesis - Methylobacterium sp. 4-46
+path:met00330	Arginine and proline metabolism - Methylobacterium sp. 4-46
+path:met00332	Carbapenem biosynthesis - Methylobacterium sp. 4-46
+path:met00340	Histidine metabolism - Methylobacterium sp. 4-46
+path:met00350	Tyrosine metabolism - Methylobacterium sp. 4-46
+path:met00360	Phenylalanine metabolism - Methylobacterium sp. 4-46
+path:met00361	Chlorocyclohexane and chlorobenzene degradation - Methylobacterium sp. 4-46
+path:met00362	Benzoate degradation - Methylobacterium sp. 4-46
+path:met00364	Fluorobenzoate degradation - Methylobacterium sp. 4-46
+path:met00365	Furfural degradation - Methylobacterium sp. 4-46
+path:met00380	Tryptophan metabolism - Methylobacterium sp. 4-46
+path:met00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Methylobacterium sp. 4-46
+path:met00401	Novobiocin biosynthesis - Methylobacterium sp. 4-46
+path:met00405	Phenazine biosynthesis - Methylobacterium sp. 4-46
+path:met00410	beta-Alanine metabolism - Methylobacterium sp. 4-46
+path:met00430	Taurine and hypotaurine metabolism - Methylobacterium sp. 4-46
+path:met00440	Phosphonate and phosphinate metabolism - Methylobacterium sp. 4-46
+path:met00450	Selenocompound metabolism - Methylobacterium sp. 4-46
+path:met00460	Cyanoamino acid metabolism - Methylobacterium sp. 4-46
+path:met00471	D-Glutamine and D-glutamate metabolism - Methylobacterium sp. 4-46
+path:met00472	D-Arginine and D-ornithine metabolism - Methylobacterium sp. 4-46
+path:met00473	D-Alanine metabolism - Methylobacterium sp. 4-46
+path:met00480	Glutathione metabolism - Methylobacterium sp. 4-46
+path:met00500	Starch and sucrose metabolism - Methylobacterium sp. 4-46
+path:met00520	Amino sugar and nucleotide sugar metabolism - Methylobacterium sp. 4-46
+path:met00521	Streptomycin biosynthesis - Methylobacterium sp. 4-46
+path:met00523	Polyketide sugar unit biosynthesis - Methylobacterium sp. 4-46
+path:met00525	Acarbose and validamycin biosynthesis - Methylobacterium sp. 4-46
+path:met00540	Lipopolysaccharide biosynthesis - Methylobacterium sp. 4-46
+path:met00550	Peptidoglycan biosynthesis - Methylobacterium sp. 4-46
+path:met00561	Glycerolipid metabolism - Methylobacterium sp. 4-46
+path:met00562	Inositol phosphate metabolism - Methylobacterium sp. 4-46
+path:met00564	Glycerophospholipid metabolism - Methylobacterium sp. 4-46
+path:met00590	Arachidonic acid metabolism - Methylobacterium sp. 4-46
+path:met00600	Sphingolipid metabolism - Methylobacterium sp. 4-46
+path:met00620	Pyruvate metabolism - Methylobacterium sp. 4-46
+path:met00621	Dioxin degradation - Methylobacterium sp. 4-46
+path:met00622	Xylene degradation - Methylobacterium sp. 4-46
+path:met00623	Toluene degradation - Methylobacterium sp. 4-46
+path:met00624	Polycyclic aromatic hydrocarbon degradation - Methylobacterium sp. 4-46
+path:met00625	Chloroalkane and chloroalkene degradation - Methylobacterium sp. 4-46
+path:met00626	Naphthalene degradation - Methylobacterium sp. 4-46
+path:met00627	Aminobenzoate degradation - Methylobacterium sp. 4-46
+path:met00630	Glyoxylate and dicarboxylate metabolism - Methylobacterium sp. 4-46
+path:met00633	Nitrotoluene degradation - Methylobacterium sp. 4-46
+path:met00640	Propanoate metabolism - Methylobacterium sp. 4-46
+path:met00643	Styrene degradation - Methylobacterium sp. 4-46
+path:met00650	Butanoate metabolism - Methylobacterium sp. 4-46
+path:met00660	C5-Branched dibasic acid metabolism - Methylobacterium sp. 4-46
+path:met00670	One carbon pool by folate - Methylobacterium sp. 4-46
+path:met00680	Methane metabolism - Methylobacterium sp. 4-46
+path:met00710	Carbon fixation in photosynthetic organisms - Methylobacterium sp. 4-46
+path:met00730	Thiamine metabolism - Methylobacterium sp. 4-46
+path:met00740	Riboflavin metabolism - Methylobacterium sp. 4-46
+path:met00750	Vitamin B6 metabolism - Methylobacterium sp. 4-46
+path:met00760	Nicotinate and nicotinamide metabolism - Methylobacterium sp. 4-46
+path:met00770	Pantothenate and CoA biosynthesis - Methylobacterium sp. 4-46
+path:met00780	Biotin metabolism - Methylobacterium sp. 4-46
+path:met00785	Lipoic acid metabolism - Methylobacterium sp. 4-46
+path:met00790	Folate biosynthesis - Methylobacterium sp. 4-46
+path:met00791	Atrazine degradation - Methylobacterium sp. 4-46
+path:met00860	Porphyrin and chlorophyll metabolism - Methylobacterium sp. 4-46
+path:met00900	Terpenoid backbone biosynthesis - Methylobacterium sp. 4-46
+path:met00903	Limonene and pinene degradation - Methylobacterium sp. 4-46
+path:met00906	Carotenoid biosynthesis - Methylobacterium sp. 4-46
+path:met00909	Sesquiterpenoid and triterpenoid biosynthesis - Methylobacterium sp. 4-46
+path:met00910	Nitrogen metabolism - Methylobacterium sp. 4-46
+path:met00920	Sulfur metabolism - Methylobacterium sp. 4-46
+path:met00930	Caprolactam degradation - Methylobacterium sp. 4-46
+path:met00970	Aminoacyl-tRNA biosynthesis - Methylobacterium sp. 4-46
+path:met01040	Biosynthesis of unsaturated fatty acids - Methylobacterium sp. 4-46
+path:met01100	Metabolic pathways - Methylobacterium sp. 4-46
+path:met01110	Biosynthesis of secondary metabolites - Methylobacterium sp. 4-46
+path:met01120	Microbial metabolism in diverse environments - Methylobacterium sp. 4-46
+path:met01130	Biosynthesis of antibiotics - Methylobacterium sp. 4-46
+path:met01200	Carbon metabolism - Methylobacterium sp. 4-46
+path:met01210	2-Oxocarboxylic acid metabolism - Methylobacterium sp. 4-46
+path:met01212	Fatty acid metabolism - Methylobacterium sp. 4-46
+path:met01220	Degradation of aromatic compounds - Methylobacterium sp. 4-46
+path:met01230	Biosynthesis of amino acids - Methylobacterium sp. 4-46
+path:met01501	beta-Lactam resistance - Methylobacterium sp. 4-46
+path:met01502	Vancomycin resistance - Methylobacterium sp. 4-46
+path:met01503	Cationic antimicrobial peptide (CAMP) resistance - Methylobacterium sp. 4-46
+path:met02010	ABC transporters - Methylobacterium sp. 4-46
+path:met02020	Two-component system - Methylobacterium sp. 4-46
+path:met02024	Quorum sensing - Methylobacterium sp. 4-46
+path:met02030	Bacterial chemotaxis - Methylobacterium sp. 4-46
+path:met02040	Flagellar assembly - Methylobacterium sp. 4-46
+path:met02060	Phosphotransferase system (PTS) - Methylobacterium sp. 4-46
+path:met03010	Ribosome - Methylobacterium sp. 4-46
+path:met03018	RNA degradation - Methylobacterium sp. 4-46
+path:met03020	RNA polymerase - Methylobacterium sp. 4-46
+path:met03030	DNA replication - Methylobacterium sp. 4-46
+path:met03060	Protein export - Methylobacterium sp. 4-46
+path:met03070	Bacterial secretion system - Methylobacterium sp. 4-46
+path:met03410	Base excision repair - Methylobacterium sp. 4-46
+path:met03420	Nucleotide excision repair - Methylobacterium sp. 4-46
+path:met03430	Mismatch repair - Methylobacterium sp. 4-46
+path:met03440	Homologous recombination - Methylobacterium sp. 4-46
+path:met04122	Sulfur relay system - Methylobacterium sp. 4-46
+path:mpo00010	Glycolysis / Gluconeogenesis - Methylobacterium populi
+path:mpo00020	Citrate cycle (TCA cycle) - Methylobacterium populi
+path:mpo00030	Pentose phosphate pathway - Methylobacterium populi
+path:mpo00040	Pentose and glucuronate interconversions - Methylobacterium populi
+path:mpo00051	Fructose and mannose metabolism - Methylobacterium populi
+path:mpo00052	Galactose metabolism - Methylobacterium populi
+path:mpo00053	Ascorbate and aldarate metabolism - Methylobacterium populi
+path:mpo00061	Fatty acid biosynthesis - Methylobacterium populi
+path:mpo00071	Fatty acid degradation - Methylobacterium populi
+path:mpo00072	Synthesis and degradation of ketone bodies - Methylobacterium populi
+path:mpo00130	Ubiquinone and other terpenoid-quinone biosynthesis - Methylobacterium populi
+path:mpo00190	Oxidative phosphorylation - Methylobacterium populi
+path:mpo00220	Arginine biosynthesis - Methylobacterium populi
+path:mpo00230	Purine metabolism - Methylobacterium populi
+path:mpo00240	Pyrimidine metabolism - Methylobacterium populi
+path:mpo00250	Alanine, aspartate and glutamate metabolism - Methylobacterium populi
+path:mpo00260	Glycine, serine and threonine metabolism - Methylobacterium populi
+path:mpo00261	Monobactam biosynthesis - Methylobacterium populi
+path:mpo00270	Cysteine and methionine metabolism - Methylobacterium populi
+path:mpo00280	Valine, leucine and isoleucine degradation - Methylobacterium populi
+path:mpo00281	Geraniol degradation - Methylobacterium populi
+path:mpo00290	Valine, leucine and isoleucine biosynthesis - Methylobacterium populi
+path:mpo00300	Lysine biosynthesis - Methylobacterium populi
+path:mpo00310	Lysine degradation - Methylobacterium populi
+path:mpo00330	Arginine and proline metabolism - Methylobacterium populi
+path:mpo00332	Carbapenem biosynthesis - Methylobacterium populi
+path:mpo00340	Histidine metabolism - Methylobacterium populi
+path:mpo00350	Tyrosine metabolism - Methylobacterium populi
+path:mpo00360	Phenylalanine metabolism - Methylobacterium populi
+path:mpo00361	Chlorocyclohexane and chlorobenzene degradation - Methylobacterium populi
+path:mpo00362	Benzoate degradation - Methylobacterium populi
+path:mpo00364	Fluorobenzoate degradation - Methylobacterium populi
+path:mpo00380	Tryptophan metabolism - Methylobacterium populi
+path:mpo00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Methylobacterium populi
+path:mpo00401	Novobiocin biosynthesis - Methylobacterium populi
+path:mpo00405	Phenazine biosynthesis - Methylobacterium populi
+path:mpo00410	beta-Alanine metabolism - Methylobacterium populi
+path:mpo00430	Taurine and hypotaurine metabolism - Methylobacterium populi
+path:mpo00440	Phosphonate and phosphinate metabolism - Methylobacterium populi
+path:mpo00450	Selenocompound metabolism - Methylobacterium populi
+path:mpo00460	Cyanoamino acid metabolism - Methylobacterium populi
+path:mpo00471	D-Glutamine and D-glutamate metabolism - Methylobacterium populi
+path:mpo00472	D-Arginine and D-ornithine metabolism - Methylobacterium populi
+path:mpo00473	D-Alanine metabolism - Methylobacterium populi
+path:mpo00480	Glutathione metabolism - Methylobacterium populi
+path:mpo00500	Starch and sucrose metabolism - Methylobacterium populi
+path:mpo00520	Amino sugar and nucleotide sugar metabolism - Methylobacterium populi
+path:mpo00521	Streptomycin biosynthesis - Methylobacterium populi
+path:mpo00523	Polyketide sugar unit biosynthesis - Methylobacterium populi
+path:mpo00525	Acarbose and validamycin biosynthesis - Methylobacterium populi
+path:mpo00540	Lipopolysaccharide biosynthesis - Methylobacterium populi
+path:mpo00550	Peptidoglycan biosynthesis - Methylobacterium populi
+path:mpo00561	Glycerolipid metabolism - Methylobacterium populi
+path:mpo00562	Inositol phosphate metabolism - Methylobacterium populi
+path:mpo00564	Glycerophospholipid metabolism - Methylobacterium populi
+path:mpo00590	Arachidonic acid metabolism - Methylobacterium populi
+path:mpo00620	Pyruvate metabolism - Methylobacterium populi
+path:mpo00621	Dioxin degradation - Methylobacterium populi
+path:mpo00622	Xylene degradation - Methylobacterium populi
+path:mpo00623	Toluene degradation - Methylobacterium populi
+path:mpo00624	Polycyclic aromatic hydrocarbon degradation - Methylobacterium populi
+path:mpo00625	Chloroalkane and chloroalkene degradation - Methylobacterium populi
+path:mpo00626	Naphthalene degradation - Methylobacterium populi
+path:mpo00627	Aminobenzoate degradation - Methylobacterium populi
+path:mpo00630	Glyoxylate and dicarboxylate metabolism - Methylobacterium populi
+path:mpo00640	Propanoate metabolism - Methylobacterium populi
+path:mpo00643	Styrene degradation - Methylobacterium populi
+path:mpo00650	Butanoate metabolism - Methylobacterium populi
+path:mpo00660	C5-Branched dibasic acid metabolism - Methylobacterium populi
+path:mpo00670	One carbon pool by folate - Methylobacterium populi
+path:mpo00680	Methane metabolism - Methylobacterium populi
+path:mpo00710	Carbon fixation in photosynthetic organisms - Methylobacterium populi
+path:mpo00730	Thiamine metabolism - Methylobacterium populi
+path:mpo00740	Riboflavin metabolism - Methylobacterium populi
+path:mpo00750	Vitamin B6 metabolism - Methylobacterium populi
+path:mpo00760	Nicotinate and nicotinamide metabolism - Methylobacterium populi
+path:mpo00770	Pantothenate and CoA biosynthesis - Methylobacterium populi
+path:mpo00780	Biotin metabolism - Methylobacterium populi
+path:mpo00785	Lipoic acid metabolism - Methylobacterium populi
+path:mpo00790	Folate biosynthesis - Methylobacterium populi
+path:mpo00791	Atrazine degradation - Methylobacterium populi
+path:mpo00860	Porphyrin and chlorophyll metabolism - Methylobacterium populi
+path:mpo00900	Terpenoid backbone biosynthesis - Methylobacterium populi
+path:mpo00903	Limonene and pinene degradation - Methylobacterium populi
+path:mpo00906	Carotenoid biosynthesis - Methylobacterium populi
+path:mpo00909	Sesquiterpenoid and triterpenoid biosynthesis - Methylobacterium populi
+path:mpo00910	Nitrogen metabolism - Methylobacterium populi
+path:mpo00920	Sulfur metabolism - Methylobacterium populi
+path:mpo00930	Caprolactam degradation - Methylobacterium populi
+path:mpo00970	Aminoacyl-tRNA biosynthesis - Methylobacterium populi
+path:mpo01040	Biosynthesis of unsaturated fatty acids - Methylobacterium populi
+path:mpo01100	Metabolic pathways - Methylobacterium populi
+path:mpo01110	Biosynthesis of secondary metabolites - Methylobacterium populi
+path:mpo01120	Microbial metabolism in diverse environments - Methylobacterium populi
+path:mpo01130	Biosynthesis of antibiotics - Methylobacterium populi
+path:mpo01200	Carbon metabolism - Methylobacterium populi
+path:mpo01210	2-Oxocarboxylic acid metabolism - Methylobacterium populi
+path:mpo01212	Fatty acid metabolism - Methylobacterium populi
+path:mpo01220	Degradation of aromatic compounds - Methylobacterium populi
+path:mpo01230	Biosynthesis of amino acids - Methylobacterium populi
+path:mpo01501	beta-Lactam resistance - Methylobacterium populi
+path:mpo01502	Vancomycin resistance - Methylobacterium populi
+path:mpo01503	Cationic antimicrobial peptide (CAMP) resistance - Methylobacterium populi
+path:mpo02010	ABC transporters - Methylobacterium populi
+path:mpo02020	Two-component system - Methylobacterium populi
+path:mpo02024	Quorum sensing - Methylobacterium populi
+path:mpo02030	Bacterial chemotaxis - Methylobacterium populi
+path:mpo02040	Flagellar assembly - Methylobacterium populi
+path:mpo02060	Phosphotransferase system (PTS) - Methylobacterium populi
+path:mpo03010	Ribosome - Methylobacterium populi
+path:mpo03018	RNA degradation - Methylobacterium populi
+path:mpo03020	RNA polymerase - Methylobacterium populi
+path:mpo03030	DNA replication - Methylobacterium populi
+path:mpo03060	Protein export - Methylobacterium populi
+path:mpo03070	Bacterial secretion system - Methylobacterium populi
+path:mpo03410	Base excision repair - Methylobacterium populi
+path:mpo03420	Nucleotide excision repair - Methylobacterium populi
+path:mpo03430	Mismatch repair - Methylobacterium populi
+path:mpo03440	Homologous recombination - Methylobacterium populi
+path:mpo04122	Sulfur relay system - Methylobacterium populi
+path:mno00010	Glycolysis / Gluconeogenesis - Methylobacterium nodulans
+path:mno00020	Citrate cycle (TCA cycle) - Methylobacterium nodulans
+path:mno00030	Pentose phosphate pathway - Methylobacterium nodulans
+path:mno00040	Pentose and glucuronate interconversions - Methylobacterium nodulans
+path:mno00051	Fructose and mannose metabolism - Methylobacterium nodulans
+path:mno00052	Galactose metabolism - Methylobacterium nodulans
+path:mno00053	Ascorbate and aldarate metabolism - Methylobacterium nodulans
+path:mno00061	Fatty acid biosynthesis - Methylobacterium nodulans
+path:mno00071	Fatty acid degradation - Methylobacterium nodulans
+path:mno00072	Synthesis and degradation of ketone bodies - Methylobacterium nodulans
+path:mno00130	Ubiquinone and other terpenoid-quinone biosynthesis - Methylobacterium nodulans
+path:mno00190	Oxidative phosphorylation - Methylobacterium nodulans
+path:mno00220	Arginine biosynthesis - Methylobacterium nodulans
+path:mno00230	Purine metabolism - Methylobacterium nodulans
+path:mno00240	Pyrimidine metabolism - Methylobacterium nodulans
+path:mno00250	Alanine, aspartate and glutamate metabolism - Methylobacterium nodulans
+path:mno00260	Glycine, serine and threonine metabolism - Methylobacterium nodulans
+path:mno00261	Monobactam biosynthesis - Methylobacterium nodulans
+path:mno00270	Cysteine and methionine metabolism - Methylobacterium nodulans
+path:mno00280	Valine, leucine and isoleucine degradation - Methylobacterium nodulans
+path:mno00281	Geraniol degradation - Methylobacterium nodulans
+path:mno00290	Valine, leucine and isoleucine biosynthesis - Methylobacterium nodulans
+path:mno00300	Lysine biosynthesis - Methylobacterium nodulans
+path:mno00310	Lysine degradation - Methylobacterium nodulans
+path:mno00311	Penicillin and cephalosporin biosynthesis - Methylobacterium nodulans
+path:mno00330	Arginine and proline metabolism - Methylobacterium nodulans
+path:mno00332	Carbapenem biosynthesis - Methylobacterium nodulans
+path:mno00340	Histidine metabolism - Methylobacterium nodulans
+path:mno00350	Tyrosine metabolism - Methylobacterium nodulans
+path:mno00360	Phenylalanine metabolism - Methylobacterium nodulans
+path:mno00361	Chlorocyclohexane and chlorobenzene degradation - Methylobacterium nodulans
+path:mno00362	Benzoate degradation - Methylobacterium nodulans
+path:mno00364	Fluorobenzoate degradation - Methylobacterium nodulans
+path:mno00365	Furfural degradation - Methylobacterium nodulans
+path:mno00380	Tryptophan metabolism - Methylobacterium nodulans
+path:mno00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Methylobacterium nodulans
+path:mno00401	Novobiocin biosynthesis - Methylobacterium nodulans
+path:mno00405	Phenazine biosynthesis - Methylobacterium nodulans
+path:mno00410	beta-Alanine metabolism - Methylobacterium nodulans
+path:mno00430	Taurine and hypotaurine metabolism - Methylobacterium nodulans
+path:mno00440	Phosphonate and phosphinate metabolism - Methylobacterium nodulans
+path:mno00450	Selenocompound metabolism - Methylobacterium nodulans
+path:mno00460	Cyanoamino acid metabolism - Methylobacterium nodulans
+path:mno00471	D-Glutamine and D-glutamate metabolism - Methylobacterium nodulans
+path:mno00472	D-Arginine and D-ornithine metabolism - Methylobacterium nodulans
+path:mno00473	D-Alanine metabolism - Methylobacterium nodulans
+path:mno00480	Glutathione metabolism - Methylobacterium nodulans
+path:mno00500	Starch and sucrose metabolism - Methylobacterium nodulans
+path:mno00520	Amino sugar and nucleotide sugar metabolism - Methylobacterium nodulans
+path:mno00521	Streptomycin biosynthesis - Methylobacterium nodulans
+path:mno00523	Polyketide sugar unit biosynthesis - Methylobacterium nodulans
+path:mno00525	Acarbose and validamycin biosynthesis - Methylobacterium nodulans
+path:mno00540	Lipopolysaccharide biosynthesis - Methylobacterium nodulans
+path:mno00550	Peptidoglycan biosynthesis - Methylobacterium nodulans
+path:mno00561	Glycerolipid metabolism - Methylobacterium nodulans
+path:mno00562	Inositol phosphate metabolism - Methylobacterium nodulans
+path:mno00564	Glycerophospholipid metabolism - Methylobacterium nodulans
+path:mno00590	Arachidonic acid metabolism - Methylobacterium nodulans
+path:mno00600	Sphingolipid metabolism - Methylobacterium nodulans
+path:mno00620	Pyruvate metabolism - Methylobacterium nodulans
+path:mno00621	Dioxin degradation - Methylobacterium nodulans
+path:mno00622	Xylene degradation - Methylobacterium nodulans
+path:mno00623	Toluene degradation - Methylobacterium nodulans
+path:mno00624	Polycyclic aromatic hydrocarbon degradation - Methylobacterium nodulans
+path:mno00625	Chloroalkane and chloroalkene degradation - Methylobacterium nodulans
+path:mno00626	Naphthalene degradation - Methylobacterium nodulans
+path:mno00627	Aminobenzoate degradation - Methylobacterium nodulans
+path:mno00630	Glyoxylate and dicarboxylate metabolism - Methylobacterium nodulans
+path:mno00633	Nitrotoluene degradation - Methylobacterium nodulans
+path:mno00640	Propanoate metabolism - Methylobacterium nodulans
+path:mno00643	Styrene degradation - Methylobacterium nodulans
+path:mno00650	Butanoate metabolism - Methylobacterium nodulans
+path:mno00660	C5-Branched dibasic acid metabolism - Methylobacterium nodulans
+path:mno00670	One carbon pool by folate - Methylobacterium nodulans
+path:mno00680	Methane metabolism - Methylobacterium nodulans
+path:mno00710	Carbon fixation in photosynthetic organisms - Methylobacterium nodulans
+path:mno00730	Thiamine metabolism - Methylobacterium nodulans
+path:mno00740	Riboflavin metabolism - Methylobacterium nodulans
+path:mno00750	Vitamin B6 metabolism - Methylobacterium nodulans
+path:mno00760	Nicotinate and nicotinamide metabolism - Methylobacterium nodulans
+path:mno00770	Pantothenate and CoA biosynthesis - Methylobacterium nodulans
+path:mno00780	Biotin metabolism - Methylobacterium nodulans
+path:mno00785	Lipoic acid metabolism - Methylobacterium nodulans
+path:mno00790	Folate biosynthesis - Methylobacterium nodulans
+path:mno00860	Porphyrin and chlorophyll metabolism - Methylobacterium nodulans
+path:mno00900	Terpenoid backbone biosynthesis - Methylobacterium nodulans
+path:mno00903	Limonene and pinene degradation - Methylobacterium nodulans
+path:mno00906	Carotenoid biosynthesis - Methylobacterium nodulans
+path:mno00909	Sesquiterpenoid and triterpenoid biosynthesis - Methylobacterium nodulans
+path:mno00910	Nitrogen metabolism - Methylobacterium nodulans
+path:mno00920	Sulfur metabolism - Methylobacterium nodulans
+path:mno00930	Caprolactam degradation - Methylobacterium nodulans
+path:mno00970	Aminoacyl-tRNA biosynthesis - Methylobacterium nodulans
+path:mno01040	Biosynthesis of unsaturated fatty acids - Methylobacterium nodulans
+path:mno01054	Nonribosomal peptide structures - Methylobacterium nodulans
+path:mno01100	Metabolic pathways - Methylobacterium nodulans
+path:mno01110	Biosynthesis of secondary metabolites - Methylobacterium nodulans
+path:mno01120	Microbial metabolism in diverse environments - Methylobacterium nodulans
+path:mno01130	Biosynthesis of antibiotics - Methylobacterium nodulans
+path:mno01200	Carbon metabolism - Methylobacterium nodulans
+path:mno01210	2-Oxocarboxylic acid metabolism - Methylobacterium nodulans
+path:mno01212	Fatty acid metabolism - Methylobacterium nodulans
+path:mno01220	Degradation of aromatic compounds - Methylobacterium nodulans
+path:mno01230	Biosynthesis of amino acids - Methylobacterium nodulans
+path:mno01501	beta-Lactam resistance - Methylobacterium nodulans
+path:mno01502	Vancomycin resistance - Methylobacterium nodulans
+path:mno01503	Cationic antimicrobial peptide (CAMP) resistance - Methylobacterium nodulans
+path:mno02010	ABC transporters - Methylobacterium nodulans
+path:mno02020	Two-component system - Methylobacterium nodulans
+path:mno02024	Quorum sensing - Methylobacterium nodulans
+path:mno02030	Bacterial chemotaxis - Methylobacterium nodulans
+path:mno02040	Flagellar assembly - Methylobacterium nodulans
+path:mno02060	Phosphotransferase system (PTS) - Methylobacterium nodulans
+path:mno03010	Ribosome - Methylobacterium nodulans
+path:mno03018	RNA degradation - Methylobacterium nodulans
+path:mno03020	RNA polymerase - Methylobacterium nodulans
+path:mno03030	DNA replication - Methylobacterium nodulans
+path:mno03060	Protein export - Methylobacterium nodulans
+path:mno03070	Bacterial secretion system - Methylobacterium nodulans
+path:mno03410	Base excision repair - Methylobacterium nodulans
+path:mno03420	Nucleotide excision repair - Methylobacterium nodulans
+path:mno03430	Mismatch repair - Methylobacterium nodulans
+path:mno03440	Homologous recombination - Methylobacterium nodulans
+path:mno04122	Sulfur relay system - Methylobacterium nodulans
+path:mor00010	Glycolysis / Gluconeogenesis - Methylobacterium oryzae
+path:mor00020	Citrate cycle (TCA cycle) - Methylobacterium oryzae
+path:mor00030	Pentose phosphate pathway - Methylobacterium oryzae
+path:mor00040	Pentose and glucuronate interconversions - Methylobacterium oryzae
+path:mor00051	Fructose and mannose metabolism - Methylobacterium oryzae
+path:mor00052	Galactose metabolism - Methylobacterium oryzae
+path:mor00053	Ascorbate and aldarate metabolism - Methylobacterium oryzae
+path:mor00061	Fatty acid biosynthesis - Methylobacterium oryzae
+path:mor00071	Fatty acid degradation - Methylobacterium oryzae
+path:mor00072	Synthesis and degradation of ketone bodies - Methylobacterium oryzae
+path:mor00130	Ubiquinone and other terpenoid-quinone biosynthesis - Methylobacterium oryzae
+path:mor00190	Oxidative phosphorylation - Methylobacterium oryzae
+path:mor00220	Arginine biosynthesis - Methylobacterium oryzae
+path:mor00230	Purine metabolism - Methylobacterium oryzae
+path:mor00240	Pyrimidine metabolism - Methylobacterium oryzae
+path:mor00250	Alanine, aspartate and glutamate metabolism - Methylobacterium oryzae
+path:mor00260	Glycine, serine and threonine metabolism - Methylobacterium oryzae
+path:mor00261	Monobactam biosynthesis - Methylobacterium oryzae
+path:mor00270	Cysteine and methionine metabolism - Methylobacterium oryzae
+path:mor00280	Valine, leucine and isoleucine degradation - Methylobacterium oryzae
+path:mor00281	Geraniol degradation - Methylobacterium oryzae
+path:mor00290	Valine, leucine and isoleucine biosynthesis - Methylobacterium oryzae
+path:mor00300	Lysine biosynthesis - Methylobacterium oryzae
+path:mor00310	Lysine degradation - Methylobacterium oryzae
+path:mor00311	Penicillin and cephalosporin biosynthesis - Methylobacterium oryzae
+path:mor00330	Arginine and proline metabolism - Methylobacterium oryzae
+path:mor00332	Carbapenem biosynthesis - Methylobacterium oryzae
+path:mor00340	Histidine metabolism - Methylobacterium oryzae
+path:mor00350	Tyrosine metabolism - Methylobacterium oryzae
+path:mor00360	Phenylalanine metabolism - Methylobacterium oryzae
+path:mor00361	Chlorocyclohexane and chlorobenzene degradation - Methylobacterium oryzae
+path:mor00362	Benzoate degradation - Methylobacterium oryzae
+path:mor00364	Fluorobenzoate degradation - Methylobacterium oryzae
+path:mor00365	Furfural degradation - Methylobacterium oryzae
+path:mor00380	Tryptophan metabolism - Methylobacterium oryzae
+path:mor00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Methylobacterium oryzae
+path:mor00401	Novobiocin biosynthesis - Methylobacterium oryzae
+path:mor00405	Phenazine biosynthesis - Methylobacterium oryzae
+path:mor00410	beta-Alanine metabolism - Methylobacterium oryzae
+path:mor00430	Taurine and hypotaurine metabolism - Methylobacterium oryzae
+path:mor00440	Phosphonate and phosphinate metabolism - Methylobacterium oryzae
+path:mor00450	Selenocompound metabolism - Methylobacterium oryzae
+path:mor00460	Cyanoamino acid metabolism - Methylobacterium oryzae
+path:mor00471	D-Glutamine and D-glutamate metabolism - Methylobacterium oryzae
+path:mor00472	D-Arginine and D-ornithine metabolism - Methylobacterium oryzae
+path:mor00473	D-Alanine metabolism - Methylobacterium oryzae
+path:mor00480	Glutathione metabolism - Methylobacterium oryzae
+path:mor00500	Starch and sucrose metabolism - Methylobacterium oryzae
+path:mor00520	Amino sugar and nucleotide sugar metabolism - Methylobacterium oryzae
+path:mor00521	Streptomycin biosynthesis - Methylobacterium oryzae
+path:mor00523	Polyketide sugar unit biosynthesis - Methylobacterium oryzae
+path:mor00525	Acarbose and validamycin biosynthesis - Methylobacterium oryzae
+path:mor00540	Lipopolysaccharide biosynthesis - Methylobacterium oryzae
+path:mor00550	Peptidoglycan biosynthesis - Methylobacterium oryzae
+path:mor00561	Glycerolipid metabolism - Methylobacterium oryzae
+path:mor00562	Inositol phosphate metabolism - Methylobacterium oryzae
+path:mor00564	Glycerophospholipid metabolism - Methylobacterium oryzae
+path:mor00590	Arachidonic acid metabolism - Methylobacterium oryzae
+path:mor00592	alpha-Linolenic acid metabolism - Methylobacterium oryzae
+path:mor00600	Sphingolipid metabolism - Methylobacterium oryzae
+path:mor00620	Pyruvate metabolism - Methylobacterium oryzae
+path:mor00623	Toluene degradation - Methylobacterium oryzae
+path:mor00624	Polycyclic aromatic hydrocarbon degradation - Methylobacterium oryzae
+path:mor00625	Chloroalkane and chloroalkene degradation - Methylobacterium oryzae
+path:mor00626	Naphthalene degradation - Methylobacterium oryzae
+path:mor00627	Aminobenzoate degradation - Methylobacterium oryzae
+path:mor00630	Glyoxylate and dicarboxylate metabolism - Methylobacterium oryzae
+path:mor00640	Propanoate metabolism - Methylobacterium oryzae
+path:mor00643	Styrene degradation - Methylobacterium oryzae
+path:mor00650	Butanoate metabolism - Methylobacterium oryzae
+path:mor00660	C5-Branched dibasic acid metabolism - Methylobacterium oryzae
+path:mor00670	One carbon pool by folate - Methylobacterium oryzae
+path:mor00680	Methane metabolism - Methylobacterium oryzae
+path:mor00710	Carbon fixation in photosynthetic organisms - Methylobacterium oryzae
+path:mor00730	Thiamine metabolism - Methylobacterium oryzae
+path:mor00740	Riboflavin metabolism - Methylobacterium oryzae
+path:mor00750	Vitamin B6 metabolism - Methylobacterium oryzae
+path:mor00760	Nicotinate and nicotinamide metabolism - Methylobacterium oryzae
+path:mor00770	Pantothenate and CoA biosynthesis - Methylobacterium oryzae
+path:mor00780	Biotin metabolism - Methylobacterium oryzae
+path:mor00785	Lipoic acid metabolism - Methylobacterium oryzae
+path:mor00790	Folate biosynthesis - Methylobacterium oryzae
+path:mor00791	Atrazine degradation - Methylobacterium oryzae
+path:mor00860	Porphyrin and chlorophyll metabolism - Methylobacterium oryzae
+path:mor00900	Terpenoid backbone biosynthesis - Methylobacterium oryzae
+path:mor00903	Limonene and pinene degradation - Methylobacterium oryzae
+path:mor00906	Carotenoid biosynthesis - Methylobacterium oryzae
+path:mor00909	Sesquiterpenoid and triterpenoid biosynthesis - Methylobacterium oryzae
+path:mor00910	Nitrogen metabolism - Methylobacterium oryzae
+path:mor00920	Sulfur metabolism - Methylobacterium oryzae
+path:mor00930	Caprolactam degradation - Methylobacterium oryzae
+path:mor00970	Aminoacyl-tRNA biosynthesis - Methylobacterium oryzae
+path:mor01040	Biosynthesis of unsaturated fatty acids - Methylobacterium oryzae
+path:mor01100	Metabolic pathways - Methylobacterium oryzae
+path:mor01110	Biosynthesis of secondary metabolites - Methylobacterium oryzae
+path:mor01120	Microbial metabolism in diverse environments - Methylobacterium oryzae
+path:mor01130	Biosynthesis of antibiotics - Methylobacterium oryzae
+path:mor01200	Carbon metabolism - Methylobacterium oryzae
+path:mor01210	2-Oxocarboxylic acid metabolism - Methylobacterium oryzae
+path:mor01212	Fatty acid metabolism - Methylobacterium oryzae
+path:mor01220	Degradation of aromatic compounds - Methylobacterium oryzae
+path:mor01230	Biosynthesis of amino acids - Methylobacterium oryzae
+path:mor01501	beta-Lactam resistance - Methylobacterium oryzae
+path:mor01502	Vancomycin resistance - Methylobacterium oryzae
+path:mor01503	Cationic antimicrobial peptide (CAMP) resistance - Methylobacterium oryzae
+path:mor02010	ABC transporters - Methylobacterium oryzae
+path:mor02020	Two-component system - Methylobacterium oryzae
+path:mor02024	Quorum sensing - Methylobacterium oryzae
+path:mor02030	Bacterial chemotaxis - Methylobacterium oryzae
+path:mor02040	Flagellar assembly - Methylobacterium oryzae
+path:mor02060	Phosphotransferase system (PTS) - Methylobacterium oryzae
+path:mor03010	Ribosome - Methylobacterium oryzae
+path:mor03018	RNA degradation - Methylobacterium oryzae
+path:mor03020	RNA polymerase - Methylobacterium oryzae
+path:mor03030	DNA replication - Methylobacterium oryzae
+path:mor03060	Protein export - Methylobacterium oryzae
+path:mor03070	Bacterial secretion system - Methylobacterium oryzae
+path:mor03410	Base excision repair - Methylobacterium oryzae
+path:mor03420	Nucleotide excision repair - Methylobacterium oryzae
+path:mor03430	Mismatch repair - Methylobacterium oryzae
+path:mor03440	Homologous recombination - Methylobacterium oryzae
+path:mor03450	Non-homologous end-joining - Methylobacterium oryzae
+path:mor04122	Sulfur relay system - Methylobacterium oryzae
+path:meta00010	Glycolysis / Gluconeogenesis - Methylobacterium sp. AMS5
+path:meta00020	Citrate cycle (TCA cycle) - Methylobacterium sp. AMS5
+path:meta00030	Pentose phosphate pathway - Methylobacterium sp. AMS5
+path:meta00040	Pentose and glucuronate interconversions - Methylobacterium sp. AMS5
+path:meta00051	Fructose and mannose metabolism - Methylobacterium sp. AMS5
+path:meta00052	Galactose metabolism - Methylobacterium sp. AMS5
+path:meta00053	Ascorbate and aldarate metabolism - Methylobacterium sp. AMS5
+path:meta00061	Fatty acid biosynthesis - Methylobacterium sp. AMS5
+path:meta00071	Fatty acid degradation - Methylobacterium sp. AMS5
+path:meta00072	Synthesis and degradation of ketone bodies - Methylobacterium sp. AMS5
+path:meta00121	Secondary bile acid biosynthesis - Methylobacterium sp. AMS5
+path:meta00130	Ubiquinone and other terpenoid-quinone biosynthesis - Methylobacterium sp. AMS5
+path:meta00190	Oxidative phosphorylation - Methylobacterium sp. AMS5
+path:meta00220	Arginine biosynthesis - Methylobacterium sp. AMS5
+path:meta00230	Purine metabolism - Methylobacterium sp. AMS5
+path:meta00240	Pyrimidine metabolism - Methylobacterium sp. AMS5
+path:meta00250	Alanine, aspartate and glutamate metabolism - Methylobacterium sp. AMS5
+path:meta00260	Glycine, serine and threonine metabolism - Methylobacterium sp. AMS5
+path:meta00261	Monobactam biosynthesis - Methylobacterium sp. AMS5
+path:meta00270	Cysteine and methionine metabolism - Methylobacterium sp. AMS5
+path:meta00280	Valine, leucine and isoleucine degradation - Methylobacterium sp. AMS5
+path:meta00281	Geraniol degradation - Methylobacterium sp. AMS5
+path:meta00290	Valine, leucine and isoleucine biosynthesis - Methylobacterium sp. AMS5
+path:meta00300	Lysine biosynthesis - Methylobacterium sp. AMS5
+path:meta00310	Lysine degradation - Methylobacterium sp. AMS5
+path:meta00330	Arginine and proline metabolism - Methylobacterium sp. AMS5
+path:meta00332	Carbapenem biosynthesis - Methylobacterium sp. AMS5
+path:meta00340	Histidine metabolism - Methylobacterium sp. AMS5
+path:meta00350	Tyrosine metabolism - Methylobacterium sp. AMS5
+path:meta00360	Phenylalanine metabolism - Methylobacterium sp. AMS5
+path:meta00361	Chlorocyclohexane and chlorobenzene degradation - Methylobacterium sp. AMS5
+path:meta00362	Benzoate degradation - Methylobacterium sp. AMS5
+path:meta00364	Fluorobenzoate degradation - Methylobacterium sp. AMS5
+path:meta00380	Tryptophan metabolism - Methylobacterium sp. AMS5
+path:meta00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Methylobacterium sp. AMS5
+path:meta00401	Novobiocin biosynthesis - Methylobacterium sp. AMS5
+path:meta00405	Phenazine biosynthesis - Methylobacterium sp. AMS5
+path:meta00410	beta-Alanine metabolism - Methylobacterium sp. AMS5
+path:meta00430	Taurine and hypotaurine metabolism - Methylobacterium sp. AMS5
+path:meta00440	Phosphonate and phosphinate metabolism - Methylobacterium sp. AMS5
+path:meta00450	Selenocompound metabolism - Methylobacterium sp. AMS5
+path:meta00460	Cyanoamino acid metabolism - Methylobacterium sp. AMS5
+path:meta00471	D-Glutamine and D-glutamate metabolism - Methylobacterium sp. AMS5
+path:meta00472	D-Arginine and D-ornithine metabolism - Methylobacterium sp. AMS5
+path:meta00473	D-Alanine metabolism - Methylobacterium sp. AMS5
+path:meta00480	Glutathione metabolism - Methylobacterium sp. AMS5
+path:meta00500	Starch and sucrose metabolism - Methylobacterium sp. AMS5
+path:meta00520	Amino sugar and nucleotide sugar metabolism - Methylobacterium sp. AMS5
+path:meta00521	Streptomycin biosynthesis - Methylobacterium sp. AMS5
+path:meta00523	Polyketide sugar unit biosynthesis - Methylobacterium sp. AMS5
+path:meta00525	Acarbose and validamycin biosynthesis - Methylobacterium sp. AMS5
+path:meta00540	Lipopolysaccharide biosynthesis - Methylobacterium sp. AMS5
+path:meta00550	Peptidoglycan biosynthesis - Methylobacterium sp. AMS5
+path:meta00561	Glycerolipid metabolism - Methylobacterium sp. AMS5
+path:meta00562	Inositol phosphate metabolism - Methylobacterium sp. AMS5
+path:meta00564	Glycerophospholipid metabolism - Methylobacterium sp. AMS5
+path:meta00590	Arachidonic acid metabolism - Methylobacterium sp. AMS5
+path:meta00620	Pyruvate metabolism - Methylobacterium sp. AMS5
+path:meta00622	Xylene degradation - Methylobacterium sp. AMS5
+path:meta00623	Toluene degradation - Methylobacterium sp. AMS5
+path:meta00624	Polycyclic aromatic hydrocarbon degradation - Methylobacterium sp. AMS5
+path:meta00625	Chloroalkane and chloroalkene degradation - Methylobacterium sp. AMS5
+path:meta00626	Naphthalene degradation - Methylobacterium sp. AMS5
+path:meta00627	Aminobenzoate degradation - Methylobacterium sp. AMS5
+path:meta00630	Glyoxylate and dicarboxylate metabolism - Methylobacterium sp. AMS5
+path:meta00633	Nitrotoluene degradation - Methylobacterium sp. AMS5
+path:meta00640	Propanoate metabolism - Methylobacterium sp. AMS5
+path:meta00643	Styrene degradation - Methylobacterium sp. AMS5
+path:meta00650	Butanoate metabolism - Methylobacterium sp. AMS5
+path:meta00660	C5-Branched dibasic acid metabolism - Methylobacterium sp. AMS5
+path:meta00670	One carbon pool by folate - Methylobacterium sp. AMS5
+path:meta00680	Methane metabolism - Methylobacterium sp. AMS5
+path:meta00710	Carbon fixation in photosynthetic organisms - Methylobacterium sp. AMS5
+path:meta00730	Thiamine metabolism - Methylobacterium sp. AMS5
+path:meta00740	Riboflavin metabolism - Methylobacterium sp. AMS5
+path:meta00750	Vitamin B6 metabolism - Methylobacterium sp. AMS5
+path:meta00760	Nicotinate and nicotinamide metabolism - Methylobacterium sp. AMS5
+path:meta00770	Pantothenate and CoA biosynthesis - Methylobacterium sp. AMS5
+path:meta00780	Biotin metabolism - Methylobacterium sp. AMS5
+path:meta00785	Lipoic acid metabolism - Methylobacterium sp. AMS5
+path:meta00790	Folate biosynthesis - Methylobacterium sp. AMS5
+path:meta00791	Atrazine degradation - Methylobacterium sp. AMS5
+path:meta00860	Porphyrin and chlorophyll metabolism - Methylobacterium sp. AMS5
+path:meta00900	Terpenoid backbone biosynthesis - Methylobacterium sp. AMS5
+path:meta00903	Limonene and pinene degradation - Methylobacterium sp. AMS5
+path:meta00906	Carotenoid biosynthesis - Methylobacterium sp. AMS5
+path:meta00909	Sesquiterpenoid and triterpenoid biosynthesis - Methylobacterium sp. AMS5
+path:meta00910	Nitrogen metabolism - Methylobacterium sp. AMS5
+path:meta00920	Sulfur metabolism - Methylobacterium sp. AMS5
+path:meta00930	Caprolactam degradation - Methylobacterium sp. AMS5
+path:meta00970	Aminoacyl-tRNA biosynthesis - Methylobacterium sp. AMS5
+path:meta01040	Biosynthesis of unsaturated fatty acids - Methylobacterium sp. AMS5
+path:meta01100	Metabolic pathways - Methylobacterium sp. AMS5
+path:meta01110	Biosynthesis of secondary metabolites - Methylobacterium sp. AMS5
+path:meta01120	Microbial metabolism in diverse environments - Methylobacterium sp. AMS5
+path:meta01130	Biosynthesis of antibiotics - Methylobacterium sp. AMS5
+path:meta01200	Carbon metabolism - Methylobacterium sp. AMS5
+path:meta01210	2-Oxocarboxylic acid metabolism - Methylobacterium sp. AMS5
+path:meta01212	Fatty acid metabolism - Methylobacterium sp. AMS5
+path:meta01220	Degradation of aromatic compounds - Methylobacterium sp. AMS5
+path:meta01230	Biosynthesis of amino acids - Methylobacterium sp. AMS5
+path:meta01501	beta-Lactam resistance - Methylobacterium sp. AMS5
+path:meta01502	Vancomycin resistance - Methylobacterium sp. AMS5
+path:meta01503	Cationic antimicrobial peptide (CAMP) resistance - Methylobacterium sp. AMS5
+path:meta02010	ABC transporters - Methylobacterium sp. AMS5
+path:meta02020	Two-component system - Methylobacterium sp. AMS5
+path:meta02024	Quorum sensing - Methylobacterium sp. AMS5
+path:meta02030	Bacterial chemotaxis - Methylobacterium sp. AMS5
+path:meta02040	Flagellar assembly - Methylobacterium sp. AMS5
+path:meta02060	Phosphotransferase system (PTS) - Methylobacterium sp. AMS5
+path:meta03010	Ribosome - Methylobacterium sp. AMS5
+path:meta03018	RNA degradation - Methylobacterium sp. AMS5
+path:meta03020	RNA polymerase - Methylobacterium sp. AMS5
+path:meta03030	DNA replication - Methylobacterium sp. AMS5
+path:meta03060	Protein export - Methylobacterium sp. AMS5
+path:meta03070	Bacterial secretion system - Methylobacterium sp. AMS5
+path:meta03410	Base excision repair - Methylobacterium sp. AMS5
+path:meta03420	Nucleotide excision repair - Methylobacterium sp. AMS5
+path:meta03430	Mismatch repair - Methylobacterium sp. AMS5
+path:meta03440	Homologous recombination - Methylobacterium sp. AMS5
+path:meta04122	Sulfur relay system - Methylobacterium sp. AMS5
+path:maqu00010	Glycolysis / Gluconeogenesis - Methylobacterium aquaticum
+path:maqu00020	Citrate cycle (TCA cycle) - Methylobacterium aquaticum
+path:maqu00030	Pentose phosphate pathway - Methylobacterium aquaticum
+path:maqu00040	Pentose and glucuronate interconversions - Methylobacterium aquaticum
+path:maqu00051	Fructose and mannose metabolism - Methylobacterium aquaticum
+path:maqu00052	Galactose metabolism - Methylobacterium aquaticum
+path:maqu00053	Ascorbate and aldarate metabolism - Methylobacterium aquaticum
+path:maqu00061	Fatty acid biosynthesis - Methylobacterium aquaticum
+path:maqu00071	Fatty acid degradation - Methylobacterium aquaticum
+path:maqu00072	Synthesis and degradation of ketone bodies - Methylobacterium aquaticum
+path:maqu00130	Ubiquinone and other terpenoid-quinone biosynthesis - Methylobacterium aquaticum
+path:maqu00190	Oxidative phosphorylation - Methylobacterium aquaticum
+path:maqu00220	Arginine biosynthesis - Methylobacterium aquaticum
+path:maqu00230	Purine metabolism - Methylobacterium aquaticum
+path:maqu00240	Pyrimidine metabolism - Methylobacterium aquaticum
+path:maqu00250	Alanine, aspartate and glutamate metabolism - Methylobacterium aquaticum
+path:maqu00260	Glycine, serine and threonine metabolism - Methylobacterium aquaticum
+path:maqu00261	Monobactam biosynthesis - Methylobacterium aquaticum
+path:maqu00270	Cysteine and methionine metabolism - Methylobacterium aquaticum
+path:maqu00280	Valine, leucine and isoleucine degradation - Methylobacterium aquaticum
+path:maqu00281	Geraniol degradation - Methylobacterium aquaticum
+path:maqu00290	Valine, leucine and isoleucine biosynthesis - Methylobacterium aquaticum
+path:maqu00300	Lysine biosynthesis - Methylobacterium aquaticum
+path:maqu00310	Lysine degradation - Methylobacterium aquaticum
+path:maqu00330	Arginine and proline metabolism - Methylobacterium aquaticum
+path:maqu00332	Carbapenem biosynthesis - Methylobacterium aquaticum
+path:maqu00340	Histidine metabolism - Methylobacterium aquaticum
+path:maqu00350	Tyrosine metabolism - Methylobacterium aquaticum
+path:maqu00360	Phenylalanine metabolism - Methylobacterium aquaticum
+path:maqu00361	Chlorocyclohexane and chlorobenzene degradation - Methylobacterium aquaticum
+path:maqu00362	Benzoate degradation - Methylobacterium aquaticum
+path:maqu00364	Fluorobenzoate degradation - Methylobacterium aquaticum
+path:maqu00365	Furfural degradation - Methylobacterium aquaticum
+path:maqu00380	Tryptophan metabolism - Methylobacterium aquaticum
+path:maqu00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Methylobacterium aquaticum
+path:maqu00401	Novobiocin biosynthesis - Methylobacterium aquaticum
+path:maqu00405	Phenazine biosynthesis - Methylobacterium aquaticum
+path:maqu00410	beta-Alanine metabolism - Methylobacterium aquaticum
+path:maqu00430	Taurine and hypotaurine metabolism - Methylobacterium aquaticum
+path:maqu00440	Phosphonate and phosphinate metabolism - Methylobacterium aquaticum
+path:maqu00450	Selenocompound metabolism - Methylobacterium aquaticum
+path:maqu00460	Cyanoamino acid metabolism - Methylobacterium aquaticum
+path:maqu00471	D-Glutamine and D-glutamate metabolism - Methylobacterium aquaticum
+path:maqu00472	D-Arginine and D-ornithine metabolism - Methylobacterium aquaticum
+path:maqu00473	D-Alanine metabolism - Methylobacterium aquaticum
+path:maqu00480	Glutathione metabolism - Methylobacterium aquaticum
+path:maqu00500	Starch and sucrose metabolism - Methylobacterium aquaticum
+path:maqu00520	Amino sugar and nucleotide sugar metabolism - Methylobacterium aquaticum
+path:maqu00521	Streptomycin biosynthesis - Methylobacterium aquaticum
+path:maqu00523	Polyketide sugar unit biosynthesis - Methylobacterium aquaticum
+path:maqu00525	Acarbose and validamycin biosynthesis - Methylobacterium aquaticum
+path:maqu00540	Lipopolysaccharide biosynthesis - Methylobacterium aquaticum
+path:maqu00550	Peptidoglycan biosynthesis - Methylobacterium aquaticum
+path:maqu00561	Glycerolipid metabolism - Methylobacterium aquaticum
+path:maqu00562	Inositol phosphate metabolism - Methylobacterium aquaticum
+path:maqu00564	Glycerophospholipid metabolism - Methylobacterium aquaticum
+path:maqu00590	Arachidonic acid metabolism - Methylobacterium aquaticum
+path:maqu00620	Pyruvate metabolism - Methylobacterium aquaticum
+path:maqu00621	Dioxin degradation - Methylobacterium aquaticum
+path:maqu00622	Xylene degradation - Methylobacterium aquaticum
+path:maqu00623	Toluene degradation - Methylobacterium aquaticum
+path:maqu00624	Polycyclic aromatic hydrocarbon degradation - Methylobacterium aquaticum
+path:maqu00625	Chloroalkane and chloroalkene degradation - Methylobacterium aquaticum
+path:maqu00626	Naphthalene degradation - Methylobacterium aquaticum
+path:maqu00627	Aminobenzoate degradation - Methylobacterium aquaticum
+path:maqu00630	Glyoxylate and dicarboxylate metabolism - Methylobacterium aquaticum
+path:maqu00640	Propanoate metabolism - Methylobacterium aquaticum
+path:maqu00643	Styrene degradation - Methylobacterium aquaticum
+path:maqu00650	Butanoate metabolism - Methylobacterium aquaticum
+path:maqu00660	C5-Branched dibasic acid metabolism - Methylobacterium aquaticum
+path:maqu00670	One carbon pool by folate - Methylobacterium aquaticum
+path:maqu00680	Methane metabolism - Methylobacterium aquaticum
+path:maqu00710	Carbon fixation in photosynthetic organisms - Methylobacterium aquaticum
+path:maqu00730	Thiamine metabolism - Methylobacterium aquaticum
+path:maqu00740	Riboflavin metabolism - Methylobacterium aquaticum
+path:maqu00750	Vitamin B6 metabolism - Methylobacterium aquaticum
+path:maqu00760	Nicotinate and nicotinamide metabolism - Methylobacterium aquaticum
+path:maqu00770	Pantothenate and CoA biosynthesis - Methylobacterium aquaticum
+path:maqu00780	Biotin metabolism - Methylobacterium aquaticum
+path:maqu00785	Lipoic acid metabolism - Methylobacterium aquaticum
+path:maqu00790	Folate biosynthesis - Methylobacterium aquaticum
+path:maqu00791	Atrazine degradation - Methylobacterium aquaticum
+path:maqu00860	Porphyrin and chlorophyll metabolism - Methylobacterium aquaticum
+path:maqu00900	Terpenoid backbone biosynthesis - Methylobacterium aquaticum
+path:maqu00903	Limonene and pinene degradation - Methylobacterium aquaticum
+path:maqu00906	Carotenoid biosynthesis - Methylobacterium aquaticum
+path:maqu00909	Sesquiterpenoid and triterpenoid biosynthesis - Methylobacterium aquaticum
+path:maqu00910	Nitrogen metabolism - Methylobacterium aquaticum
+path:maqu00920	Sulfur metabolism - Methylobacterium aquaticum
+path:maqu00930	Caprolactam degradation - Methylobacterium aquaticum
+path:maqu00970	Aminoacyl-tRNA biosynthesis - Methylobacterium aquaticum
+path:maqu01040	Biosynthesis of unsaturated fatty acids - Methylobacterium aquaticum
+path:maqu01054	Nonribosomal peptide structures - Methylobacterium aquaticum
+path:maqu01100	Metabolic pathways - Methylobacterium aquaticum
+path:maqu01110	Biosynthesis of secondary metabolites - Methylobacterium aquaticum
+path:maqu01120	Microbial metabolism in diverse environments - Methylobacterium aquaticum
+path:maqu01130	Biosynthesis of antibiotics - Methylobacterium aquaticum
+path:maqu01200	Carbon metabolism - Methylobacterium aquaticum
+path:maqu01210	2-Oxocarboxylic acid metabolism - Methylobacterium aquaticum
+path:maqu01212	Fatty acid metabolism - Methylobacterium aquaticum
+path:maqu01220	Degradation of aromatic compounds - Methylobacterium aquaticum
+path:maqu01230	Biosynthesis of amino acids - Methylobacterium aquaticum
+path:maqu01501	beta-Lactam resistance - Methylobacterium aquaticum
+path:maqu01502	Vancomycin resistance - Methylobacterium aquaticum
+path:maqu01503	Cationic antimicrobial peptide (CAMP) resistance - Methylobacterium aquaticum
+path:maqu02010	ABC transporters - Methylobacterium aquaticum
+path:maqu02020	Two-component system - Methylobacterium aquaticum
+path:maqu02024	Quorum sensing - Methylobacterium aquaticum
+path:maqu02030	Bacterial chemotaxis - Methylobacterium aquaticum
+path:maqu02040	Flagellar assembly - Methylobacterium aquaticum
+path:maqu02060	Phosphotransferase system (PTS) - Methylobacterium aquaticum
+path:maqu03010	Ribosome - Methylobacterium aquaticum
+path:maqu03018	RNA degradation - Methylobacterium aquaticum
+path:maqu03020	RNA polymerase - Methylobacterium aquaticum
+path:maqu03030	DNA replication - Methylobacterium aquaticum
+path:maqu03060	Protein export - Methylobacterium aquaticum
+path:maqu03070	Bacterial secretion system - Methylobacterium aquaticum
+path:maqu03410	Base excision repair - Methylobacterium aquaticum
+path:maqu03420	Nucleotide excision repair - Methylobacterium aquaticum
+path:maqu03430	Mismatch repair - Methylobacterium aquaticum
+path:maqu03440	Homologous recombination - Methylobacterium aquaticum
+path:maqu04122	Sulfur relay system - Methylobacterium aquaticum
+path:mphy00010	Glycolysis / Gluconeogenesis - Methylobacterium phyllosphaerae
+path:mphy00020	Citrate cycle (TCA cycle) - Methylobacterium phyllosphaerae
+path:mphy00030	Pentose phosphate pathway - Methylobacterium phyllosphaerae
+path:mphy00040	Pentose and glucuronate interconversions - Methylobacterium phyllosphaerae
+path:mphy00051	Fructose and mannose metabolism - Methylobacterium phyllosphaerae
+path:mphy00052	Galactose metabolism - Methylobacterium phyllosphaerae
+path:mphy00053	Ascorbate and aldarate metabolism - Methylobacterium phyllosphaerae
+path:mphy00061	Fatty acid biosynthesis - Methylobacterium phyllosphaerae
+path:mphy00071	Fatty acid degradation - Methylobacterium phyllosphaerae
+path:mphy00072	Synthesis and degradation of ketone bodies - Methylobacterium phyllosphaerae
+path:mphy00130	Ubiquinone and other terpenoid-quinone biosynthesis - Methylobacterium phyllosphaerae
+path:mphy00190	Oxidative phosphorylation - Methylobacterium phyllosphaerae
+path:mphy00220	Arginine biosynthesis - Methylobacterium phyllosphaerae
+path:mphy00230	Purine metabolism - Methylobacterium phyllosphaerae
+path:mphy00240	Pyrimidine metabolism - Methylobacterium phyllosphaerae
+path:mphy00250	Alanine, aspartate and glutamate metabolism - Methylobacterium phyllosphaerae
+path:mphy00260	Glycine, serine and threonine metabolism - Methylobacterium phyllosphaerae
+path:mphy00261	Monobactam biosynthesis - Methylobacterium phyllosphaerae
+path:mphy00270	Cysteine and methionine metabolism - Methylobacterium phyllosphaerae
+path:mphy00280	Valine, leucine and isoleucine degradation - Methylobacterium phyllosphaerae
+path:mphy00281	Geraniol degradation - Methylobacterium phyllosphaerae
+path:mphy00290	Valine, leucine and isoleucine biosynthesis - Methylobacterium phyllosphaerae
+path:mphy00300	Lysine biosynthesis - Methylobacterium phyllosphaerae
+path:mphy00310	Lysine degradation - Methylobacterium phyllosphaerae
+path:mphy00311	Penicillin and cephalosporin biosynthesis - Methylobacterium phyllosphaerae
+path:mphy00330	Arginine and proline metabolism - Methylobacterium phyllosphaerae
+path:mphy00332	Carbapenem biosynthesis - Methylobacterium phyllosphaerae
+path:mphy00340	Histidine metabolism - Methylobacterium phyllosphaerae
+path:mphy00350	Tyrosine metabolism - Methylobacterium phyllosphaerae
+path:mphy00360	Phenylalanine metabolism - Methylobacterium phyllosphaerae
+path:mphy00361	Chlorocyclohexane and chlorobenzene degradation - Methylobacterium phyllosphaerae
+path:mphy00362	Benzoate degradation - Methylobacterium phyllosphaerae
+path:mphy00364	Fluorobenzoate degradation - Methylobacterium phyllosphaerae
+path:mphy00365	Furfural degradation - Methylobacterium phyllosphaerae
+path:mphy00380	Tryptophan metabolism - Methylobacterium phyllosphaerae
+path:mphy00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Methylobacterium phyllosphaerae
+path:mphy00401	Novobiocin biosynthesis - Methylobacterium phyllosphaerae
+path:mphy00405	Phenazine biosynthesis - Methylobacterium phyllosphaerae
+path:mphy00410	beta-Alanine metabolism - Methylobacterium phyllosphaerae
+path:mphy00430	Taurine and hypotaurine metabolism - Methylobacterium phyllosphaerae
+path:mphy00440	Phosphonate and phosphinate metabolism - Methylobacterium phyllosphaerae
+path:mphy00450	Selenocompound metabolism - Methylobacterium phyllosphaerae
+path:mphy00460	Cyanoamino acid metabolism - Methylobacterium phyllosphaerae
+path:mphy00471	D-Glutamine and D-glutamate metabolism - Methylobacterium phyllosphaerae
+path:mphy00472	D-Arginine and D-ornithine metabolism - Methylobacterium phyllosphaerae
+path:mphy00473	D-Alanine metabolism - Methylobacterium phyllosphaerae
+path:mphy00480	Glutathione metabolism - Methylobacterium phyllosphaerae
+path:mphy00500	Starch and sucrose metabolism - Methylobacterium phyllosphaerae
+path:mphy00520	Amino sugar and nucleotide sugar metabolism - Methylobacterium phyllosphaerae
+path:mphy00521	Streptomycin biosynthesis - Methylobacterium phyllosphaerae
+path:mphy00523	Polyketide sugar unit biosynthesis - Methylobacterium phyllosphaerae
+path:mphy00525	Acarbose and validamycin biosynthesis - Methylobacterium phyllosphaerae
+path:mphy00540	Lipopolysaccharide biosynthesis - Methylobacterium phyllosphaerae
+path:mphy00550	Peptidoglycan biosynthesis - Methylobacterium phyllosphaerae
+path:mphy00561	Glycerolipid metabolism - Methylobacterium phyllosphaerae
+path:mphy00562	Inositol phosphate metabolism - Methylobacterium phyllosphaerae
+path:mphy00564	Glycerophospholipid metabolism - Methylobacterium phyllosphaerae
+path:mphy00590	Arachidonic acid metabolism - Methylobacterium phyllosphaerae
+path:mphy00592	alpha-Linolenic acid metabolism - Methylobacterium phyllosphaerae
+path:mphy00600	Sphingolipid metabolism - Methylobacterium phyllosphaerae
+path:mphy00620	Pyruvate metabolism - Methylobacterium phyllosphaerae
+path:mphy00623	Toluene degradation - Methylobacterium phyllosphaerae
+path:mphy00624	Polycyclic aromatic hydrocarbon degradation - Methylobacterium phyllosphaerae
+path:mphy00625	Chloroalkane and chloroalkene degradation - Methylobacterium phyllosphaerae
+path:mphy00626	Naphthalene degradation - Methylobacterium phyllosphaerae
+path:mphy00627	Aminobenzoate degradation - Methylobacterium phyllosphaerae
+path:mphy00630	Glyoxylate and dicarboxylate metabolism - Methylobacterium phyllosphaerae
+path:mphy00640	Propanoate metabolism - Methylobacterium phyllosphaerae
+path:mphy00643	Styrene degradation - Methylobacterium phyllosphaerae
+path:mphy00650	Butanoate metabolism - Methylobacterium phyllosphaerae
+path:mphy00660	C5-Branched dibasic acid metabolism - Methylobacterium phyllosphaerae
+path:mphy00670	One carbon pool by folate - Methylobacterium phyllosphaerae
+path:mphy00680	Methane metabolism - Methylobacterium phyllosphaerae
+path:mphy00710	Carbon fixation in photosynthetic organisms - Methylobacterium phyllosphaerae
+path:mphy00730	Thiamine metabolism - Methylobacterium phyllosphaerae
+path:mphy00740	Riboflavin metabolism - Methylobacterium phyllosphaerae
+path:mphy00750	Vitamin B6 metabolism - Methylobacterium phyllosphaerae
+path:mphy00760	Nicotinate and nicotinamide metabolism - Methylobacterium phyllosphaerae
+path:mphy00770	Pantothenate and CoA biosynthesis - Methylobacterium phyllosphaerae
+path:mphy00780	Biotin metabolism - Methylobacterium phyllosphaerae
+path:mphy00785	Lipoic acid metabolism - Methylobacterium phyllosphaerae
+path:mphy00790	Folate biosynthesis - Methylobacterium phyllosphaerae
+path:mphy00791	Atrazine degradation - Methylobacterium phyllosphaerae
+path:mphy00860	Porphyrin and chlorophyll metabolism - Methylobacterium phyllosphaerae
+path:mphy00900	Terpenoid backbone biosynthesis - Methylobacterium phyllosphaerae
+path:mphy00903	Limonene and pinene degradation - Methylobacterium phyllosphaerae
+path:mphy00906	Carotenoid biosynthesis - Methylobacterium phyllosphaerae
+path:mphy00909	Sesquiterpenoid and triterpenoid biosynthesis - Methylobacterium phyllosphaerae
+path:mphy00910	Nitrogen metabolism - Methylobacterium phyllosphaerae
+path:mphy00920	Sulfur metabolism - Methylobacterium phyllosphaerae
+path:mphy00930	Caprolactam degradation - Methylobacterium phyllosphaerae
+path:mphy00970	Aminoacyl-tRNA biosynthesis - Methylobacterium phyllosphaerae
+path:mphy01040	Biosynthesis of unsaturated fatty acids - Methylobacterium phyllosphaerae
+path:mphy01100	Metabolic pathways - Methylobacterium phyllosphaerae
+path:mphy01110	Biosynthesis of secondary metabolites - Methylobacterium phyllosphaerae
+path:mphy01120	Microbial metabolism in diverse environments - Methylobacterium phyllosphaerae
+path:mphy01130	Biosynthesis of antibiotics - Methylobacterium phyllosphaerae
+path:mphy01200	Carbon metabolism - Methylobacterium phyllosphaerae
+path:mphy01210	2-Oxocarboxylic acid metabolism - Methylobacterium phyllosphaerae
+path:mphy01212	Fatty acid metabolism - Methylobacterium phyllosphaerae
+path:mphy01220	Degradation of aromatic compounds - Methylobacterium phyllosphaerae
+path:mphy01230	Biosynthesis of amino acids - Methylobacterium phyllosphaerae
+path:mphy01501	beta-Lactam resistance - Methylobacterium phyllosphaerae
+path:mphy01502	Vancomycin resistance - Methylobacterium phyllosphaerae
+path:mphy01503	Cationic antimicrobial peptide (CAMP) resistance - Methylobacterium phyllosphaerae
+path:mphy02010	ABC transporters - Methylobacterium phyllosphaerae
+path:mphy02020	Two-component system - Methylobacterium phyllosphaerae
+path:mphy02024	Quorum sensing - Methylobacterium phyllosphaerae
+path:mphy02030	Bacterial chemotaxis - Methylobacterium phyllosphaerae
+path:mphy02040	Flagellar assembly - Methylobacterium phyllosphaerae
+path:mphy02060	Phosphotransferase system (PTS) - Methylobacterium phyllosphaerae
+path:mphy03010	Ribosome - Methylobacterium phyllosphaerae
+path:mphy03018	RNA degradation - Methylobacterium phyllosphaerae
+path:mphy03020	RNA polymerase - Methylobacterium phyllosphaerae
+path:mphy03030	DNA replication - Methylobacterium phyllosphaerae
+path:mphy03060	Protein export - Methylobacterium phyllosphaerae
+path:mphy03070	Bacterial secretion system - Methylobacterium phyllosphaerae
+path:mphy03410	Base excision repair - Methylobacterium phyllosphaerae
+path:mphy03420	Nucleotide excision repair - Methylobacterium phyllosphaerae
+path:mphy03430	Mismatch repair - Methylobacterium phyllosphaerae
+path:mphy03440	Homologous recombination - Methylobacterium phyllosphaerae
+path:mphy04122	Sulfur relay system - Methylobacterium phyllosphaerae
+path:mza00010	Glycolysis / Gluconeogenesis - Methylobacterium zatmanii
+path:mza00020	Citrate cycle (TCA cycle) - Methylobacterium zatmanii
+path:mza00030	Pentose phosphate pathway - Methylobacterium zatmanii
+path:mza00040	Pentose and glucuronate interconversions - Methylobacterium zatmanii
+path:mza00051	Fructose and mannose metabolism - Methylobacterium zatmanii
+path:mza00052	Galactose metabolism - Methylobacterium zatmanii
+path:mza00053	Ascorbate and aldarate metabolism - Methylobacterium zatmanii
+path:mza00061	Fatty acid biosynthesis - Methylobacterium zatmanii
+path:mza00071	Fatty acid degradation - Methylobacterium zatmanii
+path:mza00072	Synthesis and degradation of ketone bodies - Methylobacterium zatmanii
+path:mza00121	Secondary bile acid biosynthesis - Methylobacterium zatmanii
+path:mza00130	Ubiquinone and other terpenoid-quinone biosynthesis - Methylobacterium zatmanii
+path:mza00190	Oxidative phosphorylation - Methylobacterium zatmanii
+path:mza00220	Arginine biosynthesis - Methylobacterium zatmanii
+path:mza00230	Purine metabolism - Methylobacterium zatmanii
+path:mza00240	Pyrimidine metabolism - Methylobacterium zatmanii
+path:mza00250	Alanine, aspartate and glutamate metabolism - Methylobacterium zatmanii
+path:mza00260	Glycine, serine and threonine metabolism - Methylobacterium zatmanii
+path:mza00261	Monobactam biosynthesis - Methylobacterium zatmanii
+path:mza00270	Cysteine and methionine metabolism - Methylobacterium zatmanii
+path:mza00280	Valine, leucine and isoleucine degradation - Methylobacterium zatmanii
+path:mza00281	Geraniol degradation - Methylobacterium zatmanii
+path:mza00290	Valine, leucine and isoleucine biosynthesis - Methylobacterium zatmanii
+path:mza00300	Lysine biosynthesis - Methylobacterium zatmanii
+path:mza00310	Lysine degradation - Methylobacterium zatmanii
+path:mza00330	Arginine and proline metabolism - Methylobacterium zatmanii
+path:mza00332	Carbapenem biosynthesis - Methylobacterium zatmanii
+path:mza00340	Histidine metabolism - Methylobacterium zatmanii
+path:mza00350	Tyrosine metabolism - Methylobacterium zatmanii
+path:mza00360	Phenylalanine metabolism - Methylobacterium zatmanii
+path:mza00361	Chlorocyclohexane and chlorobenzene degradation - Methylobacterium zatmanii
+path:mza00362	Benzoate degradation - Methylobacterium zatmanii
+path:mza00364	Fluorobenzoate degradation - Methylobacterium zatmanii
+path:mza00380	Tryptophan metabolism - Methylobacterium zatmanii
+path:mza00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Methylobacterium zatmanii
+path:mza00401	Novobiocin biosynthesis - Methylobacterium zatmanii
+path:mza00405	Phenazine biosynthesis - Methylobacterium zatmanii
+path:mza00410	beta-Alanine metabolism - Methylobacterium zatmanii
+path:mza00430	Taurine and hypotaurine metabolism - Methylobacterium zatmanii
+path:mza00440	Phosphonate and phosphinate metabolism - Methylobacterium zatmanii
+path:mza00450	Selenocompound metabolism - Methylobacterium zatmanii
+path:mza00460	Cyanoamino acid metabolism - Methylobacterium zatmanii
+path:mza00471	D-Glutamine and D-glutamate metabolism - Methylobacterium zatmanii
+path:mza00472	D-Arginine and D-ornithine metabolism - Methylobacterium zatmanii
+path:mza00473	D-Alanine metabolism - Methylobacterium zatmanii
+path:mza00480	Glutathione metabolism - Methylobacterium zatmanii
+path:mza00500	Starch and sucrose metabolism - Methylobacterium zatmanii
+path:mza00520	Amino sugar and nucleotide sugar metabolism - Methylobacterium zatmanii
+path:mza00521	Streptomycin biosynthesis - Methylobacterium zatmanii
+path:mza00523	Polyketide sugar unit biosynthesis - Methylobacterium zatmanii
+path:mza00525	Acarbose and validamycin biosynthesis - Methylobacterium zatmanii
+path:mza00540	Lipopolysaccharide biosynthesis - Methylobacterium zatmanii
+path:mza00550	Peptidoglycan biosynthesis - Methylobacterium zatmanii
+path:mza00561	Glycerolipid metabolism - Methylobacterium zatmanii
+path:mza00562	Inositol phosphate metabolism - Methylobacterium zatmanii
+path:mza00564	Glycerophospholipid metabolism - Methylobacterium zatmanii
+path:mza00590	Arachidonic acid metabolism - Methylobacterium zatmanii
+path:mza00600	Sphingolipid metabolism - Methylobacterium zatmanii
+path:mza00620	Pyruvate metabolism - Methylobacterium zatmanii
+path:mza00621	Dioxin degradation - Methylobacterium zatmanii
+path:mza00622	Xylene degradation - Methylobacterium zatmanii
+path:mza00623	Toluene degradation - Methylobacterium zatmanii
+path:mza00624	Polycyclic aromatic hydrocarbon degradation - Methylobacterium zatmanii
+path:mza00625	Chloroalkane and chloroalkene degradation - Methylobacterium zatmanii
+path:mza00626	Naphthalene degradation - Methylobacterium zatmanii
+path:mza00627	Aminobenzoate degradation - Methylobacterium zatmanii
+path:mza00630	Glyoxylate and dicarboxylate metabolism - Methylobacterium zatmanii
+path:mza00640	Propanoate metabolism - Methylobacterium zatmanii
+path:mza00643	Styrene degradation - Methylobacterium zatmanii
+path:mza00650	Butanoate metabolism - Methylobacterium zatmanii
+path:mza00660	C5-Branched dibasic acid metabolism - Methylobacterium zatmanii
+path:mza00670	One carbon pool by folate - Methylobacterium zatmanii
+path:mza00680	Methane metabolism - Methylobacterium zatmanii
+path:mza00710	Carbon fixation in photosynthetic organisms - Methylobacterium zatmanii
+path:mza00730	Thiamine metabolism - Methylobacterium zatmanii
+path:mza00740	Riboflavin metabolism - Methylobacterium zatmanii
+path:mza00750	Vitamin B6 metabolism - Methylobacterium zatmanii
+path:mza00760	Nicotinate and nicotinamide metabolism - Methylobacterium zatmanii
+path:mza00770	Pantothenate and CoA biosynthesis - Methylobacterium zatmanii
+path:mza00780	Biotin metabolism - Methylobacterium zatmanii
+path:mza00785	Lipoic acid metabolism - Methylobacterium zatmanii
+path:mza00790	Folate biosynthesis - Methylobacterium zatmanii
+path:mza00791	Atrazine degradation - Methylobacterium zatmanii
+path:mza00860	Porphyrin and chlorophyll metabolism - Methylobacterium zatmanii
+path:mza00900	Terpenoid backbone biosynthesis - Methylobacterium zatmanii
+path:mza00903	Limonene and pinene degradation - Methylobacterium zatmanii
+path:mza00906	Carotenoid biosynthesis - Methylobacterium zatmanii
+path:mza00909	Sesquiterpenoid and triterpenoid biosynthesis - Methylobacterium zatmanii
+path:mza00910	Nitrogen metabolism - Methylobacterium zatmanii
+path:mza00920	Sulfur metabolism - Methylobacterium zatmanii
+path:mza00930	Caprolactam degradation - Methylobacterium zatmanii
+path:mza00970	Aminoacyl-tRNA biosynthesis - Methylobacterium zatmanii
+path:mza01040	Biosynthesis of unsaturated fatty acids - Methylobacterium zatmanii
+path:mza01100	Metabolic pathways - Methylobacterium zatmanii
+path:mza01110	Biosynthesis of secondary metabolites - Methylobacterium zatmanii
+path:mza01120	Microbial metabolism in diverse environments - Methylobacterium zatmanii
+path:mza01130	Biosynthesis of antibiotics - Methylobacterium zatmanii
+path:mza01200	Carbon metabolism - Methylobacterium zatmanii
+path:mza01210	2-Oxocarboxylic acid metabolism - Methylobacterium zatmanii
+path:mza01212	Fatty acid metabolism - Methylobacterium zatmanii
+path:mza01220	Degradation of aromatic compounds - Methylobacterium zatmanii
+path:mza01230	Biosynthesis of amino acids - Methylobacterium zatmanii
+path:mza01501	beta-Lactam resistance - Methylobacterium zatmanii
+path:mza01502	Vancomycin resistance - Methylobacterium zatmanii
+path:mza01503	Cationic antimicrobial peptide (CAMP) resistance - Methylobacterium zatmanii
+path:mza02010	ABC transporters - Methylobacterium zatmanii
+path:mza02020	Two-component system - Methylobacterium zatmanii
+path:mza02024	Quorum sensing - Methylobacterium zatmanii
+path:mza02030	Bacterial chemotaxis - Methylobacterium zatmanii
+path:mza02040	Flagellar assembly - Methylobacterium zatmanii
+path:mza02060	Phosphotransferase system (PTS) - Methylobacterium zatmanii
+path:mza03010	Ribosome - Methylobacterium zatmanii
+path:mza03018	RNA degradation - Methylobacterium zatmanii
+path:mza03020	RNA polymerase - Methylobacterium zatmanii
+path:mza03030	DNA replication - Methylobacterium zatmanii
+path:mza03060	Protein export - Methylobacterium zatmanii
+path:mza03070	Bacterial secretion system - Methylobacterium zatmanii
+path:mza03410	Base excision repair - Methylobacterium zatmanii
+path:mza03420	Nucleotide excision repair - Methylobacterium zatmanii
+path:mza03430	Mismatch repair - Methylobacterium zatmanii
+path:mza03440	Homologous recombination - Methylobacterium zatmanii
+path:mza04122	Sulfur relay system - Methylobacterium zatmanii

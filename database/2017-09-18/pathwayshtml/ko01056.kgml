@@ -1,0 +1,354 @@
+<html>
+<!---
+ENTRY       ko01056
+DEFINITION  Biosynthesis of type II polyketide backbone
+--->
+<head>
+<title>
+KEGG PATHWAY: Biosynthesis of type II polyketide backbone
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Biosynthesis of type II polyketide backbone</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=01056&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map01056.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko01056">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko01056&format=kgml">Download KGML</a>
+
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="ec">Reference pathway (EC)</option>
+<option value="rn">Reference pathway (Reaction)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="plu">Photorhabdus luminescens</option>
+<option value="ptt">Photorhabdus temperata</option>
+<option value="hoe">Hoeflea sp. IMCC20628</option>
+<option value="abf">Azospirillum brasilense Sp7</option>
+<option value="nbr">Nocardia brasiliensis</option>
+<option value="nno">Nocardia nova</option>
+<option value="sco">Streptomyces coelicolor</option>
+<option value="sma">Streptomyces avermitilis</option>
+<option value="ssx">Streptomyces sp. SirexAA-E</option>
+<option value="sfa">Streptomyces pratensis</option>
+<option value="sbh">Streptomyces bingchenggensis</option>
+<option value="shy">Streptomyces hygroscopicus subsp. jinggangensis 5008</option>
+<option value="sho">Streptomyces hygroscopicus subsp. jinggangensis TL01</option>
+<option value="sve">Streptomyces venezuelae</option>
+<option value="sdv">Streptomyces davawensis</option>
+<option value="sals">Streptomyces albus DSM 41398</option>
+<option value="strp">Streptomyces sp. PAMC 26508</option>
+<option value="sfi">Streptomyces fulvissimus</option>
+<option value="sci">Streptomyces collinus</option>
+<option value="salu">Streptomyces albulus NK660</option>
+<option value="sall">Streptomyces albulus ZPM</option>
+<option value="slv">Streptomyces lividans</option>
+<option value="sgu">Streptomyces glaucescens</option>
+<option value="svt">Streptomyces vietnamensis</option>
+<option value="stre">Streptomyces sp. 769</option>
+<option value="scw">Streptomyces cyaneogriseus</option>
+<option value="sld">Streptomyces sp. A02</option>
+<option value="sxi">Streptomyces xiamenensis</option>
+<option value="strm">Streptomyces sp. Mg1</option>
+<option value="strc">Streptomyces sp. CNQ-509</option>
+<option value="samb">Streptomyces ambofaciens</option>
+<option value="spri">Streptomyces pristinaespiralis</option>
+<option value="scz">Streptomyces sp. CFMR 7</option>
+<option value="scx">Streptomyces sp. CdTB01</option>
+<option value="srw">Streptomyces reticuli</option>
+<option value="strf">Streptomyces sp. 4F</option>
+<option value="spav">Streptomyces parvulus</option>
+<option value="sgs">Streptomyces griseochromogenes</option>
+<option value="sls">Streptomyces lincolnensis</option>
+<option value="strd">Streptomyces sp. CCM_MD2014</option>
+<option value="ksk">Kitasatospora setae</option>
+<option value="kab">Kitasatospora albolonga</option>
+<option value="kau">Kitasatospora aureofaciens</option>
+<option value="lmoi">Luteipulveratus mongoliensis</option>
+<option value="tfu">Thermobifida fusca</option>
+<option value="tcu">Thermomonospora curvata</option>
+<option value="sro">Streptosporangium roseum</option>
+<option value="noa">Nonomuraea sp. ATCC 55076</option>
+<option value="fra">Frankia sp. CcI3</option>
+<option value="fri">Frankia sp. EuI1c</option>
+<option value="svi">Saccharomonospora viridis</option>
+<option value="amd">Amycolatopsis mediterranei U32</option>
+<option value="amn">Amycolatopsis mediterranei S699</option>
+<option value="amm">Amycolatopsis mediterranei S699</option>
+<option value="amz">Amycolatopsis mediterranei RB</option>
+<option value="alu">Amycolatopsis lurida</option>
+<option value="pseq">Pseudonocardia sp. EC080610-09</option>
+<option value="pecq">Pseudonocardia sp EC080619-01</option>
+<option value="phh">Pseudonocardia sp. HH130630-07</option>
+<option value="sesp">Saccharothrix espanaensis</option>
+<option value="kal">Kutzneria albida</option>
+<option value="kphy">Kibdelosporangium phytohabitans</option>
+<option value="led">Lentzea guizhouensis</option>
+<option value="ahm">Actinoalloteichus hymeniacidonis</option>
+<option value="acti">Actinoalloteichus sp. GBA129-24</option>
+<option value="acad">Actinoalloteichus sp. ADI127-7</option>
+<option value="ahg">Actinoalloteichus hoggarensis</option>
+<option value="all">Alloactinosynnema sp. L-07</option>
+<option value="pmad">Prauserella marina</option>
+<option value="stp">Salinispora tropica</option>
+<option value="mau">Micromonospora aurantiaca</option>
+<option value="mil">Micromonospora sp. L5</option>
+<option value="vma">Verrucosispora maris</option>
+<option value="ams">Actinoplanes missouriensis</option>
+<option value="actn">Actinoplanes sp. N902-109</option>
+<option value="cai">Catenulispora acidiphila</option>
+<option value="cep">Crinalium epipsammum</option>
+<option value="csg">Cylindrospermum stagnale</option>
+</select>
+<input type="hidden" name="mapno" value="01056" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko01056" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko01056.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=887,297,4	href="/dbget-bin/www_bget?C12354+C12355+C12356"	title="C12354 (3,5,7,9,11,13,15,17,19-Nonaoxo-eicosanoyl-[acp]), C12355 (3,5,7,9,11,13,15,17,19-Nonaoxo-henicosanoyl-[acp]), C12356 (3,5,7,9,11,13,15,17,19-Nonaoxo-docosanoyl-[acp])" onmouseover="popupTimer(&quot;C12354&quot;, &quot;C12354 (3,5,7,9,11,13,15,17,19-Nonaoxo-eicosanoyl-[acp]), C12355 (3,5,7,9,11,13,15,17,19-Nonaoxo-henicosanoyl-[acp]), C12356 (3,5,7,9,11,13,15,17,19-Nonaoxo-docosanoyl-[acp])&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=179,525,4	href="/dbget-bin/www_bget?C18327"	title="C18327 (7,9,12-Octaketide intermediate 1)" onmouseover="popupTimer(&quot;C18327&quot;, &quot;C18327 (7,9,12-Octaketide intermediate 1)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=415,297,4	href="/dbget-bin/www_bget?C12441"	title="C12441 (18-Carbamoyl-3,5,7,9,11,13,15,17-octaoxooctadecanoyl-[acp])" onmouseover="popupTimer(&quot;C12441&quot;, &quot;C12441 (18-Carbamoyl-3,5,7,9,11,13,15,17-octaoxooctadecanoyl-[acp])&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=252,191,4	href="/dbget-bin/www_bget?C00083"	title="C00083 (Malonyl-CoA)" onmouseover="popupTimer(&quot;C00083&quot;, &quot;C00083 (Malonyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=179,297,4	href="/dbget-bin/www_bget?C12348+C12350"	title="C12348 (3,5,7,9,11,13,15-Heptaoxo-hexadecanoyl-[acp]), C12350 (3,5,7,9,11,13,15-Heptaoxo-octadecanoyl-[acp])" onmouseover="popupTimer(&quot;C12348&quot;, &quot;C12348 (3,5,7,9,11,13,15-Heptaoxo-hexadecanoyl-[acp]), C12350 (3,5,7,9,11,13,15-Heptaoxo-octadecanoyl-[acp])&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=179,126,4	href="/dbget-bin/www_bget?C00024+C00083+C00100+C00136+C21430"	title="C00024 (Acetyl-CoA), C00083 (Malonyl-CoA), C00100 (Propanoyl-CoA), C00136 (Butanoyl-CoA), C21430 (Malonamoyl-[acyl-carrier protein])" onmouseover="popupTimer(&quot;C00024&quot;, &quot;C00024 (Acetyl-CoA), C00083 (Malonyl-CoA), C00100 (Propanoyl-CoA), C00136 (Butanoyl-CoA), C21430 (Malonamoyl-[acyl-carrier protein])&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=664,525,4	href="/dbget-bin/www_bget?C18330+C18333"	title="C18330 (7,9,12-Decaketide intermediate 1), C18333 (7,9,12-Decaketide intermediate 4)" onmouseover="popupTimer(&quot;C18330&quot;, &quot;C18330 (7,9,12-Decaketide intermediate 1), C18333 (7,9,12-Decaketide intermediate 4)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=887,800,4	href="/dbget-bin/www_bget?C18336"	title="C18336 (7,12-Decaketide intermediate 1)" onmouseover="popupTimer(&quot;C18336&quot;, &quot;C18336 (7,12-Decaketide intermediate 1)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1119,800,4	href="/dbget-bin/www_bget?C18337"	title="C18337 (9,14-Decaketide intermediate 1)" onmouseover="popupTimer(&quot;C18337&quot;, &quot;C18337 (9,14-Decaketide intermediate 1)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=664,659,4	href="/dbget-bin/www_bget?C18331+C18334"	title="C18331 (7,9,12-Decaketide intermediate 2), C18334 (7,9,12-Decaketide intermediate 5)" onmouseover="popupTimer(&quot;C18331&quot;, &quot;C18331 (7,9,12-Decaketide intermediate 2), C18334 (7,9,12-Decaketide intermediate 5)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=415,659,4	href="/dbget-bin/www_bget?C12442"	title="C12442 (C-9 Reduced nonaketamide)" onmouseover="popupTimer(&quot;C12442&quot;, &quot;C12442 (C-9 Reduced nonaketamide)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=179,659,4	href="/dbget-bin/www_bget?C18328"	title="C18328 (7,9,12-Octaketide intermediate 2)" onmouseover="popupTimer(&quot;C18328&quot;, &quot;C18328 (7,9,12-Octaketide intermediate 2)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=179,800,4	href="/dbget-bin/www_bget?C18329"	title="C18329 (7,9,12-Octaketide intermediate 3)" onmouseover="popupTimer(&quot;C18329&quot;, &quot;C18329 (7,9,12-Octaketide intermediate 3)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=415,800,4	href="/dbget-bin/www_bget?C18293"	title="C18293 (Nonaketamide monocyclic intermediate)" onmouseover="popupTimer(&quot;C18293&quot;, &quot;C18293 (Nonaketamide monocyclic intermediate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=664,800,4	href="/dbget-bin/www_bget?C18332+C18335"	title="C18332 (7,9,12-Decaketide intermediate 3), C18335 (7,9,12-Decaketide intermediate 6)" onmouseover="popupTimer(&quot;C18332&quot;, &quot;C18332 (7,9,12-Decaketide intermediate 3), C18335 (7,9,12-Decaketide intermediate 6)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=865,694,911,711	href="/dbget-bin/www_bget?K15885"	title="K15885 (mtmQ)" />
+<area shape=rect	coords=1097,694,1143,711	href="/dbget-bin/www_bget?K15886"	title="K15886 (tcmN)" />
+<area shape=rect	coords=887,235,933,252	href="/dbget-bin/www_bget?K05552"	title="K05552 (actI2)" />
+<area shape=rect	coords=841,235,887,252	href="/dbget-bin/www_bget?K05551"	title="K05551 (actI1)" />
+<area shape=rect	coords=865,252,911,269	href="/dbget-bin/www_bget?K05553"	title="K05553 (actI3)" />
+<area shape=rect	coords=415,235,461,252	href="/dbget-bin/www_bget?K05552"	title="K05552 (actI2)" />
+<area shape=rect	coords=642,760,688,777	href="/dbget-bin/www_bget?K15884"	title="K15884 (snoaE)" />
+<area shape=rect	coords=157,760,203,777	href="/dbget-bin/www_bget?K05554"	title="K05554 (actVII)" />
+<area shape=rect	coords=157,619,203,636	href="/dbget-bin/www_bget?K12420"	title="K12420 (actIII)" />
+<area shape=rect	coords=156,252,202,269	href="/dbget-bin/www_bget?K05553"	title="K05553 (actI3)" />
+<area shape=rect	coords=179,235,225,252	href="/dbget-bin/www_bget?K05552"	title="K05552 (actI2)" />
+<area shape=rect	coords=393,580,439,597	href="/dbget-bin/www_bget?K12420"	title="K12420 (actIII)" />
+<area shape=rect	coords=642,619,688,636	href="/dbget-bin/www_bget?K12420"	title="K12420 (actIII)" />
+<area shape=rect	coords=393,760,439,777	href="/dbget-bin/www_bget?K14249"	title="K14249 (oxyK)" />
+<area shape=rect	coords=392,252,438,269	href="/dbget-bin/www_bget?K05553"	title="K05553 (actI3)" />
+<area shape=rect	coords=133,235,179,252	href="/dbget-bin/www_bget?K05551"	title="K05551 (actI1)" />
+<area shape=rect	coords=369,235,415,252	href="/dbget-bin/www_bget?K05551"	title="K05551 (actI1)" />
+<area shape=rect	coords=157,485,203,502	href="/dbget-bin/www_bget?K05553"	title="K05553 (actI3)" />
+<area shape=rect	coords=179,468,225,485	href="/dbget-bin/www_bget?K05552"	title="K05552 (actI2)" />
+<area shape=rect	coords=133,468,179,485	href="/dbget-bin/www_bget?K05551"	title="K05551 (actI1)" />
+<area shape=rect	coords=597,145,738,170	href="/kegg-bin/show_pathway?ko00253"	title="ko00253: Tetracycline biosynthesis" onmouseover="popupTimer(&quot;ko00253&quot;, &quot;ko00253: Tetracycline biosynthesis&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=466,178,587,203	href="/kegg-bin/show_pathway?ko00620"	title="ko00620: Pyruvate metabolism" onmouseover="popupTimer(&quot;ko00620&quot;, &quot;ko00620: Pyruvate metabolism&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=466,145,595,170	href="/kegg-bin/show_pathway?ko00650"	title="ko00650: Butanoate metabolism" onmouseover="popupTimer(&quot;ko00650&quot;, &quot;ko00650: Butanoate metabolism&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=466,116,690,141	href="/kegg-bin/show_pathway?ko00280"	title="ko00280: Valine, leucine and isoleucine degradation" onmouseover="popupTimer(&quot;ko00280&quot;, &quot;ko00280: Valine, leucine and isoleucine degradation&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=821,946,1050,971	href="/kegg-bin/show_pathway?ko01057"	title="ko01057: Biosynthesis of type II polyketide products" onmouseover="popupTimer(&quot;ko01057&quot;, &quot;ko01057: Biosynthesis of type II polyketide products&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=40,45,418,70	href="/dbget-bin/www_bget?ko01056"	title="ko01056: Biosynthesis of type II polyketide backbone" onmouseover="popupTimer(&quot;ko01056&quot;, &quot;ko01056: Biosynthesis of type II polyketide backbone&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

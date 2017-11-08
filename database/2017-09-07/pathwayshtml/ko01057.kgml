@@ -1,0 +1,575 @@
+<html>
+<!---
+ENTRY       ko01057
+DEFINITION  Biosynthesis of type II polyketide products
+--->
+<head>
+<title>
+KEGG PATHWAY: Biosynthesis of type II polyketide products
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Biosynthesis of type II polyketide products</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=01057&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map01057.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko01057">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko01057&format=kgml">Download KGML</a>
+
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="ec">Reference pathway (EC)</option>
+<option value="rn">Reference pathway (Reaction)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="msa">Mycobacterium sp. JS623</option>
+<option value="mab">Mycobacterium abscessus ATCC 19977</option>
+<option value="mabb">Mycobacterium abscessus subsp. bolletii 50594</option>
+<option value="mmv">Mycobacterium abscessus subsp. bolletii GO 06</option>
+<option value="may">Mycobacterium abscessus subsp. bolletii MA 1948</option>
+<option value="mabo">Mycobacterium abscessus subsp. bolletii MC1518</option>
+<option value="mabl">Mycobacterium abscessus subsp. bolletii CCUG 48898 = JCM 15300</option>
+<option value="maz">Mycobacterium abscessus subsp. bolletii 103</option>
+<option value="mak">Mycobacterium abscessus subsp. abscessus</option>
+<option value="mys">Mycobacterium abscessus DJO-44274</option>
+<option value="myc">Mycobacterium abscessus 4529</option>
+<option value="mche">Mycobacterium chelonae</option>
+<option value="miz">Mycobacterium immunogenum</option>
+<option value="mmi">Mycobacterium marinum M</option>
+<option value="mli">Mycobacterium liflandii</option>
+<option value="nbr">Nocardia brasiliensis</option>
+<option value="nno">Nocardia nova</option>
+<option value="rop">Rhodococcus opacus B4</option>
+<option value="sco">Streptomyces coelicolor</option>
+<option value="sma">Streptomyces avermitilis</option>
+<option value="scb">Streptomyces scabiei</option>
+<option value="ssx">Streptomyces sp. SirexAA-E</option>
+<option value="svl">Streptomyces violaceusniger</option>
+<option value="sct">Streptomyces cattleya NRRL 8057 = DSM 46488</option>
+<option value="scy">Streptomyces cattleya NRRL 8057 = DSM 46488</option>
+<option value="sfa">Streptomyces pratensis</option>
+<option value="sbh">Streptomyces bingchenggensis</option>
+<option value="shy">Streptomyces hygroscopicus subsp. jinggangensis 5008</option>
+<option value="sho">Streptomyces hygroscopicus subsp. jinggangensis TL01</option>
+<option value="sve">Streptomyces venezuelae</option>
+<option value="sdv">Streptomyces davawensis</option>
+<option value="sals">Streptomyces albus DSM 41398</option>
+<option value="strp">Streptomyces sp. PAMC 26508</option>
+<option value="sfi">Streptomyces fulvissimus</option>
+<option value="sci">Streptomyces collinus</option>
+<option value="src">Streptomyces rapamycinicus</option>
+<option value="salu">Streptomyces albulus NK660</option>
+<option value="sall">Streptomyces albulus ZPM</option>
+<option value="slv">Streptomyces lividans</option>
+<option value="sgu">Streptomyces glaucescens</option>
+<option value="svt">Streptomyces vietnamensis</option>
+<option value="stre">Streptomyces sp. 769</option>
+<option value="scw">Streptomyces cyaneogriseus</option>
+<option value="sld">Streptomyces sp. A02</option>
+<option value="sxi">Streptomyces xiamenensis</option>
+<option value="strm">Streptomyces sp. Mg1</option>
+<option value="strc">Streptomyces sp. CNQ-509</option>
+<option value="samb">Streptomyces ambofaciens</option>
+<option value="spri">Streptomyces pristinaespiralis</option>
+<option value="srw">Streptomyces reticuli</option>
+<option value="strf">Streptomyces sp. 4F</option>
+<option value="sle">Streptomyces leeuwenhoekii</option>
+<option value="spav">Streptomyces parvulus</option>
+<option value="slc">Streptomyces lydicus</option>
+<option value="sgs">Streptomyces griseochromogenes</option>
+<option value="stsi">Streptomyces sp. S10(2016)</option>
+<option value="sls">Streptomyces lincolnensis</option>
+<option value="snr">Streptomyces noursei</option>
+<option value="strd">Streptomyces sp. CCM_MD2014</option>
+<option value="ksk">Kitasatospora setae</option>
+<option value="ari">Arthrobacter sp. IHBB 11108</option>
+<option value="bly">Brevibacterium linens BS258</option>
+<option value="blin">Brevibacterium linens SMQ-1335</option>
+<option value="tfu">Thermobifida fusca</option>
+<option value="tcu">Thermomonospora curvata</option>
+<option value="sro">Streptosporangium roseum</option>
+<option value="noa">Nonomuraea sp. ATCC 55076</option>
+<option value="fra">Frankia sp. CcI3</option>
+<option value="fre">Frankia sp. EAN1pec</option>
+<option value="fri">Frankia sp. EuI1c</option>
+<option value="sen">Saccharopolyspora erythraea</option>
+<option value="amd">Amycolatopsis mediterranei U32</option>
+<option value="amn">Amycolatopsis mediterranei S699</option>
+<option value="amm">Amycolatopsis mediterranei S699</option>
+<option value="amz">Amycolatopsis mediterranei RB</option>
+<option value="aoi">Amycolatopsis orientalis</option>
+<option value="aja">Amycolatopsis japonica</option>
+<option value="amq">Amycolatopsis methanolica</option>
+<option value="alu">Amycolatopsis lurida</option>
+<option value="pseh">Pseudonocardia sp. HH130629-09</option>
+<option value="pseq">Pseudonocardia sp. EC080610-09</option>
+<option value="sesp">Saccharothrix espanaensis</option>
+<option value="kal">Kutzneria albida</option>
+<option value="kphy">Kibdelosporangium phytohabitans</option>
+<option value="led">Lentzea guizhouensis</option>
+<option value="stp">Salinispora tropica</option>
+<option value="mau">Micromonospora aurantiaca</option>
+<option value="mil">Micromonospora sp. L5</option>
+<option value="ams">Actinoplanes missouriensis</option>
+<option value="ase">Actinoplanes sp. SE50/110</option>
+<option value="cai">Catenulispora acidiphila</option>
+<option value="tbi">Thermobispora bispora</option>
+<option value="fmr">Fuerstia marisgermanicae</option>
+</select>
+<input type="hidden" name="mapno" value="01057" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko01057" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko01057.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=1781,466,4	href="/dbget-bin/www_bget?C12375"	title="C12375 (Tetracenomycin D3 methylester)" onmouseover="popupTimer(&quot;C12375&quot;, &quot;C12375 (Tetracenomycin D3 methylester)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1484,1013,4	href="/dbget-bin/www_bget?C18711"	title="C18711 (Mithramycin DK)" onmouseover="popupTimer(&quot;C18711&quot;, &quot;C18711 (Mithramycin DK)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1484,938,4	href="/dbget-bin/www_bget?C12388"	title="C12388 (Premithramycin B)" onmouseover="popupTimer(&quot;C12388&quot;, &quot;C12388 (Premithramycin B)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1484,788,4	href="/dbget-bin/www_bget?C12387"	title="C12387 (Premithramycin A3)" onmouseover="popupTimer(&quot;C12387&quot;, &quot;C12387 (Premithramycin A3)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1484,713,4	href="/dbget-bin/www_bget?C12386"	title="C12386 (Premithramycin A3')" onmouseover="popupTimer(&quot;C12386&quot;, &quot;C12386 (Premithramycin A3')&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1796,713,4	href="/dbget-bin/www_bget?C06801"	title="C06801 (Tetracenomycin C)" onmouseover="popupTimer(&quot;C06801&quot;, &quot;C06801 (Tetracenomycin C)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1796,638,4	href="/dbget-bin/www_bget?C12371"	title="C12371 (Tetracenomycin A2)" onmouseover="popupTimer(&quot;C12371&quot;, &quot;C12371 (Tetracenomycin A2)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1796,563,4	href="/dbget-bin/www_bget?C12370"	title="C12370 (Tetracenomycin E)" onmouseover="popupTimer(&quot;C12370&quot;, &quot;C12370 (Tetracenomycin E)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1704,713,4	href="/dbget-bin/www_bget?C12379"	title="C12379 (8-Demethyltetracenomycin C)" onmouseover="popupTimer(&quot;C12379&quot;, &quot;C12379 (8-Demethyltetracenomycin C)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1781,539,4	href="/dbget-bin/www_bget?C12377"	title="C12377 (Tetracenomycin B1)" onmouseover="popupTimer(&quot;C12377&quot;, &quot;C12377 (Tetracenomycin B1)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1484,638,4	href="/dbget-bin/www_bget?C12385"	title="C12385 (Premithramycin A2')" onmouseover="popupTimer(&quot;C12385&quot;, &quot;C12385 (Premithramycin A2')&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1484,563,4	href="/dbget-bin/www_bget?C12384"	title="C12384 (Premithramycin A1)" onmouseover="popupTimer(&quot;C12384&quot;, &quot;C12384 (Premithramycin A1)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1781,511,4	href="/dbget-bin/www_bget?C12376"	title="C12376 (Tetracenomycin D1)" onmouseover="popupTimer(&quot;C12376&quot;, &quot;C12376 (Tetracenomycin D1)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1704,638,4	href="/dbget-bin/www_bget?C12378"	title="C12378 (Tetracenomycin B2)" onmouseover="popupTimer(&quot;C12378&quot;, &quot;C12378 (Tetracenomycin B2)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1781,436,4	href="/dbget-bin/www_bget?C12374"	title="C12374 (Decarboxytetracenomycin F1)" onmouseover="popupTimer(&quot;C12374&quot;, &quot;C12374 (Decarboxytetracenomycin F1)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1781,391,4	href="/dbget-bin/www_bget?C12373"	title="C12373 (Tetracenomycin F1 methylester)" onmouseover="popupTimer(&quot;C12373&quot;, &quot;C12373 (Tetracenomycin F1 methylester)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1484,488,4	href="/dbget-bin/www_bget?C12383"	title="C12383 (Premithramycinone)" onmouseover="popupTimer(&quot;C12383&quot;, &quot;C12383 (Premithramycinone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1704,413,4	href="/dbget-bin/www_bget?C12367"	title="C12367 (Tetracenomycin F1)" onmouseover="popupTimer(&quot;C12367&quot;, &quot;C12367 (Tetracenomycin F1)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1484,413,4	href="/dbget-bin/www_bget?C12382"	title="C12382 (4-Demethylpremithramycinone)" onmouseover="popupTimer(&quot;C12382&quot;, &quot;C12382 (4-Demethylpremithramycinone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1704,338,4	href="/dbget-bin/www_bget?C12366"	title="C12366 (Tetracenomycin F2)" onmouseover="popupTimer(&quot;C12366&quot;, &quot;C12366 (Tetracenomycin F2)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1704,1088,4	href="/dbget-bin/www_bget?C12381"	title="C12381 (Elloramycin A)" onmouseover="popupTimer(&quot;C12381&quot;, &quot;C12381 (Elloramycin A)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1704,488,4	href="/dbget-bin/www_bget?C12368"	title="C12368 (Tetracenomycin D3)" onmouseover="popupTimer(&quot;C12368&quot;, &quot;C12368 (Tetracenomycin D3)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1704,563,4	href="/dbget-bin/www_bget?C12369"	title="C12369 (Tetracenomycin B3)" onmouseover="popupTimer(&quot;C12369&quot;, &quot;C12369 (Tetracenomycin B3)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1280,413,4	href="/dbget-bin/www_bget?C12421"	title="C12421 (Aklanonate)" onmouseover="popupTimer(&quot;C12421&quot;, &quot;C12421 (Aklanonate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1280,338,4	href="/dbget-bin/www_bget?C12420"	title="C12420 (12-Deoxyaklanonic acid)" onmouseover="popupTimer(&quot;C12420&quot;, &quot;C12420 (12-Deoxyaklanonic acid)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1280,788,4	href="/dbget-bin/www_bget?C12426"	title="C12426 (Rhodomycin D)" onmouseover="popupTimer(&quot;C12426&quot;, &quot;C12426 (Rhodomycin D)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1190,485,4	href="/dbget-bin/www_bget?C12418"	title="C12418 (Dihydro-NAME)" onmouseover="popupTimer(&quot;C12418&quot;, &quot;C12418 (Dihydro-NAME)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1280,863,4	href="/dbget-bin/www_bget?C12427"	title="C12427 (10-Carboxy-13-deoxycarminomycin)" onmouseover="popupTimer(&quot;C12427&quot;, &quot;C12427 (10-Carboxy-13-deoxycarminomycin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1280,488,4	href="/dbget-bin/www_bget?C12422"	title="C12422 (Methyl aklanonate)" onmouseover="popupTimer(&quot;C12422&quot;, &quot;C12422 (Methyl aklanonate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1280,563,4	href="/dbget-bin/www_bget?C12423"	title="C12423 (Aklaviketone)" onmouseover="popupTimer(&quot;C12423&quot;, &quot;C12423 (Aklaviketone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1280,638,4	href="/dbget-bin/www_bget?C12424"	title="C12424 (Aklavinone)" onmouseover="popupTimer(&quot;C12424&quot;, &quot;C12424 (Aklavinone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1280,713,4	href="/dbget-bin/www_bget?C12425"	title="C12425 (epsilon-Rhodomycinone)" onmouseover="popupTimer(&quot;C12425&quot;, &quot;C12425 (epsilon-Rhodomycinone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1068,638,4	href="/dbget-bin/www_bget?C18631"	title="C18631 (Nogalavinone)" onmouseover="popupTimer(&quot;C18631&quot;, &quot;C18631 (Nogalavinone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1068,413,4	href="/dbget-bin/www_bget?C12416"	title="C12416 (Nogalonate)" onmouseover="popupTimer(&quot;C12416&quot;, &quot;C12416 (Nogalonate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1280,938,4	href="/dbget-bin/www_bget?C12428"	title="C12428 (13-Deoxycarminomycin)" onmouseover="popupTimer(&quot;C12428&quot;, &quot;C12428 (13-Deoxycarminomycin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1280,1013,4	href="/dbget-bin/www_bget?C12429"	title="C12429 (13-Deoxydaunorubicin)" onmouseover="popupTimer(&quot;C12429&quot;, &quot;C12429 (13-Deoxydaunorubicin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=169,880,4	href="/dbget-bin/www_bget?C18358"	title="C18358 (DHKred-OH)" onmouseover="popupTimer(&quot;C18358&quot;, &quot;C18358 (DHKred-OH)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=169,721,4	href="/dbget-bin/www_bget?C12436"	title="C12436 (Dihydrokalafungin)" onmouseover="popupTimer(&quot;C12436&quot;, &quot;C12436 (Dihydrokalafungin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=169,638,4	href="/dbget-bin/www_bget?C12435"	title="C12435 (6-Deoxydihydrokalafungin)" onmouseover="popupTimer(&quot;C12435&quot;, &quot;C12435 (6-Deoxydihydrokalafungin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=169,563,4	href="/dbget-bin/www_bget?C12434"	title="C12434 ((S)-DNPA)" onmouseover="popupTimer(&quot;C12434&quot;, &quot;C12434 ((S)-DNPA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1098,1013,4	href="/dbget-bin/www_bget?C01907"	title="C01907 (Daunorubicin)" onmouseover="popupTimer(&quot;C01907&quot;, &quot;C01907 (Daunorubicin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=203,886,4	href="/dbget-bin/www_bget?C12437"	title="C12437 (Medermycin)" onmouseover="popupTimer(&quot;C12437&quot;, &quot;C12437 (Medermycin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1189,1013,4	href="/dbget-bin/www_bget?C12430"	title="C12430 (13-Dihydrodaunorubicin)" onmouseover="popupTimer(&quot;C12430&quot;, &quot;C12430 (13-Dihydrodaunorubicin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1189,938,4	href="/dbget-bin/www_bget?C12431"	title="C12431 (13-Dihydrocarminomycin)" onmouseover="popupTimer(&quot;C12431&quot;, &quot;C12431 (13-Dihydrocarminomycin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1007,1013,4	href="/dbget-bin/www_bget?C01661"	title="C01661 (Doxorubicin)" onmouseover="popupTimer(&quot;C01661&quot;, &quot;C01661 (Doxorubicin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1888,713,4	href="/dbget-bin/www_bget?C12380"	title="C12380 (Tetracenomycin X)" onmouseover="popupTimer(&quot;C12380&quot;, &quot;C12380 (Tetracenomycin X)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1068,488,4	href="/dbget-bin/www_bget?C12415"	title="C12415 (Methyl nogalonate)" onmouseover="popupTimer(&quot;C12415&quot;, &quot;C12415 (Methyl nogalonate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1068,563,4	href="/dbget-bin/www_bget?C18630"	title="C18630 (Nogalaviketone)" onmouseover="popupTimer(&quot;C18630&quot;, &quot;C18630 (Nogalaviketone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=967,988,4	href="/dbget-bin/www_bget?C12433"	title="C12433 ((13S)-13-Dihydrodaunorubicin)" onmouseover="popupTimer(&quot;C12433&quot;, &quot;C12433 ((13S)-13-Dihydrodaunorubicin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1098,938,4	href="/dbget-bin/www_bget?C12432"	title="C12432 (Carminomycin)" onmouseover="popupTimer(&quot;C12432&quot;, &quot;C12432 (Carminomycin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=169,338,4	href="/dbget-bin/www_bget?C18353"	title="C18353 (Octaketide bicyclic intermediate)" onmouseover="popupTimer(&quot;C18353&quot;, &quot;C18353 (Octaketide bicyclic intermediate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=169,413,4	href="/dbget-bin/www_bget?C18354"	title="C18354 ((S)-Chiral alcohol)" onmouseover="popupTimer(&quot;C18354&quot;, &quot;C18354 ((S)-Chiral alcohol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=450,338,4	href="/dbget-bin/www_bget?C18294"	title="C18294 (Nonaketamide tricyclic intermediate)" onmouseover="popupTimer(&quot;C18294&quot;, &quot;C18294 (Nonaketamide tricyclic intermediate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1068,338,4	href="/dbget-bin/www_bget?C18629"	title="C18629 (Deoxynogalonate)" onmouseover="popupTimer(&quot;C18629&quot;, &quot;C18629 (Deoxynogalonate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1166,638,4	href="/dbget-bin/www_bget?C12419"	title="C12419 (Auramycinone)" onmouseover="popupTimer(&quot;C12419&quot;, &quot;C12419 (Auramycinone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1166,563,4	href="/dbget-bin/www_bget?C12417"	title="C12417 (Auraviketone)" onmouseover="popupTimer(&quot;C12417&quot;, &quot;C12417 (Auraviketone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1068,713,4	href="/dbget-bin/www_bget?C18632"	title="C18632 (1-OH-Nogalamycinone)" onmouseover="popupTimer(&quot;C18632&quot;, &quot;C18632 (1-OH-Nogalamycinone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=450,413,4	href="/dbget-bin/www_bget?C18295"	title="C18295 (Pretetramid)" onmouseover="popupTimer(&quot;C18295&quot;, &quot;C18295 (Pretetramid)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=450,488,4	href="/dbget-bin/www_bget?C06629"	title="C06629 (6-Methylpretetramide)" onmouseover="popupTimer(&quot;C06629&quot;, &quot;C06629 (6-Methylpretetramide)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=450,549,4	href="/dbget-bin/www_bget?C06628"	title="C06628 (4-Hydroxy-6-methylpretetramide)" onmouseover="popupTimer(&quot;C06628&quot;, &quot;C06628 (4-Hydroxy-6-methylpretetramide)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=450,610,4	href="/dbget-bin/www_bget?C06627"	title="C06627 (4-Keto-anhydrotetracycline)" onmouseover="popupTimer(&quot;C06627&quot;, &quot;C06627 (4-Keto-anhydrotetracycline)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=450,685,4	href="/dbget-bin/www_bget?C06654"	title="C06654 (4-Amino-anhydrotetracycline)" onmouseover="popupTimer(&quot;C06654&quot;, &quot;C06654 (4-Amino-anhydrotetracycline)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=450,760,4	href="/dbget-bin/www_bget?C02811"	title="C02811 (Anhydrotetracycline)" onmouseover="popupTimer(&quot;C02811&quot;, &quot;C02811 (Anhydrotetracycline)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=450,835,4	href="/dbget-bin/www_bget?C03206"	title="C03206 (5a,11a-Dehydrotetracycline)" onmouseover="popupTimer(&quot;C03206&quot;, &quot;C03206 (5a,11a-Dehydrotetracycline)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=450,910,4	href="/dbget-bin/www_bget?C06570"	title="C06570 (Tetracycline)" onmouseover="popupTimer(&quot;C06570&quot;, &quot;C06570 (Tetracycline)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=541,835,4	href="/dbget-bin/www_bget?C18296"	title="C18296 (5a,11a-Dehydrooxytetracycline)" onmouseover="popupTimer(&quot;C18296&quot;, &quot;C18296 (5a,11a-Dehydrooxytetracycline)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=541,910,4	href="/dbget-bin/www_bget?C06624"	title="C06624 (Oxytetracycline)" onmouseover="popupTimer(&quot;C06624&quot;, &quot;C06624 (Oxytetracycline)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=358,910,4	href="/dbget-bin/www_bget?C06571"	title="C06571 (Chlortetracycline)" onmouseover="popupTimer(&quot;C06571&quot;, &quot;C06571 (Chlortetracycline)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1228,788,4	href="/dbget-bin/www_bget?C18634"	title="C18634 (Aclacinomycin T)" onmouseover="popupTimer(&quot;C18634&quot;, &quot;C18634 (Aclacinomycin T)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=169,180,4	href="/dbget-bin/www_bget?C18329"	title="C18329 (7,9,12-Octaketide intermediate 3)" onmouseover="popupTimer(&quot;C18329&quot;, &quot;C18329 (7,9,12-Octaketide intermediate 3)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=450,180,4	href="/dbget-bin/www_bget?C18293"	title="C18293 (Nonaketamide monocyclic intermediate)" onmouseover="popupTimer(&quot;C18293&quot;, &quot;C18293 (Nonaketamide monocyclic intermediate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1003,181,4	href="/dbget-bin/www_bget?C18332"	title="C18332 (7,9,12-Decaketide intermediate 3)" onmouseover="popupTimer(&quot;C18332&quot;, &quot;C18332 (7,9,12-Decaketide intermediate 3)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1280,181,4	href="/dbget-bin/www_bget?C18335"	title="C18335 (7,9,12-Decaketide intermediate 6)" onmouseover="popupTimer(&quot;C18335&quot;, &quot;C18335 (7,9,12-Decaketide intermediate 6)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1484,180,4	href="/dbget-bin/www_bget?C18336"	title="C18336 (7,12-Decaketide intermediate 1)" onmouseover="popupTimer(&quot;C18336&quot;, &quot;C18336 (7,12-Decaketide intermediate 1)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1704,180,4	href="/dbget-bin/www_bget?C18337"	title="C18337 (9,14-Decaketide intermediate 1)" onmouseover="popupTimer(&quot;C18337&quot;, &quot;C18337 (9,14-Decaketide intermediate 1)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1137,788,4	href="/dbget-bin/www_bget?C18635"	title="C18635 (Aclacinomycin S)" onmouseover="popupTimer(&quot;C18635&quot;, &quot;C18635 (Aclacinomycin S)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1137,863,4	href="/dbget-bin/www_bget?C18637"	title="C18637 (Aclacinomycin N)" onmouseover="popupTimer(&quot;C18637&quot;, &quot;C18637 (Aclacinomycin N)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=113,649,4	href="/dbget-bin/www_bget?C01847"	title="C01847 (Reduced FMN)" onmouseover="popupTimer(&quot;C01847&quot;, &quot;C01847 (Reduced FMN)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=113,701,4	href="/dbget-bin/www_bget?C00061"	title="C00061 (FMN)" onmouseover="popupTimer(&quot;C00061&quot;, &quot;C00061 (FMN)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=113,811,4	href="/dbget-bin/www_bget?C01847"	title="C01847 (Reduced FMN)" onmouseover="popupTimer(&quot;C01847&quot;, &quot;C01847 (Reduced FMN)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=113,863,4	href="/dbget-bin/www_bget?C00061"	title="C00061 (FMN)" onmouseover="popupTimer(&quot;C00061&quot;, &quot;C00061 (FMN)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=169,954,4	href="/dbget-bin/www_bget?C06691"	title="C06691 (Actinorhodin)" onmouseover="popupTimer(&quot;C06691&quot;, &quot;C06691 (Actinorhodin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=244,413,4	href="/dbget-bin/www_bget?C18355"	title="C18355 ((R)-Chiral alcohol)" onmouseover="popupTimer(&quot;C18355&quot;, &quot;C18355 ((R)-Chiral alcohol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=244,488,4	href="/dbget-bin/www_bget?C18357"	title="C18357 ((R)-Hemiketal)" onmouseover="popupTimer(&quot;C18357&quot;, &quot;C18357 ((R)-Hemiketal)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=169,488,4	href="/dbget-bin/www_bget?C18356"	title="C18356 ((S)-Hemiketal)" onmouseover="popupTimer(&quot;C18356&quot;, &quot;C18356 ((S)-Hemiketal)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=244,563,4	href="/dbget-bin/www_bget?C18835"	title="C18835 ((R)-DNPA)" onmouseover="popupTimer(&quot;C18835&quot;, &quot;C18835 ((R)-DNPA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=244,852,4	href="/dbget-bin/www_bget?C18359"	title="C18359 (Dihydrogranaticin)" onmouseover="popupTimer(&quot;C18359&quot;, &quot;C18359 (Dihydrogranaticin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=244,931,4	href="/dbget-bin/www_bget?C06799"	title="C06799 (Granaticin)" onmouseover="popupTimer(&quot;C06799&quot;, &quot;C06799 (Granaticin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=169,796,4	href="/dbget-bin/www_bget?C18360"	title="C18360 (Dihydrokalafungin dihydroquinone form)" onmouseover="popupTimer(&quot;C18360&quot;, &quot;C18360 (Dihydrokalafungin dihydroquinone form)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1068,766,4	href="/dbget-bin/www_bget?C18633"	title="C18633 (Nogalamycin)" onmouseover="popupTimer(&quot;C18633&quot;, &quot;C18633 (Nogalamycin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1372,788,4	href="/dbget-bin/www_bget?C18640"	title="C18640 (epsilon-Rhodomycin T)" onmouseover="popupTimer(&quot;C18640&quot;, &quot;C18640 (epsilon-Rhodomycin T)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1372,863,4	href="/dbget-bin/www_bget?C18641"	title="C18641 (15-Demethoxy-epsilon-rhodomycin)" onmouseover="popupTimer(&quot;C18641&quot;, &quot;C18641 (15-Demethoxy-epsilon-rhodomycin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1372,938,4	href="/dbget-bin/www_bget?C18642"	title="C18642 (beta-Rhodomycin)" onmouseover="popupTimer(&quot;C18642&quot;, &quot;C18642 (beta-Rhodomycin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1046,863,4	href="/dbget-bin/www_bget?C18638"	title="C18638 (Aclacinomycin A)" onmouseover="popupTimer(&quot;C18638&quot;, &quot;C18638 (Aclacinomycin A)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=955,863,4	href="/dbget-bin/www_bget?C18639"	title="C18639 (Aclacinomycin Y)" onmouseover="popupTimer(&quot;C18639&quot;, &quot;C18639 (Aclacinomycin Y)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1484,338,4	href="/dbget-bin/www_bget?C18709"	title="C18709 (Decaketide tricyclic intermediate)" onmouseover="popupTimer(&quot;C18709&quot;, &quot;C18709 (Decaketide tricyclic intermediate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1484,863,4	href="/dbget-bin/www_bget?C18710"	title="C18710 (3A-Deolivosylpremithramycin B)" onmouseover="popupTimer(&quot;C18710&quot;, &quot;C18710 (3A-Deolivosylpremithramycin B)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1484,1088,4	href="/dbget-bin/www_bget?C12389"	title="C12389 (Mithramycin)" onmouseover="popupTimer(&quot;C12389&quot;, &quot;C12389 (Mithramycin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=962,489,4	href="/dbget-bin/www_bget?C12391"	title="C12391 (Kinobscurinone)" onmouseover="popupTimer(&quot;C12391&quot;, &quot;C12391 (Kinobscurinone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=694,413,4	href="/dbget-bin/www_bget?C12402"	title="C12402 (Rabelomycin)" onmouseover="popupTimer(&quot;C12402&quot;, &quot;C12402 (Rabelomycin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=878,585,4	href="/dbget-bin/www_bget?C12395"	title="C12395 (Jadomycin B)" onmouseover="popupTimer(&quot;C12395&quot;, &quot;C12395 (Jadomycin B)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=793,658,4	href="/dbget-bin/www_bget?C12401"	title="C12401 (PD116740)" onmouseover="popupTimer(&quot;C12401&quot;, &quot;C12401 (PD116740)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=962,551,4	href="/dbget-bin/www_bget?C12392"	title="C12392 (Stealthin C)" onmouseover="popupTimer(&quot;C12392&quot;, &quot;C12392 (Stealthin C)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=962,613,4	href="/dbget-bin/www_bget?C12393"	title="C12393 (Prekinamycin)" onmouseover="popupTimer(&quot;C12393&quot;, &quot;C12393 (Prekinamycin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=962,675,4	href="/dbget-bin/www_bget?C12394"	title="C12394 (Kinamycin D)" onmouseover="popupTimer(&quot;C12394&quot;, &quot;C12394 (Kinamycin D)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=793,536,4	href="/dbget-bin/www_bget?C12399"	title="C12399 (19-Hydroxytetrangulol)" onmouseover="popupTimer(&quot;C12399&quot;, &quot;C12399 (19-Hydroxytetrangulol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=834,474,4	href="/dbget-bin/www_bget?C12451"	title="C12451 (Fridamycin E)" onmouseover="popupTimer(&quot;C12451&quot;, &quot;C12451 (Fridamycin E)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=878,511,4	href="/dbget-bin/www_bget?C18680"	title="C18680 (Jadomycin A)" onmouseover="popupTimer(&quot;C18680&quot;, &quot;C18680 (Jadomycin A)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=734,536,4	href="/dbget-bin/www_bget?C12398"	title="C12398 (8-O-Methyltetrangulol)" onmouseover="popupTimer(&quot;C12398&quot;, &quot;C12398 (8-O-Methyltetrangulol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=793,597,4	href="/dbget-bin/www_bget?C12400"	title="C12400 (19-Hydroxy-8-O-methyltetrangulol)" onmouseover="popupTimer(&quot;C12400&quot;, &quot;C12400 (19-Hydroxy-8-O-methyltetrangulol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=793,413,4	href="/dbget-bin/www_bget?C12396"	title="C12396 (Tetrangomycin)" onmouseover="popupTimer(&quot;C12396&quot;, &quot;C12396 (Tetrangomycin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=793,475,4	href="/dbget-bin/www_bget?C12397"	title="C12397 (Tetrangulol)" onmouseover="popupTimer(&quot;C12397&quot;, &quot;C12397 (Tetrangulol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=962,428,4	href="/dbget-bin/www_bget?C12390"	title="C12390 (Dehydrorabelomycin)" onmouseover="popupTimer(&quot;C12390&quot;, &quot;C12390 (Dehydrorabelomycin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=793,338,4	href="/dbget-bin/www_bget?C18678"	title="C18678 (UWM6)" onmouseover="popupTimer(&quot;C18678&quot;, &quot;C18678 (UWM6)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=878,372,4	href="/dbget-bin/www_bget?C18679"	title="C18679 (2,3-Dehydro-UWM6)" onmouseover="popupTimer(&quot;C18679&quot;, &quot;C18679 (2,3-Dehydro-UWM6)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=694,488,4	href="/dbget-bin/www_bget?C18682"	title="C18682 (11-Deoxylandomycinone)" onmouseover="popupTimer(&quot;C18682&quot;, &quot;C18682 (11-Deoxylandomycinone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=694,563,4	href="/dbget-bin/www_bget?C18683"	title="C18683 (Landomycin H)" onmouseover="popupTimer(&quot;C18683&quot;, &quot;C18683 (Landomycin H)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=694,713,4	href="/dbget-bin/www_bget?C18684"	title="C18684 (Landomycin D)" onmouseover="popupTimer(&quot;C18684&quot;, &quot;C18684 (Landomycin D)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=787,713,4	href="/dbget-bin/www_bget?C18685"	title="C18685 (Landomycin E)" onmouseover="popupTimer(&quot;C18685&quot;, &quot;C18685 (Landomycin E)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=607,335,4	href="/dbget-bin/www_bget?C18681"	title="C18681 (C1'-C9-Glycosylated UWM6)" onmouseover="popupTimer(&quot;C18681&quot;, &quot;C18681 (C1'-C9-Glycosylated UWM6)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=694,638,4	href="/dbget-bin/www_bget?C18778"	title="C18778 (8-D-Olivosyl-landomycin)" onmouseover="popupTimer(&quot;C18778&quot;, &quot;C18778 (8-D-Olivosyl-landomycin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=820,995,4	href="/dbget-bin/www_bget?C12405"	title="C12405 (100-1)" onmouseover="popupTimer(&quot;C12405&quot;, &quot;C12405 (100-1)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=753,1069,4	href="/dbget-bin/www_bget?C12411"	title="C12411 (Urdamycin F)" onmouseover="popupTimer(&quot;C12411&quot;, &quot;C12411 (Urdamycin F)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=890,1069,4	href="/dbget-bin/www_bget?C12409"	title="C12409 (124-1)" onmouseover="popupTimer(&quot;C12409&quot;, &quot;C12409 (124-1)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=820,1069,4	href="/dbget-bin/www_bget?C12406"	title="C12406 (Urdamycin B)" onmouseover="popupTimer(&quot;C12406&quot;, &quot;C12406 (Urdamycin B)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=669,995,4	href="/dbget-bin/www_bget?C12414"	title="C12414 (Urdamycin G)" onmouseover="popupTimer(&quot;C12414&quot;, &quot;C12414 (Urdamycin G)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=709,846,4	href="/dbget-bin/www_bget?C12410"	title="C12410 (Urdamycinone F)" onmouseover="popupTimer(&quot;C12410&quot;, &quot;C12410 (Urdamycinone F)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=669,846,4	href="/dbget-bin/www_bget?C12412"	title="C12412 (Aquayamycin)" onmouseover="popupTimer(&quot;C12412&quot;, &quot;C12412 (Aquayamycin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=754,771,4	href="/dbget-bin/www_bget?C12404"	title="C12404 (Urdamycinone B)" onmouseover="popupTimer(&quot;C12404&quot;, &quot;C12404 (Urdamycinone B)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=890,920,4	href="/dbget-bin/www_bget?C12407"	title="C12407 (104-2)" onmouseover="popupTimer(&quot;C12407&quot;, &quot;C12407 (104-2)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=669,920,4	href="/dbget-bin/www_bget?C12408"	title="C12408 (100-2)" onmouseover="popupTimer(&quot;C12408&quot;, &quot;C12408 (100-2)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=669,1069,4	href="/dbget-bin/www_bget?C12413"	title="C12413 (Urdamycin A)" onmouseover="popupTimer(&quot;C12413&quot;, &quot;C12413 (Urdamycin A)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1228,863,4	href="/dbget-bin/www_bget?C20689"	title="C20689 (15-Demethylaclacinomycin T)" onmouseover="popupTimer(&quot;C20689&quot;, &quot;C20689 (15-Demethylaclacinomycin T)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1704,788,4	href="/dbget-bin/www_bget?C20974"	title="C20974 (8-Demethyl-8-alpha-L-rhamnosyltetracenomycin C)" onmouseover="popupTimer(&quot;C20974&quot;, &quot;C20974 (8-Demethyl-8-alpha-L-rhamnosyltetracenomycin C)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1704,863,4	href="/dbget-bin/www_bget?C20975"	title="C20975 (8-Demethyl-8-(2-O-methyl-alpha-L-rhamnosyl)tetracenomycin C)" onmouseover="popupTimer(&quot;C20975&quot;, &quot;C20975 (8-Demethyl-8-(2-O-methyl-alpha-L-rhamnosyl)tetracenomycin C)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1704,938,4	href="/dbget-bin/www_bget?C20976"	title="C20976 (8-Demethyl-8-(2,3-di-O-methyl-alpha-L-rhamnosyl)tetracenomycin C)" onmouseover="popupTimer(&quot;C20976&quot;, &quot;C20976 (8-Demethyl-8-(2,3-di-O-methyl-alpha-L-rhamnosyl)tetracenomycin C)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1704,1013,4	href="/dbget-bin/www_bget?C20977"	title="C20977 (8-Demethyl-8-(2,3,4-tri-O-methyl-alpha-L-rhamnosyl)tetracenomycin C)" onmouseover="popupTimer(&quot;C20977&quot;, &quot;C20977 (8-Demethyl-8-(2,3,4-tri-O-methyl-alpha-L-rhamnosyl)tetracenomycin C)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=1462,965,1508,982	href="/dbget-bin/www_bget?K15966"	title="K15966 (mtmOIV)" />
+<area shape=rect	coords=1462,890,1508,907	href="/dbget-bin/www_bget?K15965"	title="K15965 (mtmGII)" />
+<area shape=rect	coords=1484,667,1530,684	href="/dbget-bin/www_bget?K15962"	title="K15962 (mtmC)" />
+<area shape=rect	coords=1438,667,1484,684	href="/dbget-bin/www_bget?K15960"	title="K15960 (mtmGIV)" />
+<area shape=rect	coords=1462,590,1508,607	href="/dbget-bin/www_bget?K15961"	title="K15961 (mtmGIII)" />
+<area shape=rect	coords=1462,515,1508,532	href="/dbget-bin/www_bget?K15960"	title="K15960 (mtmGIV)" />
+<area shape=rect	coords=1462,440,1508,457	href="/dbget-bin/www_bget?K15959"	title="K15959 (mtmMI)" />
+<area shape=rect	coords=1258,815,1304,832	href="/dbget-bin/www_bget?K15953"	title="K15953 (dnrP)" />
+<area shape=rect	coords=1258,729,1304,746	href="/dbget-bin/www_bget?K15951"	title="K15951 (dnrS)" />
+<area shape=rect	coords=1258,667,1304,684	href="/dbget-bin/www_bget?K15950"	title="K15950 (dnrF)" />
+<area shape=rect	coords=1258,590,1304,607	href="/dbget-bin/www_bget?K15944"	title="K15944 (snoaF)" />
+<area shape=rect	coords=1258,515,1304,532	href="/dbget-bin/www_bget?K15943"	title="K15943 (snoaL)" />
+<area shape=rect	coords=1258,440,1304,457	href="/dbget-bin/www_bget?K15942"	title="K15942 (snoaC)" />
+<area shape=rect	coords=1258,365,1304,382	href="/dbget-bin/www_bget?K15941"	title="K15941 (snoaB)" />
+<area shape=rect	coords=1462,815,1508,832	href="/dbget-bin/www_bget?K15964"	title="K15964 (mtmGI)" />
+<area shape=rect	coords=1462,292,1508,309	href="/dbget-bin/www_bget?K14250"	title="K14250 (oxyN)" />
+<area shape=rect	coords=1258,892,1304,909	href="/dbget-bin/www_bget?K15953"	title="K15953 (dnrP)" />
+<area shape=rect	coords=1462,739,1508,756	href="/dbget-bin/www_bget?K15963"	title="K15963 (mtmMII)" />
+<area shape=rect	coords=1774,590,1820,607	href="/dbget-bin/www_bget?K15971"	title="K15971 (tcmP)" />
+<area shape=rect	coords=1046,515,1092,532	href="/dbget-bin/www_bget?K15943"	title="K15943 (snoaL)" />
+<area shape=rect	coords=1046,590,1092,607	href="/dbget-bin/www_bget?K15944"	title="K15944 (snoaF)" />
+<area shape=rect	coords=1076,965,1122,982	href="/dbget-bin/www_bget?K15954"	title="K15954 (dnrK)" />
+<area shape=rect	coords=1125,929,1171,946	href="/dbget-bin/www_bget?K15955"	title="K15955 (doxA)" />
+<area shape=rect	coords=1125,1004,1171,1021	href="/dbget-bin/www_bget?K15955"	title="K15955 (doxA)" />
+<area shape=rect	coords=121,590,167,607	href="/dbget-bin/www_bget?K14628"	title="K14628 (actVI2)" />
+<area shape=rect	coords=171,590,217,607	href="/dbget-bin/www_bget?K14629"	title="K14629 (actVI4)" />
+<area shape=rect	coords=171,515,217,532	href="/dbget-bin/www_bget?K14627"	title="K14627 (actVI3)" />
+<area shape=rect	coords=1774,667,1820,684	href="/dbget-bin/www_bget?K15972"	title="K15972 (tcmG)" />
+<area shape=rect	coords=1725,555,1771,572	href="/dbget-bin/www_bget?K15970"	title="K15970 (tcmO)" />
+<area shape=rect	coords=1682,440,1728,457	href="/dbget-bin/www_bget?K15969"	title="K15969 (tcmH)" />
+<area shape=rect	coords=1682,515,1728,532	href="/dbget-bin/www_bget?K15886"	title="K15886 (tcmN)" />
+<area shape=rect	coords=1682,365,1728,382	href="/dbget-bin/www_bget?K15968"	title="K15968 (tcmI)" />
+<area shape=rect	coords=1032,1004,1078,1021	href="/dbget-bin/www_bget?K15955"	title="K15955 (doxA)" />
+<area shape=rect	coords=1216,929,1262,946	href="/dbget-bin/www_bget?K15955"	title="K15955 (doxA)" />
+<area shape=rect	coords=1046,440,1092,457	href="/dbget-bin/www_bget?K15942"	title="K15942 (snoaC)" />
+<area shape=rect	coords=1009,979,1055,996	href="/dbget-bin/www_bget?K15956"	title="K15956 (dnrU)" />
+<area shape=rect	coords=1216,1004,1262,1021	href="/dbget-bin/www_bget?K15955"	title="K15955 (doxA)" />
+<area shape=rect	coords=121,523,167,540	href="/dbget-bin/www_bget?K14626"	title="K14626 (actVIA)" />
+<area shape=rect	coords=147,365,193,382	href="/dbget-bin/www_bget?K05556"	title="K05556 (actVI1)" />
+<area shape=rect	coords=1258,965,1304,982	href="/dbget-bin/www_bget?K15954"	title="K15954 (dnrK)" />
+<area shape=rect	coords=1046,292,1092,309	href="/dbget-bin/www_bget?K14250"	title="K14250 (oxyN)" />
+<area shape=rect	coords=147,292,193,309	href="/dbget-bin/www_bget?K05555"	title="K05555 (actIV)" />
+<area shape=rect	coords=428,292,474,309	href="/dbget-bin/www_bget?K14250"	title="K14250 (oxyN)" />
+<area shape=rect	coords=1046,365,1092,382	href="/dbget-bin/www_bget?K15941"	title="K15941 (snoaB)" />
+<area shape=rect	coords=1258,292,1304,309	href="/dbget-bin/www_bget?K14250"	title="K14250 (oxyN)" />
+<area shape=rect	coords=1144,515,1190,532	href="/dbget-bin/www_bget?K15943"	title="K15943 (snoaL)" />
+<area shape=rect	coords=1144,590,1190,607	href="/dbget-bin/www_bget?K15944"	title="K15944 (snoaF)" />
+<area shape=rect	coords=428,440,474,457	href="/dbget-bin/www_bget?K14251"	title="K14251 (oxyF)" />
+<area shape=rect	coords=428,509,474,526	href="/dbget-bin/www_bget?K14253"	title="K14253 (oxyE)" />
+<area shape=rect	coords=428,570,474,587	href="/dbget-bin/www_bget?K14252"	title="K14252 (oxyL)" />
+<area shape=rect	coords=463,541,509,558	href="/dbget-bin/www_bget?K14252"	title="K14252 (oxyL)" />
+<area shape=rect	coords=428,637,474,654	href="/dbget-bin/www_bget?K14254"	title="K14254 (oxyQ)" />
+<area shape=rect	coords=428,712,474,729	href="/dbget-bin/www_bget?K14255"	title="K14255 (oxyT)" />
+<area shape=rect	coords=428,787,474,804	href="/dbget-bin/www_bget?K14256"	title="K14256 (oxyS)" />
+<area shape=rect	coords=1206,704,1252,721	href="/dbget-bin/www_bget?K15946+K15947"	title="K15946 (aknS), K15947 (aknT)" />
+<area shape=rect	coords=1162,780,1208,797	href="/dbget-bin/www_bget?K15948"	title="K15948 (aknK)" />
+<area shape=rect	coords=141,669,187,686	href="/dbget-bin/www_bget?K14630"	title="K14630 (actVA5)" />
+<area shape=rect	coords=192,669,238,686	href="/dbget-bin/www_bget?K14632"	title="K14632 (actVA6)" />
+<area shape=rect	coords=91,669,137,686	href="/dbget-bin/www_bget?K14631"	title="K14631 (actVB)" />
+<area shape=rect	coords=147,831,193,848	href="/dbget-bin/www_bget?K14630"	title="K14630 (actVA5)" />
+<area shape=rect	coords=91,831,137,848	href="/dbget-bin/www_bget?K14631"	title="K14631 (actVB)" />
+<area shape=rect	coords=222,365,268,382	href="/dbget-bin/www_bget?K14633"	title="K14633 (gra6)" />
+<area shape=rect	coords=147,440,193,457	href="/dbget-bin/www_bget?K05556"	title="K05556 (actVI1)" />
+<area shape=rect	coords=222,440,268,457	href="/dbget-bin/www_bget?K14633"	title="K14633 (gra6)" />
+<area shape=rect	coords=121,506,167,523	href="/dbget-bin/www_bget?K05556"	title="K05556 (actVI1)" />
+<area shape=rect	coords=1046,665,1092,682	href="/dbget-bin/www_bget?K15945"	title="K15945 (snoaL2)" />
+<area shape=rect	coords=1350,815,1396,832	href="/dbget-bin/www_bget?K15957"	title="K15957 (rdmC)" />
+<area shape=rect	coords=1350,892,1396,909	href="/dbget-bin/www_bget?K15958"	title="K15958 (rdmB)" />
+<area shape=rect	coords=1072,854,1118,871	href="/dbget-bin/www_bget?K15949"	title="K15949 (aknOx)" />
+<area shape=rect	coords=981,854,1027,871	href="/dbget-bin/www_bget?K15949"	title="K15949 (aknOx)" />
+<area shape=rect	coords=1258,746,1304,763	href="/dbget-bin/www_bget?K15952"	title="K15952 (dnrQ)" />
+<area shape=rect	coords=1462,1040,1508,1057	href="/dbget-bin/www_bget?K15967"	title="K15967 (mtmW)" />
+<area shape=rect	coords=771,292,817,309	href="/dbget-bin/www_bget?K15926"	title="K15926 (jadI)" />
+<area shape=rect	coords=856,537,902,554	href="/dbget-bin/www_bget?K15929"	title="K15929 (jadS)" />
+<area shape=rect	coords=672,365,718,382	href="/dbget-bin/www_bget?K15928"	title="K15928 (jadH)" />
+<area shape=rect	coords=940,386,986,403	href="/dbget-bin/www_bget?K15928"	title="K15928 (jadH)" />
+<area shape=rect	coords=725,405,771,422	href="/dbget-bin/www_bget?K15930"	title="K15930 (lndM2)" />
+<area shape=rect	coords=672,440,718,457	href="/dbget-bin/www_bget?K15930"	title="K15930 (lndM2)" />
+<area shape=rect	coords=672,515,718,532	href="/dbget-bin/www_bget?K15931"	title="K15931 (lndGT2)" />
+<area shape=rect	coords=672,666,718,683	href="/dbget-bin/www_bget?K15934"	title="K15934 (lndGT1)" />
+<area shape=rect	coords=711,704,757,721	href="/dbget-bin/www_bget?K15935"	title="K15935 (lndGT4)" />
+<area shape=rect	coords=813,329,859,346	href="/dbget-bin/www_bget?K15927"	title="K15927 (jadF)" />
+<area shape=rect	coords=633,326,679,343	href="/dbget-bin/www_bget?K15936"	title="K15936 (urdGT2)" />
+<area shape=rect	coords=672,581,718,598	href="/dbget-bin/www_bget?K15932"	title="K15932 (lndZ4)" />
+<area shape=rect	coords=672,598,718,615	href="/dbget-bin/www_bget?K15933"	title="K15933 (lndZ5)" />
+<area shape=rect	coords=867,1021,913,1038	href="/dbget-bin/www_bget?K15939"	title="K15939 (urdGT1b)" />
+<area shape=rect	coords=868,947,914,964	href="/dbget-bin/www_bget?K15938"	title="K15938 (urdGT1c)" />
+<area shape=rect	coords=797,1021,843,1038	href="/dbget-bin/www_bget?K15939"	title="K15939 (urdGT1b)" />
+<area shape=rect	coords=798,947,844,964	href="/dbget-bin/www_bget?K15938"	title="K15938 (urdGT1c)" />
+<area shape=rect	coords=647,1021,693,1038	href="/dbget-bin/www_bget?K15939"	title="K15939 (urdGT1b)" />
+<area shape=rect	coords=731,1021,777,1038	href="/dbget-bin/www_bget?K15939"	title="K15939 (urdGT1b)" />
+<area shape=rect	coords=647,947,693,964	href="/dbget-bin/www_bget?K15938"	title="K15938 (urdGT1c)" />
+<area shape=rect	coords=731,872,777,889	href="/dbget-bin/www_bget?K15937"	title="K15937 (urdGT1a)" />
+<area shape=rect	coords=647,872,693,889	href="/dbget-bin/www_bget?K15937"	title="K15937 (urdGT1a)" />
+<area shape=rect	coords=731,947,777,964	href="/dbget-bin/www_bget?K15938"	title="K15938 (urdGT1c)" />
+<area shape=rect	coords=1206,815,1252,832	href="/dbget-bin/www_bget?K15957"	title="K15957 (rdmC)" />
+<area shape=rect	coords=1682,667,1728,684	href="/dbget-bin/www_bget?K15972"	title="K15972 (tcmG)" />
+<area shape=rect	coords=1682,739,1728,756	href="/dbget-bin/www_bget?K19566"	title="K19566 (elmGT)" />
+<area shape=rect	coords=1682,815,1728,832	href="/dbget-bin/www_bget?K19567"	title="K19567 (elmMI)" />
+<area shape=rect	coords=1682,890,1728,907	href="/dbget-bin/www_bget?K19568"	title="K19568 (elmMII)" />
+<area shape=rect	coords=1682,965,1728,982	href="/dbget-bin/www_bget?K19569"	title="K19569 (elmMIII)" />
+<area shape=rect	coords=1682,590,1728,607	href="/dbget-bin/www_bget?K15971"	title="K15971 (tcmP)" />
+<area shape=rect	coords=1682,1040,1728,1057	href="/dbget-bin/www_bget?K19570"	title="K19570 (elmD)" />
+<area shape=rect	coords=470,827,516,844	href="/dbget-bin/www_bget?K14256"	title="K14256 (oxyS)" />
+<area shape=rect	coords=519,862,565,879	href="/dbget-bin/www_bget?K21301"	title="K21301 (oxyR)" />
+<area shape=rect	coords=428,862,474,879	href="/dbget-bin/www_bget?K21301"	title="K21301 (oxyR)" />
+<area shape=rect	coords=383,902,429,919	href="/dbget-bin/www_bget?K14257+K21297"	title="K14257 (ctcP), K21297 (ctcQ)" />
+<area shape=rect	coords=678,121,908,146	href="/kegg-bin/show_pathway?ko01056"	title="ko01056: Biosynthesis of type II polyketide backbone" onmouseover="popupTimer(&quot;ko01056&quot;, &quot;ko01056: Biosynthesis of type II polyketide backbone&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=40,45,417,70	href="/dbget-bin/www_bget?ko01057"	title="ko01057: Biosynthesis of type II polyketide products" onmouseover="popupTimer(&quot;ko01057&quot;, &quot;ko01057: Biosynthesis of type II polyketide products&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=388,953,530,978	href="/kegg-bin/show_pathway?ko00253"	title="ko00253: Tetracycline biosynthesis" onmouseover="popupTimer(&quot;ko00253&quot;, &quot;ko00253: Tetracycline biosynthesis&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

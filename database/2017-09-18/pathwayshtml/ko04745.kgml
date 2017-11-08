@@ -1,0 +1,318 @@
+<html>
+<!---
+ENTRY       ko04745
+DEFINITION  Phototransduction - fly
+--->
+<head>
+<title>
+KEGG PATHWAY: Phototransduction - fly
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Phototransduction - fly</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=04745&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map04745.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko04745">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko04745&format=kgml">Download KGML</a>
+| <a id="descLink" href="javascript:switchDescription()">Show description</a>
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+<table id="description" cellpadding="10" width="800" style="display: none;"><tr><td>
+Phototransduction is the process that converts the signal of light (photons) into a change of membrane potential in photoreceptor cells. Drosophila visual signaling is initiated with the activation of rhodopsin by light. Rhodopsin is composed of a protein, opsin, covalently linked to a chromophore, 3-hydroxy-11-cis-retinal. Upon absorption of a light photon the chromophore is isomerized from the 11-cis to the all-trans configuration which induces a structural change that activates the opsin. This photoconversion activates heterotrimeric Gq protein via GTP-GDP exchange, releasing the G(alpha)q subunit. G(alpha)q activates PLC, generating InsP3 and DAG from PIP2. DAG may further release polyunsaturated fatty acids (PUFAs) via action of DAG lipase. This reaction leads to the opening of cation-selective channels (trp and trpl genes) and causes the depolarization of the photoreceptor cells. The transduction proteins rhodopsin, G(alpha)q, PLC, PKC, TRP, and TRPL are coordinated by a polymer of INAD scaffold proteins.</td></tr></table>
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="dme">Drosophila melanogaster (fruit fly)</option>
+<option value="dpo">Drosophila pseudoobscura pseudoobscura</option>
+<option value="dan">Drosophila ananassae</option>
+<option value="der">Drosophila erecta</option>
+<option value="dpe">Drosophila persimilis</option>
+<option value="dse">Drosophila sechellia</option>
+<option value="dsi">Drosophila simulans</option>
+<option value="dwi">Drosophila willistoni</option>
+<option value="dya">Drosophila yakuba</option>
+<option value="dgr">Drosophila grimshawi</option>
+<option value="dmo">Drosophila mojavensis</option>
+<option value="dvi">Drosophila virilis</option>
+<option value="mde">Musca domestica (house fly)</option>
+<option value="aga">Anopheles gambiae (mosquito)</option>
+<option value="aag">Aedes aegypti (yellow fever mosquito)</option>
+<option value="cqu">Culex quinquefasciatus (southern house mosquito)</option>
+<option value="ame">Apis mellifera (honey bee)</option>
+<option value="bim">Bombus impatiens (common eastern bumble bee)</option>
+<option value="bter">Bombus terrestris (buff-tailed bumblebee)</option>
+<option value="soc">Solenopsis invicta (red fire ant)</option>
+<option value="aec">Acromyrmex echinatior (Panamanian leafcutter ant)</option>
+<option value="acep">Atta cephalotes (leaf cutting ant)</option>
+<option value="pbar">Pogonomyrmex barbatus (red harvester ant)</option>
+<option value="hst">Harpegnathos saltator (Jerdon's jumping ant)</option>
+<option value="cfo">Camponotus floridanus (Florida carpenter ant)</option>
+<option value="lhu">Linepithema humile (Argentine ant)</option>
+<option value="pgc">Pseudomyrmex gracilis</option>
+<option value="nvi">Nasonia vitripennis (jewel wasp)</option>
+<option value="tca">Tribolium castaneum (red flour beetle)</option>
+<option value="dpa">Dendroctonus ponderosae (mountain pine beetle)</option>
+<option value="nvl">Nicrophorus vespilloides</option>
+<option value="bmor">Bombyx mori (domestic silkworm)</option>
+<option value="dpl">Danaus plexippus (monarch butterfly)</option>
+<option value="pxy">Plutella xylostella (diamondback moth)</option>
+<option value="api">Acyrthosiphon pisum (pea aphid)</option>
+<option value="dnx">Diuraphis noxia (Russian wheat aphid)</option>
+<option value="phu">Pediculus humanus corporis (human body louse)</option>
+</select>
+<input type="hidden" name="mapno" value="04745" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko04745" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko04745.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=464,614,4	href="/dbget-bin/www_bget?C01245"	title="C01245 (D-myo-Inositol 1,4,5-trisphosphate)" onmouseover="popupTimer(&quot;C01245&quot;, &quot;C01245 (D-myo-Inositol 1,4,5-trisphosphate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=444,583,4	href="/dbget-bin/www_bget?C00165"	title="C00165 (Diacylglycerol)" onmouseover="popupTimer(&quot;C00165&quot;, &quot;C00165 (Diacylglycerol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=689,491,4	href="/dbget-bin/www_bget?C00076"	title="C00076 (Calcium cation)" onmouseover="popupTimer(&quot;C00076&quot;, &quot;C00076 (Calcium cation)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=748,492,4	href="/dbget-bin/www_bget?C01330"	title="C01330 (Sodium cation)" onmouseover="popupTimer(&quot;C01330&quot;, &quot;C01330 (Sodium cation)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=822,685,4	href="/dbget-bin/www_bget?C00076"	title="C00076 (Calcium cation)" onmouseover="popupTimer(&quot;C00076&quot;, &quot;C00076 (Calcium cation)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=342,867,4	href="/dbget-bin/www_bget?C18195+C20428"	title="C18195 ((3R)-11-cis-3-Hydroxyretinal), C20428 ((3S)-11-cis-3-Hydroxyretinal)" onmouseover="popupTimer(&quot;C18195&quot;, &quot;C18195 ((3R)-11-cis-3-Hydroxyretinal), C20428 ((3S)-11-cis-3-Hydroxyretinal)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=511,868,4	href="/dbget-bin/www_bget?C18196+C20429"	title="C18196 ((3R)-all-trans-3-Hydroxyretinal), C20429 ((3S)-all-trans-3-Hydroxyretinal)" onmouseover="popupTimer(&quot;C18196&quot;, &quot;C18196 ((3R)-all-trans-3-Hydroxyretinal), C20429 ((3S)-all-trans-3-Hydroxyretinal)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=593,563,4	href="/dbget-bin/www_bget?C00219"	title="C00219 (Arachidonate)" onmouseover="popupTimer(&quot;C00219&quot;, &quot;C00219 (Arachidonate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=700,491,4	href="/dbget-bin/www_bget?C01330"	title="C01330 (Sodium cation)" onmouseover="popupTimer(&quot;C01330&quot;, &quot;C01330 (Sodium cation)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=532,573,4	href="/dbget-bin/www_bget?C02112"	title="C02112 (2-Acylglycerol)" onmouseover="popupTimer(&quot;C02112&quot;, &quot;C02112 (2-Acylglycerol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=532,592,4	href="/dbget-bin/www_bget?C01530"	title="C01530 (Octadecanoic acid)" onmouseover="popupTimer(&quot;C01530&quot;, &quot;C01530 (Octadecanoic acid)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=398,695,4	href="/dbget-bin/www_bget?C00076"	title="C00076 (Calcium cation)" onmouseover="popupTimer(&quot;C00076&quot;, &quot;C00076 (Calcium cation)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=672,124,718,141	href="/dbget-bin/www_bget?K04967"	title="K04967 (TRPC4)" />
+<area shape=rect	coords=166,123,212,140	href="/dbget-bin/www_bget?K13802"	title="K13802 (NINAE)" />
+<area shape=rect	coords=166,528,212,545	href="/dbget-bin/www_bget?K13802"	title="K13802 (NINAE)" />
+<area shape=rect	coords=315,141,361,158	href="/dbget-bin/www_bget?K05858"	title="K05858 (PLCB)" />
+<area shape=rect	coords=238,544,284,561	href="/dbget-bin/www_bget?K04634+K07972+K04547"	title="K04634 (GNAQ), K07972 (GNB), K04547 (GNG13)" />
+<area shape=rect	coords=238,139,284,156	href="/dbget-bin/www_bget?K04634+K07972+K04547"	title="K04634 (GNAQ), K07972 (GNB), K04547 (GNG13)" />
+<area shape=rect	coords=315,546,361,563	href="/dbget-bin/www_bget?K05858"	title="K05858 (PLCB)" />
+<area shape=rect	coords=726,124,772,141	href="/dbget-bin/www_bget?K13803"	title="K13803 (TRPL)" />
+<area shape=rect	coords=726,529,772,546	href="/dbget-bin/www_bget?K13803"	title="K13803 (TRPL)" />
+<area shape=rect	coords=672,529,718,546	href="/dbget-bin/www_bget?K04967"	title="K04967 (TRPC4)" />
+<area shape=rect	coords=478,321,524,338	href="/dbget-bin/www_bget?K05692"	title="K05692 (ACTB_G1)" />
+<area shape=rect	coords=478,741,524,758	href="/dbget-bin/www_bget?K05692"	title="K05692 (ACTB_G1)" />
+<area shape=rect	coords=519,194,565,211	href="/dbget-bin/www_bget?K02677"	title="K02677 (PRKCA)" />
+<area shape=rect	coords=519,605,565,622	href="/dbget-bin/www_bget?K02677"	title="K02677 (PRKCA)" />
+<area shape=rect	coords=478,265,524,282	href="/dbget-bin/www_bget?K13804"	title="K13804 (INAD)" />
+<area shape=rect	coords=478,304,524,321	href="/dbget-bin/www_bget?K08834"	title="K08834 (MYO3)" />
+<area shape=rect	coords=478,686,524,703	href="/dbget-bin/www_bget?K13804"	title="K13804 (INAD)" />
+<area shape=rect	coords=478,724,524,741	href="/dbget-bin/www_bget?K08834"	title="K08834 (MYO3)" />
+<area shape=rect	coords=419,266,465,283	href="/dbget-bin/www_bget?K02183"	title="K02183 (CALM)" />
+<area shape=rect	coords=419,688,465,705	href="/dbget-bin/www_bget?K02183"	title="K02183 (CALM)" />
+<area shape=rect	coords=798,717,844,734	href="/dbget-bin/www_bget?K04958"	title="K04958 (ITPR1)" />
+<area shape=rect	coords=233,587,279,604	href="/dbget-bin/www_bget?K13805"	title="K13805 (ARR2)" />
+<area shape=rect	coords=319,830,365,847	href="/dbget-bin/www_bget?K13802"	title="K13802 (NINAE)" />
+<area shape=rect	coords=489,830,535,847	href="/dbget-bin/www_bget?K13802"	title="K13802 (NINAE)" />
+<area shape=rect	coords=166,599,212,616	href="/dbget-bin/www_bget?K00910"	title="K00910 (ADRBK)" />
+<area shape=rect	coords=582,817,628,834	href="/dbget-bin/www_bget?K00910"	title="K00910 (ADRBK)" />
+<area shape=rect	coords=582,839,628,856	href="/dbget-bin/www_bget?K13805"	title="K13805 (ARR2)" />
+<area shape=rect	coords=245,848,291,865	href="/dbget-bin/www_bget?K13807"	title="K13807 (PPEF)" />
+<area shape=rect	coords=408,714,454,731	href="/dbget-bin/www_bget?K13805"	title="K13805 (ARR2)" />
+<area shape=rect	coords=309,589,355,606	href="/dbget-bin/www_bget?K04515"	title="K04515 (CAMK2)" />
+<area shape=rect	coords=798,298,844,315	href="/dbget-bin/www_bget?K04958"	title="K04958 (ITPR1)" />
+<area shape=rect	coords=408,294,454,311	href="/dbget-bin/www_bget?K13805"	title="K13805 (ARR2)" />
+<area shape=rect	coords=462,559,508,576	href="/dbget-bin/www_bget?K13806"	title="K13806 (DAGL)" />
+<area shape=rect	coords=40,45,264,70	href="/dbget-bin/www_bget?ko04745"	title="ko04745: Phototransduction - fly" onmouseover="popupTimer(&quot;ko04745&quot;, &quot;ko04745: Phototransduction - fly&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=567,694,683,728	href="/kegg-bin/show_pathway?ko04020"	title="ko04020: Calcium signaling pathway" onmouseover="popupTimer(&quot;ko04020&quot;, &quot;ko04020: Calcium signaling pathway&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

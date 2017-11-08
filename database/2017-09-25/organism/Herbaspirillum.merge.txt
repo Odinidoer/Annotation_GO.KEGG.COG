@@ -1,0 +1,598 @@
+path:hse00010	Glycolysis / Gluconeogenesis - Herbaspirillum seropedicae SmR1
+path:hse00020	Citrate cycle (TCA cycle) - Herbaspirillum seropedicae SmR1
+path:hse00030	Pentose phosphate pathway - Herbaspirillum seropedicae SmR1
+path:hse00040	Pentose and glucuronate interconversions - Herbaspirillum seropedicae SmR1
+path:hse00051	Fructose and mannose metabolism - Herbaspirillum seropedicae SmR1
+path:hse00052	Galactose metabolism - Herbaspirillum seropedicae SmR1
+path:hse00053	Ascorbate and aldarate metabolism - Herbaspirillum seropedicae SmR1
+path:hse00061	Fatty acid biosynthesis - Herbaspirillum seropedicae SmR1
+path:hse00071	Fatty acid degradation - Herbaspirillum seropedicae SmR1
+path:hse00072	Synthesis and degradation of ketone bodies - Herbaspirillum seropedicae SmR1
+path:hse00130	Ubiquinone and other terpenoid-quinone biosynthesis - Herbaspirillum seropedicae SmR1
+path:hse00190	Oxidative phosphorylation - Herbaspirillum seropedicae SmR1
+path:hse00220	Arginine biosynthesis - Herbaspirillum seropedicae SmR1
+path:hse00230	Purine metabolism - Herbaspirillum seropedicae SmR1
+path:hse00240	Pyrimidine metabolism - Herbaspirillum seropedicae SmR1
+path:hse00250	Alanine, aspartate and glutamate metabolism - Herbaspirillum seropedicae SmR1
+path:hse00260	Glycine, serine and threonine metabolism - Herbaspirillum seropedicae SmR1
+path:hse00261	Monobactam biosynthesis - Herbaspirillum seropedicae SmR1
+path:hse00270	Cysteine and methionine metabolism - Herbaspirillum seropedicae SmR1
+path:hse00280	Valine, leucine and isoleucine degradation - Herbaspirillum seropedicae SmR1
+path:hse00281	Geraniol degradation - Herbaspirillum seropedicae SmR1
+path:hse00290	Valine, leucine and isoleucine biosynthesis - Herbaspirillum seropedicae SmR1
+path:hse00300	Lysine biosynthesis - Herbaspirillum seropedicae SmR1
+path:hse00310	Lysine degradation - Herbaspirillum seropedicae SmR1
+path:hse00330	Arginine and proline metabolism - Herbaspirillum seropedicae SmR1
+path:hse00332	Carbapenem biosynthesis - Herbaspirillum seropedicae SmR1
+path:hse00340	Histidine metabolism - Herbaspirillum seropedicae SmR1
+path:hse00350	Tyrosine metabolism - Herbaspirillum seropedicae SmR1
+path:hse00360	Phenylalanine metabolism - Herbaspirillum seropedicae SmR1
+path:hse00361	Chlorocyclohexane and chlorobenzene degradation - Herbaspirillum seropedicae SmR1
+path:hse00362	Benzoate degradation - Herbaspirillum seropedicae SmR1
+path:hse00364	Fluorobenzoate degradation - Herbaspirillum seropedicae SmR1
+path:hse00380	Tryptophan metabolism - Herbaspirillum seropedicae SmR1
+path:hse00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Herbaspirillum seropedicae SmR1
+path:hse00401	Novobiocin biosynthesis - Herbaspirillum seropedicae SmR1
+path:hse00410	beta-Alanine metabolism - Herbaspirillum seropedicae SmR1
+path:hse00430	Taurine and hypotaurine metabolism - Herbaspirillum seropedicae SmR1
+path:hse00440	Phosphonate and phosphinate metabolism - Herbaspirillum seropedicae SmR1
+path:hse00450	Selenocompound metabolism - Herbaspirillum seropedicae SmR1
+path:hse00460	Cyanoamino acid metabolism - Herbaspirillum seropedicae SmR1
+path:hse00471	D-Glutamine and D-glutamate metabolism - Herbaspirillum seropedicae SmR1
+path:hse00472	D-Arginine and D-ornithine metabolism - Herbaspirillum seropedicae SmR1
+path:hse00473	D-Alanine metabolism - Herbaspirillum seropedicae SmR1
+path:hse00480	Glutathione metabolism - Herbaspirillum seropedicae SmR1
+path:hse00500	Starch and sucrose metabolism - Herbaspirillum seropedicae SmR1
+path:hse00520	Amino sugar and nucleotide sugar metabolism - Herbaspirillum seropedicae SmR1
+path:hse00521	Streptomycin biosynthesis - Herbaspirillum seropedicae SmR1
+path:hse00523	Polyketide sugar unit biosynthesis - Herbaspirillum seropedicae SmR1
+path:hse00540	Lipopolysaccharide biosynthesis - Herbaspirillum seropedicae SmR1
+path:hse00550	Peptidoglycan biosynthesis - Herbaspirillum seropedicae SmR1
+path:hse00561	Glycerolipid metabolism - Herbaspirillum seropedicae SmR1
+path:hse00562	Inositol phosphate metabolism - Herbaspirillum seropedicae SmR1
+path:hse00564	Glycerophospholipid metabolism - Herbaspirillum seropedicae SmR1
+path:hse00590	Arachidonic acid metabolism - Herbaspirillum seropedicae SmR1
+path:hse00592	alpha-Linolenic acid metabolism - Herbaspirillum seropedicae SmR1
+path:hse00620	Pyruvate metabolism - Herbaspirillum seropedicae SmR1
+path:hse00622	Xylene degradation - Herbaspirillum seropedicae SmR1
+path:hse00623	Toluene degradation - Herbaspirillum seropedicae SmR1
+path:hse00625	Chloroalkane and chloroalkene degradation - Herbaspirillum seropedicae SmR1
+path:hse00626	Naphthalene degradation - Herbaspirillum seropedicae SmR1
+path:hse00627	Aminobenzoate degradation - Herbaspirillum seropedicae SmR1
+path:hse00630	Glyoxylate and dicarboxylate metabolism - Herbaspirillum seropedicae SmR1
+path:hse00633	Nitrotoluene degradation - Herbaspirillum seropedicae SmR1
+path:hse00640	Propanoate metabolism - Herbaspirillum seropedicae SmR1
+path:hse00643	Styrene degradation - Herbaspirillum seropedicae SmR1
+path:hse00650	Butanoate metabolism - Herbaspirillum seropedicae SmR1
+path:hse00660	C5-Branched dibasic acid metabolism - Herbaspirillum seropedicae SmR1
+path:hse00670	One carbon pool by folate - Herbaspirillum seropedicae SmR1
+path:hse00680	Methane metabolism - Herbaspirillum seropedicae SmR1
+path:hse00730	Thiamine metabolism - Herbaspirillum seropedicae SmR1
+path:hse00740	Riboflavin metabolism - Herbaspirillum seropedicae SmR1
+path:hse00750	Vitamin B6 metabolism - Herbaspirillum seropedicae SmR1
+path:hse00760	Nicotinate and nicotinamide metabolism - Herbaspirillum seropedicae SmR1
+path:hse00770	Pantothenate and CoA biosynthesis - Herbaspirillum seropedicae SmR1
+path:hse00780	Biotin metabolism - Herbaspirillum seropedicae SmR1
+path:hse00785	Lipoic acid metabolism - Herbaspirillum seropedicae SmR1
+path:hse00790	Folate biosynthesis - Herbaspirillum seropedicae SmR1
+path:hse00791	Atrazine degradation - Herbaspirillum seropedicae SmR1
+path:hse00860	Porphyrin and chlorophyll metabolism - Herbaspirillum seropedicae SmR1
+path:hse00900	Terpenoid backbone biosynthesis - Herbaspirillum seropedicae SmR1
+path:hse00903	Limonene and pinene degradation - Herbaspirillum seropedicae SmR1
+path:hse00906	Carotenoid biosynthesis - Herbaspirillum seropedicae SmR1
+path:hse00910	Nitrogen metabolism - Herbaspirillum seropedicae SmR1
+path:hse00920	Sulfur metabolism - Herbaspirillum seropedicae SmR1
+path:hse00930	Caprolactam degradation - Herbaspirillum seropedicae SmR1
+path:hse00970	Aminoacyl-tRNA biosynthesis - Herbaspirillum seropedicae SmR1
+path:hse01040	Biosynthesis of unsaturated fatty acids - Herbaspirillum seropedicae SmR1
+path:hse01100	Metabolic pathways - Herbaspirillum seropedicae SmR1
+path:hse01110	Biosynthesis of secondary metabolites - Herbaspirillum seropedicae SmR1
+path:hse01120	Microbial metabolism in diverse environments - Herbaspirillum seropedicae SmR1
+path:hse01130	Biosynthesis of antibiotics - Herbaspirillum seropedicae SmR1
+path:hse01200	Carbon metabolism - Herbaspirillum seropedicae SmR1
+path:hse01210	2-Oxocarboxylic acid metabolism - Herbaspirillum seropedicae SmR1
+path:hse01212	Fatty acid metabolism - Herbaspirillum seropedicae SmR1
+path:hse01220	Degradation of aromatic compounds - Herbaspirillum seropedicae SmR1
+path:hse01230	Biosynthesis of amino acids - Herbaspirillum seropedicae SmR1
+path:hse01501	beta-Lactam resistance - Herbaspirillum seropedicae SmR1
+path:hse01502	Vancomycin resistance - Herbaspirillum seropedicae SmR1
+path:hse01503	Cationic antimicrobial peptide (CAMP) resistance - Herbaspirillum seropedicae SmR1
+path:hse02010	ABC transporters - Herbaspirillum seropedicae SmR1
+path:hse02020	Two-component system - Herbaspirillum seropedicae SmR1
+path:hse02024	Quorum sensing - Herbaspirillum seropedicae SmR1
+path:hse02030	Bacterial chemotaxis - Herbaspirillum seropedicae SmR1
+path:hse02040	Flagellar assembly - Herbaspirillum seropedicae SmR1
+path:hse02060	Phosphotransferase system (PTS) - Herbaspirillum seropedicae SmR1
+path:hse03010	Ribosome - Herbaspirillum seropedicae SmR1
+path:hse03018	RNA degradation - Herbaspirillum seropedicae SmR1
+path:hse03020	RNA polymerase - Herbaspirillum seropedicae SmR1
+path:hse03030	DNA replication - Herbaspirillum seropedicae SmR1
+path:hse03060	Protein export - Herbaspirillum seropedicae SmR1
+path:hse03070	Bacterial secretion system - Herbaspirillum seropedicae SmR1
+path:hse03410	Base excision repair - Herbaspirillum seropedicae SmR1
+path:hse03420	Nucleotide excision repair - Herbaspirillum seropedicae SmR1
+path:hse03430	Mismatch repair - Herbaspirillum seropedicae SmR1
+path:hse03440	Homologous recombination - Herbaspirillum seropedicae SmR1
+path:hse03450	Non-homologous end-joining - Herbaspirillum seropedicae SmR1
+path:hse04122	Sulfur relay system - Herbaspirillum seropedicae SmR1
+path:hsz00010	Glycolysis / Gluconeogenesis - Herbaspirillum seropedicae Z67
+path:hsz00020	Citrate cycle (TCA cycle) - Herbaspirillum seropedicae Z67
+path:hsz00030	Pentose phosphate pathway - Herbaspirillum seropedicae Z67
+path:hsz00040	Pentose and glucuronate interconversions - Herbaspirillum seropedicae Z67
+path:hsz00051	Fructose and mannose metabolism - Herbaspirillum seropedicae Z67
+path:hsz00052	Galactose metabolism - Herbaspirillum seropedicae Z67
+path:hsz00053	Ascorbate and aldarate metabolism - Herbaspirillum seropedicae Z67
+path:hsz00061	Fatty acid biosynthesis - Herbaspirillum seropedicae Z67
+path:hsz00071	Fatty acid degradation - Herbaspirillum seropedicae Z67
+path:hsz00072	Synthesis and degradation of ketone bodies - Herbaspirillum seropedicae Z67
+path:hsz00130	Ubiquinone and other terpenoid-quinone biosynthesis - Herbaspirillum seropedicae Z67
+path:hsz00190	Oxidative phosphorylation - Herbaspirillum seropedicae Z67
+path:hsz00220	Arginine biosynthesis - Herbaspirillum seropedicae Z67
+path:hsz00230	Purine metabolism - Herbaspirillum seropedicae Z67
+path:hsz00240	Pyrimidine metabolism - Herbaspirillum seropedicae Z67
+path:hsz00250	Alanine, aspartate and glutamate metabolism - Herbaspirillum seropedicae Z67
+path:hsz00260	Glycine, serine and threonine metabolism - Herbaspirillum seropedicae Z67
+path:hsz00261	Monobactam biosynthesis - Herbaspirillum seropedicae Z67
+path:hsz00270	Cysteine and methionine metabolism - Herbaspirillum seropedicae Z67
+path:hsz00280	Valine, leucine and isoleucine degradation - Herbaspirillum seropedicae Z67
+path:hsz00281	Geraniol degradation - Herbaspirillum seropedicae Z67
+path:hsz00290	Valine, leucine and isoleucine biosynthesis - Herbaspirillum seropedicae Z67
+path:hsz00300	Lysine biosynthesis - Herbaspirillum seropedicae Z67
+path:hsz00310	Lysine degradation - Herbaspirillum seropedicae Z67
+path:hsz00330	Arginine and proline metabolism - Herbaspirillum seropedicae Z67
+path:hsz00332	Carbapenem biosynthesis - Herbaspirillum seropedicae Z67
+path:hsz00340	Histidine metabolism - Herbaspirillum seropedicae Z67
+path:hsz00350	Tyrosine metabolism - Herbaspirillum seropedicae Z67
+path:hsz00360	Phenylalanine metabolism - Herbaspirillum seropedicae Z67
+path:hsz00361	Chlorocyclohexane and chlorobenzene degradation - Herbaspirillum seropedicae Z67
+path:hsz00362	Benzoate degradation - Herbaspirillum seropedicae Z67
+path:hsz00364	Fluorobenzoate degradation - Herbaspirillum seropedicae Z67
+path:hsz00380	Tryptophan metabolism - Herbaspirillum seropedicae Z67
+path:hsz00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Herbaspirillum seropedicae Z67
+path:hsz00401	Novobiocin biosynthesis - Herbaspirillum seropedicae Z67
+path:hsz00410	beta-Alanine metabolism - Herbaspirillum seropedicae Z67
+path:hsz00430	Taurine and hypotaurine metabolism - Herbaspirillum seropedicae Z67
+path:hsz00440	Phosphonate and phosphinate metabolism - Herbaspirillum seropedicae Z67
+path:hsz00450	Selenocompound metabolism - Herbaspirillum seropedicae Z67
+path:hsz00460	Cyanoamino acid metabolism - Herbaspirillum seropedicae Z67
+path:hsz00471	D-Glutamine and D-glutamate metabolism - Herbaspirillum seropedicae Z67
+path:hsz00472	D-Arginine and D-ornithine metabolism - Herbaspirillum seropedicae Z67
+path:hsz00473	D-Alanine metabolism - Herbaspirillum seropedicae Z67
+path:hsz00480	Glutathione metabolism - Herbaspirillum seropedicae Z67
+path:hsz00500	Starch and sucrose metabolism - Herbaspirillum seropedicae Z67
+path:hsz00520	Amino sugar and nucleotide sugar metabolism - Herbaspirillum seropedicae Z67
+path:hsz00521	Streptomycin biosynthesis - Herbaspirillum seropedicae Z67
+path:hsz00523	Polyketide sugar unit biosynthesis - Herbaspirillum seropedicae Z67
+path:hsz00540	Lipopolysaccharide biosynthesis - Herbaspirillum seropedicae Z67
+path:hsz00550	Peptidoglycan biosynthesis - Herbaspirillum seropedicae Z67
+path:hsz00561	Glycerolipid metabolism - Herbaspirillum seropedicae Z67
+path:hsz00562	Inositol phosphate metabolism - Herbaspirillum seropedicae Z67
+path:hsz00564	Glycerophospholipid metabolism - Herbaspirillum seropedicae Z67
+path:hsz00590	Arachidonic acid metabolism - Herbaspirillum seropedicae Z67
+path:hsz00592	alpha-Linolenic acid metabolism - Herbaspirillum seropedicae Z67
+path:hsz00620	Pyruvate metabolism - Herbaspirillum seropedicae Z67
+path:hsz00622	Xylene degradation - Herbaspirillum seropedicae Z67
+path:hsz00623	Toluene degradation - Herbaspirillum seropedicae Z67
+path:hsz00625	Chloroalkane and chloroalkene degradation - Herbaspirillum seropedicae Z67
+path:hsz00626	Naphthalene degradation - Herbaspirillum seropedicae Z67
+path:hsz00627	Aminobenzoate degradation - Herbaspirillum seropedicae Z67
+path:hsz00630	Glyoxylate and dicarboxylate metabolism - Herbaspirillum seropedicae Z67
+path:hsz00633	Nitrotoluene degradation - Herbaspirillum seropedicae Z67
+path:hsz00640	Propanoate metabolism - Herbaspirillum seropedicae Z67
+path:hsz00643	Styrene degradation - Herbaspirillum seropedicae Z67
+path:hsz00650	Butanoate metabolism - Herbaspirillum seropedicae Z67
+path:hsz00660	C5-Branched dibasic acid metabolism - Herbaspirillum seropedicae Z67
+path:hsz00670	One carbon pool by folate - Herbaspirillum seropedicae Z67
+path:hsz00680	Methane metabolism - Herbaspirillum seropedicae Z67
+path:hsz00730	Thiamine metabolism - Herbaspirillum seropedicae Z67
+path:hsz00740	Riboflavin metabolism - Herbaspirillum seropedicae Z67
+path:hsz00750	Vitamin B6 metabolism - Herbaspirillum seropedicae Z67
+path:hsz00760	Nicotinate and nicotinamide metabolism - Herbaspirillum seropedicae Z67
+path:hsz00770	Pantothenate and CoA biosynthesis - Herbaspirillum seropedicae Z67
+path:hsz00780	Biotin metabolism - Herbaspirillum seropedicae Z67
+path:hsz00785	Lipoic acid metabolism - Herbaspirillum seropedicae Z67
+path:hsz00790	Folate biosynthesis - Herbaspirillum seropedicae Z67
+path:hsz00791	Atrazine degradation - Herbaspirillum seropedicae Z67
+path:hsz00860	Porphyrin and chlorophyll metabolism - Herbaspirillum seropedicae Z67
+path:hsz00900	Terpenoid backbone biosynthesis - Herbaspirillum seropedicae Z67
+path:hsz00903	Limonene and pinene degradation - Herbaspirillum seropedicae Z67
+path:hsz00906	Carotenoid biosynthesis - Herbaspirillum seropedicae Z67
+path:hsz00910	Nitrogen metabolism - Herbaspirillum seropedicae Z67
+path:hsz00920	Sulfur metabolism - Herbaspirillum seropedicae Z67
+path:hsz00930	Caprolactam degradation - Herbaspirillum seropedicae Z67
+path:hsz00970	Aminoacyl-tRNA biosynthesis - Herbaspirillum seropedicae Z67
+path:hsz01040	Biosynthesis of unsaturated fatty acids - Herbaspirillum seropedicae Z67
+path:hsz01100	Metabolic pathways - Herbaspirillum seropedicae Z67
+path:hsz01110	Biosynthesis of secondary metabolites - Herbaspirillum seropedicae Z67
+path:hsz01120	Microbial metabolism in diverse environments - Herbaspirillum seropedicae Z67
+path:hsz01130	Biosynthesis of antibiotics - Herbaspirillum seropedicae Z67
+path:hsz01200	Carbon metabolism - Herbaspirillum seropedicae Z67
+path:hsz01210	2-Oxocarboxylic acid metabolism - Herbaspirillum seropedicae Z67
+path:hsz01212	Fatty acid metabolism - Herbaspirillum seropedicae Z67
+path:hsz01220	Degradation of aromatic compounds - Herbaspirillum seropedicae Z67
+path:hsz01230	Biosynthesis of amino acids - Herbaspirillum seropedicae Z67
+path:hsz01501	beta-Lactam resistance - Herbaspirillum seropedicae Z67
+path:hsz01502	Vancomycin resistance - Herbaspirillum seropedicae Z67
+path:hsz01503	Cationic antimicrobial peptide (CAMP) resistance - Herbaspirillum seropedicae Z67
+path:hsz02010	ABC transporters - Herbaspirillum seropedicae Z67
+path:hsz02020	Two-component system - Herbaspirillum seropedicae Z67
+path:hsz02024	Quorum sensing - Herbaspirillum seropedicae Z67
+path:hsz02030	Bacterial chemotaxis - Herbaspirillum seropedicae Z67
+path:hsz02040	Flagellar assembly - Herbaspirillum seropedicae Z67
+path:hsz02060	Phosphotransferase system (PTS) - Herbaspirillum seropedicae Z67
+path:hsz03010	Ribosome - Herbaspirillum seropedicae Z67
+path:hsz03018	RNA degradation - Herbaspirillum seropedicae Z67
+path:hsz03020	RNA polymerase - Herbaspirillum seropedicae Z67
+path:hsz03030	DNA replication - Herbaspirillum seropedicae Z67
+path:hsz03060	Protein export - Herbaspirillum seropedicae Z67
+path:hsz03070	Bacterial secretion system - Herbaspirillum seropedicae Z67
+path:hsz03410	Base excision repair - Herbaspirillum seropedicae Z67
+path:hsz03420	Nucleotide excision repair - Herbaspirillum seropedicae Z67
+path:hsz03430	Mismatch repair - Herbaspirillum seropedicae Z67
+path:hsz03440	Homologous recombination - Herbaspirillum seropedicae Z67
+path:hsz03450	Non-homologous end-joining - Herbaspirillum seropedicae Z67
+path:hsz04122	Sulfur relay system - Herbaspirillum seropedicae Z67
+path:hht00010	Glycolysis / Gluconeogenesis - Herbaspirillum hiltneri
+path:hht00020	Citrate cycle (TCA cycle) - Herbaspirillum hiltneri
+path:hht00030	Pentose phosphate pathway - Herbaspirillum hiltneri
+path:hht00040	Pentose and glucuronate interconversions - Herbaspirillum hiltneri
+path:hht00051	Fructose and mannose metabolism - Herbaspirillum hiltneri
+path:hht00052	Galactose metabolism - Herbaspirillum hiltneri
+path:hht00053	Ascorbate and aldarate metabolism - Herbaspirillum hiltneri
+path:hht00061	Fatty acid biosynthesis - Herbaspirillum hiltneri
+path:hht00071	Fatty acid degradation - Herbaspirillum hiltneri
+path:hht00072	Synthesis and degradation of ketone bodies - Herbaspirillum hiltneri
+path:hht00130	Ubiquinone and other terpenoid-quinone biosynthesis - Herbaspirillum hiltneri
+path:hht00190	Oxidative phosphorylation - Herbaspirillum hiltneri
+path:hht00220	Arginine biosynthesis - Herbaspirillum hiltneri
+path:hht00230	Purine metabolism - Herbaspirillum hiltneri
+path:hht00240	Pyrimidine metabolism - Herbaspirillum hiltneri
+path:hht00250	Alanine, aspartate and glutamate metabolism - Herbaspirillum hiltneri
+path:hht00260	Glycine, serine and threonine metabolism - Herbaspirillum hiltneri
+path:hht00261	Monobactam biosynthesis - Herbaspirillum hiltneri
+path:hht00270	Cysteine and methionine metabolism - Herbaspirillum hiltneri
+path:hht00280	Valine, leucine and isoleucine degradation - Herbaspirillum hiltneri
+path:hht00281	Geraniol degradation - Herbaspirillum hiltneri
+path:hht00290	Valine, leucine and isoleucine biosynthesis - Herbaspirillum hiltneri
+path:hht00300	Lysine biosynthesis - Herbaspirillum hiltneri
+path:hht00310	Lysine degradation - Herbaspirillum hiltneri
+path:hht00311	Penicillin and cephalosporin biosynthesis - Herbaspirillum hiltneri
+path:hht00330	Arginine and proline metabolism - Herbaspirillum hiltneri
+path:hht00332	Carbapenem biosynthesis - Herbaspirillum hiltneri
+path:hht00340	Histidine metabolism - Herbaspirillum hiltneri
+path:hht00350	Tyrosine metabolism - Herbaspirillum hiltneri
+path:hht00360	Phenylalanine metabolism - Herbaspirillum hiltneri
+path:hht00361	Chlorocyclohexane and chlorobenzene degradation - Herbaspirillum hiltneri
+path:hht00362	Benzoate degradation - Herbaspirillum hiltneri
+path:hht00364	Fluorobenzoate degradation - Herbaspirillum hiltneri
+path:hht00380	Tryptophan metabolism - Herbaspirillum hiltneri
+path:hht00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Herbaspirillum hiltneri
+path:hht00401	Novobiocin biosynthesis - Herbaspirillum hiltneri
+path:hht00410	beta-Alanine metabolism - Herbaspirillum hiltneri
+path:hht00430	Taurine and hypotaurine metabolism - Herbaspirillum hiltneri
+path:hht00440	Phosphonate and phosphinate metabolism - Herbaspirillum hiltneri
+path:hht00450	Selenocompound metabolism - Herbaspirillum hiltneri
+path:hht00460	Cyanoamino acid metabolism - Herbaspirillum hiltneri
+path:hht00471	D-Glutamine and D-glutamate metabolism - Herbaspirillum hiltneri
+path:hht00472	D-Arginine and D-ornithine metabolism - Herbaspirillum hiltneri
+path:hht00473	D-Alanine metabolism - Herbaspirillum hiltneri
+path:hht00480	Glutathione metabolism - Herbaspirillum hiltneri
+path:hht00500	Starch and sucrose metabolism - Herbaspirillum hiltneri
+path:hht00520	Amino sugar and nucleotide sugar metabolism - Herbaspirillum hiltneri
+path:hht00521	Streptomycin biosynthesis - Herbaspirillum hiltneri
+path:hht00523	Polyketide sugar unit biosynthesis - Herbaspirillum hiltneri
+path:hht00525	Acarbose and validamycin biosynthesis - Herbaspirillum hiltneri
+path:hht00540	Lipopolysaccharide biosynthesis - Herbaspirillum hiltneri
+path:hht00550	Peptidoglycan biosynthesis - Herbaspirillum hiltneri
+path:hht00561	Glycerolipid metabolism - Herbaspirillum hiltneri
+path:hht00562	Inositol phosphate metabolism - Herbaspirillum hiltneri
+path:hht00564	Glycerophospholipid metabolism - Herbaspirillum hiltneri
+path:hht00590	Arachidonic acid metabolism - Herbaspirillum hiltneri
+path:hht00592	alpha-Linolenic acid metabolism - Herbaspirillum hiltneri
+path:hht00620	Pyruvate metabolism - Herbaspirillum hiltneri
+path:hht00621	Dioxin degradation - Herbaspirillum hiltneri
+path:hht00623	Toluene degradation - Herbaspirillum hiltneri
+path:hht00624	Polycyclic aromatic hydrocarbon degradation - Herbaspirillum hiltneri
+path:hht00625	Chloroalkane and chloroalkene degradation - Herbaspirillum hiltneri
+path:hht00626	Naphthalene degradation - Herbaspirillum hiltneri
+path:hht00627	Aminobenzoate degradation - Herbaspirillum hiltneri
+path:hht00630	Glyoxylate and dicarboxylate metabolism - Herbaspirillum hiltneri
+path:hht00633	Nitrotoluene degradation - Herbaspirillum hiltneri
+path:hht00640	Propanoate metabolism - Herbaspirillum hiltneri
+path:hht00643	Styrene degradation - Herbaspirillum hiltneri
+path:hht00650	Butanoate metabolism - Herbaspirillum hiltneri
+path:hht00660	C5-Branched dibasic acid metabolism - Herbaspirillum hiltneri
+path:hht00670	One carbon pool by folate - Herbaspirillum hiltneri
+path:hht00680	Methane metabolism - Herbaspirillum hiltneri
+path:hht00730	Thiamine metabolism - Herbaspirillum hiltneri
+path:hht00740	Riboflavin metabolism - Herbaspirillum hiltneri
+path:hht00750	Vitamin B6 metabolism - Herbaspirillum hiltneri
+path:hht00760	Nicotinate and nicotinamide metabolism - Herbaspirillum hiltneri
+path:hht00770	Pantothenate and CoA biosynthesis - Herbaspirillum hiltneri
+path:hht00780	Biotin metabolism - Herbaspirillum hiltneri
+path:hht00785	Lipoic acid metabolism - Herbaspirillum hiltneri
+path:hht00790	Folate biosynthesis - Herbaspirillum hiltneri
+path:hht00791	Atrazine degradation - Herbaspirillum hiltneri
+path:hht00860	Porphyrin and chlorophyll metabolism - Herbaspirillum hiltneri
+path:hht00900	Terpenoid backbone biosynthesis - Herbaspirillum hiltneri
+path:hht00903	Limonene and pinene degradation - Herbaspirillum hiltneri
+path:hht00906	Carotenoid biosynthesis - Herbaspirillum hiltneri
+path:hht00910	Nitrogen metabolism - Herbaspirillum hiltneri
+path:hht00920	Sulfur metabolism - Herbaspirillum hiltneri
+path:hht00930	Caprolactam degradation - Herbaspirillum hiltneri
+path:hht00970	Aminoacyl-tRNA biosynthesis - Herbaspirillum hiltneri
+path:hht01040	Biosynthesis of unsaturated fatty acids - Herbaspirillum hiltneri
+path:hht01054	Nonribosomal peptide structures - Herbaspirillum hiltneri
+path:hht01100	Metabolic pathways - Herbaspirillum hiltneri
+path:hht01110	Biosynthesis of secondary metabolites - Herbaspirillum hiltneri
+path:hht01120	Microbial metabolism in diverse environments - Herbaspirillum hiltneri
+path:hht01130	Biosynthesis of antibiotics - Herbaspirillum hiltneri
+path:hht01200	Carbon metabolism - Herbaspirillum hiltneri
+path:hht01210	2-Oxocarboxylic acid metabolism - Herbaspirillum hiltneri
+path:hht01212	Fatty acid metabolism - Herbaspirillum hiltneri
+path:hht01220	Degradation of aromatic compounds - Herbaspirillum hiltneri
+path:hht01230	Biosynthesis of amino acids - Herbaspirillum hiltneri
+path:hht01501	beta-Lactam resistance - Herbaspirillum hiltneri
+path:hht01502	Vancomycin resistance - Herbaspirillum hiltneri
+path:hht01503	Cationic antimicrobial peptide (CAMP) resistance - Herbaspirillum hiltneri
+path:hht02010	ABC transporters - Herbaspirillum hiltneri
+path:hht02020	Two-component system - Herbaspirillum hiltneri
+path:hht02024	Quorum sensing - Herbaspirillum hiltneri
+path:hht02030	Bacterial chemotaxis - Herbaspirillum hiltneri
+path:hht02040	Flagellar assembly - Herbaspirillum hiltneri
+path:hht02060	Phosphotransferase system (PTS) - Herbaspirillum hiltneri
+path:hht03010	Ribosome - Herbaspirillum hiltneri
+path:hht03018	RNA degradation - Herbaspirillum hiltneri
+path:hht03020	RNA polymerase - Herbaspirillum hiltneri
+path:hht03030	DNA replication - Herbaspirillum hiltneri
+path:hht03060	Protein export - Herbaspirillum hiltneri
+path:hht03070	Bacterial secretion system - Herbaspirillum hiltneri
+path:hht03410	Base excision repair - Herbaspirillum hiltneri
+path:hht03420	Nucleotide excision repair - Herbaspirillum hiltneri
+path:hht03430	Mismatch repair - Herbaspirillum hiltneri
+path:hht03440	Homologous recombination - Herbaspirillum hiltneri
+path:hht03450	Non-homologous end-joining - Herbaspirillum hiltneri
+path:hht04122	Sulfur relay system - Herbaspirillum hiltneri
+path:hrb00010	Glycolysis / Gluconeogenesis - Herbaspirillum rubrisubalbicans
+path:hrb00020	Citrate cycle (TCA cycle) - Herbaspirillum rubrisubalbicans
+path:hrb00030	Pentose phosphate pathway - Herbaspirillum rubrisubalbicans
+path:hrb00040	Pentose and glucuronate interconversions - Herbaspirillum rubrisubalbicans
+path:hrb00051	Fructose and mannose metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00052	Galactose metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00053	Ascorbate and aldarate metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00061	Fatty acid biosynthesis - Herbaspirillum rubrisubalbicans
+path:hrb00071	Fatty acid degradation - Herbaspirillum rubrisubalbicans
+path:hrb00072	Synthesis and degradation of ketone bodies - Herbaspirillum rubrisubalbicans
+path:hrb00130	Ubiquinone and other terpenoid-quinone biosynthesis - Herbaspirillum rubrisubalbicans
+path:hrb00190	Oxidative phosphorylation - Herbaspirillum rubrisubalbicans
+path:hrb00220	Arginine biosynthesis - Herbaspirillum rubrisubalbicans
+path:hrb00230	Purine metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00240	Pyrimidine metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00250	Alanine, aspartate and glutamate metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00260	Glycine, serine and threonine metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00261	Monobactam biosynthesis - Herbaspirillum rubrisubalbicans
+path:hrb00270	Cysteine and methionine metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00280	Valine, leucine and isoleucine degradation - Herbaspirillum rubrisubalbicans
+path:hrb00281	Geraniol degradation - Herbaspirillum rubrisubalbicans
+path:hrb00290	Valine, leucine and isoleucine biosynthesis - Herbaspirillum rubrisubalbicans
+path:hrb00300	Lysine biosynthesis - Herbaspirillum rubrisubalbicans
+path:hrb00310	Lysine degradation - Herbaspirillum rubrisubalbicans
+path:hrb00330	Arginine and proline metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00332	Carbapenem biosynthesis - Herbaspirillum rubrisubalbicans
+path:hrb00340	Histidine metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00350	Tyrosine metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00360	Phenylalanine metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00361	Chlorocyclohexane and chlorobenzene degradation - Herbaspirillum rubrisubalbicans
+path:hrb00362	Benzoate degradation - Herbaspirillum rubrisubalbicans
+path:hrb00364	Fluorobenzoate degradation - Herbaspirillum rubrisubalbicans
+path:hrb00380	Tryptophan metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Herbaspirillum rubrisubalbicans
+path:hrb00401	Novobiocin biosynthesis - Herbaspirillum rubrisubalbicans
+path:hrb00410	beta-Alanine metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00430	Taurine and hypotaurine metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00440	Phosphonate and phosphinate metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00450	Selenocompound metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00460	Cyanoamino acid metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00471	D-Glutamine and D-glutamate metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00472	D-Arginine and D-ornithine metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00473	D-Alanine metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00480	Glutathione metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00500	Starch and sucrose metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00520	Amino sugar and nucleotide sugar metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00521	Streptomycin biosynthesis - Herbaspirillum rubrisubalbicans
+path:hrb00523	Polyketide sugar unit biosynthesis - Herbaspirillum rubrisubalbicans
+path:hrb00525	Acarbose and validamycin biosynthesis - Herbaspirillum rubrisubalbicans
+path:hrb00540	Lipopolysaccharide biosynthesis - Herbaspirillum rubrisubalbicans
+path:hrb00550	Peptidoglycan biosynthesis - Herbaspirillum rubrisubalbicans
+path:hrb00561	Glycerolipid metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00562	Inositol phosphate metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00564	Glycerophospholipid metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00565	Ether lipid metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00590	Arachidonic acid metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00592	alpha-Linolenic acid metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00620	Pyruvate metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00622	Xylene degradation - Herbaspirillum rubrisubalbicans
+path:hrb00623	Toluene degradation - Herbaspirillum rubrisubalbicans
+path:hrb00624	Polycyclic aromatic hydrocarbon degradation - Herbaspirillum rubrisubalbicans
+path:hrb00625	Chloroalkane and chloroalkene degradation - Herbaspirillum rubrisubalbicans
+path:hrb00626	Naphthalene degradation - Herbaspirillum rubrisubalbicans
+path:hrb00627	Aminobenzoate degradation - Herbaspirillum rubrisubalbicans
+path:hrb00630	Glyoxylate and dicarboxylate metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00633	Nitrotoluene degradation - Herbaspirillum rubrisubalbicans
+path:hrb00640	Propanoate metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00643	Styrene degradation - Herbaspirillum rubrisubalbicans
+path:hrb00650	Butanoate metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00660	C5-Branched dibasic acid metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00670	One carbon pool by folate - Herbaspirillum rubrisubalbicans
+path:hrb00680	Methane metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00730	Thiamine metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00740	Riboflavin metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00750	Vitamin B6 metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00760	Nicotinate and nicotinamide metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00770	Pantothenate and CoA biosynthesis - Herbaspirillum rubrisubalbicans
+path:hrb00780	Biotin metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00785	Lipoic acid metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00790	Folate biosynthesis - Herbaspirillum rubrisubalbicans
+path:hrb00791	Atrazine degradation - Herbaspirillum rubrisubalbicans
+path:hrb00860	Porphyrin and chlorophyll metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00900	Terpenoid backbone biosynthesis - Herbaspirillum rubrisubalbicans
+path:hrb00903	Limonene and pinene degradation - Herbaspirillum rubrisubalbicans
+path:hrb00906	Carotenoid biosynthesis - Herbaspirillum rubrisubalbicans
+path:hrb00910	Nitrogen metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00920	Sulfur metabolism - Herbaspirillum rubrisubalbicans
+path:hrb00930	Caprolactam degradation - Herbaspirillum rubrisubalbicans
+path:hrb00970	Aminoacyl-tRNA biosynthesis - Herbaspirillum rubrisubalbicans
+path:hrb01040	Biosynthesis of unsaturated fatty acids - Herbaspirillum rubrisubalbicans
+path:hrb01053	Biosynthesis of siderophore group nonribosomal peptides - Herbaspirillum rubrisubalbicans
+path:hrb01054	Nonribosomal peptide structures - Herbaspirillum rubrisubalbicans
+path:hrb01100	Metabolic pathways - Herbaspirillum rubrisubalbicans
+path:hrb01110	Biosynthesis of secondary metabolites - Herbaspirillum rubrisubalbicans
+path:hrb01120	Microbial metabolism in diverse environments - Herbaspirillum rubrisubalbicans
+path:hrb01130	Biosynthesis of antibiotics - Herbaspirillum rubrisubalbicans
+path:hrb01200	Carbon metabolism - Herbaspirillum rubrisubalbicans
+path:hrb01210	2-Oxocarboxylic acid metabolism - Herbaspirillum rubrisubalbicans
+path:hrb01212	Fatty acid metabolism - Herbaspirillum rubrisubalbicans
+path:hrb01220	Degradation of aromatic compounds - Herbaspirillum rubrisubalbicans
+path:hrb01230	Biosynthesis of amino acids - Herbaspirillum rubrisubalbicans
+path:hrb01501	beta-Lactam resistance - Herbaspirillum rubrisubalbicans
+path:hrb01502	Vancomycin resistance - Herbaspirillum rubrisubalbicans
+path:hrb01503	Cationic antimicrobial peptide (CAMP) resistance - Herbaspirillum rubrisubalbicans
+path:hrb02010	ABC transporters - Herbaspirillum rubrisubalbicans
+path:hrb02020	Two-component system - Herbaspirillum rubrisubalbicans
+path:hrb02024	Quorum sensing - Herbaspirillum rubrisubalbicans
+path:hrb02030	Bacterial chemotaxis - Herbaspirillum rubrisubalbicans
+path:hrb02040	Flagellar assembly - Herbaspirillum rubrisubalbicans
+path:hrb02060	Phosphotransferase system (PTS) - Herbaspirillum rubrisubalbicans
+path:hrb03010	Ribosome - Herbaspirillum rubrisubalbicans
+path:hrb03018	RNA degradation - Herbaspirillum rubrisubalbicans
+path:hrb03020	RNA polymerase - Herbaspirillum rubrisubalbicans
+path:hrb03030	DNA replication - Herbaspirillum rubrisubalbicans
+path:hrb03060	Protein export - Herbaspirillum rubrisubalbicans
+path:hrb03070	Bacterial secretion system - Herbaspirillum rubrisubalbicans
+path:hrb03410	Base excision repair - Herbaspirillum rubrisubalbicans
+path:hrb03420	Nucleotide excision repair - Herbaspirillum rubrisubalbicans
+path:hrb03430	Mismatch repair - Herbaspirillum rubrisubalbicans
+path:hrb03440	Homologous recombination - Herbaspirillum rubrisubalbicans
+path:hrb03450	Non-homologous end-joining - Herbaspirillum rubrisubalbicans
+path:hrb04122	Sulfur relay system - Herbaspirillum rubrisubalbicans
+path:hee00010	Glycolysis / Gluconeogenesis - Herbaspirillum sp. meg3
+path:hee00020	Citrate cycle (TCA cycle) - Herbaspirillum sp. meg3
+path:hee00030	Pentose phosphate pathway - Herbaspirillum sp. meg3
+path:hee00040	Pentose and glucuronate interconversions - Herbaspirillum sp. meg3
+path:hee00051	Fructose and mannose metabolism - Herbaspirillum sp. meg3
+path:hee00052	Galactose metabolism - Herbaspirillum sp. meg3
+path:hee00053	Ascorbate and aldarate metabolism - Herbaspirillum sp. meg3
+path:hee00061	Fatty acid biosynthesis - Herbaspirillum sp. meg3
+path:hee00071	Fatty acid degradation - Herbaspirillum sp. meg3
+path:hee00072	Synthesis and degradation of ketone bodies - Herbaspirillum sp. meg3
+path:hee00130	Ubiquinone and other terpenoid-quinone biosynthesis - Herbaspirillum sp. meg3
+path:hee00190	Oxidative phosphorylation - Herbaspirillum sp. meg3
+path:hee00220	Arginine biosynthesis - Herbaspirillum sp. meg3
+path:hee00230	Purine metabolism - Herbaspirillum sp. meg3
+path:hee00240	Pyrimidine metabolism - Herbaspirillum sp. meg3
+path:hee00250	Alanine, aspartate and glutamate metabolism - Herbaspirillum sp. meg3
+path:hee00260	Glycine, serine and threonine metabolism - Herbaspirillum sp. meg3
+path:hee00261	Monobactam biosynthesis - Herbaspirillum sp. meg3
+path:hee00270	Cysteine and methionine metabolism - Herbaspirillum sp. meg3
+path:hee00280	Valine, leucine and isoleucine degradation - Herbaspirillum sp. meg3
+path:hee00281	Geraniol degradation - Herbaspirillum sp. meg3
+path:hee00290	Valine, leucine and isoleucine biosynthesis - Herbaspirillum sp. meg3
+path:hee00300	Lysine biosynthesis - Herbaspirillum sp. meg3
+path:hee00310	Lysine degradation - Herbaspirillum sp. meg3
+path:hee00311	Penicillin and cephalosporin biosynthesis - Herbaspirillum sp. meg3
+path:hee00330	Arginine and proline metabolism - Herbaspirillum sp. meg3
+path:hee00332	Carbapenem biosynthesis - Herbaspirillum sp. meg3
+path:hee00340	Histidine metabolism - Herbaspirillum sp. meg3
+path:hee00350	Tyrosine metabolism - Herbaspirillum sp. meg3
+path:hee00360	Phenylalanine metabolism - Herbaspirillum sp. meg3
+path:hee00361	Chlorocyclohexane and chlorobenzene degradation - Herbaspirillum sp. meg3
+path:hee00362	Benzoate degradation - Herbaspirillum sp. meg3
+path:hee00364	Fluorobenzoate degradation - Herbaspirillum sp. meg3
+path:hee00380	Tryptophan metabolism - Herbaspirillum sp. meg3
+path:hee00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Herbaspirillum sp. meg3
+path:hee00401	Novobiocin biosynthesis - Herbaspirillum sp. meg3
+path:hee00410	beta-Alanine metabolism - Herbaspirillum sp. meg3
+path:hee00430	Taurine and hypotaurine metabolism - Herbaspirillum sp. meg3
+path:hee00440	Phosphonate and phosphinate metabolism - Herbaspirillum sp. meg3
+path:hee00450	Selenocompound metabolism - Herbaspirillum sp. meg3
+path:hee00460	Cyanoamino acid metabolism - Herbaspirillum sp. meg3
+path:hee00471	D-Glutamine and D-glutamate metabolism - Herbaspirillum sp. meg3
+path:hee00472	D-Arginine and D-ornithine metabolism - Herbaspirillum sp. meg3
+path:hee00473	D-Alanine metabolism - Herbaspirillum sp. meg3
+path:hee00480	Glutathione metabolism - Herbaspirillum sp. meg3
+path:hee00500	Starch and sucrose metabolism - Herbaspirillum sp. meg3
+path:hee00520	Amino sugar and nucleotide sugar metabolism - Herbaspirillum sp. meg3
+path:hee00521	Streptomycin biosynthesis - Herbaspirillum sp. meg3
+path:hee00523	Polyketide sugar unit biosynthesis - Herbaspirillum sp. meg3
+path:hee00525	Acarbose and validamycin biosynthesis - Herbaspirillum sp. meg3
+path:hee00540	Lipopolysaccharide biosynthesis - Herbaspirillum sp. meg3
+path:hee00550	Peptidoglycan biosynthesis - Herbaspirillum sp. meg3
+path:hee00561	Glycerolipid metabolism - Herbaspirillum sp. meg3
+path:hee00562	Inositol phosphate metabolism - Herbaspirillum sp. meg3
+path:hee00564	Glycerophospholipid metabolism - Herbaspirillum sp. meg3
+path:hee00590	Arachidonic acid metabolism - Herbaspirillum sp. meg3
+path:hee00592	alpha-Linolenic acid metabolism - Herbaspirillum sp. meg3
+path:hee00620	Pyruvate metabolism - Herbaspirillum sp. meg3
+path:hee00621	Dioxin degradation - Herbaspirillum sp. meg3
+path:hee00622	Xylene degradation - Herbaspirillum sp. meg3
+path:hee00623	Toluene degradation - Herbaspirillum sp. meg3
+path:hee00624	Polycyclic aromatic hydrocarbon degradation - Herbaspirillum sp. meg3
+path:hee00625	Chloroalkane and chloroalkene degradation - Herbaspirillum sp. meg3
+path:hee00626	Naphthalene degradation - Herbaspirillum sp. meg3
+path:hee00627	Aminobenzoate degradation - Herbaspirillum sp. meg3
+path:hee00630	Glyoxylate and dicarboxylate metabolism - Herbaspirillum sp. meg3
+path:hee00633	Nitrotoluene degradation - Herbaspirillum sp. meg3
+path:hee00640	Propanoate metabolism - Herbaspirillum sp. meg3
+path:hee00643	Styrene degradation - Herbaspirillum sp. meg3
+path:hee00650	Butanoate metabolism - Herbaspirillum sp. meg3
+path:hee00660	C5-Branched dibasic acid metabolism - Herbaspirillum sp. meg3
+path:hee00670	One carbon pool by folate - Herbaspirillum sp. meg3
+path:hee00680	Methane metabolism - Herbaspirillum sp. meg3
+path:hee00730	Thiamine metabolism - Herbaspirillum sp. meg3
+path:hee00740	Riboflavin metabolism - Herbaspirillum sp. meg3
+path:hee00750	Vitamin B6 metabolism - Herbaspirillum sp. meg3
+path:hee00760	Nicotinate and nicotinamide metabolism - Herbaspirillum sp. meg3
+path:hee00770	Pantothenate and CoA biosynthesis - Herbaspirillum sp. meg3
+path:hee00780	Biotin metabolism - Herbaspirillum sp. meg3
+path:hee00785	Lipoic acid metabolism - Herbaspirillum sp. meg3
+path:hee00790	Folate biosynthesis - Herbaspirillum sp. meg3
+path:hee00791	Atrazine degradation - Herbaspirillum sp. meg3
+path:hee00860	Porphyrin and chlorophyll metabolism - Herbaspirillum sp. meg3
+path:hee00900	Terpenoid backbone biosynthesis - Herbaspirillum sp. meg3
+path:hee00903	Limonene and pinene degradation - Herbaspirillum sp. meg3
+path:hee00906	Carotenoid biosynthesis - Herbaspirillum sp. meg3
+path:hee00910	Nitrogen metabolism - Herbaspirillum sp. meg3
+path:hee00920	Sulfur metabolism - Herbaspirillum sp. meg3
+path:hee00930	Caprolactam degradation - Herbaspirillum sp. meg3
+path:hee00970	Aminoacyl-tRNA biosynthesis - Herbaspirillum sp. meg3
+path:hee01040	Biosynthesis of unsaturated fatty acids - Herbaspirillum sp. meg3
+path:hee01054	Nonribosomal peptide structures - Herbaspirillum sp. meg3
+path:hee01100	Metabolic pathways - Herbaspirillum sp. meg3
+path:hee01110	Biosynthesis of secondary metabolites - Herbaspirillum sp. meg3
+path:hee01120	Microbial metabolism in diverse environments - Herbaspirillum sp. meg3
+path:hee01130	Biosynthesis of antibiotics - Herbaspirillum sp. meg3
+path:hee01200	Carbon metabolism - Herbaspirillum sp. meg3
+path:hee01210	2-Oxocarboxylic acid metabolism - Herbaspirillum sp. meg3
+path:hee01212	Fatty acid metabolism - Herbaspirillum sp. meg3
+path:hee01220	Degradation of aromatic compounds - Herbaspirillum sp. meg3
+path:hee01230	Biosynthesis of amino acids - Herbaspirillum sp. meg3
+path:hee01501	beta-Lactam resistance - Herbaspirillum sp. meg3
+path:hee01502	Vancomycin resistance - Herbaspirillum sp. meg3
+path:hee01503	Cationic antimicrobial peptide (CAMP) resistance - Herbaspirillum sp. meg3
+path:hee02010	ABC transporters - Herbaspirillum sp. meg3
+path:hee02020	Two-component system - Herbaspirillum sp. meg3
+path:hee02024	Quorum sensing - Herbaspirillum sp. meg3
+path:hee02030	Bacterial chemotaxis - Herbaspirillum sp. meg3
+path:hee02040	Flagellar assembly - Herbaspirillum sp. meg3
+path:hee02060	Phosphotransferase system (PTS) - Herbaspirillum sp. meg3
+path:hee03010	Ribosome - Herbaspirillum sp. meg3
+path:hee03018	RNA degradation - Herbaspirillum sp. meg3
+path:hee03020	RNA polymerase - Herbaspirillum sp. meg3
+path:hee03030	DNA replication - Herbaspirillum sp. meg3
+path:hee03060	Protein export - Herbaspirillum sp. meg3
+path:hee03070	Bacterial secretion system - Herbaspirillum sp. meg3
+path:hee03410	Base excision repair - Herbaspirillum sp. meg3
+path:hee03420	Nucleotide excision repair - Herbaspirillum sp. meg3
+path:hee03430	Mismatch repair - Herbaspirillum sp. meg3
+path:hee03440	Homologous recombination - Herbaspirillum sp. meg3
+path:hee04122	Sulfur relay system - Herbaspirillum sp. meg3

@@ -1,0 +1,346 @@
+<html>
+<!---
+ENTRY       ko00365
+DEFINITION  Furfural degradation
+--->
+<head>
+<title>
+KEGG PATHWAY: Furfural degradation
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Furfural degradation</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=00365&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map00365.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko00365">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko00365&format=kgml">Download KGML</a>
+
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="ec">Reference pathway (EC)</option>
+<option value="rn">Reference pathway (Reaction)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="ppse">Pseudomonas pseudoalcaligenes</option>
+<option value="pman">Pseudomonas mandelii</option>
+<option value="pstt">Pseudomonas stutzeri 28a24</option>
+<option value="ppuu">Pseudomonas sp. UW4</option>
+<option value="psk">Pseudomonas sp. TKP</option>
+<option value="prh">Pseudomonas rhizosphaerae</option>
+<option value="hak">Halomonas sp. KO116</option>
+<option value="adi">Alcanivorax dieselolei</option>
+<option value="rpi">Ralstonia pickettii 12J</option>
+<option value="rpf">Ralstonia pickettii 12D</option>
+<option value="rpj">Ralstonia pickettii DTP0602</option>
+<option value="reu">Ralstonia eutropha JMP134</option>
+<option value="reh">Ralstonia eutropha H16</option>
+<option value="cnc">Cupriavidus necator N-1</option>
+<option value="bcj">Burkholderia cenocepacia J2315</option>
+<option value="bcen">Burkholderia cenocepacia DDS 22E-1</option>
+<option value="bug">Burkholderia sp. CCGE1001</option>
+<option value="bge">Burkholderia sp. CCGE1002</option>
+<option value="bgf">Burkholderia sp. CCGE1003</option>
+<option value="bgd">Burkholderia gladioli BSR3</option>
+<option value="bgo">Burkholderia gladioli ATCC 10248</option>
+<option value="byi">Burkholderia sp. YI23</option>
+<option value="bue">Burkholderia sp. RPE67</option>
+<option value="buq">Burkholderia sp. HB1</option>
+<option value="bxe">Paraburkholderia xenovorans LB400</option>
+<option value="bxb">Paraburkholderia xenovorans LB400</option>
+<option value="bph">Paraburkholderia phymatum</option>
+<option value="bpx">Paraburkholderia phenoliruptrix</option>
+<option value="bpy">Paraburkholderia phytofirmans</option>
+<option value="bfn">Paraburkholderia fungorum</option>
+<option value="bcai">Paraburkholderia caribensis</option>
+<option value="pdq">Polynucleobacter duraquae</option>
+<option value="bbro">Bordetella bronchialis</option>
+<option value="bfz">Bordetella flabilis</option>
+<option value="boh">Bordetella sp. H567</option>
+<option value="ais">Achromobacter insolitus</option>
+<option value="amim">Advenella mimigardefordensis</option>
+<option value="ack">Acidovorax sp. KKS102</option>
+<option value="mei">Methylovorus glucosetrophus</option>
+<option value="mep">Methylovorus sp. MP688</option>
+<option value="mln">Mesorhizobium loti NZP2037</option>
+<option value="meso">Mesorhizobium sp. B7</option>
+<option value="ara">Agrobacterium radiobacter</option>
+<option value="atf">Agrobacterium tumefaciens Ach5</option>
+<option value="rlt">Rhizobium leguminosarum bv. trifolii WSM2304</option>
+<option value="och">Ochrobactrum sp. A44</option>
+<option value="bja">Bradyrhizobium diazoefficiens USDA 110</option>
+<option value="bju">Bradyrhizobium japonicum USDA 6</option>
+<option value="bjp">Bradyrhizobium japonicum E109</option>
+<option value="brs">Bradyrhizobium sp. S23321</option>
+<option value="brc">Bradyrhizobium sp. CCGE-LA001</option>
+<option value="brad">Bradyrhizobium sp. BF49</option>
+<option value="rpc">Rhodopseudomonas palustris BisB18</option>
+<option value="bos">Bosea sp. RAC05</option>
+<option value="bvv">Bosea vaviloviae</option>
+<option value="mrd">Methylobacterium radiotolerans</option>
+<option value="met">Methylobacterium sp. 4-46</option>
+<option value="mno">Methylobacterium nodulans</option>
+<option value="mor">Methylobacterium oryzae</option>
+<option value="maqu">Methylobacterium aquaticum</option>
+<option value="mphy">Methylobacterium phyllosphaerae</option>
+<option value="deq">Devosia sp. H5989</option>
+<option value="rhz">Rhodoplanes sp. Z2-YC6860</option>
+<option value="aua">Aureimonas sp. AU20</option>
+<option value="psin">Pseudorhodoplanes sinuspersici</option>
+<option value="pye">Paracoccus yeei</option>
+<option value="dsh">Dinoroseobacter shibae</option>
+<option value="ptp">Planktomarina temperata</option>
+<option value="hat">Halocynthiibacter arcticus</option>
+<option value="paby">Pelagibaca abyssi</option>
+<option value="nre">Novosphingobium resinovorum</option>
+<option value="swi">Sphingomonas wittichii</option>
+<option value="skr">Sphingomonas koreensis</option>
+<option value="sch">Sphingobium chlorophenolicum</option>
+<option value="acr">Acidiphilium cryptum</option>
+<option value="amv">Acidiphilium multivorum</option>
+<option value="azl">Azospirillum sp. B510</option>
+<option value="ati">Azospirillum thiophilum</option>
+<option value="gka">Geobacillus kaustophilus</option>
+<option value="gmc">Geobacillus sp. Y4.1MC1</option>
+<option value="ggh">Geobacillus sp. GHH01</option>
+<option value="ptl">Parageobacillus thermoglucosidans</option>
+<option value="anm">Anoxybacillus sp. B2M1</option>
+<option value="anl">Anoxybacillus sp. B7M1</option>
+<option value="apak">Aeribacillus pallidus</option>
+<option value="shv">Salinicoccus halodurans</option>
+<option value="pnp">Paenibacillus naphthalenovorans</option>
+<option value="aad">Alicyclobacillus acidocaldarius subsp. acidocaldarius Tc-4-1</option>
+<option value="svl">Streptomyces violaceusniger</option>
+<option value="src">Streptomyces rapamycinicus</option>
+<option value="amq">Amycolatopsis methanolica</option>
+<option value="pdx">Pseudonocardia dioxanivorans</option>
+<option value="psea">Pseudonocardia sp. AL041005-10</option>
+</select>
+<input type="hidden" name="mapno" value="00365" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko00365" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko00365.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=72,205,4	href="/dbget-bin/www_bget?C20441"	title="C20441 (Furfuryl alcohol)" onmouseover="popupTimer(&quot;C20441&quot;, &quot;C20441 (Furfuryl alcohol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=72,131,4	href="/dbget-bin/www_bget?C14279"	title="C14279 (Furfural)" onmouseover="popupTimer(&quot;C14279&quot;, &quot;C14279 (Furfural)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=208,131,4	href="/dbget-bin/www_bget?C01546"	title="C01546 (2-Furoate)" onmouseover="popupTimer(&quot;C01546&quot;, &quot;C01546 (2-Furoate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=338,131,4	href="/dbget-bin/www_bget?C00845"	title="C00845 (2-Furoyl-CoA)" onmouseover="popupTimer(&quot;C00845&quot;, &quot;C00845 (2-Furoyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=468,131,4	href="/dbget-bin/www_bget?C03724"	title="C03724 (S-(5-Hydroxy-2-furoyl)-CoA)" onmouseover="popupTimer(&quot;C03724&quot;, &quot;C03724 (S-(5-Hydroxy-2-furoyl)-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=598,131,4	href="/dbget-bin/www_bget?C20447"	title="C20447 (2-Oxoglutaryl-CoA)" onmouseover="popupTimer(&quot;C20447&quot;, &quot;C20447 (2-Oxoglutaryl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=72,343,4	href="/dbget-bin/www_bget?C20443"	title="C20443 (5-Hydroxymethylfurfuryl alcohol)" onmouseover="popupTimer(&quot;C20443&quot;, &quot;C20443 (5-Hydroxymethylfurfuryl alcohol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=72,261,4	href="/dbget-bin/www_bget?C11101"	title="C11101 (5-Hydroxymethyl-2-furaldehyde)" onmouseover="popupTimer(&quot;C11101&quot;, &quot;C11101 (5-Hydroxymethyl-2-furaldehyde)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=208,261,4	href="/dbget-bin/www_bget?C20450"	title="C20450 (2,5-Furandicarboxylate)" onmouseover="popupTimer(&quot;C20450&quot;, &quot;C20450 (2,5-Furandicarboxylate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=728,131,4	href="/dbget-bin/www_bget?C00026"	title="C00026 (2-Oxoglutarate)" onmouseover="popupTimer(&quot;C00026&quot;, &quot;C00026 (2-Oxoglutarate)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=115,123,161,140	href="/dbget-bin/www_bget?K16873"	title="K16873 (hmfH)" />
+<area shape=rect	coords=245,123,291,140	href="/dbget-bin/www_bget?K16876"	title="K16876 (hmfD)" />
+<area shape=rect	coords=376,123,422,140	href="/dbget-bin/www_bget?K16877+K16878+K16879"	title="K16877 (hmfA), K16878 (hmfB), K16879 (hmfC)" />
+<area shape=rect	coords=634,123,680,140	href="/dbget-bin/www_bget?K16880"	title="K16880 (hmfE)" />
+<area shape=rect	coords=115,253,161,270	href="/dbget-bin/www_bget?K16873"	title="K16873 (hmfH)" />
+<area shape=rect	coords=185,194,231,211	href="/dbget-bin/www_bget?K16874+K16875"	title="K16874 (hmfF), K16875 (hmfG)" />
+<area shape=rect	coords=40,45,241,70	href="/dbget-bin/www_bget?ko00365"	title="ko00365: Furfural degradation" onmouseover="popupTimer(&quot;ko00365&quot;, &quot;ko00365: Furfural degradation&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=794,118,878,143	href="/kegg-bin/show_pathway?ko00020"	title="ko00020: Citrate cycle (TCA cycle)" onmouseover="popupTimer(&quot;ko00020&quot;, &quot;ko00020: Citrate cycle (TCA cycle)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

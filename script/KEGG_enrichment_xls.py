@@ -1,22 +1,37 @@
-#/usr/bin/env python
+#!/usr/bin/env python
 #coding:utf-8
 #yanjun
 #20170913
 
 import argparse
+import ConfigParser 
 from scipy import stats
 
 parser=argparse.ArgumentParser(description="enrichment diff pros")
+parser.add_argument("-config",type=str,required=True,help="config.ini file")
 parser.add_argument("-all",type=str,required=True,help="all pro`s KEGG pathway.table.xls")
 parser.add_argument("-diff",type=str,required=True,help="diff pro`s KEGG pathway.table.xls")
 parser.add_argument("-out_xls",type=str,required=True,help="outfile for enrichment.xls")
 parser.add_argument("-out_plot",type=str,required=True,help="outfile for plot")
 
 args=parser.parse_args()
+cfg = ConfigParser.ConfigParser()
+cfg.read(args.config)
+
+
+KO_All_Categories = cfg.get("KEGG","class")
 
 ko2inf = {}
 all_protein_list = []
 diff_protein_list = []
+ko2class = {}
+
+with open(KO_All_Categories,'r')as KO_All_Categories_r:
+	for line in KO_All_Categories_r.readlines():
+		items = line.strip().split('\t')
+		ko = 'ko%s' %(items[0])
+		ko_class = items[3]
+		ko2class[ko] = ko_class
 
 with open(args.all,'r')as all_r:
 	all_r.readline()
@@ -38,7 +53,7 @@ all_protein_list = set(all_protein_list)
 diff_protein_list = set(diff_protein_list)
 
 out_xls_w = open(args.out_xls,'w')
-out_xls_w.write('pathway	pathway_name	all_number_of_accs	all_KO2acc	diff_number_of_accs	diff_KO2acc	p_value	url\n')
+out_xls_w.write('pathway	pathway_name	class	all_number_of_accs	all_KO2acc	diff_number_of_accs	diff_KO2acc	p_value	url\n')
 out_plot_w = open(args.out_plot,'w')
 out_plot_w.write('''##Databases: KEGG PATHWAY								
 ##Statistical test method: hypergeometric test / Fisher's exact test								
@@ -48,7 +63,7 @@ out_plot_w.write('''##Databases: KEGG PATHWAY
 
 with open(args.diff,'r')as diff_r:
 	diff_r.readline()
-	'''pathway	pathway_name	number_of_accs	accs_list	number_of_KOs	KOs_list	KO2acc	url'''
+	'''pathway	pathway_name	class	number_of_accs	accs_list	number_of_KOs	KOs_list	KO2acc	url'''
 	for line in diff_r.readlines():
 		items = line.strip().split('\t')
 		ko = items[0]
@@ -63,7 +78,7 @@ with open(args.diff,'r')as diff_r:
 		k = len(diff_protein_list)#次数
 		p_value = stats.hypergeom.pmf(x,m+n,m,k)
 		url = items[7]
-		out_xls_w.write('%s\t%s\t%s/%s\t%s\t%s/%s\t%s\t%s\t%s\n' %(ko,items[1],all_number_of_accs,len(all_protein_list),all_KO2acc,diff_number_of_accs,len(diff_protein_list),diff_KO2acc,p_value,url))
+		out_xls_w.write('%s\t%s\t%s\t%s|%s\t%s\t%s|%s\t%s\t%s\t%s\n' %(ko,items[1],ko2class[ko],all_number_of_accs,len(all_protein_list),all_KO2acc,diff_number_of_accs,len(diff_protein_list),diff_KO2acc,p_value,url))
 		out_plot_w.write('%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n' %(items[1],'KEGG PATHWAY',ko,x,m,p_value,p_value,p_value,url))
 		
 out_plot_w.write('''--------------------								

@@ -1,0 +1,483 @@
+path:rfr00010	Glycolysis / Gluconeogenesis - Rhodoferax ferrireducens
+path:rfr00020	Citrate cycle (TCA cycle) - Rhodoferax ferrireducens
+path:rfr00030	Pentose phosphate pathway - Rhodoferax ferrireducens
+path:rfr00040	Pentose and glucuronate interconversions - Rhodoferax ferrireducens
+path:rfr00051	Fructose and mannose metabolism - Rhodoferax ferrireducens
+path:rfr00052	Galactose metabolism - Rhodoferax ferrireducens
+path:rfr00053	Ascorbate and aldarate metabolism - Rhodoferax ferrireducens
+path:rfr00061	Fatty acid biosynthesis - Rhodoferax ferrireducens
+path:rfr00071	Fatty acid degradation - Rhodoferax ferrireducens
+path:rfr00072	Synthesis and degradation of ketone bodies - Rhodoferax ferrireducens
+path:rfr00130	Ubiquinone and other terpenoid-quinone biosynthesis - Rhodoferax ferrireducens
+path:rfr00190	Oxidative phosphorylation - Rhodoferax ferrireducens
+path:rfr00220	Arginine biosynthesis - Rhodoferax ferrireducens
+path:rfr00230	Purine metabolism - Rhodoferax ferrireducens
+path:rfr00240	Pyrimidine metabolism - Rhodoferax ferrireducens
+path:rfr00250	Alanine, aspartate and glutamate metabolism - Rhodoferax ferrireducens
+path:rfr00260	Glycine, serine and threonine metabolism - Rhodoferax ferrireducens
+path:rfr00261	Monobactam biosynthesis - Rhodoferax ferrireducens
+path:rfr00270	Cysteine and methionine metabolism - Rhodoferax ferrireducens
+path:rfr00280	Valine, leucine and isoleucine degradation - Rhodoferax ferrireducens
+path:rfr00281	Geraniol degradation - Rhodoferax ferrireducens
+path:rfr00290	Valine, leucine and isoleucine biosynthesis - Rhodoferax ferrireducens
+path:rfr00300	Lysine biosynthesis - Rhodoferax ferrireducens
+path:rfr00310	Lysine degradation - Rhodoferax ferrireducens
+path:rfr00311	Penicillin and cephalosporin biosynthesis - Rhodoferax ferrireducens
+path:rfr00330	Arginine and proline metabolism - Rhodoferax ferrireducens
+path:rfr00332	Carbapenem biosynthesis - Rhodoferax ferrireducens
+path:rfr00340	Histidine metabolism - Rhodoferax ferrireducens
+path:rfr00350	Tyrosine metabolism - Rhodoferax ferrireducens
+path:rfr00360	Phenylalanine metabolism - Rhodoferax ferrireducens
+path:rfr00361	Chlorocyclohexane and chlorobenzene degradation - Rhodoferax ferrireducens
+path:rfr00362	Benzoate degradation - Rhodoferax ferrireducens
+path:rfr00364	Fluorobenzoate degradation - Rhodoferax ferrireducens
+path:rfr00380	Tryptophan metabolism - Rhodoferax ferrireducens
+path:rfr00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Rhodoferax ferrireducens
+path:rfr00401	Novobiocin biosynthesis - Rhodoferax ferrireducens
+path:rfr00410	beta-Alanine metabolism - Rhodoferax ferrireducens
+path:rfr00430	Taurine and hypotaurine metabolism - Rhodoferax ferrireducens
+path:rfr00440	Phosphonate and phosphinate metabolism - Rhodoferax ferrireducens
+path:rfr00450	Selenocompound metabolism - Rhodoferax ferrireducens
+path:rfr00460	Cyanoamino acid metabolism - Rhodoferax ferrireducens
+path:rfr00471	D-Glutamine and D-glutamate metabolism - Rhodoferax ferrireducens
+path:rfr00472	D-Arginine and D-ornithine metabolism - Rhodoferax ferrireducens
+path:rfr00473	D-Alanine metabolism - Rhodoferax ferrireducens
+path:rfr00480	Glutathione metabolism - Rhodoferax ferrireducens
+path:rfr00500	Starch and sucrose metabolism - Rhodoferax ferrireducens
+path:rfr00520	Amino sugar and nucleotide sugar metabolism - Rhodoferax ferrireducens
+path:rfr00521	Streptomycin biosynthesis - Rhodoferax ferrireducens
+path:rfr00523	Polyketide sugar unit biosynthesis - Rhodoferax ferrireducens
+path:rfr00525	Acarbose and validamycin biosynthesis - Rhodoferax ferrireducens
+path:rfr00540	Lipopolysaccharide biosynthesis - Rhodoferax ferrireducens
+path:rfr00550	Peptidoglycan biosynthesis - Rhodoferax ferrireducens
+path:rfr00561	Glycerolipid metabolism - Rhodoferax ferrireducens
+path:rfr00562	Inositol phosphate metabolism - Rhodoferax ferrireducens
+path:rfr00564	Glycerophospholipid metabolism - Rhodoferax ferrireducens
+path:rfr00565	Ether lipid metabolism - Rhodoferax ferrireducens
+path:rfr00590	Arachidonic acid metabolism - Rhodoferax ferrireducens
+path:rfr00592	alpha-Linolenic acid metabolism - Rhodoferax ferrireducens
+path:rfr00620	Pyruvate metabolism - Rhodoferax ferrireducens
+path:rfr00621	Dioxin degradation - Rhodoferax ferrireducens
+path:rfr00622	Xylene degradation - Rhodoferax ferrireducens
+path:rfr00623	Toluene degradation - Rhodoferax ferrireducens
+path:rfr00624	Polycyclic aromatic hydrocarbon degradation - Rhodoferax ferrireducens
+path:rfr00625	Chloroalkane and chloroalkene degradation - Rhodoferax ferrireducens
+path:rfr00626	Naphthalene degradation - Rhodoferax ferrireducens
+path:rfr00627	Aminobenzoate degradation - Rhodoferax ferrireducens
+path:rfr00630	Glyoxylate and dicarboxylate metabolism - Rhodoferax ferrireducens
+path:rfr00633	Nitrotoluene degradation - Rhodoferax ferrireducens
+path:rfr00640	Propanoate metabolism - Rhodoferax ferrireducens
+path:rfr00643	Styrene degradation - Rhodoferax ferrireducens
+path:rfr00650	Butanoate metabolism - Rhodoferax ferrireducens
+path:rfr00660	C5-Branched dibasic acid metabolism - Rhodoferax ferrireducens
+path:rfr00670	One carbon pool by folate - Rhodoferax ferrireducens
+path:rfr00680	Methane metabolism - Rhodoferax ferrireducens
+path:rfr00730	Thiamine metabolism - Rhodoferax ferrireducens
+path:rfr00740	Riboflavin metabolism - Rhodoferax ferrireducens
+path:rfr00750	Vitamin B6 metabolism - Rhodoferax ferrireducens
+path:rfr00760	Nicotinate and nicotinamide metabolism - Rhodoferax ferrireducens
+path:rfr00770	Pantothenate and CoA biosynthesis - Rhodoferax ferrireducens
+path:rfr00780	Biotin metabolism - Rhodoferax ferrireducens
+path:rfr00785	Lipoic acid metabolism - Rhodoferax ferrireducens
+path:rfr00790	Folate biosynthesis - Rhodoferax ferrireducens
+path:rfr00791	Atrazine degradation - Rhodoferax ferrireducens
+path:rfr00860	Porphyrin and chlorophyll metabolism - Rhodoferax ferrireducens
+path:rfr00900	Terpenoid backbone biosynthesis - Rhodoferax ferrireducens
+path:rfr00903	Limonene and pinene degradation - Rhodoferax ferrireducens
+path:rfr00906	Carotenoid biosynthesis - Rhodoferax ferrireducens
+path:rfr00910	Nitrogen metabolism - Rhodoferax ferrireducens
+path:rfr00920	Sulfur metabolism - Rhodoferax ferrireducens
+path:rfr00930	Caprolactam degradation - Rhodoferax ferrireducens
+path:rfr00970	Aminoacyl-tRNA biosynthesis - Rhodoferax ferrireducens
+path:rfr01040	Biosynthesis of unsaturated fatty acids - Rhodoferax ferrireducens
+path:rfr01054	Nonribosomal peptide structures - Rhodoferax ferrireducens
+path:rfr01100	Metabolic pathways - Rhodoferax ferrireducens
+path:rfr01110	Biosynthesis of secondary metabolites - Rhodoferax ferrireducens
+path:rfr01120	Microbial metabolism in diverse environments - Rhodoferax ferrireducens
+path:rfr01130	Biosynthesis of antibiotics - Rhodoferax ferrireducens
+path:rfr01200	Carbon metabolism - Rhodoferax ferrireducens
+path:rfr01210	2-Oxocarboxylic acid metabolism - Rhodoferax ferrireducens
+path:rfr01212	Fatty acid metabolism - Rhodoferax ferrireducens
+path:rfr01220	Degradation of aromatic compounds - Rhodoferax ferrireducens
+path:rfr01230	Biosynthesis of amino acids - Rhodoferax ferrireducens
+path:rfr01501	beta-Lactam resistance - Rhodoferax ferrireducens
+path:rfr01502	Vancomycin resistance - Rhodoferax ferrireducens
+path:rfr01503	Cationic antimicrobial peptide (CAMP) resistance - Rhodoferax ferrireducens
+path:rfr02010	ABC transporters - Rhodoferax ferrireducens
+path:rfr02020	Two-component system - Rhodoferax ferrireducens
+path:rfr02024	Quorum sensing - Rhodoferax ferrireducens
+path:rfr02030	Bacterial chemotaxis - Rhodoferax ferrireducens
+path:rfr02040	Flagellar assembly - Rhodoferax ferrireducens
+path:rfr02060	Phosphotransferase system (PTS) - Rhodoferax ferrireducens
+path:rfr03010	Ribosome - Rhodoferax ferrireducens
+path:rfr03018	RNA degradation - Rhodoferax ferrireducens
+path:rfr03020	RNA polymerase - Rhodoferax ferrireducens
+path:rfr03030	DNA replication - Rhodoferax ferrireducens
+path:rfr03060	Protein export - Rhodoferax ferrireducens
+path:rfr03070	Bacterial secretion system - Rhodoferax ferrireducens
+path:rfr03410	Base excision repair - Rhodoferax ferrireducens
+path:rfr03420	Nucleotide excision repair - Rhodoferax ferrireducens
+path:rfr03430	Mismatch repair - Rhodoferax ferrireducens
+path:rfr03440	Homologous recombination - Rhodoferax ferrireducens
+path:rfr04122	Sulfur relay system - Rhodoferax ferrireducens
+path:rsb00010	Glycolysis / Gluconeogenesis - Rhodoferax saidenbachensis
+path:rsb00020	Citrate cycle (TCA cycle) - Rhodoferax saidenbachensis
+path:rsb00030	Pentose phosphate pathway - Rhodoferax saidenbachensis
+path:rsb00040	Pentose and glucuronate interconversions - Rhodoferax saidenbachensis
+path:rsb00051	Fructose and mannose metabolism - Rhodoferax saidenbachensis
+path:rsb00052	Galactose metabolism - Rhodoferax saidenbachensis
+path:rsb00053	Ascorbate and aldarate metabolism - Rhodoferax saidenbachensis
+path:rsb00061	Fatty acid biosynthesis - Rhodoferax saidenbachensis
+path:rsb00071	Fatty acid degradation - Rhodoferax saidenbachensis
+path:rsb00072	Synthesis and degradation of ketone bodies - Rhodoferax saidenbachensis
+path:rsb00130	Ubiquinone and other terpenoid-quinone biosynthesis - Rhodoferax saidenbachensis
+path:rsb00190	Oxidative phosphorylation - Rhodoferax saidenbachensis
+path:rsb00220	Arginine biosynthesis - Rhodoferax saidenbachensis
+path:rsb00230	Purine metabolism - Rhodoferax saidenbachensis
+path:rsb00240	Pyrimidine metabolism - Rhodoferax saidenbachensis
+path:rsb00250	Alanine, aspartate and glutamate metabolism - Rhodoferax saidenbachensis
+path:rsb00260	Glycine, serine and threonine metabolism - Rhodoferax saidenbachensis
+path:rsb00261	Monobactam biosynthesis - Rhodoferax saidenbachensis
+path:rsb00270	Cysteine and methionine metabolism - Rhodoferax saidenbachensis
+path:rsb00280	Valine, leucine and isoleucine degradation - Rhodoferax saidenbachensis
+path:rsb00281	Geraniol degradation - Rhodoferax saidenbachensis
+path:rsb00290	Valine, leucine and isoleucine biosynthesis - Rhodoferax saidenbachensis
+path:rsb00300	Lysine biosynthesis - Rhodoferax saidenbachensis
+path:rsb00310	Lysine degradation - Rhodoferax saidenbachensis
+path:rsb00311	Penicillin and cephalosporin biosynthesis - Rhodoferax saidenbachensis
+path:rsb00330	Arginine and proline metabolism - Rhodoferax saidenbachensis
+path:rsb00332	Carbapenem biosynthesis - Rhodoferax saidenbachensis
+path:rsb00340	Histidine metabolism - Rhodoferax saidenbachensis
+path:rsb00350	Tyrosine metabolism - Rhodoferax saidenbachensis
+path:rsb00360	Phenylalanine metabolism - Rhodoferax saidenbachensis
+path:rsb00361	Chlorocyclohexane and chlorobenzene degradation - Rhodoferax saidenbachensis
+path:rsb00362	Benzoate degradation - Rhodoferax saidenbachensis
+path:rsb00364	Fluorobenzoate degradation - Rhodoferax saidenbachensis
+path:rsb00380	Tryptophan metabolism - Rhodoferax saidenbachensis
+path:rsb00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Rhodoferax saidenbachensis
+path:rsb00401	Novobiocin biosynthesis - Rhodoferax saidenbachensis
+path:rsb00410	beta-Alanine metabolism - Rhodoferax saidenbachensis
+path:rsb00430	Taurine and hypotaurine metabolism - Rhodoferax saidenbachensis
+path:rsb00440	Phosphonate and phosphinate metabolism - Rhodoferax saidenbachensis
+path:rsb00450	Selenocompound metabolism - Rhodoferax saidenbachensis
+path:rsb00460	Cyanoamino acid metabolism - Rhodoferax saidenbachensis
+path:rsb00471	D-Glutamine and D-glutamate metabolism - Rhodoferax saidenbachensis
+path:rsb00473	D-Alanine metabolism - Rhodoferax saidenbachensis
+path:rsb00480	Glutathione metabolism - Rhodoferax saidenbachensis
+path:rsb00500	Starch and sucrose metabolism - Rhodoferax saidenbachensis
+path:rsb00520	Amino sugar and nucleotide sugar metabolism - Rhodoferax saidenbachensis
+path:rsb00521	Streptomycin biosynthesis - Rhodoferax saidenbachensis
+path:rsb00523	Polyketide sugar unit biosynthesis - Rhodoferax saidenbachensis
+path:rsb00525	Acarbose and validamycin biosynthesis - Rhodoferax saidenbachensis
+path:rsb00540	Lipopolysaccharide biosynthesis - Rhodoferax saidenbachensis
+path:rsb00550	Peptidoglycan biosynthesis - Rhodoferax saidenbachensis
+path:rsb00561	Glycerolipid metabolism - Rhodoferax saidenbachensis
+path:rsb00562	Inositol phosphate metabolism - Rhodoferax saidenbachensis
+path:rsb00564	Glycerophospholipid metabolism - Rhodoferax saidenbachensis
+path:rsb00565	Ether lipid metabolism - Rhodoferax saidenbachensis
+path:rsb00590	Arachidonic acid metabolism - Rhodoferax saidenbachensis
+path:rsb00592	alpha-Linolenic acid metabolism - Rhodoferax saidenbachensis
+path:rsb00620	Pyruvate metabolism - Rhodoferax saidenbachensis
+path:rsb00621	Dioxin degradation - Rhodoferax saidenbachensis
+path:rsb00622	Xylene degradation - Rhodoferax saidenbachensis
+path:rsb00623	Toluene degradation - Rhodoferax saidenbachensis
+path:rsb00624	Polycyclic aromatic hydrocarbon degradation - Rhodoferax saidenbachensis
+path:rsb00625	Chloroalkane and chloroalkene degradation - Rhodoferax saidenbachensis
+path:rsb00626	Naphthalene degradation - Rhodoferax saidenbachensis
+path:rsb00627	Aminobenzoate degradation - Rhodoferax saidenbachensis
+path:rsb00630	Glyoxylate and dicarboxylate metabolism - Rhodoferax saidenbachensis
+path:rsb00633	Nitrotoluene degradation - Rhodoferax saidenbachensis
+path:rsb00640	Propanoate metabolism - Rhodoferax saidenbachensis
+path:rsb00650	Butanoate metabolism - Rhodoferax saidenbachensis
+path:rsb00660	C5-Branched dibasic acid metabolism - Rhodoferax saidenbachensis
+path:rsb00670	One carbon pool by folate - Rhodoferax saidenbachensis
+path:rsb00680	Methane metabolism - Rhodoferax saidenbachensis
+path:rsb00730	Thiamine metabolism - Rhodoferax saidenbachensis
+path:rsb00740	Riboflavin metabolism - Rhodoferax saidenbachensis
+path:rsb00750	Vitamin B6 metabolism - Rhodoferax saidenbachensis
+path:rsb00760	Nicotinate and nicotinamide metabolism - Rhodoferax saidenbachensis
+path:rsb00770	Pantothenate and CoA biosynthesis - Rhodoferax saidenbachensis
+path:rsb00780	Biotin metabolism - Rhodoferax saidenbachensis
+path:rsb00785	Lipoic acid metabolism - Rhodoferax saidenbachensis
+path:rsb00790	Folate biosynthesis - Rhodoferax saidenbachensis
+path:rsb00791	Atrazine degradation - Rhodoferax saidenbachensis
+path:rsb00860	Porphyrin and chlorophyll metabolism - Rhodoferax saidenbachensis
+path:rsb00900	Terpenoid backbone biosynthesis - Rhodoferax saidenbachensis
+path:rsb00903	Limonene and pinene degradation - Rhodoferax saidenbachensis
+path:rsb00906	Carotenoid biosynthesis - Rhodoferax saidenbachensis
+path:rsb00910	Nitrogen metabolism - Rhodoferax saidenbachensis
+path:rsb00920	Sulfur metabolism - Rhodoferax saidenbachensis
+path:rsb00930	Caprolactam degradation - Rhodoferax saidenbachensis
+path:rsb00970	Aminoacyl-tRNA biosynthesis - Rhodoferax saidenbachensis
+path:rsb01040	Biosynthesis of unsaturated fatty acids - Rhodoferax saidenbachensis
+path:rsb01054	Nonribosomal peptide structures - Rhodoferax saidenbachensis
+path:rsb01100	Metabolic pathways - Rhodoferax saidenbachensis
+path:rsb01110	Biosynthesis of secondary metabolites - Rhodoferax saidenbachensis
+path:rsb01120	Microbial metabolism in diverse environments - Rhodoferax saidenbachensis
+path:rsb01130	Biosynthesis of antibiotics - Rhodoferax saidenbachensis
+path:rsb01200	Carbon metabolism - Rhodoferax saidenbachensis
+path:rsb01210	2-Oxocarboxylic acid metabolism - Rhodoferax saidenbachensis
+path:rsb01212	Fatty acid metabolism - Rhodoferax saidenbachensis
+path:rsb01220	Degradation of aromatic compounds - Rhodoferax saidenbachensis
+path:rsb01230	Biosynthesis of amino acids - Rhodoferax saidenbachensis
+path:rsb01501	beta-Lactam resistance - Rhodoferax saidenbachensis
+path:rsb01502	Vancomycin resistance - Rhodoferax saidenbachensis
+path:rsb01503	Cationic antimicrobial peptide (CAMP) resistance - Rhodoferax saidenbachensis
+path:rsb02010	ABC transporters - Rhodoferax saidenbachensis
+path:rsb02020	Two-component system - Rhodoferax saidenbachensis
+path:rsb02024	Quorum sensing - Rhodoferax saidenbachensis
+path:rsb02030	Bacterial chemotaxis - Rhodoferax saidenbachensis
+path:rsb02040	Flagellar assembly - Rhodoferax saidenbachensis
+path:rsb02060	Phosphotransferase system (PTS) - Rhodoferax saidenbachensis
+path:rsb03010	Ribosome - Rhodoferax saidenbachensis
+path:rsb03018	RNA degradation - Rhodoferax saidenbachensis
+path:rsb03020	RNA polymerase - Rhodoferax saidenbachensis
+path:rsb03030	DNA replication - Rhodoferax saidenbachensis
+path:rsb03060	Protein export - Rhodoferax saidenbachensis
+path:rsb03070	Bacterial secretion system - Rhodoferax saidenbachensis
+path:rsb03410	Base excision repair - Rhodoferax saidenbachensis
+path:rsb03420	Nucleotide excision repair - Rhodoferax saidenbachensis
+path:rsb03430	Mismatch repair - Rhodoferax saidenbachensis
+path:rsb03440	Homologous recombination - Rhodoferax saidenbachensis
+path:rsb04122	Sulfur relay system - Rhodoferax saidenbachensis
+path:rac00010	Glycolysis / Gluconeogenesis - Rhodoferax antarcticus
+path:rac00020	Citrate cycle (TCA cycle) - Rhodoferax antarcticus
+path:rac00030	Pentose phosphate pathway - Rhodoferax antarcticus
+path:rac00040	Pentose and glucuronate interconversions - Rhodoferax antarcticus
+path:rac00051	Fructose and mannose metabolism - Rhodoferax antarcticus
+path:rac00052	Galactose metabolism - Rhodoferax antarcticus
+path:rac00053	Ascorbate and aldarate metabolism - Rhodoferax antarcticus
+path:rac00061	Fatty acid biosynthesis - Rhodoferax antarcticus
+path:rac00071	Fatty acid degradation - Rhodoferax antarcticus
+path:rac00072	Synthesis and degradation of ketone bodies - Rhodoferax antarcticus
+path:rac00130	Ubiquinone and other terpenoid-quinone biosynthesis - Rhodoferax antarcticus
+path:rac00190	Oxidative phosphorylation - Rhodoferax antarcticus
+path:rac00220	Arginine biosynthesis - Rhodoferax antarcticus
+path:rac00230	Purine metabolism - Rhodoferax antarcticus
+path:rac00240	Pyrimidine metabolism - Rhodoferax antarcticus
+path:rac00250	Alanine, aspartate and glutamate metabolism - Rhodoferax antarcticus
+path:rac00260	Glycine, serine and threonine metabolism - Rhodoferax antarcticus
+path:rac00261	Monobactam biosynthesis - Rhodoferax antarcticus
+path:rac00270	Cysteine and methionine metabolism - Rhodoferax antarcticus
+path:rac00280	Valine, leucine and isoleucine degradation - Rhodoferax antarcticus
+path:rac00281	Geraniol degradation - Rhodoferax antarcticus
+path:rac00290	Valine, leucine and isoleucine biosynthesis - Rhodoferax antarcticus
+path:rac00300	Lysine biosynthesis - Rhodoferax antarcticus
+path:rac00310	Lysine degradation - Rhodoferax antarcticus
+path:rac00330	Arginine and proline metabolism - Rhodoferax antarcticus
+path:rac00332	Carbapenem biosynthesis - Rhodoferax antarcticus
+path:rac00340	Histidine metabolism - Rhodoferax antarcticus
+path:rac00350	Tyrosine metabolism - Rhodoferax antarcticus
+path:rac00360	Phenylalanine metabolism - Rhodoferax antarcticus
+path:rac00361	Chlorocyclohexane and chlorobenzene degradation - Rhodoferax antarcticus
+path:rac00362	Benzoate degradation - Rhodoferax antarcticus
+path:rac00364	Fluorobenzoate degradation - Rhodoferax antarcticus
+path:rac00380	Tryptophan metabolism - Rhodoferax antarcticus
+path:rac00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Rhodoferax antarcticus
+path:rac00401	Novobiocin biosynthesis - Rhodoferax antarcticus
+path:rac00410	beta-Alanine metabolism - Rhodoferax antarcticus
+path:rac00430	Taurine and hypotaurine metabolism - Rhodoferax antarcticus
+path:rac00440	Phosphonate and phosphinate metabolism - Rhodoferax antarcticus
+path:rac00450	Selenocompound metabolism - Rhodoferax antarcticus
+path:rac00460	Cyanoamino acid metabolism - Rhodoferax antarcticus
+path:rac00471	D-Glutamine and D-glutamate metabolism - Rhodoferax antarcticus
+path:rac00472	D-Arginine and D-ornithine metabolism - Rhodoferax antarcticus
+path:rac00473	D-Alanine metabolism - Rhodoferax antarcticus
+path:rac00480	Glutathione metabolism - Rhodoferax antarcticus
+path:rac00500	Starch and sucrose metabolism - Rhodoferax antarcticus
+path:rac00520	Amino sugar and nucleotide sugar metabolism - Rhodoferax antarcticus
+path:rac00521	Streptomycin biosynthesis - Rhodoferax antarcticus
+path:rac00523	Polyketide sugar unit biosynthesis - Rhodoferax antarcticus
+path:rac00525	Acarbose and validamycin biosynthesis - Rhodoferax antarcticus
+path:rac00540	Lipopolysaccharide biosynthesis - Rhodoferax antarcticus
+path:rac00550	Peptidoglycan biosynthesis - Rhodoferax antarcticus
+path:rac00561	Glycerolipid metabolism - Rhodoferax antarcticus
+path:rac00562	Inositol phosphate metabolism - Rhodoferax antarcticus
+path:rac00564	Glycerophospholipid metabolism - Rhodoferax antarcticus
+path:rac00565	Ether lipid metabolism - Rhodoferax antarcticus
+path:rac00590	Arachidonic acid metabolism - Rhodoferax antarcticus
+path:rac00592	alpha-Linolenic acid metabolism - Rhodoferax antarcticus
+path:rac00620	Pyruvate metabolism - Rhodoferax antarcticus
+path:rac00623	Toluene degradation - Rhodoferax antarcticus
+path:rac00624	Polycyclic aromatic hydrocarbon degradation - Rhodoferax antarcticus
+path:rac00625	Chloroalkane and chloroalkene degradation - Rhodoferax antarcticus
+path:rac00626	Naphthalene degradation - Rhodoferax antarcticus
+path:rac00627	Aminobenzoate degradation - Rhodoferax antarcticus
+path:rac00630	Glyoxylate and dicarboxylate metabolism - Rhodoferax antarcticus
+path:rac00633	Nitrotoluene degradation - Rhodoferax antarcticus
+path:rac00640	Propanoate metabolism - Rhodoferax antarcticus
+path:rac00650	Butanoate metabolism - Rhodoferax antarcticus
+path:rac00660	C5-Branched dibasic acid metabolism - Rhodoferax antarcticus
+path:rac00670	One carbon pool by folate - Rhodoferax antarcticus
+path:rac00680	Methane metabolism - Rhodoferax antarcticus
+path:rac00730	Thiamine metabolism - Rhodoferax antarcticus
+path:rac00740	Riboflavin metabolism - Rhodoferax antarcticus
+path:rac00750	Vitamin B6 metabolism - Rhodoferax antarcticus
+path:rac00760	Nicotinate and nicotinamide metabolism - Rhodoferax antarcticus
+path:rac00770	Pantothenate and CoA biosynthesis - Rhodoferax antarcticus
+path:rac00780	Biotin metabolism - Rhodoferax antarcticus
+path:rac00785	Lipoic acid metabolism - Rhodoferax antarcticus
+path:rac00790	Folate biosynthesis - Rhodoferax antarcticus
+path:rac00860	Porphyrin and chlorophyll metabolism - Rhodoferax antarcticus
+path:rac00900	Terpenoid backbone biosynthesis - Rhodoferax antarcticus
+path:rac00903	Limonene and pinene degradation - Rhodoferax antarcticus
+path:rac00906	Carotenoid biosynthesis - Rhodoferax antarcticus
+path:rac00910	Nitrogen metabolism - Rhodoferax antarcticus
+path:rac00920	Sulfur metabolism - Rhodoferax antarcticus
+path:rac00970	Aminoacyl-tRNA biosynthesis - Rhodoferax antarcticus
+path:rac01040	Biosynthesis of unsaturated fatty acids - Rhodoferax antarcticus
+path:rac01054	Nonribosomal peptide structures - Rhodoferax antarcticus
+path:rac01100	Metabolic pathways - Rhodoferax antarcticus
+path:rac01110	Biosynthesis of secondary metabolites - Rhodoferax antarcticus
+path:rac01120	Microbial metabolism in diverse environments - Rhodoferax antarcticus
+path:rac01130	Biosynthesis of antibiotics - Rhodoferax antarcticus
+path:rac01200	Carbon metabolism - Rhodoferax antarcticus
+path:rac01210	2-Oxocarboxylic acid metabolism - Rhodoferax antarcticus
+path:rac01212	Fatty acid metabolism - Rhodoferax antarcticus
+path:rac01220	Degradation of aromatic compounds - Rhodoferax antarcticus
+path:rac01230	Biosynthesis of amino acids - Rhodoferax antarcticus
+path:rac01501	beta-Lactam resistance - Rhodoferax antarcticus
+path:rac01502	Vancomycin resistance - Rhodoferax antarcticus
+path:rac01503	Cationic antimicrobial peptide (CAMP) resistance - Rhodoferax antarcticus
+path:rac02010	ABC transporters - Rhodoferax antarcticus
+path:rac02020	Two-component system - Rhodoferax antarcticus
+path:rac02024	Quorum sensing - Rhodoferax antarcticus
+path:rac02030	Bacterial chemotaxis - Rhodoferax antarcticus
+path:rac02040	Flagellar assembly - Rhodoferax antarcticus
+path:rac02060	Phosphotransferase system (PTS) - Rhodoferax antarcticus
+path:rac03010	Ribosome - Rhodoferax antarcticus
+path:rac03018	RNA degradation - Rhodoferax antarcticus
+path:rac03020	RNA polymerase - Rhodoferax antarcticus
+path:rac03030	DNA replication - Rhodoferax antarcticus
+path:rac03060	Protein export - Rhodoferax antarcticus
+path:rac03070	Bacterial secretion system - Rhodoferax antarcticus
+path:rac03410	Base excision repair - Rhodoferax antarcticus
+path:rac03420	Nucleotide excision repair - Rhodoferax antarcticus
+path:rac03430	Mismatch repair - Rhodoferax antarcticus
+path:rac03440	Homologous recombination - Rhodoferax antarcticus
+path:rac04122	Sulfur relay system - Rhodoferax antarcticus
+path:rhy00010	Glycolysis / Gluconeogenesis - Rhodoferax sp. DCY110
+path:rhy00020	Citrate cycle (TCA cycle) - Rhodoferax sp. DCY110
+path:rhy00030	Pentose phosphate pathway - Rhodoferax sp. DCY110
+path:rhy00040	Pentose and glucuronate interconversions - Rhodoferax sp. DCY110
+path:rhy00051	Fructose and mannose metabolism - Rhodoferax sp. DCY110
+path:rhy00052	Galactose metabolism - Rhodoferax sp. DCY110
+path:rhy00053	Ascorbate and aldarate metabolism - Rhodoferax sp. DCY110
+path:rhy00061	Fatty acid biosynthesis - Rhodoferax sp. DCY110
+path:rhy00071	Fatty acid degradation - Rhodoferax sp. DCY110
+path:rhy00072	Synthesis and degradation of ketone bodies - Rhodoferax sp. DCY110
+path:rhy00130	Ubiquinone and other terpenoid-quinone biosynthesis - Rhodoferax sp. DCY110
+path:rhy00190	Oxidative phosphorylation - Rhodoferax sp. DCY110
+path:rhy00220	Arginine biosynthesis - Rhodoferax sp. DCY110
+path:rhy00230	Purine metabolism - Rhodoferax sp. DCY110
+path:rhy00240	Pyrimidine metabolism - Rhodoferax sp. DCY110
+path:rhy00250	Alanine, aspartate and glutamate metabolism - Rhodoferax sp. DCY110
+path:rhy00260	Glycine, serine and threonine metabolism - Rhodoferax sp. DCY110
+path:rhy00261	Monobactam biosynthesis - Rhodoferax sp. DCY110
+path:rhy00270	Cysteine and methionine metabolism - Rhodoferax sp. DCY110
+path:rhy00280	Valine, leucine and isoleucine degradation - Rhodoferax sp. DCY110
+path:rhy00281	Geraniol degradation - Rhodoferax sp. DCY110
+path:rhy00290	Valine, leucine and isoleucine biosynthesis - Rhodoferax sp. DCY110
+path:rhy00300	Lysine biosynthesis - Rhodoferax sp. DCY110
+path:rhy00310	Lysine degradation - Rhodoferax sp. DCY110
+path:rhy00330	Arginine and proline metabolism - Rhodoferax sp. DCY110
+path:rhy00332	Carbapenem biosynthesis - Rhodoferax sp. DCY110
+path:rhy00340	Histidine metabolism - Rhodoferax sp. DCY110
+path:rhy00350	Tyrosine metabolism - Rhodoferax sp. DCY110
+path:rhy00360	Phenylalanine metabolism - Rhodoferax sp. DCY110
+path:rhy00361	Chlorocyclohexane and chlorobenzene degradation - Rhodoferax sp. DCY110
+path:rhy00362	Benzoate degradation - Rhodoferax sp. DCY110
+path:rhy00364	Fluorobenzoate degradation - Rhodoferax sp. DCY110
+path:rhy00380	Tryptophan metabolism - Rhodoferax sp. DCY110
+path:rhy00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Rhodoferax sp. DCY110
+path:rhy00401	Novobiocin biosynthesis - Rhodoferax sp. DCY110
+path:rhy00410	beta-Alanine metabolism - Rhodoferax sp. DCY110
+path:rhy00430	Taurine and hypotaurine metabolism - Rhodoferax sp. DCY110
+path:rhy00440	Phosphonate and phosphinate metabolism - Rhodoferax sp. DCY110
+path:rhy00450	Selenocompound metabolism - Rhodoferax sp. DCY110
+path:rhy00460	Cyanoamino acid metabolism - Rhodoferax sp. DCY110
+path:rhy00471	D-Glutamine and D-glutamate metabolism - Rhodoferax sp. DCY110
+path:rhy00472	D-Arginine and D-ornithine metabolism - Rhodoferax sp. DCY110
+path:rhy00473	D-Alanine metabolism - Rhodoferax sp. DCY110
+path:rhy00480	Glutathione metabolism - Rhodoferax sp. DCY110
+path:rhy00500	Starch and sucrose metabolism - Rhodoferax sp. DCY110
+path:rhy00511	Other glycan degradation - Rhodoferax sp. DCY110
+path:rhy00520	Amino sugar and nucleotide sugar metabolism - Rhodoferax sp. DCY110
+path:rhy00521	Streptomycin biosynthesis - Rhodoferax sp. DCY110
+path:rhy00523	Polyketide sugar unit biosynthesis - Rhodoferax sp. DCY110
+path:rhy00525	Acarbose and validamycin biosynthesis - Rhodoferax sp. DCY110
+path:rhy00540	Lipopolysaccharide biosynthesis - Rhodoferax sp. DCY110
+path:rhy00550	Peptidoglycan biosynthesis - Rhodoferax sp. DCY110
+path:rhy00561	Glycerolipid metabolism - Rhodoferax sp. DCY110
+path:rhy00562	Inositol phosphate metabolism - Rhodoferax sp. DCY110
+path:rhy00564	Glycerophospholipid metabolism - Rhodoferax sp. DCY110
+path:rhy00565	Ether lipid metabolism - Rhodoferax sp. DCY110
+path:rhy00590	Arachidonic acid metabolism - Rhodoferax sp. DCY110
+path:rhy00592	alpha-Linolenic acid metabolism - Rhodoferax sp. DCY110
+path:rhy00620	Pyruvate metabolism - Rhodoferax sp. DCY110
+path:rhy00621	Dioxin degradation - Rhodoferax sp. DCY110
+path:rhy00622	Xylene degradation - Rhodoferax sp. DCY110
+path:rhy00623	Toluene degradation - Rhodoferax sp. DCY110
+path:rhy00624	Polycyclic aromatic hydrocarbon degradation - Rhodoferax sp. DCY110
+path:rhy00625	Chloroalkane and chloroalkene degradation - Rhodoferax sp. DCY110
+path:rhy00626	Naphthalene degradation - Rhodoferax sp. DCY110
+path:rhy00627	Aminobenzoate degradation - Rhodoferax sp. DCY110
+path:rhy00630	Glyoxylate and dicarboxylate metabolism - Rhodoferax sp. DCY110
+path:rhy00633	Nitrotoluene degradation - Rhodoferax sp. DCY110
+path:rhy00640	Propanoate metabolism - Rhodoferax sp. DCY110
+path:rhy00643	Styrene degradation - Rhodoferax sp. DCY110
+path:rhy00650	Butanoate metabolism - Rhodoferax sp. DCY110
+path:rhy00660	C5-Branched dibasic acid metabolism - Rhodoferax sp. DCY110
+path:rhy00670	One carbon pool by folate - Rhodoferax sp. DCY110
+path:rhy00680	Methane metabolism - Rhodoferax sp. DCY110
+path:rhy00730	Thiamine metabolism - Rhodoferax sp. DCY110
+path:rhy00740	Riboflavin metabolism - Rhodoferax sp. DCY110
+path:rhy00750	Vitamin B6 metabolism - Rhodoferax sp. DCY110
+path:rhy00760	Nicotinate and nicotinamide metabolism - Rhodoferax sp. DCY110
+path:rhy00770	Pantothenate and CoA biosynthesis - Rhodoferax sp. DCY110
+path:rhy00780	Biotin metabolism - Rhodoferax sp. DCY110
+path:rhy00785	Lipoic acid metabolism - Rhodoferax sp. DCY110
+path:rhy00790	Folate biosynthesis - Rhodoferax sp. DCY110
+path:rhy00791	Atrazine degradation - Rhodoferax sp. DCY110
+path:rhy00860	Porphyrin and chlorophyll metabolism - Rhodoferax sp. DCY110
+path:rhy00900	Terpenoid backbone biosynthesis - Rhodoferax sp. DCY110
+path:rhy00903	Limonene and pinene degradation - Rhodoferax sp. DCY110
+path:rhy00906	Carotenoid biosynthesis - Rhodoferax sp. DCY110
+path:rhy00910	Nitrogen metabolism - Rhodoferax sp. DCY110
+path:rhy00920	Sulfur metabolism - Rhodoferax sp. DCY110
+path:rhy00930	Caprolactam degradation - Rhodoferax sp. DCY110
+path:rhy00970	Aminoacyl-tRNA biosynthesis - Rhodoferax sp. DCY110
+path:rhy01040	Biosynthesis of unsaturated fatty acids - Rhodoferax sp. DCY110
+path:rhy01053	Biosynthesis of siderophore group nonribosomal peptides - Rhodoferax sp. DCY110
+path:rhy01054	Nonribosomal peptide structures - Rhodoferax sp. DCY110
+path:rhy01055	Biosynthesis of vancomycin group antibiotics - Rhodoferax sp. DCY110
+path:rhy01100	Metabolic pathways - Rhodoferax sp. DCY110
+path:rhy01110	Biosynthesis of secondary metabolites - Rhodoferax sp. DCY110
+path:rhy01120	Microbial metabolism in diverse environments - Rhodoferax sp. DCY110
+path:rhy01130	Biosynthesis of antibiotics - Rhodoferax sp. DCY110
+path:rhy01200	Carbon metabolism - Rhodoferax sp. DCY110
+path:rhy01210	2-Oxocarboxylic acid metabolism - Rhodoferax sp. DCY110
+path:rhy01212	Fatty acid metabolism - Rhodoferax sp. DCY110
+path:rhy01220	Degradation of aromatic compounds - Rhodoferax sp. DCY110
+path:rhy01230	Biosynthesis of amino acids - Rhodoferax sp. DCY110
+path:rhy01501	beta-Lactam resistance - Rhodoferax sp. DCY110
+path:rhy01502	Vancomycin resistance - Rhodoferax sp. DCY110
+path:rhy01503	Cationic antimicrobial peptide (CAMP) resistance - Rhodoferax sp. DCY110
+path:rhy02010	ABC transporters - Rhodoferax sp. DCY110
+path:rhy02020	Two-component system - Rhodoferax sp. DCY110
+path:rhy02024	Quorum sensing - Rhodoferax sp. DCY110
+path:rhy02030	Bacterial chemotaxis - Rhodoferax sp. DCY110
+path:rhy02040	Flagellar assembly - Rhodoferax sp. DCY110
+path:rhy02060	Phosphotransferase system (PTS) - Rhodoferax sp. DCY110
+path:rhy03010	Ribosome - Rhodoferax sp. DCY110
+path:rhy03018	RNA degradation - Rhodoferax sp. DCY110
+path:rhy03020	RNA polymerase - Rhodoferax sp. DCY110
+path:rhy03030	DNA replication - Rhodoferax sp. DCY110
+path:rhy03060	Protein export - Rhodoferax sp. DCY110
+path:rhy03070	Bacterial secretion system - Rhodoferax sp. DCY110
+path:rhy03410	Base excision repair - Rhodoferax sp. DCY110
+path:rhy03420	Nucleotide excision repair - Rhodoferax sp. DCY110
+path:rhy03430	Mismatch repair - Rhodoferax sp. DCY110
+path:rhy03440	Homologous recombination - Rhodoferax sp. DCY110
+path:rhy03450	Non-homologous end-joining - Rhodoferax sp. DCY110
+path:rhy04122	Sulfur relay system - Rhodoferax sp. DCY110

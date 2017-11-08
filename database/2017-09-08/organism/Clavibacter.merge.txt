@@ -1,0 +1,441 @@
+path:cmi00010	Glycolysis / Gluconeogenesis - Clavibacter michiganensis subsp. michiganensis
+path:cmi00020	Citrate cycle (TCA cycle) - Clavibacter michiganensis subsp. michiganensis
+path:cmi00030	Pentose phosphate pathway - Clavibacter michiganensis subsp. michiganensis
+path:cmi00040	Pentose and glucuronate interconversions - Clavibacter michiganensis subsp. michiganensis
+path:cmi00051	Fructose and mannose metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00052	Galactose metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00053	Ascorbate and aldarate metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00061	Fatty acid biosynthesis - Clavibacter michiganensis subsp. michiganensis
+path:cmi00071	Fatty acid degradation - Clavibacter michiganensis subsp. michiganensis
+path:cmi00130	Ubiquinone and other terpenoid-quinone biosynthesis - Clavibacter michiganensis subsp. michiganensis
+path:cmi00190	Oxidative phosphorylation - Clavibacter michiganensis subsp. michiganensis
+path:cmi00220	Arginine biosynthesis - Clavibacter michiganensis subsp. michiganensis
+path:cmi00230	Purine metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00240	Pyrimidine metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00250	Alanine, aspartate and glutamate metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00260	Glycine, serine and threonine metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00261	Monobactam biosynthesis - Clavibacter michiganensis subsp. michiganensis
+path:cmi00270	Cysteine and methionine metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00280	Valine, leucine and isoleucine degradation - Clavibacter michiganensis subsp. michiganensis
+path:cmi00281	Geraniol degradation - Clavibacter michiganensis subsp. michiganensis
+path:cmi00290	Valine, leucine and isoleucine biosynthesis - Clavibacter michiganensis subsp. michiganensis
+path:cmi00300	Lysine biosynthesis - Clavibacter michiganensis subsp. michiganensis
+path:cmi00310	Lysine degradation - Clavibacter michiganensis subsp. michiganensis
+path:cmi00330	Arginine and proline metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00332	Carbapenem biosynthesis - Clavibacter michiganensis subsp. michiganensis
+path:cmi00340	Histidine metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00350	Tyrosine metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00360	Phenylalanine metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00361	Chlorocyclohexane and chlorobenzene degradation - Clavibacter michiganensis subsp. michiganensis
+path:cmi00362	Benzoate degradation - Clavibacter michiganensis subsp. michiganensis
+path:cmi00364	Fluorobenzoate degradation - Clavibacter michiganensis subsp. michiganensis
+path:cmi00380	Tryptophan metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Clavibacter michiganensis subsp. michiganensis
+path:cmi00401	Novobiocin biosynthesis - Clavibacter michiganensis subsp. michiganensis
+path:cmi00410	beta-Alanine metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00430	Taurine and hypotaurine metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00440	Phosphonate and phosphinate metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00450	Selenocompound metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00460	Cyanoamino acid metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00471	D-Glutamine and D-glutamate metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00473	D-Alanine metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00480	Glutathione metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00500	Starch and sucrose metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00511	Other glycan degradation - Clavibacter michiganensis subsp. michiganensis
+path:cmi00520	Amino sugar and nucleotide sugar metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00521	Streptomycin biosynthesis - Clavibacter michiganensis subsp. michiganensis
+path:cmi00523	Polyketide sugar unit biosynthesis - Clavibacter michiganensis subsp. michiganensis
+path:cmi00525	Acarbose and validamycin biosynthesis - Clavibacter michiganensis subsp. michiganensis
+path:cmi00540	Lipopolysaccharide biosynthesis - Clavibacter michiganensis subsp. michiganensis
+path:cmi00550	Peptidoglycan biosynthesis - Clavibacter michiganensis subsp. michiganensis
+path:cmi00561	Glycerolipid metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00562	Inositol phosphate metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00564	Glycerophospholipid metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00590	Arachidonic acid metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00592	alpha-Linolenic acid metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00600	Sphingolipid metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00620	Pyruvate metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00622	Xylene degradation - Clavibacter michiganensis subsp. michiganensis
+path:cmi00623	Toluene degradation - Clavibacter michiganensis subsp. michiganensis
+path:cmi00625	Chloroalkane and chloroalkene degradation - Clavibacter michiganensis subsp. michiganensis
+path:cmi00626	Naphthalene degradation - Clavibacter michiganensis subsp. michiganensis
+path:cmi00630	Glyoxylate and dicarboxylate metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00640	Propanoate metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00643	Styrene degradation - Clavibacter michiganensis subsp. michiganensis
+path:cmi00650	Butanoate metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00660	C5-Branched dibasic acid metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00670	One carbon pool by folate - Clavibacter michiganensis subsp. michiganensis
+path:cmi00680	Methane metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00730	Thiamine metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00740	Riboflavin metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00750	Vitamin B6 metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00760	Nicotinate and nicotinamide metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00770	Pantothenate and CoA biosynthesis - Clavibacter michiganensis subsp. michiganensis
+path:cmi00780	Biotin metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00785	Lipoic acid metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00790	Folate biosynthesis - Clavibacter michiganensis subsp. michiganensis
+path:cmi00791	Atrazine degradation - Clavibacter michiganensis subsp. michiganensis
+path:cmi00860	Porphyrin and chlorophyll metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00900	Terpenoid backbone biosynthesis - Clavibacter michiganensis subsp. michiganensis
+path:cmi00910	Nitrogen metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00920	Sulfur metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi00970	Aminoacyl-tRNA biosynthesis - Clavibacter michiganensis subsp. michiganensis
+path:cmi01040	Biosynthesis of unsaturated fatty acids - Clavibacter michiganensis subsp. michiganensis
+path:cmi01100	Metabolic pathways - Clavibacter michiganensis subsp. michiganensis
+path:cmi01110	Biosynthesis of secondary metabolites - Clavibacter michiganensis subsp. michiganensis
+path:cmi01120	Microbial metabolism in diverse environments - Clavibacter michiganensis subsp. michiganensis
+path:cmi01130	Biosynthesis of antibiotics - Clavibacter michiganensis subsp. michiganensis
+path:cmi01200	Carbon metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi01210	2-Oxocarboxylic acid metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi01212	Fatty acid metabolism - Clavibacter michiganensis subsp. michiganensis
+path:cmi01220	Degradation of aromatic compounds - Clavibacter michiganensis subsp. michiganensis
+path:cmi01230	Biosynthesis of amino acids - Clavibacter michiganensis subsp. michiganensis
+path:cmi01501	beta-Lactam resistance - Clavibacter michiganensis subsp. michiganensis
+path:cmi01502	Vancomycin resistance - Clavibacter michiganensis subsp. michiganensis
+path:cmi02010	ABC transporters - Clavibacter michiganensis subsp. michiganensis
+path:cmi02020	Two-component system - Clavibacter michiganensis subsp. michiganensis
+path:cmi02024	Quorum sensing - Clavibacter michiganensis subsp. michiganensis
+path:cmi02060	Phosphotransferase system (PTS) - Clavibacter michiganensis subsp. michiganensis
+path:cmi03010	Ribosome - Clavibacter michiganensis subsp. michiganensis
+path:cmi03018	RNA degradation - Clavibacter michiganensis subsp. michiganensis
+path:cmi03020	RNA polymerase - Clavibacter michiganensis subsp. michiganensis
+path:cmi03030	DNA replication - Clavibacter michiganensis subsp. michiganensis
+path:cmi03060	Protein export - Clavibacter michiganensis subsp. michiganensis
+path:cmi03070	Bacterial secretion system - Clavibacter michiganensis subsp. michiganensis
+path:cmi03410	Base excision repair - Clavibacter michiganensis subsp. michiganensis
+path:cmi03420	Nucleotide excision repair - Clavibacter michiganensis subsp. michiganensis
+path:cmi03430	Mismatch repair - Clavibacter michiganensis subsp. michiganensis
+path:cmi03440	Homologous recombination - Clavibacter michiganensis subsp. michiganensis
+path:cmi03450	Non-homologous end-joining - Clavibacter michiganensis subsp. michiganensis
+path:cmi04122	Sulfur relay system - Clavibacter michiganensis subsp. michiganensis
+path:cms00010	Glycolysis / Gluconeogenesis - Clavibacter michiganensis subsp. sepedonicus
+path:cms00020	Citrate cycle (TCA cycle) - Clavibacter michiganensis subsp. sepedonicus
+path:cms00030	Pentose phosphate pathway - Clavibacter michiganensis subsp. sepedonicus
+path:cms00040	Pentose and glucuronate interconversions - Clavibacter michiganensis subsp. sepedonicus
+path:cms00051	Fructose and mannose metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00052	Galactose metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00053	Ascorbate and aldarate metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00061	Fatty acid biosynthesis - Clavibacter michiganensis subsp. sepedonicus
+path:cms00071	Fatty acid degradation - Clavibacter michiganensis subsp. sepedonicus
+path:cms00130	Ubiquinone and other terpenoid-quinone biosynthesis - Clavibacter michiganensis subsp. sepedonicus
+path:cms00190	Oxidative phosphorylation - Clavibacter michiganensis subsp. sepedonicus
+path:cms00220	Arginine biosynthesis - Clavibacter michiganensis subsp. sepedonicus
+path:cms00230	Purine metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00240	Pyrimidine metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00250	Alanine, aspartate and glutamate metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00260	Glycine, serine and threonine metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00261	Monobactam biosynthesis - Clavibacter michiganensis subsp. sepedonicus
+path:cms00270	Cysteine and methionine metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00280	Valine, leucine and isoleucine degradation - Clavibacter michiganensis subsp. sepedonicus
+path:cms00281	Geraniol degradation - Clavibacter michiganensis subsp. sepedonicus
+path:cms00290	Valine, leucine and isoleucine biosynthesis - Clavibacter michiganensis subsp. sepedonicus
+path:cms00300	Lysine biosynthesis - Clavibacter michiganensis subsp. sepedonicus
+path:cms00310	Lysine degradation - Clavibacter michiganensis subsp. sepedonicus
+path:cms00311	Penicillin and cephalosporin biosynthesis - Clavibacter michiganensis subsp. sepedonicus
+path:cms00330	Arginine and proline metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00332	Carbapenem biosynthesis - Clavibacter michiganensis subsp. sepedonicus
+path:cms00340	Histidine metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00350	Tyrosine metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00360	Phenylalanine metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00361	Chlorocyclohexane and chlorobenzene degradation - Clavibacter michiganensis subsp. sepedonicus
+path:cms00362	Benzoate degradation - Clavibacter michiganensis subsp. sepedonicus
+path:cms00364	Fluorobenzoate degradation - Clavibacter michiganensis subsp. sepedonicus
+path:cms00380	Tryptophan metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Clavibacter michiganensis subsp. sepedonicus
+path:cms00401	Novobiocin biosynthesis - Clavibacter michiganensis subsp. sepedonicus
+path:cms00410	beta-Alanine metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00430	Taurine and hypotaurine metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00440	Phosphonate and phosphinate metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00450	Selenocompound metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00460	Cyanoamino acid metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00471	D-Glutamine and D-glutamate metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00473	D-Alanine metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00480	Glutathione metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00500	Starch and sucrose metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00511	Other glycan degradation - Clavibacter michiganensis subsp. sepedonicus
+path:cms00520	Amino sugar and nucleotide sugar metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00521	Streptomycin biosynthesis - Clavibacter michiganensis subsp. sepedonicus
+path:cms00523	Polyketide sugar unit biosynthesis - Clavibacter michiganensis subsp. sepedonicus
+path:cms00525	Acarbose and validamycin biosynthesis - Clavibacter michiganensis subsp. sepedonicus
+path:cms00540	Lipopolysaccharide biosynthesis - Clavibacter michiganensis subsp. sepedonicus
+path:cms00550	Peptidoglycan biosynthesis - Clavibacter michiganensis subsp. sepedonicus
+path:cms00561	Glycerolipid metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00562	Inositol phosphate metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00564	Glycerophospholipid metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00590	Arachidonic acid metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00592	alpha-Linolenic acid metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00600	Sphingolipid metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00620	Pyruvate metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00622	Xylene degradation - Clavibacter michiganensis subsp. sepedonicus
+path:cms00623	Toluene degradation - Clavibacter michiganensis subsp. sepedonicus
+path:cms00625	Chloroalkane and chloroalkene degradation - Clavibacter michiganensis subsp. sepedonicus
+path:cms00626	Naphthalene degradation - Clavibacter michiganensis subsp. sepedonicus
+path:cms00630	Glyoxylate and dicarboxylate metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00640	Propanoate metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00643	Styrene degradation - Clavibacter michiganensis subsp. sepedonicus
+path:cms00650	Butanoate metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00660	C5-Branched dibasic acid metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00670	One carbon pool by folate - Clavibacter michiganensis subsp. sepedonicus
+path:cms00680	Methane metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00730	Thiamine metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00740	Riboflavin metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00750	Vitamin B6 metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00760	Nicotinate and nicotinamide metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00770	Pantothenate and CoA biosynthesis - Clavibacter michiganensis subsp. sepedonicus
+path:cms00780	Biotin metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00785	Lipoic acid metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00790	Folate biosynthesis - Clavibacter michiganensis subsp. sepedonicus
+path:cms00791	Atrazine degradation - Clavibacter michiganensis subsp. sepedonicus
+path:cms00860	Porphyrin and chlorophyll metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00900	Terpenoid backbone biosynthesis - Clavibacter michiganensis subsp. sepedonicus
+path:cms00910	Nitrogen metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00920	Sulfur metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms00970	Aminoacyl-tRNA biosynthesis - Clavibacter michiganensis subsp. sepedonicus
+path:cms01040	Biosynthesis of unsaturated fatty acids - Clavibacter michiganensis subsp. sepedonicus
+path:cms01100	Metabolic pathways - Clavibacter michiganensis subsp. sepedonicus
+path:cms01110	Biosynthesis of secondary metabolites - Clavibacter michiganensis subsp. sepedonicus
+path:cms01120	Microbial metabolism in diverse environments - Clavibacter michiganensis subsp. sepedonicus
+path:cms01130	Biosynthesis of antibiotics - Clavibacter michiganensis subsp. sepedonicus
+path:cms01200	Carbon metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms01210	2-Oxocarboxylic acid metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms01212	Fatty acid metabolism - Clavibacter michiganensis subsp. sepedonicus
+path:cms01220	Degradation of aromatic compounds - Clavibacter michiganensis subsp. sepedonicus
+path:cms01230	Biosynthesis of amino acids - Clavibacter michiganensis subsp. sepedonicus
+path:cms01501	beta-Lactam resistance - Clavibacter michiganensis subsp. sepedonicus
+path:cms01502	Vancomycin resistance - Clavibacter michiganensis subsp. sepedonicus
+path:cms02010	ABC transporters - Clavibacter michiganensis subsp. sepedonicus
+path:cms02020	Two-component system - Clavibacter michiganensis subsp. sepedonicus
+path:cms02024	Quorum sensing - Clavibacter michiganensis subsp. sepedonicus
+path:cms02060	Phosphotransferase system (PTS) - Clavibacter michiganensis subsp. sepedonicus
+path:cms03010	Ribosome - Clavibacter michiganensis subsp. sepedonicus
+path:cms03018	RNA degradation - Clavibacter michiganensis subsp. sepedonicus
+path:cms03020	RNA polymerase - Clavibacter michiganensis subsp. sepedonicus
+path:cms03030	DNA replication - Clavibacter michiganensis subsp. sepedonicus
+path:cms03060	Protein export - Clavibacter michiganensis subsp. sepedonicus
+path:cms03070	Bacterial secretion system - Clavibacter michiganensis subsp. sepedonicus
+path:cms03410	Base excision repair - Clavibacter michiganensis subsp. sepedonicus
+path:cms03420	Nucleotide excision repair - Clavibacter michiganensis subsp. sepedonicus
+path:cms03430	Mismatch repair - Clavibacter michiganensis subsp. sepedonicus
+path:cms03440	Homologous recombination - Clavibacter michiganensis subsp. sepedonicus
+path:cms04122	Sulfur relay system - Clavibacter michiganensis subsp. sepedonicus
+path:cmc00010	Glycolysis / Gluconeogenesis - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00020	Citrate cycle (TCA cycle) - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00030	Pentose phosphate pathway - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00040	Pentose and glucuronate interconversions - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00051	Fructose and mannose metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00052	Galactose metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00053	Ascorbate and aldarate metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00061	Fatty acid biosynthesis - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00071	Fatty acid degradation - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00130	Ubiquinone and other terpenoid-quinone biosynthesis - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00190	Oxidative phosphorylation - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00220	Arginine biosynthesis - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00230	Purine metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00240	Pyrimidine metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00250	Alanine, aspartate and glutamate metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00260	Glycine, serine and threonine metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00261	Monobactam biosynthesis - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00270	Cysteine and methionine metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00280	Valine, leucine and isoleucine degradation - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00281	Geraniol degradation - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00290	Valine, leucine and isoleucine biosynthesis - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00300	Lysine biosynthesis - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00310	Lysine degradation - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00311	Penicillin and cephalosporin biosynthesis - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00330	Arginine and proline metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00332	Carbapenem biosynthesis - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00340	Histidine metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00350	Tyrosine metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00360	Phenylalanine metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00361	Chlorocyclohexane and chlorobenzene degradation - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00362	Benzoate degradation - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00364	Fluorobenzoate degradation - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00380	Tryptophan metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00401	Novobiocin biosynthesis - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00410	beta-Alanine metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00430	Taurine and hypotaurine metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00440	Phosphonate and phosphinate metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00450	Selenocompound metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00460	Cyanoamino acid metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00471	D-Glutamine and D-glutamate metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00473	D-Alanine metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00480	Glutathione metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00500	Starch and sucrose metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00511	Other glycan degradation - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00520	Amino sugar and nucleotide sugar metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00521	Streptomycin biosynthesis - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00523	Polyketide sugar unit biosynthesis - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00525	Acarbose and validamycin biosynthesis - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00540	Lipopolysaccharide biosynthesis - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00550	Peptidoglycan biosynthesis - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00561	Glycerolipid metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00562	Inositol phosphate metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00564	Glycerophospholipid metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00590	Arachidonic acid metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00592	alpha-Linolenic acid metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00600	Sphingolipid metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00620	Pyruvate metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00622	Xylene degradation - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00623	Toluene degradation - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00630	Glyoxylate and dicarboxylate metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00640	Propanoate metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00643	Styrene degradation - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00650	Butanoate metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00660	C5-Branched dibasic acid metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00670	One carbon pool by folate - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00680	Methane metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00730	Thiamine metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00740	Riboflavin metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00750	Vitamin B6 metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00760	Nicotinate and nicotinamide metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00770	Pantothenate and CoA biosynthesis - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00780	Biotin metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00785	Lipoic acid metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00790	Folate biosynthesis - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00791	Atrazine degradation - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00860	Porphyrin and chlorophyll metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00900	Terpenoid backbone biosynthesis - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00910	Nitrogen metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00920	Sulfur metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc00970	Aminoacyl-tRNA biosynthesis - Clavibacter michiganensis subsp. nebraskensis
+path:cmc01040	Biosynthesis of unsaturated fatty acids - Clavibacter michiganensis subsp. nebraskensis
+path:cmc01053	Biosynthesis of siderophore group nonribosomal peptides - Clavibacter michiganensis subsp. nebraskensis
+path:cmc01100	Metabolic pathways - Clavibacter michiganensis subsp. nebraskensis
+path:cmc01110	Biosynthesis of secondary metabolites - Clavibacter michiganensis subsp. nebraskensis
+path:cmc01120	Microbial metabolism in diverse environments - Clavibacter michiganensis subsp. nebraskensis
+path:cmc01130	Biosynthesis of antibiotics - Clavibacter michiganensis subsp. nebraskensis
+path:cmc01200	Carbon metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc01210	2-Oxocarboxylic acid metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc01212	Fatty acid metabolism - Clavibacter michiganensis subsp. nebraskensis
+path:cmc01220	Degradation of aromatic compounds - Clavibacter michiganensis subsp. nebraskensis
+path:cmc01230	Biosynthesis of amino acids - Clavibacter michiganensis subsp. nebraskensis
+path:cmc01501	beta-Lactam resistance - Clavibacter michiganensis subsp. nebraskensis
+path:cmc01502	Vancomycin resistance - Clavibacter michiganensis subsp. nebraskensis
+path:cmc02010	ABC transporters - Clavibacter michiganensis subsp. nebraskensis
+path:cmc02020	Two-component system - Clavibacter michiganensis subsp. nebraskensis
+path:cmc02024	Quorum sensing - Clavibacter michiganensis subsp. nebraskensis
+path:cmc02060	Phosphotransferase system (PTS) - Clavibacter michiganensis subsp. nebraskensis
+path:cmc03010	Ribosome - Clavibacter michiganensis subsp. nebraskensis
+path:cmc03018	RNA degradation - Clavibacter michiganensis subsp. nebraskensis
+path:cmc03020	RNA polymerase - Clavibacter michiganensis subsp. nebraskensis
+path:cmc03030	DNA replication - Clavibacter michiganensis subsp. nebraskensis
+path:cmc03060	Protein export - Clavibacter michiganensis subsp. nebraskensis
+path:cmc03070	Bacterial secretion system - Clavibacter michiganensis subsp. nebraskensis
+path:cmc03410	Base excision repair - Clavibacter michiganensis subsp. nebraskensis
+path:cmc03420	Nucleotide excision repair - Clavibacter michiganensis subsp. nebraskensis
+path:cmc03430	Mismatch repair - Clavibacter michiganensis subsp. nebraskensis
+path:cmc03440	Homologous recombination - Clavibacter michiganensis subsp. nebraskensis
+path:cmc03450	Non-homologous end-joining - Clavibacter michiganensis subsp. nebraskensis
+path:cmc04122	Sulfur relay system - Clavibacter michiganensis subsp. nebraskensis
+path:cmh00010	Glycolysis / Gluconeogenesis - Clavibacter michiganensis subsp. insidiosus
+path:cmh00020	Citrate cycle (TCA cycle) - Clavibacter michiganensis subsp. insidiosus
+path:cmh00030	Pentose phosphate pathway - Clavibacter michiganensis subsp. insidiosus
+path:cmh00040	Pentose and glucuronate interconversions - Clavibacter michiganensis subsp. insidiosus
+path:cmh00051	Fructose and mannose metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00052	Galactose metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00053	Ascorbate and aldarate metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00061	Fatty acid biosynthesis - Clavibacter michiganensis subsp. insidiosus
+path:cmh00071	Fatty acid degradation - Clavibacter michiganensis subsp. insidiosus
+path:cmh00130	Ubiquinone and other terpenoid-quinone biosynthesis - Clavibacter michiganensis subsp. insidiosus
+path:cmh00190	Oxidative phosphorylation - Clavibacter michiganensis subsp. insidiosus
+path:cmh00220	Arginine biosynthesis - Clavibacter michiganensis subsp. insidiosus
+path:cmh00230	Purine metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00240	Pyrimidine metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00250	Alanine, aspartate and glutamate metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00260	Glycine, serine and threonine metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00261	Monobactam biosynthesis - Clavibacter michiganensis subsp. insidiosus
+path:cmh00270	Cysteine and methionine metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00280	Valine, leucine and isoleucine degradation - Clavibacter michiganensis subsp. insidiosus
+path:cmh00281	Geraniol degradation - Clavibacter michiganensis subsp. insidiosus
+path:cmh00290	Valine, leucine and isoleucine biosynthesis - Clavibacter michiganensis subsp. insidiosus
+path:cmh00300	Lysine biosynthesis - Clavibacter michiganensis subsp. insidiosus
+path:cmh00310	Lysine degradation - Clavibacter michiganensis subsp. insidiosus
+path:cmh00311	Penicillin and cephalosporin biosynthesis - Clavibacter michiganensis subsp. insidiosus
+path:cmh00330	Arginine and proline metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00332	Carbapenem biosynthesis - Clavibacter michiganensis subsp. insidiosus
+path:cmh00340	Histidine metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00350	Tyrosine metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00360	Phenylalanine metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00361	Chlorocyclohexane and chlorobenzene degradation - Clavibacter michiganensis subsp. insidiosus
+path:cmh00362	Benzoate degradation - Clavibacter michiganensis subsp. insidiosus
+path:cmh00364	Fluorobenzoate degradation - Clavibacter michiganensis subsp. insidiosus
+path:cmh00380	Tryptophan metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Clavibacter michiganensis subsp. insidiosus
+path:cmh00401	Novobiocin biosynthesis - Clavibacter michiganensis subsp. insidiosus
+path:cmh00410	beta-Alanine metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00430	Taurine and hypotaurine metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00440	Phosphonate and phosphinate metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00450	Selenocompound metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00460	Cyanoamino acid metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00471	D-Glutamine and D-glutamate metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00473	D-Alanine metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00480	Glutathione metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00500	Starch and sucrose metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00511	Other glycan degradation - Clavibacter michiganensis subsp. insidiosus
+path:cmh00520	Amino sugar and nucleotide sugar metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00521	Streptomycin biosynthesis - Clavibacter michiganensis subsp. insidiosus
+path:cmh00523	Polyketide sugar unit biosynthesis - Clavibacter michiganensis subsp. insidiosus
+path:cmh00525	Acarbose and validamycin biosynthesis - Clavibacter michiganensis subsp. insidiosus
+path:cmh00540	Lipopolysaccharide biosynthesis - Clavibacter michiganensis subsp. insidiosus
+path:cmh00550	Peptidoglycan biosynthesis - Clavibacter michiganensis subsp. insidiosus
+path:cmh00561	Glycerolipid metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00562	Inositol phosphate metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00564	Glycerophospholipid metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00590	Arachidonic acid metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00592	alpha-Linolenic acid metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00600	Sphingolipid metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00620	Pyruvate metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00622	Xylene degradation - Clavibacter michiganensis subsp. insidiosus
+path:cmh00623	Toluene degradation - Clavibacter michiganensis subsp. insidiosus
+path:cmh00625	Chloroalkane and chloroalkene degradation - Clavibacter michiganensis subsp. insidiosus
+path:cmh00626	Naphthalene degradation - Clavibacter michiganensis subsp. insidiosus
+path:cmh00630	Glyoxylate and dicarboxylate metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00640	Propanoate metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00643	Styrene degradation - Clavibacter michiganensis subsp. insidiosus
+path:cmh00650	Butanoate metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00660	C5-Branched dibasic acid metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00670	One carbon pool by folate - Clavibacter michiganensis subsp. insidiosus
+path:cmh00680	Methane metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00730	Thiamine metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00740	Riboflavin metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00750	Vitamin B6 metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00760	Nicotinate and nicotinamide metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00770	Pantothenate and CoA biosynthesis - Clavibacter michiganensis subsp. insidiosus
+path:cmh00780	Biotin metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00785	Lipoic acid metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00790	Folate biosynthesis - Clavibacter michiganensis subsp. insidiosus
+path:cmh00860	Porphyrin and chlorophyll metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00900	Terpenoid backbone biosynthesis - Clavibacter michiganensis subsp. insidiosus
+path:cmh00910	Nitrogen metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00920	Sulfur metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh00970	Aminoacyl-tRNA biosynthesis - Clavibacter michiganensis subsp. insidiosus
+path:cmh01040	Biosynthesis of unsaturated fatty acids - Clavibacter michiganensis subsp. insidiosus
+path:cmh01053	Biosynthesis of siderophore group nonribosomal peptides - Clavibacter michiganensis subsp. insidiosus
+path:cmh01100	Metabolic pathways - Clavibacter michiganensis subsp. insidiosus
+path:cmh01110	Biosynthesis of secondary metabolites - Clavibacter michiganensis subsp. insidiosus
+path:cmh01120	Microbial metabolism in diverse environments - Clavibacter michiganensis subsp. insidiosus
+path:cmh01130	Biosynthesis of antibiotics - Clavibacter michiganensis subsp. insidiosus
+path:cmh01200	Carbon metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh01210	2-Oxocarboxylic acid metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh01212	Fatty acid metabolism - Clavibacter michiganensis subsp. insidiosus
+path:cmh01220	Degradation of aromatic compounds - Clavibacter michiganensis subsp. insidiosus
+path:cmh01230	Biosynthesis of amino acids - Clavibacter michiganensis subsp. insidiosus
+path:cmh01501	beta-Lactam resistance - Clavibacter michiganensis subsp. insidiosus
+path:cmh01502	Vancomycin resistance - Clavibacter michiganensis subsp. insidiosus
+path:cmh02010	ABC transporters - Clavibacter michiganensis subsp. insidiosus
+path:cmh02020	Two-component system - Clavibacter michiganensis subsp. insidiosus
+path:cmh02024	Quorum sensing - Clavibacter michiganensis subsp. insidiosus
+path:cmh02060	Phosphotransferase system (PTS) - Clavibacter michiganensis subsp. insidiosus
+path:cmh03010	Ribosome - Clavibacter michiganensis subsp. insidiosus
+path:cmh03018	RNA degradation - Clavibacter michiganensis subsp. insidiosus
+path:cmh03020	RNA polymerase - Clavibacter michiganensis subsp. insidiosus
+path:cmh03030	DNA replication - Clavibacter michiganensis subsp. insidiosus
+path:cmh03060	Protein export - Clavibacter michiganensis subsp. insidiosus
+path:cmh03070	Bacterial secretion system - Clavibacter michiganensis subsp. insidiosus
+path:cmh03410	Base excision repair - Clavibacter michiganensis subsp. insidiosus
+path:cmh03420	Nucleotide excision repair - Clavibacter michiganensis subsp. insidiosus
+path:cmh03430	Mismatch repair - Clavibacter michiganensis subsp. insidiosus
+path:cmh03440	Homologous recombination - Clavibacter michiganensis subsp. insidiosus
+path:cmh03450	Non-homologous end-joining - Clavibacter michiganensis subsp. insidiosus
+path:cmh04122	Sulfur relay system - Clavibacter michiganensis subsp. insidiosus

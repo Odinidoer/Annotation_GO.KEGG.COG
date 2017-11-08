@@ -1,0 +1,354 @@
+<html>
+<!---
+ENTRY       ko00905
+DEFINITION  Brassinosteroid biosynthesis
+--->
+<head>
+<title>
+KEGG PATHWAY: Brassinosteroid biosynthesis
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Brassinosteroid biosynthesis</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=00905&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map00905.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko00905">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko00905&format=kgml">Download KGML</a>
+| <a id="descLink" href="javascript:switchDescription()">Show description</a>
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+<table id="description" cellpadding="10" width="800" style="display: none;"><tr><td>
+Brassinosteroids are a group of plant steroid hormones that regulate growth and development. More than fifty naturally occurring brassinosteroids have been identified in a wide range of plant species. The most abundant and widely occurring brassinosteroids are C28 steroids, and among them brassinolide (BL) is the most biologically active. Plants have multiple pathways for biosynthesis of BL, which are derived from the steroid biosynthetic pathway. Two pathways from campestanol to castasterone (CS), C6 oxidation and the late-C6 oxidation pathways, operate in many plants. Another branching pathway, the early-C22 oxidation pathway, was demonstrated using a brassinosteroid-deficient mutant of Arabidopsis thaliana. Recently, a new shortcut pathway from campesterol to 6-deoxotyphasterol was demonstrated by a functional analysis of cytochrome P450 monooxygenases responsible for brassinosteroid biosynthesis. Thus, at least four pathways are involved in the biosynthesis of CS, and CS is further metabolized to BL by lactonization of the B ring.</td></tr></table>
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="ec">Reference pathway (EC)</option>
+<option value="rn">Reference pathway (Reaction)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="ath">Arabidopsis thaliana (thale cress)</option>
+<option value="aly">Arabidopsis lyrata (lyrate rockcress)</option>
+<option value="crb">Capsella rubella</option>
+<option value="eus">Eutrema salsugineum</option>
+<option value="brp">Brassica rapa (field mustard)</option>
+<option value="bna">Brassica napus (rape)</option>
+<option value="thj">Tarenaya hassleriana (spider flower)</option>
+<option value="cit">Citrus sinensis (Valencia orange)</option>
+<option value="cic">Citrus clementina (mandarin orange)</option>
+<option value="tcc">Theobroma cacao (cacao)</option>
+<option value="gra">Gossypium raimondii</option>
+<option value="ghi">Gossypium hirsutum (upland cotton)</option>
+<option value="egr">Eucalyptus grandis (rose gum)</option>
+<option value="gmx">Glycine max (soybean)</option>
+<option value="pvu">Phaseolus vulgaris (common bean)</option>
+<option value="vra">Vigna radiata (mung bean)</option>
+<option value="var">Vigna angularis (adzuki bean)</option>
+<option value="ccaj">Cajanus cajan (pigeon pea)</option>
+<option value="mtr">Medicago truncatula (barrel medic)</option>
+<option value="cam">Cicer arietinum (chickpea)</option>
+<option value="adu">Arachis duranensis</option>
+<option value="aip">Arachis ipaensis</option>
+<option value="lja">Lotus japonicus</option>
+<option value="lang">Lupinus angustifolius (narrow-leaved blue lupine)</option>
+<option value="fve">Fragaria vesca (woodland strawberry)</option>
+<option value="pper">Prunus persica (peach)</option>
+<option value="pmum">Prunus mume (Japanese apricot)</option>
+<option value="mdm">Malus domestica (apple)</option>
+<option value="pxb">Pyrus x bretschneideri (Chinese white pear)</option>
+<option value="zju">Ziziphus jujuba (Chinese jujube)</option>
+<option value="csv">Cucumis sativus (cucumber)</option>
+<option value="cmo">Cucumis melo (muskmelon)</option>
+<option value="rcu">Ricinus communis (castor bean)</option>
+<option value="jcu">Jatropha curcas</option>
+<option value="pop">Populus trichocarpa (black cottonwood)</option>
+<option value="vvi">Vitis vinifera (wine grape)</option>
+<option value="sly">Solanum lycopersicum (tomato)</option>
+<option value="spen">Solanum pennellii</option>
+<option value="sot">Solanum tuberosum (potato)</option>
+<option value="cann">Capsicum annuum</option>
+<option value="nta">Nicotiana tabacum (common tobacco)</option>
+<option value="ini">Ipomoea nil (Japanese morning glory)</option>
+<option value="sind">Sesamum indicum (sesame)</option>
+<option value="bvg">Beta vulgaris (sugar beet)</option>
+<option value="nnu">Nelumbo nucifera (sacred lotus)</option>
+<option value="osa">Oryza sativa japonica (Japanese rice) (RefSeq)</option>
+<option value="dosa">Oryza sativa japonica (Japanese rice) (RAPDB)</option>
+<option value="obr">Oryza brachyantha (malo sina)</option>
+<option value="bdi">Brachypodium distachyon</option>
+<option value="ats">Aegilops tauschii (wheat D)</option>
+<option value="sbi">Sorghum bicolor (sorghum)</option>
+<option value="zma">Zea mays (maize)</option>
+<option value="sita">Setaria italica (foxtail millet)</option>
+<option value="pda">Phoenix dactylifera (date palm)</option>
+<option value="egu">Elaeis guineensis (African oil palm)</option>
+<option value="mus">Musa acuminata (wild Malaysian banana)</option>
+<option value="atr">Amborella trichopoda</option>
+<option value="smo">Selaginella moellendorffii</option>
+<option value="ppp">Physcomitrella patens subsp. patens</option>
+<option value="cre">Chlamydomonas reinhardtii</option>
+</select>
+<input type="hidden" name="mapno" value="00905" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko00905" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko00905.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=648,535,4	href="/dbget-bin/www_bget?C15803"	title="C15803 (6alpha-Hydroxy-castasterone)" onmouseover="popupTimer(&quot;C15803&quot;, &quot;C15803 (6alpha-Hydroxy-castasterone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=554,535,4	href="/dbget-bin/www_bget?C15802"	title="C15802 (6-Deoxocastasterone)" onmouseover="popupTimer(&quot;C15802&quot;, &quot;C15802 (6-Deoxocastasterone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=554,462,4	href="/dbget-bin/www_bget?C15801"	title="C15801 (6-Deoxotyphasterol)" onmouseover="popupTimer(&quot;C15801&quot;, &quot;C15801 (6-Deoxotyphasterol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=554,389,4	href="/dbget-bin/www_bget?C15800"	title="C15800 (3-Dehydro-6-deoxoteasterone)" onmouseover="popupTimer(&quot;C15800&quot;, &quot;C15800 (3-Dehydro-6-deoxoteasterone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=554,316,4	href="/dbget-bin/www_bget?C15799"	title="C15799 (6-Deoxoteasterone)" onmouseover="popupTimer(&quot;C15799&quot;, &quot;C15799 (6-Deoxoteasterone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=554,242,4	href="/dbget-bin/www_bget?C15798"	title="C15798 (6-Deoxocathasterone)" onmouseover="popupTimer(&quot;C15798&quot;, &quot;C15798 (6-Deoxocathasterone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=404,242,4	href="/dbget-bin/www_bget?C15797"	title="C15797 (22alpha-Hydroxy-5alpha-campestan-3-one)" onmouseover="popupTimer(&quot;C15797&quot;, &quot;C15797 (22alpha-Hydroxy-5alpha-campestan-3-one)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=255,242,4	href="/dbget-bin/www_bget?C15796"	title="C15796 (22alpha-Hydroxy-campest-4-en-3-one)" onmouseover="popupTimer(&quot;C15796&quot;, &quot;C15796 (22alpha-Hydroxy-campest-4-en-3-one)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=113,242,4	href="/dbget-bin/www_bget?C15795"	title="C15795 (22alpha-Hydroxy-campesterol)" onmouseover="popupTimer(&quot;C15795&quot;, &quot;C15795 (22alpha-Hydroxy-campesterol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=838,535,4	href="/dbget-bin/www_bget?C08814"	title="C08814 (Brassinolide)" onmouseover="popupTimer(&quot;C08814&quot;, &quot;C08814 (Brassinolide)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=743,535,4	href="/dbget-bin/www_bget?C15794"	title="C15794 (Castasterone)" onmouseover="popupTimer(&quot;C15794&quot;, &quot;C15794 (Castasterone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=743,462,4	href="/dbget-bin/www_bget?C15793"	title="C15793 (Typhasterol)" onmouseover="popupTimer(&quot;C15793&quot;, &quot;C15793 (Typhasterol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=743,389,4	href="/dbget-bin/www_bget?C15792"	title="C15792 (3-Dehydroteasterone)" onmouseover="popupTimer(&quot;C15792&quot;, &quot;C15792 (3-Dehydroteasterone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=743,316,4	href="/dbget-bin/www_bget?C15791"	title="C15791 (Teasterone)" onmouseover="popupTimer(&quot;C15791&quot;, &quot;C15791 (Teasterone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=743,242,4	href="/dbget-bin/www_bget?C15790"	title="C15790 (Cathasterone)" onmouseover="popupTimer(&quot;C15790&quot;, &quot;C15790 (Cathasterone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=743,170,4	href="/dbget-bin/www_bget?C15789"	title="C15789 (6-Oxocampestanol)" onmouseover="popupTimer(&quot;C15789&quot;, &quot;C15789 (6-Oxocampestanol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=648,170,4	href="/dbget-bin/www_bget?C15788"	title="C15788 (6alpha-Hydroxycampestanol)" onmouseover="popupTimer(&quot;C15788&quot;, &quot;C15788 (6alpha-Hydroxycampestanol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=554,170,4	href="/dbget-bin/www_bget?C15787"	title="C15787 (Campestanol)" onmouseover="popupTimer(&quot;C15787&quot;, &quot;C15787 (Campestanol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=404,170,4	href="/dbget-bin/www_bget?C15786"	title="C15786 (5alpha-Campestan-3-one)" onmouseover="popupTimer(&quot;C15786&quot;, &quot;C15786 (5alpha-Campestan-3-one)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=255,170,4	href="/dbget-bin/www_bget?C15785"	title="C15785 (Campest-4-en-3-one)" onmouseover="popupTimer(&quot;C15785&quot;, &quot;C15785 (Campest-4-en-3-one)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=184,170,4	href="/dbget-bin/www_bget?C15784"	title="C15784 (Campest-4-en-3beta-ol)" onmouseover="popupTimer(&quot;C15784&quot;, &quot;C15784 (Campest-4-en-3beta-ol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=113,170,4	href="/dbget-bin/www_bget?C01789"	title="C01789 (Campesterol)" onmouseover="popupTimer(&quot;C01789&quot;, &quot;C01789 (Campesterol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=113,393,4	href="/dbget-bin/www_bget?C16252"	title="C16252 ((22R,23R)-22,23-Dihydroxycampesterol)" onmouseover="popupTimer(&quot;C16252&quot;, &quot;C16252 ((22R,23R)-22,23-Dihydroxycampesterol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=255,394,4	href="/dbget-bin/www_bget?C16253"	title="C16253 ((22R,23R)-22,23-Dihydroxy-campest-4-en-3-one)" onmouseover="popupTimer(&quot;C16253&quot;, &quot;C16253 ((22R,23R)-22,23-Dihydroxy-campest-4-en-3-one)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=404,321,4	href="/dbget-bin/www_bget?C16251"	title="C16251 (3-epi-6-Deoxocathasterone)" onmouseover="popupTimer(&quot;C16251&quot;, &quot;C16251 (3-epi-6-Deoxocathasterone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=838,316,4	href="/dbget-bin/www_bget?C17733"	title="C17733 (7-Oxateasterone)" onmouseover="popupTimer(&quot;C17733&quot;, &quot;C17733 (7-Oxateasterone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=838,462,4	href="/dbget-bin/www_bget?C17735"	title="C17735 (7-Oxatyphasterol)" onmouseover="popupTimer(&quot;C17735&quot;, &quot;C17735 (7-Oxatyphasterol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=743,607,4	href="/dbget-bin/www_bget?C19873"	title="C19873 (26-Hydroxycastasterone)" onmouseover="popupTimer(&quot;C19873&quot;, &quot;C19873 (26-Hydroxycastasterone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=838,607,4	href="/dbget-bin/www_bget?C19874"	title="C19874 (26-Hydroxybrassinolide)" onmouseover="popupTimer(&quot;C19874&quot;, &quot;C19874 (26-Hydroxybrassinolide)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=302,234,348,251	href="/dbget-bin/www_bget?K09591"	title="K09591 (DET2)" />
+<area shape=rect	coords=302,162,348,179	href="/dbget-bin/www_bget?K09591"	title="K09591 (DET2)" />
+<area shape=rect	coords=668,527,714,544	href="/dbget-bin/www_bget?K09590+K12640"	title="K09590 (CYP85A1), K12640 (CYP85A2)" />
+<area shape=rect	coords=574,527,620,544	href="/dbget-bin/www_bget?K09590+K12640"	title="K09590 (CYP85A1), K12640 (CYP85A2)" />
+<area shape=rect	coords=626,454,672,471	href="/dbget-bin/www_bget?K09590+K12640"	title="K09590 (CYP85A1), K12640 (CYP85A2)" />
+<area shape=rect	coords=626,381,672,398	href="/dbget-bin/www_bget?K09590+K12640"	title="K09590 (CYP85A1), K12640 (CYP85A2)" />
+<area shape=rect	coords=626,308,672,325	href="/dbget-bin/www_bget?K09590+K12640"	title="K09590 (CYP85A1), K12640 (CYP85A2)" />
+<area shape=rect	coords=720,344,766,361	href="/dbget-bin/www_bget?K09589"	title="K09589 (CYP90D2)" />
+<area shape=rect	coords=532,344,578,361	href="/dbget-bin/www_bget?K09589"	title="K09589 (CYP90D2)" />
+<area shape=rect	coords=720,267,766,284	href="/dbget-bin/www_bget?K12637+K12638"	title="K12637 (CYP90C1), K12638 (CYP90D1)" />
+<area shape=rect	coords=532,267,578,284	href="/dbget-bin/www_bget?K12637+K12638"	title="K12637 (CYP90C1), K12638 (CYP90D1)" />
+<area shape=rect	coords=532,192,578,209	href="/dbget-bin/www_bget?K09587+K12639"	title="K09587 (CYP90B1), K12639 (CYP724B1)" />
+<area shape=rect	coords=381,193,427,210	href="/dbget-bin/www_bget?K09587+K12639"	title="K09587 (CYP90B1), K12639 (CYP724B1)" />
+<area shape=rect	coords=232,193,278,210	href="/dbget-bin/www_bget?K09587+K12639"	title="K09587 (CYP90B1), K12639 (CYP724B1)" />
+<area shape=rect	coords=90,192,136,209	href="/dbget-bin/www_bget?K09587+K12639"	title="K09587 (CYP90B1), K12639 (CYP724B1)" />
+<area shape=rect	coords=765,454,811,471	href="/dbget-bin/www_bget?K12640"	title="K12640 (CYP85A2)" />
+<area shape=rect	coords=765,308,811,325	href="/dbget-bin/www_bget?K12640"	title="K12640 (CYP85A2)" />
+<area shape=rect	coords=90,308,136,325	href="/dbget-bin/www_bget?K12637+K12638"	title="K12637 (CYP90C1), K12638 (CYP90D1)" />
+<area shape=rect	coords=232,308,278,325	href="/dbget-bin/www_bget?K12637+K12638"	title="K12637 (CYP90C1), K12638 (CYP90D1)" />
+<area shape=rect	coords=381,344,427,361	href="/dbget-bin/www_bget?K12637+K12638"	title="K12637 (CYP90C1), K12638 (CYP90D1)" />
+<area shape=rect	coords=446,344,492,361	href="/dbget-bin/www_bget?K12637+K12638"	title="K12637 (CYP90C1), K12638 (CYP90D1)" />
+<area shape=rect	coords=765,527,811,544	href="/dbget-bin/www_bget?K12640"	title="K12640 (CYP85A2)" />
+<area shape=rect	coords=161,234,207,251	href="/dbget-bin/www_bget?K09588"	title="K09588 (CYP90A1)" />
+<area shape=rect	coords=720,561,766,578	href="/dbget-bin/www_bget?K15639"	title="K15639 (CYP734A1)" />
+<area shape=rect	coords=814,561,860,578	href="/dbget-bin/www_bget?K15639"	title="K15639 (CYP734A1)" />
+<area shape=rect	coords=532,492,578,509	href="/dbget-bin/www_bget?K20623"	title="K20623 (CYP92A6)" />
+<area shape=rect	coords=720,492,766,509	href="/dbget-bin/www_bget?K20623"	title="K20623 (CYP92A6)" />
+<area shape=rect	coords=55,95,175,120	href="/kegg-bin/show_pathway?ko00100"	title="ko00100: Steroid biosynthesis" onmouseover="popupTimer(&quot;ko00100&quot;, &quot;ko00100: Steroid biosynthesis&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=40,45,296,70	href="/dbget-bin/www_bget?ko00905"	title="ko00905: Brassinosteroid biosynthesis" onmouseover="popupTimer(&quot;ko00905&quot;, &quot;ko00905: Brassinosteroid biosynthesis&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

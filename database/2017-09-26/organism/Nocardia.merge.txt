@@ -1,0 +1,888 @@
+path:nfa00010	Glycolysis / Gluconeogenesis - Nocardia farcinica IFM 10152
+path:nfa00020	Citrate cycle (TCA cycle) - Nocardia farcinica IFM 10152
+path:nfa00030	Pentose phosphate pathway - Nocardia farcinica IFM 10152
+path:nfa00040	Pentose and glucuronate interconversions - Nocardia farcinica IFM 10152
+path:nfa00051	Fructose and mannose metabolism - Nocardia farcinica IFM 10152
+path:nfa00052	Galactose metabolism - Nocardia farcinica IFM 10152
+path:nfa00053	Ascorbate and aldarate metabolism - Nocardia farcinica IFM 10152
+path:nfa00061	Fatty acid biosynthesis - Nocardia farcinica IFM 10152
+path:nfa00071	Fatty acid degradation - Nocardia farcinica IFM 10152
+path:nfa00072	Synthesis and degradation of ketone bodies - Nocardia farcinica IFM 10152
+path:nfa00100	Steroid biosynthesis - Nocardia farcinica IFM 10152
+path:nfa00121	Secondary bile acid biosynthesis - Nocardia farcinica IFM 10152
+path:nfa00130	Ubiquinone and other terpenoid-quinone biosynthesis - Nocardia farcinica IFM 10152
+path:nfa00190	Oxidative phosphorylation - Nocardia farcinica IFM 10152
+path:nfa00220	Arginine biosynthesis - Nocardia farcinica IFM 10152
+path:nfa00230	Purine metabolism - Nocardia farcinica IFM 10152
+path:nfa00240	Pyrimidine metabolism - Nocardia farcinica IFM 10152
+path:nfa00250	Alanine, aspartate and glutamate metabolism - Nocardia farcinica IFM 10152
+path:nfa00260	Glycine, serine and threonine metabolism - Nocardia farcinica IFM 10152
+path:nfa00261	Monobactam biosynthesis - Nocardia farcinica IFM 10152
+path:nfa00270	Cysteine and methionine metabolism - Nocardia farcinica IFM 10152
+path:nfa00280	Valine, leucine and isoleucine degradation - Nocardia farcinica IFM 10152
+path:nfa00281	Geraniol degradation - Nocardia farcinica IFM 10152
+path:nfa00290	Valine, leucine and isoleucine biosynthesis - Nocardia farcinica IFM 10152
+path:nfa00300	Lysine biosynthesis - Nocardia farcinica IFM 10152
+path:nfa00310	Lysine degradation - Nocardia farcinica IFM 10152
+path:nfa00330	Arginine and proline metabolism - Nocardia farcinica IFM 10152
+path:nfa00332	Carbapenem biosynthesis - Nocardia farcinica IFM 10152
+path:nfa00340	Histidine metabolism - Nocardia farcinica IFM 10152
+path:nfa00350	Tyrosine metabolism - Nocardia farcinica IFM 10152
+path:nfa00360	Phenylalanine metabolism - Nocardia farcinica IFM 10152
+path:nfa00361	Chlorocyclohexane and chlorobenzene degradation - Nocardia farcinica IFM 10152
+path:nfa00362	Benzoate degradation - Nocardia farcinica IFM 10152
+path:nfa00364	Fluorobenzoate degradation - Nocardia farcinica IFM 10152
+path:nfa00380	Tryptophan metabolism - Nocardia farcinica IFM 10152
+path:nfa00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Nocardia farcinica IFM 10152
+path:nfa00401	Novobiocin biosynthesis - Nocardia farcinica IFM 10152
+path:nfa00410	beta-Alanine metabolism - Nocardia farcinica IFM 10152
+path:nfa00430	Taurine and hypotaurine metabolism - Nocardia farcinica IFM 10152
+path:nfa00440	Phosphonate and phosphinate metabolism - Nocardia farcinica IFM 10152
+path:nfa00450	Selenocompound metabolism - Nocardia farcinica IFM 10152
+path:nfa00460	Cyanoamino acid metabolism - Nocardia farcinica IFM 10152
+path:nfa00471	D-Glutamine and D-glutamate metabolism - Nocardia farcinica IFM 10152
+path:nfa00472	D-Arginine and D-ornithine metabolism - Nocardia farcinica IFM 10152
+path:nfa00473	D-Alanine metabolism - Nocardia farcinica IFM 10152
+path:nfa00480	Glutathione metabolism - Nocardia farcinica IFM 10152
+path:nfa00500	Starch and sucrose metabolism - Nocardia farcinica IFM 10152
+path:nfa00520	Amino sugar and nucleotide sugar metabolism - Nocardia farcinica IFM 10152
+path:nfa00521	Streptomycin biosynthesis - Nocardia farcinica IFM 10152
+path:nfa00523	Polyketide sugar unit biosynthesis - Nocardia farcinica IFM 10152
+path:nfa00525	Acarbose and validamycin biosynthesis - Nocardia farcinica IFM 10152
+path:nfa00540	Lipopolysaccharide biosynthesis - Nocardia farcinica IFM 10152
+path:nfa00550	Peptidoglycan biosynthesis - Nocardia farcinica IFM 10152
+path:nfa00561	Glycerolipid metabolism - Nocardia farcinica IFM 10152
+path:nfa00562	Inositol phosphate metabolism - Nocardia farcinica IFM 10152
+path:nfa00564	Glycerophospholipid metabolism - Nocardia farcinica IFM 10152
+path:nfa00590	Arachidonic acid metabolism - Nocardia farcinica IFM 10152
+path:nfa00592	alpha-Linolenic acid metabolism - Nocardia farcinica IFM 10152
+path:nfa00600	Sphingolipid metabolism - Nocardia farcinica IFM 10152
+path:nfa00620	Pyruvate metabolism - Nocardia farcinica IFM 10152
+path:nfa00621	Dioxin degradation - Nocardia farcinica IFM 10152
+path:nfa00622	Xylene degradation - Nocardia farcinica IFM 10152
+path:nfa00623	Toluene degradation - Nocardia farcinica IFM 10152
+path:nfa00625	Chloroalkane and chloroalkene degradation - Nocardia farcinica IFM 10152
+path:nfa00626	Naphthalene degradation - Nocardia farcinica IFM 10152
+path:nfa00627	Aminobenzoate degradation - Nocardia farcinica IFM 10152
+path:nfa00630	Glyoxylate and dicarboxylate metabolism - Nocardia farcinica IFM 10152
+path:nfa00640	Propanoate metabolism - Nocardia farcinica IFM 10152
+path:nfa00643	Styrene degradation - Nocardia farcinica IFM 10152
+path:nfa00650	Butanoate metabolism - Nocardia farcinica IFM 10152
+path:nfa00660	C5-Branched dibasic acid metabolism - Nocardia farcinica IFM 10152
+path:nfa00670	One carbon pool by folate - Nocardia farcinica IFM 10152
+path:nfa00680	Methane metabolism - Nocardia farcinica IFM 10152
+path:nfa00710	Carbon fixation in photosynthetic organisms - Nocardia farcinica IFM 10152
+path:nfa00730	Thiamine metabolism - Nocardia farcinica IFM 10152
+path:nfa00740	Riboflavin metabolism - Nocardia farcinica IFM 10152
+path:nfa00750	Vitamin B6 metabolism - Nocardia farcinica IFM 10152
+path:nfa00760	Nicotinate and nicotinamide metabolism - Nocardia farcinica IFM 10152
+path:nfa00770	Pantothenate and CoA biosynthesis - Nocardia farcinica IFM 10152
+path:nfa00780	Biotin metabolism - Nocardia farcinica IFM 10152
+path:nfa00785	Lipoic acid metabolism - Nocardia farcinica IFM 10152
+path:nfa00790	Folate biosynthesis - Nocardia farcinica IFM 10152
+path:nfa00791	Atrazine degradation - Nocardia farcinica IFM 10152
+path:nfa00860	Porphyrin and chlorophyll metabolism - Nocardia farcinica IFM 10152
+path:nfa00900	Terpenoid backbone biosynthesis - Nocardia farcinica IFM 10152
+path:nfa00903	Limonene and pinene degradation - Nocardia farcinica IFM 10152
+path:nfa00906	Carotenoid biosynthesis - Nocardia farcinica IFM 10152
+path:nfa00910	Nitrogen metabolism - Nocardia farcinica IFM 10152
+path:nfa00920	Sulfur metabolism - Nocardia farcinica IFM 10152
+path:nfa00930	Caprolactam degradation - Nocardia farcinica IFM 10152
+path:nfa00970	Aminoacyl-tRNA biosynthesis - Nocardia farcinica IFM 10152
+path:nfa00984	Steroid degradation - Nocardia farcinica IFM 10152
+path:nfa01040	Biosynthesis of unsaturated fatty acids - Nocardia farcinica IFM 10152
+path:nfa01053	Biosynthesis of siderophore group nonribosomal peptides - Nocardia farcinica IFM 10152
+path:nfa01100	Metabolic pathways - Nocardia farcinica IFM 10152
+path:nfa01110	Biosynthesis of secondary metabolites - Nocardia farcinica IFM 10152
+path:nfa01120	Microbial metabolism in diverse environments - Nocardia farcinica IFM 10152
+path:nfa01130	Biosynthesis of antibiotics - Nocardia farcinica IFM 10152
+path:nfa01200	Carbon metabolism - Nocardia farcinica IFM 10152
+path:nfa01210	2-Oxocarboxylic acid metabolism - Nocardia farcinica IFM 10152
+path:nfa01212	Fatty acid metabolism - Nocardia farcinica IFM 10152
+path:nfa01220	Degradation of aromatic compounds - Nocardia farcinica IFM 10152
+path:nfa01230	Biosynthesis of amino acids - Nocardia farcinica IFM 10152
+path:nfa01501	beta-Lactam resistance - Nocardia farcinica IFM 10152
+path:nfa01502	Vancomycin resistance - Nocardia farcinica IFM 10152
+path:nfa01503	Cationic antimicrobial peptide (CAMP) resistance - Nocardia farcinica IFM 10152
+path:nfa02010	ABC transporters - Nocardia farcinica IFM 10152
+path:nfa02020	Two-component system - Nocardia farcinica IFM 10152
+path:nfa02024	Quorum sensing - Nocardia farcinica IFM 10152
+path:nfa02060	Phosphotransferase system (PTS) - Nocardia farcinica IFM 10152
+path:nfa03010	Ribosome - Nocardia farcinica IFM 10152
+path:nfa03018	RNA degradation - Nocardia farcinica IFM 10152
+path:nfa03020	RNA polymerase - Nocardia farcinica IFM 10152
+path:nfa03030	DNA replication - Nocardia farcinica IFM 10152
+path:nfa03050	Proteasome - Nocardia farcinica IFM 10152
+path:nfa03060	Protein export - Nocardia farcinica IFM 10152
+path:nfa03070	Bacterial secretion system - Nocardia farcinica IFM 10152
+path:nfa03410	Base excision repair - Nocardia farcinica IFM 10152
+path:nfa03420	Nucleotide excision repair - Nocardia farcinica IFM 10152
+path:nfa03430	Mismatch repair - Nocardia farcinica IFM 10152
+path:nfa03440	Homologous recombination - Nocardia farcinica IFM 10152
+path:nfa03450	Non-homologous end-joining - Nocardia farcinica IFM 10152
+path:nfa04122	Sulfur relay system - Nocardia farcinica IFM 10152
+path:nfr00010	Glycolysis / Gluconeogenesis - Nocardia farcinica NCTC11134
+path:nfr00020	Citrate cycle (TCA cycle) - Nocardia farcinica NCTC11134
+path:nfr00030	Pentose phosphate pathway - Nocardia farcinica NCTC11134
+path:nfr00040	Pentose and glucuronate interconversions - Nocardia farcinica NCTC11134
+path:nfr00051	Fructose and mannose metabolism - Nocardia farcinica NCTC11134
+path:nfr00052	Galactose metabolism - Nocardia farcinica NCTC11134
+path:nfr00053	Ascorbate and aldarate metabolism - Nocardia farcinica NCTC11134
+path:nfr00061	Fatty acid biosynthesis - Nocardia farcinica NCTC11134
+path:nfr00071	Fatty acid degradation - Nocardia farcinica NCTC11134
+path:nfr00072	Synthesis and degradation of ketone bodies - Nocardia farcinica NCTC11134
+path:nfr00100	Steroid biosynthesis - Nocardia farcinica NCTC11134
+path:nfr00121	Secondary bile acid biosynthesis - Nocardia farcinica NCTC11134
+path:nfr00130	Ubiquinone and other terpenoid-quinone biosynthesis - Nocardia farcinica NCTC11134
+path:nfr00190	Oxidative phosphorylation - Nocardia farcinica NCTC11134
+path:nfr00220	Arginine biosynthesis - Nocardia farcinica NCTC11134
+path:nfr00230	Purine metabolism - Nocardia farcinica NCTC11134
+path:nfr00240	Pyrimidine metabolism - Nocardia farcinica NCTC11134
+path:nfr00250	Alanine, aspartate and glutamate metabolism - Nocardia farcinica NCTC11134
+path:nfr00260	Glycine, serine and threonine metabolism - Nocardia farcinica NCTC11134
+path:nfr00261	Monobactam biosynthesis - Nocardia farcinica NCTC11134
+path:nfr00270	Cysteine and methionine metabolism - Nocardia farcinica NCTC11134
+path:nfr00280	Valine, leucine and isoleucine degradation - Nocardia farcinica NCTC11134
+path:nfr00281	Geraniol degradation - Nocardia farcinica NCTC11134
+path:nfr00290	Valine, leucine and isoleucine biosynthesis - Nocardia farcinica NCTC11134
+path:nfr00300	Lysine biosynthesis - Nocardia farcinica NCTC11134
+path:nfr00310	Lysine degradation - Nocardia farcinica NCTC11134
+path:nfr00330	Arginine and proline metabolism - Nocardia farcinica NCTC11134
+path:nfr00332	Carbapenem biosynthesis - Nocardia farcinica NCTC11134
+path:nfr00340	Histidine metabolism - Nocardia farcinica NCTC11134
+path:nfr00350	Tyrosine metabolism - Nocardia farcinica NCTC11134
+path:nfr00360	Phenylalanine metabolism - Nocardia farcinica NCTC11134
+path:nfr00361	Chlorocyclohexane and chlorobenzene degradation - Nocardia farcinica NCTC11134
+path:nfr00362	Benzoate degradation - Nocardia farcinica NCTC11134
+path:nfr00364	Fluorobenzoate degradation - Nocardia farcinica NCTC11134
+path:nfr00380	Tryptophan metabolism - Nocardia farcinica NCTC11134
+path:nfr00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Nocardia farcinica NCTC11134
+path:nfr00401	Novobiocin biosynthesis - Nocardia farcinica NCTC11134
+path:nfr00410	beta-Alanine metabolism - Nocardia farcinica NCTC11134
+path:nfr00430	Taurine and hypotaurine metabolism - Nocardia farcinica NCTC11134
+path:nfr00440	Phosphonate and phosphinate metabolism - Nocardia farcinica NCTC11134
+path:nfr00450	Selenocompound metabolism - Nocardia farcinica NCTC11134
+path:nfr00460	Cyanoamino acid metabolism - Nocardia farcinica NCTC11134
+path:nfr00471	D-Glutamine and D-glutamate metabolism - Nocardia farcinica NCTC11134
+path:nfr00472	D-Arginine and D-ornithine metabolism - Nocardia farcinica NCTC11134
+path:nfr00473	D-Alanine metabolism - Nocardia farcinica NCTC11134
+path:nfr00480	Glutathione metabolism - Nocardia farcinica NCTC11134
+path:nfr00500	Starch and sucrose metabolism - Nocardia farcinica NCTC11134
+path:nfr00520	Amino sugar and nucleotide sugar metabolism - Nocardia farcinica NCTC11134
+path:nfr00521	Streptomycin biosynthesis - Nocardia farcinica NCTC11134
+path:nfr00523	Polyketide sugar unit biosynthesis - Nocardia farcinica NCTC11134
+path:nfr00525	Acarbose and validamycin biosynthesis - Nocardia farcinica NCTC11134
+path:nfr00540	Lipopolysaccharide biosynthesis - Nocardia farcinica NCTC11134
+path:nfr00550	Peptidoglycan biosynthesis - Nocardia farcinica NCTC11134
+path:nfr00561	Glycerolipid metabolism - Nocardia farcinica NCTC11134
+path:nfr00562	Inositol phosphate metabolism - Nocardia farcinica NCTC11134
+path:nfr00564	Glycerophospholipid metabolism - Nocardia farcinica NCTC11134
+path:nfr00590	Arachidonic acid metabolism - Nocardia farcinica NCTC11134
+path:nfr00592	alpha-Linolenic acid metabolism - Nocardia farcinica NCTC11134
+path:nfr00600	Sphingolipid metabolism - Nocardia farcinica NCTC11134
+path:nfr00620	Pyruvate metabolism - Nocardia farcinica NCTC11134
+path:nfr00621	Dioxin degradation - Nocardia farcinica NCTC11134
+path:nfr00622	Xylene degradation - Nocardia farcinica NCTC11134
+path:nfr00623	Toluene degradation - Nocardia farcinica NCTC11134
+path:nfr00624	Polycyclic aromatic hydrocarbon degradation - Nocardia farcinica NCTC11134
+path:nfr00625	Chloroalkane and chloroalkene degradation - Nocardia farcinica NCTC11134
+path:nfr00626	Naphthalene degradation - Nocardia farcinica NCTC11134
+path:nfr00627	Aminobenzoate degradation - Nocardia farcinica NCTC11134
+path:nfr00630	Glyoxylate and dicarboxylate metabolism - Nocardia farcinica NCTC11134
+path:nfr00640	Propanoate metabolism - Nocardia farcinica NCTC11134
+path:nfr00643	Styrene degradation - Nocardia farcinica NCTC11134
+path:nfr00650	Butanoate metabolism - Nocardia farcinica NCTC11134
+path:nfr00660	C5-Branched dibasic acid metabolism - Nocardia farcinica NCTC11134
+path:nfr00670	One carbon pool by folate - Nocardia farcinica NCTC11134
+path:nfr00680	Methane metabolism - Nocardia farcinica NCTC11134
+path:nfr00710	Carbon fixation in photosynthetic organisms - Nocardia farcinica NCTC11134
+path:nfr00730	Thiamine metabolism - Nocardia farcinica NCTC11134
+path:nfr00740	Riboflavin metabolism - Nocardia farcinica NCTC11134
+path:nfr00750	Vitamin B6 metabolism - Nocardia farcinica NCTC11134
+path:nfr00760	Nicotinate and nicotinamide metabolism - Nocardia farcinica NCTC11134
+path:nfr00770	Pantothenate and CoA biosynthesis - Nocardia farcinica NCTC11134
+path:nfr00780	Biotin metabolism - Nocardia farcinica NCTC11134
+path:nfr00785	Lipoic acid metabolism - Nocardia farcinica NCTC11134
+path:nfr00790	Folate biosynthesis - Nocardia farcinica NCTC11134
+path:nfr00791	Atrazine degradation - Nocardia farcinica NCTC11134
+path:nfr00860	Porphyrin and chlorophyll metabolism - Nocardia farcinica NCTC11134
+path:nfr00900	Terpenoid backbone biosynthesis - Nocardia farcinica NCTC11134
+path:nfr00903	Limonene and pinene degradation - Nocardia farcinica NCTC11134
+path:nfr00906	Carotenoid biosynthesis - Nocardia farcinica NCTC11134
+path:nfr00910	Nitrogen metabolism - Nocardia farcinica NCTC11134
+path:nfr00920	Sulfur metabolism - Nocardia farcinica NCTC11134
+path:nfr00930	Caprolactam degradation - Nocardia farcinica NCTC11134
+path:nfr00970	Aminoacyl-tRNA biosynthesis - Nocardia farcinica NCTC11134
+path:nfr00984	Steroid degradation - Nocardia farcinica NCTC11134
+path:nfr01040	Biosynthesis of unsaturated fatty acids - Nocardia farcinica NCTC11134
+path:nfr01053	Biosynthesis of siderophore group nonribosomal peptides - Nocardia farcinica NCTC11134
+path:nfr01059	Biosynthesis of enediyne antibiotics - Nocardia farcinica NCTC11134
+path:nfr01100	Metabolic pathways - Nocardia farcinica NCTC11134
+path:nfr01110	Biosynthesis of secondary metabolites - Nocardia farcinica NCTC11134
+path:nfr01120	Microbial metabolism in diverse environments - Nocardia farcinica NCTC11134
+path:nfr01130	Biosynthesis of antibiotics - Nocardia farcinica NCTC11134
+path:nfr01200	Carbon metabolism - Nocardia farcinica NCTC11134
+path:nfr01210	2-Oxocarboxylic acid metabolism - Nocardia farcinica NCTC11134
+path:nfr01212	Fatty acid metabolism - Nocardia farcinica NCTC11134
+path:nfr01220	Degradation of aromatic compounds - Nocardia farcinica NCTC11134
+path:nfr01230	Biosynthesis of amino acids - Nocardia farcinica NCTC11134
+path:nfr01501	beta-Lactam resistance - Nocardia farcinica NCTC11134
+path:nfr01502	Vancomycin resistance - Nocardia farcinica NCTC11134
+path:nfr01503	Cationic antimicrobial peptide (CAMP) resistance - Nocardia farcinica NCTC11134
+path:nfr02010	ABC transporters - Nocardia farcinica NCTC11134
+path:nfr02020	Two-component system - Nocardia farcinica NCTC11134
+path:nfr02024	Quorum sensing - Nocardia farcinica NCTC11134
+path:nfr02060	Phosphotransferase system (PTS) - Nocardia farcinica NCTC11134
+path:nfr03010	Ribosome - Nocardia farcinica NCTC11134
+path:nfr03018	RNA degradation - Nocardia farcinica NCTC11134
+path:nfr03020	RNA polymerase - Nocardia farcinica NCTC11134
+path:nfr03030	DNA replication - Nocardia farcinica NCTC11134
+path:nfr03050	Proteasome - Nocardia farcinica NCTC11134
+path:nfr03060	Protein export - Nocardia farcinica NCTC11134
+path:nfr03070	Bacterial secretion system - Nocardia farcinica NCTC11134
+path:nfr03410	Base excision repair - Nocardia farcinica NCTC11134
+path:nfr03420	Nucleotide excision repair - Nocardia farcinica NCTC11134
+path:nfr03430	Mismatch repair - Nocardia farcinica NCTC11134
+path:nfr03440	Homologous recombination - Nocardia farcinica NCTC11134
+path:nfr03450	Non-homologous end-joining - Nocardia farcinica NCTC11134
+path:nfr04122	Sulfur relay system - Nocardia farcinica NCTC11134
+path:ncy00010	Glycolysis / Gluconeogenesis - Nocardia cyriacigeorgica
+path:ncy00020	Citrate cycle (TCA cycle) - Nocardia cyriacigeorgica
+path:ncy00030	Pentose phosphate pathway - Nocardia cyriacigeorgica
+path:ncy00040	Pentose and glucuronate interconversions - Nocardia cyriacigeorgica
+path:ncy00051	Fructose and mannose metabolism - Nocardia cyriacigeorgica
+path:ncy00052	Galactose metabolism - Nocardia cyriacigeorgica
+path:ncy00053	Ascorbate and aldarate metabolism - Nocardia cyriacigeorgica
+path:ncy00061	Fatty acid biosynthesis - Nocardia cyriacigeorgica
+path:ncy00071	Fatty acid degradation - Nocardia cyriacigeorgica
+path:ncy00072	Synthesis and degradation of ketone bodies - Nocardia cyriacigeorgica
+path:ncy00100	Steroid biosynthesis - Nocardia cyriacigeorgica
+path:ncy00121	Secondary bile acid biosynthesis - Nocardia cyriacigeorgica
+path:ncy00130	Ubiquinone and other terpenoid-quinone biosynthesis - Nocardia cyriacigeorgica
+path:ncy00190	Oxidative phosphorylation - Nocardia cyriacigeorgica
+path:ncy00220	Arginine biosynthesis - Nocardia cyriacigeorgica
+path:ncy00230	Purine metabolism - Nocardia cyriacigeorgica
+path:ncy00240	Pyrimidine metabolism - Nocardia cyriacigeorgica
+path:ncy00250	Alanine, aspartate and glutamate metabolism - Nocardia cyriacigeorgica
+path:ncy00260	Glycine, serine and threonine metabolism - Nocardia cyriacigeorgica
+path:ncy00261	Monobactam biosynthesis - Nocardia cyriacigeorgica
+path:ncy00270	Cysteine and methionine metabolism - Nocardia cyriacigeorgica
+path:ncy00280	Valine, leucine and isoleucine degradation - Nocardia cyriacigeorgica
+path:ncy00281	Geraniol degradation - Nocardia cyriacigeorgica
+path:ncy00290	Valine, leucine and isoleucine biosynthesis - Nocardia cyriacigeorgica
+path:ncy00300	Lysine biosynthesis - Nocardia cyriacigeorgica
+path:ncy00310	Lysine degradation - Nocardia cyriacigeorgica
+path:ncy00330	Arginine and proline metabolism - Nocardia cyriacigeorgica
+path:ncy00332	Carbapenem biosynthesis - Nocardia cyriacigeorgica
+path:ncy00340	Histidine metabolism - Nocardia cyriacigeorgica
+path:ncy00350	Tyrosine metabolism - Nocardia cyriacigeorgica
+path:ncy00360	Phenylalanine metabolism - Nocardia cyriacigeorgica
+path:ncy00361	Chlorocyclohexane and chlorobenzene degradation - Nocardia cyriacigeorgica
+path:ncy00362	Benzoate degradation - Nocardia cyriacigeorgica
+path:ncy00364	Fluorobenzoate degradation - Nocardia cyriacigeorgica
+path:ncy00380	Tryptophan metabolism - Nocardia cyriacigeorgica
+path:ncy00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Nocardia cyriacigeorgica
+path:ncy00401	Novobiocin biosynthesis - Nocardia cyriacigeorgica
+path:ncy00405	Phenazine biosynthesis - Nocardia cyriacigeorgica
+path:ncy00410	beta-Alanine metabolism - Nocardia cyriacigeorgica
+path:ncy00430	Taurine and hypotaurine metabolism - Nocardia cyriacigeorgica
+path:ncy00440	Phosphonate and phosphinate metabolism - Nocardia cyriacigeorgica
+path:ncy00450	Selenocompound metabolism - Nocardia cyriacigeorgica
+path:ncy00460	Cyanoamino acid metabolism - Nocardia cyriacigeorgica
+path:ncy00471	D-Glutamine and D-glutamate metabolism - Nocardia cyriacigeorgica
+path:ncy00472	D-Arginine and D-ornithine metabolism - Nocardia cyriacigeorgica
+path:ncy00473	D-Alanine metabolism - Nocardia cyriacigeorgica
+path:ncy00480	Glutathione metabolism - Nocardia cyriacigeorgica
+path:ncy00500	Starch and sucrose metabolism - Nocardia cyriacigeorgica
+path:ncy00520	Amino sugar and nucleotide sugar metabolism - Nocardia cyriacigeorgica
+path:ncy00521	Streptomycin biosynthesis - Nocardia cyriacigeorgica
+path:ncy00523	Polyketide sugar unit biosynthesis - Nocardia cyriacigeorgica
+path:ncy00525	Acarbose and validamycin biosynthesis - Nocardia cyriacigeorgica
+path:ncy00540	Lipopolysaccharide biosynthesis - Nocardia cyriacigeorgica
+path:ncy00550	Peptidoglycan biosynthesis - Nocardia cyriacigeorgica
+path:ncy00561	Glycerolipid metabolism - Nocardia cyriacigeorgica
+path:ncy00562	Inositol phosphate metabolism - Nocardia cyriacigeorgica
+path:ncy00564	Glycerophospholipid metabolism - Nocardia cyriacigeorgica
+path:ncy00590	Arachidonic acid metabolism - Nocardia cyriacigeorgica
+path:ncy00592	alpha-Linolenic acid metabolism - Nocardia cyriacigeorgica
+path:ncy00600	Sphingolipid metabolism - Nocardia cyriacigeorgica
+path:ncy00620	Pyruvate metabolism - Nocardia cyriacigeorgica
+path:ncy00621	Dioxin degradation - Nocardia cyriacigeorgica
+path:ncy00622	Xylene degradation - Nocardia cyriacigeorgica
+path:ncy00623	Toluene degradation - Nocardia cyriacigeorgica
+path:ncy00625	Chloroalkane and chloroalkene degradation - Nocardia cyriacigeorgica
+path:ncy00626	Naphthalene degradation - Nocardia cyriacigeorgica
+path:ncy00627	Aminobenzoate degradation - Nocardia cyriacigeorgica
+path:ncy00630	Glyoxylate and dicarboxylate metabolism - Nocardia cyriacigeorgica
+path:ncy00633	Nitrotoluene degradation - Nocardia cyriacigeorgica
+path:ncy00640	Propanoate metabolism - Nocardia cyriacigeorgica
+path:ncy00643	Styrene degradation - Nocardia cyriacigeorgica
+path:ncy00650	Butanoate metabolism - Nocardia cyriacigeorgica
+path:ncy00660	C5-Branched dibasic acid metabolism - Nocardia cyriacigeorgica
+path:ncy00670	One carbon pool by folate - Nocardia cyriacigeorgica
+path:ncy00680	Methane metabolism - Nocardia cyriacigeorgica
+path:ncy00710	Carbon fixation in photosynthetic organisms - Nocardia cyriacigeorgica
+path:ncy00730	Thiamine metabolism - Nocardia cyriacigeorgica
+path:ncy00740	Riboflavin metabolism - Nocardia cyriacigeorgica
+path:ncy00750	Vitamin B6 metabolism - Nocardia cyriacigeorgica
+path:ncy00760	Nicotinate and nicotinamide metabolism - Nocardia cyriacigeorgica
+path:ncy00770	Pantothenate and CoA biosynthesis - Nocardia cyriacigeorgica
+path:ncy00780	Biotin metabolism - Nocardia cyriacigeorgica
+path:ncy00785	Lipoic acid metabolism - Nocardia cyriacigeorgica
+path:ncy00790	Folate biosynthesis - Nocardia cyriacigeorgica
+path:ncy00791	Atrazine degradation - Nocardia cyriacigeorgica
+path:ncy00860	Porphyrin and chlorophyll metabolism - Nocardia cyriacigeorgica
+path:ncy00900	Terpenoid backbone biosynthesis - Nocardia cyriacigeorgica
+path:ncy00903	Limonene and pinene degradation - Nocardia cyriacigeorgica
+path:ncy00906	Carotenoid biosynthesis - Nocardia cyriacigeorgica
+path:ncy00910	Nitrogen metabolism - Nocardia cyriacigeorgica
+path:ncy00920	Sulfur metabolism - Nocardia cyriacigeorgica
+path:ncy00930	Caprolactam degradation - Nocardia cyriacigeorgica
+path:ncy00970	Aminoacyl-tRNA biosynthesis - Nocardia cyriacigeorgica
+path:ncy00984	Steroid degradation - Nocardia cyriacigeorgica
+path:ncy01040	Biosynthesis of unsaturated fatty acids - Nocardia cyriacigeorgica
+path:ncy01053	Biosynthesis of siderophore group nonribosomal peptides - Nocardia cyriacigeorgica
+path:ncy01059	Biosynthesis of enediyne antibiotics - Nocardia cyriacigeorgica
+path:ncy01100	Metabolic pathways - Nocardia cyriacigeorgica
+path:ncy01110	Biosynthesis of secondary metabolites - Nocardia cyriacigeorgica
+path:ncy01120	Microbial metabolism in diverse environments - Nocardia cyriacigeorgica
+path:ncy01130	Biosynthesis of antibiotics - Nocardia cyriacigeorgica
+path:ncy01200	Carbon metabolism - Nocardia cyriacigeorgica
+path:ncy01210	2-Oxocarboxylic acid metabolism - Nocardia cyriacigeorgica
+path:ncy01212	Fatty acid metabolism - Nocardia cyriacigeorgica
+path:ncy01220	Degradation of aromatic compounds - Nocardia cyriacigeorgica
+path:ncy01230	Biosynthesis of amino acids - Nocardia cyriacigeorgica
+path:ncy01501	beta-Lactam resistance - Nocardia cyriacigeorgica
+path:ncy01502	Vancomycin resistance - Nocardia cyriacigeorgica
+path:ncy01503	Cationic antimicrobial peptide (CAMP) resistance - Nocardia cyriacigeorgica
+path:ncy02010	ABC transporters - Nocardia cyriacigeorgica
+path:ncy02020	Two-component system - Nocardia cyriacigeorgica
+path:ncy02024	Quorum sensing - Nocardia cyriacigeorgica
+path:ncy02060	Phosphotransferase system (PTS) - Nocardia cyriacigeorgica
+path:ncy03010	Ribosome - Nocardia cyriacigeorgica
+path:ncy03018	RNA degradation - Nocardia cyriacigeorgica
+path:ncy03020	RNA polymerase - Nocardia cyriacigeorgica
+path:ncy03030	DNA replication - Nocardia cyriacigeorgica
+path:ncy03050	Proteasome - Nocardia cyriacigeorgica
+path:ncy03060	Protein export - Nocardia cyriacigeorgica
+path:ncy03070	Bacterial secretion system - Nocardia cyriacigeorgica
+path:ncy03410	Base excision repair - Nocardia cyriacigeorgica
+path:ncy03420	Nucleotide excision repair - Nocardia cyriacigeorgica
+path:ncy03430	Mismatch repair - Nocardia cyriacigeorgica
+path:ncy03440	Homologous recombination - Nocardia cyriacigeorgica
+path:ncy03450	Non-homologous end-joining - Nocardia cyriacigeorgica
+path:ncy04122	Sulfur relay system - Nocardia cyriacigeorgica
+path:nbr00010	Glycolysis / Gluconeogenesis - Nocardia brasiliensis
+path:nbr00020	Citrate cycle (TCA cycle) - Nocardia brasiliensis
+path:nbr00030	Pentose phosphate pathway - Nocardia brasiliensis
+path:nbr00040	Pentose and glucuronate interconversions - Nocardia brasiliensis
+path:nbr00051	Fructose and mannose metabolism - Nocardia brasiliensis
+path:nbr00052	Galactose metabolism - Nocardia brasiliensis
+path:nbr00053	Ascorbate and aldarate metabolism - Nocardia brasiliensis
+path:nbr00061	Fatty acid biosynthesis - Nocardia brasiliensis
+path:nbr00071	Fatty acid degradation - Nocardia brasiliensis
+path:nbr00072	Synthesis and degradation of ketone bodies - Nocardia brasiliensis
+path:nbr00100	Steroid biosynthesis - Nocardia brasiliensis
+path:nbr00121	Secondary bile acid biosynthesis - Nocardia brasiliensis
+path:nbr00130	Ubiquinone and other terpenoid-quinone biosynthesis - Nocardia brasiliensis
+path:nbr00190	Oxidative phosphorylation - Nocardia brasiliensis
+path:nbr00220	Arginine biosynthesis - Nocardia brasiliensis
+path:nbr00230	Purine metabolism - Nocardia brasiliensis
+path:nbr00240	Pyrimidine metabolism - Nocardia brasiliensis
+path:nbr00250	Alanine, aspartate and glutamate metabolism - Nocardia brasiliensis
+path:nbr00253	Tetracycline biosynthesis - Nocardia brasiliensis
+path:nbr00260	Glycine, serine and threonine metabolism - Nocardia brasiliensis
+path:nbr00261	Monobactam biosynthesis - Nocardia brasiliensis
+path:nbr00270	Cysteine and methionine metabolism - Nocardia brasiliensis
+path:nbr00280	Valine, leucine and isoleucine degradation - Nocardia brasiliensis
+path:nbr00281	Geraniol degradation - Nocardia brasiliensis
+path:nbr00290	Valine, leucine and isoleucine biosynthesis - Nocardia brasiliensis
+path:nbr00300	Lysine biosynthesis - Nocardia brasiliensis
+path:nbr00310	Lysine degradation - Nocardia brasiliensis
+path:nbr00311	Penicillin and cephalosporin biosynthesis - Nocardia brasiliensis
+path:nbr00330	Arginine and proline metabolism - Nocardia brasiliensis
+path:nbr00332	Carbapenem biosynthesis - Nocardia brasiliensis
+path:nbr00340	Histidine metabolism - Nocardia brasiliensis
+path:nbr00350	Tyrosine metabolism - Nocardia brasiliensis
+path:nbr00360	Phenylalanine metabolism - Nocardia brasiliensis
+path:nbr00361	Chlorocyclohexane and chlorobenzene degradation - Nocardia brasiliensis
+path:nbr00362	Benzoate degradation - Nocardia brasiliensis
+path:nbr00364	Fluorobenzoate degradation - Nocardia brasiliensis
+path:nbr00380	Tryptophan metabolism - Nocardia brasiliensis
+path:nbr00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Nocardia brasiliensis
+path:nbr00401	Novobiocin biosynthesis - Nocardia brasiliensis
+path:nbr00404	Staurosporine biosynthesis - Nocardia brasiliensis
+path:nbr00405	Phenazine biosynthesis - Nocardia brasiliensis
+path:nbr00410	beta-Alanine metabolism - Nocardia brasiliensis
+path:nbr00430	Taurine and hypotaurine metabolism - Nocardia brasiliensis
+path:nbr00440	Phosphonate and phosphinate metabolism - Nocardia brasiliensis
+path:nbr00450	Selenocompound metabolism - Nocardia brasiliensis
+path:nbr00460	Cyanoamino acid metabolism - Nocardia brasiliensis
+path:nbr00471	D-Glutamine and D-glutamate metabolism - Nocardia brasiliensis
+path:nbr00472	D-Arginine and D-ornithine metabolism - Nocardia brasiliensis
+path:nbr00473	D-Alanine metabolism - Nocardia brasiliensis
+path:nbr00480	Glutathione metabolism - Nocardia brasiliensis
+path:nbr00500	Starch and sucrose metabolism - Nocardia brasiliensis
+path:nbr00511	Other glycan degradation - Nocardia brasiliensis
+path:nbr00520	Amino sugar and nucleotide sugar metabolism - Nocardia brasiliensis
+path:nbr00521	Streptomycin biosynthesis - Nocardia brasiliensis
+path:nbr00523	Polyketide sugar unit biosynthesis - Nocardia brasiliensis
+path:nbr00525	Acarbose and validamycin biosynthesis - Nocardia brasiliensis
+path:nbr00550	Peptidoglycan biosynthesis - Nocardia brasiliensis
+path:nbr00561	Glycerolipid metabolism - Nocardia brasiliensis
+path:nbr00562	Inositol phosphate metabolism - Nocardia brasiliensis
+path:nbr00564	Glycerophospholipid metabolism - Nocardia brasiliensis
+path:nbr00565	Ether lipid metabolism - Nocardia brasiliensis
+path:nbr00590	Arachidonic acid metabolism - Nocardia brasiliensis
+path:nbr00592	alpha-Linolenic acid metabolism - Nocardia brasiliensis
+path:nbr00600	Sphingolipid metabolism - Nocardia brasiliensis
+path:nbr00620	Pyruvate metabolism - Nocardia brasiliensis
+path:nbr00621	Dioxin degradation - Nocardia brasiliensis
+path:nbr00622	Xylene degradation - Nocardia brasiliensis
+path:nbr00623	Toluene degradation - Nocardia brasiliensis
+path:nbr00625	Chloroalkane and chloroalkene degradation - Nocardia brasiliensis
+path:nbr00626	Naphthalene degradation - Nocardia brasiliensis
+path:nbr00627	Aminobenzoate degradation - Nocardia brasiliensis
+path:nbr00630	Glyoxylate and dicarboxylate metabolism - Nocardia brasiliensis
+path:nbr00633	Nitrotoluene degradation - Nocardia brasiliensis
+path:nbr00640	Propanoate metabolism - Nocardia brasiliensis
+path:nbr00643	Styrene degradation - Nocardia brasiliensis
+path:nbr00650	Butanoate metabolism - Nocardia brasiliensis
+path:nbr00660	C5-Branched dibasic acid metabolism - Nocardia brasiliensis
+path:nbr00670	One carbon pool by folate - Nocardia brasiliensis
+path:nbr00680	Methane metabolism - Nocardia brasiliensis
+path:nbr00710	Carbon fixation in photosynthetic organisms - Nocardia brasiliensis
+path:nbr00730	Thiamine metabolism - Nocardia brasiliensis
+path:nbr00740	Riboflavin metabolism - Nocardia brasiliensis
+path:nbr00750	Vitamin B6 metabolism - Nocardia brasiliensis
+path:nbr00760	Nicotinate and nicotinamide metabolism - Nocardia brasiliensis
+path:nbr00770	Pantothenate and CoA biosynthesis - Nocardia brasiliensis
+path:nbr00780	Biotin metabolism - Nocardia brasiliensis
+path:nbr00785	Lipoic acid metabolism - Nocardia brasiliensis
+path:nbr00790	Folate biosynthesis - Nocardia brasiliensis
+path:nbr00791	Atrazine degradation - Nocardia brasiliensis
+path:nbr00860	Porphyrin and chlorophyll metabolism - Nocardia brasiliensis
+path:nbr00900	Terpenoid backbone biosynthesis - Nocardia brasiliensis
+path:nbr00903	Limonene and pinene degradation - Nocardia brasiliensis
+path:nbr00906	Carotenoid biosynthesis - Nocardia brasiliensis
+path:nbr00909	Sesquiterpenoid and triterpenoid biosynthesis - Nocardia brasiliensis
+path:nbr00910	Nitrogen metabolism - Nocardia brasiliensis
+path:nbr00920	Sulfur metabolism - Nocardia brasiliensis
+path:nbr00930	Caprolactam degradation - Nocardia brasiliensis
+path:nbr00970	Aminoacyl-tRNA biosynthesis - Nocardia brasiliensis
+path:nbr00984	Steroid degradation - Nocardia brasiliensis
+path:nbr01040	Biosynthesis of unsaturated fatty acids - Nocardia brasiliensis
+path:nbr01051	Biosynthesis of ansamycins - Nocardia brasiliensis
+path:nbr01053	Biosynthesis of siderophore group nonribosomal peptides - Nocardia brasiliensis
+path:nbr01055	Biosynthesis of vancomycin group antibiotics - Nocardia brasiliensis
+path:nbr01056	Biosynthesis of type II polyketide backbone - Nocardia brasiliensis
+path:nbr01057	Biosynthesis of type II polyketide products - Nocardia brasiliensis
+path:nbr01059	Biosynthesis of enediyne antibiotics - Nocardia brasiliensis
+path:nbr01100	Metabolic pathways - Nocardia brasiliensis
+path:nbr01110	Biosynthesis of secondary metabolites - Nocardia brasiliensis
+path:nbr01120	Microbial metabolism in diverse environments - Nocardia brasiliensis
+path:nbr01130	Biosynthesis of antibiotics - Nocardia brasiliensis
+path:nbr01200	Carbon metabolism - Nocardia brasiliensis
+path:nbr01210	2-Oxocarboxylic acid metabolism - Nocardia brasiliensis
+path:nbr01212	Fatty acid metabolism - Nocardia brasiliensis
+path:nbr01220	Degradation of aromatic compounds - Nocardia brasiliensis
+path:nbr01230	Biosynthesis of amino acids - Nocardia brasiliensis
+path:nbr01501	beta-Lactam resistance - Nocardia brasiliensis
+path:nbr01502	Vancomycin resistance - Nocardia brasiliensis
+path:nbr01503	Cationic antimicrobial peptide (CAMP) resistance - Nocardia brasiliensis
+path:nbr02010	ABC transporters - Nocardia brasiliensis
+path:nbr02020	Two-component system - Nocardia brasiliensis
+path:nbr02024	Quorum sensing - Nocardia brasiliensis
+path:nbr03010	Ribosome - Nocardia brasiliensis
+path:nbr03018	RNA degradation - Nocardia brasiliensis
+path:nbr03020	RNA polymerase - Nocardia brasiliensis
+path:nbr03030	DNA replication - Nocardia brasiliensis
+path:nbr03050	Proteasome - Nocardia brasiliensis
+path:nbr03060	Protein export - Nocardia brasiliensis
+path:nbr03070	Bacterial secretion system - Nocardia brasiliensis
+path:nbr03410	Base excision repair - Nocardia brasiliensis
+path:nbr03420	Nucleotide excision repair - Nocardia brasiliensis
+path:nbr03430	Mismatch repair - Nocardia brasiliensis
+path:nbr03440	Homologous recombination - Nocardia brasiliensis
+path:nbr03450	Non-homologous end-joining - Nocardia brasiliensis
+path:nbr04122	Sulfur relay system - Nocardia brasiliensis
+path:nno00010	Glycolysis / Gluconeogenesis - Nocardia nova
+path:nno00020	Citrate cycle (TCA cycle) - Nocardia nova
+path:nno00030	Pentose phosphate pathway - Nocardia nova
+path:nno00040	Pentose and glucuronate interconversions - Nocardia nova
+path:nno00051	Fructose and mannose metabolism - Nocardia nova
+path:nno00052	Galactose metabolism - Nocardia nova
+path:nno00053	Ascorbate and aldarate metabolism - Nocardia nova
+path:nno00061	Fatty acid biosynthesis - Nocardia nova
+path:nno00071	Fatty acid degradation - Nocardia nova
+path:nno00072	Synthesis and degradation of ketone bodies - Nocardia nova
+path:nno00100	Steroid biosynthesis - Nocardia nova
+path:nno00121	Secondary bile acid biosynthesis - Nocardia nova
+path:nno00130	Ubiquinone and other terpenoid-quinone biosynthesis - Nocardia nova
+path:nno00190	Oxidative phosphorylation - Nocardia nova
+path:nno00220	Arginine biosynthesis - Nocardia nova
+path:nno00230	Purine metabolism - Nocardia nova
+path:nno00240	Pyrimidine metabolism - Nocardia nova
+path:nno00250	Alanine, aspartate and glutamate metabolism - Nocardia nova
+path:nno00253	Tetracycline biosynthesis - Nocardia nova
+path:nno00260	Glycine, serine and threonine metabolism - Nocardia nova
+path:nno00261	Monobactam biosynthesis - Nocardia nova
+path:nno00270	Cysteine and methionine metabolism - Nocardia nova
+path:nno00280	Valine, leucine and isoleucine degradation - Nocardia nova
+path:nno00281	Geraniol degradation - Nocardia nova
+path:nno00290	Valine, leucine and isoleucine biosynthesis - Nocardia nova
+path:nno00300	Lysine biosynthesis - Nocardia nova
+path:nno00310	Lysine degradation - Nocardia nova
+path:nno00330	Arginine and proline metabolism - Nocardia nova
+path:nno00332	Carbapenem biosynthesis - Nocardia nova
+path:nno00340	Histidine metabolism - Nocardia nova
+path:nno00350	Tyrosine metabolism - Nocardia nova
+path:nno00360	Phenylalanine metabolism - Nocardia nova
+path:nno00361	Chlorocyclohexane and chlorobenzene degradation - Nocardia nova
+path:nno00362	Benzoate degradation - Nocardia nova
+path:nno00364	Fluorobenzoate degradation - Nocardia nova
+path:nno00380	Tryptophan metabolism - Nocardia nova
+path:nno00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Nocardia nova
+path:nno00401	Novobiocin biosynthesis - Nocardia nova
+path:nno00405	Phenazine biosynthesis - Nocardia nova
+path:nno00410	beta-Alanine metabolism - Nocardia nova
+path:nno00430	Taurine and hypotaurine metabolism - Nocardia nova
+path:nno00440	Phosphonate and phosphinate metabolism - Nocardia nova
+path:nno00450	Selenocompound metabolism - Nocardia nova
+path:nno00460	Cyanoamino acid metabolism - Nocardia nova
+path:nno00471	D-Glutamine and D-glutamate metabolism - Nocardia nova
+path:nno00472	D-Arginine and D-ornithine metabolism - Nocardia nova
+path:nno00473	D-Alanine metabolism - Nocardia nova
+path:nno00480	Glutathione metabolism - Nocardia nova
+path:nno00500	Starch and sucrose metabolism - Nocardia nova
+path:nno00520	Amino sugar and nucleotide sugar metabolism - Nocardia nova
+path:nno00521	Streptomycin biosynthesis - Nocardia nova
+path:nno00523	Polyketide sugar unit biosynthesis - Nocardia nova
+path:nno00525	Acarbose and validamycin biosynthesis - Nocardia nova
+path:nno00550	Peptidoglycan biosynthesis - Nocardia nova
+path:nno00561	Glycerolipid metabolism - Nocardia nova
+path:nno00562	Inositol phosphate metabolism - Nocardia nova
+path:nno00564	Glycerophospholipid metabolism - Nocardia nova
+path:nno00565	Ether lipid metabolism - Nocardia nova
+path:nno00590	Arachidonic acid metabolism - Nocardia nova
+path:nno00592	alpha-Linolenic acid metabolism - Nocardia nova
+path:nno00600	Sphingolipid metabolism - Nocardia nova
+path:nno00620	Pyruvate metabolism - Nocardia nova
+path:nno00621	Dioxin degradation - Nocardia nova
+path:nno00622	Xylene degradation - Nocardia nova
+path:nno00623	Toluene degradation - Nocardia nova
+path:nno00625	Chloroalkane and chloroalkene degradation - Nocardia nova
+path:nno00626	Naphthalene degradation - Nocardia nova
+path:nno00627	Aminobenzoate degradation - Nocardia nova
+path:nno00630	Glyoxylate and dicarboxylate metabolism - Nocardia nova
+path:nno00640	Propanoate metabolism - Nocardia nova
+path:nno00643	Styrene degradation - Nocardia nova
+path:nno00650	Butanoate metabolism - Nocardia nova
+path:nno00660	C5-Branched dibasic acid metabolism - Nocardia nova
+path:nno00670	One carbon pool by folate - Nocardia nova
+path:nno00680	Methane metabolism - Nocardia nova
+path:nno00710	Carbon fixation in photosynthetic organisms - Nocardia nova
+path:nno00730	Thiamine metabolism - Nocardia nova
+path:nno00740	Riboflavin metabolism - Nocardia nova
+path:nno00750	Vitamin B6 metabolism - Nocardia nova
+path:nno00760	Nicotinate and nicotinamide metabolism - Nocardia nova
+path:nno00770	Pantothenate and CoA biosynthesis - Nocardia nova
+path:nno00780	Biotin metabolism - Nocardia nova
+path:nno00785	Lipoic acid metabolism - Nocardia nova
+path:nno00790	Folate biosynthesis - Nocardia nova
+path:nno00791	Atrazine degradation - Nocardia nova
+path:nno00860	Porphyrin and chlorophyll metabolism - Nocardia nova
+path:nno00900	Terpenoid backbone biosynthesis - Nocardia nova
+path:nno00903	Limonene and pinene degradation - Nocardia nova
+path:nno00906	Carotenoid biosynthesis - Nocardia nova
+path:nno00909	Sesquiterpenoid and triterpenoid biosynthesis - Nocardia nova
+path:nno00910	Nitrogen metabolism - Nocardia nova
+path:nno00920	Sulfur metabolism - Nocardia nova
+path:nno00930	Caprolactam degradation - Nocardia nova
+path:nno00970	Aminoacyl-tRNA biosynthesis - Nocardia nova
+path:nno00984	Steroid degradation - Nocardia nova
+path:nno01040	Biosynthesis of unsaturated fatty acids - Nocardia nova
+path:nno01053	Biosynthesis of siderophore group nonribosomal peptides - Nocardia nova
+path:nno01056	Biosynthesis of type II polyketide backbone - Nocardia nova
+path:nno01057	Biosynthesis of type II polyketide products - Nocardia nova
+path:nno01059	Biosynthesis of enediyne antibiotics - Nocardia nova
+path:nno01100	Metabolic pathways - Nocardia nova
+path:nno01110	Biosynthesis of secondary metabolites - Nocardia nova
+path:nno01120	Microbial metabolism in diverse environments - Nocardia nova
+path:nno01130	Biosynthesis of antibiotics - Nocardia nova
+path:nno01200	Carbon metabolism - Nocardia nova
+path:nno01210	2-Oxocarboxylic acid metabolism - Nocardia nova
+path:nno01212	Fatty acid metabolism - Nocardia nova
+path:nno01220	Degradation of aromatic compounds - Nocardia nova
+path:nno01230	Biosynthesis of amino acids - Nocardia nova
+path:nno01501	beta-Lactam resistance - Nocardia nova
+path:nno01502	Vancomycin resistance - Nocardia nova
+path:nno01503	Cationic antimicrobial peptide (CAMP) resistance - Nocardia nova
+path:nno02010	ABC transporters - Nocardia nova
+path:nno02020	Two-component system - Nocardia nova
+path:nno02024	Quorum sensing - Nocardia nova
+path:nno03010	Ribosome - Nocardia nova
+path:nno03018	RNA degradation - Nocardia nova
+path:nno03020	RNA polymerase - Nocardia nova
+path:nno03030	DNA replication - Nocardia nova
+path:nno03050	Proteasome - Nocardia nova
+path:nno03060	Protein export - Nocardia nova
+path:nno03070	Bacterial secretion system - Nocardia nova
+path:nno03410	Base excision repair - Nocardia nova
+path:nno03420	Nucleotide excision repair - Nocardia nova
+path:nno03430	Mismatch repair - Nocardia nova
+path:nno03440	Homologous recombination - Nocardia nova
+path:nno03450	Non-homologous end-joining - Nocardia nova
+path:nno04122	Sulfur relay system - Nocardia nova
+path:nsl00010	Glycolysis / Gluconeogenesis - Nocardia soli
+path:nsl00020	Citrate cycle (TCA cycle) - Nocardia soli
+path:nsl00030	Pentose phosphate pathway - Nocardia soli
+path:nsl00040	Pentose and glucuronate interconversions - Nocardia soli
+path:nsl00051	Fructose and mannose metabolism - Nocardia soli
+path:nsl00052	Galactose metabolism - Nocardia soli
+path:nsl00053	Ascorbate and aldarate metabolism - Nocardia soli
+path:nsl00061	Fatty acid biosynthesis - Nocardia soli
+path:nsl00071	Fatty acid degradation - Nocardia soli
+path:nsl00072	Synthesis and degradation of ketone bodies - Nocardia soli
+path:nsl00100	Steroid biosynthesis - Nocardia soli
+path:nsl00121	Secondary bile acid biosynthesis - Nocardia soli
+path:nsl00130	Ubiquinone and other terpenoid-quinone biosynthesis - Nocardia soli
+path:nsl00190	Oxidative phosphorylation - Nocardia soli
+path:nsl00220	Arginine biosynthesis - Nocardia soli
+path:nsl00230	Purine metabolism - Nocardia soli
+path:nsl00240	Pyrimidine metabolism - Nocardia soli
+path:nsl00250	Alanine, aspartate and glutamate metabolism - Nocardia soli
+path:nsl00260	Glycine, serine and threonine metabolism - Nocardia soli
+path:nsl00261	Monobactam biosynthesis - Nocardia soli
+path:nsl00270	Cysteine and methionine metabolism - Nocardia soli
+path:nsl00280	Valine, leucine and isoleucine degradation - Nocardia soli
+path:nsl00281	Geraniol degradation - Nocardia soli
+path:nsl00290	Valine, leucine and isoleucine biosynthesis - Nocardia soli
+path:nsl00300	Lysine biosynthesis - Nocardia soli
+path:nsl00310	Lysine degradation - Nocardia soli
+path:nsl00311	Penicillin and cephalosporin biosynthesis - Nocardia soli
+path:nsl00330	Arginine and proline metabolism - Nocardia soli
+path:nsl00332	Carbapenem biosynthesis - Nocardia soli
+path:nsl00340	Histidine metabolism - Nocardia soli
+path:nsl00350	Tyrosine metabolism - Nocardia soli
+path:nsl00360	Phenylalanine metabolism - Nocardia soli
+path:nsl00361	Chlorocyclohexane and chlorobenzene degradation - Nocardia soli
+path:nsl00362	Benzoate degradation - Nocardia soli
+path:nsl00364	Fluorobenzoate degradation - Nocardia soli
+path:nsl00380	Tryptophan metabolism - Nocardia soli
+path:nsl00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Nocardia soli
+path:nsl00401	Novobiocin biosynthesis - Nocardia soli
+path:nsl00410	beta-Alanine metabolism - Nocardia soli
+path:nsl00430	Taurine and hypotaurine metabolism - Nocardia soli
+path:nsl00440	Phosphonate and phosphinate metabolism - Nocardia soli
+path:nsl00450	Selenocompound metabolism - Nocardia soli
+path:nsl00460	Cyanoamino acid metabolism - Nocardia soli
+path:nsl00471	D-Glutamine and D-glutamate metabolism - Nocardia soli
+path:nsl00472	D-Arginine and D-ornithine metabolism - Nocardia soli
+path:nsl00473	D-Alanine metabolism - Nocardia soli
+path:nsl00480	Glutathione metabolism - Nocardia soli
+path:nsl00500	Starch and sucrose metabolism - Nocardia soli
+path:nsl00520	Amino sugar and nucleotide sugar metabolism - Nocardia soli
+path:nsl00521	Streptomycin biosynthesis - Nocardia soli
+path:nsl00523	Polyketide sugar unit biosynthesis - Nocardia soli
+path:nsl00525	Acarbose and validamycin biosynthesis - Nocardia soli
+path:nsl00550	Peptidoglycan biosynthesis - Nocardia soli
+path:nsl00561	Glycerolipid metabolism - Nocardia soli
+path:nsl00562	Inositol phosphate metabolism - Nocardia soli
+path:nsl00564	Glycerophospholipid metabolism - Nocardia soli
+path:nsl00590	Arachidonic acid metabolism - Nocardia soli
+path:nsl00592	alpha-Linolenic acid metabolism - Nocardia soli
+path:nsl00600	Sphingolipid metabolism - Nocardia soli
+path:nsl00620	Pyruvate metabolism - Nocardia soli
+path:nsl00621	Dioxin degradation - Nocardia soli
+path:nsl00622	Xylene degradation - Nocardia soli
+path:nsl00623	Toluene degradation - Nocardia soli
+path:nsl00625	Chloroalkane and chloroalkene degradation - Nocardia soli
+path:nsl00626	Naphthalene degradation - Nocardia soli
+path:nsl00627	Aminobenzoate degradation - Nocardia soli
+path:nsl00630	Glyoxylate and dicarboxylate metabolism - Nocardia soli
+path:nsl00633	Nitrotoluene degradation - Nocardia soli
+path:nsl00640	Propanoate metabolism - Nocardia soli
+path:nsl00643	Styrene degradation - Nocardia soli
+path:nsl00650	Butanoate metabolism - Nocardia soli
+path:nsl00660	C5-Branched dibasic acid metabolism - Nocardia soli
+path:nsl00670	One carbon pool by folate - Nocardia soli
+path:nsl00680	Methane metabolism - Nocardia soli
+path:nsl00710	Carbon fixation in photosynthetic organisms - Nocardia soli
+path:nsl00730	Thiamine metabolism - Nocardia soli
+path:nsl00740	Riboflavin metabolism - Nocardia soli
+path:nsl00750	Vitamin B6 metabolism - Nocardia soli
+path:nsl00760	Nicotinate and nicotinamide metabolism - Nocardia soli
+path:nsl00770	Pantothenate and CoA biosynthesis - Nocardia soli
+path:nsl00780	Biotin metabolism - Nocardia soli
+path:nsl00785	Lipoic acid metabolism - Nocardia soli
+path:nsl00790	Folate biosynthesis - Nocardia soli
+path:nsl00791	Atrazine degradation - Nocardia soli
+path:nsl00860	Porphyrin and chlorophyll metabolism - Nocardia soli
+path:nsl00900	Terpenoid backbone biosynthesis - Nocardia soli
+path:nsl00903	Limonene and pinene degradation - Nocardia soli
+path:nsl00906	Carotenoid biosynthesis - Nocardia soli
+path:nsl00910	Nitrogen metabolism - Nocardia soli
+path:nsl00920	Sulfur metabolism - Nocardia soli
+path:nsl00930	Caprolactam degradation - Nocardia soli
+path:nsl00970	Aminoacyl-tRNA biosynthesis - Nocardia soli
+path:nsl00984	Steroid degradation - Nocardia soli
+path:nsl01040	Biosynthesis of unsaturated fatty acids - Nocardia soli
+path:nsl01053	Biosynthesis of siderophore group nonribosomal peptides - Nocardia soli
+path:nsl01059	Biosynthesis of enediyne antibiotics - Nocardia soli
+path:nsl01100	Metabolic pathways - Nocardia soli
+path:nsl01110	Biosynthesis of secondary metabolites - Nocardia soli
+path:nsl01120	Microbial metabolism in diverse environments - Nocardia soli
+path:nsl01130	Biosynthesis of antibiotics - Nocardia soli
+path:nsl01200	Carbon metabolism - Nocardia soli
+path:nsl01210	2-Oxocarboxylic acid metabolism - Nocardia soli
+path:nsl01212	Fatty acid metabolism - Nocardia soli
+path:nsl01220	Degradation of aromatic compounds - Nocardia soli
+path:nsl01230	Biosynthesis of amino acids - Nocardia soli
+path:nsl01501	beta-Lactam resistance - Nocardia soli
+path:nsl01502	Vancomycin resistance - Nocardia soli
+path:nsl01503	Cationic antimicrobial peptide (CAMP) resistance - Nocardia soli
+path:nsl02010	ABC transporters - Nocardia soli
+path:nsl02020	Two-component system - Nocardia soli
+path:nsl02024	Quorum sensing - Nocardia soli
+path:nsl02060	Phosphotransferase system (PTS) - Nocardia soli
+path:nsl03010	Ribosome - Nocardia soli
+path:nsl03018	RNA degradation - Nocardia soli
+path:nsl03020	RNA polymerase - Nocardia soli
+path:nsl03030	DNA replication - Nocardia soli
+path:nsl03050	Proteasome - Nocardia soli
+path:nsl03060	Protein export - Nocardia soli
+path:nsl03070	Bacterial secretion system - Nocardia soli
+path:nsl03410	Base excision repair - Nocardia soli
+path:nsl03420	Nucleotide excision repair - Nocardia soli
+path:nsl03430	Mismatch repair - Nocardia soli
+path:nsl03440	Homologous recombination - Nocardia soli
+path:nsl03450	Non-homologous end-joining - Nocardia soli
+path:nsl04122	Sulfur relay system - Nocardia soli
+path:nsr00010	Glycolysis / Gluconeogenesis - Nocardia seriolae
+path:nsr00020	Citrate cycle (TCA cycle) - Nocardia seriolae
+path:nsr00030	Pentose phosphate pathway - Nocardia seriolae
+path:nsr00040	Pentose and glucuronate interconversions - Nocardia seriolae
+path:nsr00051	Fructose and mannose metabolism - Nocardia seriolae
+path:nsr00052	Galactose metabolism - Nocardia seriolae
+path:nsr00053	Ascorbate and aldarate metabolism - Nocardia seriolae
+path:nsr00061	Fatty acid biosynthesis - Nocardia seriolae
+path:nsr00071	Fatty acid degradation - Nocardia seriolae
+path:nsr00072	Synthesis and degradation of ketone bodies - Nocardia seriolae
+path:nsr00100	Steroid biosynthesis - Nocardia seriolae
+path:nsr00121	Secondary bile acid biosynthesis - Nocardia seriolae
+path:nsr00130	Ubiquinone and other terpenoid-quinone biosynthesis - Nocardia seriolae
+path:nsr00190	Oxidative phosphorylation - Nocardia seriolae
+path:nsr00220	Arginine biosynthesis - Nocardia seriolae
+path:nsr00230	Purine metabolism - Nocardia seriolae
+path:nsr00240	Pyrimidine metabolism - Nocardia seriolae
+path:nsr00250	Alanine, aspartate and glutamate metabolism - Nocardia seriolae
+path:nsr00260	Glycine, serine and threonine metabolism - Nocardia seriolae
+path:nsr00261	Monobactam biosynthesis - Nocardia seriolae
+path:nsr00270	Cysteine and methionine metabolism - Nocardia seriolae
+path:nsr00280	Valine, leucine and isoleucine degradation - Nocardia seriolae
+path:nsr00281	Geraniol degradation - Nocardia seriolae
+path:nsr00290	Valine, leucine and isoleucine biosynthesis - Nocardia seriolae
+path:nsr00300	Lysine biosynthesis - Nocardia seriolae
+path:nsr00310	Lysine degradation - Nocardia seriolae
+path:nsr00330	Arginine and proline metabolism - Nocardia seriolae
+path:nsr00332	Carbapenem biosynthesis - Nocardia seriolae
+path:nsr00340	Histidine metabolism - Nocardia seriolae
+path:nsr00350	Tyrosine metabolism - Nocardia seriolae
+path:nsr00360	Phenylalanine metabolism - Nocardia seriolae
+path:nsr00361	Chlorocyclohexane and chlorobenzene degradation - Nocardia seriolae
+path:nsr00362	Benzoate degradation - Nocardia seriolae
+path:nsr00364	Fluorobenzoate degradation - Nocardia seriolae
+path:nsr00380	Tryptophan metabolism - Nocardia seriolae
+path:nsr00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Nocardia seriolae
+path:nsr00401	Novobiocin biosynthesis - Nocardia seriolae
+path:nsr00410	beta-Alanine metabolism - Nocardia seriolae
+path:nsr00430	Taurine and hypotaurine metabolism - Nocardia seriolae
+path:nsr00440	Phosphonate and phosphinate metabolism - Nocardia seriolae
+path:nsr00450	Selenocompound metabolism - Nocardia seriolae
+path:nsr00460	Cyanoamino acid metabolism - Nocardia seriolae
+path:nsr00471	D-Glutamine and D-glutamate metabolism - Nocardia seriolae
+path:nsr00472	D-Arginine and D-ornithine metabolism - Nocardia seriolae
+path:nsr00473	D-Alanine metabolism - Nocardia seriolae
+path:nsr00480	Glutathione metabolism - Nocardia seriolae
+path:nsr00500	Starch and sucrose metabolism - Nocardia seriolae
+path:nsr00511	Other glycan degradation - Nocardia seriolae
+path:nsr00520	Amino sugar and nucleotide sugar metabolism - Nocardia seriolae
+path:nsr00521	Streptomycin biosynthesis - Nocardia seriolae
+path:nsr00523	Polyketide sugar unit biosynthesis - Nocardia seriolae
+path:nsr00525	Acarbose and validamycin biosynthesis - Nocardia seriolae
+path:nsr00550	Peptidoglycan biosynthesis - Nocardia seriolae
+path:nsr00561	Glycerolipid metabolism - Nocardia seriolae
+path:nsr00562	Inositol phosphate metabolism - Nocardia seriolae
+path:nsr00564	Glycerophospholipid metabolism - Nocardia seriolae
+path:nsr00565	Ether lipid metabolism - Nocardia seriolae
+path:nsr00590	Arachidonic acid metabolism - Nocardia seriolae
+path:nsr00592	alpha-Linolenic acid metabolism - Nocardia seriolae
+path:nsr00600	Sphingolipid metabolism - Nocardia seriolae
+path:nsr00620	Pyruvate metabolism - Nocardia seriolae
+path:nsr00621	Dioxin degradation - Nocardia seriolae
+path:nsr00622	Xylene degradation - Nocardia seriolae
+path:nsr00623	Toluene degradation - Nocardia seriolae
+path:nsr00625	Chloroalkane and chloroalkene degradation - Nocardia seriolae
+path:nsr00626	Naphthalene degradation - Nocardia seriolae
+path:nsr00627	Aminobenzoate degradation - Nocardia seriolae
+path:nsr00630	Glyoxylate and dicarboxylate metabolism - Nocardia seriolae
+path:nsr00640	Propanoate metabolism - Nocardia seriolae
+path:nsr00643	Styrene degradation - Nocardia seriolae
+path:nsr00650	Butanoate metabolism - Nocardia seriolae
+path:nsr00660	C5-Branched dibasic acid metabolism - Nocardia seriolae
+path:nsr00670	One carbon pool by folate - Nocardia seriolae
+path:nsr00680	Methane metabolism - Nocardia seriolae
+path:nsr00710	Carbon fixation in photosynthetic organisms - Nocardia seriolae
+path:nsr00730	Thiamine metabolism - Nocardia seriolae
+path:nsr00740	Riboflavin metabolism - Nocardia seriolae
+path:nsr00750	Vitamin B6 metabolism - Nocardia seriolae
+path:nsr00760	Nicotinate and nicotinamide metabolism - Nocardia seriolae
+path:nsr00770	Pantothenate and CoA biosynthesis - Nocardia seriolae
+path:nsr00780	Biotin metabolism - Nocardia seriolae
+path:nsr00785	Lipoic acid metabolism - Nocardia seriolae
+path:nsr00790	Folate biosynthesis - Nocardia seriolae
+path:nsr00791	Atrazine degradation - Nocardia seriolae
+path:nsr00860	Porphyrin and chlorophyll metabolism - Nocardia seriolae
+path:nsr00900	Terpenoid backbone biosynthesis - Nocardia seriolae
+path:nsr00903	Limonene and pinene degradation - Nocardia seriolae
+path:nsr00906	Carotenoid biosynthesis - Nocardia seriolae
+path:nsr00910	Nitrogen metabolism - Nocardia seriolae
+path:nsr00920	Sulfur metabolism - Nocardia seriolae
+path:nsr00930	Caprolactam degradation - Nocardia seriolae
+path:nsr00970	Aminoacyl-tRNA biosynthesis - Nocardia seriolae
+path:nsr00984	Steroid degradation - Nocardia seriolae
+path:nsr01040	Biosynthesis of unsaturated fatty acids - Nocardia seriolae
+path:nsr01053	Biosynthesis of siderophore group nonribosomal peptides - Nocardia seriolae
+path:nsr01055	Biosynthesis of vancomycin group antibiotics - Nocardia seriolae
+path:nsr01059	Biosynthesis of enediyne antibiotics - Nocardia seriolae
+path:nsr01100	Metabolic pathways - Nocardia seriolae
+path:nsr01110	Biosynthesis of secondary metabolites - Nocardia seriolae
+path:nsr01120	Microbial metabolism in diverse environments - Nocardia seriolae
+path:nsr01130	Biosynthesis of antibiotics - Nocardia seriolae
+path:nsr01200	Carbon metabolism - Nocardia seriolae
+path:nsr01210	2-Oxocarboxylic acid metabolism - Nocardia seriolae
+path:nsr01212	Fatty acid metabolism - Nocardia seriolae
+path:nsr01220	Degradation of aromatic compounds - Nocardia seriolae
+path:nsr01230	Biosynthesis of amino acids - Nocardia seriolae
+path:nsr01501	beta-Lactam resistance - Nocardia seriolae
+path:nsr01502	Vancomycin resistance - Nocardia seriolae
+path:nsr01503	Cationic antimicrobial peptide (CAMP) resistance - Nocardia seriolae
+path:nsr02010	ABC transporters - Nocardia seriolae
+path:nsr02020	Two-component system - Nocardia seriolae
+path:nsr02024	Quorum sensing - Nocardia seriolae
+path:nsr02030	Bacterial chemotaxis - Nocardia seriolae
+path:nsr02060	Phosphotransferase system (PTS) - Nocardia seriolae
+path:nsr03010	Ribosome - Nocardia seriolae
+path:nsr03018	RNA degradation - Nocardia seriolae
+path:nsr03020	RNA polymerase - Nocardia seriolae
+path:nsr03030	DNA replication - Nocardia seriolae
+path:nsr03050	Proteasome - Nocardia seriolae
+path:nsr03060	Protein export - Nocardia seriolae
+path:nsr03070	Bacterial secretion system - Nocardia seriolae
+path:nsr03410	Base excision repair - Nocardia seriolae
+path:nsr03420	Nucleotide excision repair - Nocardia seriolae
+path:nsr03430	Mismatch repair - Nocardia seriolae
+path:nsr03440	Homologous recombination - Nocardia seriolae
+path:nsr03450	Non-homologous end-joining - Nocardia seriolae
+path:nsr04122	Sulfur relay system - Nocardia seriolae

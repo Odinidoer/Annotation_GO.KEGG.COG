@@ -1,0 +1,414 @@
+<html>
+<!---
+ENTRY       ko02025
+DEFINITION  Biofilm formation - Pseudomonas aeruginosa
+--->
+<head>
+<title>
+KEGG PATHWAY: Biofilm formation - Pseudomonas aeruginosa
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Biofilm formation - Pseudomonas aeruginosa</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=02025&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map02025.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko02025">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko02025&format=kgml">Download KGML</a>
+| <a id="descLink" href="javascript:switchDescription()">Show description</a>
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+<table id="description" cellpadding="10" width="800" style="display: none;"><tr><td>
+Surface colonization and subsequent biofilm formation and development provide numerous advantages to microorganisms. The main key actors relevant in the regulation of biofilm formation by Pseudomonas aeruginosa include cAMP/Vfr signaling, quorum sensing (QS) systems, Gac/Rsm pathway, and c-di-GMP signaling. cAMP/Vfr signaling regulates the transcription of hundreds of genes encoding diverse virulence factors, including the type 2 secretion system and type 3 secretion system and their associated toxins, type IV pili, and flagella. It is demonstrated that the accumulation of cAMP inhibits the attachment phase of biofilm formation. The QS systems are arranged hierarchically with the las system positively regulating both the rhl and PQS systems. These three QS systems are involved in the regulation of virulence factor production, biofilm maturation, and motility phenotypes. GacS/GacA two-component system is promoting the expression of two small regulatory RNAs, RsmY and RsmZ, which sequester the translational repressor RsmA. Titration of RsmA induces the production of sessile and biofilm determinants, whereas free RsmA leads to a planktonic and more virulent lifestyle. c-di-GMP is a ubiquitous bacterial second messenger. Synthesis and degradation of c-di-GMP is facilitated by diguanylate cyclases (DGC) and phosphodiesterases (PDE). High intracellular levels of c-di-GMP evoke the processes leading to the production of biofilm matrix, while a decrease in its level causes an increase in cell motility and transition into the planktonic forms of growth.</td></tr></table>
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="pae">Pseudomonas aeruginosa PAO1</option>
+<option value="paev">Pseudomonas aeruginosa PAO1-VE13</option>
+<option value="paei">Pseudomonas aeruginosa PAO1-VE2</option>
+<option value="pau">Pseudomonas aeruginosa UCBPP-PA14</option>
+<option value="pap">Pseudomonas aeruginosa PA7</option>
+<option value="pag">Pseudomonas aeruginosa LESB58</option>
+<option value="paf">Pseudomonas aeruginosa M18</option>
+<option value="pnc">Pseudomonas aeruginosa NCGM2.S1</option>
+<option value="paeb">Pseudomonas aeruginosa NCGM 1900</option>
+<option value="pdk">Pseudomonas aeruginosa DK2</option>
+<option value="psg">Pseudomonas aeruginosa B136-33</option>
+<option value="prp">Pseudomonas aeruginosa RP73</option>
+<option value="paep">Pseudomonas aeruginosa PA1</option>
+<option value="paer">Pseudomonas aeruginosa PA1R</option>
+<option value="paem">Pseudomonas aeruginosa MTB-1</option>
+<option value="pael">Pseudomonas aeruginosa LES431</option>
+<option value="paes">Pseudomonas aeruginosa SCV20265</option>
+<option value="paeu">Pseudomonas aeruginosa PA38182</option>
+<option value="paeg">Pseudomonas aeruginosa YL84</option>
+<option value="paec">Pseudomonas aeruginosa c7447m</option>
+<option value="paeo">Pseudomonas aeruginosa PAO581</option>
+<option value="pmy">Pseudomonas mendocina ymp</option>
+<option value="pmk">Pseudomonas mendocina NK-01</option>
+<option value="pre">Pseudomonas resinovorans</option>
+<option value="ppse">Pseudomonas pseudoalcaligenes</option>
+<option value="palc">Pseudomonas alcaligenes</option>
+<option value="pcq">Pseudomonas citronellolis</option>
+<option value="ppu">Pseudomonas putida KT2440</option>
+<option value="ppf">Pseudomonas putida F1</option>
+<option value="ppg">Pseudomonas putida GB-1</option>
+<option value="ppw">Pseudomonas putida W619</option>
+<option value="ppt">Pseudomonas putida S16</option>
+<option value="ppb">Pseudomonas putida BIRD-1</option>
+<option value="ppi">Pseudomonas putida ND6</option>
+<option value="ppx">Pseudomonas putida DOT-T1E</option>
+<option value="ppuh">Pseudomonas putida HB3267</option>
+<option value="pput">Pseudomonas putida H8234</option>
+<option value="ppun">Pseudomonas putida NBRC 14164</option>
+<option value="ppud">Pseudomonas putida DLL-E4</option>
+<option value="pfv">Pseudomonas fulva</option>
+<option value="pmon">Pseudomonas monteilii SB3078</option>
+<option value="pmot">Pseudomonas monteilii SB3101</option>
+<option value="pmos">Pseudomonas mosselii</option>
+<option value="ppj">Pseudomonas plecoglossicida</option>
+<option value="por">Pseudomonas oryzihabitans</option>
+<option value="pst">Pseudomonas syringae pv. tomato DC3000</option>
+<option value="psb">Pseudomonas syringae pv. syringae B728a</option>
+<option value="psyr">Pseudomonas syringae CC1557</option>
+<option value="psp">Pseudomonas savastanoi pv. phaseolicola 1448A</option>
+<option value="pci">Pseudomonas cichorii</option>
+<option value="pfl">Pseudomonas protegens Pf-5</option>
+<option value="pprc">Pseudomonas protegens CHA0</option>
+<option value="ppro">Pseudomonas protegens Cab57</option>
+<option value="pfo">Pseudomonas fluorescens Pf0-1</option>
+<option value="pfs">Pseudomonas fluorescens SBW25</option>
+<option value="pfe">Pseudomonas fluorescens F113</option>
+<option value="pfc">Pseudomonas fluorescens A506</option>
+<option value="pfn">Pseudomonas fluorescens UK4</option>
+<option value="pfw">Pseudomonas fluorescens PCL1751</option>
+<option value="pfb">Pseudomonas fluorescens LBUM223</option>
+<option value="pff">Pseudomonas fluorescens PICF7</option>
+<option value="pfx">Pseudomonas fluorescens L228</option>
+<option value="ppz">Pseudomonas poae</option>
+<option value="pman">Pseudomonas mandelii</option>
+<option value="ptv">Pseudomonas trivialis</option>
+<option value="pcg">Pseudomonas corrugata</option>
+<option value="pvr">Pseudomonas veronii</option>
+<option value="pazo">Pseudomonas azotoformans</option>
+<option value="pen">Pseudomonas entomophila</option>
+<option value="psa">Pseudomonas stutzeri A1501</option>
+<option value="psz">Pseudomonas stutzeri ATCC 17588</option>
+<option value="psr">Pseudomonas stutzeri DSM 4166</option>
+<option value="psc">Pseudomonas stutzeri CCUG 29243</option>
+<option value="psj">Pseudomonas stutzeri DSM 10701</option>
+<option value="psh">Pseudomonas stutzeri RCH2</option>
+<option value="pstu">Pseudomonas stutzeri 19SMN4</option>
+<option value="pstt">Pseudomonas stutzeri 28a24</option>
+<option value="pbm">Pseudomonas balearica</option>
+<option value="pba">Pseudomonas brassicacearum subsp. brassicacearum NFM421</option>
+<option value="pbc">Pseudomonas brassicacearum DF41</option>
+<option value="ppuu">Pseudomonas sp. UW4</option>
+<option value="pdr">Pseudomonas sp. ATCC 13867</option>
+<option value="psv">Pseudomonas sp. VLB120</option>
+<option value="psk">Pseudomonas sp. TKP</option>
+<option value="pkc">Pseudomonas knackmussii</option>
+<option value="pch">Pseudomonas chlororaphis PA23</option>
+<option value="pcz">Pseudomonas chlororaphis PCL1606</option>
+<option value="pcp">Pseudomonas chlororaphis subsp. aurantiaca</option>
+<option value="pfz">Pseudomonas fragi</option>
+<option value="palk">Pseudomonas alkylphenolica</option>
+<option value="prh">Pseudomonas rhizosphaerae</option>
+<option value="psw">Pseudomonas cremoricolorata</option>
+<option value="ppv">Pseudomonas parafulva</option>
+<option value="pses">Pseudomonas sp. StFLB209</option>
+<option value="psem">Pseudomonas sp. MRSN12121</option>
+<option value="psec">Pseudomonas sp. CCOS 191</option>
+<option value="ppsy">Pseudomonas psychrophila</option>
+<option value="psos">Pseudomonas sp. Os17</option>
+<option value="pkr">Pseudomonas koreensis</option>
+<option value="pfk">Pseudomonas frederiksbergensis</option>
+<option value="panr">Pseudomonas antarctica</option>
+</select>
+<input type="hidden" name="mapno" value="02025" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko02025" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko02025.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=494,174,4	href="/dbget-bin/www_bget?C00575"	title="C00575 (3',5'-Cyclic AMP)" onmouseover="popupTimer(&quot;C00575&quot;, &quot;C00575 (3',5'-Cyclic AMP)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=148,422,4	href="/dbget-bin/www_bget?C11837"	title="C11837 (N-Butyryl-L-homoserine lactone)" onmouseover="popupTimer(&quot;C11837&quot;, &quot;C11837 (N-Butyryl-L-homoserine lactone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=148,353,4	href="/dbget-bin/www_bget?C20643+C11848"	title="C20643 (2-Heptyl-4(1H)-quinolone), C11848 (2-Heptyl-3-hydroxy-quinolone)" onmouseover="popupTimer(&quot;C20643&quot;, &quot;C20643 (2-Heptyl-4(1H)-quinolone), C11848 (2-Heptyl-3-hydroxy-quinolone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=148,499,4	href="/dbget-bin/www_bget?C21201"	title="C21201 (N-3-Oxo-dodecanoyl-L-homoserine lactone)" onmouseover="popupTimer(&quot;C21201&quot;, &quot;C21201 (N-3-Oxo-dodecanoyl-L-homoserine lactone)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=466,940,4	href="/dbget-bin/www_bget?C16463"	title="C16463 (3',5'-Cyclic diGMP)" onmouseover="popupTimer(&quot;C16463&quot;, &quot;C16463 (3',5'-Cyclic diGMP)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=466,829,4	href="/dbget-bin/www_bget?C00044"	title="C00044 (GTP)" onmouseover="popupTimer(&quot;C00044&quot;, &quot;C00044 (GTP)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=466,1051,4	href="/dbget-bin/www_bget?C18076"	title="C18076 (5'-Phosphoguanylyl(3'-&gt;5')guanosine)" onmouseover="popupTimer(&quot;C18076&quot;, &quot;C18076 (5'-Phosphoguanylyl(3'-&gt;5')guanosine)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=231,149,277,166	href="/dbget-bin/www_bget?K02659"	title="K02659 (pilI)" />
+<area shape=rect	coords=321,155,367,172	href="/dbget-bin/www_bget?K02658"	title="K02658 (pilH)" />
+<area shape=rect	coords=321,178,367,195	href="/dbget-bin/www_bget?K02657"	title="K02657 (pilG)" />
+<area shape=rect	coords=189,166,235,183	href="/dbget-bin/www_bget?K02660"	title="K02660 (pilJ)" />
+<area shape=rect	coords=234,166,280,183	href="/dbget-bin/www_bget?K06596"	title="K06596 (chpA)" />
+<area shape=rect	coords=408,165,454,182	href="/dbget-bin/www_bget?K01768"	title="K01768 (E4.6.1.1)" />
+<area shape=rect	coords=408,201,454,218	href="/dbget-bin/www_bget?K03651"	title="K03651 (cpdA)" />
+<area shape=rect	coords=534,166,580,183	href="/dbget-bin/www_bget?K10914"	title="K10914 (crp)" />
+<area shape=rect	coords=384,469,430,486	href="/dbget-bin/www_bget?K13060"	title="K13060 (lasI)" />
+<area shape=rect	coords=384,489,430,506	href="/dbget-bin/www_bget?K18304"	title="K18304 (lasR)" />
+<area shape=rect	coords=483,397,529,414	href="/dbget-bin/www_bget?K13061"	title="K13061 (rhlI)" />
+<area shape=rect	coords=335,311,381,328	href="/dbget-bin/www_bget?K18000"	title="K18000 (pqsA)" />
+<area shape=rect	coords=383,311,429,328	href="/dbget-bin/www_bget?K18001"	title="K18001 (pqsB)" />
+<area shape=rect	coords=431,311,477,328	href="/dbget-bin/www_bget?K18002"	title="K18002 (pqsC)" />
+<area shape=rect	coords=335,330,381,347	href="/dbget-bin/www_bget?K18003"	title="K18003 (pqsD)" />
+<area shape=rect	coords=431,330,477,347	href="/dbget-bin/www_bget?K17940"	title="K17940 (pqsH)" />
+<area shape=rect	coords=384,353,430,370	href="/dbget-bin/www_bget?K19735"	title="K19735 (mvfR)" />
+<area shape=rect	coords=189,735,235,752	href="/dbget-bin/www_bget?K07678"	title="K07678 (barA)" />
+<area shape=rect	coords=189,692,235,709	href="/dbget-bin/www_bget?K20971"	title="K20971 (ladS)" />
+<area shape=rect	coords=189,774,235,791	href="/dbget-bin/www_bget?K20972"	title="K20972 (retS)" />
+<area shape=rect	coords=276,735,322,752	href="/dbget-bin/www_bget?K07689"	title="K07689 (uvrY)" />
+<area shape=rect	coords=363,726,409,743	href="/dbget-bin/www_bget?K20969"	title="K20969 (rsmY)" />
+<area shape=rect	coords=363,746,409,763	href="/dbget-bin/www_bget?K20970"	title="K20970 (rsmZ)" />
+<area shape=rect	coords=483,734,529,751	href="/dbget-bin/www_bget?K03563"	title="K03563 (csrA)" />
+<area shape=rect	coords=189,576,235,593	href="/dbget-bin/www_bget?K20974"	title="K20974 (K20974)" />
+<area shape=rect	coords=189,556,235,573	href="/dbget-bin/www_bget?K20973"	title="K20973 (sagS)" />
+<area shape=rect	coords=189,596,235,613	href="/dbget-bin/www_bget?K20975"	title="K20975 (K20975)" />
+<area shape=rect	coords=276,576,322,593	href="/dbget-bin/www_bget?K20976"	title="K20976 (hptB)" />
+<area shape=rect	coords=278,611,324,628	href="/dbget-bin/www_bget?K20977"	title="K20977 (hsbR)" />
+<area shape=rect	coords=363,685,409,702	href="/dbget-bin/www_bget?K02405"	title="K02405 (fliA)" />
+<area shape=rect	coords=363,611,409,628	href="/dbget-bin/www_bget?K20978"	title="K20978 (hsbA)" />
+<area shape=rect	coords=363,648,409,665	href="/dbget-bin/www_bget?K02398"	title="K02398 (flgM)" />
+<area shape=rect	coords=363,861,409,878	href="/dbget-bin/www_bget?K11444"	title="K11444 (wspR)" />
+<area shape=rect	coords=539,905,585,922	href="/dbget-bin/www_bget?K10941"	title="K10941 (fleQ)" />
+<area shape=rect	coords=152,861,198,878	href="/dbget-bin/www_bget?K13487"	title="K13487 (wspA)" />
+<area shape=rect	coords=194,842,237,861	href="/dbget-bin/www_bget?K13488+K13489"	title="K13488 (wspB), K13489 (wspD)" />
+<area shape=rect	coords=197,861,243,878	href="/dbget-bin/www_bget?K13490"	title="K13490 (wspE)" />
+<area shape=rect	coords=411,899,457,916	href="/dbget-bin/www_bget?K21023"	title="K21023 (mucR)" />
+<area shape=rect	coords=661,973,707,990	href="/dbget-bin/www_bget?K19291"	title="K19291 (alg44)" />
+<area shape=rect	coords=363,899,409,916	href="/dbget-bin/www_bget?K21022"	title="K21022 (roeA)" />
+<area shape=rect	coords=411,861,457,878	href="/dbget-bin/www_bget?K21019"	title="K21019 (sadC)" />
+<area shape=rect	coords=661,932,707,949	href="/dbget-bin/www_bget?K21009"	title="K21009 (pelD)" />
+<area shape=rect	coords=411,880,457,897	href="/dbget-bin/www_bget?K21021"	title="K21021 (tpbB)" />
+<area shape=rect	coords=412,984,458,1001	href="/dbget-bin/www_bget?K21024"	title="K21024 (bifA)" />
+<area shape=rect	coords=363,880,409,897	href="/dbget-bin/www_bget?K21020"	title="K21020 (siaD)" />
+<area shape=rect	coords=661,1002,707,1019	href="/dbget-bin/www_bget?K21025"	title="K21025 (fimX)" />
+<area shape=rect	coords=483,417,529,434	href="/dbget-bin/www_bget?K18099"	title="K18099 (rhlR)" />
+<area shape=rect	coords=250,902,296,919	href="/dbget-bin/www_bget?K13491"	title="K13491 (wspF)" />
+<area shape=rect	coords=231,183,277,200	href="/dbget-bin/www_bget?K06598"	title="K06598 (chpC)" />
+<area shape=rect	coords=661,161,707,178	href="/dbget-bin/www_bget?K20968"	title="K20968 (exsA)" />
+<area shape=rect	coords=661,137,707,154	href="/dbget-bin/www_bget?K10941"	title="K10941 (fleQ)" />
+<area shape=rect	coords=661,734,707,751	href="/dbget-bin/www_bget?K11912+K11915+K11890+K11891+K11893+K11913+K11902+K11901+K11900+K11903+K11895+K11907"	title="K11912 (ppkA), K11915 (stp1), K11890 (impM), K11891 (impL), K11893 (impJ), K11913 (fha1), K11902 (impA), K11901 (impB), K11900 (impC), K11903 (hcp), K11895 (impH), K11907 (vasG)" />
+<area shape=rect	coords=661,882,707,899	href="/dbget-bin/www_bget?K20997+K16011+K12992+K20987+K20998+K20999+K21000+K21001+K21002+K21003+K21004+K21005"	title="K20997 (pslA), K16011 (algA), K12992 (rfbN), K20987 (pslD), K20998 (pslE), K20999 (pslF), K21000 (pslG), K21001 (pslH), K21002 (pslI), K21003 (pslJ), K21004 (pslK), K21005 (pslL)" />
+<area shape=rect	coords=661,407,707,424	href="/dbget-bin/www_bget?K18100"	title="K18100 (rhlA)" />
+<area shape=rect	coords=709,407,755,424	href="/dbget-bin/www_bget?K18101"	title="K18101 (rhlB)" />
+<area shape=rect	coords=757,407,803,424	href="/dbget-bin/www_bget?K12990"	title="K12990 (rfbF)" />
+<area shape=rect	coords=661,913,707,930	href="/dbget-bin/www_bget?K21006"	title="K21006 (pelA)" />
+<area shape=rect	coords=661,432,707,449	href="/dbget-bin/www_bget?K20258"	title="K20258 (lecA)" />
+<area shape=rect	coords=709,432,755,449	href="/dbget-bin/www_bget?K20259"	title="K20259 (lecB)" />
+<area shape=rect	coords=709,913,755,930	href="/dbget-bin/www_bget?K21007"	title="K21007 (pelB)" />
+<area shape=rect	coords=757,913,803,930	href="/dbget-bin/www_bget?K21008"	title="K21008 (pelC)" />
+<area shape=rect	coords=709,932,755,949	href="/dbget-bin/www_bget?K21010"	title="K21010 (pelE)" />
+<area shape=rect	coords=757,932,803,949	href="/dbget-bin/www_bget?K21011"	title="K21011 (pelF)" />
+<area shape=rect	coords=805,923,851,940	href="/dbget-bin/www_bget?K21012"	title="K21012 (pelG)" />
+<area shape=rect	coords=359,291,405,308	href="/dbget-bin/www_bget?K01657"	title="K01657 (trpE)" />
+<area shape=rect	coords=407,291,453,308	href="/dbget-bin/www_bget?K01658"	title="K01658 (trpG)" />
+<area shape=rect	coords=383,330,429,347	href="/dbget-bin/www_bget?K20257"	title="K20257 (pqsE)" />
+<area shape=rect	coords=40,45,440,70	href="/dbget-bin/www_bget?ko02025"	title="ko02025: Biofilm formation - Pseudomonas aeruginosa" onmouseover="popupTimer(&quot;ko02025&quot;, &quot;ko02025: Biofilm formation - Pseudomonas aeruginosa&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=348,245,450,268	href="/kegg-bin/show_pathway?ko02024"	title="ko02024: Quorum sensing" onmouseover="popupTimer(&quot;ko02024&quot;, &quot;ko02024: Quorum sensing&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=718,224,867,247	href="/kegg-bin/show_pathway?ko03070"	title="ko03070: Bacterial secretion system" onmouseover="popupTimer(&quot;ko03070&quot;, &quot;ko03070: Bacterial secretion system&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=717,109,835,132	href="/kegg-bin/show_pathway?ko02040"	title="ko02040: Flagellar assembly" onmouseover="popupTimer(&quot;ko02040&quot;, &quot;ko02040: Flagellar assembly&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=719,757,868,780	href="/kegg-bin/show_pathway?ko03070"	title="ko03070: Bacterial secretion system" onmouseover="popupTimer(&quot;ko03070&quot;, &quot;ko03070: Bacterial secretion system&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

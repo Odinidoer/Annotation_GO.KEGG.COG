@@ -1,0 +1,281 @@
+<html>
+<!---
+ENTRY       ko00333
+DEFINITION  Prodigiosin biosynthesis
+--->
+<head>
+<title>
+KEGG PATHWAY: Prodigiosin biosynthesis
+</title>
+<style type="text/css">
+<!--
+div.poplay {
+  position: absolute;
+  padding: 2px;
+  background-color: #ffff99;
+  border-top: solid 1px #c0c0c0;
+  border-left: solid 1px #c0c0c0;
+  border-bottom: solid 1px #808080;
+  border-right: solid 1px #808080;
+  visibility: hidden;
+}
+
+span.popup
+{
+  font-weight: bold;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+form {
+  margin: 0px;
+}
+
+div.image {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  padding: 0px;
+  border: solid 1px #000000;
+}
+
+img {
+  border: none;
+}
+
+
+-->
+</style>
+<link rel="stylesheet" href="/css/kegg.css" type="text/css" />
+<script language="JavaScript" src="/js/dhtml.js"></script>
+
+<script language="JavaScript">
+<!---
+
+
+function resize_map(scale){
+  var form = document.forms["form2"];
+  form.scale.value = scale;
+  form.submit();
+}
+
+function select_menu(){
+  var form = document.forms["selmenu"];
+  if(form.org_name.value == 'set_cookie' || form.org_name.value == 'reset_cookie'){
+    window.open('/kegg/misc/kegg2_select.html','sel_org','toolbar=no,location=no,directories=no,width=500,height=320,resizable=yes');
+  }else{
+    form.action='/kegg-bin/show_pathway';
+    form.submit();
+  }
+}
+
+var timer = 0;
+var p_entry, p_title, p_bgcolor;
+function popupTimer(entry, title, bgcolor)
+{
+  p_entry = entry;
+  p_title = title;
+  p_bgcolor = bgcolor;
+
+  if(timer == 0){
+    var func = "showThumbnail()";
+    timer = setTimeout(func, 1200);
+  }
+}
+
+
+function showThumbnail()
+{
+
+  var url = "";
+  if(p_entry.match(/^[A-Z]+\d+$/))
+  {
+    url = "/kegg/misc/thumbnail/" + p_entry + ".gif";
+  }
+  else if(p_entry.match(/(\d+)$/))
+  {
+    url = "/kegg/misc/thumbnail/map" + RegExp.$1 + ".gif";
+  }
+
+  var html = "";
+
+  if(p_bgcolor != "#ffffff")
+  {
+    html += "<span class=\"popup\">" + p_entry + "</span><br />";
+  }
+
+  html += "<img src=\"" + url + "\" alt=\"Loading...\">";
+
+  var x = getCurrentMouseX();
+  var y = getCurrentMouseY();
+
+  var layer = new Component("poplay");
+  layer.backgroundColor(p_bgcolor);
+  layer.HTML(html);
+  layer.move(x, y+40);
+  layer.visible(true);
+
+  timer = 0;
+}
+
+function hideMapTn(){
+  var layer = new Component("poplay");
+  layer.visible(false);
+
+  if(timer != 0){
+    clearTimeout(timer);
+    timer = 0;
+  }
+}
+
+function switchDescription(){
+  var form = document.forms[0];
+  var status = form.show_description.value;
+
+  if(status == "hide"){
+    document.getElementById("description").style.display = "";
+    document.getElementById("descLink").innerHTML = "Hide description";
+    form.show_description.value='show';
+
+    if(document.forms[1]){
+    	document.forms[1].show_description.value='show';
+    }
+  }
+  else
+  {
+    document.getElementById("description").style.display = 'none';
+    document.getElementById("descLink").innerHTML = "Show description";
+    form.show_description.value='hide';
+
+    if(document.forms[1]){
+      document.forms[1].show_description.value='hide';
+    }
+  }
+}
+
+function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
+//--->
+</script>
+</head>
+<body>
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
+ <tr>
+  <td>
+   <a href="/kegg/kegg2.html"><img align="middle" alt="KEGG" border="0" src="/Fig/bget/kegg3.gif" /></a>
+   &nbsp;&nbsp;&nbsp;<font class="title3"><b>Prodigiosin biosynthesis</b></font>
+  </td>
+  <td valign="bottom" align="right">
+   <a href="javascript:void(window.open('/kegg/document/help_pathway.html','KEGG_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))"><img name="help" src="/Fig/bget/button_Hb.gif" border="0" align="middle" alt="Help" onmouseout="btn(this,'Hb')" onmousedown="btn(this,'Hbd')" onmouseover="btn(this,'Hbh')" onmouseup="btn(this,'Hb')" /></a>
+  </td>
+ </tr>
+</table>
+
+  
+[
+<a href="/kegg-bin/get_htext?query=00333&htext=br08901.keg&option=-a">Pathway menu</a>
+| <a href="/kegg-bin/get_htext?htext=br08601_map00333.keg&hier=5">Organism menu</a>
+| <a href="/dbget-bin/www_bget?pathway+ko00333">Pathway entry</a>
+
+| <a href="http://www.kegg.jp/kegg-bin/download?entry=ko00333&format=kgml">Download KGML</a>
+| <a id="descLink" href="javascript:switchDescription()">Show description</a>
+| <a href="javascript:void(window.open('/kegg/tool/color_a_pathway.html','KEGG_Help','height=300,width=600,resizable=yes,scrollbars=yes'))">User data mapping</a>
+
+]
+  
+<table id="description" cellpadding="10" width="800" style="display: none;"><tr><td>
+Prodiginines are red-pigmented natural antibiotics that are produced as secondary metabolites and have received renewed attention because of potential clinical interests. In Serratia sp. or actinomycetes such as Streptomyces coelicolor, the tripyrrole molecules of prodigiosin and undecylprodigiosin are formed by the condensation of 4-methoxy-2,2'-bipyrrole-5-carbaldehyde and either 2-methyl-3-n-amyl-pyrrole [MD:<a href="/kegg-bin/show_module?M00837">M00837</a>] or 2-undecylpyrrole [MD:<a href="/kegg-bin/show_module?M00838">M00838</a>]. The Serratia pig gene cluster and the Streptomyces red gene cluster responsible for these biosynthesis pathways have been identified.</td></tr></table>
+<table><tr><td>
+<form name="selmenu" method="get">
+<select name="org_name">
+<option value="map">Reference pathway</option>
+<option value="ko" selected>Reference pathway (KO)</option>
+<option value="ec">Reference pathway (EC)</option>
+<option value="rn">Reference pathway (Reaction)</option>
+<option value="set_cookie">-----&lt; Set personalized menu &gt;-----</option>
+<option value="ko.sort_alp">-----&lt; Sort below by alphabet &gt;-----</option>
+<option value="srr">Serratia plymuthica AS9</option>
+<option value="srs">Serratia sp. AS12</option>
+<option value="sra">Serratia sp. AS13</option>
+<option value="smw">Serratia marcescens WW4</option>
+<option value="serf">Serratia sp. FS14</option>
+<option value="prr">Pseudoalteromonas rubra</option>
+<option value="hch">Hahella chejuensis</option>
+<option value="sco">Streptomyces coelicolor</option>
+<option value="slv">Streptomyces lividans</option>
+</select>
+<input type="hidden" name="mapno" value="00333" />
+<input type="hidden" name="mapscale" value=>
+<input type="button" value="Go" onclick="select_menu(this.form)" />
+<input type="hidden" name="show_description" value="hide">
+
+</form>
+</td><td>
+<form name="form2" method="get" action="/kegg-bin/show_pathway">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="scale" onChange="resize_map(this.form.scale.value)">
+<option value="1.84" >184%</option>
+<option value="1.5" >150%</option>
+<option value="1.22" >122%</option>
+<option value="1.0" selected>100%</option>
+<option value="0.82" >82%</option>
+<option value="0.67" >67%</option>
+<option value="0.55" >55%</option>
+</select>
+&nbsp;&nbsp;<input type="text" name="query" size=20 value="">
+<input type="hidden" name="map" value="ko00333" />
+<input type="hidden" name="scale" value=>
+<input type="hidden" name="auto_image" value="">
+<input type="hidden" name="show_description" value="hide">
+<input type="hidden" name="multi_query" />
+
+<!--</form>-->
+</td></tr></table>
+
+
+<img src="/kegg/pathway/ko/ko00333.png" name="pathwayimage" usemap="#mapdata" border="0" />
+
+<map name="mapdata">
+<area shape=circle	coords=101,250,4	href="/dbget-bin/www_bget?C00148"	title="C00148 (L-Proline)" onmouseover="popupTimer(&quot;C00148&quot;, &quot;C00148 (L-Proline)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=233,250,4	href="/dbget-bin/www_bget?C12470"	title="C12470 (L-Prolyl-[pcp])" onmouseover="popupTimer(&quot;C12470&quot;, &quot;C12470 (L-Prolyl-[pcp])&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=363,250,4	href="/dbget-bin/www_bget?C12483"	title="C12483 (Pyrrole-2-carbonyl-[pcp])" onmouseover="popupTimer(&quot;C12483&quot;, &quot;C12483 (Pyrrole-2-carbonyl-[pcp])&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=493,250,4	href="/dbget-bin/www_bget?C21567"	title="C21567 (Pyrrolyl-2-carboxyl-S-[acyl-carrier protein])" onmouseover="popupTimer(&quot;C21567&quot;, &quot;C21567 (Pyrrolyl-2-carboxyl-S-[acyl-carrier protein])&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=493,126,4	href="/dbget-bin/www_bget?C21138"	title="C21138 (trans-2-Octenal)" onmouseover="popupTimer(&quot;C21138&quot;, &quot;C21138 (trans-2-Octenal)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=623,126,4	href="/dbget-bin/www_bget?C21139"	title="C21139 ((S)-3-Acetyloctanal)" onmouseover="popupTimer(&quot;C21139&quot;, &quot;C21139 ((S)-3-Acetyloctanal)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1077,126,4	href="/dbget-bin/www_bget?C21565"	title="C21565 (Prodigiosin)" onmouseover="popupTimer(&quot;C21565&quot;, &quot;C21565 (Prodigiosin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=363,374,4	href="/dbget-bin/www_bget?C00083"	title="C00083 (Malonyl-CoA)" onmouseover="popupTimer(&quot;C00083&quot;, &quot;C00083 (Malonyl-CoA)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=623,374,4	href="/dbget-bin/www_bget?C02679"	title="C02679 (Dodecanoic acid)" onmouseover="popupTimer(&quot;C02679&quot;, &quot;C02679 (Dodecanoic acid)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=1077,374,4	href="/dbget-bin/www_bget?C12023"	title="C12023 (Undecylprodigiosin)" onmouseover="popupTimer(&quot;C12023&quot;, &quot;C12023 (Undecylprodigiosin)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=623,250,4	href="/dbget-bin/www_bget?C21568"	title="C21568 (4-Hydroxy-2,2'-bipyrrole-5-methanol)" onmouseover="popupTimer(&quot;C21568&quot;, &quot;C21568 (4-Hydroxy-2,2'-bipyrrole-5-methanol)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=753,250,4	href="/dbget-bin/www_bget?C21569"	title="C21569 (4-Hydroxy-2,2'-bipyrrole-5-carbaldehyde)" onmouseover="popupTimer(&quot;C21569&quot;, &quot;C21569 (4-Hydroxy-2,2'-bipyrrole-5-carbaldehyde)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=904,250,4	href="/dbget-bin/www_bget?C21570"	title="C21570 (4-Methoxy-2,2'-bipyrrole-5-carbaldehyde)" onmouseover="popupTimer(&quot;C21570&quot;, &quot;C21570 (4-Methoxy-2,2'-bipyrrole-5-carbaldehyde)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=753,126,4	href="/dbget-bin/www_bget?C21571"	title="C21571 (2-Methyl-3-n-amyl-dihydropyrrole)" onmouseover="popupTimer(&quot;C21571&quot;, &quot;C21571 (2-Methyl-3-n-amyl-dihydropyrrole)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=493,374,4	href="/dbget-bin/www_bget?C05223"	title="C05223 (Dodecanoyl-[acyl-carrier protein])" onmouseover="popupTimer(&quot;C05223&quot;, &quot;C05223 (Dodecanoyl-[acyl-carrier protein])&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=753,374,4	href="/dbget-bin/www_bget?C21573"	title="C21573 (4-Keto-2-undecylpyrroline)" onmouseover="popupTimer(&quot;C21573&quot;, &quot;C21573 (4-Keto-2-undecylpyrroline)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=883,374,4	href="/dbget-bin/www_bget?C21574"	title="C21574 (2-Undecylpyrrole)" onmouseover="popupTimer(&quot;C21574&quot;, &quot;C21574 (2-Undecylpyrrole)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=circle	coords=883,126,4	href="/dbget-bin/www_bget?C21572"	title="C21572 (2-Methyl-3-n-amyl-pyrrole)" onmouseover="popupTimer(&quot;C21572&quot;, &quot;C21572 (2-Methyl-3-n-amyl-pyrrole)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=273,241,319,258	href="/dbget-bin/www_bget?K21782"	title="K21782 (pigA)" />
+<area shape=rect	coords=533,117,579,134	href="/dbget-bin/www_bget?K21428"	title="K21428 (pigD)" />
+<area shape=rect	coords=663,117,709,134	href="/dbget-bin/www_bget?K21778"	title="K21778 (pigE)" />
+<area shape=rect	coords=793,117,839,134	href="/dbget-bin/www_bget?K21779"	title="K21779 (pigB)" />
+<area shape=rect	coords=793,241,839,258	href="/dbget-bin/www_bget?K21786"	title="K21786 (pigF)" />
+<area shape=rect	coords=663,365,709,382	href="/dbget-bin/www_bget?K21792"	title="K21792 (redL)" />
+<area shape=rect	coords=793,365,839,382	href="/dbget-bin/www_bget?K21793"	title="K21793 (redK)" />
+<area shape=rect	coords=403,241,449,258	href="/dbget-bin/www_bget?K21783"	title="K21783 (pigJ)" />
+<area shape=rect	coords=142,241,188,258	href="/dbget-bin/www_bget?K21780+K21781"	title="K21780 (pigI), K21781 (pigG)" />
+<area shape=rect	coords=533,241,579,258	href="/dbget-bin/www_bget?K21784"	title="K21784 (pigH)" />
+<area shape=rect	coords=663,241,709,258	href="/dbget-bin/www_bget?K21785"	title="K21785 (pigM)" />
+<area shape=rect	coords=403,365,449,382	href="/dbget-bin/www_bget?K00645+K21788+K00059+K00208+K21789+K21790"	title="K00645 (fabD), K21788 (redP), K00059 (fabG), K00208 (fabI), K21789 (redR), K21790 (redQ)" />
+<area shape=rect	coords=533,365,579,382	href="/dbget-bin/www_bget?K21791"	title="K21791 (redJ)" />
+<area shape=rect	coords=947,117,993,134	href="/dbget-bin/www_bget?K21787"	title="K21787 (pigC)" />
+<area shape=rect	coords=947,365,993,382	href="/dbget-bin/www_bget?K21787"	title="K21787 (pigC)" />
+<area shape=rect	coords=40,45,260,70	href="/dbget-bin/www_bget?ko00333"	title="ko00333: Prodigiosin biosynthesis" onmouseover="popupTimer(&quot;ko00333&quot;, &quot;ko00333: Prodigiosin biosynthesis&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=47,173,157,207	href="/kegg-bin/show_pathway?ko00330"	title="ko00330: Arginine and proline metabolism" onmouseover="popupTimer(&quot;ko00330&quot;, &quot;ko00330: Arginine and proline metabolism&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+<area shape=rect	coords=200,362,320,387	href="/kegg-bin/show_pathway?ko00620"	title="ko00620: Pyruvate metabolism" onmouseover="popupTimer(&quot;ko00620&quot;, &quot;ko00620: Pyruvate metabolism&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
+</map>
+<div id="poplay" class="poplay" />
+
+
+</form>
+
+</body>
+</html>

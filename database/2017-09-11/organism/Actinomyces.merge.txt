@@ -1,0 +1,553 @@
+path:amy00010	Glycolysis / Gluconeogenesis - Actinomyces meyeri
+path:amy00020	Citrate cycle (TCA cycle) - Actinomyces meyeri
+path:amy00030	Pentose phosphate pathway - Actinomyces meyeri
+path:amy00040	Pentose and glucuronate interconversions - Actinomyces meyeri
+path:amy00051	Fructose and mannose metabolism - Actinomyces meyeri
+path:amy00052	Galactose metabolism - Actinomyces meyeri
+path:amy00061	Fatty acid biosynthesis - Actinomyces meyeri
+path:amy00130	Ubiquinone and other terpenoid-quinone biosynthesis - Actinomyces meyeri
+path:amy00190	Oxidative phosphorylation - Actinomyces meyeri
+path:amy00220	Arginine biosynthesis - Actinomyces meyeri
+path:amy00230	Purine metabolism - Actinomyces meyeri
+path:amy00240	Pyrimidine metabolism - Actinomyces meyeri
+path:amy00250	Alanine, aspartate and glutamate metabolism - Actinomyces meyeri
+path:amy00260	Glycine, serine and threonine metabolism - Actinomyces meyeri
+path:amy00261	Monobactam biosynthesis - Actinomyces meyeri
+path:amy00270	Cysteine and methionine metabolism - Actinomyces meyeri
+path:amy00280	Valine, leucine and isoleucine degradation - Actinomyces meyeri
+path:amy00290	Valine, leucine and isoleucine biosynthesis - Actinomyces meyeri
+path:amy00300	Lysine biosynthesis - Actinomyces meyeri
+path:amy00310	Lysine degradation - Actinomyces meyeri
+path:amy00330	Arginine and proline metabolism - Actinomyces meyeri
+path:amy00332	Carbapenem biosynthesis - Actinomyces meyeri
+path:amy00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Actinomyces meyeri
+path:amy00410	beta-Alanine metabolism - Actinomyces meyeri
+path:amy00430	Taurine and hypotaurine metabolism - Actinomyces meyeri
+path:amy00450	Selenocompound metabolism - Actinomyces meyeri
+path:amy00460	Cyanoamino acid metabolism - Actinomyces meyeri
+path:amy00471	D-Glutamine and D-glutamate metabolism - Actinomyces meyeri
+path:amy00473	D-Alanine metabolism - Actinomyces meyeri
+path:amy00480	Glutathione metabolism - Actinomyces meyeri
+path:amy00500	Starch and sucrose metabolism - Actinomyces meyeri
+path:amy00511	Other glycan degradation - Actinomyces meyeri
+path:amy00520	Amino sugar and nucleotide sugar metabolism - Actinomyces meyeri
+path:amy00521	Streptomycin biosynthesis - Actinomyces meyeri
+path:amy00523	Polyketide sugar unit biosynthesis - Actinomyces meyeri
+path:amy00525	Acarbose and validamycin biosynthesis - Actinomyces meyeri
+path:amy00550	Peptidoglycan biosynthesis - Actinomyces meyeri
+path:amy00561	Glycerolipid metabolism - Actinomyces meyeri
+path:amy00564	Glycerophospholipid metabolism - Actinomyces meyeri
+path:amy00600	Sphingolipid metabolism - Actinomyces meyeri
+path:amy00620	Pyruvate metabolism - Actinomyces meyeri
+path:amy00630	Glyoxylate and dicarboxylate metabolism - Actinomyces meyeri
+path:amy00640	Propanoate metabolism - Actinomyces meyeri
+path:amy00650	Butanoate metabolism - Actinomyces meyeri
+path:amy00660	C5-Branched dibasic acid metabolism - Actinomyces meyeri
+path:amy00670	One carbon pool by folate - Actinomyces meyeri
+path:amy00680	Methane metabolism - Actinomyces meyeri
+path:amy00730	Thiamine metabolism - Actinomyces meyeri
+path:amy00740	Riboflavin metabolism - Actinomyces meyeri
+path:amy00750	Vitamin B6 metabolism - Actinomyces meyeri
+path:amy00760	Nicotinate and nicotinamide metabolism - Actinomyces meyeri
+path:amy00770	Pantothenate and CoA biosynthesis - Actinomyces meyeri
+path:amy00780	Biotin metabolism - Actinomyces meyeri
+path:amy00785	Lipoic acid metabolism - Actinomyces meyeri
+path:amy00790	Folate biosynthesis - Actinomyces meyeri
+path:amy00860	Porphyrin and chlorophyll metabolism - Actinomyces meyeri
+path:amy00900	Terpenoid backbone biosynthesis - Actinomyces meyeri
+path:amy00910	Nitrogen metabolism - Actinomyces meyeri
+path:amy00920	Sulfur metabolism - Actinomyces meyeri
+path:amy00970	Aminoacyl-tRNA biosynthesis - Actinomyces meyeri
+path:amy01100	Metabolic pathways - Actinomyces meyeri
+path:amy01110	Biosynthesis of secondary metabolites - Actinomyces meyeri
+path:amy01120	Microbial metabolism in diverse environments - Actinomyces meyeri
+path:amy01130	Biosynthesis of antibiotics - Actinomyces meyeri
+path:amy01200	Carbon metabolism - Actinomyces meyeri
+path:amy01210	2-Oxocarboxylic acid metabolism - Actinomyces meyeri
+path:amy01212	Fatty acid metabolism - Actinomyces meyeri
+path:amy01230	Biosynthesis of amino acids - Actinomyces meyeri
+path:amy01501	beta-Lactam resistance - Actinomyces meyeri
+path:amy01502	Vancomycin resistance - Actinomyces meyeri
+path:amy02010	ABC transporters - Actinomyces meyeri
+path:amy02020	Two-component system - Actinomyces meyeri
+path:amy02024	Quorum sensing - Actinomyces meyeri
+path:amy02060	Phosphotransferase system (PTS) - Actinomyces meyeri
+path:amy03010	Ribosome - Actinomyces meyeri
+path:amy03018	RNA degradation - Actinomyces meyeri
+path:amy03020	RNA polymerase - Actinomyces meyeri
+path:amy03030	DNA replication - Actinomyces meyeri
+path:amy03060	Protein export - Actinomyces meyeri
+path:amy03070	Bacterial secretion system - Actinomyces meyeri
+path:amy03410	Base excision repair - Actinomyces meyeri
+path:amy03420	Nucleotide excision repair - Actinomyces meyeri
+path:amy03430	Mismatch repair - Actinomyces meyeri
+path:amy03440	Homologous recombination - Actinomyces meyeri
+path:amy04122	Sulfur relay system - Actinomyces meyeri
+path:acq00010	Glycolysis / Gluconeogenesis - Actinomyces sp. oral taxon 414
+path:acq00020	Citrate cycle (TCA cycle) - Actinomyces sp. oral taxon 414
+path:acq00030	Pentose phosphate pathway - Actinomyces sp. oral taxon 414
+path:acq00040	Pentose and glucuronate interconversions - Actinomyces sp. oral taxon 414
+path:acq00051	Fructose and mannose metabolism - Actinomyces sp. oral taxon 414
+path:acq00052	Galactose metabolism - Actinomyces sp. oral taxon 414
+path:acq00061	Fatty acid biosynthesis - Actinomyces sp. oral taxon 414
+path:acq00130	Ubiquinone and other terpenoid-quinone biosynthesis - Actinomyces sp. oral taxon 414
+path:acq00190	Oxidative phosphorylation - Actinomyces sp. oral taxon 414
+path:acq00220	Arginine biosynthesis - Actinomyces sp. oral taxon 414
+path:acq00230	Purine metabolism - Actinomyces sp. oral taxon 414
+path:acq00240	Pyrimidine metabolism - Actinomyces sp. oral taxon 414
+path:acq00250	Alanine, aspartate and glutamate metabolism - Actinomyces sp. oral taxon 414
+path:acq00260	Glycine, serine and threonine metabolism - Actinomyces sp. oral taxon 414
+path:acq00261	Monobactam biosynthesis - Actinomyces sp. oral taxon 414
+path:acq00270	Cysteine and methionine metabolism - Actinomyces sp. oral taxon 414
+path:acq00280	Valine, leucine and isoleucine degradation - Actinomyces sp. oral taxon 414
+path:acq00290	Valine, leucine and isoleucine biosynthesis - Actinomyces sp. oral taxon 414
+path:acq00300	Lysine biosynthesis - Actinomyces sp. oral taxon 414
+path:acq00310	Lysine degradation - Actinomyces sp. oral taxon 414
+path:acq00330	Arginine and proline metabolism - Actinomyces sp. oral taxon 414
+path:acq00332	Carbapenem biosynthesis - Actinomyces sp. oral taxon 414
+path:acq00340	Histidine metabolism - Actinomyces sp. oral taxon 414
+path:acq00350	Tyrosine metabolism - Actinomyces sp. oral taxon 414
+path:acq00360	Phenylalanine metabolism - Actinomyces sp. oral taxon 414
+path:acq00380	Tryptophan metabolism - Actinomyces sp. oral taxon 414
+path:acq00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Actinomyces sp. oral taxon 414
+path:acq00401	Novobiocin biosynthesis - Actinomyces sp. oral taxon 414
+path:acq00410	beta-Alanine metabolism - Actinomyces sp. oral taxon 414
+path:acq00430	Taurine and hypotaurine metabolism - Actinomyces sp. oral taxon 414
+path:acq00450	Selenocompound metabolism - Actinomyces sp. oral taxon 414
+path:acq00460	Cyanoamino acid metabolism - Actinomyces sp. oral taxon 414
+path:acq00471	D-Glutamine and D-glutamate metabolism - Actinomyces sp. oral taxon 414
+path:acq00473	D-Alanine metabolism - Actinomyces sp. oral taxon 414
+path:acq00480	Glutathione metabolism - Actinomyces sp. oral taxon 414
+path:acq00500	Starch and sucrose metabolism - Actinomyces sp. oral taxon 414
+path:acq00511	Other glycan degradation - Actinomyces sp. oral taxon 414
+path:acq00520	Amino sugar and nucleotide sugar metabolism - Actinomyces sp. oral taxon 414
+path:acq00521	Streptomycin biosynthesis - Actinomyces sp. oral taxon 414
+path:acq00523	Polyketide sugar unit biosynthesis - Actinomyces sp. oral taxon 414
+path:acq00525	Acarbose and validamycin biosynthesis - Actinomyces sp. oral taxon 414
+path:acq00550	Peptidoglycan biosynthesis - Actinomyces sp. oral taxon 414
+path:acq00561	Glycerolipid metabolism - Actinomyces sp. oral taxon 414
+path:acq00562	Inositol phosphate metabolism - Actinomyces sp. oral taxon 414
+path:acq00564	Glycerophospholipid metabolism - Actinomyces sp. oral taxon 414
+path:acq00600	Sphingolipid metabolism - Actinomyces sp. oral taxon 414
+path:acq00620	Pyruvate metabolism - Actinomyces sp. oral taxon 414
+path:acq00627	Aminobenzoate degradation - Actinomyces sp. oral taxon 414
+path:acq00630	Glyoxylate and dicarboxylate metabolism - Actinomyces sp. oral taxon 414
+path:acq00640	Propanoate metabolism - Actinomyces sp. oral taxon 414
+path:acq00643	Styrene degradation - Actinomyces sp. oral taxon 414
+path:acq00650	Butanoate metabolism - Actinomyces sp. oral taxon 414
+path:acq00660	C5-Branched dibasic acid metabolism - Actinomyces sp. oral taxon 414
+path:acq00670	One carbon pool by folate - Actinomyces sp. oral taxon 414
+path:acq00680	Methane metabolism - Actinomyces sp. oral taxon 414
+path:acq00730	Thiamine metabolism - Actinomyces sp. oral taxon 414
+path:acq00740	Riboflavin metabolism - Actinomyces sp. oral taxon 414
+path:acq00750	Vitamin B6 metabolism - Actinomyces sp. oral taxon 414
+path:acq00760	Nicotinate and nicotinamide metabolism - Actinomyces sp. oral taxon 414
+path:acq00770	Pantothenate and CoA biosynthesis - Actinomyces sp. oral taxon 414
+path:acq00780	Biotin metabolism - Actinomyces sp. oral taxon 414
+path:acq00785	Lipoic acid metabolism - Actinomyces sp. oral taxon 414
+path:acq00790	Folate biosynthesis - Actinomyces sp. oral taxon 414
+path:acq00860	Porphyrin and chlorophyll metabolism - Actinomyces sp. oral taxon 414
+path:acq00900	Terpenoid backbone biosynthesis - Actinomyces sp. oral taxon 414
+path:acq00910	Nitrogen metabolism - Actinomyces sp. oral taxon 414
+path:acq00920	Sulfur metabolism - Actinomyces sp. oral taxon 414
+path:acq00970	Aminoacyl-tRNA biosynthesis - Actinomyces sp. oral taxon 414
+path:acq01040	Biosynthesis of unsaturated fatty acids - Actinomyces sp. oral taxon 414
+path:acq01100	Metabolic pathways - Actinomyces sp. oral taxon 414
+path:acq01110	Biosynthesis of secondary metabolites - Actinomyces sp. oral taxon 414
+path:acq01120	Microbial metabolism in diverse environments - Actinomyces sp. oral taxon 414
+path:acq01130	Biosynthesis of antibiotics - Actinomyces sp. oral taxon 414
+path:acq01200	Carbon metabolism - Actinomyces sp. oral taxon 414
+path:acq01210	2-Oxocarboxylic acid metabolism - Actinomyces sp. oral taxon 414
+path:acq01212	Fatty acid metabolism - Actinomyces sp. oral taxon 414
+path:acq01230	Biosynthesis of amino acids - Actinomyces sp. oral taxon 414
+path:acq01501	beta-Lactam resistance - Actinomyces sp. oral taxon 414
+path:acq01502	Vancomycin resistance - Actinomyces sp. oral taxon 414
+path:acq02010	ABC transporters - Actinomyces sp. oral taxon 414
+path:acq02020	Two-component system - Actinomyces sp. oral taxon 414
+path:acq02024	Quorum sensing - Actinomyces sp. oral taxon 414
+path:acq02030	Bacterial chemotaxis - Actinomyces sp. oral taxon 414
+path:acq02060	Phosphotransferase system (PTS) - Actinomyces sp. oral taxon 414
+path:acq03010	Ribosome - Actinomyces sp. oral taxon 414
+path:acq03018	RNA degradation - Actinomyces sp. oral taxon 414
+path:acq03020	RNA polymerase - Actinomyces sp. oral taxon 414
+path:acq03030	DNA replication - Actinomyces sp. oral taxon 414
+path:acq03060	Protein export - Actinomyces sp. oral taxon 414
+path:acq03070	Bacterial secretion system - Actinomyces sp. oral taxon 414
+path:acq03410	Base excision repair - Actinomyces sp. oral taxon 414
+path:acq03420	Nucleotide excision repair - Actinomyces sp. oral taxon 414
+path:acq03430	Mismatch repair - Actinomyces sp. oral taxon 414
+path:acq03440	Homologous recombination - Actinomyces sp. oral taxon 414
+path:acq04122	Sulfur relay system - Actinomyces sp. oral taxon 414
+path:aos00010	Glycolysis / Gluconeogenesis - Actinomyces oris
+path:aos00020	Citrate cycle (TCA cycle) - Actinomyces oris
+path:aos00030	Pentose phosphate pathway - Actinomyces oris
+path:aos00040	Pentose and glucuronate interconversions - Actinomyces oris
+path:aos00051	Fructose and mannose metabolism - Actinomyces oris
+path:aos00052	Galactose metabolism - Actinomyces oris
+path:aos00061	Fatty acid biosynthesis - Actinomyces oris
+path:aos00130	Ubiquinone and other terpenoid-quinone biosynthesis - Actinomyces oris
+path:aos00190	Oxidative phosphorylation - Actinomyces oris
+path:aos00220	Arginine biosynthesis - Actinomyces oris
+path:aos00230	Purine metabolism - Actinomyces oris
+path:aos00240	Pyrimidine metabolism - Actinomyces oris
+path:aos00250	Alanine, aspartate and glutamate metabolism - Actinomyces oris
+path:aos00260	Glycine, serine and threonine metabolism - Actinomyces oris
+path:aos00261	Monobactam biosynthesis - Actinomyces oris
+path:aos00270	Cysteine and methionine metabolism - Actinomyces oris
+path:aos00280	Valine, leucine and isoleucine degradation - Actinomyces oris
+path:aos00290	Valine, leucine and isoleucine biosynthesis - Actinomyces oris
+path:aos00300	Lysine biosynthesis - Actinomyces oris
+path:aos00310	Lysine degradation - Actinomyces oris
+path:aos00330	Arginine and proline metabolism - Actinomyces oris
+path:aos00332	Carbapenem biosynthesis - Actinomyces oris
+path:aos00340	Histidine metabolism - Actinomyces oris
+path:aos00350	Tyrosine metabolism - Actinomyces oris
+path:aos00380	Tryptophan metabolism - Actinomyces oris
+path:aos00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Actinomyces oris
+path:aos00401	Novobiocin biosynthesis - Actinomyces oris
+path:aos00410	beta-Alanine metabolism - Actinomyces oris
+path:aos00430	Taurine and hypotaurine metabolism - Actinomyces oris
+path:aos00440	Phosphonate and phosphinate metabolism - Actinomyces oris
+path:aos00450	Selenocompound metabolism - Actinomyces oris
+path:aos00460	Cyanoamino acid metabolism - Actinomyces oris
+path:aos00471	D-Glutamine and D-glutamate metabolism - Actinomyces oris
+path:aos00473	D-Alanine metabolism - Actinomyces oris
+path:aos00480	Glutathione metabolism - Actinomyces oris
+path:aos00500	Starch and sucrose metabolism - Actinomyces oris
+path:aos00511	Other glycan degradation - Actinomyces oris
+path:aos00520	Amino sugar and nucleotide sugar metabolism - Actinomyces oris
+path:aos00521	Streptomycin biosynthesis - Actinomyces oris
+path:aos00523	Polyketide sugar unit biosynthesis - Actinomyces oris
+path:aos00525	Acarbose and validamycin biosynthesis - Actinomyces oris
+path:aos00550	Peptidoglycan biosynthesis - Actinomyces oris
+path:aos00561	Glycerolipid metabolism - Actinomyces oris
+path:aos00562	Inositol phosphate metabolism - Actinomyces oris
+path:aos00564	Glycerophospholipid metabolism - Actinomyces oris
+path:aos00600	Sphingolipid metabolism - Actinomyces oris
+path:aos00620	Pyruvate metabolism - Actinomyces oris
+path:aos00630	Glyoxylate and dicarboxylate metabolism - Actinomyces oris
+path:aos00640	Propanoate metabolism - Actinomyces oris
+path:aos00650	Butanoate metabolism - Actinomyces oris
+path:aos00660	C5-Branched dibasic acid metabolism - Actinomyces oris
+path:aos00670	One carbon pool by folate - Actinomyces oris
+path:aos00680	Methane metabolism - Actinomyces oris
+path:aos00730	Thiamine metabolism - Actinomyces oris
+path:aos00740	Riboflavin metabolism - Actinomyces oris
+path:aos00750	Vitamin B6 metabolism - Actinomyces oris
+path:aos00760	Nicotinate and nicotinamide metabolism - Actinomyces oris
+path:aos00770	Pantothenate and CoA biosynthesis - Actinomyces oris
+path:aos00780	Biotin metabolism - Actinomyces oris
+path:aos00785	Lipoic acid metabolism - Actinomyces oris
+path:aos00790	Folate biosynthesis - Actinomyces oris
+path:aos00860	Porphyrin and chlorophyll metabolism - Actinomyces oris
+path:aos00900	Terpenoid backbone biosynthesis - Actinomyces oris
+path:aos00910	Nitrogen metabolism - Actinomyces oris
+path:aos00920	Sulfur metabolism - Actinomyces oris
+path:aos00970	Aminoacyl-tRNA biosynthesis - Actinomyces oris
+path:aos01040	Biosynthesis of unsaturated fatty acids - Actinomyces oris
+path:aos01100	Metabolic pathways - Actinomyces oris
+path:aos01110	Biosynthesis of secondary metabolites - Actinomyces oris
+path:aos01120	Microbial metabolism in diverse environments - Actinomyces oris
+path:aos01130	Biosynthesis of antibiotics - Actinomyces oris
+path:aos01200	Carbon metabolism - Actinomyces oris
+path:aos01210	2-Oxocarboxylic acid metabolism - Actinomyces oris
+path:aos01212	Fatty acid metabolism - Actinomyces oris
+path:aos01230	Biosynthesis of amino acids - Actinomyces oris
+path:aos01501	beta-Lactam resistance - Actinomyces oris
+path:aos01502	Vancomycin resistance - Actinomyces oris
+path:aos02010	ABC transporters - Actinomyces oris
+path:aos02020	Two-component system - Actinomyces oris
+path:aos02024	Quorum sensing - Actinomyces oris
+path:aos02030	Bacterial chemotaxis - Actinomyces oris
+path:aos02060	Phosphotransferase system (PTS) - Actinomyces oris
+path:aos03010	Ribosome - Actinomyces oris
+path:aos03018	RNA degradation - Actinomyces oris
+path:aos03020	RNA polymerase - Actinomyces oris
+path:aos03030	DNA replication - Actinomyces oris
+path:aos03060	Protein export - Actinomyces oris
+path:aos03070	Bacterial secretion system - Actinomyces oris
+path:aos03410	Base excision repair - Actinomyces oris
+path:aos03420	Nucleotide excision repair - Actinomyces oris
+path:aos03430	Mismatch repair - Actinomyces oris
+path:aos03440	Homologous recombination - Actinomyces oris
+path:aos04122	Sulfur relay system - Actinomyces oris
+path:ard00010	Glycolysis / Gluconeogenesis - Actinomyces radicidentis
+path:ard00020	Citrate cycle (TCA cycle) - Actinomyces radicidentis
+path:ard00030	Pentose phosphate pathway - Actinomyces radicidentis
+path:ard00040	Pentose and glucuronate interconversions - Actinomyces radicidentis
+path:ard00051	Fructose and mannose metabolism - Actinomyces radicidentis
+path:ard00052	Galactose metabolism - Actinomyces radicidentis
+path:ard00053	Ascorbate and aldarate metabolism - Actinomyces radicidentis
+path:ard00061	Fatty acid biosynthesis - Actinomyces radicidentis
+path:ard00130	Ubiquinone and other terpenoid-quinone biosynthesis - Actinomyces radicidentis
+path:ard00190	Oxidative phosphorylation - Actinomyces radicidentis
+path:ard00220	Arginine biosynthesis - Actinomyces radicidentis
+path:ard00230	Purine metabolism - Actinomyces radicidentis
+path:ard00240	Pyrimidine metabolism - Actinomyces radicidentis
+path:ard00250	Alanine, aspartate and glutamate metabolism - Actinomyces radicidentis
+path:ard00260	Glycine, serine and threonine metabolism - Actinomyces radicidentis
+path:ard00261	Monobactam biosynthesis - Actinomyces radicidentis
+path:ard00270	Cysteine and methionine metabolism - Actinomyces radicidentis
+path:ard00280	Valine, leucine and isoleucine degradation - Actinomyces radicidentis
+path:ard00290	Valine, leucine and isoleucine biosynthesis - Actinomyces radicidentis
+path:ard00300	Lysine biosynthesis - Actinomyces radicidentis
+path:ard00310	Lysine degradation - Actinomyces radicidentis
+path:ard00330	Arginine and proline metabolism - Actinomyces radicidentis
+path:ard00332	Carbapenem biosynthesis - Actinomyces radicidentis
+path:ard00340	Histidine metabolism - Actinomyces radicidentis
+path:ard00350	Tyrosine metabolism - Actinomyces radicidentis
+path:ard00360	Phenylalanine metabolism - Actinomyces radicidentis
+path:ard00362	Benzoate degradation - Actinomyces radicidentis
+path:ard00380	Tryptophan metabolism - Actinomyces radicidentis
+path:ard00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Actinomyces radicidentis
+path:ard00401	Novobiocin biosynthesis - Actinomyces radicidentis
+path:ard00410	beta-Alanine metabolism - Actinomyces radicidentis
+path:ard00430	Taurine and hypotaurine metabolism - Actinomyces radicidentis
+path:ard00440	Phosphonate and phosphinate metabolism - Actinomyces radicidentis
+path:ard00450	Selenocompound metabolism - Actinomyces radicidentis
+path:ard00460	Cyanoamino acid metabolism - Actinomyces radicidentis
+path:ard00471	D-Glutamine and D-glutamate metabolism - Actinomyces radicidentis
+path:ard00473	D-Alanine metabolism - Actinomyces radicidentis
+path:ard00480	Glutathione metabolism - Actinomyces radicidentis
+path:ard00500	Starch and sucrose metabolism - Actinomyces radicidentis
+path:ard00511	Other glycan degradation - Actinomyces radicidentis
+path:ard00520	Amino sugar and nucleotide sugar metabolism - Actinomyces radicidentis
+path:ard00521	Streptomycin biosynthesis - Actinomyces radicidentis
+path:ard00523	Polyketide sugar unit biosynthesis - Actinomyces radicidentis
+path:ard00525	Acarbose and validamycin biosynthesis - Actinomyces radicidentis
+path:ard00550	Peptidoglycan biosynthesis - Actinomyces radicidentis
+path:ard00561	Glycerolipid metabolism - Actinomyces radicidentis
+path:ard00562	Inositol phosphate metabolism - Actinomyces radicidentis
+path:ard00564	Glycerophospholipid metabolism - Actinomyces radicidentis
+path:ard00590	Arachidonic acid metabolism - Actinomyces radicidentis
+path:ard00600	Sphingolipid metabolism - Actinomyces radicidentis
+path:ard00620	Pyruvate metabolism - Actinomyces radicidentis
+path:ard00622	Xylene degradation - Actinomyces radicidentis
+path:ard00627	Aminobenzoate degradation - Actinomyces radicidentis
+path:ard00630	Glyoxylate and dicarboxylate metabolism - Actinomyces radicidentis
+path:ard00640	Propanoate metabolism - Actinomyces radicidentis
+path:ard00643	Styrene degradation - Actinomyces radicidentis
+path:ard00650	Butanoate metabolism - Actinomyces radicidentis
+path:ard00660	C5-Branched dibasic acid metabolism - Actinomyces radicidentis
+path:ard00670	One carbon pool by folate - Actinomyces radicidentis
+path:ard00680	Methane metabolism - Actinomyces radicidentis
+path:ard00730	Thiamine metabolism - Actinomyces radicidentis
+path:ard00740	Riboflavin metabolism - Actinomyces radicidentis
+path:ard00750	Vitamin B6 metabolism - Actinomyces radicidentis
+path:ard00760	Nicotinate and nicotinamide metabolism - Actinomyces radicidentis
+path:ard00770	Pantothenate and CoA biosynthesis - Actinomyces radicidentis
+path:ard00780	Biotin metabolism - Actinomyces radicidentis
+path:ard00785	Lipoic acid metabolism - Actinomyces radicidentis
+path:ard00790	Folate biosynthesis - Actinomyces radicidentis
+path:ard00860	Porphyrin and chlorophyll metabolism - Actinomyces radicidentis
+path:ard00900	Terpenoid backbone biosynthesis - Actinomyces radicidentis
+path:ard00910	Nitrogen metabolism - Actinomyces radicidentis
+path:ard00920	Sulfur metabolism - Actinomyces radicidentis
+path:ard00970	Aminoacyl-tRNA biosynthesis - Actinomyces radicidentis
+path:ard01040	Biosynthesis of unsaturated fatty acids - Actinomyces radicidentis
+path:ard01100	Metabolic pathways - Actinomyces radicidentis
+path:ard01110	Biosynthesis of secondary metabolites - Actinomyces radicidentis
+path:ard01120	Microbial metabolism in diverse environments - Actinomyces radicidentis
+path:ard01130	Biosynthesis of antibiotics - Actinomyces radicidentis
+path:ard01200	Carbon metabolism - Actinomyces radicidentis
+path:ard01210	2-Oxocarboxylic acid metabolism - Actinomyces radicidentis
+path:ard01212	Fatty acid metabolism - Actinomyces radicidentis
+path:ard01220	Degradation of aromatic compounds - Actinomyces radicidentis
+path:ard01230	Biosynthesis of amino acids - Actinomyces radicidentis
+path:ard01501	beta-Lactam resistance - Actinomyces radicidentis
+path:ard01502	Vancomycin resistance - Actinomyces radicidentis
+path:ard02010	ABC transporters - Actinomyces radicidentis
+path:ard02020	Two-component system - Actinomyces radicidentis
+path:ard02024	Quorum sensing - Actinomyces radicidentis
+path:ard02030	Bacterial chemotaxis - Actinomyces radicidentis
+path:ard02060	Phosphotransferase system (PTS) - Actinomyces radicidentis
+path:ard03010	Ribosome - Actinomyces radicidentis
+path:ard03018	RNA degradation - Actinomyces radicidentis
+path:ard03020	RNA polymerase - Actinomyces radicidentis
+path:ard03030	DNA replication - Actinomyces radicidentis
+path:ard03060	Protein export - Actinomyces radicidentis
+path:ard03070	Bacterial secretion system - Actinomyces radicidentis
+path:ard03410	Base excision repair - Actinomyces radicidentis
+path:ard03420	Nucleotide excision repair - Actinomyces radicidentis
+path:ard03430	Mismatch repair - Actinomyces radicidentis
+path:ard03440	Homologous recombination - Actinomyces radicidentis
+path:ard04122	Sulfur relay system - Actinomyces radicidentis
+path:avu00010	Glycolysis / Gluconeogenesis - Actinomyces sp. VUL4_3
+path:avu00020	Citrate cycle (TCA cycle) - Actinomyces sp. VUL4_3
+path:avu00030	Pentose phosphate pathway - Actinomyces sp. VUL4_3
+path:avu00040	Pentose and glucuronate interconversions - Actinomyces sp. VUL4_3
+path:avu00051	Fructose and mannose metabolism - Actinomyces sp. VUL4_3
+path:avu00052	Galactose metabolism - Actinomyces sp. VUL4_3
+path:avu00061	Fatty acid biosynthesis - Actinomyces sp. VUL4_3
+path:avu00121	Secondary bile acid biosynthesis - Actinomyces sp. VUL4_3
+path:avu00130	Ubiquinone and other terpenoid-quinone biosynthesis - Actinomyces sp. VUL4_3
+path:avu00190	Oxidative phosphorylation - Actinomyces sp. VUL4_3
+path:avu00220	Arginine biosynthesis - Actinomyces sp. VUL4_3
+path:avu00230	Purine metabolism - Actinomyces sp. VUL4_3
+path:avu00240	Pyrimidine metabolism - Actinomyces sp. VUL4_3
+path:avu00250	Alanine, aspartate and glutamate metabolism - Actinomyces sp. VUL4_3
+path:avu00260	Glycine, serine and threonine metabolism - Actinomyces sp. VUL4_3
+path:avu00261	Monobactam biosynthesis - Actinomyces sp. VUL4_3
+path:avu00270	Cysteine and methionine metabolism - Actinomyces sp. VUL4_3
+path:avu00280	Valine, leucine and isoleucine degradation - Actinomyces sp. VUL4_3
+path:avu00290	Valine, leucine and isoleucine biosynthesis - Actinomyces sp. VUL4_3
+path:avu00300	Lysine biosynthesis - Actinomyces sp. VUL4_3
+path:avu00310	Lysine degradation - Actinomyces sp. VUL4_3
+path:avu00330	Arginine and proline metabolism - Actinomyces sp. VUL4_3
+path:avu00340	Histidine metabolism - Actinomyces sp. VUL4_3
+path:avu00360	Phenylalanine metabolism - Actinomyces sp. VUL4_3
+path:avu00380	Tryptophan metabolism - Actinomyces sp. VUL4_3
+path:avu00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Actinomyces sp. VUL4_3
+path:avu00410	beta-Alanine metabolism - Actinomyces sp. VUL4_3
+path:avu00430	Taurine and hypotaurine metabolism - Actinomyces sp. VUL4_3
+path:avu00450	Selenocompound metabolism - Actinomyces sp. VUL4_3
+path:avu00471	D-Glutamine and D-glutamate metabolism - Actinomyces sp. VUL4_3
+path:avu00473	D-Alanine metabolism - Actinomyces sp. VUL4_3
+path:avu00480	Glutathione metabolism - Actinomyces sp. VUL4_3
+path:avu00500	Starch and sucrose metabolism - Actinomyces sp. VUL4_3
+path:avu00511	Other glycan degradation - Actinomyces sp. VUL4_3
+path:avu00520	Amino sugar and nucleotide sugar metabolism - Actinomyces sp. VUL4_3
+path:avu00521	Streptomycin biosynthesis - Actinomyces sp. VUL4_3
+path:avu00550	Peptidoglycan biosynthesis - Actinomyces sp. VUL4_3
+path:avu00562	Inositol phosphate metabolism - Actinomyces sp. VUL4_3
+path:avu00564	Glycerophospholipid metabolism - Actinomyces sp. VUL4_3
+path:avu00590	Arachidonic acid metabolism - Actinomyces sp. VUL4_3
+path:avu00600	Sphingolipid metabolism - Actinomyces sp. VUL4_3
+path:avu00620	Pyruvate metabolism - Actinomyces sp. VUL4_3
+path:avu00630	Glyoxylate and dicarboxylate metabolism - Actinomyces sp. VUL4_3
+path:avu00640	Propanoate metabolism - Actinomyces sp. VUL4_3
+path:avu00650	Butanoate metabolism - Actinomyces sp. VUL4_3
+path:avu00670	One carbon pool by folate - Actinomyces sp. VUL4_3
+path:avu00680	Methane metabolism - Actinomyces sp. VUL4_3
+path:avu00730	Thiamine metabolism - Actinomyces sp. VUL4_3
+path:avu00740	Riboflavin metabolism - Actinomyces sp. VUL4_3
+path:avu00750	Vitamin B6 metabolism - Actinomyces sp. VUL4_3
+path:avu00760	Nicotinate and nicotinamide metabolism - Actinomyces sp. VUL4_3
+path:avu00770	Pantothenate and CoA biosynthesis - Actinomyces sp. VUL4_3
+path:avu00780	Biotin metabolism - Actinomyces sp. VUL4_3
+path:avu00785	Lipoic acid metabolism - Actinomyces sp. VUL4_3
+path:avu00790	Folate biosynthesis - Actinomyces sp. VUL4_3
+path:avu00860	Porphyrin and chlorophyll metabolism - Actinomyces sp. VUL4_3
+path:avu00900	Terpenoid backbone biosynthesis - Actinomyces sp. VUL4_3
+path:avu00903	Limonene and pinene degradation - Actinomyces sp. VUL4_3
+path:avu00910	Nitrogen metabolism - Actinomyces sp. VUL4_3
+path:avu00920	Sulfur metabolism - Actinomyces sp. VUL4_3
+path:avu00970	Aminoacyl-tRNA biosynthesis - Actinomyces sp. VUL4_3
+path:avu01040	Biosynthesis of unsaturated fatty acids - Actinomyces sp. VUL4_3
+path:avu01100	Metabolic pathways - Actinomyces sp. VUL4_3
+path:avu01110	Biosynthesis of secondary metabolites - Actinomyces sp. VUL4_3
+path:avu01120	Microbial metabolism in diverse environments - Actinomyces sp. VUL4_3
+path:avu01130	Biosynthesis of antibiotics - Actinomyces sp. VUL4_3
+path:avu01200	Carbon metabolism - Actinomyces sp. VUL4_3
+path:avu01210	2-Oxocarboxylic acid metabolism - Actinomyces sp. VUL4_3
+path:avu01212	Fatty acid metabolism - Actinomyces sp. VUL4_3
+path:avu01220	Degradation of aromatic compounds - Actinomyces sp. VUL4_3
+path:avu01230	Biosynthesis of amino acids - Actinomyces sp. VUL4_3
+path:avu01501	beta-Lactam resistance - Actinomyces sp. VUL4_3
+path:avu01502	Vancomycin resistance - Actinomyces sp. VUL4_3
+path:avu02010	ABC transporters - Actinomyces sp. VUL4_3
+path:avu02020	Two-component system - Actinomyces sp. VUL4_3
+path:avu02024	Quorum sensing - Actinomyces sp. VUL4_3
+path:avu02060	Phosphotransferase system (PTS) - Actinomyces sp. VUL4_3
+path:avu03010	Ribosome - Actinomyces sp. VUL4_3
+path:avu03018	RNA degradation - Actinomyces sp. VUL4_3
+path:avu03020	RNA polymerase - Actinomyces sp. VUL4_3
+path:avu03030	DNA replication - Actinomyces sp. VUL4_3
+path:avu03060	Protein export - Actinomyces sp. VUL4_3
+path:avu03070	Bacterial secretion system - Actinomyces sp. VUL4_3
+path:avu03410	Base excision repair - Actinomyces sp. VUL4_3
+path:avu03420	Nucleotide excision repair - Actinomyces sp. VUL4_3
+path:avu03430	Mismatch repair - Actinomyces sp. VUL4_3
+path:avu03440	Homologous recombination - Actinomyces sp. VUL4_3
+path:avu04122	Sulfur relay system - Actinomyces sp. VUL4_3
+path:actp00010	Glycolysis / Gluconeogenesis - Actinomyces gaoshouyii
+path:actp00020	Citrate cycle (TCA cycle) - Actinomyces gaoshouyii
+path:actp00030	Pentose phosphate pathway - Actinomyces gaoshouyii
+path:actp00040	Pentose and glucuronate interconversions - Actinomyces gaoshouyii
+path:actp00051	Fructose and mannose metabolism - Actinomyces gaoshouyii
+path:actp00052	Galactose metabolism - Actinomyces gaoshouyii
+path:actp00053	Ascorbate and aldarate metabolism - Actinomyces gaoshouyii
+path:actp00061	Fatty acid biosynthesis - Actinomyces gaoshouyii
+path:actp00130	Ubiquinone and other terpenoid-quinone biosynthesis - Actinomyces gaoshouyii
+path:actp00190	Oxidative phosphorylation - Actinomyces gaoshouyii
+path:actp00220	Arginine biosynthesis - Actinomyces gaoshouyii
+path:actp00230	Purine metabolism - Actinomyces gaoshouyii
+path:actp00240	Pyrimidine metabolism - Actinomyces gaoshouyii
+path:actp00250	Alanine, aspartate and glutamate metabolism - Actinomyces gaoshouyii
+path:actp00260	Glycine, serine and threonine metabolism - Actinomyces gaoshouyii
+path:actp00261	Monobactam biosynthesis - Actinomyces gaoshouyii
+path:actp00270	Cysteine and methionine metabolism - Actinomyces gaoshouyii
+path:actp00280	Valine, leucine and isoleucine degradation - Actinomyces gaoshouyii
+path:actp00290	Valine, leucine and isoleucine biosynthesis - Actinomyces gaoshouyii
+path:actp00300	Lysine biosynthesis - Actinomyces gaoshouyii
+path:actp00310	Lysine degradation - Actinomyces gaoshouyii
+path:actp00330	Arginine and proline metabolism - Actinomyces gaoshouyii
+path:actp00332	Carbapenem biosynthesis - Actinomyces gaoshouyii
+path:actp00340	Histidine metabolism - Actinomyces gaoshouyii
+path:actp00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Actinomyces gaoshouyii
+path:actp00401	Novobiocin biosynthesis - Actinomyces gaoshouyii
+path:actp00410	beta-Alanine metabolism - Actinomyces gaoshouyii
+path:actp00430	Taurine and hypotaurine metabolism - Actinomyces gaoshouyii
+path:actp00450	Selenocompound metabolism - Actinomyces gaoshouyii
+path:actp00460	Cyanoamino acid metabolism - Actinomyces gaoshouyii
+path:actp00471	D-Glutamine and D-glutamate metabolism - Actinomyces gaoshouyii
+path:actp00473	D-Alanine metabolism - Actinomyces gaoshouyii
+path:actp00480	Glutathione metabolism - Actinomyces gaoshouyii
+path:actp00500	Starch and sucrose metabolism - Actinomyces gaoshouyii
+path:actp00511	Other glycan degradation - Actinomyces gaoshouyii
+path:actp00520	Amino sugar and nucleotide sugar metabolism - Actinomyces gaoshouyii
+path:actp00521	Streptomycin biosynthesis - Actinomyces gaoshouyii
+path:actp00523	Polyketide sugar unit biosynthesis - Actinomyces gaoshouyii
+path:actp00525	Acarbose and validamycin biosynthesis - Actinomyces gaoshouyii
+path:actp00550	Peptidoglycan biosynthesis - Actinomyces gaoshouyii
+path:actp00561	Glycerolipid metabolism - Actinomyces gaoshouyii
+path:actp00562	Inositol phosphate metabolism - Actinomyces gaoshouyii
+path:actp00564	Glycerophospholipid metabolism - Actinomyces gaoshouyii
+path:actp00600	Sphingolipid metabolism - Actinomyces gaoshouyii
+path:actp00620	Pyruvate metabolism - Actinomyces gaoshouyii
+path:actp00630	Glyoxylate and dicarboxylate metabolism - Actinomyces gaoshouyii
+path:actp00640	Propanoate metabolism - Actinomyces gaoshouyii
+path:actp00650	Butanoate metabolism - Actinomyces gaoshouyii
+path:actp00660	C5-Branched dibasic acid metabolism - Actinomyces gaoshouyii
+path:actp00670	One carbon pool by folate - Actinomyces gaoshouyii
+path:actp00680	Methane metabolism - Actinomyces gaoshouyii
+path:actp00730	Thiamine metabolism - Actinomyces gaoshouyii
+path:actp00740	Riboflavin metabolism - Actinomyces gaoshouyii
+path:actp00750	Vitamin B6 metabolism - Actinomyces gaoshouyii
+path:actp00760	Nicotinate and nicotinamide metabolism - Actinomyces gaoshouyii
+path:actp00770	Pantothenate and CoA biosynthesis - Actinomyces gaoshouyii
+path:actp00780	Biotin metabolism - Actinomyces gaoshouyii
+path:actp00785	Lipoic acid metabolism - Actinomyces gaoshouyii
+path:actp00790	Folate biosynthesis - Actinomyces gaoshouyii
+path:actp00860	Porphyrin and chlorophyll metabolism - Actinomyces gaoshouyii
+path:actp00900	Terpenoid backbone biosynthesis - Actinomyces gaoshouyii
+path:actp00910	Nitrogen metabolism - Actinomyces gaoshouyii
+path:actp00920	Sulfur metabolism - Actinomyces gaoshouyii
+path:actp00970	Aminoacyl-tRNA biosynthesis - Actinomyces gaoshouyii
+path:actp01040	Biosynthesis of unsaturated fatty acids - Actinomyces gaoshouyii
+path:actp01100	Metabolic pathways - Actinomyces gaoshouyii
+path:actp01110	Biosynthesis of secondary metabolites - Actinomyces gaoshouyii
+path:actp01120	Microbial metabolism in diverse environments - Actinomyces gaoshouyii
+path:actp01130	Biosynthesis of antibiotics - Actinomyces gaoshouyii
+path:actp01200	Carbon metabolism - Actinomyces gaoshouyii
+path:actp01210	2-Oxocarboxylic acid metabolism - Actinomyces gaoshouyii
+path:actp01212	Fatty acid metabolism - Actinomyces gaoshouyii
+path:actp01230	Biosynthesis of amino acids - Actinomyces gaoshouyii
+path:actp01501	beta-Lactam resistance - Actinomyces gaoshouyii
+path:actp01502	Vancomycin resistance - Actinomyces gaoshouyii
+path:actp02010	ABC transporters - Actinomyces gaoshouyii
+path:actp02020	Two-component system - Actinomyces gaoshouyii
+path:actp02024	Quorum sensing - Actinomyces gaoshouyii
+path:actp02030	Bacterial chemotaxis - Actinomyces gaoshouyii
+path:actp02060	Phosphotransferase system (PTS) - Actinomyces gaoshouyii
+path:actp03010	Ribosome - Actinomyces gaoshouyii
+path:actp03018	RNA degradation - Actinomyces gaoshouyii
+path:actp03020	RNA polymerase - Actinomyces gaoshouyii
+path:actp03030	DNA replication - Actinomyces gaoshouyii
+path:actp03060	Protein export - Actinomyces gaoshouyii
+path:actp03070	Bacterial secretion system - Actinomyces gaoshouyii
+path:actp03410	Base excision repair - Actinomyces gaoshouyii
+path:actp03420	Nucleotide excision repair - Actinomyces gaoshouyii
+path:actp03430	Mismatch repair - Actinomyces gaoshouyii
+path:actp03440	Homologous recombination - Actinomyces gaoshouyii
+path:actp04122	Sulfur relay system - Actinomyces gaoshouyii
